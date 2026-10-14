@@ -10,7 +10,7 @@
 1. "indirect restorations list|inlay|onlay|veneer|crown" → study-material `SubModule_5.1` (Sikri 2017; Ricketts and Bartlett 2011) [SRC, second-hand]; Nejat (2025) [SRC].
 2. "preparation principles|taper|wall height|depth|finish line|working cusp" → study-material `SubModule_5.3` (Sikri 2017 pp.120-146; Marzouk pp.313-314) [SRC, second-hand]; Nejat (2025) Table 1 [SRC].
 3. "impression" → study-material `SubModule_8.3` is cross-referenced; not opened.
-Textbooks not opened.
+4. **2026-10-14 textbook audit** — Sturdevant's (STURD) opened directly, confirming and detailing the ceramic onlay's no-ferrule, butt-joint design rationale (full findings `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
@@ -28,6 +28,8 @@ Indication (loss of more than half of tooth structure, wide proximal area, cusp 
 - **Occlusal reduction** uniform and following cusp inclines; manufacturer minimum thickness 1.0 mm (lithium disilicate) to 1.5 mm (feldspathic, leucite, ZLS); inlay/onlay 1.0-1.5 mm depth (Nejat, 2025; Sikri, 2017, via digest). Working cusps are reduced more than non-working cusps for metal onlays (1.0-1.5 vs 0.5-1.0 mm) (Sikri, 2017, via digest); ceramic needs at least the manufacturer minimum.
 - **Cuspal coverage** when a cusp is undermined or has less than adequate dentin support [Likely].
 - **Margins:** butt-joint, no bevel on enamel, finish line in sound tooth, avoiding the occluso-buccal line angle of mandibular teeth and occluso-palatal of maxillary teeth where cusp coverage is indicated (Sikri, 2017, via digest). Rounded line angles (stress concentration; laboratory fabrication). Margin placement relative to gingiva: supragingival where possible (Sikri, 2017, via digest).
+
+**Design rationale, confirmed directly from STURD this session**: a ceramic onlay/CAD-CAM preparation **explicitly rejects a ferrule or mechanical-retention design** of the kind used for a cast-metal onlay. A ferrule can cause under-milling of parallel walls in the mill and interferes with full seating of the restoration. STURD gives a **butt-joint margin** as the preferred design, with an optional **45° "football diamond" modified butt-joint** where a smoother esthetic blend into the margin is wanted. Retention for a ceramic onlay therefore comes from **adhesive bonding**, not from mechanical features cut into the walls — a genuine mechanistic difference from a metal onlay that should be stated explicitly, not assumed by analogy [SRC, STURD].
 - **Deep caries or missing walls:** build-up (adhesive base/composite) to remove undercuts and create a favourable shape [Likely].
 
 ### Impression procedures
@@ -54,7 +56,7 @@ Indications: more than half of crown lost; wide proximal box; weakened cusps; ro
 2. Axial walls convergent about 10° (resin-luted), height at least 3 mm.
 3. Remove undercuts and old restorations; adhesive build-up if needed.
 4. Uniform occlusal reduction 1.0-1.5 mm, following cuspal anatomy; functional cusp covered when weak.
-5. Butt-joint, no bevel; margins in sound enamel, supragingival if possible; avoid heavy occlusal contacts at the margin.
+5. Butt-joint margin (STURD: NOT a ferrule/mechanical-retention design as used for metal onlays — ferrule risks under-milling and seating interference; optional 45° "football diamond" modified butt-joint for esthetic blending), no bevel; margins in sound enamel, supragingival if possible; avoid heavy occlusal contacts at the margin; retention is adhesive, not mechanical.
 6. Rounded internal and external line angles.
 7. Proximal boxes with open, smooth walls; contacts.
 8. Check clearance in centric and excursions; finish.
@@ -78,6 +80,7 @@ Ceramic onlays need a simple, well-finished, single-path preparation with adequa
 ## HIGH-YIELD POINTS
 - Taper about 10° for resin-luted indirect; wall height 3 mm (molar 4 mm).
 - No bevel on ceramic margins.
+- Ceramic onlay explicitly rejects a ferrule/mechanical-retention design (STURD) — butt-joint margin instead, optional 45° "football diamond" modified butt-joint; retention is adhesive.
 - Thickness 1.0-1.5 mm.
 - Non-eugenol provisional cement.
 
@@ -97,8 +100,12 @@ Ceramic onlays need a simple, well-finished, single-path preparation with adequa
 **[SRC]**
 - Nejat AH. Dent Clin North Am. 2025;69:155-171; Moshaverinia A. 2020;64:621-631.
 - Study-material digests `SubModule_5.1`, `5.3` (Sikri 2017; Ricketts and Bartlett 2011; Marzouk).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed. (no-ferrule/butt-joint design rationale; read directly this session).
 
 ## TEXTBOOK AUDIT PENDING (for Niranjan)
 - Ceramic onlay preparation specifics (cusp reduction depth; isthmus width; box design) from Hilton et al (2013) Ch.18 (Fasbinder et al.): not available in this session.
 - Treatment-planning criteria "more than half of tooth structure lost" (Sikri 2017 p.176).
 - Impression and provisional details need Sikri (2017) pp.618-620 and the Impression Materials topic.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Sturdevant's opened directly (`ceramics/_AUDIT_2026-10-14.md`). Added the explicit design rationale that a ceramic onlay/CAD-CAM preparation rejects a ferrule or mechanical-retention design (risk of under-milling and seating interference), with a butt-joint margin — optionally a 45° "football diamond" modified butt-joint — as the textbook-correct alternative, and the point that retention is adhesive rather than mechanical. This corrects any implicit assumption that ceramic onlay prep follows metal-onlay mechanical-retention logic.

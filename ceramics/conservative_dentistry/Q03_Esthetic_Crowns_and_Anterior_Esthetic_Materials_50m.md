@@ -9,7 +9,7 @@
 ## RETRIEVAL REPORT
 1. "crown|monolithic|masking|thickness|survival" → Nejat (2025); Bacchi and Cesar (2022); Moshaverinia (2020); Zhang and Kelly (2017); Guess et al (2011) [SRC].
 2. "composite stratification|opacity ranges|texture|stump effect|gold veneer" → study-material `SubModule_6.2` (Goldstein et al 2018; Torres 2020), `SubModule_5.1` (Ricketts and Bartlett 2011; Sikri 2017) [SRC, second-hand].
-Textbooks not opened.
+3. **2026-10-14 textbook audit** — Sturdevant's (STURD) opened directly for tetracycline-staining masking thresholds and the mandibular-anterior-veneer caution; McLean & Hughes' original 1965 aluminous-porcelain figures cross-checked (full textbook list in `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
@@ -37,6 +37,10 @@ An esthetic crown must match colour, translucency and form while resisting occlu
 
 ### Part C: optical management
 Stump effect: feldspathic highest, lithium disilicate medium-low, zirconia least (Goldstein et al, 2018, via digest). Monolithic ceramics cannot mask severe discolouration without opaque luting agent or opaque flowable composite (Bacchi and Cesar, 2022). Thickness ratio of core and veneer affects colour (Moshaverinia, 2020). Characterise internally first; surface stain last (Goldstein et al, 2018, via digest).
+
+**Tetracycline-stained teeth — a numeric masking threshold (STURD):** Sturdevant's gives a specific, examinable figure for how much opaque porcelain a masking restoration needs — about **5-15% opaque porcelain** is sufficient to mask typical tetracycline staining; **beyond about 15% opaque content, the restoration starts to look flat and "dead," i.e. esthetic vitality is lost** even though masking itself succeeds. This is the same numeric threshold that governs the veneer-vs-crown decision for severely discoloured anterior teeth (Q4/Q5): once the opaque fraction needed to mask the stain would exceed this threshold, a full crown (with a more opaque core) is often the better esthetic compromise than pushing a veneer to its masking limit [SRC, STURD].
+
+**Mandibular anterior teeth — an explicit caution, not just "less common" (STURD):** Sturdevant's flags mandibular anterior veneers as **rarely indicated**: these teeth have a thin faciolingual/facioincisal dimension leaving little room for both reduction and ceramic thickness, they are more exposed to occlusal attrition and edge-to-edge/Class III contact, and the porcelain surface can itself abrade the opposing (usually maxillary) enamel. A full crown is frequently the more durable option in this location [SRC, STURD].
 
 ### Part D: anterior aesthetic restorative materials (advances)
 **Composites.** Two system types: few-shade systems versus systems with a full range of opacities (dentin, enamel, incisal/translucent, plus tints and opaquers) enabling natural stratification; depth of colour built dark-to-light (Goldstein et al, 2018, via digest). Torres (2020, via digest) describes a four-layer sequence: opaque halo, dentin mamelons, translucent opalescent incisal layer, enamel shade; palatal silicone index for reproducible lingual wall; finishing and polishing control texture and thereby value and translucency. Nanocluster fillers (Lava Ultimate class) give polish retention (Zhang and Kelly, 2017).
@@ -72,6 +76,9 @@ Esthetic crowns and anterior restorations must reproduce the optical properties 
 
 ### B. Selection
 Position, substrate, load, design, bonding. More than 50% enamel and no discolouration: feldspathic. Less than 50% enamel or discolouration: lithium disilicate. Posterior or bruxism: zirconia or thick bonded lithium disilicate. Severe discolouration or metal post: veneered zirconia, or opaque cement/composite layering.
+
+### B1. Masking limits and site-specific caution
+Tetracycline-stained teeth need only about 5-15% opaque porcelain for adequate masking; beyond ~15% opaque content the restoration looks flat and esthetic vitality is lost — at that point a full crown with a more opaque core is usually the better compromise than an over-opacified veneer (STURD). Mandibular anterior veneers are rarely indicated: thin facioincisal tooth structure, occlusal-attrition exposure, and porcelain's tendency to wear opposing enamel all favour a crown instead (STURD).
 
 ### C. Recent advances in crown ceramics
 - Translucent and graded zirconia (3Y → 4Y → 5Y; graded discs).
@@ -119,9 +126,13 @@ No single esthetic material is best. Bonded glass-ceramic is the default for tra
 **[SRC]**
 - Nejat AH. 2025;69:155-171; Bacchi A, Cesar PF. 2022;66:591-602; Moshaverinia A. 2020;64:621-631; Zhang Y, Kelly JR. 2017;61:797-819; Guess PC et al. 2011;55:333-352; Blatz MB et al. 2022;66:603-625 (all Dent Clin North Am).
 - Study-material digests `SubModule_6.2` (Goldstein et al 2018; Torres 2020), `SubModule_5.1` (Ricketts and Bartlett 2011; Sikri 2017).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed. (tetracycline masking threshold; mandibular-anterior-veneer caution).
 
 ## TEXTBOOK AUDIT PENDING (for Niranjan)
 - Goldstein (2018) Ch.8, 9, 14 for stump effect and composite stratification (p.193, 196-197, 377-378).
 - Torres (2020) Ch.14-15 for the four-layer sequence and silicone index (pp.534-538, 586-588).
 - Summitt Ch.17-18 (Hilton et al, 2013) for esthetic crown preparation and ceramic selection.
 - Modern composite advances (bulk-fill, nanohybrid, flowable) were not available in the sources read; this answer covers composites only as far as the study material allows. Add from Craig's 14th ed. composite chapter and the Composites topic.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Sturdevant's was opened directly (`ceramics/_AUDIT_2026-10-14.md`). Added: the 5-15% opaque-porcelain masking threshold for tetracycline staining with the "beyond 15%, esthetic vitality is lost" caveat (directly relevant to the crown-vs-veneer decision in severe discolouration), and the explicit caution against mandibular anterior veneers (thin tooth structure, attrition exposure, antagonist-enamel wear). Composite stratification, smile-design proportions and crown-ceramic classification were not touched by this pass (outside this session's textbook list) and remain as in the original draft, still flagged under TEXTBOOK AUDIT PENDING above.

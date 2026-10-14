@@ -8,7 +8,7 @@
 
 ## RETRIEVAL REPORT
 1. "repair|HF|silane|sandblast|zirconia|metal-ceramic" → study-material `SubModule_3.1` (Sakaguchi et al 2019 p.229, p.241; McCabe and Walls 2008 p.197) [SRC, second-hand]; Blatz et al (2022); Nejat (2025); Bacchi and Cesar (2022) [SRC].
-Textbooks not opened.
+2. **2026-10-14 textbook audit** — Sikri (SIKRI) and Sturdevant's (STURD) opened directly; both give matching, substrate-specific repair protocols with safety caveats (full findings `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
@@ -20,12 +20,15 @@ Veneer fractures are the main complication of bonded feldspathic veneers (Nejat,
 ### Principles
 Repair bonds resin to two substrates: ceramic and tooth/older composite. Treat each substrate according to its type (Sakaguchi et al, 2019, via digest).
 
-### Protocol for silica-based ceramic (feldspathic, lithium disilicate)
-1. Isolate with rubber dam (HF is caustic to soft tissue) (Sakaguchi et al, 2019, via digest).
-2. Sandblast the fractured ceramic with alumina.
-3. Etch with hydrofluoric acid gel (intraoral HF: rubber dam essential); rinse and dry.
-4. Apply silane; then adhesive.
-5. Place composite in increments; finish and polish.
+### Two matching, substrate-specific protocols (SIKRI and STURD agree)
+**Direct composite veneer:** roughen/micro-etch the composite surface → etch → bond → add composite in increments → finish and polish (SIKRI; STURD).
+
+**Porcelain veneer — a stricter, more specific protocol than a generic "sandblast + HF":**
+1. Isolate with rubber dam — essential, since HF is caustic to soft tissue (Sakaguchi et al, 2019; SIKRI; STURD).
+2. Condition the fractured porcelain by **either** (a) only **~10% buffered HF gel**, applied strictly under rubber dam — **never full-strength HF intraorally** — **or** (b) mechanical sandblast/micro-abrasion as the safer alternative to HF (SIKRI; STURD).
+3. Apply silane, then adhesive.
+4. Place composite in increments; finish and polish.
+5. **Large fractures are not repaired this way — they require full veneer replacement**, not an attempted intraoral repair (SIKRI; STURD).
 Where metal substructure is exposed: sandblast (alumina or silicic-acid-modified alumina), silane and adhesive, then opaque composite (Sakaguchi et al, 2019, via digest). Intraoral sandblasting can also deposit silica tribochemically followed by silanisation (McCabe and Walls, 2008, via digest).
 
 ### Zirconia
@@ -45,24 +48,22 @@ Veneer failure is most commonly fracture or chipping. Repair is possible and con
 ### Causes
 Occlusal overload or parafunction, trauma, inadequate thickness, unsupported margin, debonding.
 
-### Repair protocol (ceramic fracture)
-1. Isolate (rubber dam; HF is caustic).
-2. Roughen with alumina sandblasting.
-3. Etch with hydrofluoric acid (glass-ceramics).
-4. Silane coupling agent.
-5. Bonding agent.
-6. Composite resin placed in layers; finish and polish.
+### Repair protocol by substrate (SIKRI/STURD matching protocols)
+**Direct composite veneer:** roughen/micro-etch → etch → bond → composite in layers → finish/polish.
+**Porcelain veneer:** isolate with rubber dam (HF caustic) → EITHER ~10% buffered HF gel under rubber dam only (never full-strength intraoral HF) OR sandblast/micro-abrasion → silane → bonding agent → composite resin in layers → finish and polish. Large fractures are NOT repaired this way — replace the veneer instead.
 
 ### Special situations
 | Substrate | Treatment |
 |---|---|
-| Glass-ceramic | HF + silane |
+| Direct composite veneer | Micro-etch, etch, bond, composite |
+| Porcelain veneer (small defect) | ~10% buffered HF gel (rubber dam) OR sandblast, then silane + composite |
+| Porcelain veneer (large fracture) | Replace, do not repair |
 | Zirconia | Air abrasion + MDP primer (no HF) |
 | Exposed metal | Alumina blast + silane/primer + opaque composite |
 | Tooth dentin | Etch-and-rinse adhesive |
 
 ### Prognosis and prevention
-Repairs are intermediate; failed repairs need replacement; adjust occlusion and provide a night guard for parafunction.
+Repairs are intermediate; failed repairs, or fractures too large for repair, need replacement; adjust occlusion and provide a night guard for parafunction.
 
 ### Conclusion
 Small veneer fractures can be repaired with substrate-specific conditioning and composite; extensive failure needs replacement.
@@ -70,8 +71,9 @@ Small veneer fractures can be repaired with substrate-specific conditioning and 
 ---
 
 ## HIGH-YIELD POINTS
-- Rubber dam when using HF.
-- Glass-ceramic: HF + silane; zirconia: air abrasion + MDP.
+- Rubber dam when using HF; only ~10% buffered HF gel for porcelain veneer repair, never full-strength HF intraorally (SIKRI/STURD).
+- Glass-ceramic: HF (or sandblast alternative) + silane; zirconia: air abrasion + MDP.
+- Large fractures: replace, do not attempt repair (SIKRI/STURD).
 - Exposed metal: sandblast + primer + opaque composite.
 
 ## DIAGRAMS TO DRAW
@@ -89,7 +91,12 @@ Small veneer fractures can be repaired with substrate-specific conditioning and 
 **[SRC]**
 - Blatz MB et al. Dent Clin North Am. 2022;66:603-625; Nejat AH. 2025;69:155-171; Bacchi A, Cesar PF. 2022;66:591-602.
 - Study-material digest `SubModule_3.1` (Sakaguchi et al 2019; McCabe and Walls 2008).
+- Sikri VK. *Indirect Restorations in Dental Practice*. 2nd ed. (repair protocol; read directly this session).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed. (matching repair protocol and safety caveats; read directly this session).
 
 ## TEXTBOOK AUDIT PENDING (for Niranjan)
 - Craig's 14th ed. pp.229, 241 (ceramic repair, HF safety); McCabe and Walls (2008) p.197 (silicoating).
-- Repair success rates and the choice between repair and replacement: no data in the sources read; add from Summitt's veneer or repair chapter.
+- Repair success rates (quantitative): no data in the sources read; add from a clinical-outcomes source if available.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Sikri and Sturdevant's opened directly (`ceramics/_AUDIT_2026-10-14.md`), both giving matching protocols. Added: the two distinct substrate-specific repair protocols (direct composite vs porcelain) with the ~10% buffered-HF-gel-under-rubber-dam caveat (never full-strength intraoral HF) and the explicit rule that large fractures require replacement, not repair — this sharpens the previous generic "sandblast and HF" single-protocol description.

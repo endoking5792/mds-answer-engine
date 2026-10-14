@@ -8,6 +8,7 @@
 
 ## RETRIEVAL REPORT
 1. "inlay|onlay|crown|posterior|material|survival|indications" → study-material `SubModule_5.1`, `5.2`, `5.3` (Sikri 2017; Ricketts and Bartlett 2011; Sakaguchi et al 2019; Hilton et al 2013) [SRC, second-hand]; Moshaverinia (2020); Nejat (2025); Guess et al (2011); Zhang and Kelly (2017) [SRC].
+2. **2026-10-14 textbook audit** — Sikri (SIKRI) and Sturdevant's (STURD) opened directly for the ceramic onlay's no-ferrule, adhesive-retention cavity design (full findings `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
@@ -34,6 +35,8 @@ Posterior: stronger ceramics such as zirconia or bonded lithium disilicate; feld
 
 ### Preparation
 Single path of insertion; taper 10-20° posterior (about 10° for resin-luted); wall height 3 mm (molar 4 mm); no undercuts; rounded angles; ceramic thickness 1.0-1.5 mm (Sikri, 2017, via digest; Nejat, 2025).
+
+**Ceramic onlay cavity design, confirmed directly from STURD/SIKRI this session — a genuine mechanistic difference from a metal onlay**: a ceramic onlay/CAD-CAM preparation **explicitly rejects a ferrule or mechanical-retention design**. A ferrule can cause under-milling of parallel walls (the mill cannot cleanly reproduce the feature) and interferes with full seating; a **butt-joint margin** is preferred instead (optionally a 45° "football diamond" modified butt-joint for a smoother esthetic blend). The walls are cut **divergent and minimally retentive**, because retention is not expected to come from wall geometry at all — it comes from **adhesive bonding** to the tooth. This is the key point an exam answer should state explicitly rather than assuming ceramic onlay prep follows the same retention logic as a cast-metal onlay [SRC, STURD/SIKRI].
 
 ### Cementation
 Resin cement for ceramic and composite; conventional or resin for zirconia and metal with good retention.
@@ -63,7 +66,7 @@ Extensive loss, wide proximal area, cusp protection, root-filled tooth, failed d
 High load: gold, zirconia, bonded lithium disilicate; esthetic: lithium disilicate; economy and repair: indirect composite; avoid feldspathic posteriorly.
 
 ### Preparation
-Single path, taper about 10° (10-20° posterior), walls at least 3 mm (4 mm molars), no undercuts, rounded angles, 1.0-1.5 mm thickness for ceramic.
+Single path, taper about 10° (10-20° posterior), walls at least 3 mm (4 mm molars), no undercuts, rounded angles, 1.0-1.5 mm thickness for ceramic. Ceramic onlay specifically: no ferrule/mechanical retention (STURD/SIKRI) — divergent, minimally-retentive walls with a butt-joint margin (optional 45° "football diamond" modification); retention is adhesive, not mechanical, unlike a cast-metal onlay.
 
 ### Cementation
 Adhesive resin cement for ceramic and composite.
@@ -83,6 +86,7 @@ Posterior indirect restorations give durable, accurate restoration of large lesi
 - Onlay = cusp protection.
 - Feldspathic contraindicated posteriorly.
 - Wall height 3 mm (molar 4 mm).
+- Ceramic onlay rejects ferrule/mechanical retention (STURD/SIKRI): butt-joint margin, divergent minimally-retentive walls, adhesive bonding provides retention.
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: inlay vs onlay vs crown outlines on a molar | 2 min]
@@ -98,7 +102,12 @@ Posterior indirect restorations give durable, accurate restoration of large lesi
 **[SRC]**
 - Moshaverinia A. 2020;64:621-631; Nejat AH. 2025;69:155-171; Guess PC et al. 2011;55:333-352; Zhang Y, Kelly JR. 2017;61:797-819 (Dent Clin North Am).
 - Study-material digests `SubModule_5.1`, `5.2`, `5.3`.
+- Sikri VK. *Indirect Restorations in Dental Practice*. 2nd ed. (ceramic onlay cavity design; read directly this session).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed. (no-ferrule/butt-joint rationale; read directly this session).
 
 ## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Sikri (2017) Ch. on posterior indirect restorations; Hilton et al (2013) Ch.18 (not available here).
+- Hilton et al (2013) Ch.18 (not available this session).
 - Gold inlay survival and preparation (bevel) data.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Sikri and Sturdevant's opened directly (`ceramics/_AUDIT_2026-10-14.md`). Added the explicit ceramic onlay cavity-design principle: no ferrule or mechanical-retention feature (risk of under-milling and seating interference), divergent and minimally-retentive walls, a butt-joint margin, and adhesive bonding as the actual retention mechanism — a genuine mechanistic contrast with cast-metal onlay design that the previous draft did not state explicitly.

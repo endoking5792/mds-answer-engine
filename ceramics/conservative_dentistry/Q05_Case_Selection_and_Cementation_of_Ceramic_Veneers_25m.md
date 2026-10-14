@@ -10,21 +10,23 @@
 1. "case selection|principles|enamel|crowding|masking" → study-material `SubModule_5.1` (Sikri 2017 pp.508-509) [SRC, second-hand]; Moshaverinia (2020) [SRC].
 2. "protocol|HF|silane|try-in|light-cure|self-adhesive" → Blatz et al (2022); Manso et al (2011) [SRC].
 3. "smile analysis" → study-material `SubModule_6.2` (Goldstein et al 2018) [SRC, second-hand].
-Textbooks not opened.
+4. **2026-10-14 textbook audit** — Sikri (SIKRI) and Sturdevant's (STURD) opened directly for the full cementation sequence, silane's role, and case-selection cautions (full findings `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
 ## STUDY MODE
 
-### Case selection (Sikri, 2017, via digest)
+### Case selection (SIKRI; STURD)
 Five principles: (1) bond to enamel substrate; (2) old restorations removed, minor defects built up; (3) avoid heavy occlusal load; (4) limited ability to mask deep or intense discolouration; (5) avoid veneers in crowding. Mandibular anteriors usually need crowns.
 Additional selection logic (Moshaverinia, 2020): more than 50% enamel and no discolouration favours feldspathic ceramic; discolouration or less enamel favours lithium disilicate; biomechanical risk (bruxism) alters material choice.
+
+**Quantified directly from STURD this session**: mandibular anterior teeth are **rarely indicated** for veneers — thin facioincisal dimension, occlusal-attrition exposure, porcelain wears opposing enamel. Masking has a specific numeric threshold: **5-15% opaque porcelain masks tetracycline staining adequately; beyond ~15% the restoration looks flat and esthetic vitality is lost**, at which point a full crown (more opaque core) is the better compromise [SRC, STURD].
 
 ### Treatment planning
 Diagnosis (cause of discolouration, enamel quantity, caries, periodontal health, occlusion and parafunction, lip dynamics, patient expectations); smile design using facial and dental proportions (Goldstein et al, 2018, via digest); wax-up and mock-up [Likely]; bleaching first where discolouration is bleachable [Likely]; orthodontic correction of crowding [Likely, consistent with Sikri]; shade and material selection; provisional phase; occlusal protection (night guard) for parafunction [Likely].
 
-### Cementation protocols (Blatz et al, 2022; Manso et al, 2011)
-Silica-based ceramic: HF concentration/time by ceramic, ultrasonic alcohol clean, 20 s silane; consider silanating before try-in, then cleaning ultrasonically after try-in, as the etched surface is hydrophilic and contaminates easily (Manso et al, 2011). Tooth: 35% phosphoric acid (total-etch), adhesive. Luting: light-cure composite for veneers (extended working time, colour stability, easy excess removal); dual-cure when thicker or light access limited; self-adhesive cements have lower enamel bond strength and limited shades. Remove excess before light-curing for 20 s per side; oxygen-blocking gel before final cure (Alani and Patel, 2025, via digest).
+### Cementation protocols (Blatz et al, 2022; Manso et al, 2011; SIKRI; STURD)
+Silica-based ceramic: HF concentration/time by ceramic, ultrasonic alcohol clean, 20 s silane; consider silanating before try-in, then cleaning ultrasonically after try-in, as the etched surface is hydrophilic and contaminates easily (Manso et al, 2011). **Silane's role, clarified directly from STURD**: it mainly reduces marginal leakage rather than providing primary retention — retention comes principally from the HF-etch micromechanical pattern plus resin interlock. Tooth: 35% phosphoric acid (total-etch), adhesive. Luting: **STURD specifically recommends light-cure, not dual-cure, resin cement for veneers** — corroborating Manso/Blatz above — for extended working time, colour stability and easy excess removal; dual-cure when thicker or light access limited; self-adhesive cements have lower enamel bond strength and limited shades. Remove excess before light-curing for 20 s per side; oxygen-blocking gel before final cure (Alani and Patel, 2025, via digest).
 
 ---
 
@@ -41,10 +43,10 @@ Ceramic veneers are conservative esthetic restorations whose success depends on 
 | Discolouration | Mild/moderate or bleachable | Deep, intense (tetracycline, metal) |
 | Occlusion | Normal; no parafunction | Bruxism, edge-to-edge, deep bite |
 | Alignment | Spacing, minor malposition | Crowding, rotations |
-| Tooth | Maxillary anteriors | Mandibular anteriors |
+| Tooth | Maxillary anteriors | Mandibular anteriors (STURD: rarely indicated) |
 | Hygiene | Good | Poor; active caries or periodontitis |
 
-Principles: bond to enamel; remove old restorations; avoid heavy loads; know masking limits; avoid in crowding.
+Principles: bond to enamel; remove old restorations; avoid heavy loads; know masking limits (STURD: 5-15% opaque porcelain masks tetracycline staining; beyond ~15% esthetic vitality is lost); avoid in crowding.
 
 ### B. Treatment planning
 1. Diagnosis: aetiology of defect, enamel quantity, periodontal and occlusal status.
@@ -67,7 +69,7 @@ Principles: bond to enamel; remove old restorations; avoid heavy loads; know mas
 | 7 | Light-cure resin luting agent on veneer; seat |
 | 8 | Remove excess before curing; light-cure 20 s per surface; oxygen block |
 | 9 | Finish and polish margins; check occlusion |
-Cement choice: light-cure (colour stability); dual-cure for thick or light-blocked restorations; avoid self-adhesive for veneers.
+Cement choice: light-cure, specifically preferred over dual-cure for veneers (STURD) for colour stability; dual-cure for thick or light-blocked restorations; avoid self-adhesive for veneers. Silane's role: reduces leakage, is not the primary retention mechanism (STURD).
 
 ### D. Precautions
 Avoid HF contact with soft tissue; thin film; remove excess cement completely (gingival inflammation); avoid contamination after silane.
@@ -79,9 +81,10 @@ Careful case selection around enamel, occlusion and masking requirements, plus a
 
 ## HIGH-YIELD POINTS
 - Five Sikri principles.
-- Mandibular anteriors: crowns usually.
-- Light-cure cement for veneers; self-adhesive not preferred.
-- Silanate before try-in; clean after try-in.
+- Mandibular anteriors: rarely indicated (STURD) — crowns usually.
+- Tetracycline masking: 5-15% opaque porcelain; beyond ~15%, esthetic vitality lost (STURD).
+- Light-cure cement for veneers (STURD-preferred over dual-cure); self-adhesive not preferred.
+- Silanate before try-in; clean after try-in. Silane's role is leakage-reduction, not primary retention (STURD).
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: case-selection decision tree | enamel? load? crowding? discolouration? | 3 min]
@@ -99,6 +102,11 @@ Careful case selection around enamel, occlusion and masking requirements, plus a
 **[SRC]**
 - Blatz MB et al. Dent Clin North Am. 2022;66:603-625; Manso AP et al. 2011;55:311-332; Moshaverinia A. 2020;64:621-631.
 - Study-material digests `SubModule_5.1` (Sikri 2017), `SubModule_6.2` (Goldstein et al 2018), `SubModule_4.2` (Alani and Patel 2025).
+- Sikri VK. *Indirect Restorations in Dental Practice*. 2nd ed. (case-selection principles, cementation sequence; read directly this session).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed. (mandibular-anterior caution, tetracycline masking threshold, light-cure cement preference, silane's role; read directly this session).
 
 ## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Sikri (2017) pp.508-509 principles; Summitt Ch.17 case-selection and treatment-planning chapter (not available here); bleaching before veneers and night-guard recommendations come from standard practice, not the sources read.
+- Summitt Ch.17 case-selection and treatment-planning chapter (not available this session); bleaching before veneers and night-guard recommendations come from standard practice, not the sources read.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Sikri and Sturdevant's opened directly (`ceramics/_AUDIT_2026-10-14.md`). Added: the quantified mandibular-anterior caution and 5-15%/>15% tetracycline-masking threshold (STURD), the clarification that silane's cementation role is leakage-reduction rather than primary retention (STURD), and confirmation of light-cure (not dual-cure) as the specifically preferred cement for veneers (STURD, corroborating Manso/Blatz). Smile-design content (Goldstein, second-hand) was outside this session's textbook list and is unchanged.

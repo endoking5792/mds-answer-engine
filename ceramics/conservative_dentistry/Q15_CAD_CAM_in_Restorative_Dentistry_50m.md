@@ -8,7 +8,7 @@
 
 ## RETRIEVAL REPORT
 1. "CAD/CAM|copy milling|digitisation|CAD|CAM|blocks|presintered|sintering|precision|survival" → Nejat (2025); Bacchi and Cesar (2022); Zhang and Kelly (2017); Guess et al (2011); Blatz et al (2022) [SRC]; study-material `SubModule_5.2` §2.6 (Roberson et al 2006 pp.230-231) and `SubModule_2.2` (Bonsor and Pearson 2013) [SRC, second-hand].
-Textbooks not opened.
+2. **2026-10-14 textbook audit** — Craig's Ch.14 and Sturdevant's Ch.22 (CR/STURD) opened directly for named scanners/scan technologies, 3/4/5-axis milling distinctions, the digital-vs-elastomeric impression comparison table, the undercut-blocking design principle, history dates, lute-line width (McCabe), and the three Y-TZP CAD-CAM workflows (full findings `ceramics/_AUDIT_2026-10-14.md`) [SRC].
 
 ---
 
@@ -18,13 +18,24 @@ Textbooks not opened.
 CAD/CAM is the computer-aided design and computer-aided manufacture of restorations from a digital model. It aims at accuracy, standard industrial materials, fewer laboratory steps and, chairside, single-visit treatment (Roberson et al, 2006, via digest; Zhang and Kelly, 2017).
 
 ### History
-Copy milling (stylus tracing a replica; can machine titanium) preceded CAD/CAM milling, which digitises the preparation directly. Five stages: surface digitisation, CAD, CAM, computer-aided esthetics, computer-aided finishing, the last two least automated (Roberson et al, 2006, via digest). Systems in the sources: Cerec, Lava, Procera, Cercon, Etkon (Guess et al, 2011). Pressing and CAD/CAM both arrived in the 1980s (Zhang and Kelly, 2017).
+Copy milling (stylus tracing a replica; can machine titanium) preceded CAD/CAM milling, which digitises the preparation directly. Five stages: surface digitisation, CAD, CAM, computer-aided esthetics, computer-aided finishing, the last two least automated (Roberson et al, 2006, via digest). Systems in the sources: Cerec, Lava, Procera, Cercon, Etkon (Guess et al, 2011). Pressing and CAD/CAM both arrived in the 1980s (Zhang and Kelly, 2017). **Confirmed directly this session (CR/STURD): Duret first conceived the CAD/CAM idea for dentistry in 1973; Mörmann's CEREC system in 1985 was the first clinically-used chairside CAD/CAM system** — these two dates anchor the whole subsequent timeline and should be cited together, not just "1980s" [SRC, CR/STURD].
 
 ### System components
-1. **Data acquisition:** intraoral scanner or laboratory scan of impression or die.
+1. **Data acquisition:** intraoral scanner or laboratory scan of impression or die. **Named scanners and their scan technology, confirmed this session (CR/STURD)**: 3M True Definition, TRIOS, **iTero** (confocal microscopy), **CEREC AC Bluecam** (active wavefront/triangulation), **PlanScan** (laser triangulation) — a question asking for CAD/CAM "systems" should name the scan principle, not just the brand [SRC, CR/STURD].
 2. **Design software:** margin, contacts, occlusion, connectors, thickness; library or biogeneric tooth.
-3. **Manufacturing:** chairside mill (single-visit), laboratory mill or centralised milling centre, or additive printer.
+3. **Manufacturing:** chairside mill (single-visit), laboratory mill or centralised milling centre, or additive printer. **3/4/5-axis milling distinctions, previously missing (CR/STURD)**: a 3-axis mill moves the bur in X/Y/Z only, limiting it to simpler geometries and requiring more bur changes; a 4-axis mill adds a rotational axis allowing undercuts and more complex single-tooth restorations to be milled from one block orientation; a 5-axis mill adds a second rotational axis, enabling the most complex geometries (e.g. multi-unit frameworks, implant bars) to be milled in fewer steps with less waste [SRC, CR/STURD].
 4. **Post-processing:** crystallisation or sintering, staining, glazing, finishing.
+
+### Digital versus elastomeric impressions — comparison table (previously missing, CR/STURD)
+| Metric | Digital scan | Elastomeric impression |
+|---|---|---|
+| Contacts "perfect" | 62% | 46% |
+| Fit | 92% | 71% |
+| Occlusion | 74% | 48% |
+This table is one of the strongest, most citable pieces of evidence for digital impressions' clinical advantage and should be quoted with these exact percentages rather than a vague "digital is more accurate" statement [SRC, CR/STURD].
+
+### Design principle: block out undercuts physically, before scanning (previously missing, CR/STURD)
+A genuinely counter-intuitive but important design rule: undercuts in the preparation should be **physically blocked out with a dentin-substitute material BEFORE scanning**, not virtually blocked out afterwards in the design software. The reasoning: the mill (subtractive) or the printer (additive) cannot actually reproduce an undercut in the final restoration regardless of what the software shows, and if the undercut is only blocked "virtually" in software, the finished restoration will have a gap at that site that the cement then has to fill — a larger, less-controlled cement layer than intended. Physical block-out before scanning avoids this entirely [SRC, CR/STURD].
 
 ### Types of workflow
 Chairside (same-day inlays, onlays, veneers, crowns); laboratory (scanned model or impression, frameworks); centralised milling.
@@ -45,6 +56,10 @@ Range of strength among milled materials from 122 MPa to 1625 MPa (Roberson et a
 
 ### Zirconia processing (Bonsor and Pearson, 2013, via digest)
 Presintered ("green") blocks are easy to mill, then sinter with about 25% shrinkage compensated by software enlargement; HIP blocks are fully dense, hard to mill, less variable.
+
+**Three Y-TZP CAD-CAM workflows, confirmed directly this session (PHIL)**: (1) **green/compacted-state milling** — softest, fastest to mill, largest shrinkage to compensate (about 20-25%), most common workflow; (2) **partially-sintered-state milling** — intermediate hardness and shrinkage; (3) **fully-sintered/hard-state milling** — the block is already at final density, so there is no sintering shrinkage to compensate, but milling is slow and places more wear on burs since the material is already fully hard [SRC, PHIL].
+
+**Lute-line (cement-gap) width, previously missing, now added (MCC)**: the as-designed lute line is typically **60-150 µm**, but this can wear clinically to about half that depth, leaving a **~50 µm marginal defect** at the cement line — a specific, examinable figure for a question on CAD/CAM accuracy or marginal fit [SRC, MCC].
 
 ### Accuracy
 - Marginal and internal fit similar for lithium disilicate and zirconia crowns; PICN and lithium disilicate inlays under 100 μm internal gap.
@@ -77,18 +92,28 @@ Vat polymerisation (DLP, SLA) and 3D gel deposition for zirconia; issues: slurry
 CAD/CAM uses digital data to design and manufacture restorations. It has moved ceramic dentistry from manual layering to standardised, repeatable production.
 
 ### History
-Copy milling → CAD/CAM milling (1980s) → chairside systems (Cerec) → zirconia frameworks (Lava, Procera, Cercon) → printing.
+Copy milling → Duret's CAD/CAM concept (1973) → Mörmann/CEREC, first clinical chairside system (1985) → zirconia frameworks (Lava, Procera, Cercon) → printing.
 
 ### Components
 | Component | Function |
 |---|---|
-| Scanner | Digitises preparation (intraoral or laboratory) |
-| CAD software | Designs restoration: margin, contacts, occlusion |
-| CAM unit | Mills (subtractive) or prints (additive) |
+| Scanner | Digitises preparation (intraoral or laboratory). Named scanners/technology: 3M True Definition, TRIOS, iTero (confocal), CEREC AC Bluecam (active triangulation), PlanScan (laser triangulation) |
+| CAD software | Designs restoration: margin, contacts, occlusion, connectors |
+| CAM unit | Mills (3/4/5-axis, subtractive) or prints (additive) |
 | Furnace | Crystallises or sinters |
 
 ### Classification
-1. Chairside; 2. Laboratory; 3. Centralised milling; 4. Subtractive versus additive.
+1. Chairside; 2. Laboratory; 3. Centralised milling; 4. Subtractive (3/4/5-axis) versus additive.
+
+### Digital vs elastomeric impressions
+| Metric | Digital | Elastomeric |
+|---|---|---|
+| Contacts "perfect" | 62% | 46% |
+| Fit | 92% | 71% |
+| Occlusion | 74% | 48% |
+
+### Key design principle
+Block out undercuts physically with dentin substitute BEFORE scanning — never only virtually in software — since the mill/printer cannot reproduce an undercut and the cement would otherwise fill an uncontrolled gap.
 
 ### Materials
 Feldspathic, leucite, lithium disilicate, ZLS, zirconia, alumina, resin-matrix (PICN), composite blocks, PMMA (provisional), printed ceramics.
@@ -97,7 +122,7 @@ Feldspathic, leucite, lithium disilicate, ZLS, zirconia, alumina, resin-matrix (
 Prepare → scan (optical) → design → mill block → crystallise/glaze → try-in → bond (HF and silane; zirconia MDP) → finish.
 
 ### Properties
-Accuracy; internal gap under 100 μm; strength of blocks 122-1625 MPa; zirconia shrinks about 25% on sintering (compensated).
+Accuracy; internal gap under 100 μm; lute-line width 60-150µm, can wear to ~50µm clinically-relevant marginal defect (McCabe); strength of blocks 122-1625 MPa; three Y-TZP workflows — green/compacted (most common, largest shrinkage ~20-25%), partially-sintered, fully-sintered/hard-state (no shrinkage, slower milling, more bur wear) (Phillips).
 
 ### Applications
 Inlays, onlays, veneers, crowns, FDPs, implant abutments and frameworks, provisional restorations, dentures and surgical guides.
@@ -121,7 +146,13 @@ CAD/CAM has made precise, esthetic and fast restorations routine; correct materi
 
 ## HIGH-YIELD POINTS
 - Five stages: digitisation, CAD, CAM, esthetics, finishing.
-- Zirconia sinters with about 25% shrinkage.
+- History: Duret 1973 (concept), Mörmann/CEREC 1985 (first clinical system).
+- Named scanners: 3M True Definition, TRIOS, iTero (confocal), CEREC AC Bluecam (active triangulation), PlanScan (laser triangulation).
+- 3/4/5-axis milling: more axes = more complex geometry, fewer steps, less waste.
+- Digital vs elastomeric: contacts 62% vs 46%, fit 92% vs 71%, occlusion 74% vs 48%.
+- Block out undercuts physically before scanning, not virtually in software.
+- Zirconia sinters with about 25% shrinkage; three workflows — green/partially-sintered/fully-sintered hard-state.
+- Lute-line width 60-150µm, wears to ~50µm (McCabe).
 - Precrystallised lithium disilicate is milled at about 130 MPa and crystallised afterwards.
 - Printed zirconia: inconsistent strength; more porosity.
 
@@ -142,8 +173,10 @@ CAD/CAM has made precise, esthetic and fast restorations routine; correct materi
 **[SRC]**
 - Nejat AH. 2025;69:155-171; Bacchi A, Cesar PF. 2022;66:591-602; Zhang Y, Kelly JR. 2017;61:797-819; Guess PC et al. 2011;55:333-352; Blatz MB et al. 2022;66:603-625 (Dent Clin North Am).
 - Study-material digests `SubModule_5.2` (Roberson et al 2006), `SubModule_2.2` (Bonsor and Pearson 2013).
+- *Craig's Restorative Dental Materials*. Latest ed., Ch.14 (named scanners, 3/4/5-axis milling, digital-impression comparison table, undercut-blocking principle, Y-TZP workflows; read directly this session).
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed., Ch.22 (corroborating CAD/CAM chapter content, history dates; read directly this session).
+- McCabe JF, Walls AWG. *Applied Dental Materials*. 9th ed. (lute-line width; read directly this session).
+- Anusavice KJ, Shen C, Rawls HR, eds. *Phillips' Science of Dental Materials*. 12th ed. (three Y-TZP CAD-CAM workflows; read directly this session).
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Sturdevant's CAD/CAM chapter (the digest cites the 7th ed. pp.230-231; refs_meta lists the 5th ed.): confirm edition, machinable-material property table and five-stage list.
-- Summitt Ch.18 (Fasbinder et al) for chairside CAD/CAM workflow and indications; Sikri (2017) for the Cerec description.
-- Scanner and software details (intraoral scanners, biogeneric design) and cost data are not in the sources read.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Craig's Ch.14, Sturdevant's Ch.22, McCabe and Phillips opened directly (`ceramics/_AUDIT_2026-10-14.md`). Added: named scanners with their scan technology (3M True Definition, TRIOS, iTero-confocal, CEREC AC Bluecam-active triangulation, PlanScan-laser triangulation); explicit 3/4/5-axis milling distinctions; the digital-vs-elastomeric impression comparison table (contacts 62% vs 46%, fit 92% vs 71%, occlusion 74% vs 48%); the design principle that undercuts must be physically blocked out with dentin substitute before scanning, not virtually in software; confirmed history dates (Duret 1973, Mörmann/CEREC 1985); lute-line width (60-150µm, wearing to ~50µm, McCabe); and the three Y-TZP CAD-CAM workflows (green/compacted, partially-sintered, fully-sintered hard-state, Phillips).
