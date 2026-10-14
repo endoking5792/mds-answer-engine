@@ -1,0 +1,202 @@
+{
+ "Frencken2021": {
+  "cite": "Frencken et al., 2021, Br Dent J",
+  "type": "systematic review with meta-analyses of RCTs (abstract opened)",
+  "url": "https://doi.org/10.1038/s41415-021-2701-0 (PMID 33883705)"
+ },
+ "Ruengrungsom2018": {
+  "cite": "Ruengrungsom et al., 2018, J Dent",
+  "type": "systematic review (67 articles, ROBINS-I) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2018.07.008 (PMID 30017937)"
+ },
+ "Panetta2024": {
+  "cite": "Panetta et al., 2024, J Funct Biomater",
+  "type": "umbrella review of 13 systematic reviews (abstract opened)",
+  "url": "https://doi.org/10.3390/jfb15020048 (PMID 38391901)"
+ },
+ "ArbildoVega2025": {
+  "cite": "Arbildo-Vega et al., 2025, J Clin Exp Dent",
+  "type": "systematic review and meta-analysis of RCTs (GIC vs composite, NCCL) (abstract opened)",
+  "url": "https://doi.org/10.4317/jced.62997 (PMID 40950519)"
+ },
+ "ChapleGil2026": {
+  "cite": "Chaple Gil et al., 2026, J Funct Biomater",
+  "type": "systematic review with network meta-analysis of 74 RCTs (abstract opened)",
+  "url": "https://doi.org/10.3390/jfb17040160 (PMID 42042267)"
+ },
+ "Fernandez2025": {
+  "cite": "Fernandez et al., 2025, J Esthet Restor Dent",
+  "type": "umbrella review of 16 systematic reviews (abstract opened)",
+  "url": "https://doi.org/10.1111/jerd.70052 (PMID 41159592)"
+ },
+ "Justen2024": {
+  "cite": "Justen et al., 2024, Dent Mater",
+  "type": "systematic review with network meta-analysis of in-vitro studies (abstract opened)",
+  "url": "https://doi.org/10.1016/j.dental.2024.06.014 (PMID 38880724)"
+ },
+ "Dobrzynski2025": {
+  "cite": "Dobrzynski et al., 2025, Materials (Basel)",
+  "type": "systematic review, mostly laboratory studies, sealants (abstract opened)",
+  "url": "https://doi.org/10.3390/ma18235350 (PMID 41374193)"
+ },
+ "Ge2023": {
+  "cite": "Ge et al., 2023, Dent Mater",
+  "type": "systematic review and meta-analysis of RCTs (64 studies) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.dental.2023.10.008 (PMID 37838608)"
+ },
+ "Zailai2026": {
+  "cite": "Zailai et al., 2026, Cureus",
+  "type": "systematic review and meta-analysis of 40 RCTs (abstract opened)",
+  "url": "https://doi.org/10.7759/cureus.102221 (PMID 41585617)"
+ },
+ "Klimas2025": {
+  "cite": "Klimas et al., 2025, Materials (Basel)",
+  "type": "systematic review of 23 in-vitro studies (abstract opened)",
+  "url": "https://doi.org/10.3390/ma18133187 (PMID 40649675)"
+ },
+ "Laporte2026": {
+  "cite": "Laporte et al., 2026, J Funct Biomater",
+  "type": "systematic review and meta-analysis of clinical studies (alkasite) (abstract opened)",
+  "url": "https://doi.org/10.3390/jfb17020093 (PMID 41745556)"
+ },
+ "Bonchev2025": {
+  "cite": "Bonchev et al., 2025, J Dent",
+  "type": "narrative review (alkasite) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2025.105916 (PMID 40541917)"
+ },
+ "PadillaOcampo2025": {
+  "cite": "Padilla-Ocampo et al., 2025, Cureus",
+  "type": "quasi-experimental pilot, 16 children (abstract opened)",
+  "url": "https://doi.org/10.7759/cureus.83784 (PMID 40491641)"
+ },
+ "Popa2026": {
+  "cite": "Popa et al., 2026, J Clin Med",
+  "type": "systematic review (3 RCTs) of ACTIVA BioACTIVE (abstract opened)",
+  "url": "https://doi.org/10.3390/jcm15010373 (PMID 41517620)"
+ },
+ "Raghip2025": {
+  "cite": "Raghip et al., 2025, J Dent",
+  "type": "split-mouth RCT, 22 patients, 24 months (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2025.105912 (PMID 40518039)"
+ },
+ "Bhavana2024": {
+  "cite": "Bhavana et al., 2024, Int J Clin Pediatr Dent",
+  "type": "split-mouth RCT, 31 children, 12 months (abstract opened)",
+  "url": "https://doi.org/10.5005/jp-journals-10005-2963 (PMID 39650299)"
+ },
+ "AlHasan2022": {
+  "cite": "Al-Hasan et al., 2022, Oper Dent",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.2341/21-048-L (PMID 35917246)"
+ },
+ "Danelon2025": {
+  "cite": "Danelon et al., 2025, J Dent",
+  "type": "systematic review and meta-analysis (metallic agents in GIC) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2025.105892 (PMID 40490048)"
+ },
+ "Guo2024": {
+  "cite": "Guo et al., 2024, J Dent",
+  "type": "literature review (nanosilver-modified GIC) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2024.105288 (PMID 39103074)"
+ },
+ "Zhang2025": {
+  "cite": "Zhang et al., 2025, J Dent",
+  "type": "scoping review (hydroxyapatite-modified GIC) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.jdent.2025.106149 (PMID 41052633)"
+ },
+ "Dobrzynski2026": {
+  "cite": "Dobrzynski et al., 2026, Materials",
+  "type": "systematic review of in-vitro studies (orthodontic GIC additives) (abstract opened)",
+  "url": "https://doi.org/10.3390/ma19163393 (PMID 42654547)"
+ },
+ "dePaula2019": {
+  "cite": "de Paula et al., 2019, J Adhes Dent",
+  "type": "systematic review and meta-analysis of RCTs (sandwich technique, NCCL) (abstract opened)",
+  "url": "https://doi.org/10.3290/j.jad.a43696 (PMID 31802065)"
+ },
+ "Ismail2025": {
+  "cite": "Ismail et al., 2025, Restor Dent Endod",
+  "type": "systematic review and meta-analysis of laboratory studies (abstract opened)",
+  "url": "https://doi.org/10.5395/rde.2025.50.e13 (PMID 40234007)"
+ },
+ "Manihani2021": {
+  "cite": "Manihani et al., 2021, Dent Res J (Isfahan)",
+  "type": "systematic review of in-vitro studies (abstract opened)",
+  "url": "https://doi.org/10.4103/1735-3327.326645 (PMID 34760063)"
+ },
+ "Agha2021": {
+  "cite": "Agha et al., 2021, Dent Mater",
+  "type": "in-vitro study (HEMA release, cytotoxicity) (abstract opened)",
+  "url": "https://doi.org/10.1016/j.dental.2021.08.003 (PMID 34462139)"
+ },
+ "Potiprapanpong2023": {
+  "cite": "Potiprapanpong et al., 2023, Int J Mol Sci",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.3390/ijms241210231 (PMID 37373383)"
+ },
+ "Potiprapanpong2021": {
+  "cite": "Potiprapanpong et al., 2021, Polymers (Basel)",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.3390/polym13162742 (PMID 34451281)"
+ },
+ "Roussou2021": {
+  "cite": "Roussou et al., 2021, Molecules",
+  "type": "in-vitro study (eluates, gingival fibroblasts) (abstract opened)",
+  "url": "https://doi.org/10.3390/molecules26164912 (PMID 34443499)"
+ },
+ "Malacarne2022": {
+  "cite": "Malacarne et al., 2022, Crit Rev Toxicol",
+  "type": "systematic review (13 manuscripts, genotoxicity) (abstract opened)",
+  "url": "https://doi.org/10.1080/10408444.2022.2101914 (PMID 36102112)"
+ },
+ "Miletic2024": {
+  "cite": "Miletic et al., 2024, Clin Oral Investig",
+  "type": "randomised multicentre split-mouth trial, 180 patients, 5 years (abstract opened)",
+  "url": "https://doi.org/10.1007/s00784-024-05491-y (PMID 38243032)"
+ },
+ "Miletic2020": {
+  "cite": "Miletic et al., 2020, J Adhes Dent",
+  "type": "multicentre RCT, 2-year report of the same trial (abstract opened)",
+  "url": "https://doi.org/10.3290/j.jad.a44547 (PMID 32435764)"
+ },
+ "Dokumacigil2026": {
+  "cite": "Dokumacigil et al., 2026, Clin Oral Investig",
+  "type": "60-month split-mouth RCT, MIH molars (abstract opened)",
+  "url": "https://doi.org/10.1007/s00784-026-07145-7 (PMID 42771191)"
+ },
+ "Kaya2023": {
+  "cite": "Kaya et al., 2023, Pediatr Dent",
+  "type": "24-month report (MIH molars) (abstract opened)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37605356/"
+ },
+ "Souparnika2023": {
+  "cite": "Souparnika et al., 2023, J Pharm Bioallied Sci",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.4103/jpbs.jpbs_411_22 (PMID 37654334)"
+ },
+ "Khan2022": {
+  "cite": "Khan et al., 2022, J Indian Soc Pedod Prev Dent",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.4103/jisppd.jisppd_144_22 (PMID 35859411)"
+ },
+ "BinShuwaish2020": {
+  "cite": "Bin-Shuwaish & AlJamhan, 2020, J Contemp Dent Pract",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33850067/"
+ },
+ "Cai2021": {
+  "cite": "Cai et al., 2021, J Dent Res",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.1177/00220345211018182 (PMID 34261333)"
+ },
+ "Koh2024": {
+  "cite": "Koh et al., 2024, Oper Dent",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.2341/23-161-L (PMID 39407428)"
+ },
+ "Alrefeai2022": {
+  "cite": "Alrefeai et al., 2022, Photodiagnosis Photodyn Ther",
+  "type": "in-vitro study (abstract opened)",
+  "url": "https://doi.org/10.1016/j.pdpdt.2022.102792 (PMID 35257973)"
+ }
+}
