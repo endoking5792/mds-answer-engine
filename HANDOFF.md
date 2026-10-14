@@ -109,4 +109,31 @@ All 29 questions drafted across this session following the plan above, in batche
 3. Answer Bank artifact (https://claude.ai/artifact/YRBFYrpgfh8aWhg9Qp1uvu) republished using `publish_guard.py`'s full merge → stale-check → publish → verify cycle: 107→136 manifest entries, 110→139 files, `VERIFY OK` — nothing lost, Roseline's/Medhinir's existing entries (ceramics, post_core, GIC, etc.) all confirmed intact.
 4. This repo (`mds-answer-engine`) `composites/` folder (29 `.md` files) committed and pushed throughout in small batches, per Rule 2.
 
-**Composites topic is now FINAL**, matching Amalgam's and Calcium Silicate's status. Dental Materials §4 and Recent Advances §17 (the composite-materials-science and composite-recent-advances sittings in those OTHER repositories) remain a separate, not-yet-started topic — see the build-order note above; pick up there if the user wants the full cross-repository composites coverage finished. Next topic otherwise: ask the user which one (impression, irrigants, medicaments remain unclaimed; ceramics' textbook audit is assigned to Niranjan per WORKFLOW.md).
+**Composites topic is now FINAL** for Conservative Dentistry §10, matching Amalgam's and Calcium Silicate's status. Dental Materials §4 and Recent Advances §17 (the composite-materials-science and composite-recent-advances sittings in those OTHER repositories) remain a separate, not-yet-started topic — see the build-order note above; pick up there if the user wants the full cross-repository composites coverage finished. Next topic otherwise: ask the user which one (impression, irrigants, medicaments remain unclaimed; ceramics' textbook audit is assigned to Niranjan per WORKFLOW.md).
+
+---
+
+## 2026-10-14 (same day) — Composites: starting Dental Materials §4 + Recent Advances §17
+
+Pulled both master repositories fresh (`Desktop/Endodontics Textbooks/Vault/Question Paper Bank/DENTAL_MATERIALS_MASTER_REPOSITORY.md` §4 and `RECENT_ADVANCES_MASTER_REPOSITORY.md` §17) rather than assuming the earlier scoping summary was exhaustive. Full section text re-extracted; build order below.
+
+**Dental Materials §4 "Composite Resin — Materials Science" ★★★★★ — 10 sittings found, 9 to build, 1 deferred:**
+1. DM-Q1 (25m) — Fillers in composite resins: types and effect on SET PROPERTIES (Mar 2002) — the deeper materials-science companion to CD's own Q14, which explicitly flagged this as belonging here.
+2. DM-Q2 (20m) — Newer advances in composite resins (May 2019).
+3. DM-Q3 (10m SN) — Poly-acid-modified composite resins / compomers (Oct 1999).
+4. DM-Q4 (10m SN) — Hybrid composites (Apr 2000).
+5. DM-Q5 (10m SN) — Composite inlay (Sep 1992) — lab-processed/indirect, materials-science angle (post-cure methods), distinct from CD Q23's clinical direct-vs-indirect framing.
+6. DM-Q6 (10m) — Nanofillers in resin composite materials (Jun 2016, Manipal PI).
+7. DM-Q7 (5m SN) — Flowable composite (Apr 2004).
+8. DM-Q8 (5m SN) — Newer composite materials (Aug 2004).
+9. DM-Q9 (5m SN) — Condensable composites (Sep 2006).
+
+**Deferred, not built here**: "What are the different dentine bonding agents used in composite restorations? Critically evaluate the role of these bonding agents." (Mar 1992, DM 90-00, no marks given in repository) — this is a Bonding Agents §9/§11 question wearing a composites label, the same deferral already applied to "acid etching/types of etchants" when Conservative Dentistry §10 was scoped (see above); reserved for a future Bonding Agents topic, not trimmed for rarity.
+
+**Recent Advances §17 "Composite Resin — Recent Advances" ★★★★ — 4 sittings, all built:**
+1. RA-Q1 (25m) — Recent developments in composite resin (Mar 2010) — the repository's own flagship "recent advances" essay, distinct file from DM-Q2 and CD Q4.
+2. RA-Q2 (25m) — Build-ups, sculpting, finishing and polishing of Class IV composite restoration (Oct 2015) — merges CD Q13's layering/shade technique with CD Q7's finishing/polishing data into one Class-IV-specific standalone answer.
+3. RA-Q3 (25m) — Recent Advances in Posterior Composites (Oct 2016) — companion to CD Q1/Q5, framed as "recent advances" specifically rather than "evolution."
+4. RA-Q4 (25m) — Fibre reinforced restorations (Jun 2016) — the fuller 25m version of CD Q21's 10m fibre-reinforced-composites answer, as already flagged when CD Q21 was built ("built separately in that file").
+
+**Naming**: `composites/dental_materials/DM_Q##_*.md` and `composites/recent_advances/RA_Q##_*.md`, mirroring the `ceramics/dental_materials/` + `ceramics/recent_advances/` subfolder precedent. Final docs: `DentalMaterials_04_Composite_Resin_Answers.docx` and `RecentAdvances_17_Composite_Resin_Answers.docx` (repository-section numbering, matching `DentalMaterials_01_Amalgam`/`DentalMaterials_08_Impression_Materials` convention). Lean-mode condensation applies throughout — reusing CD's already-synthesized facts (filler taxonomy, shrinkage physics, finishing data, Krenchel-factor mechanics) while adding genuinely new, freshly-retrieved materials-science or recent-advances-specific content per question, same discipline as CD Q3 onward.
