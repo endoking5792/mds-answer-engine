@@ -8,7 +8,7 @@
 
 ## RETRIEVAL REPORT
 1. "veneer|laminate|enamel|crowding|gold veneer|transparent crown form|silicone index" → study-material `SubModule_5.1_Types_of_Indirect_Restorations.md` (Sikri 2017 pp.506-509; Ricketts and Bartlett 2011 p.161) and `SubModule_6.2` (Torres 2020 p.534-535) [SRC, second-hand]; Moshaverinia (2020); Nejat (2024/2025); Bacchi and Cesar (2022) [SRC].
-Textbooks not opened.
+2. **2026-10-14 textbook audit** — primary textbooks opened directly: Sikri *Indirect Restorations in Dental Practice* 2nd ed. (SIKRI); *Sturdevant's Art & Science of Operative Dentistry* 2e South Asian ed. (STURD) [SRC]. Full findings in `ceramics/_AUDIT_2026-10-14.md`.
 
 ---
 
@@ -26,6 +26,10 @@ A veneer (laminate) is a thin layer of tooth-coloured material, ceramic or compo
 **2. By technique:** direct (chairside) versus indirect (laboratory or CAD/CAM).
 
 **3. By thickness and preparation design** [RECALL]: minimal/no-preparation, window, feather, incisal overlap designs. (No source for preparation designs was available in this session; see the preparation answer in the Conservative Dentistry file.)
+
+**4. By margin/incisal design (SIKRI/STURD classification, confirmed directly this session)**: veneers are also classified by the incisal/margin design itself — **window preparation** (veneer stops short of the incisal edge, preserving it entirely), **butt-joint** (veneer meets the incisal edge in a simple flat joint), **incisal-lapping** (veneer wraps over the incisal edge onto a small lingual shelf, improving retention and masking a worn or discoloured incisal edge), and by fabrication route, **direct versus indirect** [SRC, SIKRI/STURD].
+
+**5. Prefabricated composite veneers — Componeer/Lumineer comparison (SIKRI)**: a named-product comparison worth citing. Porcelain veneers generally **exceed resin/composite veneers in strength, retention and long-term durability**; resin veneers are **easier to repair intraorally** if chipped or damaged. **Lumineers** are an ultra-thin (~0.3 mm), marketed "no-prep" porcelain veneer system; other named ultra-thin/minimal-prep products include **Cerinate, Vivaneers, MAC Veneers, and Durathin** [SRC, SIKRI].
 
 ### Case-selection principles (Sikri, 2017, via digest)
 1. Bond to enamel, not dentin; more dentin exposed favours a full crown.
@@ -52,6 +56,7 @@ A veneer is a thin tooth-coloured facing bonded to the facial surface, conservin
 | Material | Porcelain (feldspathic layered, pressed, CAD/CAM), composite (direct, indirect), gold (palatal) |
 | Technique | Direct, indirect |
 | Thickness | Ultra-thin, conventional |
+| Margin/incisal design (SIKRI/STURD) | Window, butt-joint, incisal-lapping |
 
 ### Porcelain veneers
 - **Layered feldspathic:** best optics, thinnest, hand built; survival about 95% at 10 years; fracture-prone.
@@ -64,6 +69,9 @@ A veneer is a thin tooth-coloured facing bonded to the facial surface, conservin
 
 ### Gold veneers
 Palatal tooth-wear cases; often combined with full crowns; sandblast plus adhesive resin.
+
+### Named commercial systems (SIKRI)
+Porcelain exceeds resin/composite veneers in strength, retention and durability; resin is easier to repair intraorally. Lumineers (~0.3mm, marketed "no-prep"); other ultra-thin products: Cerinate, Vivaneers, MAC Veneers, Durathin.
 
 ### Indications
 Discolouration (non-bleachable), fractured or worn incisal edges, diastema closure, malformed or peg lateral, enamel hypoplasia, minor misalignment.
@@ -87,6 +95,8 @@ Veneer choice is decided by enamel availability, discolouration, occlusion and c
 - Feldspathic veneers about 95.5% at 10 years.
 - Veneers fix spacing, not crowding.
 - Gold veneers: palatal wear.
+- Margin/incisal classification (SIKRI/STURD): window, butt-joint, incisal-lapping; direct vs indirect.
+- Porcelain > resin in strength/retention/durability; resin easier to repair. Lumineers ~0.3mm "no-prep"; also Cerinate, Vivaneers, MAC Veneers, Durathin.
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: classification tree: material → ceramic / composite / gold; technique → direct / indirect | 5 boxes | 2 min]
@@ -103,8 +113,8 @@ Veneer choice is decided by enamel availability, discolouration, occlusion and c
 **[SRC]**
 - Study-material digests: `SubModule_5.1`, `SubModule_6.2` (Sikri 2017; Ricketts and Bartlett 2011; Torres 2020).
 - Moshaverinia A. Dent Clin North Am. 2020;64:621-631; Nejat AH. Dent Clin North Am. 2025;69:155-171.
+- Sikri VK. *Indirect Restorations in Dental Practice*. 2nd ed.
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Sikri (2017) pp.506-509 for veneer principles and types.
-- Summitt's (Hilton et al, 2013) Ch.17 for veneer preparation designs (window, feather, incisal overlap) and thickness guidelines; none was available here.
-- Torres (2020) Ch.14 pp.534-535 for the silicone-index technique.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Full findings in `ceramics/_AUDIT_2026-10-14.md`. Added from Sikri/Sturdevant read directly: the margin/incisal-design classification (window, butt-joint, incisal-lapping) alongside the existing material/technique classifications; the Componeer/Lumineer named-product comparison (porcelain > resin in strength/retention/durability, resin easier to repair; Lumineers ~0.3mm "no-prep," plus Cerinate/Vivaneers/MAC Veneers/Durathin). The preparation-design gap (window/feather/incisal-overlap depth specifics) remains better addressed in the Conservative Dentistry veneer-preparation file, which the orchestrating session separately patched with SIKRI's LVS bur kit and Sturdevant's own protocol.

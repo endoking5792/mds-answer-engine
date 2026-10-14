@@ -8,7 +8,7 @@
 
 ## RETRIEVAL REPORT
 1. "modern ceramics|classification|translucent zirconia|lithium disilicate|resin-matrix|printing|survival|wear|bonding" → Nejat (2025); Bacchi and Cesar (2022); Moshaverinia (2020); Zhang and Kelly (2017); Guess et al (2011); Blatz et al (2022) [SRC].
-Textbooks not opened.
+2. **2026-10-14 textbook audit**: five parallel readers opened van Noort, Bonsor, Powers & Wataha, Craig's, Michigan, Phillips, McCabe, Sikri, Alani & Patel directly (`ceramics/_AUDIT_2026-10-14.md`). Confirms the "limited textbook coverage" suspicion this file already flagged: 4Y/5Y zirconia, ZLS, graded zirconia and printed ceramics are genuinely not covered in van Noort/Bonsor/Powers & Wataha (all ~2013 editions) — the journal-article sourcing already used is correct and necessary, not a gap to fix. Where this file restates the general history/fracture-toughness-ladder material from Conservative Dentistry Q1/Q2, the same per-edition corrections are applied below [SRC].
 
 ---
 
@@ -21,7 +21,7 @@ Describe what "modern" means (post-2010 materials and processing), then evaluate
 Lithium disilicate and its derivatives (fully crystallised blocks, virgilite, nano-crystal), ZLS, translucent and gradient zirconia (3Y → 4Y → 5Y), resin-matrix ceramics (PICN, resin nanoceramic), CAD-on structures and printed ceramics (Nejat, 2025; Bacchi and Cesar, 2022).
 
 ### Evaluation
-**Mechanical.** Lithium disilicate 400-530 MPa; ZLS about 370-420 MPa; 3Y zirconia 1150-1200 MPa; 4Y 750-850; 5Y 550; PICN about 150 MPa (Nejat, 2025; Bacchi and Cesar, 2022). In fatigue testing translucent zirconia outperformed ZLS and lithium disilicate; PICN performed worse than lithium disilicate at 1-1.5 mm but similar in endocrowns (Bacchi and Cesar, 2022). Zirconia's high toughness comes from transformation toughening, which cubic-rich grades lose (Nejat, 2025).
+**Mechanical.** Lithium disilicate 400-530 MPa (manufacturer/journal figures; Craig's own figures for the same material, read directly this session, are 262±88 MPa hard-machined/306±29 MPa heat-pressed — cite the source with the figure, since these ranges reflect different test methods/editions, not a contradiction to resolve by picking one); ZLS about 370-420 MPa; 3Y zirconia 1150-1200 MPa (manufacturer; Craig's gives 900-1500 MPa, Phillips ≈900 MPa with K_Ic 8-10.3 — a range, not a flat ~8); 4Y 750-850; 5Y 550; PICN about 150 MPa (Nejat, 2025; Bacchi and Cesar, 2022). In fatigue testing translucent zirconia outperformed ZLS and lithium disilicate; PICN performed worse than lithium disilicate at 1-1.5 mm but similar in endocrowns (Bacchi and Cesar, 2022). Zirconia's high toughness comes from transformation toughening, which cubic-rich grades lose (Nejat, 2025); the associated **tetragonal-to-monoclinic transformation volume change is Phillips' 3-5% range, not a flat "~4%"** (van Noort gives no number at all) — attribute this specifically rather than stating it as settled [SRC, VN/PHIL].
 **Optical.** Glass-ceramics: excellent; higher translucency lowers masking; monolithic translucent ceramics need opaque luting or opaque composite on discoloured substrates; veneered zirconia and CAD-on mask best (Bacchi and Cesar, 2022).
 **Wear.** Zirconia (3Y, 5Y) wore less than enamel when polished and abraded antagonists less than glass-ceramic; lithium disilicate, feldspathic and PICN wore more than enamel; roughness is the predictor (Bacchi and Cesar, 2022).
 **Fit.** Marginal and internal fit similar across milled materials; milled zirconia more precise than printed (Bacchi and Cesar, 2022).
@@ -56,7 +56,7 @@ Modern dental ceramics are engineered materials produced by pressing, milling or
 ### Evaluation
 | Criterion | Assessment |
 |---|---|
-| Strength | LDS 400-530; ZLS 370-420; 3Y 1150-1200; 5Y 550; PICN about 150 MPa |
+| Strength | LDS 400-530 (manufacturer) / 262-306 (CR, by processing route); ZLS 370-420; 3Y 1150-1200 (manufacturer) / 900-1500 (CR) / ≈900, K_Ic 8-10.3 (PHIL range, not flat ~8); 5Y 550; PICN about 150 MPa |
 | Fatigue | Translucent zirconia > ZLS > LDS (laboratory) |
 | Optics | Best with glass-ceramics; zirconia masks best |
 | Wear | Polished zirconia low antagonist wear; roughness decisive |
@@ -99,7 +99,9 @@ Modern ceramics greatly widen options, but their evidence base for the newest gr
 ## SOURCE LIST
 **[SRC]**
 - Nejat AH. 2025;69:155-171; Bacchi A, Cesar PF. 2022;66:591-602; Moshaverinia A. 2020;64:621-631; Zhang Y, Kelly JR. 2017;61:797-819; Guess PC et al. 2011;55:333-352; Blatz MB et al. 2022;66:603-625 (Dent Clin North Am).
+- Craig RG, ed. *Restorative Dental Materials*. Latest ed. (Craig's).
+- Anusavice KJ, Shen C, Rawls HR, eds. *Phillips' Science of Dental Materials*. 12th ed.
+- van Noort RV, Barbour ME. *Introduction to Dental Materials*. 4th ed.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Textbook coverage of 4Y/5Y, ZLS and printing is limited in Craig's 14th ed. (digest note); verify what Craig's and Phillips actually state.
-- Manufacturer-reported strengths (Nejat 2025 Table 1) are not method-comparable.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Full findings in `ceramics/_AUDIT_2026-10-14.md`. **Confirmed, not fixable**: 4Y/5Y zirconia, ZLS, graded zirconia and printed-ceramic coverage is genuinely absent from van Noort/Bonsor/Powers & Wataha (all ~2013 editions) — the journal-article sourcing already used (Nejat, Bacchi & Cesar, Zhang & Kelly) remains correct and necessary for this material. Where this file's strength/toughness figures overlap with material covered in the audited textbooks, added per-edition attribution: lithium disilicate's manufacturer/journal 400-530 MPa alongside Craig's own 262-306 MPa range by processing route; 3Y zirconia's manufacturer 1150-1200 MPa alongside Craig's 900-1500 MPa and Phillips' ≈900 MPa with K_Ic 8-10.3 (a range, not a flat ~8); and the zirconia transformation volume change corrected to Phillips' 3-5% range (not a flat "4%," with van Noort giving no number at all).

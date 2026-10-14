@@ -9,7 +9,7 @@
 ## RETRIEVAL REPORT
 1. "advances|translucent zirconia|CAD-on|3D printing|gradient" → Bacchi and Cesar (2022) and Nejat (2024/2025) read in full [SRC].
 2. "clinical survival / chipping" → Guess et al (2011); Zhang and Kelly (2017) [SRC].
-Textbooks were not opened; see AUDIT PENDING.
+3. **2026-10-14 textbook audit**: five parallel readers opened van Noort, Bonsor, Powers & Wataha, Craig's, Michigan, Phillips, McCabe, Sikri, Alani & Patel directly (`ceramics/_AUDIT_2026-10-14.md`). Confirmed finding (ledger section E): genuinely newer porcelain-specific advances — zirconia generations (3Y/4Y/5Y), ZLS, graded/gradient zirconia, CAD-on, and printed ceramics — are **not covered** in any of the ~2013-edition primary textbooks (van Noort, Bonsor, Powers & Wataha all predate these products; Craig's/Phillips/McCabe's ceramics chapters, read in full this session, likewise do not discuss them). This is a confirmed, not a fixable, gap: the existing journal-article sourcing (Bacchi & Cesar 2022, Nejat 2024/2025) remains correct and necessary for this question [SRC].
 
 ---
 
@@ -78,6 +78,5 @@ The trend is from strongest-possible to best-balanced: choose the ceramic for th
 - Nejat AH. Dent Clin North Am. 2025;69:155-171.
 - Guess PC et al. Dent Clin North Am. 2011;55:333-352; Zhang Y, Kelly JR. Dent Clin North Am. 2017;61:797-819.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Craig's 14th ed. Ch.11 (and Phillips Ch.18) for historical staging of ceramics (1960s metal-ceramic; Weinstein CTE solution 1962 is in Zhang and Kelly, 2017).
-- Manufacturer strength figures (CEREC Tessera 700 MPa, e.max CAD 530 MPa) are from Nejat's Table 1 and are manufacturer-reported.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Five parallel readers opened the primary textbooks directly (`ceramics/_AUDIT_2026-10-14.md`). **Confirmed, not fixable**: zirconia generations (3Y/4Y/5Y), ZLS, graded zirconia, CAD-on and printed ceramics are absent from van Noort, Bonsor, Powers & Wataha (all ~2013 editions) and from the ceramics chapters of Craig's/Phillips/McCabe read in full this session — the journal-article sourcing already used (Bacchi & Cesar 2022, Nejat 2024/2025) is the correct and necessary source for this specific "recent advances" material. Manufacturer strength figures (CEREC Tessera 700 MPa, e.max CAD 530 MPa) remain from Nejat's Table 1, manufacturer-reported, as before.

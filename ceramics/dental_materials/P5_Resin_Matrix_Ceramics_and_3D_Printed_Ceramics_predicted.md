@@ -7,6 +7,8 @@
 ## RETRIEVAL REPORT
 Zhang and Kelly (2017); Nejat (2025); Bacchi and Cesar (2022); Moshaverinia (2020); Blatz et al (2022) [SRC].
 
+**2026-10-14 textbook audit**: five parallel readers opened van Noort, Bonsor, Powers & Wataha, Craig's, Michigan, Phillips, McCabe, Sikri, Alani & Patel directly (`ceramics/_AUDIT_2026-10-14.md`). Confirms this file's own prior suspicion directly: PICN/resin-matrix ceramics and 3D-printed ceramics are **genuinely not covered** in van Noort 4th ed., Bonsor, or Powers & Wataha 10th ed. (all ~2013 editions, predating or not discussing these materials) [SRC].
+
 ---
 
 ## STUDY MODE
@@ -65,6 +67,5 @@ Resin-matrix ceramics bridge ceramics and composites for conservative, easily re
 ## SOURCE LIST
 **[SRC]** Zhang and Kelly 2017; Nejat 2025; Bacchi and Cesar 2022; Moshaverinia 2020; Blatz et al 2022 (Dent Clin North Am); digest `SubModule_4.2` (Alani and Patel 2025).
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- The study-material digest (`SubModule_5.2` §4) states that none of the core texts has a dedicated PICN section; confirm in Craig's 14th ed. and Phillips.
-- "3D Printing in Restorative Dentistry" (in the Drive textbook folder) was not opened and should be audited for printed ceramics.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Five parallel readers opened the primary textbooks directly (`ceramics/_AUDIT_2026-10-14.md`, section E). **Confirmed, not fixable**: PICN/resin-matrix ceramics (Enamic-type materials) and 3D-printed ceramics are genuinely absent from van Noort 4th ed., Bonsor, and Powers & Wataha 10th ed. — all three are ~2013 editions that either predate these products or simply do not discuss them; the same gap was independently confirmed by the Craig's/Phillips/McCabe ceramics-chapter readers in this session. The existing journal-article sourcing (Zhang & Kelly 2017, Bacchi & Cesar 2022, Nejat 2024/2025) is therefore the correct and necessary source for this entire question — this is not a gap that primary textbooks can fill, and the file is kept as-is with this note confirming that.
