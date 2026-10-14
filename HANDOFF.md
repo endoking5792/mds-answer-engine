@@ -1,4 +1,4 @@
-# HANDOFF: MDS theory answers — most recent topic "Calcium Silicate / Bioactive Endodontic Materials" (Endodontics)
+# HANDOFF: MDS theory answers — active topic "Composites" (Conservative Dentistry, scoping done, not yet drafted); most recently FINISHED topic was "Calcium Silicate / Bioactive Endodontic Materials" (Endodontics)
 
 Read this first in a new session. Governing rules: `~/.claude/skills/dental-study-material/SKILL.md` Section 7 (invoke skill `dental-study-material`). This file only adds working state.
 
@@ -49,3 +49,42 @@ Marzouk MA, Simonton AL, Gross RD. *Operative Dentistry: Modern Theory and Pract
 - Cross-textbook contradictions are common once enough sources are checked (this pass found ~12 genuine ones) — the house rule is to state both figures with their own source inline, not to quietly pick a winner; this is specifically what examiners and the citation-discipline rule both want.
 - The manifest.json format bug (array vs. `{"questions": [...]}`) is worth remembering explicitly: the published Answer Bank page's own JS does `fetch('manifest.json').then(r=>r.json())` then directly calls `.forEach` on the result — the root JSON value MUST be a plain array, not wrapped in an object, or the page silently breaks.
 - A background Agent's SubagentHandback report, even a very long one, should be read as literal findings data (quotable exact figures/mechanisms with their own source) — not summarized/compressed before use, since the exact numbers are what make each contradiction and new-content item citable.
+
+## Status (2026-10-14, Composites topic): SCOPING DONE, no questions drafted yet. Claimed by Niranjan in WORKFLOW.md.
+
+**Where the topic lives**: three separate repositories carry composite-related questions, cross-referencing each other — Conservative Dentistry §10 "Composite Resin — Materials & Technique" ★★★★★ (54 sittings), Dental Materials §4 "Composite Resin — Materials Science" ★★★★★, Recent Advances §17 "Composite Resin — Recent Advances" ★★★★. User confirmed (AskUserQuestion, 2026-10-14): (1) build as **three strictly separate per-subject files**, not one merged "Composites" file — `Conservative Dentistry_10_Composite_Resin_Answers.docx`, a Dental Materials file, and a Recent Advances file, matching the existing `<Subject>_<NN>_<Topic>_Answers.docx` naming convention; (2) two borderline clusters — "types of etchants/acid etching in composite resins" (really a Bonding Agents §9/§11 question) and "smart materials" (broader than composites alone) — are deliberately LEFT OUT of this topic, reserved for their own future topics; (3) the two 100-mark questions ("Evaluate posterior composites critically — detail on evolution of posterior composites" and "Past, present and future of Composite resin") are to be answered as **two separate full-length answers**, not merged, despite heavy thematic overlap — build first; (4) all other Conservative Dentistry §10 clusters, no matter how rare (single-sitting items included), get answered — nothing trimmed; (5) order within Conservative Dentistry §10 after the two 100m questions is Niranjan's call (see planned order below), not fixed by the user.
+
+**Planned Conservative Dentistry §10 build order** (deduped clusters, repeat sittings folded into whichever cluster they belong to per Section 7.1(4) "answer once at highest marks, list the repeats"):
+1. Q1 (100m) — Evaluate posterior composites critically / evolution of posterior composites
+2. Q2 (100m) — Past, present and future of composite resin
+3. Q3 (75m) — Composite resins as posterior restorative materials (absorbs the 20m "describe"/"discuss" variants and the 10m "write in detail" variant; cross-refs Q1)
+4. Q4 (75m/50m) — Recent advances in composite resins (absorbs the 50m critical-appraisal, both 25m "recent advances"/"recent developments" variants, the 20m DM "newer advances" variant, and the two 5m "newer"/"advances" short notes; cross-refs Q2)
+5. Q5 (25m) — Discuss critically the posterior composite restorations / critically analyse tooth-coloured restorations posterior (absorbs both near-identical 25m wordings; cross-refs Q1)
+6. Q6 (25m) — Polymerization shrinkage: causes, management, clinical strategies (absorbs 4 lower-mark repeats)
+7. Q7 (25m) — Finishing and polishing of composite/various restorations (absorbs 6 repeats incl. "polishing agents")
+8. Q8 (25m) — Composite veneers: direct/indirect, indications, contraindications, tooth prep, recent advances
+9. Q9 (25m) — Define and classify composites + methods of restoring the incisal angle of anterior teeth (absorbs "various methods for restoring incisal angle" and both "creating illusions" repeats)
+10. Q10 (25m) — Class II cavity preparation and restorative technique for direct composites (absorbs the 20m incremental-technique and both 10m placement-technique repeats)
+11. Q11 (20m) — Composite vs. amalgam: merits/demerits, scope and limitations (absorbs 2 wordings)
+12. Q12 (20m) — Micro-leakage around composite restorations and methods to reduce it
+13. Q13 (20m) — Tooth preparation for Class IV composite: layering technique, shade selection, finishing
+14. Q14 (10m) — Fillers in composite resin and clinical significance (absorbs 4 repeats incl. "role of fillers" 5m; cross-refs the deeper 25m Dental Materials version, built separately in that file)
+15. Q15 (10m) — Flowable composites (absorbs 2 repeats; cross-refs Dental Materials' 5m version)
+16. Q16 (10m) — Bulk fill composites
+17. Q17 (10m) — Packable composites (cross-refs Dental Materials' "condensable composites")
+18. Q18 (10m) — Contacts and contours in composite restoration (absorbs ~8 repeats, highest-frequency short note in this section)
+19. Q19 (10m) — Nanocomposites (absorbs 1 repeat; kept separate from Q20)
+20. Q20 (10m) — Nanoleakage in composite restorations (distinct failure mechanism from Q19, not merged)
+21. Q21 (10m) — Fibre-reinforced composites (cross-refs Recent Advances' "fibre reinforced restorations" 25m, built separately in that file)
+22. Q22 (10m) — Light curing devices / curing lights for composite resin (absorbs 6 repeats)
+23. Q23 (10m) — Direct vs. indirect composite restorations (absorbs 4 repeats incl. "indirect composites and techniques")
+24. Q24 (10m) — Advantages and disadvantages / limitations of resin composite restorations (absorbs 3 repeats)
+25. Q25 (10m) — Failures of composite restorations
+26. Q26 (10m) — Residual monomers released from composites: impact on pulpal/systemic health, evidence appraisal (Mock 2025 — evidence-synthesis-heavy question)
+27. Q27 (5m) — Matrices for composite restorations
+28. Q28 (10m) — Caries control restorations
+29. Q29 (10m) — Surface treatment for prepared teeth and restorations
+
+Dental Materials §4 and Recent Advances §17 build orders (their own separate files/topics) not yet planned in detail — do that after Conservative Dentistry §10 is finished, re-checking each repository's own question list for its own repeats/order rather than assuming it mirrors Conservative Dentistry's.
+
+**Not started**: no retrieval, no `.md` drafts, no working folder (`composites/` doesn't exist yet in this repo), no Answer Bank/vault/OneDrive publish — none of that is accurate to claim done until Q1 is actually drafted. Next action: start Q1 (100m) retrieval and drafting.
