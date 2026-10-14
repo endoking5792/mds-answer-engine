@@ -24,7 +24,7 @@ Before you (or your Claude session) start building/auditing a topic, check the t
 | irrigants | unaudited draft | — unclaimed — | — |
 | medicaments | unaudited draft | — unclaimed — | — |
 | post_core | audited, Q1-Q8 patched/added, Answer Bank republished (OneDrive docx not rebuilt) | Roseline | 2026-10-14 |
-| composites | FINAL, all 29 of 29 done (Conservative Dentistry §10), vault + Answer Bank published and verified | Niranjan | 2026-10-14 |
+| composites | Conservative Dentistry §10 FINAL (29/29); now building Dental Materials §4 (9 Q's) + Recent Advances §17 (4 Q's) | Niranjan | 2026-10-14 |
 | ceramics | first draft complete (35 answers) and published to Answer Bank; textbook audit pending | Roseline (audit: Niranjan) | 2026-10-14 |
 
 If a topic says "— unclaimed —", it's free to take. If someone else's name is already there, pick a different topic or message them before jumping in. With three people and only four unclaimed topics, claim one at a time rather than reserving several in advance.
