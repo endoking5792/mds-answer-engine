@@ -1,11 +1,13 @@
-# Parallel-work workflow (Niranjan + Roseline)
+# Parallel-work workflow (Niranjan + Roseline + Medhinir)
 
-Read this before starting any topic work, alongside `HANDOFF.md`. Goal: two people, each driving their own Claude Code session, can work at the same time without silently overwriting each other.
+Read this before starting any topic work, alongside `HANDOFF.md`. Goal: three people, each driving their own Claude Code session, can work at the same time without silently overwriting each other.
+
+Collaborators: `rosyposy0406` (Roseline), `medhinirbhagwat` (Medhinir) — both have Write access on all four repos (`mds-answer-engine`, `dental-study-material`, `Vault`, `dental-study-notes`) and editor access on the Answer Bank artifact.
 
 ## Why collisions are rare here
 
-Work is split by **topic folder** (`amalgam/`, `calcium_silicate/`, `impression/`, `irrigants/`, `medicaments/`, `post_core/`, plus the matching folders in the `dental-study-notes` vault). Two people working on *different* topics never touch the same files. The only real collision risks are:
-1. Two people working the **same topic** at once.
+Work is split by **topic folder** (`amalgam/`, `calcium_silicate/`, `impression/`, `irrigants/`, `medicaments/`, `post_core/`, plus the matching folders in the `dental-study-notes` vault). People working on *different* topics never touch the same files. The only real collision risks are:
+1. Two (or three) people working the **same topic** at once.
 2. Both editing a **shared file** the same day (`HANDOFF.md`, vault `00_INDEX.md`, Answer Bank `manifest.json`).
 
 The rules below just manage those two cases.
@@ -23,7 +25,7 @@ Before you (or your Claude session) start building/auditing a topic, check the t
 | medicaments | unaudited draft | — unclaimed — | — |
 | post_core | unaudited draft | — unclaimed — | — |
 
-If a topic says "— unclaimed —", it's free to take. If someone else's name is already there, pick a different topic or message them before jumping in.
+If a topic says "— unclaimed —", it's free to take. If someone else's name is already there, pick a different topic or message them before jumping in. With three people and only four unclaimed topics, claim one at a time rather than reserving several in advance.
 
 ## Rule 2 — Push small and often, not in one big batch
 
@@ -47,7 +49,7 @@ Nobody edits `Vault` directly — it's a known-stale snapshot kept on purpose (s
 
 ## Rule 6 — One topic, one person, at a time
 
-Don't split a single topic's audit across two people's sessions simultaneously — the per-question `.md` files are small enough that two agents touching the same file produces a real merge conflict, unlike the topic-folder split which avoids it structurally. If a topic is large, do it serially (one person finishes and pushes, then hands off) rather than in parallel.
+Don't split a single topic's audit across multiple people's sessions simultaneously — the per-question `.md` files are small enough that two agents touching the same file produces a real merge conflict, unlike the topic-folder split which avoids it structurally. If a topic is large, do it serially (one person finishes and pushes, then hands off) rather than in parallel.
 
 ## Quick checklist for starting a session
 
