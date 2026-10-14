@@ -12,7 +12,7 @@
 3. "classification|materials table|thickness|zirconia generations|printing" → Nejat (2025) *Dent Clin North Am* 69:155-171 [SRC]; Bacchi and Cesar (2022) [SRC]; Moshaverinia (2020) [SRC].
 4. "bonding protocol|HF concentration|silane|MDP" → Blatz et al (2022) *Dent Clin North Am* 66:603-625 (Table 1 protocols) [SRC]; Manso et al (2011) *Dent Clin North Am* 55:311-332 [SRC].
 5. "preparation dimensions|cementation|taper" → study-material `SubModule_5.3` (Sikri 2017; Marzouk) [SRC, second-hand]; `SubModule_2.2` (Craig's 14th ed., Phillips, Powers and Wataha, Bonsor, Craig 2002, as digested) [SRC, second-hand].
-Original textbooks were not opened; see AUDIT PENDING.
+6. **2026-10-14 textbook audit** — primary textbooks opened directly (not digested): van Noort & Barbour *Introduction to Dental Materials* 4th ed. (VN); Bonsor & Pearson *A Clinical Guide to Applied Dental Materials* (BON); Powers & Wataha *Dental Materials* 10th ed. OCR (PW); *Craig's Restorative Dental Materials* latest ed. (CR); Craig RG ed. *Restorative Dental Materials* 11th ed. "Michigan" (MICH); Anusavice/Shen/Rawls *Phillips' Science of Dental Materials* 12th ed. (PHIL); McCabe & Walls *Applied Dental Materials* 9th ed. (MCC); Sikri *Indirect Restorations in Dental Practice* 2nd ed. (SIKRI); Alani & Patel *Adhesive Techniques in Restorative Dentistry* (AP); *Sturdevant's* 2e South Asian ed. (STURD); Mount *Preservation and Restoration of Tooth Structure* 3rd ed. (MOUNT) [SRC]. Full findings in `ceramics/_AUDIT_2026-10-14.md`; corrections and additions below are tagged with the specific source.
 
 ---
 
@@ -23,7 +23,7 @@ The examiner expects a full account: definition and history; classification; mic
 
 ### 2. Definition and history
 A ceramic is a non-metallic inorganic material processed by firing at high temperature to achieve its properties (Moshaverinia, 2020). Porcelain is the narrower kaolin-quartz-feldspar family; zirconia and lithium disilicate are ceramics but not porcelains (study-material `SubModule_2.2`, via Craig's 14th ed., p.209).
-Landmarks: porcelain dentures by Duchateau and de Chemant (1774); porcelain inlays, onlays and crowns by Charles Land in 1886; the original porcelain was extremely brittle (about 60 MPa); vacuum firing (1949); in 1962 Weinstein and colleagues solved the CTE mismatch between porcelain and metal with a leucite-containing porcelain, creating the metal-ceramic system; pressing and CAD/CAM arrived in the 1980s (Zhang and Kelly, 2017). By 2011 an estimated 70-80% of fixed prostheses in the United States were still metal-ceramic (Zhang and Kelly, 2017).
+Landmarks, corrected against primary textbooks rather than one digest date each: Alexis Duchateau made his own "mineral paste teeth" in 1774; Nicholas Dubois de Chemant showed the first baked-porcelain complete denture made in a single block in 1788, patented 1789 (MICH p.12; PHIL) — these are two distinct contributors/contributions, not one 1774 fact. Land described porcelain inlays/crowns in *Dental Cosmos* 1903, but MICH separately credits Land's gas/gasoline furnace for baking porcelain and porcelain jacket crowns to 1889 — cite both dates with their own attribution [SRC, MICH/PHIL]. Original porcelain was extremely brittle (about 60 MPa). Vacuum firing's porosity-reduction effect is well documented (air-fired porosity 5.6% vs vacuum-fired 0.56%, Semmelman 1959, cited by both CR and MICH) but none of the primary textbooks consulted this session actually give "1949" as its date — treat that date as unverified/needing a different source [SRC]. In 1962 Weinstein and colleagues solved the CTE mismatch between porcelain and metal with a leucite-containing porcelain, creating the metal-ceramic system — this was a **patent** (US Patent No. 3,052,782, granted Sept 11 1962), and PHIL notes there were in fact two separate 1962 Weinstein patents (one on the feldspathic porcelain formulation/CTE control, one on alloy composition for chemical bonding) [SRC, MICH/PHIL]. Pressing and CAD/CAM arrived in the 1980s (Zhang and Kelly, 2017; Duret's CAD/CAM concept 1973, Mörmann/CEREC first clinical system 1985, per CR/STURD [SRC]). Metal-ceramic's share of fixed prosthodontics has fallen over time rather than sitting at one figure: PHIL's 12th ed. gives "about 60-70%" as the *recent* figure (vs an older 1994 survey figure of ~90%) — present as a declining trend with each figure's own era, not "70-80% circa 2011" as a single fact [SRC, PHIL].
 
 ### 3. Classification
 **By composition** (Nejat, 2025; Moshaverinia, 2020): glass-matrix (feldspathic, leucite-reinforced, lithium disilicate, lithium silicate, zirconia-reinforced lithium silicate), polycrystalline (alumina, zirconia), resin-matrix (PICN, resin nanoceramics). Glass-ceramics, glass-infiltrated ceramics (ceramic-glass interpenetrating network) and ceramic-resin interpenetrating network are further microstructural classes used by Zhang and Kelly (2017).
@@ -33,11 +33,12 @@ Landmarks: porcelain dentures by Duchateau and de Chemant (1774); porcelain inla
 **By clinical indication:** ISO 6872 classifies by indication, because core fracture toughness tracks clinical success (Zhang and Kelly, 2017).
 
 ### 4. Microstructure and strengthening
-- **Dispersion strengthening:** crystals in glass deflect cracks. Fracture toughness rises from 0.75 (soda-lime glass) to 1.3 (about 34 vol% leucite, IPS Empress) to 3.3 MPa·m^0.5 (about 70 vol% interlocked lithium disilicate) (Anusavice et al, 2013, via digest).
+- **Dispersion strengthening:** crystals in glass deflect cracks. The fracture-toughness "ladder" is genuinely edition-dependent, not one fixed set of numbers — state the source with the figure: Craig's latest ed. gives 0.78 (soda-lime glass) → 1.2 (35-55 vol% leucite, IPS Empress-type) → 2.75 MPa·m^0.5 (lithium disilicate); Phillips' 12th ed. gives 0.75 → 1.3 (~34 vol% leucite) → 3.3 MPa·m^0.5 (~70 vol% interlocked lithium disilicate) [SRC, CR/PHIL]. Leucite content at the "reinforced" stage is itself a range (35-55 vol% per CR), not a single 34% figure.
 - **Ceraming:** controlled heat treatment nucleates and grows crystals in a glass (Zhang and Kelly, 2017).
-- **Interpenetrating networks:** a porous alumina scaffold infiltrated with lanthanum glass (In-Ceram), about 70 vol% alumina, about 550 MPa (Zhang and Kelly, 2017).
-- **Transformation toughening:** in 3Y-TZP, stress at a crack tip transforms tetragonal to monoclinic grains with a volume increase of about 4%, placing the crack under compression (Guess et al, 2011; Anusavice et al, 2013, via digest).
-- **Resin-ceramic networks:** Enamic is 86 wt% (75 vol%) feldspathic network with infiltrated dimethacrylate polymer, giving a modulus nearer dentin (Zhang and Kelly, 2017).
+- **Interpenetrating networks (In-Ceram):** composition/strength figures genuinely conflict across primary sources and should be presented as a range with attribution, not one number — van Noort gives ~85% alumina post-infiltration, 400-500 MPa for full crowns; Michigan's (older) slip-cast description gives alumina **>90%**, particle size 0.5-3.5µm, fired 4h/1100°C, infiltrated with **lanthanum-containing** glass at 1150°C/4h, flexural strength **≈450 MPa**; Phillips gives the pre-infiltration core for In-Ceram ZIRCONIA specifically as ~62% alumina/20% zirconia/18% glass by weight, ~620 MPa; Craig's current edition omits slip-cast/In-Ceram detail entirely (pushed to an online supplement) [SRC, VN/MICH/PHIL/CR]. **The commonly-quoted "70 vol% alumina, ~550 MPa" figure is not supported by any of these primary sources** — do not state it as settled.
+- **Transformation toughening:** in 3Y-TZP, stress at a crack tip transforms tetragonal to monoclinic grains, placing the crack under compression. The volume-change figure is not a clean "~4%": van Noort gives no number at all (just "accompanied by an expansion"); Phillips gives **3-5%** [SRC, VN/PHIL] — cite Phillips' range, not a flat 4%, unless citing Chevalier et al. 2009 directly for a tighter figure.
+- **Resin-ceramic networks:** Enamic is 86 wt% (75 vol%) feldspathic network with infiltrated dimethacrylate polymer, giving a modulus nearer dentin (Zhang and Kelly, 2017). **Scope note**: PICN/resin-matrix ceramics and formal ISO 6872 full-text classification are not covered in van Noort 4th ed., Bonsor, or Powers & Wataha 10th ed. (all ~2013 editions predating/not discussing these) — this remains supported only by the newer journal-article sourcing already used here [SRC].
+- **Ion-exchange/chemical tempering and thermal tempering** (not in the original draft): a third and fourth strengthening route exist alongside dispersion and transformation toughening. Ion exchange uses a molten KNO3 bath to swap Na+ for the ~35%-larger K+, creating a compressive zone <100µm deep and raising flexural strength by over 100% — but Craig's notes this is "no longer used for dental ceramics due to controllability issues," and the gain is lost if the surface is ground or worn. Thermal tempering uses rapid quench (silicone oil preferred over an air jet for dental use) to create a compressive outer skin [SRC, CR/PHIL].
 
 ### 5. Properties of the main systems (Zhang and Kelly, 2017, Table 1; unless stated)
 | Material | Crystalline phase | E (GPa) | Toughness (MPa·m^0.5) | Strength (MPa) |
@@ -95,7 +96,7 @@ Ideal bond is dual: micromechanical and chemical (Blatz et al, 2022).
 | Lithium silicate/disilicate | 4.6% HF 20 s; silane |
 | PICN | 9.8% HF 1 min; silane |
 | Y-TZP | Air abrasion 50 μm alumina at 2 bar; phosphate-monomer (MDP) primer; no HF |
-Sikri (2017, via digest) quotes 8-12% HF for 1-3 min (feldspathic longer); Nejat (2025) tabulates 5% HF for 20-60 s by manufacturer; the concentration and time depend on the ceramic's glass and crystal content and the manufacturer's instructions (Blatz et al, 2022). Dual-cure resin cement is preferred for posterior and thick restorations; light-cure for veneers for colour stability and working time (Blatz et al, 2022). Glass ionomer cementation of ceramics gives weaker restorations than resin (Sikri, 2017, via digest). Zirconia full-coverage crowns with adequate retention can be cemented conventionally (Blatz et al, 2022).
+HF protocol is genuinely era-dependent, not one number — present both, attributed: the older protocol (Sikri, direct textbook read this session, not digest) gives 8-12% HF for 1-3 min (feldspathic needing the longer end); the modern BDJ clinician's-guide protocol (Alani & Patel, Table 2.10) gives only 5% or 9.5% HF for 10/20/60 seconds depending on ceramic; Craig's gives its own range of 2.5-10% HF for 1-4 minutes [SRC, SIKRI/AP/CR]. In every protocol, **zirconia/polycrystalline ceramics are never HF-etched** — air/alumina-abrade (Rocatec-type silica-coating or plain alumina) then apply a 10-MDP-containing primer (60s), since zirconia has no amorphous silica phase for HF/silane to act on; universal adhesives bond zirconia best at pH 2.2-3.2 [SRC, CR/AP]. Dual-cure resin cement is preferred for posterior and thick restorations; light-cure for veneers specifically, for colour stability and longer working time (Blatz et al, 2022; corroborated directly from Sturdevant's text this session) [SRC, STURD]. Glass ionomer/resin-modified GIC cementation carries two specific, textbook-stated cautions beyond simply "weaker than resin": plain GIC is not preferred as a base/lute under a ceramic restoration because of its low compressive strength (resin composite, with its higher elastic modulus, is preferred instead), and resin-modified GIC specifically risks a hygroscopic-expansion fracture of an all-ceramic crown if used as the luting cement — "use with caution," not a default-safe option [SRC, SIKRI]. Zirconia full-coverage crowns with adequate retention form can be cemented conventionally (Blatz et al, 2022).
 
 ### 14. Limitations and unsettled issues
 Brittleness, bonding technique sensitivity, repair difficulty, low-temperature degradation of zirconia, short follow-up for newer materials, and the unproven integrity of multilayer zirconia structures (Zhang and Kelly, 2017).
@@ -117,10 +118,11 @@ Brittleness, bonding technique sensitivity, repair difficulty, low-temperature d
 A dental ceramic is a non-metallic inorganic material processed by firing at high temperature. Ceramics are the principal tooth-coloured indirect restorative materials because of their esthetics, biocompatibility and chemical durability, but they are brittle. This essay covers history, classification, microstructure, systems, fabrication, properties, performance, design, selection, bonding and advances.
 
 ### History
-- 1774 Duchateau and de Chemant: first porcelain dentures.
-- 1886 Land: porcelain inlays, onlays and crowns (about 60 MPa, brittle).
-- 1949 vacuum firing; 1962 Weinstein: leucite porcelain matched to alloy CTE, giving the metal-ceramic crown.
-- 1960s alumina reinforcement; 1980s pressing and CAD/CAM; 1990s In-Ceram, Procera, Empress 2; 2000s zirconia; 2010s translucent zirconia, resin-matrix and printed ceramics.
+- 1774 Duchateau's own "mineral paste teeth"; 1788 de Chemant's first single-block baked-porcelain denture, patented 1789 — two distinct contributions, not one fact.
+- 1886 Land describes porcelain inlay/crown technique (*Dental Cosmos* 1903 publication); separately, Michigan's text credits Land's gas/gasoline furnace and porcelain jacket crowns to 1889. Original porcelain extremely brittle, about 60 MPa.
+- Vacuum firing cuts porosity from ~5.6% (air-fired) to ~0.56% (Semmelman 1959) — a well-documented effect, though no primary source consulted gives "1949" as its date. 1962 Weinstein et al.: two separate US patents (feldspathic-porcelain CTE formulation; alloy composition for chemical bonding), creating the metal-ceramic crown.
+- 1960s alumina reinforcement (McLean & Hughes, 1965); 1980s pressing and CAD/CAM (Duret 1973 concept, Mörmann/CEREC 1985 first clinical system); 1990s In-Ceram, Procera, Empress 2; 2000s zirconia; 2010s translucent zirconia, resin-matrix and printed ceramics.
+- Metal-ceramic's share of fixed prosthodontics has fallen over time, not sat at one figure: ~90% (1994 survey) → ~60-70% ("recently," Phillips 12th ed.) — cite as a trend with each figure's era, not a single "70-80% circa 2011" fact.
 
 ### Classification
 1. **Composition:** glass-matrix (feldspathic, leucite, lithium disilicate, ZLS), polycrystalline (alumina, zirconia), resin-matrix (PICN, nanoceramic).
@@ -131,11 +133,12 @@ A dental ceramic is a non-metallic inorganic material processed by firing at hig
 ### Strengthening mechanisms
 | Mechanism | Example | Effect |
 |---|---|---|
-| Dispersion strengthening | Leucite, lithium disilicate | Crack deflection; KIc 0.75 → 1.3 → 3.3 |
+| Dispersion strengthening | Leucite, lithium disilicate | Crack deflection; KIc 0.78→1.2→2.75 (Craig's) or 0.75→1.3→3.3 (Phillips) — edition-dependent, cite source |
 | Ceraming | Dicor, e.max | Controlled crystal growth |
-| Interpenetrating network | In-Ceram | Alumina scaffold plus glass; about 550 MPa |
-| Transformation toughening | 3Y-TZP | Tetragonal to monoclinic, about 4% expansion |
-| Resin-ceramic network | Enamic | Dentin-like modulus |
+| Interpenetrating network (In-Ceram) | Alumina scaffold + glass | Composition/strength genuinely conflict by source: ~85-90%+ alumina, ~450-620 MPa depending on edition/variant — NOT a settled "70 vol%/550 MPa" |
+| Ion exchange / thermal tempering | Molten KNO3 bath; rapid quench | >100% strength gain via compressive surface zone; no longer used clinically (ion exchange, per Craig's); lost if ground |
+| Transformation toughening | 3Y-TZP | Tetragonal to monoclinic; volume expansion is Phillips' 3-5% range, not a flat "~4%" (van Noort gives no number) |
+| Resin-ceramic network | Enamic | Dentin-like modulus; PICN not covered in any ~2013-edition primary text consulted |
 
 ### Systems and properties
 | Material | Strength (MPa) | Toughness (MPa·m^0.5) | Use |
@@ -185,13 +188,13 @@ Monolithic where possible; adequate thickness; supported veneer; slow cooling an
 1.0-1.5 mm axial, 1.0-2.0 mm incisal/occlusal, 1.5-2.0 mm clearance; chamfer or 1 mm shoulder; about 10° taper; rounded angles; uniform reduction; minimum thickness by material.
 
 ### Bonding and cementation
-| Ceramic | Protocol |
-|---|---|
-| Feldspathic / leucite | 9.8% HF 2 / 1 min → ultrasonic alcohol → silane 20 s |
-| Lithium disilicate | 4.6-5% HF 20 s → silane |
-| Zirconia | 50 μm alumina at 2 bar → MDP primer (no HF) |
-| PICN | HF 1 min → silane |
-Tooth: 30-37% phosphoric acid → adhesive. Resin cement: dual-cure for posterior, light-cure for veneers.
+| Ceramic | Modern protocol (Blatz/AP) | Older protocol (Sikri/Craig's) |
+|---|---|---|
+| Feldspathic / leucite | 9.8% HF 2/1 min → ultrasonic alcohol → silane 20s; OR AP: 5-9.5% HF 10-60s | 8-12% HF 1-3 min (feldspathic longer) |
+| Lithium disilicate | 4.6-5% HF 20s → silane | 2.5-10% HF 1-4 min (Craig's range) |
+| Zirconia | 50µm alumina at 2 bar → MDP primer (NEVER HF — no amorphous silica phase) | same principle, all eras agree |
+| PICN | HF 1 min → silane | — |
+Tooth: 30-37% phosphoric acid → adhesive. Resin cement: dual-cure for posterior, light-cure for veneers (colour stability/working time). Base/lute caution: plain GIC not preferred under ceramic (low compressive strength; resin composite base preferred); resin-modified GIC luting cement risks hygroscopic-expansion fracture of an all-ceramic crown — use with caution, not by default.
 
 ### Recent advances
 Translucent 4Y/5Y and graded zirconia; zirconia-reinforced lithium silicate; resin-matrix blocks; CAD-on; printed ceramics; digital shade analysis.
@@ -205,12 +208,13 @@ Ceramics have progressed from brittle feldspathic porcelain to a spectrum of eng
 ---
 
 ## HIGH-YIELD POINTS
-- 1774, 1886, 1949, 1962: landmarks.
-- Mechanisms: dispersion, ceraming, infiltration, transformation toughening.
-- KIc: 0.75 (glass) → 1.3 (leucite) → 3.3 (lithium disilicate).
+- History dates are genuinely split across sources: Duchateau 1774 (his own work) vs de Chemant 1788/1789 (first single-block denture, separate contribution); Land 1886 (technique) vs 1889 (Michigan's furnace/jacket-crown date); Weinstein 1962 = a PATENT (two of them), not a study.
+- Mechanisms: dispersion strengthening, ion exchange/thermal tempering, ceraming, interpenetrating-network infiltration, transformation toughening.
+- Fracture-toughness ladder is edition-dependent — cite the source: Craig's 0.78→1.2→2.75 vs Phillips' 0.75→1.3→3.3 MPa·m^0.5. Zirconia transformation volume change: Phillips' 3-5%, not a flat "4%."
+- In-Ceram composition/strength genuinely conflicts by source (~85-90%+ alumina, ~450-620 MPa) — the "70 vol%/550 MPa" figure is not textbook-supported.
 - Veneered zirconia chips; glass-ceramic FDPs fracture at connectors.
-- Glass phase = HF + silane; zirconia = air abrasion + MDP.
-- Moshaverinia substrate rule (50% enamel).
+- Glass-phase ceramics = HF + silane (concentration/time era-dependent: 8-12%/1-3min older vs 5-9.5%/10-60s modern); zirconia = air abrasion + MDP, NEVER HF.
+- Moshaverinia substrate rule (50% enamel); GIC not preferred as a ceramic base (low compressive strength); RMGIC luting risks hygroscopic-expansion fracture of all-ceramic crowns.
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: classification tree (composition, fabrication, application) | with examples | 3 min]
@@ -220,11 +224,12 @@ Ceramics have progressed from brittle feldspathic porcelain to a spectrum of eng
 
 ## COMMON EXAM MISTAKES
 1. No classification frame.
-2. Quoting one set of strength numbers without a source or method.
+2. Quoting one set of strength/toughness numbers as if settled, without naming the source/edition — the fracture-toughness ladder and In-Ceram composition are genuinely contested across textbooks.
 3. Forgetting failure modes and design principles.
 4. Applying HF to zirconia.
-5. Omitting bonding or cementation.
+5. Omitting bonding or cementation, or stating one HF concentration/time as if it were the only protocol (older vs modern sources differ).
 6. Not stating that "ceramic" and "porcelain" differ.
+7. Collapsing Duchateau (1774)/de Chemant (1788-89) into one fact, or treating Weinstein 1962 as a journal study rather than a patent.
 
 ## MNEMONIC
 **"H-C-S-F-P-B"**: History, Classification, Strengthening, Fabrication, Properties, Bonding.
@@ -239,10 +244,15 @@ Ceramics have progressed from brittle feldspathic porcelain to a spectrum of eng
 - Blatz MB, Conejo J, Alammar A, Ayub J. Current protocols for resin-bonded dental ceramics. Dent Clin North Am. 2022;66:603-625. doi:10.1016/j.cden.2022.05.008.
 - Manso AP, Silva NRFA, Bonfante EA, Pegoraro TA, Dias RA, Carvalho RM. Cements and adhesives for all-ceramic restorations. Dent Clin North Am. 2011;55:311-332. doi:10.1016/j.cden.2011.01.011.
 - Study-material digests (`SubModule_2.2`, `5.2`, `5.3`, `6.2`) of Sakaguchi et al 2019, Anusavice et al 2013, Powers and Wataha 2013, Craig 2002, Ricketts and Bartlett 2011, Sikri 2017, Goldstein et al 2018.
+- van Noort RV, Barbour ME. *Introduction to Dental Materials*. 4th ed.
+- Bonsor SJ, Pearson GJ. *A Clinical Guide to Applied Dental Materials*.
+- Powers JM, Wataha JC. *Dental Materials: Properties and Manipulation*. 10th ed.
+- Anusavice KJ, Shen C, Rawls HR, eds. *Phillips' Science of Dental Materials*. 12th ed.
+- McCabe JF, Walls AWG. *Applied Dental Materials*. 9th ed.
+- Craig RG, ed. *Restorative Dental Materials*. 11th ed. (Michigan).
+- Sikri VK. *Indirect Restorations in Dental Practice*. 2nd ed.
+- Alani A, Patel M. *Adhesive Techniques in Restorative Dentistry*.
+- *Sturdevant's Art and Science of Operative Dentistry*. 2e South Asian ed.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Craig's 14th ed. Ch.11 (Denry) Table 11.2 and classification; Phillips Ch.18 (pp.426-458) for processing, metal-ceramic bonding, zirconia; verify every figure marked "via digest".
-- Sikri (2017) Ch. on preparation (pp.120-146) and ceramic cementation (pp.234-235): HF 8-12% for 1-3 min versus Blatz 9.8%/4.6%: record the contradiction and keep both.
-- Powers and Wataha (2013) pp.189-190: crystallinity spectrum; sintering shrinkage up to 10% linear; 25% for zirconia is from Craig's/Guess.
-- Craig (2002) p.564-565 slip-cast process temperatures.
-- Zhang and Kelly (2017): HF "9.8% for 2 min" is from Blatz, not Zhang; do not interchange.
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Five parallel readers opened the primary textbooks directly; full findings in `ceramics/_AUDIT_2026-10-14.md`. Applied here: corrected/attributed-by-edition history dates, fracture-toughness ladder, In-Ceram composition/strength, zirconia transformation %; added ion-exchange/thermal tempering as strengthening mechanisms; added the dual-era (older Sikri/Craig's vs modern Blatz/Alani&Patel) HF-etch protocol table; added the GIC-base and RMGIC-luting cautions. **Confirmed unfillable from the primary textbooks consulted**: PICN/resin-matrix ceramics, 3D-printed ceramics, and formal ISO 6872 full-text classification are not covered in van Noort/Bonsor/Powers&Wataha (all ~2013 editions) — this content remains sourced only from the newer journal articles already cited above, which is appropriate given the gap.

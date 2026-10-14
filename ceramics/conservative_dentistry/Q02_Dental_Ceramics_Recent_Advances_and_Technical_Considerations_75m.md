@@ -11,7 +11,7 @@
 2. "processing|cooling|framework|connector|aging|polishing" → Guess et al (2011) [SRC].
 3. "bonding protocol|try-in cleaning|zirconia primer" → Blatz et al (2022); Manso et al (2011) [SRC].
 4. "selection / substrate" → Moshaverinia (2020) [SRC].
-Textbooks not opened.
+5. **2026-10-14 textbook audit**: primary textbooks (van Noort, Bonsor, Powers & Wataha, Craig's, Michigan, Phillips, McCabe, Sikri, Alani & Patel — see `ceramics/_AUDIT_2026-10-14.md`) opened directly [SRC]. Confirms this file's own prior note: zirconia generations (3Y/4Y/5Y), ZLS, graded discs and printed ceramics are genuinely NOT covered in any of the ~2013-edition primary textbooks read this session (van Noort, Bonsor, Powers & Wataha) — the journal-article sourcing already used is appropriate and necessary for this material, not a gap to fix. The HF-etch protocol table below is corrected with dual-era attribution from the audit.
 
 ---
 
@@ -46,7 +46,7 @@ Textbooks not opened.
 4. **Finishing:** adjust with fine diamonds under water, then full polishing sequence; highly polished zirconia gives low antagonist wear (Guess et al, 2011; Bacchi and Cesar, 2022). Avoid aggressive sandblasting and coarse burs (Zhang and Kelly, 2017).
 5. **Contact design:** avoid sharp cusps near crown edges (Zhang and Kelly, 2017).
 6. **Substrate:** high-modulus build-up and cement reduce flexure (Zhang and Kelly, 2017).
-7. **Bonding** (Blatz et al, 2022): feldspathic 9.8% HF 2 min; leucite 9.8% HF 1 min; lithium silicate 4.6% HF 20 s; PICN 9.8% HF 1 min; all followed by ultrasonic alcohol cleaning 5 min and 20 s silane; Y-TZP 50 μm alumina at 2 bar plus MDP primer. HF concentration and time depend on glass and crystal content (Blatz et al, 2022); manufacturer recommendations vary (Nejat, 2025: 5% HF, 10-60 s).
+7. **Bonding** (Blatz et al, 2022, modern protocol): feldspathic 9.8% HF 2 min; leucite 9.8% HF 1 min; lithium silicate 4.6% HF 20 s; PICN 9.8% HF 1 min; all followed by ultrasonic alcohol cleaning 5 min and 20 s silane; Y-TZP 50 μm alumina at 2 bar plus MDP primer, NEVER HF (no amorphous silica phase for HF/silane to act on) [SRC]. This is genuinely one of several era-specific protocols, not the only correct one: Sikri's own (older, directly read this session) protocol gives 8-12% HF for 1-3 min; Alani & Patel's modern BDJ guide gives 5% or 9.5% HF for only 10/20/60s; Craig's gives 2.5-10% for 1-4 min [SRC, SIKRI/AP/CR] — present the range with attribution rather than picking Blatz's figures as the sole answer.
 8. **Try-in contamination:** saliva phosphate contaminates the surface; clean with Ivoclean (zirconium oxide suspension) or Katana Cleaner (MDP salt) (Blatz et al, 2022).
 9. **Cementation:** light-cure for veneers; dual-cure for inlays, onlays and thick restorations; total-etch gives better seal under feldspathic veneers than self-etch (Blatz et al, 2022); zirconia crowns of adequate retention can be cemented conventionally.
 10. **Repair:** etchable ceramics repair intraorally; zirconia repair is difficult (Blatz et al, 2022; Nejat, 2025).
@@ -104,7 +104,7 @@ Material-specific protocols, MDP primers, universal primers with silane plus MDP
 | Finishing | Fine diamond with water, polish; avoid coarse burs |
 | Occlusion | Blunt cusps, no sharp contacts near edges |
 | Substrate | High-modulus core build-up and cement |
-| Bonding | Glass-ceramic: HF + silane; zirconia: 50 μm alumina at 2 bar + MDP |
+| Bonding | Glass-ceramic: HF + silane (modern 5-9.5%/10-60s vs older 8-12%/1-3min, both attributed); zirconia: 50 μm alumina at 2 bar + MDP, never HF |
 | Try-in | Clean with Ivoclean or Katana Cleaner |
 | Cementation | Light-cure veneers, dual-cure posterior; zirconia crowns with retention can be conventionally cemented |
 | Repair | Etchable: HF/silane; zirconia: air abrasion/MDP |
@@ -151,8 +151,5 @@ Advances in ceramics have given clinicians a spectrum from highly translucent ad
 - Blatz MB et al. Dent Clin North Am. 2022;66:603-625. doi:10.1016/j.cden.2022.05.008.
 - Moshaverinia A. Dent Clin North Am. 2020;64:621-631. doi:10.1016/j.cden.2020.05.002.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Textbook coverage of zirconia generations (3Y/4Y/5Y), ZLS and printing is thin in Craig's 14th ed. and Phillips; the study-material digest notes that 3Y/4Y/5Y nomenclature was not found verbatim in the editions used. Confirm and cite the textbook where it exists.
-- Manufacturer values (CEREC Tessera 700, e.max CAD 530, Katana STML 750, UTML 550) come from Nejat's Table 1; the original data sheets were not read.
-- Minimum thickness and connector sizes are manufacturer recommendations (Nejat 2025 Table 1); check Summitt (Hilton et al, 2013) Ch.17-18 for textbook values.
-- HF concentrations: Blatz (9.8%/4.6%) versus Nejat (5%) versus Sikri (8-12%).
+## TEXTBOOK AUDIT APPLIED (2026-10-14)
+Five primary-textbook readers (`ceramics/_AUDIT_2026-10-14.md`) **confirm** this file's own prior suspicion: zirconia generations (3Y/4Y/5Y), ZLS and printed-ceramic content is genuinely absent from van Noort, Bonsor, Powers & Wataha, and from the ceramics chapters of Craig's/Phillips/McCabe read in full this session — all are either too old (~2013) or simply don't cover these specific newer products. The journal-article sourcing (Nejat 2025, Bacchi & Cesar 2022) remains the correct and necessary source for this material; no textbook correction was possible or needed here. HF concentration/time is now presented as two attributed eras (Blatz/Alani&Patel modern vs Sikri/Craig's older) rather than picking one figure.
