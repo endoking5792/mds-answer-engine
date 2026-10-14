@@ -2,6 +2,9 @@
 
 Read this first in a new session. Governing rules: `~/.claude/skills/dental-study-material/SKILL.md` Section 7 (invoke skill `dental-study-material`). This file only adds working state.
 
+## GitHub (added 2026-10-14)
+This whole directory (`~/.claude/answer_tools/`) is now a private GitHub repo: **https://github.com/endoking5792/mds-answer-engine**. It holds the tools, all per-topic answer `.md` files, this HANDOFF.md, and a mirrored copy of the governing skill (`skill/dental-study-material-SKILL.md`) — see the repo's own `README.md` for exactly what's tracked vs. deliberately excluded (final `.docx` builds, the Obsidian vault, OneDrive). **Standing policy going forward: commit and push to this repo automatically whenever a topic's work is finished** (new build or audit pass) — no need to ask each time. Purpose: lets this project be continued from a Claude Code **cloud** session or another device by cloning the repo, not just from this Mac. If the live skill file (`~/.claude/skills/dental-study-material/SKILL.md`) changes, re-copy it into `skill/dental-study-material-SKILL.md` and commit — the two must be kept in sync manually, there's no automated link between them.
+
 ## Status (2026-10-14, FINAL for Amalgam, post-audit): ALL DONE.
 Final docx: OneDrive `MDS III/Answers/DentalMaterials_01_Amalgam_Answers.docx` (Q1-Q12, structure-verified — 12 top-level headings, 1100 paragraphs, ~48,200 words, correct order). Per-question Markdown saved in vault `Question Paper Bank/Answers/Dental Materials/Amalgam/` and mirrored in `Question Paper Bank/All Answers (Consolidated)/Dental Materials/Amalgam/` (12 files). Consolidated `00_INDEX.md` updated with Q12. Answer Bank artifact (https://claude.ai/artifact/YRBFYrpgfh8aWhg9Qp1uvu) republished with all 12 files and a regenerated manifest.json (70 total questions across all topics). Next topic: ask the user which one.
 
