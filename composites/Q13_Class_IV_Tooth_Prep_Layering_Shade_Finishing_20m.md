@@ -34,7 +34,10 @@ Shade determination must be performed BEFORE rubber dam isolation, on clean, hyd
 An opaque dentin-shade increment first replicates lost dentin anatomy (including dentin mamelons, the natural lobed projections visible through translucent enamel in younger teeth), followed by a more translucent enamel-shade increment replicating lost enamel — dentin-shade increments must NEVER reach the cavosurface margin, leaving room for the enamel layer to cover it [SRC, condensed from Q9]. An opaque "halo" filament along the incisal edge, matched to the tooth's own cervical shade, simulates the natural incisal opacity band [SRC, condensed].
 
 ### 6. Insertion and finishing
-Composite is inserted in finer 1-2mm increments (reflecting incisal-edge load-bearing demands) [SRC, p.554]. Finishing follows the sequence established in Q7: coarse-to-fine graduated abrasive discs/points (NOT rubber points, shown to give the worst surface finish), with the counter-intuitive, evidence-based option of delaying finishing to a later appointment to improve eventual wear resistance [SRC, condensed from Q7].
+Composite is inserted in finer 1-2mm increments (reflecting incisal-edge load-bearing demands) [SRC, p.554]. Finishing follows the sequence established in Q7: coarse-to-fine graduated abrasive discs/points (NOT rubber points, shown to give the worst surface finish in McCabe's specific comparison — though note Michigan's own separate polishing table does not test an equivalent "rubber point" category, so this is correctly sourced to McCabe specifically, not a universal textbook consensus [composites/_AUDIT_2026-10-15.md A.12]), with the counter-intuitive, evidence-based option of delaying finishing to a later appointment to improve eventual wear resistance [SRC, condensed from Q7].
+
+### 7. Cross-reference: when direct technique is insufficient (new, 2026-10-15 textbook audit)
+For larger/more extensive Class IV defects, or where free-hand direct build-up risks an unsatisfactory incisal/proximal form despite the custom lingual matrix above, the "direct-indirect" (semidirect) technique described fully in Q08 is a documented alternative — sculpting the restoration on the unprepared/prepared tooth, removing it for a supplemental extraoral light-cure and heat-tempering step (raising degree of conversion), then adhesively luting it back — rather than finishing the entire restoration intraorally in one sitting [composites/_AUDIT_2026-10-15.md B; see Q08 for the full protocol]. This answer's own scope remains the direct, single-sitting technique described above; Q08 should be consulted for the semidirect alternative and the fuller composite-veneer-specific taxonomy.
 
 ---
 
@@ -99,3 +102,7 @@ Successful Class IV composite restoration depends on treating preparation, matri
 - [SRC] Module 1 `SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md` §2, p.550, 553-554 — full custom-lingual-matrix step-by-step protocol, standard-matrix lingual-crease correction, occlusal-assessment emphasis.
 - [SRC] Module 1 shade-matching study material (reused, dehydration-trap rule, VITA systems).
 - [SRC] Condensed from `Q07_Finishing_and_Polishing_of_Restorations_25m.md`, `Q09_Define_Classify_Composites_and_Incisal_Angle_Restoration_25m.md`.
+- Textbook audit, 2026-10-15 — "rubber points worst" source-specificity caveat; cross-reference to Q08's direct-indirect/semidirect technique for larger defects. See `composites/_AUDIT_2026-10-15.md`.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-15)
+Added the caveat that the "rubber points give the worst finish" finding is specifically McCabe's, not corroborated by Michigan's separate table; added a cross-reference to Q08's direct-indirect (semidirect) technique as a documented alternative for larger Class IV defects. Full ledger: `composites/_AUDIT_2026-10-15.md`.
