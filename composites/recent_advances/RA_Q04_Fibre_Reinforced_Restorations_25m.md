@@ -11,8 +11,9 @@
 ---
 
 ## RETRIEVAL REPORT
-1. Applications, critical fibre length, and Krenchel factor (uniaxial/biaxial/random orientation efficiency) condensed from `composites/Q21_Fibre_Reinforced_Composites_10m.md`, sourced from McCabe & Walls, *Applied Dental Materials*, 9th ed., §22.6, printed p.213 [SRC, condensed].
+1. Applications, critical fibre length, and Krenchel factor (uniaxial/biaxial/random orientation efficiency) condensed from `composites/Q21_Fibre_Reinforced_Composites_10m.md`, sourced from McCabe & Walls, *Applied Dental Materials*, 9th ed., §22.6, printed p.213 [SRC, condensed]. **This citation is KEPT and NOT removed by the 2026-10-15 audit** — the six parallel textbook readers in that audit did not independently find the Krenchel-factor numbers in the composite-chapter extracts they paged through (a confirmed gap, not a contradiction of this existing, earlier direct page-read — see Retrieval Report item 3 below).
 2. Short fibre-reinforced composite (SFRC) as a bulk dentine-replacing base — condensed from `recent_advances/RA_Q03_Recent_Advances_in_Posterior_Composites_25m.md` (WebSearch this session) [SRC, condensed].
+3. **2026-10-15 textbook audit** — van Noort's Table 2.2.5 named commercial FRC products with outcome data (ledger B); the audit explicitly notes the six readers did NOT find the Krenchel-factor/orientation-efficiency numbers in any textbook extract this pass, confirming (not contradicting) the existing MCC §22.6 citation above, which came from an earlier direct page-read in this project outside what this pass's readers covered. Full findings in `composites/_AUDIT_2026-10-15.md`. [VN]
 
 ---
 
@@ -20,6 +21,9 @@
 
 ### 1. Two structurally distinct fibre-reinforcement systems
 LONG/continuous fibre systems (glass or carbon fibre, typically woven or unidirectional ribbon) are used for posts (root-filled teeth) and resin-bonded bridge frameworks — McCabe's classical application set. SHORT fibre-reinforced composite (SFRC) is a newer, structurally distinct system in which short, randomly or semi-aligned discontinuous fibres are pre-mixed directly into a flowable/packable composite base material, used as a bulk dentine-replacing layer under a conventional composite cap rather than as a discrete post/framework [SRC, condensed Q21/RA-Q3].
+
+### 1b. Named commercial FRC products with outcome data (audit B, new — van Noort Table 2.2.5)
+Fibre-Kor, Stick, Vectris, Ribbond — named by fibre type/form. Outcome data: FRC splints perform well to **4+ years**; removable-denture FRC outcomes are **"more variable"** [VN Table 2.2.5].
 
 ### 2. What determines reinforcement efficiency — the Krenchel factor
 Reinforcement depends on fibre quantity, orientation, fibre-resin bond quality, and fibre length (relevant only below each fibre's critical length). Orientation efficiency is quantified by the Krenchel factor: uniaxial =1 (max strength, anisotropic); perpendicular/biaxial =0.5 (orthotropic); random =0.2 (isotropic, lowest efficiency) [SRC, condensed Q21].

@@ -13,6 +13,7 @@
 2. Searched Module 1 study material for "Class IV, custom lingual matrix, anatomic matrix" → hit: `SubModule_4.2b_ClassIII_IV_V_Composite_Protocols.md` §2 — real, page-cited incisal-angle restoration technique (custom lingual matrix, anatomic matrix, polyester-strip technique with the lingual-crease correction) [SRC].
 3. Searched the same module for "illusion, proportion, embrasure, SPA factor" → hit: `SubModule_6.2_Restoration_of_Esthetic_Zone.md` §"Smile Analysis" and §"Internal vs Surface Characterization" — real, page-cited proportion/illusion principles (RED proportion, SPA factor, embrasure/connector-area rule, apical zenith, value-based illusion, macro/microtexture) from Goldstein's Esthetics in Dentistry [SRC].
 4. No live search was needed; all substantive claims trace to [SRC] material above.
+5. **2026-10-15 textbook audit** — six parallel readers opened primary textbooks directly (CR, PHIL, VN, BON, MARZ). Full findings in `composites/_AUDIT_2026-10-15.md`. Applied below: filler-loading-by-class attributed per source (ledger A.1), nanomer/nanocluster size ranges attributed per source (ledger A.10), and Marzouk's six-generation filler-reinforcement classification added as a supplementary scheme (ledger B).
 
 ---
 
