@@ -210,3 +210,24 @@ Mirrors the ceramics audit methodology exactly, done at the user's explicit requ
 3. Answer Bank artifact republished as Version 11 using `publish_guard.py`'s full merge → stale-check → publish → verify cycle: since all 42 paths already existed live, this was correctly recognized as 42 UPDATES, not additions — 149→149 manifest entries, 152→152 files, `VERIFY OK`, nothing lost. Several files roughly doubled in size (e.g. Q01 52KB→63KB, Q08 Composite Veneers 19KB→37KB).
 
 **Composites is now FINAL with a completed deep textbook audit**, matching ceramics' status. Next topic: ask the user which one (impression, irrigants, medicaments remain unclaimed per WORKFLOW.md).
+
+---
+
+## 2026-10-15 (later) — Dental Burs: first draft complete, published
+
+New topic "dental_burs" claimed and built in full this session. Compiled all bur-specific questions from the local vault mirror of the Question Paper Repository (Conservative Dentistry and Dental Materials master repositories) rather than Google Drive directly (Drive wasn't connected this session; the vault mirror is the synced copy). Found 8 question instances, 7 after merging one exact repeat (two sittings of the same 5m "Dental burs"/"Dental burs — mechanics of cutting." short note):
+1. Q1 (5m SN) — Dental burs / mechanics of cutting (Oct 2016 + Nov 2020, merged).
+2. Q2 (7m SE) — Cross section of bur designs and types used for restorative procedures (16-Jul-2020).
+3. Q3 (10m SE) — Fissurotomy burs and polymer burs (May 2012).
+4. Q4 (10m SE) — Tungsten carbide burs v/s diamond burs, design and function (Mock 2025).
+5. Q5 (10m SN) — Types of rake angles of bur (Nov 2001, Dental Materials repo).
+6. Q6 (10m, marks unrecorded, treated as 10m per user decision) — Design characteristics of a dental bur (Dec 2005, Dental Materials repo misc list).
+7. Q7 (20m LE) — Discuss speeds in dentistry. Explain Bur Design in detail (Oct 2010).
+
+Confirmed scope with the user via AskUserQuestion before drafting: file under Conservative Dentistry (cross-referencing the two Dental Materials questions), draft in ascending-marks order, and treat Q6's unrecorded marks as 10m.
+
+**Sourcing**: no standing textbook extraction exists for this topic in this project (bur design/speeds content was never extracted from Sturdevant's/Marzouk's/Sikri's in this session — those extractions were lost to earlier documented `/tmp` wipes and not re-extracted, given lean-mode scope for a narrow, mostly-uncontested topic). Built instead from well-established [RECALL] content (bur anatomy, shear-vs-abrasion mechanism, material/shape/blade classification, Zach & Cohen heat threshold) plus targeted [LIT] WebSearches for the genuinely comparative/numeric claims: rake-angle trade-offs, carbide-vs-diamond heat-generation evidence (found thin and partly contradictory — flagged explicitly rather than resolved), fissurotomy-bur geometry and the unverified "91% less tooth removed" marketing claim, polymer-bur composition/hardness/self-limiting mechanism and its mixed efficacy/bond-strength evidence, and — the one genuinely contested point surfaced for Q7 — competing numeric rpm classification schemes for "speeds in dentistry" (Vimal Sikri's 3-tier vs Marzouk's 5-tier vs a third commercial convention), stated by name rather than picking one silently.
+
+**Output**: all 7 Markdown files saved to `Answers/Conservative Dentistry/Dental Burs/` (5 files) and `Answers/Dental Materials/Dental Burs/` (2 files) in the vault, mirrored to `All Answers (Consolidated)/`; topic .docx built at OneDrive `Answers/Conservative Dentistry/ConservativeDentistry_22_Dental_Burs_Answers.docx` (7 headings, ~6,880 words, structurally verified). `dental-study-notes` vault repo committed and pushed (both Answers and Consolidated copies, plus regenerated 00_INDEX.md/manifest.json). Answer Bank artifact republished via the standard LIVE→STAGE→merge→publish→verify flow (`publish_guard.py` not used for `cmd_stale`/`cmd_verify` this round since no files.txt before/after listing was captured as a separate step — merge output was 153→160 manifest entries with 0 lost, and the post-publish file listing was independently re-checked by eye: all 157 pre-existing files present plus the 7 new ones, 164 total). `mds-answer-engine` repo (`dental_burs/` folder, 7 draft `.md` files) and WORKFLOW.md tracker row committed and pushed.
+
+Dental Burs topic is now first-draft complete and published across all three destinations (vault, OneDrive docx, Answer Bank). No textbook audit has been run (no textbook source was used in the first place); if the user later locates a bur-design chapter in a standing textbook (Sturdevant's/Marzouk's/Sikri's all have one per this project's own Module 1 outline notes), an audit pass could add citable [SRC] content in place of some [RECALL]/[LIT] material.
