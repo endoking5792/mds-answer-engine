@@ -9,7 +9,8 @@
 ---
 
 ## RETRIEVAL REPORT
-1. All content condensed from this topic's own Q1 (Craig's 14th ed. Ch.9 p.153, read directly this session) [SRC, condensed]. No new retrieval needed; the question's own evidence picture is already well-documented in this topic's standing material.
+1. All content condensed from this topic's own Q1 (Craig's 14th ed. Ch.9 p.153, read directly this session) [SRC, condensed].
+2. **2026-10-15 textbook audit** (`composites/_AUDIT_2026-10-15.md`, ledger C) — sharpened the estrogenicity discussion with the specific BPA-vs-BPA-dimethacrylate (BPA-DM) distinction, the Olea et al. 1996 saliva finding, and explicit "largely discredited" language from both CR and MICH; added molecular-weight-dependent monomer leaching (low-MW TEGDMA/MMA leach more than high-MW Bis-GMA/UDMA); added Marzouk's pulp-dentin effective-depth safety thresholds, genuinely new content for this answer [SRC].
 
 ---
 
@@ -30,6 +31,15 @@ The tissue at highest risk from released-component exposure is the ORAL MUCOSA i
 ### 5. The estrogenicity controversy — a resolved, not an open, question
 Bisphenol A (a trace component in some uncured commercial composites) is estrogenic in vitro using breast-cancer-cell-growth assays. However, estrogenicity from CURED commercial composites has NOT been demonstrated, and there is considerable controversy about the accuracy/utility of breast-cancer-cell in vitro tests for measuring a true estrogenic effect. An early, widely circulated claim that dental sealants/composites are estrogenic specifically in children has SINCE BEEN DISCREDITED [SRC, condensed from Q1, Craig's p.153].
 
+### 5a. BPA vs BPA-dimethacrylate — a sharper distinction than "BPA is the concern" (TEXTBOOK AUDIT 2026-10-15, C)
+Newer studies specifically implicate **BPA-dimethacrylate (BPA-DM)**, not bisphenol A itself, as the real estrogenic agent of concern — PHIL states explicitly: "BPA-DM should be restricted... the effect of BPA [itself] is negligible." This is a genuinely sharper, more specific claim than the common simplified "BPA in composite is estrogenic" framing, and should be stated with this distinction intact. A concrete human-exposure data point: **Olea et al. (1996)** found measurable BPA in patient saliva within 1 hour of dental sealant placement — real evidence of transient exposure, though not itself evidence of a demonstrated clinical estrogenic effect. The pediatric-estrogenicity claim is independently described as "largely discredited" by BOTH Craig's and Michigan, a genuine two-source convergence worth citing explicitly rather than attributing the correction to a single text [PHIL/CR/MICH/Olea 1996].
+
+### 5b. Monomer leaching by molecular weight (TEXTBOOK AUDIT 2026-10-15, C)
+A further, genuinely useful mechanistic refinement: low-molecular-weight monomers — specifically TEGDMA and MMA — leach MORE than high-molecular-weight monomers such as Bis-GMA and UDMA. This gives a concrete, molecular-size-based explanation for why diluent monomers (added specifically to lower viscosity) carry disproportionately higher leaching risk compared with the bulkier base monomers they are mixed with [ledger C].
+
+### 5c. Marzouk's pulp-dentin effective-depth safety thresholds (TEXTBOOK AUDIT 2026-10-15, MARZ)
+A specific, quantified clinical safety framework, genuinely new to this answer: remaining dentin thickness (assuming etch acid does not reach dentin directly) of **≥3mm is associated with a healthy reparative pulpal reaction**; **1.5-3mm carries an unhealthy or possible pulpal reaction**; **<1.5mm always results in destruction**. This gives a concrete depth-based answer to "how close is too close" when assessing pulpal risk from a deep composite preparation, complementing the dentin-barrier-presence discussion above with an actual numeric threshold [MARZ].
+
 ---
 
 ## CRITICAL EVIDENCE SYNTHESIS (compressed, 1 claim, 3-5 sentences, per the question's own explicit "critically appraise" instruction)
@@ -46,7 +56,11 @@ Nearly all major composite resin components, including Bis-GMA, TEGDMA and UDMA,
 
 Pulpal risk specifically depends critically on whether a dentin barrier is present. A dentin barrier markedly reduces the ability of released components to reach pulpal tissue, even though some components can still traverse it at reduced concentration. The clinical scenario carrying genuinely elevated pulpal risk is composite used directly as a pulp-capping agent, where no dentin barrier exists at all to limit the pulp's exposure to released components — this is a real, evidence-supported risk, not a generalised concern about every composite restoration. For tissues beyond the pulp, the tissue at highest documented risk is the oral mucosa in close, prolonged contact with composite material, and documented contact allergy to composite components occurs predominantly in dentists and dental personnel who repeatedly handle uncured material, not in the general restored-patient population.
 
-The specific, most publicly circulated systemic claim — that composite components act as estrogenic xenoestrogens, particularly in children — deserves a clear, evidence-based correction rather than repetition as an open question. Bisphenol A, present as a trace component in some uncured commercial composites, is genuinely estrogenic in vitro using breast-cancer-cell-growth assays, but estrogenicity from fully CURED commercial composites has not been demonstrated, and there is considerable, legitimate scientific controversy about the accuracy and clinical relevance of breast-cancer-cell in vitro assays for measuring a true estrogenic effect in the first place. The specific early study that first raised alarm about sealant and composite estrogenicity in children has since been discredited. The defensible, critically appraised conclusion is therefore that residual monomer release poses a real but narrowly scoped risk — concentrated specifically in under-cured restorations and direct pulp-capping use, and in occupational exposure for dental personnel — rather than a demonstrated, general systemic health hazard for restored patients.
+The specific, most publicly circulated systemic claim — that composite components act as estrogenic xenoestrogens, particularly in children — deserves a clear, evidence-based correction rather than repetition as an open question. Bisphenol A, present as a trace component in some uncured commercial composites, is genuinely estrogenic in vitro using breast-cancer-cell-growth assays, but estrogenicity from fully CURED commercial composites has not been demonstrated, and there is considerable, legitimate scientific controversy about the accuracy and clinical relevance of breast-cancer-cell in vitro assays for measuring a true estrogenic effect in the first place. A sharper distinction belongs here rather than the generic "BPA is the concern" framing: newer studies specifically implicate BPA-dimethacrylate (BPA-DM), not bisphenol A itself, with Phillips' stating plainly that the effect of BPA alone is negligible while BPA-DM warrants restriction. Olea et al. (1996) documented measurable BPA in patient saliva within an hour of sealant placement, real evidence of transient exposure though not of demonstrated clinical harm. The specific early study that first raised alarm about sealant and composite estrogenicity in children has since been discredited — a conclusion both Craig's and Michigan converge on independently, strengthening rather than merely repeating the correction.
+
+A further mechanistic refinement sharpens the release picture already described: low-molecular-weight monomers, specifically TEGDMA and MMA, leach more than high-molecular-weight monomers such as Bis-GMA and UDMA, giving diluent monomers a disproportionately higher leaching risk relative to the bulkier base monomers they dilute. On pulpal risk specifically, Marzouk's text supplies a concrete, quantified depth threshold beyond the qualitative dentin-barrier discussion above: remaining dentin thickness of 3mm or more is associated with a healthy reparative pulpal reaction, 1.5-3mm with an unhealthy or possible reaction, and under 1.5mm with pulpal destruction essentially always, assuming etch acid itself does not reach the dentin directly.
+
+The defensible, critically appraised conclusion is therefore that residual monomer release poses a real but narrowly scoped risk — concentrated specifically in under-cured restorations, direct pulp-capping use, preparations leaving under 1.5-3mm of remaining dentin, and occupational exposure for dental personnel — rather than a demonstrated, general systemic health hazard for restored patients.
 
 ---
 
@@ -56,6 +70,9 @@ The specific, most publicly circulated systemic claim — that composite compone
 - Dentin barrier markedly limits pulpal exposure — direct pulp-capping use (no barrier) is the genuinely higher-risk scenario.
 - Highest-risk TISSUE is oral mucosa; highest-risk POPULATION for contact allergy is dental personnel handling uncured material, not restored patients.
 - Estrogenicity claim: BPA is estrogenic in vitro (uncured trace component), but NOT demonstrated from cured composite; the original children's-sealant-estrogenicity study has been discredited.
+- Sharper nuance: BPA-DM (not BPA itself) is the real concern per newer studies (PHIL: "effect of BPA is negligible"); Olea 1996 found BPA in saliva 1hr post-sealant; discredited pediatric claim confirmed independently by BOTH CR and MICH.
+- Monomer leaching by MW: low-MW TEGDMA/MMA leach MORE than high-MW Bis-GMA/UDMA.
+- Marzouk's pulp-depth thresholds: ≥3mm healthy reaction; 1.5-3mm unhealthy/possible; <1.5mm always destruction.
 
 ## COMMON EXAM MISTAKES
 1. Citing bulk-monomer cytotoxicity data as if it directly describes cured-restoration risk — these are different exposures.
@@ -68,6 +85,14 @@ The specific, most publicly circulated systemic claim — that composite compone
 
 ## REFERENCES
 1. Sakaguchi RL, Ferracane JL, Powers JM, eds. *Craig's Restorative Dental Materials*. 14th ed. St. Louis: Elsevier; 2019. Ch.9, p.153 (reused from Q1, read directly this session).
+2. Anusavice KJ, Shen C, Rawls HR, eds. *Phillips' Science of Dental Materials*. 12th ed. (BPA-DM distinction; this audit).
+3. Craig RG, ed. *Restorative Dental Materials* ("Michigan"), 11th ed. (discredited pediatric-estrogenicity claim, independent convergence with CR; this audit).
+4. Olea N, et al. 1996 (BPA in saliva post-sealant finding; this audit).
+5. Marzouk MA, Simonton AL, Gross RD. *Operative Dentistry: Modern Theory and Practice* (pulp-dentin effective-depth thresholds; this audit).
 
 ## SOURCE LOCATORS
 - [SRC] Condensed from `Q01_Evolution_of_Posterior_Composites_100m.md` — Craig's biocompatibility discussion (p.153), covering cytotoxicity, release dependence, dentin-barrier effect, allergy/estrogenicity evidence.
+- BPA-DM, Olea 1996, discredited-claim convergence, MW-dependent leaching, Marzouk pulp-depth thresholds — per `composites/_AUDIT_2026-10-15.md` ledger C.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-15)
+Per `composites/_AUDIT_2026-10-15.md` (ledger C): sharpened the estrogenicity discussion with the BPA-vs-BPA-DM distinction (PHIL: BPA itself "negligible"), the Olea et al. 1996 saliva-BPA finding, and the explicit two-source (CR+MICH) convergence on "largely discredited" pediatric-estrogenicity claims; added molecular-weight-dependent monomer leaching (low-MW TEGDMA/MMA leach more); added Marzouk's quantified pulp-dentin effective-depth safety thresholds, genuinely new content. Applied to Study Mode, the Critical Evidence Synthesis is unchanged in conclusion but now better supported, and the Exam Mode paragraph.

@@ -9,6 +9,7 @@
 ## RETRIEVAL REPORT
 1. Searched Module 1 for "caries control restoration, stepwise excavation, ART, interim therapeutic restoration" → hits: `SubModule_2.2_Caries_Removal_Strategies.md` (stepwise excavation protocol, the International Caries Consensus Collaboration's formal terminology, a genuine contested tension with Pickard's) and `SubModule_1.3_Caries_Risk_Assessment_and_Management.md` (the formal "caries control" definition, interim therapeutic restorations in the high-caries-risk management table) [SRC]. Both are genuinely new to this topic.
 2. No live search was needed; all substantive claims trace to [SRC] material above.
+3. **2026-10-15 textbook audit** (`composites/_AUDIT_2026-10-15.md`, ledger A.24/B) — confirms this answer's existing Pickard's "rather redundant" counterpoint is correctly sourced and should be retained as a genuine textbook-sourced counterpoint, not a replacement, to the ICCC framing; adds Marzouk's pulp-dentin effective-depth safety thresholds, relevant to deciding how aggressively to excavate near the pulp [SRC].
 
 ---
 
@@ -26,6 +27,9 @@ A DEEP caries lesion — the specific threshold at which selective/stepwise (rat
 ### 4. A genuine contested tension worth stating explicitly
 Pickard's Manual (9th ed.) takes a SKEPTICAL, superseding position: "Both stepwise excavation and ART follow the principles of minimally invasive dentistry... these terminologies are now rather redundant as current adhesive dental materials are more capable of sealing in and potentially rehabilitating diseased tissue" [SRC, Pickard's p.88] — i.e. staged caries-control technique is framed as a historical stepping-stone now largely absorbed into general adhesive-dentistry practice, a real disagreement with the ICCC's own formal, still-current staged guideline.
 
+### 4a. Marzouk's pulp-dentin effective-depth safety thresholds (TEXTBOOK AUDIT 2026-10-15, MARZ)
+A quantified depth framework, directly relevant to how aggressively caries-control excavation should proceed near the pulp (assuming etch acid does not reach dentin directly): remaining dentin thickness of **≥3mm is associated with a healthy reparative pulpal reaction**; **1.5-3mm carries an unhealthy or possible pulpal reaction**; **<1.5mm results in destruction essentially always**. This gives the clinician a concrete numeric threshold underlying the "retain soft dentine over the pulp" principle in Stage 1 of the ICCC protocol, rather than leaving the excavation depth decision purely qualitative [MARZ].
+
 ### 5. Interim Therapeutic Restorations (ITR) in caries-risk management
 For HIGH caries-risk patients specifically, interim therapeutic restorations are used as a bridging strategy "until permanent restorations [are] feasible," alongside active surveillance of non-cavitated lesions and restoration of cavitated/enlarging ones [SRC, condensed from the caries-risk-management table].
 
@@ -42,7 +46,7 @@ The original stepwise excavation protocol used a calcium hydroxide lining placed
 
 This staged approach is specifically indicated for deep caries lesions, radiographically defined as demineralisation extending to or beyond the inner third or quarter of the dentine and lying close to the pulp — the depth threshold at which selective or stepwise removal, rather than non-selective removal to hard dentine, becomes the recommended approach specifically to reduce the risk of pulp exposure. The underlying evidence supporting this recommendation carries a conditional, "suggested" grade with very-low-to-low certainty, an honest reflection of the quality and consistency of the available trials rather than a weak clinical rationale in itself.
 
-A genuine, worth-stating tension exists in the current literature on whether staged caries-control technique remains necessary at all. Pickard's Manual takes an explicitly skeptical position, arguing that both stepwise excavation and the Atraumatic Restorative Technique, while following genuinely sound minimally-invasive principles, have become somewhat redundant terminologies now that modern adhesive dental materials are capable of sealing in, and potentially rehabilitating, diseased tissue directly — a real disagreement with the International Caries Consensus Collaboration's own current, formally staged guideline, and one worth presenting as a live tension rather than a settled matter. In parallel, interim therapeutic restorations serve a related bridging function specifically in high-caries-risk patients, used until a permanent restoration becomes clinically feasible, alongside active surveillance of non-cavitated lesions and restoration of cavitated or enlarging ones.
+A genuine, worth-stating tension exists in the current literature on whether staged caries-control technique remains necessary at all. Pickard's Manual takes an explicitly skeptical position, arguing that both stepwise excavation and the Atraumatic Restorative Technique, while following genuinely sound minimally-invasive principles, have become somewhat redundant terminologies now that modern adhesive dental materials are capable of sealing in, and potentially rehabilitating, diseased tissue directly — a real disagreement with the International Caries Consensus Collaboration's own current, formally staged guideline, and one worth presenting as a live, genuine textbook-sourced counterpoint rather than a settled matter or an outright replacement of the ICCC framing. A quantified depth threshold, from Marzouk's text, gives the "retain soft dentine over the pulp" principle a concrete numeric basis: remaining dentin thickness of 3mm or more is associated with a healthy reparative pulpal reaction, 1.5-3mm with an unhealthy or possible reaction, and under 1.5mm with pulpal destruction essentially always, assuming etch acid itself does not reach the dentine directly. In parallel, interim therapeutic restorations serve a related bridging function specifically in high-caries-risk patients, used until a permanent restoration becomes clinically feasible, alongside active surveillance of non-cavitated lesions and restoration of cavitated or enlarging ones.
 
 ---
 
@@ -52,6 +56,7 @@ A genuine, worth-stating tension exists in the current literature on whether sta
 - ICCC's formal two-stage terminology (2016): Stage 1 retains soft caries over pulp + provisional restoration (6-12+ months); Stage 2 reassesses and completes removal before permanent restoration.
 - Indicated for DEEP lesions (demineralization to/beyond inner third/quarter of dentine) — evidence grade B, very-low-to-low certainty.
 - Genuine contested tension: Pickard's calls staged techniques "rather redundant" given modern adhesive materials — a live disagreement, not settled.
+- Marzouk's pulp-depth thresholds: ≥3mm healthy reaction; 1.5-3mm unhealthy/possible; <1.5mm always destruction — quantifies how deep excavation can safely go.
 - ITR (interim therapeutic restoration) = the high-caries-risk-management bridging strategy pending a permanent restoration.
 
 ## COMMON EXAM MISTAKES
@@ -66,7 +71,12 @@ A genuine, worth-stating tension exists in the current literature on whether sta
 1. International Caries Consensus Collaboration (IADR Cariology Research Group/ORCA), 2016 terminology consensus; 2026 clinical practice guideline (cited via Module 1 `SubModule_2.2_Caries_Removal_Strategies.md`).
 2. Banerjee A, Watson TF. *Pickard's Manual of Operative Dentistry*. 9th ed. Oxford: Oxford University Press, p.88.
 3. Module 1 `SubModule_1.3_Caries_Risk_Assessment_and_Management.md` (caries-control definition, ITR).
+4. Marzouk MA, Simonton AL, Gross RD. *Operative Dentistry: Modern Theory and Practice* (pulp-dentin effective-depth thresholds; this audit).
 
 ## SOURCE LOCATORS
 - [SRC] Module 1 `SubModule_2.2_Caries_Removal_Strategies.md`, p.1, 81-82, 88 — stepwise excavation protocol, ICCC two-stage terminology, deep-caries threshold, Pickard's contested position.
 - [SRC] Module 1 `SubModule_1.3_Caries_Risk_Assessment_and_Management.md`, p.75-76 — caries-control definition, ITR in high-risk management.
+- Marzouk pulp-depth thresholds — per `composites/_AUDIT_2026-10-15.md` ledger B.
+
+## TEXTBOOK AUDIT APPLIED (2026-10-15)
+Per `composites/_AUDIT_2026-10-15.md` (ledger A.24, B): confirmed this answer's existing Pickard's "rather redundant" counterpoint as correctly sourced and retained as a genuine counterpoint (not a replacement) to the ICCC framing; added Marzouk's quantified pulp-dentin effective-depth safety thresholds (≥3mm healthy, 1.5-3mm unhealthy/possible, <1.5mm destruction) to both Study Mode and the matching Exam Mode paragraph.
