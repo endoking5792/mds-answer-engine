@@ -27,7 +27,7 @@ Before you (or your Claude session) start building/auditing a topic, check the t
 | composites | FINAL across all three repositories, now including a deep textbook audit (6 parallel readers, 13 primary textbooks) on top of the original build — all 42 answers patched, vault + Answer Bank published and verified | Niranjan | 2026-10-15 |
 | ceramics | FINAL — deep textbook audit complete (5 parallel readers, 11 primary textbooks), all 35 answers patched, vault + Answer Bank published and verified | Roseline (draft); Niranjan (audit) | 2026-10-14 |
 | smart_materials | first-draft complete (4 questions: CD 10m+100m, RA 25m, Endo 100m) — literature-only topic (no standing textbook covers it), no audit applicable in the usual textbook-patch sense; vault + Answer Bank published and verified (157 live files, count-checked) | Niranjan | 2026-10-15 |
-| dental_burs | first-draft complete (7 questions, one repeat merged: CD 5m/7m/10m/10m/20m + DM 10m/10m) — literature-based (no standing textbook extraction used; live-sourced via WebSearch, tagged [LIT]/[RECALL]) — vault + Answer Bank published and verified (164 live files) | Niranjan | 2026-10-15 |
+| dental_burs | FINAL — deep textbook audit complete against Marzouk's/Sturdevant's/Summitt's/Pickard's (freshly extracted this session), all 7 answers patched; corrected a genuine rake-angle-geometry error found in the original draft; vault + Answer Bank republished and verified (164 live files, 0 lost) | Niranjan | 2026-10-16 |
 
 If a topic says "— unclaimed —", it's free to take. If someone else's name is already there, pick a different topic or message them before jumping in. With three people and only four unclaimed topics, claim one at a time rather than reserving several in advance.
 

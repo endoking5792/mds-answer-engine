@@ -3,62 +3,71 @@
 **Marks:** 7m, Short Essay
 **Sitting:** 16-Jul-2020 (RG PII RS-3)
 
-## Retrieval Report
-Lean mode (7m, below the 20m+ threshold for full critical synthesis). No comparative/numeric claim requiring live search beyond the classification itself, which is standard textbook material. No [LIT] search run.
+## Retrieval Report — AUDITED 2026-10-16
+Originally built lean-mode, [RECALL]-only. Audited against Marzouk's *Operative Dentistry* (OCR full text), Sturdevant's Ch.7 (freshly extracted pp.196-205/PDF pp.204-223), Summitt's Ch.7 (freshly extracted, PDF pp.368-371), and Pickard's Manual 9th ed. §5.8 (freshly extracted, printed pp.65-69/PDF pp.75-79). The audit found real, citable numbering-system and grit-size detail the original draft lacked, plus one genuine named-count discrepancy between sources, stated explicitly rather than resolved.
 
 ## STUDY MODE
 
 **Classification by material (cross-sectional composition):**
-1. **Carbon steel** — cheapest, dulls fastest, autoclave-intolerant (loses temper/hardness with repeated steam sterilization); largely obsolete for routine use. [RECALL] [Certain]
-2. **Stainless steel** — more corrosion- and heat-resistant than carbon steel, still less hard than carbide; used for hand-piece burs and some finishing burs. [RECALL] [Certain]
-3. **Tungsten carbide** — a sintered composite of tungsten carbide particles in a cobalt binder; far harder and more wear-resistant than steel, holds its edge under high-speed autoclavable use; the current standard for cutting tooth structure and metal. [RECALL] [Certain]
-4. **Diamond** — industrial diamond chips electroplated or sintered onto a steel blank; no discrete cutting edge, cuts by abrasion (cross-section shows irregular grit particles bonded to the blank surface rather than a machined blade). [RECALL] [Certain]
+1. **Carbon steel** — cheapest, dulls fastest, corrodes if not dried after sterilization, now rarely used clinically except as single-use burs (Pickard's, p.67 [PDF p.77]). [SRC]
+2. **Stainless steel.** [RECALL]
+3. **Tungsten carbide (TC)** — the current standard; became commercially available in **1947**, the single most significant advancement enabling present-day high-speed cutting (Summitt's, PDF p.369). Greater longevity, easily autoclavable (Pickard's, p.67). [SRC]
+4. **Diamond** — grit bonded to a steel blank, normally by **electroplating**; the electroplating process holds the diamonds in place but also covers much of the diamond surface, so various proprietary techniques exist to increase diamond exposure and cutting effectiveness. **More than 200 shapes and sizes of diamond instruments are currently marketed** (Sturdevant's, p.198-199 [PDF p.216-217]). [SRC]
 
-**Classification by head shape (the cross-sectional/longitudinal profile that determines cavity geometry):** round, inverted cone, pear/pear-shaped, straight fissure (plain or cross-cut), tapered fissure, wheel, flame, and end-cutting burs. Each shape is chosen to produce a specific internal cavity form — e.g., round burs for pulp-chamber access/caries removal, inverted-cone burs to create retentive undercuts in Class II amalgam preparations, tapered fissure burs for flared outline forms. [RECALL] [Certain]
+**Classification by head shape:** Sources genuinely disagree on exactly how many "basic" shapes to name, a real discrepancy worth stating rather than silently picking one: **Summitt's names five basic bur-head shapes for tooth preparation**, stating that "many other shapes are available; most are modifications of these five" (PDF p.370), whereas the broader descriptive list commonly taught (round, inverted cone, pear, straight fissure, tapered fissure, wheel, flame, end-cutting) runs to eight or more named shapes once modifications are included. Both are correct in context — Summitt's "five" are the foundational forms; the longer list enumerates named modifications/variants built from them. [SRC] [RECALL]
 
-**Classification by number/arrangement of blades (visible on cross-section of the head):**
-- **Plain-cut burs:** straight, parallel blades running the length of the head — more aggressive, rougher cut.
-- **Cross-cut burs:** an additional set of grooves cut transversely across the plain blades, breaking the cutting edge into smaller segments — increases cutting efficiency/chip clearance but leaves a rougher surface; mainly used for gross tooth reduction. [RECALL] [Certain]
+**Numbering systems — a genuine, citable history (new in this audit):** The **original numbering system was introduced by the SS White Dental Manufacturing company**, with nine shapes based on the burs available at that time; it has since been modified and expanded as new bur designs were developed. The **American National Standards Institute/American Dental Association (ANSI/ADA) specification** now provides standard characteristics for dental burs and lists both the **US numbers and the International Standards Organization (ISO) numbers**. The ISO numbering is diameter-based and combined with a shape code: a bur with a 0.8mm head diameter has ISO size 008; a 1.0mm diameter has ISO size 010; "ISO inverted cone 006" denotes an inverted-cone bur with a 0.6mm major diameter, corresponding to US bur no. 33½ (Summitt's, PDF p.370-371). [SRC]
 
-**Classification by use/function:** excavating burs (round, for caries removal), finishing burs (multi-fluted — 12, 16, 30+ blades — and finishing diamonds, for smoothing restorations), and specialized burs (e.g., endodontic access/Endo-Z burs with a non-cutting/safe tip, surgical length burs).
+**Classification by blade pattern:**
+- **Plain-cut:** continuous blade, more aggressive, rougher cut.
+- **Cross-cut:** additional transverse grooves across the blade, historically added because they were found to increase cutting efficiency — **but a genuine, citable correction belongs here: "Today, with high-speed handpieces, crosscut burs are not normally of any benefit"** (Summitt's, PDF p.371). Cross-cuts were a pre-high-speed-handpiece-era efficiency measure, not a universally beneficial modern design feature — the original draft presented cross-cut burs as straightforwardly more efficient without this historical qualifier. [SRC]
+
+**Diamond particle grading — real quantified data (new in this audit), replacing the original draft's vague colour-coding claim:** Sturdevant's gives standard sieve-based size categories for diamond preparation instruments: **coarse (125–150 µm), medium (88–125 µm), fine (60–74 µm), very fine (38–44 µm)** (p.199 [PDF p.217]). Larger particle size means fewer particles per unit area of the head, so for any given applied force the pressure on each particle tip is greater (and cutting correspondingly more aggressive but rougher). [SRC]
+
+**Classification by use/function:** excavating burs (round, for caries removal), finishing burs (multi-fluted diamonds/steel burs, plain-cut latch-grip steel finishing burs per Pickard's Fig 5.32), and specialized burs (e.g. self-limiting PKK/polyketone-ketone plastic burs for conservative carious-dentine removal — see this topic's Q3 for detail). [SRC] [RECALL]
 
 ## EXAM MODE
 *(Estimated writing time: ~14 minutes)*
 
 **I. By material (cross-section):**
-| Material | Hardness/durability | Typical use |
-|---|---|---|
-| Carbon steel | Lowest; not autoclavable long-term | Obsolete/rarely used |
-| Stainless steel | Moderate | Hand/slow-speed, finishing |
-| Tungsten carbide | High, autoclavable | Standard cavity cutting |
-| Diamond | Abrasive, very hard substrates | Enamel/ceramic cutting, finishing |
+| Material | Note |
+|---|---|
+| Carbon steel | Cheapest, corrodes, largely obsolete/single-use now |
+| Stainless steel | Moderate durability |
+| Tungsten carbide | Available since 1947; current standard, autoclavable |
+| Diamond | Electroplated grit on steel blank, >200 shapes/sizes marketed |
 
-**II. By head shape:** round, inverted cone, pear, straight fissure, tapered fissure, wheel, flame, end-cutting — each matched to a specific cavity-design requirement.
+**II. By head shape:** Summitt's names 5 basic preparation shapes (most other named shapes are modifications of these); the broader commonly-taught list (round, inverted cone, pear, straight/tapered fissure, wheel, flame, end-cutting) names these modifications individually.
 
-**III. By blade pattern:** plain-cut (continuous blade, aggressive) vs cross-cut (segmented blade, efficient chip removal, rougher finish).
+**III. Numbering:** SS White's original 9-shape system (historical) → modern ANSI/ADA spec with dual US-number/ISO-number coding, ISO number = diameter in tenths of a mm (008 = 0.8mm).
 
-**IV. By function:** excavating, finishing (multi-fluted), specialized (safe-tip/Endo-Z, surgical-length).
+**IV. By blade pattern:** plain-cut (aggressive, rough) vs cross-cut (historically more efficient pre-high-speed; **not materially beneficial with modern high-speed handpieces**).
 
-[DIAGRAM: Cross-sections of plain-cut vs cross-cut tungsten-carbide bur heads, plus silhouettes of the 8 common head shapes | Label blade angle on plain-cut, transverse grooves on cross-cut | Earns marks directly for "cross section of bur designs" wording in the question]
+**V. Diamond grit grading (quantified):** coarse 125-150µm > medium 88-125µm > fine 60-74µm > very fine 38-44µm.
+
+[DIAGRAM: Cross-sections of plain-cut vs cross-cut tungsten-carbide bur heads, plus a scale bar comparing the four diamond-grit size bands | Earns marks directly for "cross section of bur designs" and shows the real quantified grading the question rewards]
 
 ## HIGH-YIELD POINTS
-- Four material tiers: carbon steel < stainless steel < tungsten carbide < diamond (by hardness/durability, not by cutting mechanism).
-- Diamond cuts by abrasion; all others by shearing.
-- Plain-cut = aggressive/rough; cross-cut = efficient/segmented, still rougher than a finishing bur.
-- Head shape dictates cavity internal form (round, inverted cone, pear, fissure types, wheel, flame, end-cutting).
-- Finishing burs have far more blades (12-40+) than cutting burs (6-8).
+- Carbon steel < stainless steel < tungsten carbide (1947) < diamond (electroplated, >200 shapes marketed).
+- SS White's original 9-shape numbering → modern ANSI/ADA dual US/ISO numbering (ISO code = diameter in 0.1mm units).
+- Summitt's names 5 foundational head shapes; the longer 8-shape list names individual modifications of these.
+- Cross-cut burs: historically more efficient; **not materially beneficial with modern high-speed handpieces** — a genuine, examinable correction.
+- Diamond grit grading is quantified (coarse 125-150µm → very fine 38-44µm), not just colour-coded.
 
 ## DIAGRAMS TO DRAW
 - Plain-cut vs cross-cut blade cross-section.
-- Silhouette chart of the 8 standard head shapes.
+- Diamond grit size scale bar (coarse → very fine, with µm ranges).
 
 ## COMMON EXAM MISTAKES
-- Conflating "material" classification with "shape" classification — examiners expect both axes answered separately.
-- Forgetting cross-cut burs sacrifice surface smoothness for cutting speed (a commonly tested trade-off).
-- Omitting diamond's abrasive (non-shearing) mechanism when listing "types of burs."
+- Presenting cross-cut burs as unconditionally "more efficient" without the modern-high-speed-handpiece qualifier.
+- Quoting a colour-coding scheme for diamond grit without the actual µm size ranges — examiners reward the quantified version.
+- Not knowing the ISO numbering logic (diameter-based, combined with shape code) when asked to classify/number burs.
 
 ## MNEMONIC
-Material hardness order: "Steel Stays, Carbide Cuts, Diamond Dulls-nothing" (Steel → Stainless → Carbide → Diamond, ascending hardness).
+Material hardness order: "Steel Stays, Carbide Cuts since '47, Diamond Dazzles with 200+ shapes."
 
 ## SOURCE LIST
-- [RECALL] Standard bur-classification content (material/shape/blade-pattern/function), consistent across Sturdevant's, Marzouk's, Pickard's, Craig's; not individually re-verified this session per lean-mode scope for a 7m essay.
+- [SRC] Marzouk MM, *Operative Dentistry: Modern Theory and Practice* (bur material/head terminology, OCR full text).
+- [SRC] Sturdevant's Art and Science of Operative Dentistry, 2nd South Asian ed., Ch.7 — diamond classification, electroplating, >200 shapes marketed, quantified grit-size categories (p.198-199 [PDF p.216-217]).
+- [SRC] Summitt's Fundamentals of Operative Dentistry, Ch.7 — tungsten carbide's 1947 introduction, 5 basic head shapes, SS White original numbering system, ANSI/ADA US/ISO dual numbering with worked example, cross-cut-not-beneficial-at-high-speed correction (PDF pp.369-371).
+- [SRC] Pickard's Manual of Operative Dentistry, 9th ed., §5.8 — carbon-steel obsolescence/corrosion, tungsten-carbide autoclavability, finishing-bur figure descriptions (p.67 [PDF p.77]).
