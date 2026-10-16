@@ -146,4 +146,4 @@ Gutta-percha with sealer remains the standard. Choose cold lateral compaction or
 **[SRC]** Sikri 2019 Ch.20; Rotstein and Ingle 2019 Ch.22; Berman et al 2021 Ch.9; Gopikrishna 2021 Ch.16; Siqueira and Rôças 2022 Ch.15; Chong, *Harty's* Ch.9; Common Complications Ch.6; Chopra, *Bioceramics in Endodontics* Ch.12; Endodontic Prognosis Ch.9.
 
 ## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. Contradictions from the component answers carry over: gutta-percha temperature data, injection temperature, MTA plug length. **Pending:** Endodontic Prognosis editors and year.
+Read directly. Contradictions from the component answers carry over: gutta-percha temperature data, injection temperature, MTA plug length. **Resolved (Niranjan spot-check, 2026-10-16):** Endodontic Prognosis = Chugal N, Lin LM, eds., *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*, Springer, 2017.

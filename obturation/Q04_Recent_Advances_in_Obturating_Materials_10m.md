@@ -85,4 +85,4 @@ Newer materials improve handling, flow and biology on the bench, but none has ye
 **[SRC]** Sikri 2019 Ch.20; Azim and Aksel 2022 Ch.15; Berman et al 2021 Ch.9; Common Complications in Endodontics Ch.6; Jain P, ed. *Current Therapy in Endodontics*. Wiley-Blackwell; 2016. Ch.5; Rotstein and Ingle 2019 Ch.22.
 
 ## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Contradiction:** bioceramic retreatability "no worse than epoxy" (Cohen's) vs 20% patency (Jain). **Pending:** current clinical trials after 2021; Common Complications editors and year.
+Read directly. **Contradiction:** bioceramic retreatability "no worse than epoxy" (Cohen's) vs 20% patency (Jain). **Resolved (Niranjan spot-check, 2026-10-16):** Common Complications in Endodontics = Jain PR, ed., *Common Complications in Endodontics: Prevention and Management*, 2nd ed., Springer, 2025 (1st ed. 2018). **Pending:** current clinical trials after 2021.

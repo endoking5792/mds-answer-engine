@@ -16,7 +16,7 @@
 ## Notes that do not change the answers
 - N2: Cohen's gives the FDA/"unacceptable under any circumstances" wording; the 1974 ADA Council on Dental Therapeutics classification as "unacceptable" is Ingle's.
 - BioRoot RCS "not for warm techniques" is Azim and Aksel only (high viscosity, flow falls with heat).
-- Sikri's Nogenol composition is garbled in the markdown; the Cohen's composition (ZnO, BaSO4, bismuth oxychloride) was used.
+- Sikri's Nogenol composition is **not** garbled: checked against the printed page (2026-10-16, Niranjan spot-check) and the markdown is a correct transcription (base: zinc oxide, barium sulfate; catalyst: resin methyl, salicylic acid). It differs from Cohen's composition (ZnO, BaSO4, bismuth oxychloride) — the answers (Q5) now show both side by side instead of using only Cohen's.
 
 ## What the textbooks cannot verify (needs the journal PDF or print)
 - Pameijer and Zmener (2010) figures: push-out 1.33 vs about 8 MPa; EndoREZ tags 400-1000 um; success 91.03% at 2 y and 86.3% at 5 y; Resilon-Epiphany 91.6% and 93.1%; primate inflammation scores. Journal DCNA article only.

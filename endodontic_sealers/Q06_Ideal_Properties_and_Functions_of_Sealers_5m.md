@@ -35,7 +35,9 @@
 10. Tissue tolerant (nonirritating to periradicular tissue).
 11. Soluble in a common solvent if retreatment is needed.
 
-Grossman's 14th ed. Box 16.8 lists its own eleven: excellent seal; adhesion between itself, walls and filling; radiopaque; non-staining; dimensionally stable; easily mixed; easily removed; insoluble; bactericidal or discouraging bacterial growth; non-irritating; slow setting (Gopikrishna, 2021) — the two lists differ in wording and order. Sikri gives fifteen requirements (Sikri, 2019). Ingle's gives its own list [read in chapter; wording to confirm].
+Grossman's 14th ed. Box 16.8 lists its own eleven: excellent seal; adhesion between itself, walls and filling; radiopaque; non-staining; dimensionally stable; easily mixed; easily removed; insoluble; bactericidal or discouraging bacterial growth; non-irritating; slow setting (Gopikrishna, 2021) — the two lists differ in wording and order. Sikri gives fifteen requirements (Sikri, 2019).
+
+**Ingle's 7th ed. Ch.22** gives two separate lists (Rotstein and Ingle, 2019), confirmed from the chapter text: West's seventeen requirements are for the ideal root canal **filling material** (core plus sealer together), not the sealer alone — capable of full adaptation to the canal walls; dimensionally stable; non-resorbable indefinitely; non-irritating; bacteriostatic (or at least not encouraging bacterial growth); nonstaining to teeth; preferably semisolid on insertion and solid afterward; capable of sealing canals laterally and apically; impervious to moisture; radiopaque; sterile or sterilisable; easily removed if necessary; easily manipulable; sticking to the canal walls; nonconductor of thermal changes; slightly expandable after placement; able to set in a reasonable time. Separately, "ideal **sealers** should be": easily manipulated with ample working time; easily mixed in very fine powder particles and liquid form; tacky when mixed and adhesive to the canal walls when set; biocompatible; expansible while setting; inert; physically stable (nonshrinking after setting); nonresorbable; insoluble in tissue fluids; radiopaque; nonstaining of tooth structure; bacteriostatic; easily removable with common solvents, if necessary; nonimmunogenic in the periapical tissues; neither mutagenic nor carcinogenic (14 items).
 **ISO 6876:** flow over 20 mm; film thickness under 50 μm; solubility under 3%; dimensional change -1% to +0.1%; radiopacity over 3 mm Al (Azim and Aksel, 2022).
 
 No sealer has all of them. Radiopacity is not sealing; very radiopaque sealers can mask voids (Berman et al, 2021).
@@ -43,7 +45,7 @@ No sealer has all of them. Radiopacity is not sealing; very radiopaque sealers c
 ---
 
 ## EXAM MODE
-**(Word count 164; about 7 min at 22 words/min)**
+**(Word count 187; about 9 min at 22 words/min)**
 
 ### Functions
 1. Fill the space between canal wall and core and the discrepancies of the canal.
@@ -56,7 +58,7 @@ No sealer has all of them. Radiopacity is not sealing; very radiopaque sealers c
 
 ### Ideal properties (Grossman, eleven)
 Tacky for adhesion; hermetic seal; radiopaque; very fine powder; no shrinkage on setting; no tooth staining; bacteriostatic or at least not encouraging bacterial growth; slow setting; insoluble in tissue fluids; tissue tolerant; soluble in a common solvent for retreatment.
-Sikri lists fifteen and Harty's twelve (adding tubule penetration, easy mixing and good working time).
+Sikri lists fifteen and Harty's twelve (adding tubule penetration, easy mixing and good working time); Ingle's lists fourteen similar requirements for the sealer, separate from West's seventeen for the filling material as a whole.
 
 ### ISO 6876
 Flow over 20 mm; film thickness under 50 μm; solubility under 3%; radiopacity over 3 mm aluminium.
@@ -90,7 +92,7 @@ Additional textbooks read after the first pass; additions and conflicts only (no
 
 ## SOURCE LIST
 **[SRC]** Berman et al (2021) Ch.9 Box 9.1; Gopikrishna (2021) Ch.16 Box 16.8; Sikri (2019) Ch.19; Rotstein and Ingle (2019) Ch.22; Siqueira and Rôças (2022) Ch.15; Gatewood RS. Dent Clin North Am. 2007;51:695-712.
-- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
+- Second-pass sources: Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; 2017. Ch.9; Jain PR, ed. *Common Complications in Endodontics: Prevention and Management*. 2nd ed. Springer; 2025. Ch.6; Chugal N, Lin LM, eds. *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*. Springer; 2017. Ch.9; *Problem Solving in Endodontics* Ch.12; Walton RE, Torabinejad M. *Principles and Practice of Endodontics*. 3rd ed. W.B. Saunders; 2002. Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors/years confirmed 2026-10-16 for Harty's, Common Complications, Endodontic Prognosis and Walton and Torabinejad; still pending for Problem Solving in Endodontics, Applied Dental Materials and Bioceramics in Endodontics.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
-Opened directly: Cohen's, Grossman's, Sikri, Ingle's, Azim and Aksel. **Corrected:** Grossman's criteria are **eleven**, not ten (very fine powder had been missed); ISO 6876 added; Grossman's 14th ed. list recorded alongside; Sikri's six functions added. **Pending:** Ingle's list wording; original Grossman list (1988).
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied; Niranjan spot-check 2026-10-16)
+Opened directly: Cohen's, Grossman's, Sikri, Ingle's, Azim and Aksel. **Corrected:** Grossman's criteria are **eleven**, not ten (very fine powder had been missed); ISO 6876 added; Grossman's 14th ed. list recorded alongside; Sikri's six functions added. **Resolved (spot-check):** Ingle's exact wording added — West's seventeen requirements for the filling material as a whole, and a separate fourteen-item "ideal sealers should be" list, both read directly from Ch.22 and quoted in Study Mode. Editors/years confirmed for Harty's, Common Complications, Endodontic Prognosis and Walton and Torabinejad. **Still pending:** original Grossman list (1988); editor/year for Problem Solving in Endodontics, Applied Dental Materials, Bioceramics in Endodontics.

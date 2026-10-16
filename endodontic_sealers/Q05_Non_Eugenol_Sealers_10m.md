@@ -16,7 +16,7 @@
 
 ### What the term means
 In the textbooks "noneugenol sealer" is used in two ways.
-1. **Specific product.** Cohen's has a heading "Noneugenol sealers" which describes only Nogenol (GC America), "developed from a periodontal dressing... without the irritating effects of eugenol"; its base contains zinc oxide, barium sulfate and bismuth oxychloride (Berman et al, 2021). Sikri describes Nogenol as developed to overcome eugenol's irritating quality, considerably less irritating than other sealers, **expanding on setting** and improving sealing with time; composition listed as base (zinc oxide, barium sulfate) with a catalyst containing resin and salicylic acid (Sikri, 2019) [the figure is garbled in the markdown; confirm in print].
+1. **Specific product.** Cohen's has a heading "Noneugenol sealers" which describes only Nogenol (GC America), "developed from a periodontal dressing... without the irritating effects of eugenol"; its base contains zinc oxide, barium sulfate and bismuth oxychloride (Berman et al, 2021). Sikri describes Nogenol as developed to overcome eugenol's irritating quality, considerably less irritating than other sealers, **expanding on setting** and improving sealing with time; composition listed as base (zinc oxide, barium sulfate) with a catalyst (resin methyl, salicylic acid) (Sikri, 2019) — **checked against the printed page (2026-10-16): Sikri's table is correctly transcribed, not garbled**. Cohen's and Sikri give different formulations (Cohen's base adds bismuth oxychloride and omits a stated catalyst; Sikri's catalyst names a resin and salicylic acid, which Cohen's does not mention), kept side by side rather than resolved.
 2. **Descriptive category.** Texts call a sealer "noneugenol" when its liquid has no eugenol: Sealapex (calcium hydroxide polymeric resin; base ZnO, Ca(OH)2, butyl benzene sulfonamide, zinc stearate; catalyst resin, isobutyl salicylate, BaSO4, TiO2, Aerosil) (Gopikrishna, 2021; Walton and Torabinejad); AH Plus ("a noneugenol sealer utilising epoxy-amine resin") (Weine); the Weine text also calls Sealapex "an example of a noneugenol calcium hydroxide sealer", contrasted with eugenol-type calcium hydroxide sealers (CRCS). Epoxy, methacrylate, silicone, glass ionomer and calcium silicate sealers are all eugenol-free.
 
 ### Why avoid eugenol
@@ -51,7 +51,7 @@ Free eugenol is the main contributor to cytotoxicity of freshly mixed ZOE (Gatew
 In the textbooks "non-eugenol sealer" means a sealer without eugenol in its liquid, and Cohen's reserves the heading for **Nogenol**, a sealer developed from a periodontal dressing "without the irritating effects of eugenol". The term is also applied to sealers such as Sealapex and AH Plus, which are described as "noneugenol".
 
 ### Nogenol
-Base: zinc oxide, barium sulfate and bismuth oxychloride (Cohen's). Sikri adds that it is considerably less irritating than other sealers, expands on setting and improves its seal with time; his composition table is garbled in the text and should be checked in print.
+Cohen's base: zinc oxide, barium sulfate and bismuth oxychloride. Sikri's table (base: zinc oxide, barium sulfate; catalyst: resin methyl, salicylic acid), verified against the printed page, is less irritating than other sealers, expands on setting and improves its seal with time.
 
 ### Other non-eugenol sealers
 Calcium hydroxide (Sealapex: base of zinc oxide, Ca(OH)2, butyl benzene sulfonamide and zinc stearate; catalyst of resin, isobutyl salicylate, barium sulfate, titanium dioxide), epoxy resin (AH Plus), polyvinyl (Diaket), glass ionomer, methacrylate resin, silicone and calcium silicate sealers.
@@ -84,7 +84,7 @@ Non-eugenol sealers avoid eugenol's irritation and its interference with resins,
 ---
 
 ## HIGH-YIELD POINTS
-- Nogenol: ZnO, BaSO4, bismuth oxychloride; from a periodontal dressing; expands on setting.
+- Nogenol: Cohen's ZnO, BaSO4, bismuth oxychloride; Sikri's base ZnO/BaSO4, catalyst resin methyl/salicylic acid; from a periodontal dressing; expands on setting.
 - Sealapex and AH Plus are textbook "noneugenol" sealers.
 - Free eugenol = cytotoxicity of unset ZOE; inhibits resin polymerisation.
 - Ca(OH)2 sealer solubility paradox.
@@ -108,7 +108,7 @@ Additional textbooks read after the first pass; additions and conflicts only (no
 ## SOURCE LIST
 **[SRC]** Berman et al (2021) Ch.9; Sikri (2019) Ch.19; Gopikrishna (2021) Ch.16; Weine's Endodontic Therapy Ch.7; Walton and Torabinejad, *Principles and Practice of Endodontics*; Gulabivala and Ng (2014) Ch.8; Gatewood (2007); Pameijer and Zmener (2010); Guruswamy Pandian et al (2026).
 **[RECALL]** eugenol allergy.
-- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
+- Second-pass sources: Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; 2017. Ch.9; Jain PR, ed. *Common Complications in Endodontics: Prevention and Management*. 2nd ed. Springer; 2025. Ch.6; Chugal N, Lin LM, eds. *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*. Springer; 2017. Ch.9; *Problem Solving in Endodontics* Ch.12; Walton RE, Torabinejad M. *Principles and Practice of Endodontics*. 3rd ed. W.B. Saunders; 2002. Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
-Opened directly: Cohen's, Sikri, Grossman's, Weine, Walton and Torabinejad, Gulabivala and Ng. **Corrected:** the inferred meaning of "non-eugenol" is replaced by the textbook sense (Nogenol as the specific product; Sealapex/AH Plus as "noneugenol" in descriptive use); Nogenol composition and expansion on setting added. **Pending:** the Nogenol composition in Sikri is garbled in the markdown (check printed page); the eugenol-polymerisation-inhibition mechanism is stated in Gulabivala and the trauma atlas only as clinical advice.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied; Niranjan spot-check 2026-10-16)
+Opened directly: Cohen's, Sikri, Grossman's, Weine, Walton and Torabinejad, Gulabivala and Ng. **Corrected:** the inferred meaning of "non-eugenol" is replaced by the textbook sense (Nogenol as the specific product; Sealapex/AH Plus as "noneugenol" in descriptive use); Nogenol composition and expansion on setting added. **Resolved (spot-check against printed page):** Sikri's Nogenol table is not garbled — confirmed as base zinc oxide/barium sulfate, catalyst resin methyl/salicylic acid; kept side by side with Cohen's differing formulation. Editors/years confirmed for Harty's (Chong, 2017), Common Complications (Jain, 2nd ed., 2025), Endodontic Prognosis (Chugal and Lin, 2017) and Walton and Torabinejad (3rd ed., 2002, as assumed). **Still pending:** editor/year for Problem Solving in Endodontics, A Clinical Guide to Applied Dental Materials, Bioceramics in Endodontics; the eugenol-polymerisation-inhibition mechanism is stated in Gulabivala and the trauma atlas only as clinical advice.
