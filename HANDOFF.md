@@ -288,3 +288,6 @@ All 10 answers in `endodontic_sealers/` were re-audited against the markdown tex
 
 ### Flag for Niranjan (2026-10-16): endodontic_sealers
 See `endodontic_sealers/A0_Audit_Note_for_Niranjan.md` (also in the Answer Bank under Endodontics/Root Canal Sealers): items to check against the printed books, the table of unresolved textbook contradictions, and unverified primary papers. Second textbook audit pass is applied; nothing else is pending from Roseline.
+
+### Audit ledger (2026-10-16): endodontic_sealers verified against mds-textbooks
+`endodontic_sealers/_AUDIT_2026-10-16.md`: 106 claims re-checked by text search against the private `mds-textbooks` repo (byte-identical to the `dental-study-material` copies used earlier). Two attribution corrections (Q1 Grossman cement set time to Grossman's 14e; Q7 Resilon 65% filler to Jain). Not verifiable from textbooks: Pameijer and Zmener / Gatewood journal figures; Torabinejad's MTA book is not in `mds-textbooks`.

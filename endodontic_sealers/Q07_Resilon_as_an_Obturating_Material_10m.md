@@ -18,7 +18,7 @@
 **Resilon was withdrawn from the market in 2014** owing to failure of long-term stability and success (Azim and Aksel, 2022). Older exam answers describe it as current; write it as a historically important system and state the withdrawal.
 
 ### Definition
-Resilon is a synthetic, resin-based polycaprolactone polymer containing bioactive glass, bismuth oxychloride and barium sulfate, developed to adhere to root canal dentin (Azim and Aksel, 2022). It is a thermoplastic polyester with difunctional methacrylate resin and about 65% by weight filler (Gatewood, 2007; Gopikrishna, 2021). Marketed later as RealSeal (Pameijer and Zmener, 2010). Note Grossman's 14th ed. introduces the group as "a high-performance polyurethane" in the introductory line, but its own composition list says polycaprolactone — the composition list is the one to use (Gopikrishna, 2021).
+Resilon is a synthetic, resin-based polycaprolactone polymer containing bioactive glass, bismuth oxychloride and barium sulfate, developed to adhere to root canal dentin (Azim and Aksel, 2022). It is a thermoplastic polyester with difunctional methacrylate resin (Gopikrishna, 2021) and about 65% by weight filler (Jain, 2016). Marketed later as RealSeal (Pameijer and Zmener, 2010). Note Grossman's 14th ed. introduces the group as "a high-performance polyurethane" in the introductory line, but its own composition list says polycaprolactone — the composition list is the one to use (Gopikrishna, 2021).
 
 ### System
 - **Core:** cones (ISO sized) and pellets; usable with lateral compaction, warm vertical compaction and thermoplastic injection (Gopikrishna, 2021).
