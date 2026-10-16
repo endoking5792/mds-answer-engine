@@ -43,7 +43,7 @@ No sealer has all of them. Radiopacity is not sealing; very radiopaque sealers c
 ---
 
 ## EXAM MODE
-**(Word count about 230; about 8 min)**
+**(Word count 110; about 5 min at 22 words/min)**
 
 ### Functions
 Fills space between canal wall and core; fills voids and lateral canals; fills gaps between cones; lubricant for cone seating; produces the seal; antimicrobial action; radiopacity.

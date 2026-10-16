@@ -52,7 +52,7 @@ Traditional sealers seal by adaptation without bonding, with solubility and shri
 ---
 
 ## EXAM MODE
-**(Word count about 780; about 35 min)**
+**(Word count 229; about 10 min at 22 words/min)**
 
 ### Introduction
 Resin-based sealers were developed because gutta-percha does not bond to dentin or conventional sealers, so microleakage follows. They include epoxy resins and methacrylate-based resin sealers.

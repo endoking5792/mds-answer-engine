@@ -56,7 +56,7 @@ All sealers exhibit toxicity when freshly mixed, greatly reduced on setting; sea
 ---
 
 ## EXAM MODE
-**(Word count about 950; about 42 min)**
+**(Word count 326; about 15 min at 22 words/min)**
 
 ### Introduction
 A root canal sealer fills the space between canal wall and core material, voids, lateral and accessory canals, and lubricates cone seating. Gutta-percha does not bond to dentin, so the sealer largely determines the seal.

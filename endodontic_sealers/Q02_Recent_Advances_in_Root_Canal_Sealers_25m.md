@@ -48,7 +48,7 @@ Moisture: resin and bioceramic sealers adhered better when canals were left slig
 ---
 
 ## EXAM MODE
-**(Word count about 900; about 40 min)**
+**(Word count 260; about 12 min at 22 words/min)**
 
 ### Introduction
 Classic sealers (ZOE, calcium hydroxide, epoxy, glass ionomer) have limitations of solubility, shrinkage, toxicity or poor adhesion. Recent sealers aim at bonding, bioactivity and antimicrobial action.

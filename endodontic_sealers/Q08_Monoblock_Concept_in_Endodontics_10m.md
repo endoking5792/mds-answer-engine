@@ -42,7 +42,7 @@ Smear layer removal with 17-19% EDTA or dilute citric acid; slightly moist denti
 ---
 
 ## EXAM MODE
-**(Word count about 380; about 15 min)**
+**(Word count 146; about 7 min at 22 words/min)**
 
 ### Definition
 A monoblock is an obturation in which core, sealer and canal dentin form a single, bonded, cohesive unit with similar elastic modulus (concept by Tay).

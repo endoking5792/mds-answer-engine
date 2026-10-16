@@ -45,7 +45,7 @@ Free eugenol is the main contributor to cytotoxicity of freshly mixed ZOE (Gatew
 ---
 
 ## EXAM MODE
-**(Word count about 340; about 15 min)**
+**(Word count 191; about 9 min at 22 words/min)**
 
 ### Definition
 Sealers whose formulation has no eugenol. The specific example in textbooks is **Nogenol** (zinc oxide, barium sulfate, bismuth oxychloride base; developed from a periodontal dressing); the category also covers calcium hydroxide (Sealapex), epoxy (AH Plus), polyketone, glass ionomer, methacrylate, silicone and bioceramic sealers.

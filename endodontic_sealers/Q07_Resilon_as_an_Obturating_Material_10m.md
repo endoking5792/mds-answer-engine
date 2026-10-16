@@ -42,7 +42,7 @@ Primer forms a hybrid layer with dentin, which bonds to sealer, which bonds to t
 ---
 
 ## EXAM MODE
-**(Word count about 400; about 15 min)**
+**(Word count 163; about 7 min at 22 words/min)**
 
 ### Definition
 Resilon was a synthetic polycaprolactone-based resin core (bioactive glass, bismuth oxychloride, barium sulfate, about 65% filler) used with Epiphany dual-cure resin sealer to form a monoblock. It was withdrawn in 2014.

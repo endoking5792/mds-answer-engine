@@ -43,7 +43,7 @@ Cell culture (osteoblasts, periodontal ligament cells), genotoxicity, implantati
 ---
 
 ## EXAM MODE
-**(Word count about 880; about 40 min)**
+**(Word count 227; about 10 min at 22 words/min)**
 
 ### Introduction
 Cytotoxicity matters because sealer contacts periradicular tissue through the apical foramen and lateral canals and may be extruded. All sealers are toxic when fresh and much less when set.

@@ -37,7 +37,7 @@ Explains contradictory leakage studies: many canals were dried thoroughly before
 ---
 
 ## EXAM MODE
-**(Word count about 280)**
+**(Word count 105; about 5 min at 22 words/min)**
 
 ### Smear layer
 1-2 μm debris layer; removal permits sealer penetration and adhesion.

@@ -34,7 +34,7 @@ Routine lateral compaction, retreatment likely: ZOE or epoxy. Hydraulic single c
 ---
 
 ## EXAM MODE
-**(Word count about 300)**
+**(Word count 101; about 5 min at 22 words/min)**
 
 ### Introduction
 Six classes of sealers are in use; each trades sealing, biocompatibility and retreatability.
