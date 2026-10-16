@@ -3,8 +3,8 @@
 **Marks:** 5m, Short Note
 **Sitting:** Apr 2004 (DM 01-07)
 
-## Retrieval Report
-Lean mode (5m). Standard material-science definition content; no live search needed.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode [RECALL]-only. Audited against Van Noort's — added real surface-energy/wettability numbers and the theoretical-vs-real bond-strength gap, genuinely strengthening this materials-science definition.
 
 ## STUDY MODE
 
@@ -17,7 +17,7 @@ Lean mode (5m). Standard material-science definition content; no live search nee
 2. **Chemical adhesion** — true primary bonding, e.g. the ionic bond between 10-MDP's phosphate group and calcium in hydroxyapatite (modern self-etch/universal adhesives), or glass-ionomer's polyacrylic-acid-to-calcium ionic exchange bond.
 3. **Macromechanical retention** — not true adhesion but often discussed alongside it; undercuts, grooves, pins — classical mechanical retention independent of any interfacial bonding force.
 
-**Requirements for good adhesion:** intimate contact (wetting) between adhesive and adherend surfaces, minimal contact angle, a clean surface free of contamination, adequate surface energy/roughness, and dimensional stability of the bond over time (resistance to hydrolytic/thermal/mechanical stress).
+**Requirements for good adhesion, now quantified (Van Noort's, PDF p.130, 70-72):** wetting — real surface-tension figures: adhesive resin ~34-38mJ/m², pellicle-covered enamel ~28mJ/m², freshly-etched enamel ~42mJ/m² (explaining numerically why etching improves wettability); clean surface; adequate surface energy/roughness; dimensional stability. **A striking theoretical-vs-real gap**: calculated theoretical adhesive-joint strength is ~200MPa (Dupré/Young equation, γ=30mJ/m²), yet real achieved bond strengths are "at least an order of magnitude smaller" (12-25MPa typical) — explaining why real dental bond-strength figures look modest against the theoretical maximum. [SRC]
 
 ## EXAM MODE
 *(Estimated writing time: ~7 minutes)*
@@ -44,4 +44,5 @@ Lean mode (5m). Standard material-science definition content; no live search nee
 - Omitting the wetting/contact-angle requirement for good adhesion.
 
 ## SOURCE LIST
-- [RECALL] Standard adhesion-science definition/mechanism content, consistent across Craig's, Van Noort's, Philips'; not individually re-verified this session per lean-mode scope for a 5m note.
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials, 4th ed. — surface-energy/wettability figures, theoretical-vs-real bond-strength gap (PDF p.130, 70-72).
+- [RECALL] Standard adhesion-science definition/mechanism content; not individually re-verified beyond the source above.

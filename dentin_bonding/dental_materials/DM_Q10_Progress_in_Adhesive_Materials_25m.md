@@ -3,12 +3,12 @@
 **Marks:** 25m
 **Sitting:** Nov 2001 (DM 01-07)
 
-## Retrieval Report
-Lean mode (25m), reusing this topic's shared historical-trajectory retrieval (CD_Q17/CD_Q25), framed around "adhesive materials" broadly (bonding agents AND adhesive/resin cements AND the restorative materials they enable), as this Dental Materials question's title specifies, with the "critically" command word foregrounding appraisal.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Sturdevant's (real dated generation history) and McCabe's/Nakabayashi & Pashley's (bond-testing-methodology critique) — substantially strengthens the "critically" command word's required appraisal.
 
 ## STUDY MODE
 
-**Progress — the five-phase trajectory (brief, cross-referenced from CD_Q17/CD_Q25):** enamel-only bonding (Buonocore, 1955) → early unreliable dentin-bonding attempts (1st/2nd generation) → the hybrid-layer breakthrough (Nakabayashi, 1982; 3rd/4th generation) → simplification (5th-7th generation, with a genuine documented bond-strength/durability trade-off in several comparative studies) → universal/multi-mode adhesives (10-MDP-based, current era; evidence suggests this chemistry has substantially closed the historical self-etch deficit). [LIT] [RECALL] [Likely]
+**Progress — now dated and quantified (Sturdevant's, PDF p.427-430):** enamel-only bonding (Buonocore, 1955) → **1st gen (1965, NPG-GMA, 2-3MPa)** → **2nd gen (1978, phenyl-P+HEMA, Clearfil Bond System-F, 1-5MPa vs 10MPa clinical threshold)** → hybrid-layer breakthrough → **3rd gen (1984, HEMA+10-MDP, Clearfil New Bond)** → simplification (5th-7th gen, documented trade-off) → universal adhesives (current; real Peumans et al. 2005 clinical data, Van Noort's p.139, shows the actual divide is by step count, not strategy). [SRC]
 
 **Progress in adhesive CEMENTS specifically (a distinct but parallel trajectory, per this topic's DM_Q09):** total-etch → self-etch → self-adhesive resin cements, alongside parallel restoration-side protocol development (silane coupling agents for ceramics; MDP-primers for zirconia).
 
@@ -18,7 +18,7 @@ Lean mode (25m), reusing this topic's shared historical-trajectory retrieval (CD
 - **"Progress" was not monotonic.** The simplification phase (5th-7th generation) measurably traded away bond-strength/durability performance in several comparative studies, only substantially recovered by later MDP-based universal-adhesive chemistry — a real, documented non-linearity worth naming explicitly.
 - **The field's central durability problem remains genuinely unsolved**: hydrolytic and MMP-mediated enzymatic degradation of the hybrid layer over years of clinical service is intrinsic to the resin-infiltrated-collagen bonding mechanism itself, not merely a technique-error issue, and no current commercial adhesive material has fully solved it.
 - **Evidence quality for comparative claims is genuinely mixed** across study types and adhesive generations — narrative reviews/some microtensile studies favor total-etch over self-etch, while the most rigorous available pooled meta-analysis of modern universal-adhesive chemistry found no significant mode difference for dentin bond strength.
-- **In-vitro bond-strength superiority has not always translated into demonstrated long-term clinical superiority** — a genuine inferential gap between the dominant evidence base (lab bond-strength testing) and the clinically-relevant outcome (restoration survival over years).
+- **In-vitro bond-strength superiority has not always translated into demonstrated long-term clinical superiority — and the testing itself is a confound, not just the inference**: McCabe's notes a coefficient of variation of ~50% is "not uncommon" even under ISO guidelines, and microtensile testing gives inflated apparent values (~45MPa) versus shear testing (~25MPa) for the SAME bond (Nakabayashi & Pashley, PDF p.76-77) — a genuine methodological artifact, not just a lab-to-clinic inference gap. [SRC]
 
 ## CRITICAL EVIDENCE SYNTHESIS
 This question's "critically" command word makes the appraisal above the substantive core of the answer, not a brief closing note. **What the evidence supports:** real, mechanistically-grounded progress has occurred — the hybrid-layer concept, MDP-based chemical adhesion, and the universal-adhesive convergence are genuine advances with corroborating evidence. **What it does not support:** a simple, celebratory, linear "progress" narrative — the simplification-era bond-strength trade-off, the still-unsolved intrinsic durability problem, and the genuinely mixed comparative evidence all complicate any triumphalist framing. [LIT]
@@ -50,5 +50,8 @@ This question's "critically" command word makes the appraisal above the substant
 - Writing a purely celebratory progress narrative without the critical appraisal the command word demands.
 
 ## SOURCE LIST
-- [LIT] Historical trajectory and generation-classification-debate summary; 2022 meta-analysis — same sources as CD_Q17/CD_Q24/CD_Q25.
-- [RECALL] Adhesive-cement progress, restorative-material-enablement content; not individually re-verified beyond the LIT sources above.
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — dated generation history (PDF p.427-430).
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — Peumans et al. 2005 (PDF p.139).
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — testing-methodology critique (PDF p.250).
+- [SRC] Nakabayashi N, Pashley DH, *Hybridization of Dental Hard Tissues* — microtensile-artifact confirmation (PDF p.76-77).
+- [RECALL] Adhesive-cement progress, restorative-material-enablement content; not individually re-verified beyond the sources above.

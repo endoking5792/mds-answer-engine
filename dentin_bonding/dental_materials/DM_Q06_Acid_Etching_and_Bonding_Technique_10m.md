@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Note
 **Sitting:** Apr 1997 (DM 90-00)
 
-## Retrieval Report
-Lean mode (10m), reusing this topic's CD_Q02/CD_Q13/DM_Q04 content, combined into one acid-etching-PLUS-bonding-technique sequence as this question's title explicitly asks.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Summitt's — added real named-product application timings to ground this generic 7-step sequence in actual clinical products.
 
 ## STUDY MODE
 
@@ -14,7 +14,7 @@ Lean mode (10m), reusing this topic's CD_Q02/CD_Q13/DM_Q04 content, combined int
 
 **Step 3 — Drying/moisture control (the critical, technique-sensitive step).** Dry enamel to a **frosty-white** appearance (confirms adequate demineralization, safe to dry fully since enamel has no collapsible organic phase). Keep dentin **moist** — gently air-dry only to remove visible pooled water, leaving a glistening (not frosty, not wet-pooled) surface; do NOT desiccate, since the demineralized collagen meshwork collapses and loses porosity if over-dried, blocking subsequent resin infiltration.
 
-**Step 4 — Primer/bonding-resin application.** Apply primer (3-step systems) or combined primer-adhesive (2-step systems; for self-etch/universal systems, this step itself is the etch-and-prime step, replacing steps 2-3 above on dentin). Allow adequate dwell/working time for the hydrophilic monomer to wet and diffuse into the demineralized collagen meshwork (dentin) or etched prism porosities (enamel).
+**Step 4 — Primer/bonding-resin application, with real named-product examples (Summitt's Table 9-2, PDF p.441-448).** Scotchbond Multi-Purpose: primer dried 5s, bond cured 10s. Gluma Solid Bond: primer 30s, bond cure 40s. Gluma Comfort Bond: three consecutive coats, 15s each, cure 20s. Clearfil SE Bond (self-etch): primer 20s, two consecutive bond coats, dried from 2cm, cure 10s. [SRC]
 
 **Step 5 — Solvent evaporation.** Gently air-thin the applied adhesive to evaporate the solvent (acetone/ethanol/water) fully — incomplete evaporation leaves voids/porosity in the cured adhesive layer, weakening the bond.
 
@@ -50,4 +50,5 @@ Lean mode (10m), reusing this topic's CD_Q02/CD_Q13/DM_Q04 content, combined int
 - Forgetting the solvent-evaporation step entirely.
 
 ## SOURCE LIST
-- [RECALL] Standard acid-etch-and-bonding clinical technique content, consistent across Craig's, Sturdevant's; not individually re-verified this session per lean-mode scope for a 10m note.
+- [SRC] Summitt's Fundamentals of Operative Dentistry, Table 9-2 — named-product application timings (PDF p.441-448).
+- [RECALL] Standard acid-etch-and-bonding clinical technique content; not individually re-verified beyond the source above.

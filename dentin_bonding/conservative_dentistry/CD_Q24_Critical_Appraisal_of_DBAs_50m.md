@@ -3,8 +3,8 @@
 **Marks:** 50m, Essay
 **Sitting:** Jun 2022 (PIII 21-25)
 
-## Retrieval Report
-Lean mode (50m), the fullest treatment in this topic's CD file. Synthesizes CD_Q04/Q15 (overview), CD_Q06 (challenges), CD_Q18 (critical evaluation), and CD_Q19/Q20 (recent trends) into one comprehensive 50m essay, reusing this topic's shared retrieval.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Sturdevant's, McCabe's, Van Noort's, Nakabayashi & Pashley's, and Philips' — synthesizes this topic's now fully [SRC]-upgraded CD_Q04/Q06/Q09/Q11/Q15/Q18/Q19 content into one comprehensive 50m essay with real dated history, real MPa/failure-rate data, and named products throughout.
 
 ## STUDY MODE
 
@@ -17,7 +17,7 @@ Substrate heterogeneity (superficial vs deep, sclerotic, caries-affected, root d
 ### III. Critical appraisal — strengths vs weaknesses
 **Strengths:** enable minimally-invasive, retention-free esthetic restorative dentistry; MDP-based chemical (not merely micromechanical) bonding; universal adhesives have substantially closed the historical self-etch-vs-total-etch dentin-bond-strength gap (2022 meta-analysis: no significant mode difference); reduced postoperative sensitivity versus older protocols.
 
-**Weaknesses:** long-term hydrolytic/MMP-mediated bond degradation is intrinsic and unsolved by any current commercial system; evidence quality is genuinely mixed across study types (narrative reviews/microtensile studies favor total-etch; rigorous meta-analysis of modern chemistry shows no difference); self-etch systems remain comparatively weaker on unground/intact enamel; technique sensitivity has been redistributed, not eliminated; in-vitro bond-strength data does not reliably predict long-term clinical restoration survival.
+**Weaknesses:** long-term hydrolytic/MMP-mediated (AND cathepsin-mediated, Summitt's PDF p.492-493) bond degradation is intrinsic and unsolved; evidence quality is genuinely mixed — real Peumans et al. (2005) clinical data (Van Noort's, PDF p.139) shows the actual divide is by STEP COUNT (2-step self-etch 4.7% ≈ 3-step etch-and-rinse 4.8%; only 1-step self-etch 8.1% is clearly worse), and McCabe's confirms real conditioned-dentin MPa ranges overlap between strategies (PDF p.241); self-etch remains weaker on unground/intact enamel; bond-strength TESTING methodology itself is a confound — McCabe's notes ~50% coefficient of variation is "not uncommon," and microtensile testing gives artificially higher values (~45MPa) than shear testing (~25MPa) for the same bond (Nakabayashi & Pashley, PDF p.76-77) — meaning in-vitro MPa comparisons across studies are often not directly comparable, a deeper problem than simply "lab ≠ clinical." [SRC]
 
 ### IV. Recent trends/future directions
 Universal/multi-mode adhesives (dominant current commercial development); MMP-inhibition strategies (chlorhexidine, EDTA, targeted inhibitor monomers); bioactive/remineralizing adhesives (bioglass/calcium-phosphate fillers); antibacterial monomers (MDPB); nanotechnology-enhanced formulations; biomimetic remineralization (ethanol wet-bonding, proanthocyanidin); refined selective-etch protocols.
@@ -57,6 +57,10 @@ This 50m "critical appraisal" should foreground, not append, the evidence-qualit
 - Treating in-vitro bond-strength superiority as proof of clinical superiority.
 
 ## SOURCE LIST
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — generation history (PDF p.427-430).
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — bond-strength-by-category, testing critique (PDF p.241, 250).
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — Peumans et al. 2005 (PDF p.139).
+- [SRC] Nakabayashi N, Pashley DH, *Hybridization of Dental Hard Tissues* — microtensile-artifact confirmation (PDF p.76-77).
+- [SRC] Summitt's Fundamentals of Operative Dentistry — cathepsin pathway (PDF p.492-493).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [LIT] Comparative total-etch/self-etch bond-strength/microleakage studies and universal-adhesive mechanism summaries — same sources as CD_Q05/CD_Q10/CD_Q11.
-- [RECALL] Standard DBA classification/mechanism/challenges/recent-trends content, consistent across Craig's, Van Noort's, Sturdevant's; not individually re-verified beyond the LIT sources above.
+- [RECALL] Standard DBA classification/mechanism content; not individually re-verified beyond the sources above.

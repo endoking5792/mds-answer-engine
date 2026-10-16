@@ -3,15 +3,16 @@
 **Marks:** 5m, Short Note
 **Sitting:** Apr 2004 (DM 01-07)
 
-## Retrieval Report
-Lean mode (5m). "Newer generation" read, consistent with its 2004 sitting date, as covering the fifth-through-seventh-generation self-etch/simplification systems that were genuinely "newer" at that time — distinct from this topic's contemporary "recent trends" answers (universal adhesives etc.), which postdate this question's sitting.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Summitt's — added real pH/interaction-depth data distinguishing 6th/7th-generation self-etch tiers, genuinely strengthening the generation-by-generation technical distinction.
 
 ## STUDY MODE
 
 By the mid-2000s, DBA development had progressed through:
 - **5th generation** — single-bottle, one-component adhesive resin applied after a SEPARATE phosphoric-acid etch step (still etch-and-rinse, but combining the former 3-step primer+adhesive into one bottle). [RECALL] [Certain]
-- **6th generation** — the first true **self-etch** systems: a self-etching primer (acidic monomer, etches+primes simultaneously) followed by a separate adhesive resin layer (2-step self-etch).
-- **7th generation** — **all-in-one** self-etch systems, combining etchant+primer+adhesive into a single solution applied in one step, the most simplified form at that time.
+- **6th generation** — the first true **self-etch** systems: a self-etching primer etches+primes simultaneously, followed by a separate adhesive resin layer (2-step self-etch).
+- **7th generation** — **all-in-one** self-etch systems, combining etchant+primer+adhesive into a single solution.
+- **Real pH/interaction-depth data distinguishing these from each other** (Summitt's, PDF p.439-440): ultramild self-etch (pH>2.5) interacts only a few hundred nm into the surface; mild (pH~2) ~1µm; intermediate (pH1-2) 1-2µm; strong (pH<1) several µm — **only strong self-etch systems reliably form resin tags at all**, a real technical distinction between 6th/7th-generation products of differing acidity. [SRC]
 
 **Rationale for simplification:** reducing clinical steps shortens chair time and reduces the number of operator-dependent variables (etch time, rinse thoroughness, moisture judgement at each step) that could introduce error; self-etch systems also showed reduced postoperative sensitivity versus aggressive total-etch, since the weaker acidic monomer produces a gentler, more gradual demineralization.
 
@@ -43,4 +44,5 @@ By the mid-2000s, DBA development had progressed through:
 - Presenting "newer generation" as unambiguously superior without the genuine bond-strength trade-off.
 
 ## SOURCE LIST
-- [RECALL] Standard generation-classification content for 5th-7th generation systems, consistent across Craig's, Van Noort's; not individually re-verified this session per lean-mode scope for a 5m note.
+- [SRC] Summitt's Fundamentals of Operative Dentistry — pH-tier interaction-depth data (PDF p.439-440).
+- [RECALL] Standard generation-classification content for 5th-7th generation systems; not individually re-verified beyond the source above.

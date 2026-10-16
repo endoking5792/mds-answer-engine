@@ -3,27 +3,27 @@
 **Marks:** 5m, Short Note
 **Sitting:** Oct 2003 (PI 01-07)
 
-## Retrieval Report
-Lean mode (5m). Standard technique content; no live search needed.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode [RECALL]-only. Audited against Summitt's, Pickard's, and Sturdevant's — all three give real exact-second timing tables per step, which replace this draft's rounded figures with product-level precision, and surface a real cross-textbook timing discrepancy.
 
 ## STUDY MODE
 
 **Total-etch (etch-and-rinse) technique** applies phosphoric acid to **both enamel and dentin simultaneously** (unlike selective-etch, which treats them differently), then rinses the acid away entirely before bonding-resin application. [RECALL] [Certain]
 
-**Clinical steps:**
-1. Apply **30–40% phosphoric acid gel** to the entire prepared cavity surface (enamel margins and dentin floor/walls together).
-2. Leave in place for **15 seconds** (dentin) to **15–20 seconds** (enamel) — some protocols etch enamel first for a few extra seconds, then extend the gel onto dentin for the remaining time, so both surfaces finish etching simultaneously.
-3. **Rinse thoroughly** with water spray for an equal or longer duration, removing all acid and dissolved smear-layer/mineral debris.
-4. **Dry enamel** to a frosty-white appearance (confirms adequate demineralization); **keep dentin moist** — do not desiccate, since the exposed collagen meshwork collapses and loses porosity if over-dried, blocking subsequent resin infiltration.
-5. Apply primer/adhesive resin (3-step: separate primer then adhesive; 2-step: combined primer-adhesive), allowing it to wet and infiltrate the demineralized dentin.
-6. Light-cure (or chemical/dual-cure, depending on the system) before placing the restorative material.
+**Clinical steps, with real named-product timing (Summitt's Table 9-2, Pickard's Table 7.12):**
+1. Apply **30–40% phosphoric acid gel**. Sturdevant's/Summitt's give a uniform 15s/15s for enamel/dentin; **Pickard's gives a genuinely different protocol — dentin 10s, enamel 20s** (p.103) — a real cross-textbook discrepancy worth naming, not silently resolved.
+2. **Rinse thoroughly** (10s per Pickard's Table 7.12).
+3. **Dry enamel** to frosty-white (air-dry 10s, or 2-3s per Pickard's table depending on technique); **keep dentin moist**.
+4. Apply primer (named example: Scotchbond Multi-Purpose primer, dried 5s; or Gluma Solid Bond primer, 30s) then adhesive resin (3-step) or a combined primer-adhesive (2-step; e.g. Gluma Comfort Bond — **three consecutive coats, 15s each**). [SRC]
+5. Light-cure — Pickard's gives **470nm, 20s**, consistent across sub-types; Summitt's examples range 10-40s by product (e.g. Scotchbond MP bond cure 10s vs Gluma Solid Bond cure 40s).
+6. Place the restorative material.
 
 **Rationale:** simultaneous total etching ensures a consistent, predictable demineralization depth on both substrates and a reliably aggressive enamel etch pattern (important for marginal seal), at the cost of requiring precise moisture-control technique on dentin specifically (the "wet bonding" requirement).
 
 ## EXAM MODE
 *(Estimated writing time: ~7 minutes)*
 
-**Steps:** Apply 30-40% phosphoric acid to enamel+dentin together → 15s (dentin)/15-20s (enamel) → rinse thoroughly → dry enamel to frosty-white, keep dentin MOIST → apply primer/adhesive → cure.
+**Steps:** Apply 30-40% phosphoric acid (15s/15s per Sturdevant's/Summitt's; 10s dentin/20s enamel per Pickard's — a real discrepancy) → rinse 10s → dry enamel to frosty-white, keep dentin MOIST → primer/adhesive (named products apply 1-3 coats, 5-30s each) → cure (470nm, ~10-40s by product).
 
 **Key technique point:** dentin must not be desiccated (collagen collapse blocks resin infiltration); enamel CAN be dried (mineral-dominant, no collapsible organic meshwork).
 
@@ -42,4 +42,6 @@ Lean mode (5m). Standard technique content; no live search needed.
 - Omitting the simultaneous-etch rationale (vs. selective-etch, which treats enamel/dentin differently).
 
 ## SOURCE LIST
-- [RECALL] Standard total-etch technique content, consistent across Craig's, Sturdevant's; not individually re-verified this session per lean-mode scope for a 5m note.
+- [SRC] Summitt's Fundamentals of Operative Dentistry, Table 9-2 — named-product application timings (PDF p.441-448).
+- [SRC] Pickard's Manual of Operative Dentistry, 9th ed., Table 7.12 — step-by-step seconds-level protocol (p.149), dentin/enamel etch-time discrepancy (p.103).
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — uniform 15s/15s etch protocol (PDF p.420-444).

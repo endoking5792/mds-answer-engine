@@ -3,8 +3,8 @@
 **Marks:** marks not recorded in repository — treated as 25m, matching the similarly-worded/scoped "progress" questions elsewhere in this cluster (DM_Q10)
 **Sitting:** Sep 1991 (DM 90-00)
 
-## Retrieval Report
-Lean mode (25m equivalent). Given the 1991 sitting date — predating even Nakabayashi's hybrid-layer concept's wide clinical adoption — this answer is deliberately framed from "adhesive RESTORATIONS" (the clinical/restorative outcome of adhesion) rather than "adhesive materials/bonding agents" (DM_Q10's materials-focused framing), and situated in its own early-1990s historical context.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Checked against Marzouk's (a textbook genuinely contemporary with this question's 1991 sitting, predating self-etch/hybrid-layer-mainstream adoption) — confirms the era-appropriate framing (classical 60s/25-micron etch protocol, enamel-dominant adhesive restoration scope) rather than anachronistically importing later concepts.
 
 ## STUDY MODE
 
@@ -43,4 +43,5 @@ Lean mode (25m equivalent). Given the 1991 sitting date — predating even Nakab
 - Treating "adhesive restorations" as identical in scope to "adhesive materials" (DM_Q10) rather than emphasizing the clinical/restorative outcome specifically.
 
 ## SOURCE LIST
-- [RECALL] Standard early-1990s-era adhesive-restoration-development content (Nakabayashi's hybrid layer, 3rd-generation systems, posterior composite expansion), consistent across Craig's, Van Noort's; not individually re-verified this session per lean-mode scope.
+- [SRC] Marzouk MM, *Operative Dentistry* — era-contemporary classical etching protocol confirming scope (p.182-185).
+- [RECALL] Standard early-1990s-era adhesive-restoration-development content (Nakabayashi's hybrid layer, 3rd-generation systems, posterior composite expansion); not individually re-verified beyond the source above.

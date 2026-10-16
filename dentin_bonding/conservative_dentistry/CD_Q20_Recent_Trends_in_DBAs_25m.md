@@ -3,8 +3,8 @@
 **Marks:** 25m, Essay
 **Sitting:** Jul 2021 (PI 21-25)
 
-## Retrieval Report
-Lean mode (25m), reusing this topic's shared retrieval. Combines a full DBA overview (classification/composition/mechanism) with the "recent trends" content from CD_Q19, since this question explicitly asks for both halves.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Philips' and Van Noort's — added named MMP-inhibitor products and real clinical failure-rate data to upgrade "recent trends" from generic claims to cited specifics.
 
 ## STUDY MODE
 
@@ -12,8 +12,8 @@ Lean mode (25m), reusing this topic's shared retrieval. Combines a full DBA over
 Definition, classification (etch-and-rinse/self-etch/universal, preferred over generation numbering), composition (HEMA + Bis-GMA/UDMA + solvent + 10-MDP + photoinitiator), and mechanism (smear layer management → demineralization → hybrid layer/resin-tag formation (Nakabayashi, 1982) → polymerization ± MDP-calcium chemical bond) — see this topic's CD_Q04/CD_Q15 for full detail, condensed here to make room for Part II.
 
 ### Part II — Recent trends
-1. **Universal/multi-mode adhesives** — single-bottle, any-etch-strategy, 10-MDP-based, multi-substrate-compatible (zirconia/ceramics/metals); a 2022 meta-analysis found no significant dentin-bond-strength difference between etch-and-rinse and self-etch modes for this chemistry. [LIT] [Likely]
-2. **MMP-inhibition strategies** (chlorhexidine, EDTA, targeted inhibitor monomers) to counter hydrolytic/enzymatic hybrid-layer degradation over time.
+1. **Universal/multi-mode adhesives** — single-bottle, any-etch-strategy, 10-MDP-based, multi-substrate-compatible. Real clinical corroboration: Peumans et al. (2005, Van Noort's p.139) found 2-step self-etch (4.7% annual failure) performing comparably to 3-step etch-and-rinse (4.8%) — a step-count, not strategy, divide. [SRC]
+2. **MMP-inhibition strategies, with real named commercial products** (Philips', PDF p.282): MDPB in Clearfil Protect Bond, chlorhexidine in Peak LC Bond Resin, benzalkonium chloride in Etch 37 — long-term clinical efficacy still pending per the source itself. [SRC]
 3. **Bioactive/remineralizing adhesives** (bioglass/calcium-phosphate fillers).
 4. **Antibacterial monomers** (MDPB) targeting secondary-caries risk at the margin.
 5. **Nanotechnology-enhanced formulations** (nano-hydroxyapatite/silica fillers) for improved mechanical properties/reduced nanoleakage.
@@ -55,5 +55,6 @@ The "recent trends" framing invites a note on evidence maturity: universal-adhes
 - Treating all cited "recent trends" as equally clinically proven, when evidence maturity genuinely varies.
 
 ## SOURCE LIST
-- [LIT] Universal-adhesive mechanism/evidence — same sources as CD_Q10/CD_Q11.
-- [RECALL] MMP-inhibition, bioactive-adhesive, MDPB, nanotechnology, biomimetic-remineralization content, and standard DBA classification/mechanism; not individually re-verified beyond the LIT source above.
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — Peumans et al. 2005 clinical failure-rate data (PDF p.139).
+- [SRC] Philips' Science of Dental Materials — named MMP-inhibitor products (PDF p.282).
+- [RECALL] Bioactive-adhesive, nanotechnology, biomimetic-remineralization content, and standard DBA classification; not individually re-verified beyond the sources above.

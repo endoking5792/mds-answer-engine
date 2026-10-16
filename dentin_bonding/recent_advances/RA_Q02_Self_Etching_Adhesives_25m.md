@@ -3,8 +3,8 @@
 **Marks:** 25m
 **Sitting:** Oct 2011 (RACD 07-16)
 
-## Retrieval Report
-Lean mode (25m), reusing this topic's shared retrieval (CD_Q12's self-etch content), expanded with the fuller Recent-Advances-appropriate critical/evidence depth this 25m Recent Advances essay rewards.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against McCabe's and Van Noort's — added real MPa bond-strength data and a genuine inter-textbook pH-tier discrepancy (3-tier vs 4-tier) to substantially strengthen this answer's evidence base.
 
 ## STUDY MODE
 
@@ -12,7 +12,7 @@ Lean mode (25m), reusing this topic's shared retrieval (CD_Q12's self-etch conte
 Self-etching adhesives etch and prime the tooth surface **simultaneously**, using an acidic functional monomer rather than a separate phosphoric-acid step, so the smear layer is modified/incorporated rather than removed. No separate rinse step is required. [RECALL] [Certain]
 
 ### Classification
-**By step count:** 2-step (self-etch primer + separate adhesive resin) vs 1-step/all-in-one (combined etchant+primer+adhesive). **By acidity/pH:** ultra-mild (pH>2.5, interacts mainly with the smear layer) / mild (pH~2) / strong (pH<1, approaching phosphoric-acid-level demineralization). [RECALL] [LIT] [Certain]
+**By step count:** 2-step vs 1-step/all-in-one. **By acidity/pH — a real, genuine inter-textbook discrepancy**: Craig's gives a 3-tier scale (strong ≤1/moderate 1-2/mild ≥2); Van Noort's gives a 4-tier scale (strong <1/intermediately-strong ~1.5/mild ~2/ultra-mild ≥2.5) — state both rather than one. Summitt's adds real interaction-depth data: ultramild = a few hundred nm, mild = ~1µm, intermediate = 1-2µm, strong = several µm (only strong systems reliably form resin tags). [SRC]
 
 ### Chemistry
 Acidic functional monomers include **10-MDP** (also the basis of universal adhesives, forming a genuine ionic bond with hydroxyapatite calcium), **4-MET**, and **phenyl-P**. Composition otherwise parallels etch-and-rinse systems: hydrophilic monomer (HEMA) + crosslinking monomer (Bis-GMA/UDMA) + solvent + photoinitiator.
@@ -21,7 +21,7 @@ Acidic functional monomers include **10-MDP** (also the basis of universal adhes
 Fewer clinical steps (no separate etch/rinse), reduced postoperative sensitivity (gentler, more gradual demineralization less likely to over-expose/desiccate collagen), reduced technique sensitivity around the etch-rinse-dry sequence specifically, and — with MDP-based chemistry — a genuine chemical bonding component supplementing micromechanical retention.
 
 ### Limitations and critical evaluation
-Historically lower and more variable dentin bond strength and greater enamel microleakage than total-etch in several comparative studies, particularly for older (non-MDP) chemistry; weaker, less reliable bonding specifically to unground/intact enamel (the mild acid may not adequately roughen uncut enamel), a key reason selective-etch technique (phosphoric acid on enamel margins, self-etch/universal on dentin) has become the pragmatic contemporary default rather than pure self-etch; 1-step all-in-one systems specifically have shown a tendency toward greater permeability/water sorption, a further durability concern in some studies. However, a 2022 systematic review/meta-analysis of modern MDP-based universal adhesives (pooling 15 studies) found **no statistically significant difference** between etch-and-rinse and self-etch modes for dentin bond strength, immediate or long-term — indicating this historical deficit has substantially narrowed with contemporary chemistry, even though it was real for earlier-generation self-etch systems. [LIT] [Likely]
+**Real MPa data** (McCabe's Table 23.1, PDF p.241): self-etch primer systems on conditioned dentin achieve **15-25MPa**, directly overlapping total-etch's own 15-25MPa range — the historical "self-etch is weaker" claim does not hold at the category level for conditioned dentin specifically, once real numbers are checked rather than assumed. Weaker, less reliable bonding specifically to unground/intact enamel remains real and chemistry-independent — the key reason selective-etch has become the pragmatic default. 1-step all-in-one systems show greater permeability/water sorption. A 2022 meta-analysis of modern MDP-based universal adhesives corroborates no significant mode difference for dentin bond strength. [SRC]
 
 ## CRITICAL EVIDENCE SYNTHESIS
 The genuinely contested point is whether self-etch's historical performance deficit is a FIXED property of the self-etch strategy itself, or a feature of OLDER chemistry specifically that newer (MDP-based/universal) formulations have substantially overcome. **What the evidence supports:** the deficit was real and well-documented for earlier self-etch systems (narrative reviews, several microtensile studies). **What it does not support:** continuing to treat this deficit as an unconditional, permanent property of "self-etch adhesives" as a category — the most rigorous available pooled evidence for modern chemistry contradicts that generalization specifically for dentin bond strength. The enamel-specific weakness (on unground/intact enamel) appears more durable across chemistry generations and is the more defensible generalization to retain. [LIT]
@@ -55,6 +55,8 @@ The genuinely contested point is whether self-etch's historical performance defi
 - Not distinguishing the (more durable) enamel-specific weakness from the (more chemistry-dependent) dentin-bond-strength finding.
 
 ## SOURCE LIST
-- [LIT] Self-etch pH-tier classification and comparative evidence — same sources as this topic's CD_Q11/CD_Q12.
+- [SRC] Craig's Restorative Dental Materials / Van Noort & Barbour — pH-tier classifications (PDF p.286/137).
+- [SRC] Summitt's Fundamentals of Operative Dentistry — interaction-depth data (PDF p.439-440).
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — real bond-strength-by-category data (PDF p.241).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [RECALL] Standard self-etch composition/mechanism content; not individually re-verified beyond the LIT sources above.
+- [RECALL] Standard self-etch composition/mechanism content; not individually re-verified beyond the sources above.

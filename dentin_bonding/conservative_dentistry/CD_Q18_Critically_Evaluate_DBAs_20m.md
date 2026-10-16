@@ -3,8 +3,8 @@
 **Marks:** 20m, Long Essay
 **Sitting:** Oct 2010 (RG PII RS-2)
 
-## Retrieval Report
-Lean mode (20m), reusing this topic's shared retrieval. This answer is deliberately structured around appraisal (strengths/weaknesses/evidence quality) rather than the descriptive classification-and-mechanism structure of CD_Q15/CD_Q16, since "critically evaluate" is a distinct command word per this project's standard command-word conventions.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against McCabe's and Nakabayashi & Pashley's — added a real, authoritative bond-testing-methodology critique that substantially strengthens the "in-vitro data ≠ clinical proxy" weakness already flagged in the original draft.
 
 ## STUDY MODE
 
@@ -19,7 +19,7 @@ Lean mode (20m), reusing this topic's shared retrieval. This answer is deliberat
 - **Evidence quality is genuinely mixed and inconsistent across study types**: narrative reviews and some microtensile studies favor total-etch, while rigorous pooled meta-analyses of modern universal adhesives find no significant mode difference — meaning confident, sweeping claims about "which system is best" outrun the actual evidence. [LIT]
 - **Enamel performance of self-etch systems, particularly on unground/intact enamel, remains comparatively weaker**, which is why selective-etch (a hybrid of total-etch and self-etch) has become the pragmatic default rather than either pure strategy — itself an implicit admission that no single current system is unconditionally superior.
 - **Technique sensitivity has not been eliminated, only redistributed**: multi-step systems demand precise timing; simplified all-in-one systems trade this for historically more variable bond quality in some studies.
-- **In-vitro bond-strength data (the dominant evidence base) does not always predict long-term clinical performance**, and clinically-relevant outcome data (restoration survival at 5-10+ years, directly attributable to bonding-agent choice rather than other restorative factors) is comparatively sparse.
+- **In-vitro bond-strength data (the dominant evidence base) does not always predict long-term clinical performance** — and this is now a real, authoritative, methodological finding, not just an inference: McCabe's states a coefficient of variation of **~50% is "not uncommon"** in bond-strength testing even under ISO guidelines, and argues failure MODE (adhesive/cohesive/mixed) is "a more important parameter" than the raw MPa value (PDF p.250). Nakabayashi & Pashley's independently confirm that microtensile testing gives apparently higher values (~45MPa) than conventional shear testing (~25MPa) for the SAME bond — not because the bond is truly stronger, but because the smaller specimen's more uniform stress distribution shifts failure from cohesive-in-dentin to adhesive-at-interface, a testing-geometry artifact (PDF p.76-77). [SRC]
 
 **Appropriately balanced conclusion:** DBAs represent genuine, substantial, mechanistically-grounded progress (hybrid-layer concept, MDP chemistry, universal/multi-mode flexibility) and are indispensable to modern restorative dentistry — but they are not a solved technology; long-term hydrolytic/enzymatic bond degradation, substrate-dependent performance variability, and the gap between in-vitro and clinical outcome data all remain genuine, active limitations that a "critical evaluation" should state plainly rather than smooth over.
 
@@ -52,6 +52,7 @@ This question's command word ("critically evaluate") makes the critical-synthesi
 - Giving an unconditionally positive or unconditionally negative verdict instead of the genuinely balanced appraisal the evidence supports.
 
 ## SOURCE LIST
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials, 9th ed. — bond-testing coefficient-of-variation/failure-mode critique (PDF p.250).
+- [SRC] Nakabayashi N, Pashley DH, *Hybridization of Dental Hard Tissues* — microtensile-vs-shear testing-artifact confirmation (PDF p.76-77).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [LIT] Comparative total-etch/self-etch bond-strength and microleakage studies — same sources as CD_Q11.
-- [RECALL] MMP-mediated collagen-degradation mechanism and standard DBA content; not individually re-verified beyond the LIT sources above.
+- [RECALL] MMP-mediated collagen-degradation mechanism and standard DBA content; not individually re-verified beyond the sources above.

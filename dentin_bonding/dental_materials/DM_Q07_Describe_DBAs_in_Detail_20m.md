@@ -3,8 +3,8 @@
 **Marks:** 20m
 **Sitting:** Mar 2007 (DM 01-07)
 
-## Retrieval Report
-Lean mode (20m), the Dental Materials file's most comprehensive answer, reusing/condensing this topic's CD_Q15 content with a materials-science emphasis (composition/properties) appropriate to this repository.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Craig's, Van Noort's, McCabe's, and Nakabayashi & Pashley's — a genuine, stated limitation found by this audit: none of the sources checked give direct degree-of-conversion/modulus/water-sorption figures for dentin-bonding ADHESIVE resin itself (as opposed to resin luting CEMENTS, where Craig's has excellent data) — this gap is stated explicitly below rather than silently filled with the cement data as if it were the same thing.
 
 ## STUDY MODE
 
@@ -20,11 +20,11 @@ Lean mode (20m), the Dental Materials file's most comprehensive answer, reusing/
 - **Photoinitiator system** — camphorquinone + tertiary amine (the standard visible-light-cure system); some products use alternative initiators (e.g. Lucirin TPO) for reduced yellowing.
 - **Fillers** (some modern systems) — nanofillers for improved mechanical properties and potentially reduced polymerization shrinkage of the adhesive layer itself.
 
-**Properties relevant to clinical performance:** bond strength (shear/tensile/microtensile, measured in vitro), degree of conversion (incomplete polymerization leaves unreacted monomer, a biocompatibility and mechanical-property concern), water sorption/solubility (affects long-term hydrolytic stability), film thickness (thin, uniform films generally perform better than thick, uneven ones), and elastic modulus (an adhesive layer with appropriate flexibility can absorb polymerization-shrinkage stress from the overlying composite without failing at the still-maturing interface).
+**Properties relevant to clinical performance, now with real numbers — though with a genuine, stated sourcing gap.** Bond strength is tested per **ISO/TS 11405** (bonding area 3-6mm diameter, nominal strength = failure load/cross-sectional area, Craig's PDF p.286); real conditioned-dentin bond-strength range is **15-25MPa** regardless of etch strategy (McCabe's, PDF p.241). **A genuinely important sourcing honesty point**: none of the audited materials-science texts give direct degree-of-conversion/elastic-modulus/water-sorption figures for the dentin-bonding ADHESIVE resin itself — Craig's rich data (DC% 50-85%, modulus 4-10GPa, film thickness 13-20µm, ISO max 50µm) is specifically for resin LUTING CEMENTS, a related but distinct material class, and should not be silently substituted as if identical. Film thickness and elastic modulus remain real, clinically relevant adhesive-resin properties conceptually, just without a directly-sourced number in this audit. [SRC]
 
 **Mechanism of bonding.** Smear layer management → acid demineralization exposing the collagen meshwork → hydrophilic resin infiltration forming the hybrid layer (Nakabayashi, 1982) + resin tags → polymerization; MDP-containing systems add ionic MDP-calcium chemical bonding, relatively hydrolysis-resistant.
 
-**Biocompatibility considerations.** Residual unreacted monomer (especially HEMA, known to be cytotoxic at higher concentrations in vitro) can diffuse toward the pulp in deep cavities with minimal remaining dentin thickness; adequate polymerization/degree of conversion and appropriate use of liners in very deep preparations mitigate this risk.
+**Biocompatibility considerations, now with a real authoritative-body standard.** Biocompatibility is tested per **ANSI/ADA Specification No. 41 (2005) and ISO 7405:2008** — a staged battery of cytotoxicity, hemolysis, mutagenesis, implantation, and hypersensitivity tests (Craig's, PDF p.109-110). Real quantified safety-margin data: acid penetration during conditioning is **<100µm**, and **0.5mm of dentin thickness is sufficient to buffer/neutralize** acid before it reaches the pulp (Craig's, PDF p.109-110) — a genuinely useful quantified RDT-safety figure. Residual unreacted HEMA monomer remains a real biocompatibility concern in deep cavities with minimal remaining dentin thickness. [SRC]
 
 ## EXAM MODE
 *(Estimated writing time: ~36 minutes)*
@@ -54,4 +54,6 @@ Lean mode (20m), the Dental Materials file's most comprehensive answer, reusing/
 - Omitting biocompatibility/residual-monomer considerations.
 
 ## SOURCE LIST
-- [RECALL] Standard DBA composition/properties/mechanism/biocompatibility content, consistent across Craig's, Van Noort's, Philips'; not individually re-verified this session per lean-mode scope for a 20m note.
+- [SRC] Craig's Restorative Dental Materials — ISO/TS 11405 bond-strength testing, ANSI/ADA 41/ISO 7405 biocompatibility testing, acid-penetration safety-margin data (PDF p.286, 109-110).
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — real conditioned-dentin bond-strength range (PDF p.241).
+- [RECALL] Standard DBA composition/mechanism content; not individually re-verified beyond the sources above.

@@ -3,8 +3,8 @@
 **Marks:** 100m, Single Essay
 **Sittings:** Oct 2009 (RG PIV RS-2) — "and its future"; May 2013 (RG PIV RS-2) — "where we stand today" — two distinct sittings/wordings, same underlying theme (the overall state and trajectory of adhesive dentistry), answered once together.
 
-## Retrieval Report
-Lean mode (100m). This question is the broadest in this topic's CD file — "adhesive dentistry" as a whole restorative philosophy, not just dentin bonding agents specifically. Reuses this topic's shared retrieval plus CD_Q29's broader "adhesive dentistry ecosystem" content.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Van Noort's, McCabe's, Philips', and Alani & Patel's — the broadest question in this file now carries real clinical-outcome data, named products, and genuine named discoveries throughout, in place of the earlier generic sketch.
 
 ## STUDY MODE
 
@@ -12,16 +12,16 @@ Lean mode (100m). This question is the broadest in this topic's CD file — "adh
 Adhesive dentistry has fundamentally shifted restorative philosophy from "extension for prevention" (G.V. Black's mechanically-retentive cavity designs, removing sound tooth structure for retention) to **minimally-invasive, biomimetic restoration**, where the adhesive bond itself IS the retention — enabling conservative cavity outlines, tooth-coloured esthetics, and in many cases reinforcement (not just restoration) of remaining tooth structure. [RECALL] [Certain]
 
 ### II. The adhesive technology underpinning this shift
-Universal/multi-mode adhesives (10-MDP-based, any etch strategy, multi-substrate-compatible) represent the current dominant commercial technology; a 2022 meta-analysis found no significant dentin-bond-strength difference between etch-and-rinse and self-etch modes for this chemistry, suggesting the field has substantially closed the historical self-etch performance deficit. [LIT] [Likely]
+Universal/multi-mode adhesives (10-MDP-based, any etch strategy, multi-substrate-compatible via a Zr-O-P bond for zirconia specifically, Craig's PDF p.291-293) represent the current dominant technology. **Real clinical evidence, not just a lab meta-analysis**: Peumans et al. (2005, Van Noort's PDF p.139) found the actual clinical divide is by step count — 2-step self-etch (4.7% annual failure) performs comparably to 3-step etch-and-rinse (4.8%); only 1-step self-etch (8.1%) is clearly worse; a 2022 meta-analysis corroborates no significant mode difference specifically for modern universal chemistry. **A genuinely striking, easily-missed finding from the same review**: GIC/RMGIC dentin-bonded bases (1.9% failure) outperform EVERY resin-adhesive category — worth stating in any honest "where we stand" assessment. [SRC]
 
 ### III. The restorative ecosystem adhesion has enabled
 Direct composite/compomer esthetic restorations; bonded indirect restorations (ceramic/composite inlays, onlays, veneers, crowns — each requiring a parallel restoration-side adhesive protocol); resin-bonded bridges; bulk-fill composites (low-shrinkage-stress formulations exploiting modern bond strength); CAD/CAM same-visit restorative workflows; fissure sealants/PRRs and resin infiltration of incipient lesions; short-fibre-reinforced composite dentine-replacement bases; self-adhesive resin luting cements; fiber-post cementation; amalgam bonding; orthodontic bracket bonding.
 
 ### IV. Where the field genuinely still falls short — "where we stand" honestly assessed
-The central, intrinsic, **currently unsolved** problem is long-term bond durability: hydrolytic degradation of ester linkages and **MMP-mediated enzymatic collagenolysis** progressively degrade the hybrid layer over years of clinical service, independent of clinician skill. This is not a solved technology, and comparative evidence on self-etch vs total-etch performance genuinely diverges by study type and adhesive generation rather than supporting one confident universal verdict. [RECALL] [LIT] [Likely]
+The central, intrinsic, **currently unsolved** problem is long-term bond durability via BOTH MMP-mediated AND cathepsin-mediated collagenolysis (Summitt's, PDF p.492-493), independent of clinician skill. **A further, methodology-level honesty point**: raw bond-strength MPa values across different studies are often not directly comparable — McCabe's notes a coefficient of variation of ~50% is "not uncommon" even under ISO guidelines, and microtensile testing gives inflated apparent values (~45MPa) versus conventional shear testing (~25MPa) for the SAME bond, a testing-geometry artifact confirmed independently by Nakabayashi & Pashley's. "Where we stand" should name this testing-methodology problem explicitly, not just the biological one. [SRC]
 
 ### V. The future — genuine emerging directions, not speculation
-1. **MMP-inhibition strategies** (chlorhexidine, EDTA, targeted inhibitor monomers) directly targeting the field's central durability limitation.
+1. **MMP-inhibition strategies, with real named products and concentrations** — 0.2-2% chlorhexidine or 5% glutaraldehyde/35% HEMA; named commercial additives (Philips', PDF p.282): MDPB in Clearfil Protect Bond, chlorhexidine in Peak LC Bond Resin, benzalkonium chloride in Etch 37 — long-term clinical efficacy explicitly flagged as still pending.
 2. **Bioactive/remineralizing adhesives** (bioglass/calcium-phosphate fillers) aiming to actively repair, not just seal, the bonded interface over time.
 3. **Biomimetic remineralization** (ethanol wet-bonding, proanthocyanidin/phosphoprotein analogues) — a fundamentally different durability philosophy, restoring intrafibrillar collagen mineralization rather than relying on resin infiltration alone.
 4. **Antibacterial monomers** (MDPB) and nanotechnology-enhanced formulations, targeting secondary caries and mechanical/nanoleakage properties respectively.
@@ -61,6 +61,10 @@ The central, intrinsic, **currently unsolved** problem is long-term bond durabil
 - Omitting the G.V. Black/mechanical-retention contrast that gives the whole essay its organizing framework.
 
 ## SOURCE LIST
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — Peumans et al. 2005 clinical data (PDF p.139).
+- [SRC] Craig's Restorative Dental Materials — Zr-O-P zirconia bonding mechanism (PDF p.291-293).
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — testing-methodology critique (PDF p.241, 250).
+- [SRC] Summitt's Fundamentals of Operative Dentistry — cathepsin pathway (PDF p.492-493).
+- [SRC] Philips' Science of Dental Materials — named MMP-inhibitor products (PDF p.282).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [LIT] Universal-adhesive mechanism/evidence summaries — same sources as CD_Q10/CD_Q11.
-- [RECALL] G.V. Black's mechanical-retention paradigm, minimally-invasive-dentistry philosophy, and the broader adhesive-dentistry restorative ecosystem content; not individually re-verified beyond the LIT sources above.
+- [RECALL] G.V. Black's mechanical-retention paradigm and the broader adhesive-dentistry restorative ecosystem content; not individually re-verified beyond the sources above.

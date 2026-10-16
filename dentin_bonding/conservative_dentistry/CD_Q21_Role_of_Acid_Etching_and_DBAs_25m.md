@@ -3,16 +3,16 @@
 **Marks:** 25m, Essay
 **Sitting:** Sep 2002 (PI 01-07)
 
-## Retrieval Report
-Lean mode (25m). Standard material; combines CD_Q02's acid-etching content with this topic's core DBA material.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Marzouk's and Sturdevant's — added real modern-vs-historical etch-depth/time numbers and the actual historical-discovery narrative behind the hybrid layer.
 
 ## STUDY MODE
 
 ### Role of acid etching
-Acid etching (Buonocore, 1955) is the enabling first step of adhesive dentistry: it removes/modifies the smear layer and demineralizes the surface, creating the micro-porous substrate (etched enamel prisms; demineralized dentin collagen meshwork) that resin can subsequently infiltrate. Without this step, resin would merely sit on an unretentive, smear-layer-covered surface with negligible bond strength. Phosphoric acid (30-40%) is the conventional etchant for enamel (and, in total-etch systems, dentin); self-etch systems use weaker acidic functional monomers to achieve a gentler, simultaneous etch-and-prime effect; selective-etch combines phosphoric acid on enamel margins with a self-etch/universal system on dentin — see this topic's CD_Q02/CD_Q11 for full technique/classification detail.
+Acid etching (Buonocore, 1955) is the enabling first step of adhesive dentistry: it removes/modifies the smear layer and demineralizes the surface, creating the micro-porous substrate that resin can subsequently infiltrate. Without this step, resin would merely sit on an unretentive, smear-layer-covered surface with negligible bond strength. **Real modern vs historical contrast**: modern phosphoric-acid etching demineralizes dentin to only ~4-8µm in ~15s, replacing the classical protocol Marzouk's describes — 60 seconds, 35-50% acid, to an average depth of **25 microns** (5-6× deeper), with a chalky (not frosty) clinical endpoint — a striking illustration of how far etch technique has been refined specifically to limit demineralization depth to what resin can reliably infiltrate. [SRC] Self-etch systems use weaker acidic functional monomers for a gentler, simultaneous etch-and-prime effect; selective-etch combines phosphoric acid on enamel margins with a self-etch/universal system on dentin.
 
 ### Role of dentin bonding agents
-DBAs are the resin systems that exploit the etched/demineralized surface created by acid etching, infiltrating it to form the **hybrid layer** (enamel resin tags; dentin hybrid layer + resin tags, per Nakabayashi's 1982 description) and, in modern MDP-containing systems, adding a genuine chemical (ionic MDP-calcium) bond. DBAs are classified by etch strategy (etch-and-rinse/self-etch/universal) and composed of hydrophilic monomer (HEMA) + crosslinking monomer (Bis-GMA/UDMA) + solvent + acidic functional monomer (self-etch/universal) + photoinitiator.
+DBAs are the resin systems that exploit the etched/demineralized surface created by acid etching, infiltrating it to form the **hybrid layer** and, in modern MDP-containing systems, adding a genuine chemical (ionic MDP-calcium) bond. **The real historical discovery (Nakabayashi & Pashley, PDF p.59-60) is worth citing in detail here, since it IS the "how etching and DBAs interlock" story**: Nakabayashi et al. (1982a) demineralized the top 5µm of intertubular dentin with a ferric-chloride/citric-acid solution, then bonded with 4-META/MMA-TBB resin — proving (via sequential chemical-challenge testing: 6N HCl to remove unprotected mineral, then NaOCl to dissolve unprotected collagen) that resin had polymerized AROUND collagen fibrils to the full demineralization depth, naming the result the "hybrid layer." A precursor observation 30 years earlier (Kramer & McLean, 1952) noted unusual staining in dentin bonded with Hagger's Sevriton resin, unwittingly hinting at the same phenomenon. [SRC] DBAs are classified by etch strategy and composed of hydrophilic monomer (HEMA) + crosslinking monomer (Bis-GMA/UDMA) + solvent + acidic functional monomer (self-etch/universal) + photoinitiator.
 
 ### How the two roles interlock in adhesive dentistry
 Acid etching and DBAs are not independent steps but a **single interdependent system**: the depth/quality of etching determines how deep resin infiltration must reach (mismatch between the two is a major cause of hybrid-layer weakness and long-term bond failure); the choice of etching strategy (total-etch vs self-etch vs selective-etch) is itself inseparable from the choice of bonding-agent category, since self-etch primers ARE simultaneously the etchant. Together, acid etching + DBA infiltration underpin: direct composite/compomer restorations, bonded indirect restorations, fissure sealants/PRRs, resin-bonded bridges, core build-ups, fiber-post cementation, and amalgam bonding — essentially the entire modern adhesive-dentistry repertoire.
@@ -49,4 +49,6 @@ Both steps are technique-sensitive (etch time/concentration; moisture control af
 - Omitting the MMP link between the etching step and later enzymatic bond degradation.
 
 ## SOURCE LIST
-- [RECALL] Standard acid-etching and DBA content (Buonocore 1955, Nakabayashi 1982, MMP-mediated degradation), consistent across Craig's, Van Noort's, Sturdevant's; not individually re-verified this session per lean-mode scope.
+- [SRC] Nakabayashi N, Pashley DH, *Hybridization of Dental Hard Tissues* — the original discovery narrative and chemical-challenge validation (PDF p.59-60).
+- [SRC] Marzouk MM, *Operative Dentistry* — classical 60s/25-micron etch protocol (p.182-185).
+- [RECALL] Standard DBA composition/classification content and MMP-mediated degradation; not individually re-verified beyond the sources above.

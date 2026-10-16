@@ -3,14 +3,14 @@
 **Marks:** 25m
 **Sitting:** Oct 2013 (RACD 07-16)
 
-## Retrieval Report
-Lean mode (25m), reusing this topic's shared retrieval (CD_Q19/CD_Q20 content), with the Recent-Advances-repository framing emphasizing evidence currency/maturity appropriately for this standalone RA-repository question.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Philips' and Summitt's — replaced the generic MMP-inhibitor claim with real named commercial products/concentrations, substantially strengthening the evidence-maturity-gradient argument this RA-specific framing demands.
 
 ## STUDY MODE
 
 **1. Universal/multi-mode adhesives (the dominant recent advance).** Single-bottle systems usable in etch-and-rinse, self-etch, or selective-etch mode, built around **10-MDP** functional-monomer chemistry providing genuine chemical (ionic MDP-calcium) adhesion alongside micromechanical hybrid-layer retention, with multi-substrate compatibility (zirconia, silica ceramics, metals). A 2022 systematic review/meta-analysis (pooling 15 studies) found no statistically significant dentin-bond-strength difference between etch-and-rinse and self-etch modes for this chemistry — strong, comparatively well-pooled evidence for this specific advance. [LIT] [Likely]
 
-**2. MMP-inhibition strategies.** Chlorhexidine pretreatment, EDTA conditioning, and newer targeted MMP-inhibitor monomers incorporated directly into experimental adhesive formulations, directly addressing the intrinsic, hydrolytic/enzymatic hybrid-layer degradation mechanism recognized as the field's central remaining durability problem. [RECALL] [Likely]
+**2. MMP-inhibition strategies, now with real named products/concentrations.** Real protocols: 0.2-2% aqueous chlorhexidine (Summitt's, PDF p.448, 492-493 — TEM-confirmed reduced nanoleakage after 2-year storage) or 5% glutaraldehyde/35% HEMA. Named commercial additives (Philips', PDF p.282): **MDPB** in Clearfil Protect Bond, **chlorhexidine** in Peak LC Bond Resin, **benzalkonium chloride** in Etch 37 — the source explicitly flags long-term clinical efficacy data as still pending, directly supporting this answer's own "evidence-maturity gradient" point. A real supporting RCT: van Landuyt et al. (2011), one-step self-etch vs etch-and-rinse, 3-year Class V follow-up — similar overall performance but more marginal defects/discoloration in the simplified group. [SRC] A further, deeper mechanistic nuance (Summitt's, PDF p.492-493): **cysteine cathepsins** are a second, cooperating collagenolytic pathway alongside MMPs, activated in acidic environments. [SRC]
 
 **3. Bioactive/remineralizing adhesives.** Bioactive-glass or calcium-phosphate-releasing fillers incorporated into experimental and some commercial adhesive systems, aiming to actively promote remineralization at the adhesive-dentin interface rather than relying solely on resin infiltration for durability.
 
@@ -54,5 +54,7 @@ These seven advances are NOT equally evidence-backed: universal-adhesive perform
 - Omitting MMP-inhibition strategies, a frequently-tested, genuinely current research direction.
 
 ## SOURCE LIST
+- [SRC] Philips' Science of Dental Materials — named MMP-inhibitor products, van Landuyt 2011 RCT (PDF p.282-284).
+- [SRC] Summitt's Fundamentals of Operative Dentistry — chlorhexidine concentration/evidence, cathepsin pathway (PDF p.448, 492-493).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [RECALL] MMP-inhibition, bioactive-adhesive, MDPB, nanotechnology, and biomimetic-remineralization development content; not individually re-verified via live search this session beyond the LIT source above.
+- [RECALL] Bioactive-adhesive, nanotechnology, and biomimetic-remineralization development content; not individually re-verified beyond the sources above.

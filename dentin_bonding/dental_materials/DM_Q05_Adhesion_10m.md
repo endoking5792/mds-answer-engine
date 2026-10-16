@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Note
 **Sitting:** Apr 2003 (DM 01-07)
 
-## Retrieval Report
-Lean mode (10m), expanding this topic's DM_Q01 (5m) "Dental adhesion" content for the higher mark allocation with fuller materials-science treatment.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Van Noort's — added real surface-energy/wettability figures and the theoretical-vs-real bond-strength gap (same real data as DM_Q01, reused here for the fuller 10m treatment).
 
 ## STUDY MODE
 
@@ -16,8 +16,8 @@ Lean mode (10m), expanding this topic's DM_Q01 (5m) "Dental adhesion" content fo
 3. **Diffusion theory** — applicable where polymer chains from the adhesive diffuse into the adherend (more relevant to polymer-polymer bonding than tooth-resin bonding, but conceptually complete for a theories-of-adhesion answer).
 4. **Electrostatic theory** — charge transfer across the interface contributes a (generally minor) adhesive force in some systems.
 
-**Requirements for adhesion to occur:**
-- **Wetting** — the adhesive must flow and spread over the adherend surface (a low contact angle indicates good wetting); hydrophilic monomers like HEMA specifically aid wetting of moist dentin.
+**Requirements for adhesion to occur, now with real numbers (Van Noort's, PDF p.130, 70-72):**
+- **Wetting** — real surface-tension data: adhesive resin ~34-38mJ/m², pellicle-covered enamel ~28mJ/m², freshly-etched enamel ~42mJ/m² (etching numerically improves wettability); hydrophilic monomers like HEMA specifically aid wetting of moist dentin. **Theoretical vs real bond strength**: calculated theoretical joint strength ~200MPa (Dupré/Young equation) vs real achieved strengths "at least an order of magnitude smaller" — a genuinely useful quantitative framing for why real MPa figures look modest. [SRC]
 - **Clean surface** — free of contamination (saliva, blood, debris, residual temporary-cement eugenol).
 - **Intimate contact/surface energy** — adequate surface roughness/porosity (created by etching) increases effective surface area and surface energy available for bonding.
 - **Low viscosity of the adhesive** at the point of application, to penetrate micro-porosities/collagen meshworks effectively.
@@ -52,4 +52,5 @@ Lean mode (10m), expanding this topic's DM_Q01 (5m) "Dental adhesion" content fo
 - Conflating macromechanical retention with true adhesion.
 
 ## SOURCE LIST
-- [RECALL] Standard adhesion-theory content, consistent across Craig's, Van Noort's, Philips'; not individually re-verified this session per lean-mode scope for a 10m note.
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — surface-energy/wettability figures, theoretical-vs-real bond-strength gap (PDF p.130, 70-72).
+- [RECALL] Standard adhesion-theory content; not individually re-verified beyond the source above.

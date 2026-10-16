@@ -3,8 +3,8 @@
 **Marks:** 75m, Single Essay
 **Sitting:** May 2014 (RG PIV RS-3)
 
-## Retrieval Report
-Lean mode (75m). This question's "adhesive dentistry" framing is broader than "dentin bonding agents" specifically — it's read here as covering the whole adhesive-restorative ecosystem (adhesives themselves, plus adhesive-dependent restorative materials/techniques), distinct from CD_Q19/CD_Q20's narrower DBA-specific "recent trends" content.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Alani & Patel's and Sturdevant's — added the real Icon resin-infiltration protocol and Immediate Dentine Sealing technique as genuinely new, named, concrete advances within the broader "adhesive dentistry ecosystem" scope.
 
 ## STUDY MODE
 
@@ -14,7 +14,7 @@ Universal/multi-mode adhesives (10-MDP-based, any etch strategy, multi-substrate
 ### II. Advances in adhesive-dependent restorative materials and techniques (the broader "adhesive dentistry" scope)
 1. **Bulk-fill composites** — low-shrinkage-stress formulations enabled by modern adhesive bond strength, allowing 4mm+ increments without the traditional incremental-layering requirement.
 2. **CAD/CAM resin-ceramic/composite blocks** for same-visit indirect bonded restorations, relying entirely on adhesive cementation protocols.
-3. **Minimally invasive/biomimetic restorative philosophy** generally — adhesion-enabled conservative cavity designs (no retentive undercuts needed), fissure sealants/PRRs, resin infiltration of white-spot/incipient enamel lesions (ICON-type techniques).
+3. **Minimally invasive/biomimetic restorative philosophy** generally — adhesion-enabled conservative cavity designs, fissure sealants/PRRs, and a real named resin-infiltration protocol (Icon®, Alani & Patel, PDF p.114): sandblast/abrasive disc → HCl etch (Icon-etch) 2 min → ethanol (Icon-dry) 30s → resin infiltrant 3 min, cure 40s → repeat infiltrant 1 min, cure 40s → polish. A related technique, **Immediate Dentine Sealing (IDS)** (Paul & Magne, cited in Sturdevant's p.191-192) — sealing freshly-cut dentine with a 4th-gen DBA immediately after indirect-restoration preparation, before impression, avoiding hybrid-layer collapse under seating pressure. [SRC]
 4. **Short-fibre-reinforced composites (SFRC)** as adhesively-bonded dentine-replacement bases in deep cavities, reducing cuspal flexure risk.
 5. **Adhesive luting cements** for indirect restorations (self-adhesive resin cements reducing/eliminating the separate etch-and-bond step for cementation specifically).
 6. **Digital workflow integration** — intraoral scanning and CAD/CAM design paired with same-visit adhesively-bonded restorations, reducing the number of clinical appointments.
@@ -47,5 +47,7 @@ Universal-adhesive evidence is comparatively robust (a real pooled meta-analysis
 - Treating all advances as equally evidence-backed.
 
 ## SOURCE LIST
+- [SRC] Alani A, Patel M, *Adhesive Techniques in Restorative Dentistry* — Icon resin-infiltration protocol (PDF p.114).
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — Immediate Dentine Sealing technique (PDF p.191-192).
 - [LIT] Universal-adhesive mechanism/evidence — same sources as CD_Q10/CD_Q11.
-- [RECALL] Bulk-fill composites, CAD/CAM restorative workflow, SFRC dentine-replacement bases, self-adhesive resin cements, and MMP-inhibitor/bioactive/biomimetic-remineralization content; not individually re-verified via live search this session.
+- [RECALL] Bulk-fill composites, CAD/CAM restorative workflow, SFRC dentine-replacement bases, self-adhesive resin cements, and MMP-inhibitor/bioactive/biomimetic-remineralization content; not individually re-verified beyond the sources above.

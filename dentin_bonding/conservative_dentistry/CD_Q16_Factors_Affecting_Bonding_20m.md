@@ -3,8 +3,8 @@
 **Marks:** 20m, Long Essay
 **Sitting:** May 2012 (RG PII RS-2)
 
-## Retrieval Report
-Lean mode (20m). Standard material; reuses this topic's shared retrieval.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Sturdevant's and Van Noort's — added real tubule-density/C-factor numbers to the substrate/technique factor lists.
 
 ## STUDY MODE
 
@@ -13,7 +13,7 @@ Lean mode (20m). Standard material; reuses this topic's shared retrieval.
 **Substrate-related factors:**
 1. **Enamel composition** (≈96% mineral, highly etchable, prismatic structure) vs **dentin composition** (≈70% mineral/30% organic-water, tubular, far more heterogeneous) — fundamentally different bonding chemistry is needed for each. [RECALL] [Certain]
 2. **Enamel prism orientation and type of etch pattern produced** (Type I/II/III) affects micromechanical retention quality.
-3. **Dentin depth** — superficial dentin (fewer/narrower tubules) bonds more predictably than deep dentin (wider/more numerous tubules, higher intrinsic wetness, closer to pulp, more postoperative-sensitivity risk).
+3. **Dentin depth, quantified** — tubule density rises from **~20,000/mm² (0.63µm diameter) near the DEJ to ~45,000/mm² (2.37µm diameter) near the pulp** (Sturdevant's, PDF p.426); real pulpal fluid pressure of 25-30mmHg drives outward flow that worsens with depth. [SRC]
 4. **Smear layer thickness/composition** — varies with cutting instrument, speed, and pressure; affects how completely a self-etch system can penetrate it.
 5. **Sclerotic/carious/fluorotic dentin or enamel** — altered mineral content changes etch response (e.g. sclerotic dentin etches and bonds less predictably than normal dentin).
 
@@ -23,7 +23,7 @@ Lean mode (20m). Standard material; reuses this topic's shared retrieval.
 8. **Contamination** (saliva, blood, residual eugenol from temporary cements) — any of these can drastically reduce bond strength if not removed.
 9. **Solvent evaporation** — incomplete evaporation (especially acetone/ethanol-based systems) leaves voids, weakening the bond.
 10. **Curing adequacy** — insufficient light intensity/exposure time under-polymerizes the adhesive layer.
-11. **C-factor and polymerization shrinkage stress** of the overlying composite, which can exceed the bond's early strength.
+11. **C-factor and polymerization shrinkage stress** — the configuration factor (bonded:unbonded surface ratio) governs stress risk (Van Noort's, PDF p.138); composite shrinkage generates ~15MPa (Philips', PDF p.277), which can exceed the bond's early strength, especially where C-factor is high (a root canal post space can exceed C-factor 200 vs 1-5 coronally). [SRC]
 
 **Material-related factors:**
 12. **Adhesive hydrophilicity/viscosity** — must wet and diffuse into demineralized collagen adequately.
@@ -67,4 +67,7 @@ Lean mode (20m). Standard material; reuses this topic's shared retrieval.
 - Omitting Part II (bonding agents) entirely when the question explicitly asks for both halves.
 
 ## SOURCE LIST
-- [RECALL] Standard bonding-factors and bonding-agent content, consistent across Craig's, Van Noort's, Sturdevant's; not individually re-verified this session per lean-mode scope.
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — tubule density/diameter/pressure data (PDF p.425-426).
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — C-factor concept (PDF p.138).
+- [SRC] Philips' Science of Dental Materials — shrinkage-stress figure (PDF p.277).
+- [RECALL] Standard bonding-agent classification/composition content; not individually re-verified beyond the sources above.

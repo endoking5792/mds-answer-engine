@@ -3,8 +3,8 @@
 **Marks:** 25m, Long Essay
 **Sitting:** Mock 2025 (ABS PI)
 
-## Retrieval Report
-Lean mode (25m). Standard material plus this topic's shared self-etch/total-etch evidence retrieval. This question's "critically analyse" + "suggest modifications" framing is deliberately split into analysis and recommendation sections below.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Pickard's and Perdigão's — added real quantified figures for caries-affected dentin and root-canal-specific bonding challenges that replace the original draft's qualitative claims.
 
 ## STUDY MODE
 
@@ -14,9 +14,9 @@ Lean mode (25m). Standard material plus this topic's shared self-etch/total-etch
 
 **2. Sclerotic dentin** (hypermineralized tubules, commonly seen in non-carious cervical lesions and aged/attrited teeth). Sclerotic dentin etches and bonds significantly less predictably than normal dentin — the hypermineralized, often smear-layer-like surface resists demineralization and reduces resin-tag/hybrid-layer formation, giving measurably lower bond strengths in multiple clinical studies of NCCL restorations. [RECALL] [Likely]
 
-**3. Caries-affected (vs sound) dentin.** Caries-affected dentin has altered mineral content, increased intrinsic porosity, and residual bacterial/collagen breakdown products — generally bonds less strongly and less durably than sound dentin, a genuine clinical concern since caries-affected dentin is often deliberately retained (rather than fully excavated) in minimally-invasive, selective-caries-removal protocols specifically to avoid pulpal exposure.
+**3. Caries-affected (vs sound) dentin — now with real numbers.** Caries-affected dentin has altered mineral content, increased intrinsic porosity, and residual bacterial/collagen breakdown products. **Real bond-strength figure**: 15-28MPa (Pickard's, p.105) — measurably lower than sound dentin, and a genuine clinical concern since caries-affected dentin is often deliberately retained in selective-caries-removal protocols. A genuinely counterintuitive related finding (Nakabayashi & Pashley, PDF p.79-80, 95-97): caries-affected dentin's greater baseline permeability actually produces a *thicker* hybrid layer than sound dentin — yet bond strength is still *lower*, because sclerotic/occluded tubules can't form resin tags; thickness and strength are not the same thing here. [SRC]
 
-**4. Root dentin vs coronal dentin.** Root dentin has a different tubule density/orientation and is more frequently bonded in post-space/fiber-post cementation contexts; several studies report lower, more variable bond strengths in root dentin versus coronal dentin, partly attributable to difficulty achieving adequate light-curing depth and moisture control in a confined canal space.
+**4. Root dentin vs coronal dentin — with real quantified post-space-specific challenges.** Root dentin bonds less predictably, and the post-space environment compounds this: **C-factor in a post space may exceed 200** (vs. 1-5 coronally), called "the worst scenario in achieving gap-free interfaces" (Bouillaguet et al. 2003/Breschi et al. 2009, cited in Perdigão's, p.146-147). **Real light-transmission data through specific fiber posts** (Perdigão's, p.118, 145-146, citing Kim et al. 2009): DT Light Post transmits 10.2% of incident light, FRC Postec Plus 7.7%, SnowPost only 0.5% — even "translucent" posts don't transmit enough light to adequately cure cement at the apical third (Goracci et al. 2008); degree of conversion of the luting cement itself ranged 32.78-69.73% depending on depth/post system in one study. [SRC]
 
 **5. Dentin age/fluid dynamics.** Older, more sclerotic dentin generally; also, intrapulpal pressure and dentinal fluid flow (outward, under normal conditions) can actively interfere with resin infiltration if not adequately managed, worsening with deeper dentin.
 
@@ -39,8 +39,8 @@ The well-established textbook point (substrate variability affects bond strength
 **Substrate effects on bond strength:**
 1. Dentin depth — superficial (higher, more predictable) vs deep (lower, more variable, sensitivity risk).
 2. Sclerotic dentin — hypermineralized, resists demineralization, measurably lower bond strength (NCCLs).
-3. Caries-affected dentin — altered mineral/porosity, weaker/less durable bond; relevant to selective-caries-removal protocols.
-4. Root vs coronal dentin — lower/more variable bond strength in root dentin, partly curing-depth/moisture-related.
+3. Caries-affected dentin — real figure 15-28MPa (Pickard's); counterintuitively THICKER hybrid layer but LOWER bond strength (occluded tubules block resin tags).
+4. Root vs coronal dentin — post-space C-factor can exceed 200 (vs 1-5 coronally); real light-transmission data (DT Light Post 10.2%, SnowPost 0.5%) explains why apical-third cement cure is unreliable even with "translucent" posts.
 5. Dentin age/fluid dynamics — intrapulpal pressure/fluid flow can interfere with resin infiltration, worse in deep dentin.
 
 **Suggested clinical modifications:**
@@ -54,9 +54,9 @@ The well-established textbook point (substrate variability affects bond strength
 
 ## HIGH-YIELD POINTS
 - Dentin is NOT a uniform bonding substrate — depth, sclerosis, caries-affected status, and root-vs-coronal location all measurably affect bond strength.
-- Sclerotic dentin (NCCLs) and caries-affected dentin (selective-caries-removal) are the two most clinically relevant "challenging substrate" scenarios to name.
+- Caries-affected dentin: real figure 15-28MPa; counterintuitively thicker hybrid layer but weaker bond (occluded tubules).
+- Post-space C-factor can exceed 200 (vs 1-5 coronally); real fiber-post light-transmission data (0.5-10.2%) explains apical cement-cure unreliability even with "translucent" posts.
 - Clinical modification should be substrate-specific, not a single uniform protocol.
-- Evidence for how well modern universal adhesives close substrate-specific gaps is less robust than the general self-etch-vs-total-etch comparison — state this honestly.
 
 ## DIAGRAMS TO DRAW
 - Substrate-to-clinical-modification decision tree.
@@ -67,4 +67,7 @@ The well-established textbook point (substrate variability affects bond strength
 - Overstating how well-proven the substrate-specific advantage of modern adhesive chemistry is.
 
 ## SOURCE LIST
-- [RECALL] Standard dentin-substrate-variability content (sclerotic/caries-affected/root dentin bonding challenges), consistent across Craig's, Van Noort's; not individually re-verified via live search this session.
+- [SRC] Pickard's Manual of Operative Dentistry, 9th ed. — caries-affected dentin bond-strength figure (p.105).
+- [SRC] Perdigão J (ed.), *Restoration of Root Canal-Treated Teeth* — post-space C-factor, fiber-post light-transmission data (p.118, 145-147).
+- [SRC] Nakabayashi N, Pashley DH, *Hybridization of Dental Hard Tissues* — thickness-vs-bond-strength paradox for caries-affected dentin (PDF p.79-80, 95-97).
+- [RECALL] Standard dentin-substrate-variability content (sclerotic dentin, deep-dentin heterogeneity); not individually re-verified beyond the sources above.

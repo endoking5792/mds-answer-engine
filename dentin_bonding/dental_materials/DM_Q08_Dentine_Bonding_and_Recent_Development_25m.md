@@ -3,8 +3,8 @@
 **Marks:** 25m
 **Sittings:** Oct 1996 (DM 90-00); Apr 1998 (DM 90-00) — same question, two sittings, answered once.
 
-## Retrieval Report
-Lean mode (25m). Given the 1996/1998 sitting dates, "recent development" here is read in HISTORICAL context (what was genuinely new at that time — the hybrid-layer concept and early simplified systems), while also noting this topic's contemporary equivalent questions (CD_Q19/CD_Q20, DM's own later questions) for comparison.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Confirmed against Sturdevant's real dated generation history (PDF p.427-430): 3rd generation (HEMA+10-MDP, Clearfil New Bond) is dated 1984, consistent with this question's 1996/1998 sitting correctly treating multi-step etch-and-rinse systems as the then-current "recent development" rather than an outdated one. [SRC]
 
 ## STUDY MODE
 
@@ -42,4 +42,5 @@ Dentin bonding (as distinct from enamel bonding, which is purely micromechanical
 - Answering "recent development" with content that postdates this question's actual sitting era (e.g. universal adhesives, MMP inhibitors) rather than the genuinely contemporary developments of the mid/late-1990s.
 
 ## SOURCE LIST
-- [RECALL] Nakabayashi's hybrid-layer description (1982) and standard 1990s-era dentin-bonding-development content, consistent across Craig's, Van Noort's; not individually re-verified this session per lean-mode scope.
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — dated generation history confirming this era's content (PDF p.427-430).
+- [RECALL] Nakabayashi's hybrid-layer description (1982) and standard 1990s-era dentin-bonding-development content; not individually re-verified beyond the source above.

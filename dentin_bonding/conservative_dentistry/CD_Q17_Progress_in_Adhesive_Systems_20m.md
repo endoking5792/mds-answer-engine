@@ -3,22 +3,22 @@
 **Marks:** 20m, Long Essay
 **Sitting:** May 2011 (RG PII RS-2)
 
-## Retrieval Report
-Lean mode (20m), reusing this topic's shared retrieval on the historical/generation trajectory and universal-adhesive evidence.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode with WebSearch-only history. Audited against Sturdevant's (real dated generation history with named products/bond strengths) and Summitt's/Philips' (real named MMP-inhibitor products/concentrations) — substantially upgraded with citable specifics in place of the earlier generic sketch.
 
 ## STUDY MODE
 
 **Phase 1 — Enamel-only bonding (1950s-60s).** Buonocore's 1955 discovery that phosphoric-acid-etched enamel bonds resin far more effectively than unetched enamel; Bowen's early resin/composite development. Dentin bonding at this stage was essentially unreliable (bond strengths of only 5-10 MPa on acid-etched but un-infiltrated dentin). [LIT] [Likely]
 
-**Phase 2 — Early dentin bonding attempts (1970s-80s).** First- and second-generation systems attempted dentin bonding via weak ionic/chelation mechanisms (e.g. NPG-GMA systems) without smear-layer removal; clinically unreliable, low and inconsistent bond strengths, frequent postoperative sensitivity and marginal failure. [RECALL] [Likely]
+**Phase 2 — Early dentin bonding attempts, now with real dates/products/numbers (Sturdevant's, PDF p.427-430).** **1st gen (1965)**: NPG-GMA, Cervident, only **2-3MPa**. **2nd gen (1978)**: phenyl-P+HEMA/ethanol, Clearfil Bond System-F (Kuraray) — the first product of this generation — **1-5MPa**, against an estimated **10MPa threshold for acceptable in-vivo retention**. [SRC]
 
-**Phase 3 — The hybrid-layer breakthrough (early 1980s).** Nakabayashi's description of the hybrid layer (1982) — demineralization + resin infiltration of the collagen meshwork — reframed dentin bonding mechanistically and drove third/fourth-generation multi-step etch-and-rinse systems with dramatically improved, more reliable bond strengths. [RECALL] [Certain]
+**Phase 3 — The hybrid-layer breakthrough (early 1980s).** Nakabayashi's description of the hybrid layer (1982) reframed dentin bonding mechanistically and drove **3rd gen (1984)**: HEMA+10-MDP, Clearfil New Bond (Kuraray); Fusayama introduced the phosphoric-acid-etch-before-bonding concept in **1979**. [SRC]
 
 **Phase 4 — Simplification (1990s-2000s).** Fifth-generation (one-bottle, single-component adhesive after separate etch) and sixth/seventh-generation self-etch systems (combining etch+prime, then all-in-one) progressively reduced clinical steps, aiming for comparable bond quality with less technique sensitivity — with genuine, documented trade-offs in bond strength/durability for the most simplified (one-step) systems in some studies. [LIT] [Likely]
 
 **Phase 5 — Universal/multi-mode adhesives (2010s-present).** Convergence onto a single product usable in etch-and-rinse, self-etch, or selective-etch mode, built on **10-MDP** functional-monomer chemistry providing genuine chemical (not just micromechanical) adhesion, with multi-substrate compatibility (zirconia/ceramics/metals). A 2022 meta-analysis found no significant difference between etch-and-rinse and self-etch modes of universal adhesives for dentin bond strength — suggesting the historical self-etch bond-strength deficit has substantially closed with this chemistry. [LIT] [Likely]
 
-**Current/emerging directions (the "progress" still underway):** MMP-inhibiting strategies (chlorhexidine pretreatment, EDTA) to counter hydrolytic/enzymatic hybrid-layer degradation; bioactive/remineralizing adhesives (incorporating bioglass or calcium-phosphate fillers); antibacterial monomers (MDPB); nanotechnology-enhanced adhesive formulations; and continued work on selective-etch protocols balancing enamel's preference for aggressive etching against dentin's preference for gentler self-etch treatment.
+**Current/emerging directions, now with real named products/concentrations.** MMP/cathepsin-inhibiting strategies: **0.2-2% aqueous chlorhexidine** (Sturdevant's p.301-302; Summitt's p.448, 492-493) or **5% glutaraldehyde/35% HEMA** (Sturdevant's p.301-302). Named commercial antimicrobial/MMP-inhibitor additives (Philips', PDF p.282): **MDPB** (Clearfil Protect Bond), **chlorhexidine** (Peak LC Bond Resin), **benzalkonium chloride** (Etch 37) — the book explicitly notes long-term clinical efficacy data for these are still pending. Bioactive/remineralizing adhesives (bioglass/calcium-phosphate fillers); nanotechnology-enhanced formulations; continued selective-etch refinement. [SRC]
 
 ## CRITICAL EVIDENCE SYNTHESIS
 The historical narrative of "each generation is better than the last" is the commonly taught framing; the evidence complicates it on two fronts. First, the generation-numbering scheme itself is now considered scientifically imprecise — generations overlap in time/composition, and higher numbers don't reliably predict better clinical performance. Second, simplification (moving toward fewer steps) has, in several comparative studies, come with a genuine bond-strength/microleakage cost for older self-etch chemistry — progress in convenience did not automatically mean progress in performance until MDP-based universal-adhesive chemistry substantially closed that gap. **What this supports:** real, mechanistically-grounded progress did occur (hybrid-layer concept, MDP chemical bonding, MMP-inhibition strategies). **What it does not support:** a simple linear "newer = better" narrative across every generation transition. [LIT]
@@ -52,6 +52,8 @@ The historical narrative of "each generation is better than the last" is the com
 - Stopping the history at universal adhesives without naming current/emerging research directions (MMP inhibitors, bioactive adhesives).
 
 ## SOURCE LIST
-- [LIT] Historical trajectory and generation-classification-debate summary — via https://pmc.ncbi.nlm.nih.gov/articles/PMC4086574
+- [SRC] Sturdevant's Art and Science of Operative Dentistry, Ch.15 — dated generation history, MMP-inhibitor protocols (PDF p.427-430, 301-302).
+- [SRC] Summitt's Fundamentals of Operative Dentistry, Ch.9 — chlorhexidine concentration/evidence (PDF p.448, 492-493).
+- [SRC] Philips' Science of Dental Materials — named commercial antimicrobial/MMP-inhibitor products (PDF p.282).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [RECALL] Nakabayashi's hybrid-layer description (1982), standard historical content; not individually re-verified beyond the LIT sources above.
+- [RECALL] Standard historical content; not individually re-verified beyond the sources above.

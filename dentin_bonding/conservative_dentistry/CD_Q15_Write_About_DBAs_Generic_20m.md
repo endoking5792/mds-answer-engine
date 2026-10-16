@@ -3,14 +3,14 @@
 **Marks:** 20m, Essay
 **Sitting:** Mar 2021 (PII 16-21); also Sep 2010 (PII 07-16); also "Discuss in detail the dentin Bonding agents" (20m, Oct/Nov 2014, RG PII RS-3) — answered once at the common 20m allocation.
 
-## Retrieval Report
-Lean mode (20m). Standard, comprehensive overview; reuses this topic's shared retrieval.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Sturdevant's — replaced the vague historical sketch with a real, dated generation history with named products and quantified early bond strengths.
 
 ## STUDY MODE
 
 **Definition.** DBAs are resin systems achieving a durable chemical/micromechanical bond between restorative materials and dentin, a wet, tubular, 30%-organic (collagen-rich) substrate fundamentally harder to bond to than enamel. [RECALL] [Certain]
 
-**History (brief).** Buonocore's 1955 enamel acid-etch work → early dentin bonding attempts gave disappointingly low bond strengths (5-10 MPa, to acid-etched but un-infiltrated dentin) → progressive "generations" through the 1980s-2000s, simplifying clinical steps → the modern etch-strategy classification → universal/multi-mode adhesives (current direction). [LIT] [Likely]
+**History — real, dated (Sturdevant's, PDF p.427-430).** 1950s, GPDM + HCl-etched dentin, failed on water storage → **1st gen (1965)**, NPG-GMA (Cervident), bond strength only **2-3 MPa** → **2nd gen (1978)**, phenyl-P+HEMA (Clearfil Bond System-F, Kuraray), 1-5MPa vs. an estimated **10MPa threshold for acceptable in-vivo retention** → **3rd gen (1984)**, HEMA+10-MDP (Clearfil New Bond); Fusayama introduced the etch-before-bond concept in **1979** → progressive simplification through the 1990s-2000s → universal/multi-mode adhesives (current). [SRC]
 
 **Classification.** Etch-and-rinse (3-step: separate etch/primer/adhesive; 2-step: etch + combined primer-adhesive) vs self-etch (2-step: self-etch primer + adhesive; 1-step/all-in-one: combined) vs universal/multi-mode (usable in any strategy, built on 10-MDP chemistry). The older generation numbering (1st-8th) is now considered imprecise/overlapping and not reliably tied to clinical performance. [RECALL] [LIT] [Certain]
 
@@ -30,7 +30,7 @@ The field's self-etch-vs-total-etch debate is a genuine, ongoing evidence tensio
 ## EXAM MODE
 *(Estimated writing time: ~36 minutes)*
 
-**I. History:** Buonocore (1955) → early low dentin bond strengths (5-10MPa) → generations (now considered imprecise) → etch-strategy classification → universal adhesives (current).
+**I. History:** 1965 NPG-GMA (Cervident, 2-3MPa) → 1978 phenyl-P+HEMA (Clearfil Bond System-F, 1-5MPa vs 10MPa clinical threshold) → 1984 HEMA+10-MDP (Clearfil New Bond) → simplification → universal adhesives (current).
 
 **II. Classification:** etch-and-rinse (3-step/2-step) / self-etch (2-step/1-step) / universal (multi-mode, 10-MDP-based).
 
@@ -62,6 +62,6 @@ The field's self-etch-vs-total-etch debate is a genuine, ongoing evidence tensio
 - Giving a one-sided self-etch-vs-total-etch verdict.
 
 ## SOURCE LIST
-- [LIT] Historical/generation-classification-debate summary — via https://pmc.ncbi.nlm.nih.gov/articles/PMC4086574
+- [SRC] Sturdevant's Art and Science of Operative Dentistry, Ch.15 — dated generation history with named products and bond strengths (PDF p.427-430).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [RECALL] Standard DBA composition/mechanism/challenges content, consistent across Craig's, Van Noort's, Sturdevant's; not individually re-verified beyond the LIT sources above.
+- [RECALL] Standard DBA composition/mechanism/challenges content; not individually re-verified beyond the sources above.

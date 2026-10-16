@@ -3,8 +3,8 @@
 **Marks:** 25m
 **Sitting:** Mar 2008 (RACD 07-16)
 
-## Retrieval Report
-Lean mode (25m), reusing this topic's shared retrieval. Smear layer content here is deliberately kept to what's necessary for the bonding-systems connection — a full, dedicated Smear Layer topic was deliberately deferred as a separate future build (per the user's own decision when scoping this topic), so this answer treats smear layer specifically through its interaction with 6th-generation bonding chemistry, not as an exhaustive standalone treatment.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Craig's and Summitt's — added real pH/interaction-depth data specific to the 6th-generation tier. A full, dedicated Smear Layer topic remains deliberately deferred per the user's own decision when scoping this topic.
 
 ## STUDY MODE
 
@@ -12,7 +12,7 @@ Lean mode (25m), reusing this topic's shared retrieval. Smear layer content here
 A 1-5µm layer of organic/inorganic/bacterial debris created on any cut tooth surface by rotary instrumentation, occluding dentinal tubules. It has a dual significance for bonding: it is a genuine physical BARRIER (reducing permeability, moderating dentinal fluid flow, offering some protective sealing) but also a WEAK, poorly-bonded INTERPOSED LAYER if left untreated, since resin cannot form a strong bond to loose debris rather than to sound, structured dentin. [RECALL] [Certain]
 
 ### Sixth-generation bonding systems
-Sixth-generation systems are **2-step self-etch** adhesives: a self-etching primer (an acidic functional monomer, etching and priming simultaneously) is applied first, followed by a separate adhesive-resin layer. This followed fifth-generation (one-bottle adhesive after a still-SEPARATE phosphoric-acid etch) — 6th generation's defining innovation is eliminating the separate etch-and-rinse step entirely, replacing it with simultaneous self-etching. [RECALL] [Certain]
+Sixth-generation systems are **2-step self-etch** adhesives. This followed fifth-generation (one-bottle adhesive after a still-SEPARATE phosphoric-acid etch) — 6th generation's defining innovation is eliminating the separate etch-and-rinse step entirely. **Real acidity/interaction-depth data placing 6th-gen on the pH scale** (Summitt's, PDF p.439-440; Craig's 3-tier classification, PDF p.286): 6th-generation primers are typically in the mild-to-strong range, interacting 1µm to several µm into the surface — only the strong end of this range reliably forms resin tags at all, a real technical nuance. [SRC]
 
 ### How 6th-generation systems specifically handle the smear layer
 Rather than removing the smear layer (as etch-and-rinse systems do), 6th-generation self-etching primers **partially dissolve and incorporate the smear layer into the hybrid layer itself** — the acidic monomer demineralizes through the smear layer and into the underlying sound dentin simultaneously, and the resin subsequently infiltrates both the modified smear-layer remnants AND the newly-demineralized collagen meshwork beneath it, producing a hybrid layer with smear-layer components incorporated within it rather than a smear-layer-free surface. [RECALL] [Likely]
@@ -48,5 +48,7 @@ This smear-layer-incorporation approach is gentler (less aggressive demineraliza
 - Generalizing 6th-generation's bond-strength trade-off to all self-etch/universal chemistry without the generation-specific qualifier.
 
 ## SOURCE LIST
+- [SRC] Craig's Restorative Dental Materials — 3-tier pH classification (PDF p.286).
+- [SRC] Summitt's Fundamentals of Operative Dentistry — pH-tier interaction-depth data (PDF p.439-440).
 - [LIT] Self-etch mechanism/comparative-evidence summaries — same sources as this topic's CD_Q11/CD_Q12.
-- [RECALL] Standard smear-layer and 6th-generation-bonding-system content, consistent across Craig's, Van Noort's; not individually re-verified beyond the LIT sources above.
+- [RECALL] Standard smear-layer and 6th-generation-bonding-system content; not individually re-verified beyond the sources above.

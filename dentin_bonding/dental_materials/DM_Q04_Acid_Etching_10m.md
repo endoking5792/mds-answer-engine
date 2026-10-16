@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Note — highest-marks version; also asked at 5m (Oct 2003, DM 01-07)
 **Sitting:** Apr 1995 (DM 90-00)
 
-## Retrieval Report
-Lean mode (10m), reusing this topic's CD_Q02 acid-etching content, expanded slightly for the higher mark allocation.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Van Noort's/Marzouk's — added real modern demineralization-depth figures and a striking historical contrast.
 
 ## STUDY MODE
 
@@ -14,7 +14,7 @@ Lean mode (10m), reusing this topic's CD_Q02 acid-etching content, expanded slig
 
 **Effect on enamel:** phosphoric acid dissolves enamel preferentially by prism core or periphery (depending on crystallite orientation), producing a classic **Type I (prism-core-preferential), Type II (prism-periphery-preferential), or Type III (mixed/irregular)** etch pattern — a highly retentive, high-surface-area micro-porous surface for resin-tag formation. Etch time 15-20s; dried to a **frosty-white** clinical endpoint.
 
-**Effect on dentin:** acid removes/modifies the smear layer and demineralizes the superficial dentin, exposing the collagen fibril meshwork (previously mineral-supported, now unsupported and collapsible if desiccated) — the essential first step for subsequent resin infiltration and hybrid-layer formation. Etch time typically shorter (~15s) than enamel; dentin must be kept **moist**, not dried to the enamel endpoint.
+**Effect on dentin, now with real numbers.** Modern 35% phosphoric acid demineralizes dentin to only **~4-5µm** depth (Van Noort's, PDF p.135); Nakabayashi's original work targeted a 5µm depth specifically. **A striking historical contrast**: Marzouk's describes the classical protocol as 35-50% acid for a full **60 seconds**, etching to ~**25 microns** (5-6× deeper) — demineralization depth has been deliberately reduced over time to match what resin can reliably infiltrate, not increased. Dentin must be kept **moist**, not dried to the enamel endpoint. [SRC]
 
 **Technique variants:** total-etch (simultaneous enamel+dentin etching), selective-etch (phosphoric acid on enamel margins only, gentler self-etch treatment on dentin), and self-etch (acidic monomer etches+primes simultaneously, no separate rinse).
 
@@ -51,4 +51,6 @@ Lean mode (10m), reusing this topic's CD_Q02 acid-etching content, expanded slig
 - Naming only phosphoric acid when "etchants" (plural) is asked, omitting weaker alternatives/self-etch monomers.
 
 ## SOURCE LIST
-- [RECALL] Standard acid-etching content (Buonocore 1955, etch-pattern classification, technique variants), consistent across Craig's, Van Noort's, Sturdevant's; not individually re-verified this session per lean-mode scope for a 10m note.
+- [SRC] Van Noort & Barbour, Introduction to Dental Materials — real demineralization-depth figures (PDF p.132, 135).
+- [SRC] Marzouk MM, *Operative Dentistry* — classical 60s/25-micron historical protocol (p.182-185).
+- [RECALL] Standard acid-etching content (Buonocore 1955, etch-pattern classification); not individually re-verified beyond the sources above.

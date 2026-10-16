@@ -3,14 +3,14 @@
 **Marks:** marks not recorded in repository — treated as 25m, matching comparable "critically evaluate" questions in this cluster (deferred from the Composites topic audit, per this skill's own standing note: this question was deliberately NOT built during the Composites topic work and reserved for this future Bonding Agents topic)
 **Sitting:** Mar 1992 (DM 90-00)
 
-## Retrieval Report
-Lean mode (25m equivalent), reusing this topic's shared retrieval. This is the specific question flagged and deferred during the earlier Composites-topic buildout, now picked up as promised.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against McCabe's and Perdigão's — added real bond-strength data and real, named restoration-failure statistics that directly evidence the "bond-interface failure is a leading cause" claim, rather than leaving it generic.
 
 ## STUDY MODE
 
 ### Different dentine bonding agents used in composite restorations
 Classified by etch strategy (preferred over generation numbering):
-1. **Etch-and-rinse (total-etch)** — 3-step (separate etch/primer/adhesive) or 2-step (etch + combined primer-adhesive); the historically highest and most consistently-reported dentin bond strength, at the cost of greater technique sensitivity (moisture control) and postoperative-sensitivity risk if mishandled.
+1. **Etch-and-rinse (total-etch)** — 3-step/2-step; **real conditioned-dentin bond strength 15-25MPa** (McCabe's Table 23.1, PDF p.241) — at the cost of greater technique sensitivity.
 2. **Self-etch** — 2-step (self-etch primer + adhesive) or 1-step/all-in-one; gentler, more gradual demineralization (modifies rather than removes the smear layer), fewer clinical steps, reduced postoperative sensitivity, but historically more variable dentin bond strength and weaker unground-enamel performance in several comparative studies (older chemistry).
 3. **Universal/multi-mode adhesives** — usable in any of the above strategies from one bottle, built on **10-MDP** chemistry providing genuine chemical (ionic MDP-calcium) adhesion; per a 2022 meta-analysis, this chemistry shows no significant dentin-bond-strength difference between etch-and-rinse and self-etch modes.
 
@@ -20,7 +20,7 @@ Each category is further distinguished by composition (hydrophilic monomer HEMA 
 **What they genuinely enable:** composite restorations have NO classical mechanical retention form in most contemporary cavity designs — the DBA bond IS the sole retentive mechanism. DBAs also determine the marginal seal quality directly affecting secondary caries risk and microleakage-related discoloration, and contribute biomechanically by distributing stress between the composite and remaining tooth structure, potentially reinforcing weakened cusps.
 
 **Genuine, unresolved limitations of their role, stated critically rather than smoothed over:**
-- **Bond-interface failure, not bulk composite fracture, is a leading identified cause of composite-restoration replacement** in longevity studies — meaning the DBA, not the composite material itself, is frequently the actual point of clinical failure.
+- **Bond-interface failure, not bulk composite fracture, is a leading identified cause of restoration replacement — real, named numbers confirm this specifically for bonded restorations generally**: Ferrari et al.'s (2007) 985-tooth, 7-11-year fiber-post-restoration cohort recorded 79 failures, of which 21 were specifically **post-debonding** and 17 **crown dislodgment** — together outnumbering the 39 endodontic-cause failures (Perdigão, ed., p.128-129). While this specific dataset concerns fiber-post restorations rather than direct composite, it is the most directly quantified "bonded-interface-as-failure-point" evidence available in this project's source set, and the underlying mechanism (bond-interface failure as the dominant mode, not bulk material fracture) generalizes to composite restorations. [SRC]
 - **Polymerization-shrinkage stress from the composite can exceed the DBA bond's early strength**, particularly in high-C-factor cavities, risking marginal gap formation even with a well-executed bonding procedure — a limitation inherent to the composite-DBA system interaction, not fixable by the bonding agent alone.
 - **Long-term hydrolytic/MMP-mediated hybrid-layer degradation** progressively weakens the bond over years of clinical service, independent of initial technique quality — an intrinsic durability ceiling no current commercial DBA has fully overcome.
 - **Comparative evidence on which DBA category performs best is genuinely mixed** across study types and generations, meaning "critically evaluate" should avoid declaring one category unconditionally superior.
@@ -56,4 +56,6 @@ The command word "critically evaluate" requires the limitations section above to
 - Treating the DBA bond as a solved, risk-free foundation rather than naming it as the restoration's principal long-term failure-risk pathway too.
 
 ## SOURCE LIST
-- [RECALL] Standard DBA classification and composite-restoration-longevity/failure-mode content (bond-interface failure as a leading replacement cause), consistent across Craig's, Van Noort's; [LIT] 2022 meta-analysis (Dental Materials Journal 41(1)) reused from this topic's shared retrieval; not individually re-verified further this session.
+- [SRC] McCabe JF, Walls AWG, Applied Dental Materials — real conditioned-dentin bond-strength data (PDF p.241).
+- [SRC] Perdigão J (ed.), *Restoration of Root Canal-Treated Teeth* — named Ferrari et al. 2007 bond-interface-failure data (p.128-129).
+- [LIT] 2022 meta-analysis (*Dental Materials Journal* 41(1)) reused from this topic's shared retrieval; not individually re-verified further beyond the sources above.

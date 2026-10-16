@@ -3,19 +3,19 @@
 **Marks:** 50m, Essay
 **Sitting:** Jun 2021 (Manipal PIII)
 
-## Retrieval Report
-Lean mode (50m). Deliberately structured around the historical/chronological "evolution" framing (distinct from CD_Q24's challenge/appraisal structure), synthesizing CD_Q17's five-phase trajectory with CD_Q19's recent-developments content into one comprehensive 50m essay.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Audited against Sturdevant's and Philips' — replaced the vague five-phase sketch with real dates, named products, quantified early bond strengths, and named commercial MMP-inhibitor products for the current/emerging-advances section.
 
 ## STUDY MODE
 
 ### Phase 1 — Enamel-only bonding (1950s-60s)
 Buonocore's 1955 discovery that phosphoric-acid-etched enamel bonds resin far more effectively than unetched enamel; Bowen's early composite/resin development. Dentin bonding was essentially unreliable at this stage (5-10 MPa bond strength on acid-etched, un-infiltrated dentin). [LIT] [Likely]
 
-### Phase 2 — Early dentin-bonding attempts (1970s, "1st/2nd generation")
-Weak ionic/chelation-based mechanisms (e.g. NPG-GMA systems) without smear-layer removal; low, inconsistent bond strengths; frequent postoperative sensitivity and marginal failure in practice.
+### Phase 2 — Early dentin-bonding attempts, now dated and quantified (Sturdevant's, PDF p.427-430)
+**1st gen (1965)**: NPG-GMA, Cervident, only **2-3MPa**. **2nd gen (1978)**: phenyl-P+HEMA, Clearfil Bond System-F (Kuraray) — the first product of this generation — **1-5MPa**, against an estimated **10MPa clinical threshold**. Weak ionic/chelation-based mechanisms without smear-layer removal; frequent postoperative sensitivity and marginal failure.
 
 ### Phase 3 — The hybrid-layer breakthrough (early 1980s, "3rd/4th generation")
-**Nakabayashi's 1982 description of the hybrid layer** — demineralization + resin infiltration of the collagen meshwork — reframed dentin bonding mechanistically. This drove multi-step etch-and-rinse systems (separate etchant, primer, adhesive) with dramatically improved, more reliable bond strengths; the conceptual turning point of the entire field.
+**Nakabayashi's 1982 description of the hybrid layer** reframed dentin bonding mechanistically, driving **3rd gen (1984)**: HEMA+10-MDP, Clearfil New Bond. Fusayama introduced the etch-before-bond concept in **1979**. [SRC]
 
 ### Phase 4 — Simplification (1990s-2000s, "5th-7th generation")
 Fifth-generation one-bottle (single-component adhesive after separate etch) and sixth/seventh-generation self-etch systems (etch+prime combined, then increasingly all-in-one) progressively reduced clinical steps and chair time. Genuine, documented trade-off: several comparative studies found reduced and more variable bond strength/durability, and greater enamel microleakage, in the most simplified self-etch systems versus multi-step total-etch — "advance" in convenience did not automatically mean "advance" in performance at this phase. [LIT] [Likely]
@@ -23,8 +23,8 @@ Fifth-generation one-bottle (single-component adhesive after separate etch) and 
 ### Phase 5 — Universal/multi-mode adhesives (2010s-present)
 Convergence onto single products usable in etch-and-rinse, self-etch, OR selective-etch mode, built on **10-MDP** functional-monomer chemistry — providing genuine chemical (ionic MDP-calcium) adhesion on top of micromechanical retention, and multi-substrate compatibility (zirconia, silica ceramics, metals) without separate primers. A 2022 meta-analysis (pooling 15 studies) found **no statistically significant difference** between etch-and-rinse and self-etch modes for dentin bond strength, immediate or long-term — evidence that this generation's chemistry has substantially closed the historical self-etch performance deficit. [LIT] [Likely]
 
-### Current/emerging advances (beyond universal adhesives)
-MMP-inhibition strategies (chlorhexidine pretreatment, EDTA conditioning, targeted inhibitor monomers) directly countering the hydrolytic/enzymatic hybrid-layer degradation recognized as the field's central remaining durability problem; bioactive/remineralizing adhesives (bioglass/calcium-phosphate fillers); antibacterial monomers (MDPB) targeting secondary-caries risk; nanotechnology-enhanced formulations (nano-hydroxyapatite/silica fillers); biomimetic remineralization approaches (ethanol wet-bonding, proanthocyanidin/phosphoprotein analogues) — a fundamentally different durability philosophy (restoring collagen mineralization) from resin infiltration alone; and continued refinement of selective-etch clinical protocols.
+### Current/emerging advances, now with real named products (Philips', PDF p.282)
+MMP-inhibition: 0.2-2% chlorhexidine; named commercial antimicrobial/MMP-inhibitor products — **MDPB in Clearfil Protect Bond**, **chlorhexidine in Peak LC Bond Resin**, **benzalkonium chloride in Etch 37** (long-term clinical efficacy explicitly flagged as still pending by the source). Bioactive/remineralizing adhesives; nanotechnology-enhanced formulations; biomimetic remineralization (ethanol wet-bonding, proanthocyanidin); continued selective-etch refinement. [SRC]
 
 ## CRITICAL EVIDENCE SYNTHESIS
 The commonly taught narrative frames each "generation" as a straightforward improvement on the last. The evidence complicates this: Phase 4's simplification genuinely traded away bond-strength/durability performance in several comparative studies, and the "generation" numbering itself is now considered scientifically imprecise (generations overlap in time/composition, and higher numbers don't reliably predict better clinical performance) — meaning "evolution" in this field has not been simple linear improvement. **What this supports:** real, mechanistically significant advances did occur at distinct points (Nakabayashi's hybrid-layer concept; MDP-based chemical bonding; the universal-adhesive convergence that appears, per the 2022 meta-analysis, to have recovered the ground lost during simplification). **What it does not support:** treating every generation transition as an unambiguous step forward. [LIT]
@@ -60,6 +60,7 @@ The commonly taught narrative frames each "generation" as a straightforward impr
 - Treating universal adhesives as the end of the story rather than naming current/emerging advances beyond them.
 
 ## SOURCE LIST
-- [LIT] Historical trajectory and generation-classification-debate summary — via https://pmc.ncbi.nlm.nih.gov/articles/PMC4086574
+- [SRC] Sturdevant's Art and Science of Operative Dentistry — dated generation history (PDF p.427-430).
+- [SRC] Philips' Science of Dental Materials — named MMP-inhibitor/antimicrobial products (PDF p.282).
 - [LIT] 2022 systematic review/meta-analysis, *Dental Materials Journal* 41(1) — via https://www.jstage.jst.go.jp/article/dmj/41/1/41_2021-111/_article
-- [RECALL] Nakabayashi's hybrid-layer description (1982) and standard historical/current-advances content; not individually re-verified beyond the LIT sources above.
+- [RECALL] Nakabayashi's hybrid-layer description (1982) and standard historical content; not individually re-verified beyond the sources above.

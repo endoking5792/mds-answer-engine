@@ -3,8 +3,8 @@
 **Marks:** 5m, Short Note
 **Sitting:** Apr 2004 (DM 01-07)
 
-## Retrieval Report
-Lean mode (5m). Standard material; no live search needed.
+## Retrieval Report — AUDITED 2026-10-16
+Originally lean-mode. Checked against Philips' for a real enamel-bond-strength figure to ground this answer's "reliable, predictable enamel bonding" claim.
 
 ## STUDY MODE
 
@@ -14,7 +14,7 @@ An **acid-etched resin-bonded splint** is a periodontal/orthodontic/trauma-stabi
 
 **Clinical indications:** stabilization of mobile teeth in periodontally compromised dentitions (splinting adjacent teeth to distribute occlusal load), stabilization of luxated/avulsed teeth after traumatic dental injury (semi-rigid splinting, typically 2 weeks for luxation, up to 4 weeks for root fracture, per standard trauma-management protocols), temporary stabilization in orthodontic retention (bonded lingual/palatal retainers), and splinting following periodontal surgery.
 
-**Advantages:** purely enamel-based (minimally invasive, no tooth preparation/drilling required), esthetic (resin can be tooth-coloured and relatively inconspicuous, especially on the lingual/palatal surface), reversible (can be removed by grinding away the resin without permanent tooth damage), and relies entirely on the well-established, predictable enamel acid-etch bonding mechanism (purely micromechanical resin-tag interlock, since enamel offers no collagen substrate for hybrid-layer formation).
+**Advantages:** purely enamel-based (minimally invasive, no tooth preparation/drilling required), esthetic, reversible, and relies entirely on the well-established, predictable enamel acid-etch bonding mechanism — Buonocore's original 1955 technique achieved **~20MPa** bond strength (Philips', PDF p.276), and this remains the basis of the splint's retention: a purely micromechanical resin-tag interlock, since enamel offers no collagen substrate for hybrid-layer formation. [SRC]
 
 **Limitations:** bond can debond under heavy occlusal/functional load if not adequately designed; requires good moisture/isolation control during placement; may trap plaque/debris at the resin-tooth margin if not well-finished, risking localized gingival inflammation.
 
@@ -45,4 +45,5 @@ An **acid-etched resin-bonded splint** is a periodontal/orthodontic/trauma-stabi
 - Not naming the reversibility/minimally-invasive advantage, a key distinguishing feature versus mechanical splinting.
 
 ## SOURCE LIST
-- [RECALL] Standard acid-etch-splint technique/indications content, consistent across Craig's, Sturdevant's, and trauma-management texts; not individually re-verified this session per lean-mode scope for a 5m note.
+- [SRC] Philips' Science of Dental Materials — Buonocore's original enamel bond-strength figure (PDF p.276).
+- [RECALL] Standard acid-etch-splint technique/indications content; not individually re-verified beyond the source above.
