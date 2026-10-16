@@ -41,27 +41,30 @@ Ingle's: **pastes and cements; solid materials; semi-solid materials** (Rotstein
 ---
 
 ## EXAM MODE
-**(Word count 157; about 7 min at 22 words/min)**
+**(Word count 398; about 18 min at 22 words/min)**
 
-### Definition
-Core materials fill the bulk of the prepared canal and are used with a sealer to give a three-dimensional seal. No material meets all of Grossman's requirements.
+### Introduction
+Root canal obturation uses a **core material**, which occupies the major volume of the prepared canal, together with a **sealer**, which fills the space between core and wall. Many substances have been tried and none meets every requirement of an ideal filling.
 
-### Ideal requirements (Grossman)
-Easily manipulated with adequate working time; dimensionally stable; seals laterally and apically; non-irritating; impervious to moisture; no corrosion; inhibits bacteria; radiopaque; no staining; sterile; easily removed.
+### Requirements of an ideal obturating material
+Grossman's list (Cohen's Box 9.2): easily manipulated with ample working time; dimensionally stable with no shrinkage; seals the canal laterally and apically and conforms to its anatomy; non-irritating to periapical tissues; impervious to moisture and non-porous; unaffected by tissue fluids, with no corrosion; inhibits bacterial growth; radiopaque; does not discolour tooth structure; sterile; easily removed if necessary.
 
-### Classification (Ingle's)
-1. Pastes and cements. 2. Solid materials: silver cones. 3. Semi-solid: gutta-percha, with its thermoplastic, carrier and resin-coated variants.
+### Classification
+Ingle's divides materials into **pastes and cements, solid materials and semi-solid materials**. Sikri's classification is: (1) gutta-percha (cold, chemically softened, heat softened, intraradicular or extraradicular); (2) silver cones; (3) miscellaneous (GuttaFlow, GuttaCore, Resilon, EZ Fill, SmartSeal, coated cones); (4) apical-third obturation (warm gutta-percha, dentin chips, MTA, carrier-based plugs); (5) pastes (N2, MTA, calcium phosphate cement, CEM cement, Biodentine).
 
-### Materials
-- **Gutta-percha:** compactable, inert, radiopaque, removable; lacks adhesion, needs sealer.
-- **Silver cones:** rigid, but corrode, poor seal, hard to retrieve; obsolete.
-- **Resilon:** polycaprolactone core with resin sealer; withdrawn 2014.
-- **Coated cones, GuttaCore, GuttaFlow, SmartSeal:** newer attempts at bonding or flow.
-- **Pastes (N2):** toxic, uncontrollable; paraformaldehyde pastes banned.
-- **MTA/bioceramic:** apical plug in open apex.
+### The individual materials
+| Material | Description | Advantages | Disadvantages |
+|---|---|---|---|
+| **Gutta-percha** | Trans-polyisoprene; zinc oxide filler; beta phase solid, alpha phase tacky when heated | Compactable once softened, inert, well tolerated, radiopaque, stable, removable with heat or solvent, easily disinfected | No adhesion, so sealer is always needed; lacks rigidity in small sizes; shrinks on cooling; displaced by pressure |
+| **Silver cones** | Rigid cones, Jasper 1933, matched to file sizes | Easy placement and length control | Do not seal irregular or oval canals; corrode in tissue fluid to cytotoxic products; hard to remove. Obsolete |
+| **Resilon** | Polycaprolactone core with bioactive glass; used with Epiphany sealer and primer | Attempted a monoblock; thermoplastic | Enzymatic degradation, high C-factor; 56% vs 88% success at 6 years; withdrawn 2014 |
+| **Coated cones** | Gutta-percha coated with resin (EndoREZ), glass ionomer (Activ GP) or bioceramic nanoparticles | Bond to the sealer | Coating may fail; no outcome benefit shown |
+| **GuttaCore** | Carrier-based, cross-linked gutta-percha core | Removable; no plastic carrier | Limited studies |
+| **Pastes** | ZOE, medicated, N2 (Sargenti) | Adapt to anatomy | Extrusion, porosity, cannot be controlled or removed; paraformaldehyde pastes cause severe toxicity, paresthesia, resorption |
+| **MTA / bioceramic putty / dentin chips** | Apical plugs | Biocompatible, hydrophilic seal in open apices | Technique-sensitive; MTA discolours |
 
 ### Conclusion
-Gutta-percha with a sealer remains the standard core; other cores add handling or bonding but not proven outcome.
+No core material meets all of Grossman's requirements. Gutta-percha comes closest because it is compactable, inert and removable, but its lack of adhesion makes the sealer essential. Silver cones and pastes are obsolete and Resilon has been withdrawn.
 
 ---
 

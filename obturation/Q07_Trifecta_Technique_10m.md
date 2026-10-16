@@ -32,26 +32,34 @@ Combines apical control with dense backfill; both parts use heated gutta-percha,
 ---
 
 ## EXAM MODE
-**(Word count 110; about 5 min at 22 words/min)**
+**(Word count 339; about 15 min at 22 words/min)**
 
 ### Definition
-Trifecta is a hybrid obturation technique that combines carrier-based apical placement (Successfil) with an injectable gutta-percha backfill (Ultrafil).
+The Trifecta technique combines two earlier systems, **Successfil** (carrier-placed apical gutta-percha) and **Ultrafil** (injectable alpha-phase gutta-percha), so that the apex is sealed under control and the rest of the canal is filled rapidly. It is marketed by Coltene/Whaledent.
+
+### Components
+- **Successfil:** a solid titanium or radiopaque plastic carrier coated with alpha-phase gutta-percha from a syringe containing high-viscosity gutta-percha that sets in about two minutes.
+- **Ultrafil:** alpha-phase gutta-percha in cannulas fitted with a 22 gauge needle, softened in a heater at about 70-90 °C; supplied in regular (white, low viscosity), firm-set (blue) and endoset (green, high viscosity) forms; working time about 60-70 s.
 
 ### Technique
-1. Prepare, dry and apply sealer.
-2. Coat 1-2 mm of alpha-phase gutta-percha on the tip of a Successfil carrier.
-3. Place to the required depth, rotate counter-clockwise and withdraw; compact the apical mass.
-4. Back-fill the coronal canal with Ultrafil.
-5. Radiograph.
+1. Prepare, irrigate and dry the canal; apply sealer.
+2. Coat the tip of a Successfil carrier with 1-2 mm of alpha-phase gutta-percha.
+3. Place the carrier to the required depth, rotate it slowly **counter-clockwise** and withdraw it, leaving a small mass of gutta-percha apically.
+4. Compact the apical mass with a plugger.
+5. Back-fill the coronal canal with Ultrafil gutta-percha.
+6. Take a radiograph and restore.
 
-### Advantages
-Apical control as with a carrier; dense, fast backfill.
+### Rationale
+The small, carrier-placed apical mass gives apical control, as in sectional obturation, while the injectable back-fill fills the wide coronal canal quickly and densely.
 
-### Disadvantages
-Two systems and equipment; extrusion risk with injection; little outcome evidence; rarely used now.
+### Advantages and limits
+Combines apical control with a dense back-fill. Both parts use heated gutta-percha, so a sealer is required and cooling shrinkage must be offset by compaction. Injection carries a risk of extrusion if the needle is placed too close to the apex (keep it 4-6 mm from the end of the preparation). Ultrafil cannot be compacted well and may shrink. There is little outcome evidence, and the technique is not described in the recent textbooks (Cohen's, Grossman's, Ingle's, Azim and Aksel).
+
+### Why it is a hybrid
+Successfil gives the apical control of a carrier-placed plug and Ultrafil gives the speed of injection; the two together avoid the long needle travel of an injection-only technique.
 
 ### Conclusion
-Trifecta shows the hybrid principle (controlled apical plug plus warm backfill) that modern down-pack and back-fill systems use more simply.
+Trifecta illustrates the hybrid principle of a controlled apical plug with a warm back-fill, which modern down-pack and back-fill systems achieve with a single device.
 
 ---
 

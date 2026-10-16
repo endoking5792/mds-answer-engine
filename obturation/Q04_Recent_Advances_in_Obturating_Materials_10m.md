@@ -33,24 +33,35 @@ Cohen's: little evidence supports one method of obturation over another on outco
 ---
 
 ## EXAM MODE
-**(Word count 108; about 5 min at 22 words/min)**
+**(Word count 384; about 17 min at 22 words/min)**
 
 ### Introduction
-Gutta-percha neither bonds nor flows without heat, so newer materials aim at bonding, easier delivery and bioactivity.
+Gutta-percha lacks adhesion and shrinks on cooling, and most sealers are soluble or non-bonding. Recent obturating materials try to bond core, sealer and dentin (the monoblock concept), to flow without heat, to expand to fill the canal, or to add bioactivity. Their long-term clinical evidence is limited.
 
-### Advances
-| Material | Feature | Limitation |
-|---|---|---|
-| Resilon + Epiphany | Resin monoblock attempt | Withdrawn 2014; 56% vs 88% success at 6 years |
-| Coated cones | Bond cone to sealer (resin, GIC, bioceramic) | Coating may strip; no outcome gain shown |
-| GuttaCore | Cross-linked core, removable | Few studies |
-| GuttaFlow | Cold flowable, expands 0.2% | Weak evidence |
-| SmartSeal | Swelling hydrophilic point | Limited documentation |
-| Bioceramic sealers/putty | Bioactive, single cone | Retrievability and long-term data |
-| Nanodiamond gutta-percha | Antimicrobial, trial stage | Experimental |
+### Recent advances
+**1. Resin core systems.** Resilon (polycaprolactone with bioactive glass) with Epiphany dual-cure sealer and self-etch primer aimed at a monoblock. Barborka found 56% success at 6 years against 88% for gutta-percha, and a later study found 5.3 times more periapical lesions; Resilon was withdrawn in 2014. RealSeal One used a polysulfone carrier coated with Resilon.
+
+**2. Coated cones.** Gutta-percha coated with resin (EndoREZ points), glass ionomer (Activ GP, Activ GP Precision) or bioceramic nanoparticles, used with matching sealers to form a bonded unit. A bacterial leakage study found no significant difference between Activ GP, Resilon and gutta-percha with AH Plus at 65 days.
+
+**3. GuttaCore.** A carrier-based obturator whose carrier is cross-linked gutta-percha bonded to alpha-phase gutta-percha. No plastic carrier gap; easily removed for post space and retreatment; limited studies.
+
+**4. Cold flowable gutta-percha.** GuttaFlow, GuttaFlow 2 (microsilver, expansion about 0.2%, working time 10-15 min) and GuttaFlow Bioseal (calcium silicate) combine gutta-percha powder under 30 μm with a silicone matrix.
+
+**5. Hydrophilic expanding points.** SmartSeal: a Propoint with a nylon core and swelling coating plus Smartpaste or Smartpaste Bio; expansion occurs in the first four hours; documentation is limited.
+
+**6. Bioceramic obturation.** Calcium silicate sealers with single-cone, coneless and BioConeless techniques; synchronised hydraulic condensation with coated cones; heat-tolerant BC HiFlow for warm techniques; bioceramic putty for apical plugs. Retreatability is disputed.
+
+**7. Bonded fibre and spiral systems.** FiberFill (glass-fibre post with gutta-percha tip and dual-cure sealer); EZ Fill (bi-directional spiral with epoxy sealer, room temperature).
+
+**8. Future.** Nanodiamond-embedded gutta-percha, in clinical trials with no adverse events reported.
+
+**9. Not recommended.** Medicated gutta-percha containing calcium hydroxide, iodoform or chlorhexidine: effectiveness not demonstrated.
+
+### Evidence and limitations
+Little evidence supports one obturation method or material over another on outcome. New materials show promise in vitro, but the one bonded system followed long term, Resilon, did worse. Bioceramic sealers lack sufficient human clinical comparison.
 
 ### Conclusion
-Newer materials improve handling and biology on the bench; none has yet beaten gutta-percha plus sealer on clinical outcome.
+Newer materials improve handling, flow and biology on the bench, but none has yet outperformed gutta-percha with a conventional sealer in clinical outcome.
 
 ---
 

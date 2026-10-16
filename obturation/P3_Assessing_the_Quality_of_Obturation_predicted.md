@@ -32,26 +32,33 @@ Healing of apical periodontitis, absence of symptoms and radiographic repair; fo
 ---
 
 ## EXAM MODE
-**(Word count 131; about 6 min at 22 words/min)**
+**(Word count 346; about 16 min at 22 words/min)**
 
 ### Introduction
-Obturation quality is judged by length, density and the coronal seal, and ultimately by healing.
+The quality of a root filling is judged by what can be seen on a radiograph, but the clinically important property, the seal, cannot be seen. A sound assessment therefore combines radiographic criteria with an understanding of their limits and with follow-up.
 
 ### Criteria
-1. **Length:** 0-2 mm from the radiographic apex; each mm lost lowers success 12-14%.
-2. **Density:** compact, homogeneous filling with no voids from orifice to apex.
-3. **Taper:** continuous taper matching the preparation.
-4. **Coronal seal:** orifice sealed and permanent restoration.
-5. **Absence of overextension** or excess sealer.
+1. **Length.** The filling should lie 0-2 mm from the radiographic apex. The dentinocemental junction is about 0.5 mm (range 0.2-2.5 mm) from the apex. Success falls 12-14% for each millimetre of working length lost. Fillings short of 2 mm leave infected, unfilled canal; fillings beyond the apex irritate the periodontal ligament and may compromise the apical seal.
+2. **Density.** A dense, homogeneous filling with no voids along the canal walls or between cones, sealing all portals of entry and exit.
+3. **Taper.** A continuous taper reflecting the shape of the preparation.
+4. **Adequate filling of the canal system,** including lateral canals where visible.
+5. **No gross overextension or excess sealer.**
+6. **Coronal seal.** The orifice sealed and a satisfactory permanent restoration; poor coronal restoration and poor root canal treatment have similar odds of impairing healing.
 
-### Radiographic assessment
-Use at least two angulations. Radiographs show only two dimensions, cannot display a seal and correlate poorly with leakage; extruded sealer does not mean a perfect seal.
+### Limits of radiographic assessment
+- Radiographic evaluation does not correlate well with leakage; an adequate two-dimensional appearance may not mean an adequate seal.
+- A radiograph shows two dimensions of a variable three-dimensional object; a seal cannot be seen on a radiograph; extruded sealer does not prove a perfect seal.
+- Observer variation, overlying bone and lack of uniform technique reduce reliability.
+- Poor density is a common problem that often goes unnoticed.
 
-### Outcome measures
-Absence of symptoms, radiographic healing of the lesion on follow-up, and a sound coronal restoration.
+### Outcome as the final test
+Absence of symptoms, radiographic healing of any apical radiolucency at follow-up, and a sound coronal restoration. Poor outcomes in overfilled teeth without apical periodontitis were not associated with overfilling but with coexisting infection.
+
+### Improving assessment
+Radiographs from more than one angulation are advisable [RECALL]; three-dimensional imaging such as CBCT and micro-CT can show voids but needs a journal source before it is cited as evidence.
 
 ### Conclusion
-Radiographic quality is necessary but not sufficient; a good-looking filling can leak, so follow-up is the final test.
+Length, density, taper and coronal seal are the practical measures. Because radiographs cannot show a seal, follow-up healing is the real test.
 
 ---
 

@@ -61,7 +61,7 @@ Quality is judged by length and density with no voids; radiographic appearance d
 ---
 
 ## EXAM MODE
-**(Word count 712; about 32 min at 22 words/min)**
+**(Word count 905; about 41 min at 22 words/min)**
 
 ### Introduction
 Obturation is the three-dimensional filling of the cleaned and shaped root canal system to the dentinocemental junction, using a core material and a minimal amount of sealer. Its aims are to prevent reinfection, entomb residual bacteria, stop periapical fluid seeping into the canal, form a barrier between the mouth and periapex, and give a favourable biological environment for healing. Success also needs good cleaning and shaping and a fluid-tight coronal restoration.
@@ -107,6 +107,16 @@ Judge by length and density; radiographs do not correlate well with leakage. Res
 
 ### Evidence
 Little evidence supports one method over another; Toronto data hint at warm vertical compaction. Clinical studies show no significant difference between techniques.
+
+### Obturation in special situations
+- **Curved canals:** flexible spreaders, master cone 2 mm short; for severe curvature or dilaceration, thermoplasticised gutta-percha or a flexible carrier.
+- **Oval and C-shaped canals, resorptions, webbings:** warm vertical compaction, injectable gutta-percha, carriers or Endotec ZAP and TAP.
+- **Open apex:** MTA apical plug 3-6 mm, custom cone or dentin chips.
+- **Post planned:** apical sectional plug of 4-5 mm; avoid carriers that are hard to remove.
+- **Vital teeth:** the apex may be blocked with dentin chips and need not be filled to the terminus.
+
+### Overextension and its management
+Overextension is material beyond the apex with an inadequately filled canal; overfilling is surplus beyond an adequately filled canal. Extruded sealer occurs in about 50% of cases without changing outcome, but filling material outside the canal can cause chronic inflammation and may reduce healing probability by as much as 25% (Grossman's). Prevent it with accurate working length. If it occurs with lateral compaction, tease the cone back before the sealer sets or soften it with solvent and retrieve with a Hedström file; with warm vertical or injected fills retraction is impossible and surgery is reserved for persistent symptoms.
 
 ### Conclusion
 Gutta-percha with sealer remains the standard. Choose cold lateral compaction or single cone for simple canals and warm techniques for curved, oval, C-shaped or resorbed canals. Disinfection, length control and an early coronal seal matter more than the technique.

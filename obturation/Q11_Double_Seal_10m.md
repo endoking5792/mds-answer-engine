@@ -4,7 +4,7 @@
 
 **Repeats absorbed:** "Double seal and its significance" (5m, Mar 2007); "Double-seal" (10m, Apr 2013); "Double Seal" (10m, May 2010).
 
-**Meaning of the term — clarification needed.** The repository lists this under obturation, but the textbooks use "double seal" in three different ways. All three are written below; confirm with the user which one the examiners meant.
+**Meaning of the term.** The textbooks use "double seal" in three ways. Confirmed with the user (2026-10-16): the exam answer leads with the interappointment temporary double seal (Grossman's); the other two senses are covered more briefly.
 
 ---
 
@@ -32,25 +32,37 @@ A "double seal" is the physical barrier of the root-end filling material togethe
 ---
 
 ## EXAM MODE
-**(Word count 130; about 6 min at 22 words/min)**
+**(Word count 389; about 18 min at 22 words/min)**
 
 ### Definition
-A double seal is a two-layer barrier that prevents leakage into the canal.
+A double seal is a two-layer temporary restoration placed in the access cavity between appointments to prevent leakage of saliva and bacteria into the canal and loss of the intracanal dressing.
 
-### Interappointment double seal
-Cotton pellet in the chamber, inner seal of temporary stopping, outer seal of Cavit (minimum 3.5 mm) or IRM. Single seal uses a dry cotton pellet and one cement.
+### Why a temporary seal is needed
+Multiple visits are required when a periradicular abscess drains through the canal or when disinfection is incomplete. The temporary filling must seal the access cavity so saliva with its bacterial flora, food and foreign material cannot contaminate the canal and the medicament cannot leak. Leakage can undo the most careful treatment.
+
+### Double seal and single seal
+| Seal | Construction |
+|---|---|
+| **Double seal** | A cotton pellet in the pulp chamber is covered by an **inner seal of temporary stopping** and an **outer seal of Cavit or IRM** cement |
+| **Single seal** | A medicated cotton pellet is covered by a dry cotton pellet and sealed with Cavit or IRM |
+
+### Materials
+- **Cavit-G:** premixed zinc oxide, calcium sulfate, zinc sulfate, glycoacetate, polyvinyl acetate resin and triethanolamine. The hydrophilic calcium sulfate absorbs moisture and expands, giving a superior seal. Minimum thickness 3.5 mm.
+- **IRM:** resin-reinforced zinc oxide-eugenol powder and liquid; a recommended filling for areas under occlusal load, although its seal is inferior to Cavit.
+- **TERM:** light-cured UDMA composite interim filling; a good seal even at 1-2 mm.
+- Zinc oxide-eugenol alone is not ideal because it leaks.
 
 ### Significance
-- Prevents salivary and bacterial contamination of the canal.
-- Stops leakage of the intracanal medicament.
-- Interim materials leak after 3 weeks, so visits must be planned within that time.
+- Prevents recontamination of the disinfected canal between visits.
+- Keeps the intracanal medicament in place; dressings should be renewed within one to two weeks because exudate dilutes them and bacteria decompose them.
+- All interim materials leak invariably if left more than three weeks, so the root canal treatment should be completed or the filling replaced within that time.
+- Ideal thickness of the temporary filling: 3-5 mm. Thickness and placement matter most.
 
-### Other meanings
-- Apical seal plus coronal seal of the completed root filling: both are needed since coronal leakage can reinfect a well-filled canal.
-- In root-end surgery: root-end filling plus biological seal from periodontal regeneration.
+### Other meanings of the term
+In obturation, the idea of a double seal can also be read as the apical seal plus the coronal seal of the finished root filling: both are needed because coronal leakage can reinfect a well-filled canal. In root-end surgery, a double seal is the root-end filling plus a biological seal from periodontal regeneration over the resected root face.
 
 ### Conclusion
-Double sealing, whether between visits or after obturation, protects the disinfected canal from reinfection.
+A double seal of temporary stopping under Cavit or IRM, at least 3.5 mm thick, is the standard interappointment restoration and should not stay in place beyond three weeks.
 
 ---
 
@@ -72,4 +84,4 @@ Double sealing, whether between visits or after obturation, protects the disinfe
 **[SRC]** Gopikrishna 2021 Ch.15; Gulabivala K, Ng YL. *Endodontics*. 4th ed. Mosby; 2014. Ch.9; Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; year to confirm. Ch.12; Berman et al 2021 Ch.9; Torabinejad et al, *Endodontics: Principles and Practice* Ch.15.
 
 ## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Pending / doubt for the user:** which sense the examiners intended; the second sense has no textbook definition of the term itself.
+Read directly. The user chose the interappointment sense as the lead; the apical-plus-coronal sense has no textbook definition of the term itself.

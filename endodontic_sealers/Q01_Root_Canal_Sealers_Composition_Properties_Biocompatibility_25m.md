@@ -56,37 +56,50 @@ All sealers exhibit toxicity when freshly mixed, greatly reduced on setting; sea
 ---
 
 ## EXAM MODE
-**(Word count 326; about 15 min at 22 words/min)**
+**(Word count 911; about 41 min at 22 words/min)**
 
 ### Introduction
-A root canal sealer fills the space between canal wall and core material, voids, lateral and accessory canals, and lubricates cone seating. Gutta-percha does not bond to dentin, so the sealer largely determines the seal.
+A root canal sealer is a cement or paste that fills the space between the canal wall and the core, fills voids, lateral and accessory canals and the gaps between cones, and lubricates cone seating. Gutta-percha has no adhesive quality, so the sealer largely determines the seal; leakage seems to depend more on the sealer than on the core. Because sealers contact periradicular tissue, composition, properties and biocompatibility are all examined.
 
-### Ideal properties (Grossman)
-Tacky and adhesive; hermetic seal; radiopaque; very fine powder; no shrinkage; no staining; bacteriostatic; slow set; insoluble; tissue tolerant; soluble in a solvent. ISO 6876: flow over 20 mm, film under 50 μm, solubility under 3%, radiopacity over 3 mm Al. No sealer meets all.
+### Ideal requirements
+**Grossman's eleven criteria (Cohen's Box 9.1):** tacky for adhesion; hermetic seal; radiopaque; very fine powder; no shrinkage on setting; no tooth staining; bacteriostatic or at least not encouraging bacterial growth; slow set; insoluble in tissue fluids; tissue tolerant; soluble in a common solvent for retreatment. Sikri lists fifteen requirements. No sealer meets all.
+**ISO 6876:** flow over 20 mm; film thickness under 50 μm; solubility under 3%; dimensional change -1% to +0.1%; radiopacity over 3 mm aluminium.
 
 ### Classification
-ZOE; calcium hydroxide; non-eugenol; glass ionomer; resin (epoxy, methacrylate); silicone; calcium silicate (bioceramic); medicated (not recommended).
+Cohen's: zinc oxide-eugenol, calcium hydroxide, non-eugenol, glass ionomer, resin (epoxy and methacrylate), silicone, tri/dicalcium silicate and medicated sealers. Sikri: eight groups (ZOE, medicated ZOE, resin, gutta-percha in solvents, cements, silicone, calcium hydroxide, bioceramic) and states that no definite classification is established.
 
-### Composition, properties, biocompatibility
+### Composition, properties and biocompatibility
 | Class | Composition | Properties | Biocompatibility |
 |---|---|---|---|
-| ZOE (Pulp Canal Sealer, Tubli-Seal) | ZnO 42, Staybelite 27, bismuth subcarbonate 15, BaSO4 15, borate 1 + eugenol | Long record; antimicrobial; shrinks, soluble, stains | Free eugenol cytotoxic unset; good clinical record |
-| Calcium hydroxide (Sealapex, Apexit) | Ca(OH)2 in resin base | Needs solubility; unstable long term | Biological effect not shown |
-| Epoxy (AH Plus) | Epoxy + amine pastes | Adhesion, low solubility, 4 h working time | Toxic unset; low at 24 h |
-| Methacrylate (EndoREZ, RealSeal) | UDMA, TEGDMA, BisGMA; primer | Hybrid layer; moist dentin; shrinks | More cytotoxic than AH Plus |
-| Glass ionomer (Ketac-Endo) | GIC | Bonds to dentin; hard to remove | Good |
-| Silicone (RoekoSeal, GuttaFlow) | Polydimethylsiloxane | Slight expansion; biocompatible | No antibacterial effect |
-| Bioceramic (iRoot SP, BioRoot RCS) | Calcium silicates, ZrO2, pH about 12 | Hydraulic set; under 0.1% expansion; solubility above AH Plus | Bioactive; some products cytotoxic (MTA Fillapex) |
-| Medicated (N2, Endomethasone) | ZOE + paraformaldehyde | Not recommended | Neurotoxic, necrosis |
+| **ZOE** (Pulp Canal Sealer, Tubli-Seal) | Grossman's formula: zinc oxide 42, Staybelite resin 27, bismuth subcarbonate 15, barium sulfate 15, sodium borate 1, with eugenol (Sikri prints 40/30) | Longest record; antimicrobial; slow set, shrinks 0.3-1%, soluble; may stain; hardens in about 2 h | Cytotoxic in culture (free eugenol) but good clinical record; resorbs if extruded |
+| **Calcium hydroxide** (Sealapex, Apexit) | Ca(OH)2 in resin/salicylate base; Sealapex base ZnO, Ca(OH)2, butyl benzene sulfonamide, zinc stearate | Needs solubility to act, which opposes sealing; limited antibacterial effect | Biological benefit not demonstrated |
+| **Epoxy resin** (AH Plus) | Epoxide and amine pastes; AH-26 released formaldehyde | Adhesive, low solubility; working time about 4 h, set 8 h | Toxic unset, among the lowest at 24 h |
+| **Methacrylate** (EndoREZ, Epiphany) | UDMA, TEGDMA, BisGMA; primer | Hybrid layer; needs slightly moist dentin; resin sealers shrink about 7.81% | Higher cytotoxicity than AH Plus |
+| **Glass ionomer** | GIC | Bonds to dentin; hard to remove | Good |
+| **Silicone** (RoekoSeal, GuttaFlow) | Polydimethylsiloxane | Slight expansion; working time 15 min | Biocompatible; no antibacterial effect |
+| **Calcium silicate** (iRoot SP, BioRoot RCS) | Tri/dicalcium silicate, zirconia or tantalum oxide | Hydraulic; pH about 12; under 0.1% expansion; initial set about 165 min (up to 12-24 h in some sources) | Bioactive; BC sealer took 5 vs 3 weeks to become non-cytotoxic (Cohen's); MTA Fillapex cytotoxic and genotoxic |
+| **Medicated** (N2, Endomethasone) | ZOE with paraformaldehyde | Contraindicated | Severe, permanent periradicular toxicity |
 
-### Comparison
-Bonding: resin, glass ionomer, bioceramic. Antimicrobial: ZOE, bioceramic. Easiest retreatment: ZOE, epoxy; hardest: glass ionomer, bioceramic (debated). Moisture: ZOE, epoxy dry; resin slightly moist; bioceramic uses tubular water.
+### Notes on the individual classes
+- **Zinc oxide-eugenol.** Marketed as Pulp Canal Sealer and Pulp Canal Sealer EWT (extended working time, over 6 h on the mixing pad), popular with thermoplastic techniques; Tubli-Seal is a convenient base/catalyst system with a faster set; Roth 801 is another. They resorb if extruded, shrink on setting, dissolve, may stain, and are antimicrobial.
+- **Calcium hydroxide.** Developed for therapeutic activity, but antimicrobial and osteogenic-cementogenic effects have not been demonstrated, and release of calcium hydroxide requires solubility, "inconsistent with the purpose of a sealer". CRCS is a ZOE sealer containing Ca(OH)2; Sealapex is a base/catalyst system; Apexit has an activator (disalicylate, bismuth hydroxide/carbonate, fillers) and a base (Ca(OH)2, hydrated colophonium). Whether they sustain an alkaline pH has been questioned; calcium silicate sealers show better osteogenic potential than Sealapex.
+- **Epoxy resin.** AH Plus is a two-paste system: an epoxide paste (bisphenol A diglycidyl ether, fillers) and an amine paste (monoamine, diamines, silicone oil, fillers). It sets by addition polymerisation with no residual monomer and no formaldehyde, is soluble in chloroform; allergy to epoxy resin is possible and should be checked.
+- **Glass ionomer.** Ketac-Endo bonds to dentin, but the apical and middle thirds are hard to condition, it has minimal antimicrobial activity and it is difficult to remove; solvents are ineffective.
+- **Silicone.** RoekoSeal expands slightly; GuttaFlow is triturated in a capsule, injected into the canal and followed by a single master cone; the set is inconsistent and delayed by NaOCl.
+- **Calcium silicate.** An outgrowth of MTA. Bismuth oxide stains crown dentin (brown with NaOCl, grey with chlorhexidine, black with glutaraldehyde), so zirconia or tantalum oxide replaced it in many products. Early MTA was too coarse for a sealer (film thickness over 50 μm). Products: MTA Fillapex, iRoot SP/EndoSequence BC, Endo CPM, EndoSeal MTA, TotalFill BC, BioRoot RCS, Seal Plus BC.
+- **Medicated.** Paraformaldehyde sealers (N2, RC2B, Endomethasone, SPAD, Riebler's paste) are "strongly contraindicated"; removal of lead and mercury from N2 left the paraformaldehyde toxicity.
 
-### Biocompatibility
-All toxic when fresh, less when set; avoid extrusion; extruded material can reduce healing probability by as much as 25%; in vitro tests overestimate harm.
+### Comparison of classes
+Bonding: resin, glass ionomer and bioceramic bond; ZOE, epoxy and silicone adapt only. Solubility is worst for ZOE and calcium hydroxide. Antimicrobial action is best in ZOE and bioceramic sealers. Retreatment is easiest for ZOE and epoxy and hardest for glass ionomer; bioceramic is disputed (no worse than epoxy in Cohen's; patency in 20% in Jain; most difficult in Sikri). Resin and bioceramic sealers need slightly moist dentin.
+
+### Biocompatibility principles
+All sealers are toxic when freshly mixed and much less so when set. Cell-culture tests exaggerate clinical harm because they lack lymphatics and host defences. Extruded sealer resorbs unpredictably, and extruded material can reduce healing probability by as much as 25% (Grossman's), although Harty's calls the evidence equivocal.
+
+### Evidence
+No sealer class is proven clinically superior: older classes give the same outcome and bioceramic sealers lack human clinical data.
 
 ### Conclusion
-No class is proven clinically superior; sealer selection should rest on seal, solubility, biocompatibility and retreatability, with extrusion avoided.
+Choose a sealer by seal, solubility, biocompatibility and retreatability, and keep it within the canal.
 
 ---
 

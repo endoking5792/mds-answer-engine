@@ -41,25 +41,35 @@ Berman et al (2021): type of coronal restoration had no significant influence on
 ---
 
 ## EXAM MODE
-**(Word count 120; about 5 min at 22 words/min)**
+**(Word count 382; about 17 min at 22 words/min)**
 
 ### Introduction
-A root-filled tooth can be reinfected from the apex (periapical fluid) or from the crown (saliva). Both seals are needed.
+A root-filled tooth can be reinfected from two directions: periapical tissue fluids can percolate into the canal through the apex, and saliva and bacteria can leak down the canal from the mouth. The **apical seal** and the **coronal seal** guard against these two routes. Early work emphasised the apical seal; more recent work stresses the coronal seal.
 
 ### Apical seal
-Ends at the dentinocemental junction, 0-2 mm from the radiographic apex; formed by core and sealer. Each mm lost lowers success by 12-14%. Radiographs do not show leakage.
+- **Aim:** prevent percolation of periapical exudate into the canal and entomb residual bacteria.
+- **Extent:** the filling should end at the dentinocemental junction, on average 0.5 mm (range 0.2-2.5 mm) from the radiographic apex; a filling 0-2 mm from the radiographic apex gives the best outcome. Success falls 12-14% for each millimetre of working length lost.
+- **Components:** core plus sealer; the seal is mainly entrusted to the sealer, and in one study at least 5 mm of apical gutta-percha was needed.
 
 ### Coronal seal
-Permanent restoration placed promptly under rubber dam; orifice barrier of 3.5 mm Cavit/Super EBA or a bonded lining of the chamber floor reduced bacterial leakage.
+- **Aim:** prevent saliva and bacteria diffusing down the gutta-percha to the periapex.
+- **Evidence:** coronal leakage can occur within a short time through seemingly well-obturated canals. There is a definite correlation between poorly restored crowns and leakage of dye, bacteria or endotoxin and a poorer prognosis; lack of a coronal seal is probably the most common but most controllable cause of failure.
+- **Barriers:** 3.5 mm of Cavit or Super EBA reduced bacterial leakage by 85% and 65% against unsealed controls at 45 days; a bonded lining of the chamber floor gave no leakage at 60 days.
+- **Practice:** place the permanent restoration soon after obturation under rubber dam with no gap between filling and obturation; remove gutta-percha and sealer from the clinical crown to avoid discolouration.
 
 ### Comparison
-| | Apical | Coronal |
+| Feature | Apical seal | Coronal seal |
 |---|---|---|
 | Threat | Periapical fluid | Saliva and bacteria |
-| Evidence | Length and density | In vitro leakage; similar impact to poor endodontics |
+| Provided by | Core and sealer within 0-2 mm of the apex | Orifice barrier and permanent restoration |
+| Evidence | Outcome falls with short or long fills | A meta-analysis found poor root canal treatment and poor coronal restoration have similar odds of impairing healing |
+| Control | Partly | Most controllable |
+
+### Controversy
+The 3-month retreatment rule for teeth without a definitive restoration came from in vitro leakage studies; its clinical significance has been challenged.
 
 ### Conclusion
-Coronal seal is now seen as at least as important as the apical seal, and is the more controllable.
+Both seals are needed. The coronal seal is now regarded as at least as important as the apical seal and, being under the clinician's control, deserves prompt attention.
 
 ---
 

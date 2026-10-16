@@ -27,19 +27,24 @@
 ---
 
 ## EXAM MODE
-**(Word count 77; about 4 min at 22 words/min)**
+**(Word count 193; about 9 min at 22 words/min)**
 
 ### Principle
-Gutta-percha is softened by frictional heat from a rotating compactor and driven apically and laterally.
+Frictional heat generated between a rotating instrument and gutta-percha softens the gutta-percha, and the instrument drives the softened mass apically and laterally against the canal walls.
 
-### Instruments
-McSpadden compactor (reverse Hedström, 8,000-20,000 rpm); NiTi MicroSeal condensers (1,000-4,000 rpm); Guttacondenser, Zipperer, Quickfill.
+### Instruments and technique
+- **McSpadden compactor (1979):** a reverse Hedström file in a latch-type handpiece at 8,000-20,000 rpm. A master cone is fitted short of the prepared length and sealer applied; the compactor is inserted alongside to 3-4 mm from the prepared length, activated, and withdrawn as the pliable mass is compacted apically and laterally.
+- **Modified McSpadden (MicroSeal):** NiTi condensers at 1,000-4,000 rpm coated with pre-plasticised low-fusing alpha-phase gutta-percha from a heater; the mass flows laterally by centrifugal force. Lower fusion point, longer working time and less cooling shrinkage, but it needs good apical control.
+- **Others:** Guttacondenser, Zipperer engine plugger (for back-fill) and Quickfill (titanium core coated with alpha-phase gutta-percha).
 
-### Technique
-Fit the master cone short of length, apply sealer, insert a compactor alongside it to 3-4 mm from the prepared length, activate, and withdraw as the mass is compacted.
+### Advantages
+Simple armamentarium; fills canal irregularities; quick.
 
-### Advantages and disadvantages
-Quick, fills irregularities; but instrument fracture, extrusion, heat, unsuitable for curved canals.
+### Disadvantages
+Instrument fracture; extrusion of material; gouging of canal walls; cannot be used in curved canals; excessive heat can cause resorption and ankylosis;.
+
+### Conclusion
+Thermomechanical compaction is a rapid warm technique, but its fracture and overheating risks have reduced its use in favour of device-controlled warm techniques.
 
 ---
 

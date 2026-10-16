@@ -36,22 +36,34 @@ Gutta-percha is thermolabile and cannot be heat sterilised (Sikri, 2019; Gopikri
 ---
 
 ## EXAM MODE
-**(Word count 121; about 6 min at 22 words/min)**
+**(Word count 300; about 14 min at 22 words/min)**
 
-### Problem
-Gutta-percha softens with heat, so autoclaving is impossible. Commercial cones are pre-sterilised but 5-8% are contaminated on removal from the pack and about 20% after opening.
+### Introduction
+Gutta-percha is thermolabile and softens with heat, so it cannot be sterilised by autoclave or dry heat. Commercial cones are sterilised by the manufacturer, but they become contaminated during storage and handling, so chairside disinfection before use is advised.
 
-### Methods
-1. **5.25% sodium hypochlorite for 1 min** (chairside standard; kills spores), then rinse with alcohol or hydrogen peroxide.
-2. 2% chlorhexidine for 5 min (Sikri) although Cohen's finds it ineffective against spores.
-3. 10% PVP-iodine 30-60 s; paraformaldehyde vapour 1 h.
-4. 2% glutaraldehyde and 70% ethanol do not kill spores.
+### Why disinfection is needed
+- Contamination was found in 5-8% of cones taken directly from the original package, and in almost 20% after the package had been opened, from the clinical environment and improper handling.
+- Gutta-percha has a smooth surface, which resists bacterial adherence, and contains zinc oxide, which has some antibacterial effect; this is why contamination stays low.
 
-### Points to state
-Dip the notched master cone in NaOCl and dry before use; cold chemical disinfection only; store dry. No evidence yet that it changes outcome.
+### Methods and findings
+| Agent | Time | Result in the textbooks |
+|---|---|---|
+| **5.25% sodium hypochlorite** | 1 min | The standard method; also killed *Bacillus subtilis* spores in the study cited by Cohen's; Ingle's gives 5-6% for 60 s, eliminating Gram-positive and Gram-negative organisms and spores |
+| Rinse after NaOCl | | Hydrogen peroxide or ethyl alcohol to remove hypochlorite |
+| **2% chlorhexidine** | 5 min | Effective in Sikri; **not effective against *B. subtilis* spores in Cohen's** |
+| 2% glutaraldehyde, 70% ethyl alcohol | | Not effective against spores (Cohen's) |
+| 10% polyvinylpyrrolidone-iodine | 30 s to 1 min | Effective (Sikri) |
+| Paraformaldehyde vapour | 1 h | Effective (Sikri) |
+
+### Practical protocol
+1. Take the master cone from the package with sterile forceps.
+2. Notch it at the reference point and immerse in 5.25% NaOCl for one minute.
+3. Rinse with alcohol or hydrogen peroxide and dry.
+4. Use immediately; do not return it to the pack.
+The procedure should not alter the structure of the cone. There is no evidence that it changes clinical outcome, but it is regarded as good practice.
 
 ### Conclusion
-Cold chemical disinfection with 5.25% NaOCl for one minute is the accepted method.
+Gutta-percha cannot be heat sterilised. Cold chemical disinfection with 5.25% sodium hypochlorite for one minute is the accepted chairside method, supported by laboratory evidence of spore kill; other agents are less reliable or conflicting.
 
 ---
 

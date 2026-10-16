@@ -27,14 +27,21 @@ Success depends on cleaning and shaping, three-dimensional sealing and a fluid-t
 ---
 
 ## EXAM MODE
-**(Word count 78; about 4 min at 22 words/min)**
+**(Word count 168; about 8 min at 22 words/min)**
 
-Obturation is the three-dimensional filling of the cleaned and shaped canal as close to the cementodentinal junction as possible. Objectives:
-- prevent reinfection from the mouth or from residual bacteria;
-- entomb residual bacteria and remove their nutrient supply by preventing periapical fluid seepage;
-- provide a barrier between oral cavity and periapex;
-- create a favourable environment for periapical healing;
-- achieve a dense, void-free filling to the dentinocemental junction (0-2 mm from the radiographic apex).
+### Definition
+Root canal obturation is the three-dimensional filling of the entire root canal system as close to the cementodentinal junction as possible, using a core material and a minimal amount of biocompatible sealer to establish an adequate seal.
+
+### Objectives
+1. **Prevent recontamination** of the canal by microorganisms left after preparation, or entering from the oral cavity or lateral communications.
+2. **Entomb** the bacteria that remain in the canal and dentinal tubules.
+3. **Stop fluid seepage:** prevent periradicular tissue fluid and exudate entering the canal and feeding residual bacteria.
+4. **Provide a barrier** between the oral cavity and the periapical tissues.
+5. **Create a favourable biological environment** for periapical healing.
+6. **Achieve a dense, void-free filling** from the orifice to the dentinocemental junction (0-2 mm from the radiographic apex), sealing all portals of entry and exit.
+
+### Related points
+Success of treatment depends on cleaning and shaping, a three-dimensional seal and a fluid-tight coronal restoration. All materials and techniques leak to some extent, so obturation reduces rather than abolishes leakage.
 
 ---
 

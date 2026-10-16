@@ -65,7 +65,7 @@ Little evidence supports any method over another on outcome (Berman et al, 2021)
 ---
 
 ## EXAM MODE
-**(Word count 621; about 28 min at 22 words/min)**
+**(Word count 682; about 31 min at 22 words/min)**
 
 ### Introduction
 Obturation techniques are classified by how gutta-percha is softened: not at all (cold), by solvent, or by heat. Thermoplasticised techniques heat beta-phase gutta-percha into the flowable alpha phase so it adapts to canal irregularities, and then compact it while it cools to offset shrinkage.
@@ -94,6 +94,15 @@ Alpha-phase gutta-percha on a carrier is heated in an oven and inserted with fir
 
 ### Thermomechanical compaction
 Friction from a rotating compactor (McSpadden, 8,000-20,000 rpm; NiTi MicroSeal at 1,000-4,000 rpm) softens gutta-percha and drives it apically and laterally.
+
+### Technique comparison
+| Technique | Heat source | Apical control | Main risk |
+|---|---|---|---|
+| Continuous wave | Plugger about 200 °C | Good (3-4 mm from binding point) | Root fracture, heat |
+| Injectable | Gun 160-200 °C (Ultrafil 70-90 °C) | Poor and unpredictable | Extrusion, voids |
+| Carrier-based | Oven | Good length control by the carrier | Stripping, post space |
+| Warm lateral | Heated spreader | Good | Tips do not compact |
+| Thermomechanical | Friction | Poor | Fracture, heat |
 
 ### Indications
 Curved or irregular canals, internal resorption, C-shaped canals, webbings, lateral and accessory canals, back-filling, and unnegotiable canals filled coronally before surgery.

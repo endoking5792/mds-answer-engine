@@ -48,49 +48,56 @@ Moisture: resin and bioceramic sealers adhered better when canals were left slig
 ---
 
 ## EXAM MODE
-**(Word count 260; about 12 min at 22 words/min)**
+**(Word count 855; about 39 min at 22 words/min)**
 
 ### Introduction
-Classic sealers (ZOE, calcium hydroxide, epoxy, glass ionomer) have limitations of solubility, shrinkage, toxicity or poor adhesion. Recent sealers aim at bonding, bioactivity and antimicrobial action.
+Recent sealers respond to the weaknesses of classical ones: zinc oxide-eugenol shrinks and dissolves, calcium hydroxide sealers must dissolve to act, glass ionomer is hard to remove, and epoxy resin sealers do not bond and are toxic when fresh. The advances aim at bonding, hydraulic setting, bioactivity and easier delivery.
 
-### Recent advances
-**1. Methacrylate-resin sealers (monoblock concept)**
-- Four generations (Cohen's): Hydron (obsolete), EndoREZ, Epiphany/Resilon with self-etch primer, MetaSEAL/RealSeal SE (self-adhesive). Sikri counts five.
-- Hydrophilic; hybrid layer and tags; need slightly moist dentin.
-- Limitations: no proven reinforcement; polymerisation shrinkage (resin-based sealers about 7.8%); more cytotoxic than AH Plus; Resilon withdrawn.
+### 1. Bonded methacrylate resin sealers
+Hydrophilic methacrylate sealers form a hybrid layer and resin tags. Cohen's and Jain count four generations (Hydron, now obsolete; EndoREZ, self-priming and hydrophilic; Epiphany/Resilon with a self-etch primer; MetaSEAL/RealSeal SE, self-adhesive); Sikri counts five by adding ADSeal and Dia-ProSeal. EndoREZ reached 92.1% success at 10 years in one uncontrolled study. Resilon was withdrawn in 2014 after 56% success at 6 years against 88% for gutta-percha. Methacrylate sealers showed no superior sealing or root strengthening and are more cytotoxic than AH Plus; resin sealers shrink about 7.81%.
 
-**2. Silicone-based sealers**
-RoekoSeal; GuttaFlow (working time 15 min, set 25-30 min); GuttaFlow Bioseal (calcium silicate); biocompatible; no antibacterial effect.
+### 2. Silicone sealers
+RoekoSeal (polydimethylsiloxane, expansion about 0.2%) and GuttaFlow (gutta-percha powder under 30 μm; working time 15 min, cure 25-30 min; set delayed by NaOCl). GuttaFlow Bioseal adds calcium silicate and promoted differentiation of periodontal ligament stem cells into cementoblast-like cells. No antibacterial effect.
 
-**3. Calcium silicate (bioceramic) sealers**
-- iRoot SP/EndoSequence BC, TotalFill BC, BC HiFlow, BioRoot RCS, MTA Fillapex, EndoSeal MTA, NeoMTA Plus.
-- Hydraulic set; pH about 12; under 0.1% expansion; set 165 min to 24 h.
-- Bioactive; sealing comparable to epoxy.
-- Limitations: solubility above AH Plus; difficult retreatment (debated); product variation; MTA Fillapex cytotoxic; no human clinical trials at time of writing.
+### 3. Calcium silicate (bioceramic) sealers
+Outgrowth of MTA; they set with water to calcium silicate hydrate and calcium hydroxide, pH about 12, expansion under 0.1%, initial set about 165 min (3-4 h and 12-24 h in other books). Radiopacifier changed from bismuth oxide to zirconia or tantalum oxide to avoid discolouration. Products: iRoot SP/EndoSequence BC, TotalFill BC and BC HiFlow (heat-tolerant), BioRoot RCS (calcium chloride liquid, high viscosity, not for warm techniques), MTA Fillapex (13.2% MTA in a resin, lower biocompatibility), Endo CPM, NeoMTA Plus. They allow single-cone, coneless and BioConeless techniques. Sikri classes them as calcium phosphate, calcium silicate, MTA-based and CEM cement sealers.
 
-**4. Coated cones**
-Resin-, glass-ionomer- and bioceramic-coated gutta-percha (tertiary monoblock).
+**Generations of bondable methacrylate sealers (Cohen's).** The first, Hydron (poly-HEMA, mid-1970s, injected without a core), became obsolete in the 1980s. The second, EndoREZ, is non-etching and hydrophilic (nonacidic diurethane dimethacrylate with triethyleneglycol dimethacrylate), flows into accessory canals and tubules, and seals best on slightly moist dentin. The third generation uses a self-etching primer plus a dual-cured resin sealer (Epiphany/RealSeal); the primer incorporates the smear layer. The fourth is self-adhesive (MetaSEAL, RealSeal SE).
 
-**5. Nanotechnology and antimicrobial sealers**
-Silver, chitosan, quaternary-ammonium nanoparticles; nanodiamond gutta-percha; experimental.
+**Further features of calcium silicate sealers.** They are available premixed (iRoot SP, TotalFill, Bio-C), as two pastes (MTA Fillapex, Seal Plus BC) or as powder and liquid (BioRoot RCS, Endo CPM); two products disperse tricalcium silicate in a nonreactive organic medium, which may reduce the benefit of the bioactive powder. BioRoot RCS contains calcium chloride for faster setting and releases calcium for apatite formation; BC HiFlow was designed for warm obturation and matches EndoSequence BC in chemistry, setting time, solubility and cytotoxicity. The tricalcium silicate powder gives biomineralisation, and these sealers are strongly alkaline for up to about seven days.
 
-**6. Smart/expanding materials**
-Hydrophilic polymer-coated cores that expand with water; limited evidence.
+### 4. Coated cones and monoblock
+Resin-, glass-ionomer- and bioceramic-nanoparticle-coated cones aim at tertiary monoblocks; GuttaCore uses a cross-linked gutta-percha carrier.
 
-**7. Delivery**
-Auto-mix syringes, ultrasonic placement, heat-stable bioceramics.
+### 5. Nanotechnology and antimicrobial strategies
+Silver, chitosan and quaternary-ammonium nanoparticles in sealer matrices; nanodiamond-embedded gutta-percha in trials. Clinical evidence is lacking.
+
+### 6. Delivery
+Auto-mix syringes, injection tips, ultrasonic activation (best sealer distribution when used circumferentially), heat-stable bioceramic variants.
+
+### Clinical handling of the newer sealers
+- **Irrigation and moisture:** after NaOCl and EDTA, leave the canal slightly moist (low vacuum for about 5 s, then a paper point for about 1 s). Alcohol as the final irrigant dehydrates dentin and can retard the set of calcium silicate sealers; flooding spoils adhesion of resin sealers.
+- **Technique:** BioRoot RCS is highly viscous, which reduces flow, increases voids and lowers tubular penetration apically, and heat reduces its flow further, so it is not used with warm techniques; BC HiFlow is designed for them. Premixed syringes with fine tips reduce voids.
+- **Setting:** set time is product-dependent (about 165 min initial in Cohen's, 3-4 h in Common Complications, 12-24 h in Azim and Aksel), so do not assume a class value; if a canal is under-filled, re-treat before the sealer sets.
+- **Retreatment:** plan for possible difficulty because retrievability is disputed.
+
+### Critical analysis
+Cohen's 12e found no peer-reviewed human clinical studies of tricalcium silicate sealers; Endodontic Prognosis agrees that bioceramics lack clinical data. MTA Fillapex is cytotoxic and genotoxic, EndoSequence BC solubility exceeds AH Plus, retreatability is disputed, and set times vary between 3 and 24 h across books. The only bonded system followed long term, Resilon, failed.
+
+### Why these advances matter clinically
+Calcium silicate sealers brought the single-cone technique back, because they do not shrink and expand slightly with tissue fluid. EndoSequence BC sealer increased the fracture force of root-filled premolars in one study, and MTA-based sealers may give an entombment effect that helps in retreatment, although their slow set is a disadvantage that setting accelerators may overcome. These claims rest on laboratory work.
 
 ### Comparison with conventional sealers
-| Feature | ZOE/epoxy | Resin | Bioceramic |
+| Feature | ZOE / epoxy | Resin | Bioceramic |
 |---|---|---|---|
-| Bond | Mechanical | Hybrid layer | Chemical |
+| Bond | Mechanical | Hybrid layer | Chemical / mineral |
 | Moisture | Dry canal | Slightly moist | Uses moisture |
 | Bioactivity | None | None | Yes |
-| Retreatment | Easy | Moderate | Debated/difficult |
+| Retreatment | Easy | Moderate | Disputed |
 | Evidence | Long | Medium | Growing |
 
 ### Conclusion
-Recent sealers move from passive space-fillers towards bonded and bioactive materials; laboratory results are promising, but clinical superiority is not established.
+Recent sealers move from passive fillers to bonded, bioactive materials. Biological improvement is real in the laboratory; better clinical outcome is not shown.
 
 ---
 

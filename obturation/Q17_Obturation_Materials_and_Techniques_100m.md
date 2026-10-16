@@ -65,7 +65,7 @@ Little evidence supports any method over another; Toronto data hint at warm vert
 ---
 
 ## EXAM MODE
-**(Word count 2577; about 117 min at 22 words/min)**
+**(Word count 3194; about 145 min at 22 words/min)**
 
 ### Introduction
 Success of root canal treatment depends on three things: meticulous cleaning and shaping, a three-dimensional seal, and a fluid-tight coronal restoration. **Obturation** is the three-dimensional filling of the entire root canal system as close to the cementodentinal junction as possible, using a core material together with a minimal amount of biocompatible sealer. This answer covers aims, timing, extent, materials, pre-obturation steps, each technique with its merits and demerits, recent advances, complications, evaluation, coronal seal and the evidence.
@@ -193,6 +193,24 @@ No technique suits every canal. A practical guide drawn from the textbooks:
 ### Post-obturation
 Remove excess gutta-percha and sealer from the chamber to below the cementoenamel junction to avoid staining; place a base or orifice barrier; take a final radiograph; place the permanent restoration without delay; review the tooth for healing at follow-up.
 
+### Single-visit obturation
+Completing treatment and obturating in one visit is not new. Favourable criteria (Grossman's Box 16.12): an experienced operator, a cooperative patient, good access and mouth opening, normal and patent canal anatomy, easily negotiable curvatures, no periradicular lesion, easy anaesthesia and primary treatment. Unfavourable criteria: an inexperienced operator, anatomical variations, calcifications, ledges or obstructions, acute curvature, a periradicular lesion, a hot tooth and retreatment. Indications include vital teeth, medically compromised or apprehensive patients, fractured anteriors and non-vital teeth with a sinus tract; contraindications include temporomandibular disorders, limited access and retreatment. A dry canal and the absence of persistent exudate remain essential before filling.
+
+### Placing the sealer
+Mix according to the manufacturer to a smooth, homogeneous paste. Methods: coat the master cone and use it to carry sealer along the canal wall; rotate a file or paper point coated with sealer; use a lentulo spiral (hazardous at high volume or with engine-driven devices); inject through a tip; or activate ultrasonically, which gave the best distribution when used circumferentially. Large volumes should be avoided because most sealers are soluble to some extent and the core should form the bulk of the filling.
+
+### Periradicular reactions to obturating materials
+No cementing medium or core is entirely innocuous. Any foreign body extruded into the periradicular tissue can be highly irritating. Zinc oxide-eugenol cements irritate because of eugenol, epoxy resin sealers are more compatible, and calcium silicate sealers are described as the most biocompatible in Grossman's, although Cohen's reports one study in which EndoSequence BC sealer took longer than AH Plus to become non-cytotoxic. Unset sealers are more toxic than set sealers, and cell-culture tests exaggerate clinical harm because they lack lymphatics and host defences. All filling materials should be confined to the canal.
+
+### Obturation-related causes of failure
+- Inadequate apical density or voids, which often go unnoticed on a two-dimensional radiograph.
+- Underfilling short of the apex, leaving infected canal unfilled, or extrusion beyond it.
+- Leakage through a deficient coronal restoration; in vitro, lack of a coronal seal led to reinfection with *Staphylococcus* within 19 days.
+- Vertical root fracture from excessive compaction force.
+
+### Radiographic criteria of an acceptable filling
+A dense, three-dimensional filling with a continuous taper that reflects the canal preparation, extending to 0-2 mm from the radiographic apex, with no voids between cones or along the walls, filling lateral canals where present, and a coronal restoration without a gap. A single two-dimensional view can hide voids, and a good appearance does not prove a seal; views from more than one angulation are advisable [RECALL].
+
 ### Recent advances
 - **Hydraulic bioceramic obturation:** single cone with calcium silicate sealer; coneless / BioConeless (foramen up to about 0.7 mm; apical deltas, abrupt curves); synchronised hydraulic condensation with coated cones; heat-tolerant BC HiFlow for warm techniques.
 - **Coated cones** forming a bonded unit: resin, glass-ionomer, bioceramic nanoparticle.
@@ -215,6 +233,19 @@ The filling is judged by length and density; radiographic appearance does not co
 
 ### Evidence
 Little evidence supports one method over another; the Toronto studies suggest warm vertical compaction may be superior to lateral compaction but not definitively. Clinical studies show no significant difference among gutta-percha-and-sealer techniques. Older sealer classes give the same outcome and bioceramic sealers lack clinical data for comparison.
+
+### Summary of the evidence by source
+| Source | Statement |
+|---|---|
+| Cohen's | Little evidence supports one method over another; Toronto studies suggest warm vertical compaction may be better than lateral compaction, but definitive evidence is lacking; all materials and techniques leak to some extent |
+| Azim and Aksel | Adequate filling can be achieved by any technique; no significant outcome difference among gutta-percha-and-sealer techniques; warm vertical compaction most used by specialists; single cone has a high success rate |
+| Endodontic Prognosis | ZOE, epoxy, calcium hydroxide-salicylate, silicone and composite sealers give the same clinical outcome; bioceramics lack clinical data for comparison |
+| Ingle's | In vitro, cold lateral condensation may leak more than other techniques; Thermafil fills lateral canals as well as vertical compaction and better than lateral condensation |
+| Grossman's | Extruded material can reduce healing probability by as much as 25% |
+| Harty's | Evidence that extruded sealer lowers success is equivocal; only limited research suggests that sealer selection influences outcome |
+
+### Practical sequence summary
+Disinfect, dry, confirm working length, fit and disinfect the master cone, place sealer, fill with the chosen technique, check the radiograph for length and density, remove excess from the chamber, place a barrier and restore promptly, and review for healing.
 
 ### Conclusion
 Gutta-percha with a sealer remains the standard core, placed by cold or warm techniques according to canal anatomy. Newer hydraulic, bonded and flowable systems improve handling and adaptation in the laboratory but have not shown better healing; the one bonded system followed long term, Resilon, was withdrawn. Success depends on disinfection, correct length, a dense filling with a small sealer volume, and an early permanent coronal seal.

@@ -37,29 +37,33 @@ Alpha-phase gutta-percha is used in thermoplastic techniques, beta-phase in late
 ---
 
 ## EXAM MODE
-**(Word count 233; about 11 min at 22 words/min)**
+**(Word count 393; about 18 min at 22 words/min)**
 
 ### Introduction
-Gutta-percha is a trans-polyisoprene whose crystalline form changes with temperature. This explains why warm obturation techniques work and why they need compaction.
+Gutta-percha is a trans-polyisoprene whose crystalline form changes with temperature. This explains why warm obturation works, why every warm technique needs compaction, and why heat has limits.
 
 ### Phases
-- **Beta (room temperature):** solid, compactable, brittle with age, non-adhesive; the form of commercial cones.
-- **Alpha (heated, about 42-49 °C onward; some books say above 65-70 °C):** tacky, flowable, non-compactable.
-- **Gamma/amorphous (about 53-62 °C and above):** properties not well known.
-Books differ on the temperatures, so state a range and the source.
+| Phase | Properties | Temperature (source) |
+|---|---|---|
+| **Beta** | Solid, compactable, elongatable, brittle when aged, non-adhesive; the form of commercial cones | Room temperature |
+| **Alpha** | Runny, tacky, sticky, non-compactable | Beta converts at 42-49 °C (Weine, Sikri, Torabinejad et al); about 70 °C (Azim and Aksel); alpha melts above 65 °C (Cohen's, Grossman's) |
+| **Gamma / amorphous** | Properties poorly known, similar to alpha | 56-62 °C (Weine); above 53-59 °C (Torabinejad et al) |
+The books disagree, so quote a range and name the source.
 
 ### Volume changes
-Gutta-percha expands on heating and shrinks as it cools. A heated mass must therefore be compacted while it cools: a heat plugger in System B is held under pressure for about 10 s, injected material is compacted with pluggers, and carriers are held until set. Solvent softening shrinks by evaporation and was abandoned.
+Gutta-percha expands when heated and shrinks as it cools. Every heating technique must therefore include a compaction phase: System B holds the plugger under pressure for about 10 s, injected gutta-percha is compacted with pluggers, and carriers are held until cool. Gutta-percha is neither molecularly condensable nor compressible; under clinical conditions compaction occurs, by collapse of voids already present in the material. Chemical softening also causes shrinkage, as the solvent evaporates (about 24% loss of volume in the old Callahan-Johnston method).
+
+### Alpha versus beta in practice
+Alpha-phase gutta-percha is used in thermoplastic techniques and beta-phase in lateral condensation. Alpha gutta-percha that has been heated and slowly cooled recrystallises as alpha; routine cooling gives beta. Cohen's says heated and cooled alpha shrinks less and is more dimensionally stable; Grossman's says the thermoplasticised alpha phase shrinks as it sets. Low-fusing alpha gutta-percha (MicroSeal, Ultrafil) gives a lower fusion point, longer working time and less shrinkage. Thermafil gutta-percha behaves like alpha, resolidifies in about 90 s and is unchanged on reheating.
 
 ### Clinical consequences
-1. **Alpha-phase** cones and pellets are used in warm vertical, injectable and carrier techniques; **beta-phase** cones in lateral compaction.
-2. **Low-fusing** alpha gutta-percha lowers working temperature and cooling shrinkage.
-3. **Poor thermal conduction** keeps heat from travelling far apically.
-4. **Root surface temperature** should not rise more than about 10 °C; keep heated pluggers 4-5 mm from the apex and avoid flame-heated carriers.
-5. **A sealer is always needed** to fill the interface left by shrinkage.
+1. **Compaction while cooling** compensates for shrinkage and a sealer fills the remaining interface.
+2. **Heat limit:** a root surface temperature rise above 10 °C is believed to cause irreversible bone damage. System B and Touch 'n Heat stayed under 10 °C in maxillary incisors and premolars; flame-heated carriers exceeded it in all teeth.
+3. **Poor thermal conduction** helps keep plasticity near the heat source; keep heated pluggers 4-5 mm from the apex.
+4. **Cone choice:** alpha pellets and cartridges for injection, beta cones for lateral condensation.
 
 ### Conclusion
-The beta-alpha transition lets gutta-percha adapt to canal anatomy, but cooling shrinkage makes compaction under pressure and a sealer essential.
+The beta-to-alpha change lets gutta-percha flow into canal irregularities, but cooling shrinkage, the heat limit and the need for a sealer define how warm techniques must be used.
 
 ---
 

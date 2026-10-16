@@ -38,25 +38,29 @@ Carrier-based systems produce minimal gaps and voids in some reports, and healin
 ---
 
 ## EXAM MODE
-**(Word count 111; about 5 min at 22 words/min)**
+**(Word count 320; about 15 min at 22 words/min)**
 
 ### Definition
-Obturation using a central carrier (stainless steel, titanium, plastic or cross-linked gutta-percha) coated with alpha-phase gutta-percha that is heated in an oven and delivered to working length.
+Carrier-based obturation uses a central carrier coated with alpha-phase gutta-percha. The coated carrier is heated and delivered to working length, so the rigid carrier is the vehicle for the plasticised gutta-percha.
 
-### Examples
-Thermafil, Densfil, Successfil, ProTaper/GT obturators, GuttaCore.
+### History and systems
+Developed by W.B. (Ben) Johnson in 1978 as **Thermafil**. The first obturators had stainless steel file carriers, which complicated retreatment, post space and root-end surgery; grooved plastic carriers replaced them. Later systems: **Successfil** (titanium or plastic carrier, syringe-loaded gutta-percha that sets in about 2 min), **Densfil** (plastic or titanium carrier, DensHeat oven), GT, GTX, ProTaper and WaveOne obturators matched to rotary files, and **GuttaCore** (cross-linked gutta-percha carrier).
 
-### Steps
-Verifier → dry canal → thin sealer → heat in oven until shiny → insert without rotation to working length → cool → cut carrier at orifice → radiograph.
+### Technique (Thermafil)
+1. Select the obturator with a size verifier (the plastic carrier that stops about 1 mm short of working length); this is not possible with GuttaCore.
+2. Dry the canal and apply a thin coat of sealer; close the other canal orifices with damp cotton so gutta-percha does not block them.
+3. Set the stopper to working length and heat in the oven until the gutta-percha is shiny, expanded and sticky (about 10 s in Grossman's; 115 °C for 3-7 min in Sikri).
+4. Insert to working length with firm, uniform apical pressure, **without rotation**; confirm radiographically.
+5. Let it cool for 2-4 min, then sever the carrier at the canal orifice with a bur while holding the handle firmly.
 
 ### Advantages
-Quick, flexible carriers, fills irregularities, less stress on root, usable in open apex.
+Quick and easy; flexible carriers follow curvature; fills fins, lateral canals and resorptive defects; useful in open apices; lower condensation forces on the root than lateral or vertical compaction; lateral-canal filling equal to vertical compaction and System B and better than lateral condensation.
 
 ### Disadvantages
-Stripping of gutta-percha from carrier, extrusion, difficult post space and retreatment.
+Gutta-percha may strip from the carrier in constricted canals and the radiopaque carrier hides this, weakening the apical seal; extrusion; post space is difficult; metal carriers are hard to retrieve.
 
 ### Conclusion
-A simple, fast technique with outcomes comparable to lateral compaction; plastic or cross-linked carriers reduce its main drawbacks.
+A fast technique with outcomes similar to lateral compaction; plastic and cross-linked carriers have reduced its main drawbacks.
 
 ---
 

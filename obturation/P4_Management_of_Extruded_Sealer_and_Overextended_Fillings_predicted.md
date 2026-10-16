@@ -35,25 +35,32 @@ Sikri adds that retrieval of overextended gutta-percha is difficult (Sikri, 2019
 ---
 
 ## EXAM MODE
-**(Word count 174; about 8 min at 22 words/min)**
+**(Word count 377; about 17 min at 22 words/min)**
 
 ### Definitions
-Overextension: material beyond the apex with the canal inadequately filled. Overfilling: canal filled with surplus material beyond the apex.
+**Overextension:** filling material extends beyond the apex while the canal is inadequately filled. **Overfilling:** an adequately filled canal with surplus material beyond the apex. **Underfilling:** material short of the apex.
 
-### Effects
-Chronic subclinical inflammation, encapsulation, delayed healing; however most extruded sealer is absorbed and many cases show repair. Evidence on its effect is conflicting (Grossman's: as much as 25% reduction; Harty's: equivocal; Azim and Aksel: 96% repair).
+### Effects of extruded material
+- **Histology:** severe inflammation despite no clinical pain ("subclinical inflammation") when sealer or gutta-percha is extruded; chronic inflammation, encapsulation of sealer against the root, and apparent radiographic healing that may hide an unresolved reaction.
+- **Healing:** delayed in some cases (more than 10 years in one report; about 14 months delay with extruded gutta-percha), yet 96% of overextended cases showed radiographic repair, mostly where sealer was the extruded material.
+- **Frequency:** sealer extrusion occurs in about 50% of cases without affecting outcome; the sealer type (zinc oxide-eugenol, resin or calcium hydroxide) made no difference, and some sealer persisted at 4 years.
+- **Conflict:** Grossman's states extruded material can reduce healing probability by as much as 25%; Harty's calls the evidence equivocal; Bioceramics in Endodontics notes that symptoms in overfilled teeth relate to coexisting infection rather than to the material.
+- **Paraformaldehyde sealers:** neurotoxicity, osteomyelitis and paresthesia when forced through the foramen.
 
 ### Causes
-Over-preparation of the constriction, lost working length, open apex, resorption, forceful compaction, injection too close to the apex.
+Over-preparation or loss of the apical constriction, wrong working length, open apex or apical resorption, injection needle too near the apex, excessive compaction, and large sealer volume.
 
 ### Prevention
-Accurate working length with an apex locator, preserve the constriction, fit the cone to length, place injection needles 3-6 mm from the apex, consider an apical barrier or custom cone.
+Accurate working length with an apex locator; preserve the constriction; confirm the cone fits to length; place injection needles 3-6 mm from the preparation; use an apical plug or custom cone when there is no stop; use a small volume of sealer.
 
 ### Management
-If the canal is well filled: reassure and review. Lateral compaction: tease the cone back before the sealer sets, or soften with solvent and retrieve with a Hedström file. Warm vertical or injected: cannot be withdrawn; surgery only if symptoms persist. Carrier: remove the core. Avoid paraformaldehyde sealers.
+1. If the canal is three-dimensionally filled, extrusion is not a major cause for alarm: inform the patient and review periodically.
+2. **Lateral compaction:** tease the cone back before the sealer sets; if set, soften apical gutta-percha with solvent, insert a Hedström file into the softened mass, let it harden and withdraw it parallel to the canal axis.
+3. **Warm vertical compaction or injected gutta-percha:** retraction is impossible; routine immediate surgery is not justified; periradicular surgery is indicated only if signs or symptoms of inflammation persist.
+4. **Carrier overextension:** remove the core; small attached gutta-percha may come with it.
 
 ### Conclusion
-Extrusion is avoidable; once present, observation is usually correct and surgery is reserved for persistent symptoms.
+Extrusion is best prevented. When it occurs, observation is usually correct; surgery is reserved for persistent symptoms or lesions.
 
 ---
 

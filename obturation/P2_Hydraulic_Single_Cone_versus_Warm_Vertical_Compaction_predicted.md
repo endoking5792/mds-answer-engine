@@ -36,28 +36,35 @@ Cohen's: little evidence of superiority; Toronto data favour warm vertical over 
 ---
 
 ## EXAM MODE
-**(Word count 201; about 9 min at 22 words/min)**
+**(Word count 397; about 18 min at 22 words/min)**
 
 ### Introduction
-Hydraulic single-cone and warm vertical compaction represent the two ends of current practice: minimal gutta-percha and sealer-based sealing versus heat-compacted gutta-percha with minimal sealer.
+Hydraulic single-cone and warm vertical compaction represent two ends of current practice: minimal gutta-percha with sealer-based sealing, against heat-compacted gutta-percha with minimal sealer. Calcium silicate sealers have made the comparison a live clinical question.
 
-### Single cone with calcium silicate sealer
-Cone matched to the master apical file with tug-back; the hydrophilic non-shrinking sealer expands with tissue fluid and fills the space. Advantages: simple, quick, less technique-sensitive, high reported success. Disadvantages: sealer-dependent; poor in oval or irregular canals; larger sealer volume; retreatment debated.
+### Hydraulic single cone
+A cone matched to the master apical file and a calcium silicate sealer. The sealer does not shrink and expands slightly by absorbing tissue fluid, so the single-cone technique, once rejected because sealers shrank and dissolved, resurfaced. The cone acts as a piston that pushes sealer laterally in a canal of constant taper. It is simple, quick, less technique-sensitive than other methods, and has a high reported success rate in treatment and retreatment. It is "sealer-dependent", relies on a precise cone fit, and is weak in oval canals or when the cone does not reach length.
 
 ### Warm vertical compaction / continuous wave
-Heated plugger at about 200 °C down-packs gutta-percha to the apical 3-4 mm, then the canal is back-filled with injected gutta-percha. Advantages: dense, homogeneous, adapts to irregularities; most used by specialists. Disadvantages: skill, equipment, root fracture, extrusion, heat.
+A tapered cone is seared by a heat plugger at about 200 °C that is advanced to 3-4 mm from the binding point; apical pressure is held for 5-10 s; the rest of the canal is back-filled with injected gutta-percha. It gives a denser, more homogeneous fill, adapts to oval and irregular canals, uses little sealer and is the most commonly used technique among specialists. It needs skill, equipment and a tapered preparation, and carries risks of vertical root fracture, extrusion and heat injury.
 
-### Selection
-- Round, tapered canal, good tug-back: single cone with bioceramic sealer.
-- Oval, C-shaped, resorbed or curved canals: warm vertical compaction or injectable.
-- No cone fits (deltas, large foramen under 0.7 mm): coneless technique with warm back-fill.
-- Warm techniques require a heat-tolerant sealer such as BC HiFlow.
+### Coneless / BioConeless
+When no cone fits (apical deltas, abrupt curves, stripping) bioceramic sealer is placed and warm gutta-percha injected as back-fill; the foramen should be under about 0.7 mm. A heat-tolerant sealer (BC HiFlow) is needed with warm techniques; BioRoot RCS has high viscosity and should not be used with them.
+
+### Comparison
+| Feature | Single cone + bioceramic | Warm vertical / continuous wave |
+|---|---|---|
+| Skill and time | Low | High |
+| Oval or irregular canals | Relies on sealer | Better adaptation |
+| Sealer volume | Larger | Small |
+| Extrusion | Sealer may extrude | Gutta-percha and sealer; low if the heat plugger stays 3-5 mm from the apex |
+| Retreatment | Disputed for bioceramics | Good |
+| Evidence | High success reported; no human comparative trials in Cohen's | Toronto studies suggest advantage over lateral compaction |
 
 ### Evidence
-No technique is proven superior in clinical studies; bioceramic sealers lack human comparative trials.
+Cohen's: little evidence supports one method over another. Azim and Aksel: clinical studies show no significant difference among techniques. Endodontic Prognosis: bioceramic sealers lack clinical data for comparison.
 
 ### Conclusion
-Choose by canal anatomy, sealer and skill: single cone for simple canals, warm compaction for complex ones.
+Neither technique is proven superior. Choose by canal anatomy, sealer and skill: single cone for simple canals, warm compaction for complex ones.
 
 ---
 

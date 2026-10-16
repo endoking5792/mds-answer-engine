@@ -43,31 +43,26 @@ No sealer has all of them. Radiopacity is not sealing; very radiopaque sealers c
 ---
 
 ## EXAM MODE
-**(Word count 110; about 5 min at 22 words/min)**
+**(Word count 164; about 7 min at 22 words/min)**
 
 ### Functions
-Fills space between canal wall and core; fills voids and lateral canals; fills gaps between cones; lubricant for cone seating; produces the seal; antimicrobial action; radiopacity.
+1. Fill the space between canal wall and core and the discrepancies of the canal.
+2. Fill voids, lateral and accessory canals and the interstices between cones.
+3. Lubricate cone placement.
+4. Provide the seal, since gutta-percha does not adhere.
+5. Act as an antimicrobial agent (Sikri).
+6. Mark accessory canals, resorptive defects and root fractures through radiopacity.
+7. Serve as a binding agent between core and wall.
 
-### Ideal properties (Grossman; eleven)
-| Property | Reason |
-|---|---|
-| Tacky | Adhesion to wall and core |
-| Hermetic seal | Prevents leakage |
-| Radiopaque | Visible on radiograph |
-| Very fine powder | Mixes easily |
-| No shrinkage | No gaps |
-| No tooth staining | Esthetics |
-| Bacteriostatic | Does not support bacteria |
-| Slow set | Working time |
-| Insoluble | Stability |
-| Tissue tolerant | Periapical healing |
-| Soluble in a solvent | Retreatment |
+### Ideal properties (Grossman, eleven)
+Tacky for adhesion; hermetic seal; radiopaque; very fine powder; no shrinkage on setting; no tooth staining; bacteriostatic or at least not encouraging bacterial growth; slow setting; insoluble in tissue fluids; tissue tolerant; soluble in a common solvent for retreatment.
+Sikri lists fifteen and Harty's twelve (adding tubule penetration, easy mixing and good working time).
 
 ### ISO 6876
-Flow over 20 mm; film under 50 μm; solubility under 3%; radiopacity over 3 mm Al.
+Flow over 20 mm; film thickness under 50 μm; solubility under 3%; radiopacity over 3 mm aluminium.
 
 ### Remark
-No sealer meets all properties; radiopacity does not equal seal.
+No sealer meets all properties. Radiopacity does not equal seal, and very radiopaque sealers can mask voids.
 
 ---
 

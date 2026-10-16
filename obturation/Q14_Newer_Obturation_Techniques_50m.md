@@ -64,7 +64,7 @@ Ultrasonic activation of sealer improved distribution (Berman et al, 2021); ther
 ---
 
 ## EXAM MODE
-**(Word count 1281; about 58 min at 22 words/min)**
+**(Word count 1718; about 78 min at 22 words/min)**
 
 ### Introduction
 Cold lateral compaction, the classical technique, does not fill canal irregularities well, and gutta-percha does not bond to dentin or sealer. "Newer" obturation techniques try to improve adaptation by heat, carriers, hydraulics or bonding, to simplify delivery, or to add bioactivity. They are described below with their principle, steps, merits, demerits and evidence, followed by a comparison and a selection guide.
@@ -123,6 +123,9 @@ These figures differ between books and with the manufacturer's model; state them
 - **Extrusion is not always harmful:** sealer extrusion in about 50% of cases did not change outcome; poor results in overfilled teeth without apical periodontitis were not linked to overfilling but to coexisting infection.
 - **Industry claims:** manufacturers' data on set time, expansion and temperature are not independent; textbooks give different set times for the same class of sealer (165 min to 24 h).
 
+### How the techniques developed
+Schilder introduced warm vertical compaction in 1967; Martin's Obtura injection gun followed in 1977, Johnson's Thermafil carrier in 1978 and McSpadden's compactor in 1979. Buchanan's continuous wave and devices such as System B, Elements and Calamus modernised the warm vertical method. Calcium silicate sealers then brought single-cone and coneless filling back, and bonded systems (Resilon, coated cones) were introduced and, for Resilon, withdrawn in 2014.
+
 ### Comparison
 | Technique | Strength | Weakness | Evidence |
 |---|---|---|---|
@@ -133,11 +136,23 @@ These figures differ between books and with the manufacturer's model; state them
 | Coneless | Irregular anatomy | Under- or overfilling | Case-based |
 | Resilon | Bonded | Failed | 56% vs 88% at 6 years |
 
+### Practical points and pitfalls of the newer techniques
+- **Canal preparation must match the technique.** Continuous wave needs a continuously tapered NiTi preparation with tapered pluggers; a single cone needs a cone matched in tip diameter and taper to the master apical file (variable-taper cones exist for ProTaper Gold, Trunatomy and WaveOne Gold); a carrier needs a size verifier.
+- **Moisture.** Calcium silicate sealers need residual moisture to set. Alcohol as final irrigant dehydrates dentin and may delay setting; flooding spoils resin sealers. Leaving the canal slightly moist (low vacuum for about 5 s, then a paper point for about 1 s) improved adhesion of several sealers.
+- **Apical limits.** Injectable and coneless techniques depend on a sound apical stop or a foramen under about 0.7 mm; with larger foramina extrusion risk is high and an apical plug or custom cone is preferred. Keep injection needles 3-6 mm from the apical preparation.
+- **Causes of underfilling with coneless filling:** a water-based sealer, a back-fill tip that does not fit the canal, the operator moving the tip when the patient feels pain, and stopping injection for fear of overfilling. If this happens the canal can be re-treated at once, before the sealer sets.
+- **Heat.** Warm techniques raise external root temperature; the threshold believed to damage bone is a rise above 10 °C. Choose heat-tolerant sealers (BC HiFlow) with warm gutta-percha.
+- **Retreatability.** Gutta-percha with epoxy or zinc oxide-eugenol sealer is removable with solvent and heat; metal carriers and glass-ionomer sealers are hard to remove; bioceramic sealer removal is disputed (no worse than epoxy in Cohen's; patency in only 20% in Jain; "most difficult" in Sikri).
+- **Techniques that should not be called new:** solvent-softened gutta-percha, silver cones and paraformaldehyde pastes are obsolete or banned; custom cones remain a niche method.
+
 ### Selection
 Curved, oval, C-shaped or resorbed canals favour warm techniques or coneless filling; round, well-tapered canals suit a single cone with bioceramic sealer; open apices need an MTA plug; where easy retreatment matters, gutta-percha with epoxy or ZOE sealer is preferred.
 
 ### Evidence
 Cohen's states that little evidence supports one method over another; the Toronto studies suggest warm vertical compaction may be better than lateral compaction but not definitively. Clinical studies show no significant outcome difference among techniques using gutta-percha and sealer. Bioceramic sealers lack human comparative trials; Resilon, the one bonded system followed long term, did worse.
+
+### Choosing between the newer techniques in practice
+For a straight, well-tapered canal a single cone with a bioceramic sealer is quickest. For an oval or curved canal continuous wave with injected back-fill is the usual specialist choice. Where a post will follow, an apical plug or a removable carrier avoids difficult gutta-percha removal. In all cases the final result still depends on thorough disinfection and prompt coronal restoration.
 
 ### Conclusion
 Newer techniques give denser or simpler fills in complex anatomy but have not yet improved healing. The technique should be chosen for the anatomy and the clinician's skill, with disinfection, length control and an early coronal seal given priority.

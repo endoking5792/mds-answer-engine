@@ -45,40 +45,41 @@ Free eugenol is the main contributor to cytotoxicity of freshly mixed ZOE (Gatew
 ---
 
 ## EXAM MODE
-**(Word count 191; about 9 min at 22 words/min)**
+**(Word count 337; about 15 min at 22 words/min)**
 
 ### Definition
-Sealers whose formulation has no eugenol. The specific example in textbooks is **Nogenol** (zinc oxide, barium sulfate, bismuth oxychloride base; developed from a periodontal dressing); the category also covers calcium hydroxide (Sealapex), epoxy (AH Plus), polyketone, glass ionomer, methacrylate, silicone and bioceramic sealers.
+In the textbooks "non-eugenol sealer" means a sealer without eugenol in its liquid, and Cohen's reserves the heading for **Nogenol**, a sealer developed from a periodontal dressing "without the irritating effects of eugenol". The term is also applied to sealers such as Sealapex and AH Plus, which are described as "noneugenol".
 
-### Why needed
-Free eugenol makes fresh ZOE cytotoxic and may allergise; eugenol interferes with resin polymerisation and bonding.
+### Nogenol
+Base: zinc oxide, barium sulfate and bismuth oxychloride (Cohen's). Sikri adds that it is considerably less irritating than other sealers, expands on setting and improves its seal with time; his composition table is garbled in the text and should be checked in print.
+
+### Other non-eugenol sealers
+Calcium hydroxide (Sealapex: base of zinc oxide, Ca(OH)2, butyl benzene sulfonamide and zinc stearate; catalyst of resin, isobutyl salicylate, barium sulfate, titanium dioxide), epoxy resin (AH Plus), polyvinyl (Diaket), glass ionomer, methacrylate resin, silicone and calcium silicate sealers.
+
+### Why avoid eugenol
+Free eugenol drives the cytotoxicity of fresh zinc oxide-eugenol sealer and its effect on nerve cells is said to persist after setting. Eugenol is incompatible with composite resins and reduces dentin-resin bond strength, so eugenol-free materials are preferred when resin restorations or resin sealers follow. Rosin or colophony in ZOE sealers can sensitise.
 
 ### Merits
-- No eugenol cytotoxicity or sensitivity.
-- Nogenol: less irritating; expands on setting.
-- Better adhesion (epoxy, glass ionomer, resin).
-- Low solubility (epoxy).
-- Biological or bioactive potential (calcium hydroxide, bioceramic).
+- Avoids eugenol toxicity and allergy.
+- Nogenol: less irritating, expands on setting.
+- Epoxy and glass ionomer: adhesion; epoxy low solubility.
+- Methacrylate: hybrid layer.
+- Bioceramic: bioactive.
 - Compatible with resin bonding.
 
 ### Demerits
-- Calcium hydroxide: soluble, unproven effect.
-- Epoxy: toxic unset; AH-26 formaldehyde.
+- Calcium hydroxide sealers: solubility needed for action opposes sealing; effect not shown.
+- Epoxy: toxic unset; AH-26 released formaldehyde; no bond to gutta-percha.
 - Glass ionomer: hard to condition and remove.
-- Resin: moisture and technique sensitive; monomer toxicity.
-- Lose ZOE's antibacterial action; shorter clinical record.
+- Resin: moisture sensitivity and monomer toxicity.
+- Loss of ZOE's antimicrobial action; shorter clinical record.
+- Nogenol: little supporting evidence.
 
-### Table
-| Sealer | Merit | Demerit |
-|---|---|---|
-| Nogenol | Less irritating; expands | Little evidence |
-| Sealapex | Ca(OH)2 release | Solubility |
-| AH Plus | Adhesion, low solubility | Unset toxicity |
-| Ketac-Endo | Bond to dentin | Hard to remove |
-| EndoREZ | Hybrid layer | Moisture sensitivity |
+### Clinical use
+Choose a non-eugenol sealer when a resin core build-up, post or adhesive restoration will follow, when eugenol sensitivity is suspected, or when a resin or bioceramic obturation system is used.
 
 ### Conclusion
-Non-eugenol sealers avoid eugenol's irritation and interference with resins, but each trades something: solubility, toxicity, moisture sensitivity or retreatability.
+Non-eugenol sealers avoid eugenol's irritation and its interference with resins, but each has a trade-off such as solubility, toxicity or retreatability.
 
 ---
 

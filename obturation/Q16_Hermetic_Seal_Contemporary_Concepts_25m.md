@@ -42,7 +42,7 @@ Resin sealers need slightly moist dentin; bioceramic sealers use residual moistu
 ---
 
 ## EXAM MODE
-**(Word count 625; about 28 min at 22 words/min)**
+**(Word count 864; about 39 min at 22 words/min)**
 
 ### Introduction
 A hermetic seal is a leak-proof barrier that stops bacteria and fluids passing through or around the root filling. It is the aim of obturation, yet Cohen's states that all materials and techniques result in some degree of leakage, and that no standardised test measures it. The question therefore asks what contemporary practice does to come closest. The answer rests on eight linked concepts.
@@ -71,6 +71,15 @@ An MTA or bioceramic putty plug of 3-6 mm, a custom cone, or dentin chips create
 ### 8. Coronal seal
 Coronal leakage can occur within a short time through seemingly well-obturated canals, and research emphasis has moved from the apical to the coronal seal. Place the permanent restoration soon after obturation under rubber dam with no gap between filling and restoration. A 3.5 mm Cavit or Super EBA barrier reduced bacterial leakage by 85% and 65% at 45 days, and a bonded lining over the chamber floor gave no leakage at 60 days.
 
+### What a clinician actually does to improve the seal
+1. **Before filling:** complete cleaning and shaping, final irrigation protocol compatible with the sealer, and a dry or slightly moist canal as the sealer requires.
+2. **Choose the sealer first:** epoxy resin for a conventional low-solubility seal and easy retreatment; calcium silicate for hydraulic sealing in tapered canals with a well-fitting cone; do not use paraformaldehyde sealers.
+3. **Choose the technique for the anatomy:** cold lateral or single cone for simple canals; continuous wave, injectable or carrier-based filling for curved, oval, C-shaped or resorbed canals; coneless filling when no cone fits.
+4. **Control the apex:** apex locator, 0-2 mm limit, injection needle 3-6 mm from the preparation, apical plug when there is no stop.
+5. **Keep sealer volume small** because most sealers dissolve to some degree; the core should form the bulk of the filling.
+6. **Seal the coronal end at once:** remove gutta-percha and sealer from the crown, place an orifice barrier and a permanent restoration without delay.
+7. **Review:** healing on follow-up is the real test of the seal, because radiographs cannot show a seal.
+
 ### Techniques and materials in summary
 | Concept | Technique / material |
 |---|---|
@@ -82,6 +91,9 @@ Coronal leakage can occur within a short time through seemingly well-obturated c
 
 ### Critical appraisal
 Radiographs do not correlate well with leakage and no standard method measures it. Older sealer classes give the same clinical outcome and bioceramic sealers lack sufficient clinical data. Poor-quality coronal restoration has odds of impairing healing similar to poor-quality root canal treatment.
+
+### Why a hermetic seal is difficult to prove
+There is no standardised method to measure microleakage; radiographs correlate poorly with it; and laboratory tests (dye, fluid filtration, bacterial) disagree with one another. A claim that a technique gives a hermetic seal should therefore be read as a laboratory finding, not a clinical result.
 
 ### Conclusion
 A truly hermetic seal remains an ideal rather than a clinical fact. Contemporary practice approaches it by combining thorough disinfection, correct length, a dense filling with a stable, biocompatible sealer, an apical barrier where there is no stop, and an early permanent coronal seal.

@@ -26,31 +26,34 @@ Common cautions: extrusion with thermoplastic techniques; heat damage; vertical 
 ---
 
 ## EXAM MODE
-**(Word count 141; about 6 min at 22 words/min)**
+**(Word count 320; about 15 min at 22 words/min)**
 
 ### Introduction
-Cold lateral compaction fills regular canals well but not irregular ones. Complex anatomy needs techniques that flow or adapt.
+Cold lateral compaction fills regular canals well but not irregular ones. Curved, oval, C-shaped, resorbed and open-apex canals need techniques that flow, adapt or provide an apical barrier. This answer covers the obturation half of "cleaning, shaping and obturation of difficult canals".
 
 ### Curved canals
-Flexible spreaders; master cone 2 mm short; thermoplasticised gutta-percha or a flexible carrier for severe curvature. MicroSeal NiTi condensers.
+Use flexible spreaders and place the master cone 2 mm short of the terminus because straight instruments exert more vertical force on the primary cone. In severe curvature or dilaceration lateral compaction is not feasible and thermoplasticised gutta-percha is preferred. Flexible plastic carriers (Thermafil) and NiTi MicroSeal condensers (1,000-4,000 rpm) also follow curves. Rigid pluggers cannot reach the apical third, so traditional Schilder vertical compaction is difficult.
 
 ### Oval and C-shaped canals
-A round single cone cannot fill these; use warm vertical compaction, injectable gutta-percha or carriers. Endotec with the ZAP and TAP method helps C-shaped molars.
+A round cone touches an oval canal at only two points, so single-cone filling leaves sealer-filled gaps. Warm vertical compaction, injectable gutta-percha and carriers adapt better. Endotec with the ZAP method (preheat 4-5 s) and the TAP method (10-15 short strokes) improves compaction in C-shaped molars. Obtura is indicated for C-shaped canals.
 
-### Internal resorption, webbings, accessory canals
-Injectable thermoplasticised gutta-percha (Obtura) or Thermafil.
+### Internal resorption, webbings and lateral canals
+Injectable thermoplasticised gutta-percha fills resorptive defects, webbings and accessory canals. Thermafil also fills fins and internal resorptive defects, and fills lateral canals as well as vertical compaction.
 
-### Apical deltas and abrupt curvature
-Warm gutta-percha with a bioceramic sealer (coneless technique).
+### Apical deltas and abrupt apical curvature
+High pressure is needed to push material into cleaned areas; the BioConeless technique with warm gutta-percha and bioceramic sealer makes filling easier and more predictable when the foramen is under about 0.7 mm.
 
 ### Open apex
-MTA apical plug, custom cone or dentin chips.
+MTA or bioceramic plug of 3-6 mm, custom cone or dentin chips.
+
+### Teeth needing a post
+Use an apical sectional plug (warm 3-4 mm segment or SimpliFill) and avoid carriers that are hard to remove.
 
 ### Precautions
-Control the apical limit to avoid extrusion; limit heat; avoid excessive compaction force.
+Extrusion with thermoplastic techniques, heat damage (root surface rise above 10 °C), and vertical root fracture from excessive force.
 
 ### Conclusion
-Match the technique to the anatomy: warm and flowable materials for complex canals, flexible instruments for curves, barriers for open apices.
+Match the technique to the anatomy: flexible instruments for curves, warm and flowable gutta-percha for irregular canals, and barriers for open apices.
 
 ---
 

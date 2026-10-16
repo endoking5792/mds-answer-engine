@@ -42,26 +42,36 @@ Primer forms a hybrid layer with dentin, which bonds to sealer, which bonds to t
 ---
 
 ## EXAM MODE
-**(Word count 163; about 7 min at 22 words/min)**
+**(Word count 328; about 15 min at 22 words/min)**
 
-### Definition
-Resilon was a synthetic polycaprolactone-based resin core (bioactive glass, bismuth oxychloride, barium sulfate, about 65% filler) used with Epiphany dual-cure resin sealer to form a monoblock. It was withdrawn in 2014.
+### Introduction
+Resilon is a synthetic, resin-based thermoplastic root-filling material introduced to bring dentin-bonding technology to obturation. It was withdrawn from the market in 2014 because of poor long-term stability and success, so it is now of historical and exam importance.
 
-### Components
+### Composition
+A polycaprolactone-based polymer with difunctional methacrylate resin, bioactive glass, bismuth oxychloride and barium sulfate, with about 65% filler by weight. It was supplied as ISO-sized cones and pellets and later marketed as RealSeal.
+
+### The system
 | Component | Details |
 |---|---|
-| Core | Resilon cones and pellets; handles like gutta-percha; softens at about 150 °C |
-| Primer | Self-etch (sulfonic acid monomer, HEMA, water) |
-| Sealer | Epiphany: dual-cure Bis-GMA/UDMA/EBPADMA, about 70% filler incl. calcium hydroxide |
+| **Core** | Resilon cones (master and accessory) and pellets; usable with lateral compaction, warm vertical compaction and thermoplastic injection; softens at about 150 °C against about 200 °C for gutta-percha |
+| **Primer** | Self-etch: sulfonic acid-terminated functional monomer, HEMA, water, initiator |
+| **Sealer** | Epiphany: dual-cure resin (EBPADMA, Bis-GMA, UDMA, hydrophilic dimethacrylates), about 70% filler including calcium hydroxide |
+
+### Principle
+The primer forms a hybrid layer with dentin, the sealer bonds to the primed dentin and to Resilon, giving a "monoblock".
 
 ### Technique
-EDTA 17% → primer → sealer → Resilon point or pellet → light-cure coronal 2 mm (40 s), self-cure rest (15-45 min).
+17% EDTA to remove the smear layer, primer, sealer, Resilon cone or pellet, then light-cure the coronal 2 mm for 40 s for an immediate seal; the rest self-cures (15-30 min in Gatewood, about 45 min in Jain).
 
 ### Advantages
-Bonding system (monoblock); less leakage in some studies; thermoplastic; retreatment with chloroform; early success 91-94%.
+Bonding system; less leakage than gutta-percha with AH Plus in some studies; thermoplastic; removable with chloroform; early clinical success 91.6% at 24 months and 93.1% at 4 years.
 
-### Disadvantages
-Enzymatic degradation of polycaprolactone; high C-factor; bonding uncertainties in canal; technique sensitive; no proven root reinforcement; poorer long-term outcome (56% vs 88% at 6 years; 5.3 times more periapical lesions); withdrawn 2014.
+### Disadvantages and why it failed
+- Polycaprolactone is degraded enzymatically, creating a gap between sealer and core.
+- The C-factor in a canal is about 1,000 against 5 in a Class I cavity, so the bond cannot resist shrinkage.
+- No root reinforcement; one study found higher fracture resistance, another found the stiffness too low.
+- Barborka et al: 56% success at 6 years against 88% for gutta-percha; a later study found 5.3 times more periapical lesions.
+- Technique sensitivity and cost.
 
 ### Conclusion
 Resilon was a bonded obturation system whose early promise was not borne out; it was withdrawn in 2014 and gutta-percha with sealer remains standard.

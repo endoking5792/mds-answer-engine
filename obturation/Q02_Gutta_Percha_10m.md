@@ -46,32 +46,43 @@ Calcium hydroxide, iodoform or chlorhexidine points are "not encouraged" (Rotste
 ---
 
 ## EXAM MODE
-**(Word count 111; about 5 min at 22 words/min)**
+**(Word count 398; about 18 min at 22 words/min)**
 
-### Definition
-Gutta-percha is the trans-isomer of polyisoprene from *Palaquium* trees and is the most widely used core filling material.
+### Introduction
+Gutta-percha is the most widely used core material in root canal obturation and has been used for more than 100 years. It is the dried sap of *Palaquium* trees, chemically the trans-isomer of polyisoprene.
 
-### Composition
-Gutta-percha 18-22%, zinc oxide 59-76%, radiopacifiers 1-18%, wax/resin 1-4% (Ingle's; other books give slightly different ranges).
+### Composition of commercial points
+| Component | Role | Proportion (Ingle's) |
+|---|---|---|
+| Gutta-percha | Matrix | 18-22% |
+| Zinc oxide | Filler; weak bacteriostatic effect | 59-76% |
+| Metal sulfates (barium sulfate) | Radiopacity | 1-18% |
+| Waxes and resins | Plasticisers | 1-4% |
+Other books give slightly different ranges (Sikri 59-67% zinc oxide; Azim and Aksel 50-79%; Cohen's about 65%), so quote a range.
 
 ### Phases
-| Phase | Properties |
-|---|---|
-| Beta | Commercial, solid, compactable, brittle with age |
-| Alpha | Heated (about 42-49 °C onwards): tacky, flowable; shrinks on cooling |
-| Gamma/amorphous | Higher temperature; poorly characterised |
+- **Beta phase:** commercial cones at room temperature; solid, compactable and elongatable, brittle when aged, non-adhesive; does not shrink.
+- **Alpha phase:** produced by heating (the transition is placed at about 42-49 °C in Weine and Sikri, about 70 °C in Azim and Aksel, and above 65 °C in Cohen's and Grossman's); tacky, flowable under pressure; shrinks as it cools, so compaction must continue during cooling.
+- **Gamma/amorphous:** at higher temperatures (56-62 °C in Weine); properties poorly known.
+Alpha-phase gutta-percha is used in thermoplastic techniques, beta-phase in lateral condensation.
 
 ### Forms
-ISO (0.02), greater taper, non-standard, pellets, carriers, medicated.
+- Standardised ISO cones, 0.02 taper, sizes 15 or 25 to 140, matching instruments; used for lateral condensation.
+- Greater-taper (0.04, 0.06) and variable-taper cones matched to rotary systems.
+- Non-standardised cones (extra-fine to extra-large), used for vertical compaction.
+- Pellets and cartridges for injection; carrier-coated obturators; medicated points; gutta-percha powder in GuttaFlow.
 
 ### Advantages
-Compactable, inert, tissue tolerant, radiopaque, dimensionally stable, removable.
+Compactable once softened; adapts to canal walls; dimensionally stable once set (it shrinks only when softened by heat or solvent); very low solubility; well tolerated, among the most inert dental materials; weakly bacteriostatic; radiopaque; semisolid on insertion; easily disinfected; removable with heat or solvents (chloroform, eucalyptol).
 
 ### Disadvantages
-No adhesion (needs sealer), lacks rigidity, shrinks on cooling, brittle with age, displaced by pressure.
+Lacks rigidity, so small sizes buckle; no adhesion to dentin, so a sealer is mandatory; displaced under pressure with risk of overextension; shrinks on cooling; becomes brittle when stored in heat and humidity. At room temperature it cannot be made to flow, and compaction forces pass to the canal wall and may fracture the root.
+
+### Medicated and modified gutta-percha
+Points carrying calcium hydroxide, iodoform or chlorhexidine are not encouraged: the effectiveness has not been shown and the drug must leach out, damaging the seal. GuttaCore has a cross-linked gutta-percha carrier.
 
 ### Conclusion
-Gutta-percha plus sealer remains the standard; its chief weakness is lack of adhesion.
+Gutta-percha remains the core material of choice because of its plasticity and inertness; its lack of adhesion and cooling shrinkage are managed by the sealer and by compaction during cooling.
 
 ---
 

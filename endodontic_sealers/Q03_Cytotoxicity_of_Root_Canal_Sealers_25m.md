@@ -43,38 +43,56 @@ Cell culture (osteoblasts, periodontal ligament cells), genotoxicity, implantati
 ---
 
 ## EXAM MODE
-**(Word count 227; about 10 min at 22 words/min)**
+**(Word count 863; about 39 min at 22 words/min)**
 
 ### Introduction
-Cytotoxicity matters because sealer contacts periradicular tissue through the apical foramen and lateral canals and may be extruded. All sealers are toxic when fresh and much less when set.
+Cytotoxicity matters because sealer contacts periradicular tissue through the foramen and accessory canals and is often extruded. All sealers are toxic when freshly mixed and much less when set, but tests and textbooks differ on the ranking of individual sealers.
 
-### Methods of evaluation
-Cell culture, genotoxicity, implantation, animal root-filling studies with histology.
+### General principles
+- Toxicity is greatest when the sealer is unset and diminishes on setting.
+- Cell-culture systems use one cell type, lack lymphatics and defence cells and are not homeostatic; they overstate clinical harm (ZOE is the example).
+- Investigators report contradictory results; clinical and in vitro data often disagree.
+- Sealers resorb but extruded sealer is not predictably removed; breakdown products may impair proliferation of periradicular cells, so sealer should not be routinely placed beyond the apex.
 
-### Cytotoxicity by sealer
-| Sealer | Findings |
+### Evaluation methods
+Cell culture (fibroblasts, osteoblasts, periodontal ligament cells), genotoxicity assays, implantation and animal root-filling histology. A periapical reaction may be inflammation, encapsulation, no reaction or resorption; healing within 30-60 days after mild irritation counts as biocompatible. Oxygen-inhibited layers and sample preparation confound results.
+
+### Cytotoxicity by class
+| Class | Findings |
 |---|---|
-| ZOE | Free eugenol cytotoxic when unset; marked in vitro; resorbs; safe clinical record |
-| Epoxy (AH-26, AH Plus) | Toxic unset, low at 24 h; AH-26 formaldehyde |
-| Polyvinyl/polyketone (Diaket) | Inflammatory reaction; elevated toxicity |
-| Calcium hydroxide | Least toxic eluates in one study |
-| Glass ionomer | Good |
-| Methacrylate resin | Monomer-related toxicity; mild irritation then healing |
-| Silicone | Lower than Epiphany and AH Plus |
-| Bioceramic | Biocompatible and bioactive; BC sealer 5 weeks to become non-cytotoxic vs 3 for AH Plus; MTA Fillapex cytotoxic and genotoxic |
-| Paraformaldehyde (N2, Endomethasone) | Neurotoxic; contraindicated |
+| **ZOE** | Free eugenol drives the toxicity of the fresh material; marked in culture but little clinical significance; resorbs; Common Complications states eugenol's neurotoxic effect persists after setting |
+| **Epoxy resin** | Toxic unset; among the lowest at 24 h; AH-26 released formaldehyde and was more cytotoxic and genotoxic than AH Plus; findings contradictory (some aged specimens promoted proliferation); overfill with AH-26 may cause paresthesia |
+| **Polyvinyl (Diaket)** | Inflammatory reaction at the periapex |
+| **Calcium hydroxide** | Least toxic eluates in one study; calcium-containing sealers less toxic than lead- or magnesium-containing ones |
+| **Glass ionomer** | Good biocompatibility |
+| **Methacrylate** | Monomer-related toxicity; Epiphany more cytotoxic than Sealapex at 1 h but less at 24 h; unreacted monomer and the oxygen-inhibited layer are toxic; newer resin sealers showed toxicity that did not fall with time; EndoREZ contains TEGDMA |
+| **Silicone** | RoekoSeal and GuttaFlow less toxic than Epiphany and AH Plus |
+| **Calcium silicate** | Grossman's: most biocompatible; Cohen's: EndoSequence BC took 5 weeks to become non-cytotoxic against 3 for AH Plus; MTA Fillapex cytotoxic and genotoxic; tricalcium silicate materials resemble MTA with low cytotoxicity |
+| **Paraformaldehyde** | N2, Endomethasone: severe, permanent toxicity, neurotoxicity, osteomyelitis; N2 classed "unacceptable" by the ADA in 1974 |
 
-### Factors
-Set versus unset; time; degree of conversion (resins); oxygen-inhibited layer; solubility and leaching; extrusion volume; infection; host defences.
+### Selected experimental findings
+- Primate studies of EndoREZ gave mean inflammation scores of 1.5 at 26 days and 0.8 at 90 days, whereas guinea-pig implantation showed a severe reaction [LIT: Pameijer and Zmener, 2010].
+- Conversion of methacrylate resin sealers is at best below 70%, leaving unreacted monomer; the oxygen-inhibited layer at the surface is toxic and can be removed by a final EDTA rinse [LIT].
+- TEGDMA and HEMA caused gene mutations and DNA damage in vitro [LIT]; EndoREZ contains triethyleneglycol dimethacrylate, so the review's statement that EndoREZ and Epiphany contain neither is contradicted by Cohen's and Jain.
+- Calcium silicate sealers: biocompatibility and mineralisation were superior to epoxy in some studies; MTA Fillapex reduced cell viability through its resin and salicylate components and caused severe subcutaneous inflammation at 90 days.
 
-### Interpretation
-In vitro exaggerates harm; contradictory studies; clinical success despite mild irritation; healing within 30-60 days is acceptable; extruded material can reduce healing probability by about 25%.
+### Extruded sealer: what the evidence says
+Extruded sealer is common (about 50%) and, in the studies cited by Azim and Aksel, did not alter outcome whatever its type, though some remained at four years. Problem Solving in Endodontics warns that encapsulated sealer can prevent complete healing even when the tooth is symptom-free; Grossman's gives a possible 25% reduction in healing; Harty's calls the evidence equivocal. Lead and mercury in N2 spread to distant organs; paraformaldehyde causes irreversible dysesthesia when forced through the foramen.
+
+### Factors modifying toxicity
+Setting state and time; degree of conversion of resins; solubility and leaching; extrusion volume; presence of infection; host defences.
+
+### Mechanisms of toxicity
+Free **eugenol** and zinc from ZOE; **formaldehyde** liberated on setting by AH-26 and by paraformaldehyde sealers; **unreacted resin monomers** (UDMA, TEGDMA, HEMA) and the oxygen-inhibited layer in methacrylate sealers; **lead and mercury** and **paraformaldehyde** in N2; the **resin and salicylate components** of MTA Fillapex; and the **solubility and leaching** of sealers that shrink or dissolve. Radiopacifier particles are insoluble and may remain in tissue, engulfed by macrophages or enclosed by fibrous capsules.
+
+### Why rankings differ
+Reported rankings depend on the test system, the sealer's age, the cell type and the exposure time. Examples from the textbooks: epoxy resin is described as the least toxic of all sealers at 24 h (Applied Dental Materials) and as more compatible than ZOE; calcium silicate sealers are called the most biocompatible (Grossman's) yet EndoSequence BC took longer than AH Plus to become non-cytotoxic (Cohen's); methacrylate sealers are more cytotoxic than AH Plus (Azim and Aksel). Marked toxicity in culture does not predict clinical failure, as ZOE shows, and a favourable culture result does not guarantee periapical healing, which also depends on infection control.
 
 ### Clinical implications
-Avoid extrusion; use thin film, avoid forcing sealer periapically; flush EDTA after NaOCl and use a final saline or chlorhexidine rinse before resin sealers; never use paraformaldehyde sealers.
+Avoid extrusion; use thin films and a small volume; remove EDTA and use a final rinse compatible with resin sealers; never use paraformaldehyde sealers. The effect of extruded material on healing is disputed: as much as 25% reduction (Grossman's), equivocal (Harty's), about 50% extrusion with no outcome effect and 96% repair (Azim and Aksel).
 
 ### Conclusion
-No sealer is entirely nontoxic; toxicity falls with setting; selection should rely on in vivo behaviour and extrusion control.
+No sealer is entirely non-toxic. Toxicity falls with setting, in vitro results exaggerate clinical harm and rankings differ between books, so sealer choice should rest on clinical behaviour and extrusion control.
 
 ---
 

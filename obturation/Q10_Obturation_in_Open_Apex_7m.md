@@ -26,17 +26,23 @@ For a vital pulp, instrumentation and filling need not reach the terminus: an ap
 ---
 
 ## EXAM MODE
-**(Word count 87; about 4 min at 22 words/min)**
+**(Word count 306; about 14 min at 22 words/min)**
 
-An open apex has no apical stop, so a conventional cone overextends. Techniques:
-- **MTA apical plug** (3-6 mm) with collagen matrix, then gutta-percha back-fill. First choice.
-- **Dentin chip plug** (1-2 mm), a biologic barrier.
-- **Custom or inverted cone**, softened in chloroform, to mould to the apex.
-- **Roll-cone technique:** heated cones rolled together, chilled, fitted, then lateral compaction.
-- **Thermafil/warm gutta-percha** with sealer.
-- Bioceramic putty as an alternative to MTA.
+### Problem
+An open apex (immature root, apical resorption or iatrogenic enlargement) has no apical stop, so a conventional master cone does not fit and sealer and gutta-percha extrude into the periapical tissues. The canal needs either an apical barrier or a cone moulded to the apex.
 
-Precautions: avoid overfilling, avoid etching over MTA, discolouration from bismuth oxide.
+### Techniques
+1. **MTA apical plug (technique of choice).** A dense mix of MTA is carried to the apical 3-6 mm (4-5 mm in Sikri) and packed with a plugger. A resorbable collagen matrix (CollaCote, CollaPlug) placed first prevents extrusion. A moist cotton pellet is left on the plug, setting is checked with a file at the next visit, and the canal is back-filled with injectable gutta-percha. MTA is biocompatible and hydrophilic, but technique-sensitive; its bismuth oxide can discolour the crown, so it should not be placed near the clinical crown. Bioceramic putty is easier to handle.
+2. **Dentin chips.** Chips from a Gates-Glidden drill or Hedström file are pushed apically with a paper point to form a 1-2 mm biologic plug that prevents overfilling and may stimulate healing; infected chips can impair repair.
+3. **Custom cone (solvent technique).** The cone is fitted short, its tip softened in chloroform and tamped into the apex to take an impression; or several cones are heated and rolled together. It reduces extrusion, but the solvent causes shrinkage.
+4. **Inverted cone and roll-cone.** The serrated butt end of a coarse cone is cut and the cone inverted; a roll-cone is made from heated cones chilled with ethyl chloride; lateral compaction follows.
+5. **Carrier-based systems.** Thermafil can be used in open apices.
+
+### Precautions
+Control extrusion; avoid heavy lateral force; in vital teeth the apex can be left blocked with dentin chips to allow repair. Apexification and regenerative options are separate topics.
+
+### Conclusion
+Create an apical barrier or moulded cone first; MTA is preferred, with gutta-percha back-fill.
 
 ---
 
