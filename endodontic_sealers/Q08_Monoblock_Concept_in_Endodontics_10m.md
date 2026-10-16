@@ -7,89 +7,87 @@
 ---
 
 ## RETRIEVAL REPORT
-Pameijer and Zmener (2010) [SRC]; Gatewood (2007) [SRC]; study-material `SubModule_4.5` (Jain, *Current Therapy in Endodontics*, as digested: primary/secondary/tertiary classification) [SRC, second-hand]; `calcium_silicate/Q02` (monoblock section) [SRC, repo]. Textbooks not opened.
+1. **Primary textbooks opened directly (2026-10-16)**: Jain (ed.), *Current Therapy in Endodontics* Ch.5 "Monoblock concept" (Jain, 2016); Sikri, *Essentials of Endodontics* 2nd ed. Ch.19 (Sikri, 2019); Azim and Aksel, in Siqueira and Rôças (eds), *Treatment of Endodontic Infections* 2nd ed. Ch.15 (2022); Rotstein and Ingle, *Ingle's Endodontics* 7th ed. Ch.22 (2019) [SRC].
+2. Pameijer and Zmener (2010); Gatewood (2007); project answer `calcium_silicate/Q02` [SRC].
 
 ---
 
 ## STUDY MODE
 
 ### Definition
-A monoblock is an obturation in which core material, sealer and canal dentin behave as one mechanically cohesive unit; it requires strong bonding between all three components and a similar modulus of elasticity (Jain, 2017, via digest). The term in resin obturation: the primer forms a hybrid layer with dentin, which bonds to sealer, which bonds to the core (Gatewood, 2007; Pameijer and Zmener, 2010).
+Monoblock literally means a single unit; the concept in endodontics was first described by Franklin Tay (Sikri, 2019). A monoblock obturation is one in which core material, sealing agent and root canal dentin form a single cohesive unit (Jain, 2016). Two prerequisites: the materials must bond strongly and mutually to each other and to the substrate they are meant to reinforce, and they must have a modulus of elasticity similar to the substrate (Jain, 2016).
 
-### Classification by interfaces (Jain, 2017, via digest)
-| Type | Interfaces | Example |
-|---|---|---|
-| Primary | One (cement-to-dentin) | MTA alone, as in apexification |
-| Secondary | Two (cement-to-dentin and cement-to-core) | Conventional sealer plus gutta-percha; resin sealer plus core; hydraulic bioceramic single-cone |
-| Tertiary | Three (adds a coated cone bonding to sealer) | Glass-ionomer-coated Activ GP cone with glass-ionomer sealer |
+### Classification by number of interfaces
+| Type | Interfaces | Jain (2016) | Sikri (2019) |
+|---|---|---|---|
+| Primary | One, material to canal wall | Orthograde MTA apexification; gutta-percha without sealer ("classic example") | Gutta-percha without sealer; Hydron sealer alone |
+| Secondary | Two: cement-dentin and cement-core | Sealer plus core; Resilon/Epiphany, EndoREZ with RCGP are the attempt at a true secondary monoblock | Same definition; common example sealer plus gutta-percha |
+| Tertiary | Three: a coating on the core bonds to sealer | Activ GP (glass-ionomer-coated) and similar; used with single cone or accessory cones without lateral compaction, to avoid disrupting the coating; fibre posts with silicate coating also counted | Same |
+The two textbooks agree on the principle but differ in their primary examples (MTA in Jain, Hydron in Sikri); the commonly quoted textbook example, gutta-percha without sealer, appears in both.
 
 ### Systems aiming at a monoblock
-EndoREZ with resin-coated gutta-percha (RCGP) cones and accelerator-coated accessory cones; RealSeal (Resilon/Epiphany); glass-ionomer-coated cones (Activ GP); bioceramic sealer with a single cone (Pameijer and Zmener, 2010; Jain, 2017, via digest).
+EndoREZ with resin-coated gutta-percha; Epiphany/RealSeal with Resilon (withdrawn 2014, see Q7); glass-ionomer-coated Activ GP; bioceramic sealer with single cone (Jain, 2016; Pameijer and Zmener, 2010; Sikri, 2019).
 
-### Conditions for a monoblock
-Removal of the smear layer with 17-19% EDTA or dilute citric acid; slightly moist dentin so that hydrophilic resin forms tags and a hybrid layer; flush EDTA after NaOCl to avoid an oxygen-inhibited layer; bondable core (Pameijer and Zmener, 2010).
+### Conditions
+Smear layer removal with 17-19% EDTA or dilute citric acid; slightly moist dentin; flush EDTA after NaOCl to avoid an oxygen-inhibited layer; a bondable core (Pameijer and Zmener, 2010).
 
 ### Problems
-- Gutta-percha and conventional sealers (ZOE, epoxy) do not bond to each other.
-- Core-sealer coupling uncertain (Resilon).
-- Polymerisation shrinkage, C-factor in the canal, and incomplete conversion cause interfacial gaps [Likely].
-- Moisture control is difficult to judge clinically (Pameijer and Zmener, 2010).
-- Root reinforcement not achieved: flexural properties of Resilon/GP and EndoREZ/GP are too low (Grande et al, in Pameijer and Zmener, 2010); Clark and Khademi reached the same conclusion (via digest).
-- Whether the monoblock gives superior clinical outcome versus a theoretical framework is still developing (Jain, 2017, via digest).
+- Gutta-percha does not bond to conventional sealers, including resin-based sealers; GIC and resin-modified GIC bond to dentin but not gutta-percha (Jain, 2016).
+- Bonding to dentin is compromised by polymerisation shrinkage; the C-factor in a canal is about 1,000 versus 5 in a Class I cavity (Azim and Aksel, 2022).
+- Polycaprolactone degrades enzymatically, creating a core-sealer gap (Azim and Aksel, 2022).
+- **No root canal filling material has a modulus close to dentin (about 14,000 MPa), so reinforcement is questionable** (Jain, 2016). A study found Resilon and gutta-percha lacked the stiffness to reinforce roots (Rotstein and Ingle, 2019); methacrylate sealers showed no strengthening of dentin (Azim and Aksel, 2022).
+- Conflicting evidence: higher fracture resistance with Resilon in earlier studies (Rotstein and Ingle, 2019).
+- Jain: "there appears to be no adhesive root canal material that can perfectly obturate with a tight seal ... while improving fracture resistance" (Jain, 2016).
 
 ---
 
 ## EXAM MODE
-**(Word count about 340; about 15 min)**
+**(Word count about 380; about 15 min)**
 
 ### Definition
-A monoblock is an obturation in which core, sealer and canal dentin form a single, bonded, mechanically cohesive unit with similar elastic modulus.
+A monoblock is an obturation in which core, sealer and canal dentin form a single, bonded, cohesive unit with similar elastic modulus (concept by Tay).
 
 ### Types
 | Type | Interfaces | Example |
 |---|---|---|
-| Primary | 1 | MTA alone |
-| Secondary | 2 | GP + sealer; Resilon + Epiphany; bioceramic single cone |
-| Tertiary | 3 | Activ GP with GI sealer |
+| Primary | 1 | Gutta-percha without sealer; MTA apexification plug; Hydron |
+| Secondary | 2 | Sealer + core; EndoREZ + RCGP; Resilon + Epiphany; bioceramic single cone |
+| Tertiary | 3 | Activ GP with GI sealer; coated posts |
 
 ### Principle (resin monoblock)
-Dentin → primer/hybrid layer → resin sealer → bonded core (resin-coated GP or Resilon).
+Dentin → primer/hybrid layer → resin sealer → bonded core.
 
 ### Requirements
-Smear layer removed (EDTA); slightly moist dentin; bonding core; no oxygen-inhibited layer.
-
-### Systems
-EndoREZ + RCGP; RealSeal/Resilon; Activ GP; bioceramic sealer single-cone.
-
-### Advantages (claimed)
-Reduced leakage, sealing of the root, possible reinforcement.
+Bond to dentin and core; similar modulus; smear layer removed; slightly moist dentin; no oxygen-inhibited layer.
 
 ### Limitations
-Technique sensitivity; polymerisation shrinkage; bonding to the core uncertain; no proven root reinforcement; limited long-term evidence.
+Polymerisation shrinkage with a canal C-factor of about 1,000; hydrolysis of core; technique sensitivity; modulus of filling materials far below dentin (about 14,000 MPa); no proven root reinforcement; limited long-term evidence.
 
 ### Conclusion
-The monoblock is an attractive concept; the root has not been shown to be reinforced and clinical benefit is not yet proven.
+The monoblock is excellent in theory; no current material gives a true reinforcing monoblock, and clinical benefit is not proven.
 
 ---
 
 ## HIGH-YIELD POINTS
-- Primary, secondary, tertiary monoblocks by number of interfaces.
-- Requires bonding and similar modulus.
+- Concept by Tay; primary, secondary, tertiary by number of interfaces.
+- Two prerequisites: mutual bond and similar modulus.
+- Dentin modulus about 14,000 MPa; filling materials far lower.
+- C-factor 1,000 vs 5.
 - Root reinforcement not demonstrated.
 
 ## DIAGRAMS TO DRAW
-[DIAGRAM: dentin–sealer–core with interfaces numbered | 2 min]
+[DIAGRAM: dentin–sealer–core with interfaces numbered for primary, secondary, tertiary | 3 min]
 
 ## COMMON EXAM MISTAKES
 1. Equating monoblock with a bonded sealer alone.
 2. Claiming it strengthens the root.
+3. Forgetting the modulus prerequisite.
 
 ## MNEMONIC
 **"P-S-T"**: Primary 1, Secondary 2, Tertiary 3 interfaces.
 
 ## SOURCE LIST
-**[SRC]** Pameijer CH, Zmener O. 2010;54:325-344; Gatewood RS. 2007;51:695-712 (Dent Clin North Am); digest `SubModule_4.5` (Jain 2017); project answer `calcium_silicate/Q02`.
+**[SRC]** Jain P, ed. *Current Therapy in Endodontics*. 2016. Ch.5; Sikri VK. *Essentials of Endodontics*. 2nd ed. 2019. Ch.19; Siqueira JF Jr, Rôças IN, eds. *Treatment of Endodontic Infections*. 2nd ed. 2022. Ch.15; Rotstein I, Ingle JI, eds. *Ingle's Endodontics*. 7th ed. 2019. Ch.22; Pameijer CH, Zmener O. 2010;54:325-344; Gatewood RS. 2007;51:695-712 (Dent Clin North Am); project answer `calcium_silicate/Q02`.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Jain (ed.), *Current Therapy in Endodontics* (2017), classification into primary, secondary and tertiary monoblocks; Cohen's Ch.9 and the original monoblock literature.
-- Modulus statement ("similar modulus of elasticity"): textbook confirmation.
+## TEXTBOOK AUDIT APPLIED (2026-10-16)
+Opened directly: Jain Ch.5, Sikri Ch.19, Azim and Aksel Ch.15, Ingle's Ch.22. **Corrected or added:** the two prerequisites and the modulus (about 14,000 MPa) confirmed in Jain; Tay as originator (Sikri); primary example differs between Jain and Sikri and both are recorded; tertiary monoblock coating and handling note; C-factor 1,000 vs 5. **Pending:** Tay's original papers; the Jain and Sikri citation year (Jain © 2016; the earlier draft cited 2017).

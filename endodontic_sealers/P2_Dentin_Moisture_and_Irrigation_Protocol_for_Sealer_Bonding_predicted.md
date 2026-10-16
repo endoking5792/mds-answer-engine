@@ -5,7 +5,7 @@
 ---
 
 ## RETRIEVAL REPORT
-Pameijer and Zmener (2010) ("When to dry and when not to dry", oxygen-inhibited layer, irrigation protocol, push-out study) [SRC]; Gatewood (2007) (smear layer); Guruswamy Pandian et al (2026) (final irrigants and bond strength) [SRC]; `calcium_silicate/Q02` [SRC, repo]. Textbooks not opened.
+**Primary textbooks opened directly (2026-10-16)**: Cohen's 12th ed. Ch.9 (Berman et al, 2021: moisture protocol and sealer placement); Azim and Aksel, *Treatment of Endodontic Infections* 2nd ed. Ch.15 (2022); Sikri 2nd ed. Ch.19 (2019) [SRC]. Pameijer and Zmener (2010) ("When to dry and when not to dry", oxygen-inhibited layer, irrigation protocol, push-out study); Gatewood (2007); Guruswamy Pandian et al (2026); `calcium_silicate/Q02` [SRC].
 
 ---
 
@@ -25,6 +25,7 @@ A 1-2 μm layer of organic and inorganic debris and possibly bacteria formed by 
 - Hydrophilic resin sealers need moist dentin for tags and a hybrid layer; thorough drying creates a hydrophobic environment and poor penetration; too much water entraps droplets and disrupts bonding (Pameijer and Zmener, 2010).
 - Zmener's study: blot drying and low-vacuum 1-2 s drying left canals slightly moist and leaked least; ethanol drying and flooded canals leaked more; the last paper point should show at least 3 mm moisture (Pameijer and Zmener, 2010).
 - Calcium silicate sealers use residual tubular moisture to set (calcium_silicate Q2).
+- Cohen's protocol: low vacuum 5 s then a paper point for 1 s left the canal slightly moist and gave the best adhesion of AH Plus, Epiphany, iRoot SP and MTA Fillapex, whereas flooded canals harmed adhesion (Berman et al, 2021). This differs from the 1-2 s low-vacuum timing in Pameijer and Zmener; both recorded.
 - ZOE and epoxy sealers are traditionally used in dried canals [Likely].
 
 ### Clinical protocol (resin sealer)
@@ -71,6 +72,5 @@ Sealer performance depends on the irrigation sequence and dentin moisture as muc
 ## SOURCE LIST
 **[SRC]** Pameijer CH, Zmener O. 2010;54:325-344; Gatewood RS. 2007;51:695-712; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am); `calcium_silicate/Q02`.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- The push-out figures (1.33, 7.95, 8.09 MPa) come from Pameijer and Zmener's own experiment; confirm in the original and in Cohen's Ch.9/Ch.7 (irrigation and smear layer).
-- Ingle's and Cohen's statements on sealer drying protocol for ZOE and epoxy.
+## TEXTBOOK AUDIT APPLIED (2026-10-16)
+Opened directly: Cohen's Ch.9, Azim and Aksel, Sikri. **Added:** Cohen's 5 s + 1 s moisture protocol and its comparison of four sealers; timings recorded against Pameijer and Zmener's 1-2 s. **Pending:** the push-out figures (1.33, 7.95, 8.09 MPa) come from Pameijer and Zmener's own experiment, confirm in the original; textbook statement on drying protocol for ZOE and epoxy was not found in the chapters read.

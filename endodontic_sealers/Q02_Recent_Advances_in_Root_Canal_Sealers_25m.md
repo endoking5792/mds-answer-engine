@@ -2,46 +2,48 @@
 
 **Marks: 25 (Essay) — Sep 1992 (PIII 90-00)**
 
-**Repeats absorbed:** "Discuss the recent advances in root canal sealants" (20m, Long Essay, date not printed, RG PIII RS-old); "Newer root canal sealers" (10m, Oct 2015, PIII 07-15). The generic obturation essays ("recent advances in obturating materials", 7-20m) belong to an Obturation topic.
+**Repeats absorbed:** "Discuss the recent advances in root canal sealants" (20m, Long Essay, date not printed, RG PIII RS-old); "Newer root canal sealers" (10m, Oct 2015, PIII 07-15). Generic obturation essays ("recent advances in obturating materials", 7-20m) belong to an Obturation topic.
 
 ---
 
 ## RETRIEVAL REPORT
-1. "resin|monoblock|bioceramic|hydraulic|nanoparticle|antimicrobial|silicone" → Pameijer and Zmener (2010); Gatewood (2007); Guruswamy Pandian et al (2026) [SRC]; study-material `SubModule_4.5` (Berman et al 2021; Jain; Ingle's; Gulabivala and Ng; Peters, as digested) [SRC, second-hand]; `calcium_silicate/Q02` (Chopra; Camilleri's classification as digested there) [SRC, repo].
-2. Smart sealers and shape-memory material: `smart_materials/` files exist in the repository (Endo 100m) and are cross-referenced, not re-derived.
-Textbooks not opened; see AUDIT PENDING.
+1. **Primary textbooks opened directly (2026-10-16)**: Cohen's 12th ed. Ch.9 (Berman et al, 2021); Grossman's 14th ed. Ch.16 (Gopikrishna, 2021); Sikri, *Essentials of Endodontics* 2nd ed. Ch.19 (Sikri, 2019); Jain (ed.), *Current Therapy in Endodontics* Ch.5 (Jain, 2016); Azim and Aksel, in Siqueira and Rôças (eds), *Treatment of Endodontic Infections* 2nd ed. Ch.15 (2022); Torabinejad (ed.), *MTA* Ch.10; Chopra (ed.), *Bioceramics in Endodontics* [SRC].
+2. Pameijer and Zmener (2010); Gatewood (2007); Guruswamy Pandian et al (2026) [SRC].
+3. `calcium_silicate/Q02` and `smart_materials/` (Endo 100m) cross-referenced, not re-derived [SRC, repo].
 
 ---
 
 ## STUDY MODE
 
-### Frame: advances respond to the weaknesses of the classic sealers
-ZOE shrinks and dissolves; calcium hydroxide sealers conflict with insolubility; glass ionomer is hard to condition and remove; epoxy sealers are toxic when fresh and do not bond to gutta-percha (Gatewood, 2007; Berman et al, 2021, via digest; Pameijer and Zmener, 2010).
+### Frame
+Advances respond to the weaknesses of classic sealers: ZOE shrinks and dissolves; calcium hydroxide sealers conflict with insolubility; glass ionomer is hard to condition and remove; epoxy sealers are non-bonding and toxic when fresh (Berman et al, 2021; Gatewood, 2007).
 
-### Generation 1: bonded (methacrylate resin) sealers and the monoblock
-Hydrophilic dual-cure resins that form a hybrid layer and resin tags in smear-layer-free dentin (Pameijer and Zmener, 2010). Four marketed generations; the first (Hydron, 1970s) failed clinically (Berman et al, 2021, via digest). EndoREZ (with resin-coated cones) and RealSeal/Resilon-Epiphany (polycaprolactone core, self-etch primer) aim at a monoblock; tag penetration up to 500-1000 μm is claimed for EndoREZ on moist dentin (Pameijer and Zmener, 2010). Weakness: bonding to the core is questionable and no root reinforcement was shown (Grande et al; Pameijer and Zmener, 2010). See Q4, Q7, Q8.
+### 1. Bonded methacrylate-resin sealers and the monoblock
+Hydrophilic methacrylate sealers form a hybrid layer and resin tags after smear-layer removal (Pameijer and Zmener, 2010). Generations: Cohen's and Jain count **four** (Hydron, 1970s, obsolete by the 1980s; EndoREZ, self-priming hydrophilic; Epiphany/Resilon with a self-etch primer; MetaSEAL/RealSeal SE, self-adhesive) (Berman et al, 2021; Jain, 2016), whereas Sikri counts **five** (adds ADSeal and Dia-ProSeal, epoxy-based, as the fifth) (Sikri, 2019). EndoREZ was reported at 92.1% cumulative success at 10 years in one retrospective study without a comparison sealer (Berman et al, 2021). Resilon was withdrawn from the market (about 2014) after poorer long-term results (Barborka: 56% vs 88% at 6 years) (Azim and Aksel, 2022). Methacrylate sealers showed no superior sealing or dentin strengthening and higher cytotoxicity than AH Plus (Azim and Aksel, 2022). See Q4, Q7, Q8.
 
-### Generation 2: silicone-based sealers
-RoekoSeal (and GuttaFlow, which combines gutta-percha powder with the sealer) appear in cytotoxicity work; RoekoSeal was less toxic than Epiphany and AH Plus in one study (Pameijer and Zmener, 2010). The sources read give no further account of silicone sealer chemistry or outcomes [limited data].
+### 2. Silicone-based sealers
+RoekoSeal (polydimethylsiloxane, slight expansion) and GuttaFlow (cold flowable, gutta-percha powder under 30 μm in RoekoSeal; working time 15 min, cure 25-30 min; setting inconsistent and delayed by NaOCl); GuttaFlow Bioseal adds calcium silicate, and was reported to promote differentiation of periodontal ligament stem cells into cementoblast-like cells (Berman et al, 2021). Silicone sealers show minimal calcium release and no antibacterial effect (Azim and Aksel, 2022). Sikri lists nano-silver in GuttaFlow (Sikri, 2019).
 
-### Generation 3: calcium silicate (bioceramic, hydraulic) sealers
-Tricalcium and dicalcium silicate cements derived from MTA chemistry. Set with water (tubular moisture), pH about 12, under 0.1% expansion, long set (about 165 min initial); radiopacifier changed from bismuth oxide to zirconia or tantalum oxide to avoid discolouration (Berman et al, 2021, via digest; calcium_silicate Q2). Camilleri's Types 3-5 classify the sealers (EndoSeal MTA, MTA Fillapex Type 3; BioRoot RCS Type 4; EndoSequence BC/iRoot SP, Well-Root ST, CeraSeal, AH Plus Bioceramic Sealer Type 5) (calcium_silicate Q2). Techniques: hydraulic single-cone, coneless/BioConeless (calcium_silicate Q2). The ESE guideline accepts the single-cone technique as equal to the established techniques (Peters, via digest). Cautions: MTA Fillapex differs chemically and showed genotoxicity; CeraSeal solubility exceeded the ISO 6876:2012 3% limit at 24 h; patency regained in only 20% of one retreatment study (calcium_silicate Q2).
+### 3. Calcium silicate (bioceramic, hydraulic) sealers
+Outgrowth of MTA; set with water to calcium silicate hydrate and Ca(OH)2, pH about 12; under 0.1% expansion; initial set about 165 min (Berman et al, 2021), final set 12-24 h (Azim and Aksel, 2022); radiopacifier changed from bismuth oxide to zirconia or tantalum oxide to avoid discolouration (Berman et al, 2021). Products: iRoot SP/EndoSequence BC, TotalFill BC and BC HiFlow (heat-tolerant flow for warm techniques), BioRoot RCS (calcium chloride liquid; high viscosity; avoid warm techniques), MTA Fillapex (13.2% MTA in a resin; lower biocompatibility), EndoSeal MTA, Endo CPM, NeoMTA Plus (tantalum oxide) (Azim and Aksel, 2022; Berman et al, 2021). Premixed, two-paste and powder-gel forms exist; two products disperse the powder in a nonreactive vehicle, which may detract from bioactivity (Berman et al, 2021). Camilleri's Types 3-5 classification places them in a hydraulic-cement continuum (calcium_silicate Q2). Techniques: single-cone hydraulic and coneless (calcium_silicate Q2). Evidence: no peer-reviewed human clinical studies at the time of Cohen's 12th ed.; in vitro and animal results similar or better than conventional sealers (Berman et al, 2021). Cautions: MTA Fillapex cytotoxic and genotoxic (Torabinejad, MTA, Ch.10); EndoSequence BC solubility higher than AH Plus (Azim and Aksel, 2022); CeraSeal solubility above ISO 6876 (Chopra, Bioceramics); retreatment difficulty debated (Jain, 2016 vs Berman et al, 2021).
+**Sikri's classification of bioceramic sealers:** calcium phosphate-based (Sankin Apatite, CapSeal), calcium silicate-based (iRoot SP, Biodentine), MTA-based (MTA Fillapex, Endo CPM, ProRoot Endo Sealer), and CEM cement (Sikri, 2019).
 
-### Generation 4: antimicrobial and bioactive modification
-- Antimicrobial effect from alkalinity and ion release of bioceramic sealers; varying antimicrobial efficacy and some cytotoxicity between products (Guruswamy Pandian et al, 2026).
-- Nanoparticles embedded in the sealer matrix to prevent premature release: silver nanoparticles with calcium hydroxide, MTA and Portland cement; quaternary ammonium polyethyleneimine and chitosan nanoparticles in resins (Guruswamy Pandian et al, 2026). Clinical evidence is still lacking.
-- Smart sealers (stimuli-responsive and expanding core materials, e.g. SmartSeal, hydrophilic polymer coating that expands on contact with water; limited evidence) (Gulabivala and Ng, via digest).
+### 4. Coated and bioactive cones
+Resin-coated (EndoREZ), glass-ionomer-coated (Activ GP) and bioceramic-nanoparticle-coated gutta-percha cones; used to form tertiary monoblocks (Jain, 2016; Azim and Aksel, 2022).
 
-### Handling and delivery advances
-Auto-mix syringes and NaviTip delivery for bubble-free placement (Pameijer and Zmener, 2010); catalyst-coated accessory cones ("harpooning") to speed setting and reduce sealer volume and shrinkage (Pameijer and Zmener, 2010); heat-stable bioceramic variants for warm techniques (calcium_silicate Q2).
+### 5. Antimicrobial and nanotechnology approaches
+Bioceramic alkalinity and ion release; silver, chitosan and quaternary-ammonium nanoparticles embedded in sealer matrix (Guruswamy Pandian et al, 2026); nanodiamond-embedded gutta-percha as future technology (Berman et al, 2021); calcium silicate sealers were developed with nanotechnology to reduce particle size and improve flow (Azim and Aksel, 2022). Clinical evidence is lacking.
+
+### 6. Delivery and handling
+Auto-mix syringes and fine tips (Pameijer and Zmener, 2010); catalyst-coated accessory cones; ultrasonics gave best sealer distribution when used circumferentially (Berman et al, 2021); heat-stable bioceramic variants (Azim and Aksel, 2022).
 
 ### Critical points
-Moisture control: resin sealers need dentin slightly moist; over-drying gives poor tags, over-wetting traps water; EDTA as final rinse and removal of NaOCl-derived oxygen avoid an oxygen-inhibited layer that weakens the bond (Pameijer and Zmener, 2010). Bioceramic sealers are less affected by moisture.
+Moisture: resin and bioceramic sealers adhered better when canals were left slightly moist (low vacuum 5 s then paper point 1 s), not flooded (Berman et al, 2021). Heat can alter setting time, flow and strength of some calcium silicate sealers (Azim and Aksel, 2022).
 
 ---
 
 ## CRITICAL EVIDENCE SYNTHESIS
-**Claim — recent sealers improve biological behaviour and handling, but evidence of better clinical outcomes is still limited.** Bioceramic sealers show alkalinity, bioactivity, low inflammation on extrusion and guideline acceptance (calcium_silicate Q2; Peters, via digest), whereas resin sealers did not reinforce roots (Grande et al; Pameijer and Zmener, 2010) and antimicrobial efficacy "remains a practical limitation" for many commercial bioceramic sealers (Drukteinis et al, cited in the project's smart-materials answer). INTERPRETATION: biological improvement is real; superiority of outcome is unproven and retreatability worsens. LIMITATION: laboratory predominance; outcome studies are short. [Likely]
+**Claim — recent sealers improve handling and biological behaviour, but better clinical outcomes are not yet shown.** Calcium silicate sealers show bioactivity and favourable laboratory and animal results (Berman et al, 2021; Azim and Aksel, 2022), but no human clinical studies existed at publication of Cohen's 12th ed.; resin sealers failed to reinforce roots and Resilon was withdrawn after poorer long-term outcome (Azim and Aksel, 2022). INTERPRETATION: biological improvement is real; superiority of outcome is unproven and retreatability may worsen. LIMITATION: laboratory predominance; products differ markedly within a class. [Likely]
 
 ---
 
@@ -49,52 +51,55 @@ Moisture control: resin sealers need dentin slightly moist; over-drying gives po
 **(Word count about 900; about 40 min)**
 
 ### Introduction
-Classic sealers (ZOE, calcium hydroxide, epoxy, glass ionomer) have limitations of solubility, shrinkage, toxicity and lack of adhesion. Recent sealers aim at bonding, bioactivity, and antimicrobial action.
+Classic sealers (ZOE, calcium hydroxide, epoxy, glass ionomer) have limitations of solubility, shrinkage, toxicity or poor adhesion. Recent sealers aim at bonding, bioactivity and antimicrobial action.
 
 ### Recent advances
-**1. Methacrylate-resin sealers and the monoblock concept**
-- EndoREZ (hydrophilic, dual-cure, self-priming; with resin-coated cones); RealSeal (Resilon core, UDMA/BisGMA sealer, self-etch primer).
-- Form a hybrid layer and tags in smear-layer-free, slightly moist dentin.
-- Limitations: moisture sensitivity, bonding to core, no root reinforcement, monomer toxicity.
+**1. Methacrylate-resin sealers (monoblock concept)**
+- Four generations (Cohen's): Hydron (obsolete), EndoREZ, Epiphany/Resilon with self-etch primer, MetaSEAL/RealSeal SE (self-adhesive). Sikri counts five.
+- Hydrophilic; hybrid layer and tags; need slightly moist dentin.
+- Limitations: no proven reinforcement; polymerisation shrinkage (resin-based sealers about 7.8%); more cytotoxic than AH Plus; Resilon withdrawn.
 
 **2. Silicone-based sealers**
-RoekoSeal, GuttaFlow: less cytotoxic in one study; limited long-term data.
+RoekoSeal; GuttaFlow (working time 15 min, set 25-30 min); GuttaFlow Bioseal (calcium silicate); biocompatible; no antibacterial effect.
 
 **3. Calcium silicate (bioceramic) sealers**
-- EndoSequence BC/iRoot SP, BioRoot RCS, MTA Fillapex, Well-Root ST.
-- Hydraulic set using tubular moisture; pH about 12; slight expansion; bond to dentin; osteoconductive.
-- Techniques: single-cone hydraulic, coneless.
-- Limitations: difficult retreatment; product variability (genotoxicity of MTA Fillapex); long set.
+- iRoot SP/EndoSequence BC, TotalFill BC, BC HiFlow, BioRoot RCS, MTA Fillapex, EndoSeal MTA, NeoMTA Plus.
+- Hydraulic set; pH about 12; under 0.1% expansion; set 165 min to 24 h.
+- Bioactive; sealing comparable to epoxy.
+- Limitations: solubility above AH Plus; difficult retreatment (debated); product variation; MTA Fillapex cytotoxic; no human clinical trials at time of writing.
 
-**4. Antimicrobial and nanoparticle sealers**
-Silver, chitosan and quaternary ammonium nanoparticles in the matrix; experimental.
+**4. Coated cones**
+Resin-, glass-ionomer- and bioceramic-coated gutta-percha (tertiary monoblock).
 
-**5. Smart/expanding core-sealer systems**
-Hydrophilic polymer-coated cores that expand with water (SmartSeal); evidence limited.
+**5. Nanotechnology and antimicrobial sealers**
+Silver, chitosan, quaternary-ammonium nanoparticles; nanodiamond gutta-percha; experimental.
 
-**6. Delivery advances**
-Auto-mix syringes, fine tips, catalyst-coated accessory cones, heat-stable bioceramics.
+**6. Smart/expanding materials**
+Hydrophilic polymer-coated cores that expand with water; limited evidence.
+
+**7. Delivery**
+Auto-mix syringes, ultrasonic placement, heat-stable bioceramics.
 
 ### Comparison with conventional sealers
-| Feature | Conventional ZOE/epoxy | Resin | Bioceramic |
+| Feature | ZOE/epoxy | Resin | Bioceramic |
 |---|---|---|---|
-| Bond to dentin | Mechanical | Hybrid layer | Chemical/biomineral |
-| Moisture | Dry canal | Slightly moist | Moisture used |
+| Bond | Mechanical | Hybrid layer | Chemical |
+| Moisture | Dry canal | Slightly moist | Uses moisture |
 | Bioactivity | None | None | Yes |
-| Retreatment | Easy | Moderate | Difficult |
+| Retreatment | Easy | Moderate | Debated/difficult |
 | Evidence | Long | Medium | Growing |
 
 ### Conclusion
-Recent sealers move from passive space fillers toward bonded and bioactive materials; laboratory and short-term results are promising, but long-term clinical superiority is not yet established.
+Recent sealers move from passive space-fillers towards bonded and bioactive materials; laboratory results are promising, but clinical superiority is not established.
 
 ---
 
 ## HIGH-YIELD POINTS
-- Four generations of methacrylate sealers; Hydron obsolete.
-- Camilleri Type 3-5 for hydraulic sealers.
-- CeraSeal solubility above ISO 6876 3% limit (24 h).
-- Bioceramic: pH about 12, under 0.1% expansion, 165 min set.
-- Retreatment patency 20% with bioceramic sealer in one study.
+- Four generations (Cohen's, Jain) versus five (Sikri).
+- Resilon withdrawn about 2014.
+- Bioceramic: pH about 12, under 0.1% expansion, 165 min initial set.
+- BioRoot RCS: avoid warm techniques; BC HiFlow for warm techniques.
+- MTA Fillapex: 13.2% MTA, cytotoxic.
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: timeline ZOE → epoxy → resin → silicone → bioceramic → nano/smart | 3 min]
@@ -105,15 +110,13 @@ Recent sealers move from passive space fillers toward bonded and bioactive mater
 3. Omitting the moisture-control point.
 
 ## MNEMONIC
-**"R-S-B-N-S"**: Resin, Silicone, Bioceramic, Nanoparticle, Smart.
+**"R-S-B-C-N"**: Resin, Silicone, Bioceramic, Coated cones, Nano.
 
 ## SOURCE LIST
 **[SRC]**
-- Pameijer CH, Zmener O. Dent Clin North Am. 2010;54:325-344; Gatewood RS. 2007;51:695-712; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am).
-- Study-material digest `SubModule_4.5` (Berman et al 2021; Jain; Gulabivala and Ng; Peters, ed.).
-- Project answers `calcium_silicate/Q02`, `smart_materials/` (Endo 100m).
+- Berman et al (2021) Ch.9; Gopikrishna (2021) Ch.16; Sikri (2019) Ch.19; Jain (2016) Ch.5; Siqueira and Rôças (2022) Ch.15; Torabinejad, MTA, Ch.10; Chopra, *Bioceramics in Endodontics*.
+- Pameijer and Zmener (2010); Gatewood (2007); Guruswamy Pandian et al (2026).
+- Project answers `calcium_silicate/Q02`, `smart_materials/`.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- Silicone sealer content (RoekoSeal, GuttaFlow): not in the sources read beyond a cytotoxicity mention; add from Ingle's or Cohen's.
-- Cohen's Ch.9 pp.1096-1101 (four resin generations, bioceramic sealer figures); Gulabivala and Ng p.234 (SmartSeal).
-- Nanoparticle-sealer claims rest on the 2026 DCNA review; verify primary studies.
+## TEXTBOOK AUDIT APPLIED (2026-10-16)
+Opened directly: Cohen's Ch.9, Grossman's Ch.16, Sikri Ch.19, Jain Ch.5, Azim and Aksel Ch.15, Torabinejad Ch.10, Chopra. **Corrected:** methacrylate generations are four in Cohen's and Jain but five in Sikri (previously "four" without the conflict); silicone sealer content added from Cohen's (previously flagged thin); Resilon withdrawal and the failure data added; final-set time conflict recorded (under 6 h vs 12-24 h); MTA Fillapex 13.2% MTA; "no human clinical studies" from Cohen's 12th ed. **Pending:** current clinical data on bioceramic sealers (post-2021), the smart-sealer claims (cited only through the project's smart-materials answer).

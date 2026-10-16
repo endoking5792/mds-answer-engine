@@ -5,7 +5,7 @@
 ---
 
 ## RETRIEVAL REPORT
-Gatewood (2007); Pameijer and Zmener (2010); Guruswamy Pandian et al (2026) [SRC]; study-material `SubModule_4.5` (Berman et al 2021, as digested) [SRC, second-hand]; `calcium_silicate/Q02` [SRC, repo]. Textbooks not opened.
+**Primary textbooks opened directly (2026-10-16)**: Cohen's 12th ed. Ch.9 (Berman et al, 2021); Grossman's 14th ed. Ch.16 (Gopikrishna, 2021); Sikri 2nd ed. Ch.19 (Sikri, 2019); Jain (2016) Ch.5; Azim and Aksel, *Treatment of Endodontic Infections* 2nd ed. Ch.15 (2022) [SRC]. Gatewood (2007); Pameijer and Zmener (2010); Guruswamy Pandian et al (2026); `calcium_silicate/Q02` [SRC].
 
 ---
 
@@ -17,11 +17,11 @@ Gatewood (2007); Pameijer and Zmener (2010); Guruswamy Pandian et al (2026) [SRC
 | Examples | Pulp Canal Sealer, Tubli-Seal | Sealapex, Apexit | Ketac-Endo, Activ GP | AH-26, AH Plus | EndoREZ, Epiphany | EndoSequence BC, iRoot SP, BioRoot RCS |
 | Setting | Zinc eugenolate; slow, faster in the mouth | Chemical set in resin or ZOE base | Acid-base | Epoxy-amine | Dual-cure polymerisation | Hydraulic, uses moisture; long set |
 | Bond | Adaptation only | Adaptation | Chemical to dentin | Adhesion to dentin, none to GP | Hybrid layer and tags | Chemical/biomineral to dentin |
-| Solubility, shrinkage | Shrinks, soluble | Soluble to act | Low | Low | Shrinks on polymerising | Slight expansion |
-| Antimicrobial | Yes (eugenol, zinc) | Limited | Limited | Little | Little | Alkaline, sustained; product variation |
-| Biocompatibility | Free eugenol cytotoxic unset; safe record | Intended biological effect unproven | Good | Toxic unset, low at 24 h | Early mild irritation then healing | Good; MTA Fillapex genotoxic |
+| Solubility, shrinkage | Shrinks (0.3-1%), soluble | Soluble to act | Low | Low; resin sealers shrink about 7.81% | Shrinks on polymerising; C-factor about 1,000 | Under 0.1% expansion; solubility above AH Plus |
+| Antimicrobial | Yes (eugenol, zinc) | Limited | Limited | Some (AH Plus listed as antibacterial; Azim and Aksel) | Little | Alkaline, sustained up to 7 days; product variation |
+| Biocompatibility | Free eugenol cytotoxic unset; safe record | Intended biological effect not demonstrated | Good | Toxic unset, low at 24 h | Higher cytotoxicity than AH Plus | Grossman's: most biocompatible; Cohen's: BC sealer 5 vs 3 weeks to non-cytotoxic; MTA Fillapex cytotoxic and genotoxic |
 | Moisture | Dry canal | Dry | Needs conditioning | Dry | Slightly moist | Uses tubular moisture |
-| Retreatment | Solvents, heat | Solvents | Hard | Moderate | Chloroform, heat | Hardest |
+| Retreatment | Solvents, heat | Solvents | Hard; solvents ineffective | Moderate | Chloroform, heat; Resilon removable | Debated: "no worse than epoxy" (Cohen's) vs 20% patency (Jain), "most difficult" (Sikri) |
 | Evidence | Longest | Weak | Moderate | Long | Medium | Growing |
 (Gatewood, 2007; Pameijer and Zmener, 2010; Berman et al, 2021, via digest; Guruswamy Pandian et al, 2026; calcium_silicate Q2.)
 
@@ -47,7 +47,7 @@ Six classes of sealers are in use; each trades sealing, biocompatibility and ret
 | Antibacterial | Yes | Limited | Limited | Little | Little | Alkaline |
 | Toxicity | Fresh high | Low | Low | Fresh high | Mild | Low |
 | Moisture | Dry | Dry | Condition | Dry | Slightly moist | Moist |
-| Retreatment | Easy | Easy | Hard | Moderate | Moderate | Hardest |
+| Retreatment | Easy | Easy | Hard | Moderate | Moderate | Debated (hard) |
 
 ### Selection
 ZOE/epoxy routine; bioceramic hydraulic and open apex; resin for bonded monoblock; GIC niche.
@@ -59,7 +59,7 @@ No class is proven superior; choose by moisture control, extrusion risk and need
 
 ## HIGH-YIELD POINTS
 - No RCT superiority; sealer matters more than core.
-- Retreatment hardest: bioceramic and GIC.
+- Retreatment hardest: GIC; bioceramic debated across textbooks.
 - Moisture: resin slightly moist; ZOE dry; bioceramic uses it.
 
 ## MNEMONIC
@@ -68,6 +68,5 @@ No class is proven superior; choose by moisture control, extrusion risk and need
 ## SOURCE LIST
 **[SRC]** Gatewood RS. 2007;51:695-712; Pameijer CH, Zmener O. 2010;54:325-344; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am); digest `SubModule_4.5`; `calcium_silicate/Q02`.
 
-## TEXTBOOK AUDIT PENDING (for Niranjan)
-- The matrix cells for setting chemistry of calcium hydroxide and epoxy sealers are standard teaching not directly sourced (Ingle's, Cohen's Ch.9).
-- Evidence rows rely on the digest.
+## TEXTBOOK AUDIT APPLIED (2026-10-16)
+Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel. **Corrected:** bioceramic retreatability and biocompatibility cells now show the textbook disagreement (Cohen's vs Jain vs Sikri; Grossman's vs Cohen's); epoxy antimicrobial cell; shrinkage and C-factor values; setting chemistry confirmed (Cohen's Table 9.1 and Ch.9 text). **Pending:** none beyond the primary studies cited in the textbooks.
