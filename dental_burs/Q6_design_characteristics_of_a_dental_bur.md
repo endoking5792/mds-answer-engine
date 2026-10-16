@@ -6,13 +6,15 @@
 ## Retrieval Report — AUDITED 2026-10-16
 Originally built lean-mode, [RECALL]-only. **Audited against Marzouk's *Operative Dentistry* (OCR full text), Sturdevant's Ch.7 (freshly extracted pp.196-205/PDF pp.204-223), and Summitt's Ch.7 (freshly extracted, PDF pp.368-371)**. This audit corrected the same rake-angle geometric error identified in this topic's Q1 and Q5, added a third design angle (edge angle) the original draft omitted, and replaced vague numbering/grading claims with real quantified data.
 
+**Second pass, against 4 primary-literature journal articles the user supplied** (Siegel & von Fraunhofer's JADA 1996/1998/2000 cutting-efficiency studies; Erlinger et al.'s 2025 EJPRD coating study — full citations in this topic's Q2 Source List). Added real manufacturing-process detail (electroplating stages, sintering/microbrazing alternatives) and single-patient-use/disposable burs as a genuine fifth design consideration this answer previously omitted entirely.
+
 ## STUDY MODE
 
 A dental bur's design can be analysed under four characteristic headings: **structure (parts), material, head geometry, and blade/edge design.**
 
 **1. Structural parts.** Shank, Neck, Head — "Burs have three major parts: the head, the neck, and the shank" (Summitt's, PDF p.369). The head is the cutting portion; "the cutting action is produced by blades on the head, and the blades are produced by cuts made into the head" (Summitt's, PDF p.369). [SRC] The shank engages the handpiece — straight, latch-type (low/medium speed), or friction-grip/FG (high-speed air turbine) — and "the high-speed handpiece will receive only the friction-grip bur" (Summitt's, PDF p.368). [SRC]
 
-**2. Material.** Carbon steel → stainless steel → tungsten carbide → diamond, ascending durability. **Tungsten carbide became available in 1947 and is "the most significant advancement, which has made present-day high-speed cutting possible"** (Summitt's, PDF p.369) [SRC] — hand-rotated dental instruments date back to the early 1700s, with the foot engine introduced in 1871 and the electric engine in 1872 (Summitt's, PDF p.369). [SRC] Diamond burs are grit (natural or synthetic, crushed and graded) bonded to a steel blank, normally by electroplating (Sturdevant's, p.198 [PDF p.216]). [SRC]
+**2. Material.** Carbon steel → stainless steel → tungsten carbide → diamond, ascending durability. **Tungsten carbide became available in 1947 and is "the most significant advancement, which has made present-day high-speed cutting possible"** (Summitt's, PDF p.369) [SRC] — hand-rotated dental instruments date back to the early 1700s, with the foot engine introduced in 1871 and the electric engine in 1872 (Summitt's, PDF p.369). [SRC] Diamond burs are grit (natural or synthetic, crushed and graded) bonded to a steel blank, normally by electroplating (Sturdevant's, p.198 [PDF p.216]). [SRC] **Real process detail (new):** electroplating is a staged electrodeposition process (inert shank coating → nickel strike-plate → bulk nickel-sulfamate bath co-depositing diamond chips, ideally covering only 50-60% of each chip to leave cutting facets exposed → optional build-up bath); sintering (pressed/fused diamond+metal-alloy powder) and microbrazing are real, more expensive alternatives claimed to extend service life; most manufacturers prefer natural diamond over synthetic since its irregular shape keys more easily into the matrix (Siegel & von Fraunhofer, *JADA* 1998;129:742-744). [SRC]
 
 **3. Head geometry (shape).** Chosen to produce a specific cavity/preparation form. **Summitt's names five basic bur-head shapes** for tooth preparation, stating most other named shapes are modifications of these five — lengthened heads and rounded ends/corners being the primary modification types (PDF p.371). [SRC] The broader, commonly-taught list of named shapes (round, inverted cone, pear, straight/tapered fissure, wheel, flame, end-cutting) enumerates individual modifications built from these five foundational forms — both framings are correct at their own level of detail, a genuine point worth stating rather than collapsing into one list. [SRC] [RECALL]
 
@@ -30,6 +32,7 @@ A dental bur's design can be analysed under four characteristic headings: **stru
 - **Concentricity/balance** — an eccentrically manufactured bur vibrates at speed; vibration itself becomes measurable from around 6,000 rpm and increases with rpm (Marzouk, p.74 [PDF p.78]). [SRC]
 - **Autoclavability** — carbide and (most) diamond designs withstand repeated steam sterilization; carbon steel corrodes if not dried after sterilization (Pickard's, p.67 [PDF p.77]). [SRC]
 - **Self-limiting/safety-tip design** — plastic (PKK/polyketone-ketone) burs, deliberately softer than sound dentin but harder than carious dentin, blunt on contact with sound tissue rather than continuing to cut (Pickard's, p.67, p.69 [PDF p.77, p.79]) — see this topic's Q3 for detail. [SRC]
+- **Single-patient-use (disposable) design (new)** — a genuine, cross-infection-driven design variant of the conventional diamond bur: electroplated with a thinner metal layer and fewer diamond-containing layers (manufactured in 20-30 minutes vs 60-90 for conventional multiuse), inspected on a random-sample rather than up-to-four-times basis, yet showing cutting efficiency comparable to conventional burs for medium grit in controlled testing, at roughly a quarter to a third of the per-bur cost (Siegel & von Fraunhofer, *JADA* 1998;129:744-745; *JADA* 1996;127:763-771). [SRC]
 
 ## EXAM MODE
 *(Estimated writing time: ~16 minutes)*
@@ -48,7 +51,9 @@ A dental bur's design can be analysed under four characteristic headings: **stru
 
 **V. Numbering:** SS White's original 9-shape system (historical) → ANSI/ADA dual US/ISO numbering (ISO = diameter in 0.1mm units).
 
-**VI. Additional design features:** concentricity/balance (vibration from ~6,000 rpm upward), autoclavability, self-limiting plastic (PKK) burs.
+**VI. Additional design features:** concentricity/balance (vibration from ~6,000 rpm upward), autoclavability, self-limiting plastic (PKK) burs, single-patient-use/disposable diamond burs (CE comparable to conventional for medium grit, at a fraction of the cost).
+
+**VII. Manufacturing process (new):** diamond burs — electroplating (staged electrodeposition, ideal 50-60% chip coverage) is the default; sintering/microbrazing are real, pricier alternatives; natural diamond generally preferred over synthetic for easier matrix retention.
 
 [DIAGRAM: Fully labelled bur (shank/neck/head) with a blade cross-section inset showing all THREE angles — rake, edge, clearance — relative to the radial line | Earns marks for the complete, corrected three-angle design framework]
 
@@ -59,6 +64,8 @@ A dental bur's design can be analysed under four characteristic headings: **stru
 - Head shape: 5 basic forms (Summitt's) underlying the longer commonly-taught list of named shapes.
 - Numbering: historical SS White 9-shape system → modern ANSI/ADA dual US/ISO (diameter-based) coding.
 - Diamond grit is quantified by real µm sieve sizes, not just colour.
+- Diamond manufacturing: electroplating (staged electrodeposition) is default; sintering/microbrazing are real alternatives; natural diamond generally preferred to synthetic.
+- Disposable (single-patient-use) diamond burs are a genuine fifth design variant, comparable in cutting efficiency to conventional multiuse burs for medium grit at a fraction of the cost.
 
 ## DIAGRAMS TO DRAW
 - Fully labelled bur with a three-angle blade cross-section inset (rake/edge/clearance).
@@ -77,3 +84,5 @@ A dental bur's design can be analysed under four characteristic headings: **stru
 - [SRC] Sturdevant's Art and Science of Operative Dentistry, 2nd South Asian ed., Ch.7 — three-angle design framework, carbide edge-angle specifics, diamond electroplating/grit grading (p.197-199 [PDF p.215-217]).
 - [SRC] Summitt's Fundamentals of Operative Dentistry, Ch.7 — bur-part structure, 1947 tungsten-carbide history, foot/electric-engine history, 5 basic head shapes, SS White numbering history, ANSI/ADA US/ISO dual numbering, cross-cut-not-beneficial correction (PDF pp.369-371).
 - [SRC] Pickard's Manual of Operative Dentistry, 9th ed., §5.8 — carbon-steel corrosion/autoclavability, self-limiting PKK plastic bur design (p.67, p.69 [PDF p.77, p.79]).
+- [SRC] Siegel SC, von Fraunhofer JA. Dental cutting: the historical development of diamond burs. *J Am Dent Assoc* 1998;129(6):740-745. — electrodeposition stages, sintering/microbrazing alternatives, natural-vs-synthetic diamond preference, disposable-bur manufacturing differences (pp.742-745).
+- [SRC] Siegel SC, von Fraunhofer JA. Assessing the cutting efficiency of dental diamond burs. *J Am Dent Assoc* 1996;127(6):763-772. — disposable-vs-conventional medium-grit CE equivalence and cost comparison.
