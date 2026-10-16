@@ -35,7 +35,7 @@ Beta-phase gutta-percha is heated to the alpha phase, becomes tacky and flowable
 Endotec (heated spreader up to 350 °C, ZAP and TAP method for C-shaped canals), DownPak/EndoTwinn (heat plus ultrasonic vibration), Thermapact (42 °C for warm lateral, about 59 °C for warm vertical per Sikri, 2019). More gutta-percha and less sealer than cold lateral compaction; the tips heat but do not compact (Sikri, 2019).
 
 ### 3. Injectable (extraradicular) thermoplasticised gutta-percha
-- **Obtura II/III:** gutta-percha pellets heated in a gun to about 160-200 °C (Sikri, 2019; Berman et al, 2021 give 160 °C for Obtura II); 20 or 23 gauge needle placed 3-5 mm from the apical preparation (Sikri, 2019); Ingle's advises 4-6 mm from the end of the preparation; passive injection avoiding apical pressure, compaction during cooling (Rotstein and Ingle, 2019).
+- **Obtura II/III:** unit adjustable about 160-200 °C (Sikri, 2019); Cohen's 160 °C is the commonly cited default setting within that range, not a conflicting figure (Berman et al, 2021). The extruded gutta-percha itself is cooler at the needle tip, about 62-65 °C (Sikri, 2019). 20 or 23 gauge needle placed 3-5 mm from the apical preparation (Sikri, 2019); Ingle's advises 4-6 mm from the end of the preparation; passive injection avoiding apical pressure, compaction during cooling (Rotstein and Ingle, 2019).
 - **Ultrafil (3D):** low-temperature alpha-phase gutta-percha in cannulas, heated about 70-90 °C (Sikri, 2019; 90 °C in Berman et al, 2021); three viscosities (regular, firm set, endoset); working time about 60-70 s; cannot be compacted well and may shrink (Sikri, 2019).
 - **Calamus Dual 3D:** Pack handpiece (heat plugger for down-pack) and Flow handpiece (cartridge and bendable cannula for back-fill); gutta-percha dispensed at about 38-44 °C and flows for 45-60 s (Sikri, 2019).
 - **PAC-160:** temperature maintained at 160 °C (Sikri, 2019). Also HotShot, Elements (Berman et al, 2021).
@@ -84,7 +84,7 @@ Heating converts beta gutta-percha to the tacky, flowable alpha phase (transitio
 Schilder's technique used three pluggers and repeated heat waves, packing in 3-4 mm increments until the apical 4-5 mm is sealed, and back-packing with 5 mm segments. Buchanan's continuous wave simplified it: a tapered cone and tapered pluggers, a System B plugger at about 200 °C advanced to 3-4 mm from the binding point, apical pressure held for 5-10 s, and back-fill with injected gutta-percha. It gives a dense, homogeneous fill and is the most used technique among specialists, but it is difficult and time consuming, needs a tapered preparation, and carries the risk of vertical root fracture, extrusion and heat.
 
 ### Injectable gutta-percha
-Obtura II and III heat pellets to about 160-200 °C in a gun and inject through a 20 or 23 gauge needle placed 3-6 mm from the apical preparation; injection is passive and the mass is compacted as it cools. Ultrafil uses low-fusing gutta-percha at about 70-90 °C in three viscosities; Calamus Dual 3D has a Pack handpiece for down-packing and a Flow handpiece for back-fill.
+Obtura II and III are adjustable about 160-200 °C (160 °C a common setting) and inject through a 20 or 23 gauge needle placed 3-6 mm from the apical preparation; injection is passive and the mass is compacted as it cools. Ultrafil uses low-fusing gutta-percha at about 70-90 °C in three viscosities; Calamus Dual 3D has a Pack handpiece for down-packing and a Flow handpiece for back-fill.
 
 ### Warm lateral compaction
 Endotec (heated spreader up to 350 °C, ZAP and TAP method for C-shaped canals), DownPak/EndoTwinn (heat plus ultrasonic vibration) and Thermapact give more gutta-percha and less sealer than cold lateral compaction.
@@ -144,5 +144,5 @@ Thermoplasticised techniques give a denser fill in complex anatomy but depend on
 ## SOURCE LIST
 **[SRC]** Sikri 2019 Ch.20; Rotstein and Ingle 2019 Ch.22; Gopikrishna 2021 Ch.16; Berman et al 2021 Ch.9; Siqueira and Rôças 2022 Ch.15; Torabinejad et al, *Endodontics: Principles and Practice* Ch.15; Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Contradictions kept side by side:** injection temperature (Obtura 160 °C in Cohen's vs 160-200 °C in Sikri vs up to 200 °C in Grossman's); needle position 3-5 mm (Sikri, Grossman's) vs 4-6 mm (Ingle's); Thermapact temperatures only in Sikri. **Pending:** Toronto study data are cited second-hand; Harty's technique sections were not read in full.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan contradiction review 2026-10-16)
+Read directly. **Resolved (contradiction review):** Obtura injection temperature — not a true conflict. Sikri's 160-200 °C is the unit's full adjustable range (verified in text); Cohen's 160 °C is the commonly cited default setting within it; the extruded gutta-percha itself is cooler, about 62-65 °C at the needle tip (Sikri). **Kept side by side:** needle position 3-5 mm (Sikri, Grossman's) vs 4-6 mm (Ingle's); Thermapact temperatures only in Sikri. **Pending:** Toronto study data are cited second-hand; Harty's technique sections were not read in full.

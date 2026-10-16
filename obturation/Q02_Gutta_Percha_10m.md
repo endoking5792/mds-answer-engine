@@ -27,8 +27,8 @@ Zinc oxide is the filler and also confers weak bacteriostatic activity; barium s
 
 ### Crystalline phases
 - **Beta (β):** commercial form at room temperature; solid, compactable, elongatable, brittle with age, does not stick (Weine; Sikri, 2019; Gopikrishna, 2021).
-- **Alpha (α):** tacky, flowable under pressure. Transition temperature is stated differently: β to α at 42-49 °C (Weine; Sikri, 2019; Torabinejad et al); to α at about 70 °C (Azim and Aksel, 2022); melts above 65 °C (Berman et al, 2021; Gopikrishna, 2021).
-- **Third phase:** gamma at 56-62 °C (Weine); amorphous above 53-59 °C (Torabinejad et al). Properties poorly known.
+- **Alpha (α):** tacky, flowable under pressure. **Beta-to-alpha transition: 42-49 °C is the preferred figure** — three sources agree exactly (Weine; Sikri, 2019; Torabinejad et al), checked word for word against print, 2026-10-16. Azim and Aksel (2022) give a single outlier figure, about 70 °C, with no range; Cohen's and Grossman's describe no distinct transition point at all, just alpha melting above 65 °C (which may describe the alpha-to-liquid melt rather than the beta-to-alpha solid transition).
+- **Third phase:** gamma at 56-62 °C (Weine) or amorphous above 53-59 °C (Torabinejad et al) — two sources agree this phase exists just above the beta-to-alpha range, though they name and bound it slightly differently; Weine's own text admits its properties "are not well known." Keep both figures, treat the phase's existence (not its exact bounds) as the more solid claim.
 - Cooled slowly, alpha recrystallises; routine cooling gives beta (Berman et al, 2021). Alpha shrinks on cooling, so thermoplastic techniques need compaction during cooling (Rotstein and Ingle, 2019). Alpha-phase points suit thermoplastic techniques, beta-phase suits lateral condensation (Gopikrishna, 2021).
 
 ### Forms
@@ -62,8 +62,8 @@ Other books give slightly different ranges (Sikri 59-67% zinc oxide; Azim and Ak
 
 ### Phases
 - **Beta phase:** commercial cones at room temperature; solid, compactable and elongatable, brittle when aged, non-adhesive; does not shrink.
-- **Alpha phase:** produced by heating (the transition is placed at about 42-49 °C in Weine and Sikri, about 70 °C in Azim and Aksel, and above 65 °C in Cohen's and Grossman's); tacky, flowable under pressure; shrinks as it cools, so compaction must continue during cooling.
-- **Gamma/amorphous:** at higher temperatures (56-62 °C in Weine); properties poorly known.
+- **Alpha phase:** produced by heating, **42-49 °C** (three sources agree: Weine, Sikri, Torabinejad et al; Azim and Aksel's 70 °C is an outlier). Tacky, flowable under pressure; shrinks as it cools, so compaction must continue during cooling.
+- **Gamma/amorphous:** a further phase around 56-62 °C (Weine) or 53-59 °C (Torabinejad et al); properties poorly known.
 Alpha-phase gutta-percha is used in thermoplastic techniques, beta-phase in lateral condensation.
 
 ### Forms
@@ -106,5 +106,5 @@ Gutta-percha remains the core material of choice because of its plasticity and i
 ## SOURCE LIST
 **[SRC]** Sikri 2019 Ch.20; Rotstein and Ingle 2019 Ch.22; Berman et al 2021 Ch.9; Gopikrishna 2021 Ch.16; Siqueira and Rôças 2022 Ch.15; Weine's Endodontic Therapy Ch.7; Torabinejad et al, *Endodontics: Principles and Practice* Ch.15; Walton and Torabinejad 2002 Part 14.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Contradictions kept side by side:** composition ranges (four books); beta-to-alpha at 42-49 °C vs about 70 °C vs melts above 65 °C; third phase gamma 56-62 °C (Weine) vs amorphous 53-59 °C (Torabinejad et al). **Resolved (Niranjan spot-check, 2026-10-16):** Torabinejad et al, *Endodontics: Principles and Practice* = Torabinejad M, Fouad AF, Shabahang S, 6th ed., Elsevier, 2021; Weine = Weine FS, *Endodontic Therapy*, 6th ed., Mosby, 2004 (as assumed). **Pending:** the primary phase-transition studies (Schilder et al, cited in Ingle's).
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan contradiction review 2026-10-16)
+Read directly. **Resolved (contradiction review):** beta-to-alpha transition — 42-49 °C is the preferred figure, confirmed word for word in three sources (Weine, Sikri, Torabinejad et al); Azim and Aksel's ~70 °C is a single-source outlier; Cohen's/Grossman's describe no transition point, only alpha melting above 65 °C. Third phase (gamma/amorphous, 53-62 °C) kept side by side — two sources agree it exists just above the beta-to-alpha range but name and bound it slightly differently, and Weine's own text calls its properties "not well known." Torabinejad et al, *Endodontics: Principles and Practice* = Torabinejad M, Fouad AF, Shabahang S, 6th ed., Elsevier, 2021; Weine = Weine FS, *Endodontic Therapy*, 6th ed., Mosby, 2004 (as assumed) — confirmed. **Flag for a separate word-count pass:** this file's Exam Mode measures over 400 words by a strict words-in-section count (pre-existing, not introduced by this edit), while the heading still states 398; needs re-measuring against the project's counting convention. **Pending:** the primary phase-transition studies (Schilder et al, cited in Ingle's).

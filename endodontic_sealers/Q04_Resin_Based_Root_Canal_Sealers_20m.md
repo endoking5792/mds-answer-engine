@@ -67,7 +67,7 @@ Gutta-percha does not bond to dentin, nor to zinc oxide-eugenol or epoxy sealers
 | Second | EndoREZ | Non-etching, hydrophilic, dual-cure (diurethane dimethacrylate with triethyleneglycol dimethacrylate); resin tags; used with resin-coated gutta-percha |
 | Third | Epiphany / RealSeal with Resilon | Self-etching primer plus dual-cure resin sealer; primer incorporates the smear layer |
 | Fourth | MetaSEAL, RealSeal SE | Self-adhesive; no separate primer |
-Sikri counts five generations by adding ADSeal and Dia-ProSeal (epoxy-based) as the fifth.
+Sikri counts five generations by adding ADSeal and Dia-ProSeal as the fifth, calling them "an improved version of the fourth generation technology" — but Sikri's own composition table lists Paste A of both as **epoxy resin**, not a methacrylate (verified directly against the printed table, 2026-10-16). Preferred exam line: **four generations** (Cohen's, 2021; Jain, 2016) is the classification to use; ADSeal/Dia-ProSeal are better described as epoxy-resin sealers (alongside AH Plus) that Sikri places, apparently by error, in its methacrylate section.
 
 ### Bonding conditions
 Remove the smear layer with 17-19% EDTA or dilute citric acid. Leave the dentin slightly moist (low vacuum for about 5 s then a paper point for about 1 s); over-drying gives poor tags and flooding traps water. Flush EDTA after NaOCl because residual oxygen forms an oxygen-inhibited layer; push-out strength of EndoREZ was about 1.33 MPa after a final NaOCl rinse against about 8 MPa after EDTA [LIT: Pameijer and Zmener, 2010].
@@ -111,7 +111,7 @@ Resin sealers add adhesion to obturation, but benefit depends on moisture contro
 
 ## HIGH-YIELD POINTS
 - Gutta-percha does not bond to ZOE or epoxy sealers.
-- Four generations (Cohen's, Jain) vs five (Sikri).
+- Four generations (Cohen's, Jain) preferred; Sikri's "fifth" (ADSeal, Dia-ProSeal) is epoxy resin by composition.
 - EndoREZ: UDMA + TEGDMA; bonds dentin, not plain gutta-percha.
 - Final rinse EDTA; slightly moist dentin; oxygen-inhibited layer.
 - Resin sealer shrinks about 7.81%; C-factor 1,000 vs 5.
@@ -142,5 +142,5 @@ Additional textbooks read after the first pass; additions and conflicts only (no
 - Pameijer and Zmener (2010); Gatewood (2007) (Dent Clin North Am).
 - Second-pass sources: Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; 2017. Ch.9; Jain PR, ed. *Common Complications in Endodontics: Prevention and Management*. 2nd ed. Springer; 2025. Ch.6; Chugal N, Lin LM, eds. *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*. Springer; 2017. Ch.9; *Problem Solving in Endodontics* Ch.12; Walton RE, Torabinejad M. *Principles and Practice of Endodontics*. 3rd ed. W.B. Saunders; 2002. Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors/years confirmed 2026-10-16 for Harty's, Common Complications, Endodontic Prognosis and Walton and Torabinejad; still pending for Problem Solving in Endodontics, Applied Dental Materials and Bioceramics in Endodontics.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
-Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel, Weine. **Corrected or added:** four versus five generations recorded; AH-26 formaldehyde confirmed (Weine, Cohen's); TEGDMA in EndoREZ confirmed; shrinkage 7.81% and C-factor 1,000 vs 5 added; moisture protocol 5 s and 1 s; 10-year EndoREZ data added. **Pending:** original clinical studies (Zmener and Pameijer; Debelian and Barnett); cure times for Epiphany (Gatewood 15-30 min vs other sources 45 min) not reconciled.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied; Niranjan contradiction review 2026-10-16)
+Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel, Weine. **Corrected or added:** four versus five generations recorded; AH-26 formaldehyde confirmed (Weine, Cohen's); TEGDMA in EndoREZ confirmed; shrinkage 7.81% and C-factor 1,000 vs 5 added; moisture protocol 5 s and 1 s; 10-year EndoREZ data added. **Resolved (contradiction review):** checked Sikri's own composition table for ADSeal/Dia-ProSeal directly — Paste A of both is epoxy resin, not methacrylate; four generations is the preferred exam line, Sikri's fifth flagged as a likely misclassification. **Pending:** original clinical studies (Zmener and Pameijer; Debelian and Barnett); cure times for Epiphany (Gatewood 15-30 min vs other sources 45 min) — kept side by side, no basis to prefer either.

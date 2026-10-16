@@ -21,7 +21,7 @@ Gutta-percha is thermolabile and cannot be heat sterilised (Sikri, 2019; Gopikri
 |---|---|
 | **5.25% NaOCl, 1 min** | Standard method; also killed *Bacillus subtilis* spores in the study cited by Cohen's (Berman et al, 2021; Sikri, 2019; Gopikrishna, 2021). Ingle's: 5-6% NaOCl for 60 s eliminates Gram-positive and Gram-negative bacteria and even *B. subtilis* spores (Rotstein and Ingle, 2019). Lower concentrations have also been tried but higher is preferred (Sikri, 2019). |
 | **Rinse after NaOCl** | Hydrogen peroxide or ethyl alcohol (Sikri, 2019) to remove NaOCl crystals. |
-| **2% chlorhexidine** | **Conflict:** effective within 5 min (Sikri, 2019) vs not effective against *B. subtilis* spores (Berman et al, 2021). |
+| **2% chlorhexidine** | Not a true conflict (Niranjan, 2026-10-16): effective within 5 min (Sikri, 2019) against vegetative organisms, but not effective against *B. subtilis* spores specifically (Berman et al, 2021) — compatible claims about different microbial targets, not a disagreement. |
 | **2% glutaraldehyde, 70% ethyl alcohol** | Not effective against *B. subtilis* spores (Berman et al, 2021). |
 | **10% polyvinylpyrrolidone-iodine** | Effective in 30 s to 1 min (Sikri, 2019). |
 | **Paraformaldehyde vapour** | Effective in 1 h (Sikri, 2019). |
@@ -50,7 +50,7 @@ Gutta-percha is thermolabile and softens with heat, so it cannot be sterilised b
 |---|---|---|
 | **5.25% sodium hypochlorite** | 1 min | The standard method; also killed *Bacillus subtilis* spores in the study cited by Cohen's; Ingle's gives 5-6% for 60 s, eliminating Gram-positive and Gram-negative organisms and spores |
 | Rinse after NaOCl | | Hydrogen peroxide or ethyl alcohol to remove hypochlorite |
-| **2% chlorhexidine** | 5 min | Effective in Sikri; **not effective against *B. subtilis* spores in Cohen's** |
+| **2% chlorhexidine** | 5 min | Effective against vegetative organisms (Sikri); not effective against spores specifically (Cohen's) — not a true conflict |
 | 2% glutaraldehyde, 70% ethyl alcohol | | Not effective against spores (Cohen's) |
 | 10% polyvinylpyrrolidone-iodine | 30 s to 1 min | Effective (Sikri) |
 | Paraformaldehyde vapour | 1 h | Effective (Sikri) |
@@ -70,7 +70,7 @@ Gutta-percha cannot be heat sterilised. Cold chemical disinfection with 5.25% so
 ## HIGH-YIELD POINTS
 - Cannot be heat sterilised. 5.25% NaOCl, 1 min.
 - Contaminated 5-8% from pack; about 20% after opening.
-- Chlorhexidine and glutaraldehyde: conflicting or ineffective for spores.
+- Chlorhexidine: effective vs vegetative organisms, not spores (not a true conflict); glutaraldehyde ineffective for spores.
 
 ## DIAGRAMS TO DRAW
 [DIAGRAM: table of agents, time, spore kill | 2 min]
@@ -85,5 +85,5 @@ Gutta-percha cannot be heat sterilised. Cold chemical disinfection with 5.25% so
 ## SOURCE LIST
 **[SRC]** Siqueira JF Jr, Rôças IN, eds. *Treatment of Endodontic Infections*. 2nd ed. Quintessence; 2022. Ch.15. Berman et al 2021 Ch.9. Sikri 2019 Ch.20. Rotstein and Ingle 2019 Ch.22. Gopikrishna 2021 Ch.16.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Contradiction:** chlorhexidine effective in 5 min (Sikri) vs not effective against spores (Cohen's). **Pending:** the primary studies cited by the books were not opened; whether Cohen's and Sikri tested the same chlorhexidine protocol is unknown.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan contradiction review 2026-10-16)
+Read directly. **Resolved (contradiction review):** chlorhexidine effective in 5 min (Sikri) vs not effective against spores (Cohen's) is not a true conflict — CHX can act against vegetative bacteria and fungi while still failing against bacterial spores specifically; both claims are compatible once the microbial target is specified. **Pending:** the primary studies cited by the books were not opened; whether Cohen's and Sikri tested the same chlorhexidine protocol is unknown.
