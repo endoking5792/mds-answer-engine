@@ -1,3 +1,5 @@
+> **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
+
 # HANDOFF: MDS theory answers — most recently FINISHED topic "Smart Materials" (4 questions: CD 10m, CD 100m, RA 25m, Endo 100m — first-draft complete, no textbook audit pending since all four answers are literature-only, 2026-10-15)
 
 ## Update (2026-10-15, same session, later): two new 100m model essays added

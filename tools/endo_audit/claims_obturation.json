@@ -1,0 +1,429 @@
+[
+ {
+  "id": 1,
+  "ans": "Q1",
+  "src": "C",
+  "re": "Easily manipulated and provides ample working time",
+  "claim": "Grossman requirements, Cohen's Box 9.2"
+ },
+ {
+  "id": 2,
+  "ans": "Q1",
+  "src": "I",
+  "re": "17\\. Able to set|Able to set in a reasonable",
+  "claim": "West's seventeen requirements"
+ },
+ {
+  "id": 3,
+  "ans": "Q1",
+  "src": "S",
+  "re": "Jasper|silver cones",
+  "claim": "Silver cones (Sikri)"
+ },
+ {
+  "id": 4,
+  "ans": "Q1",
+  "src": "I",
+  "re": "Jasper.{0,60}1933",
+  "claim": "Jasper silver points 1933"
+ },
+ {
+  "id": 5,
+  "ans": "Q2",
+  "src": "S",
+  "re": "Gutta-percha \\(18.22%\\)|18.22%",
+  "claim": "GP 18-22% (Sikri)"
+ },
+ {
+  "id": 6,
+  "ans": "Q2",
+  "src": "S",
+  "re": "59.67%",
+  "claim": "ZnO 59-67% (Sikri)"
+ },
+ {
+  "id": 7,
+  "ans": "Q2",
+  "src": "I",
+  "re": "59% to 76%",
+  "claim": "ZnO 59-76% (Ingle's)"
+ },
+ {
+  "id": 8,
+  "ans": "Q2",
+  "src": "T",
+  "re": "50% to 79%",
+  "claim": "ZnO 50-79% (Azim and Aksel)"
+ },
+ {
+  "id": 9,
+  "ans": "Q2",
+  "src": "C",
+  "re": "approximately 20% GP, 65% zinc oxide",
+  "claim": "Cohen composition 20/65/10/5"
+ },
+ {
+  "id": 10,
+  "ans": "Q2",
+  "src": "W",
+  "re": "42\u00b0 to 49\u00b0 C",
+  "claim": "Weine beta to alpha 42-49"
+ },
+ {
+  "id": 11,
+  "ans": "Q2",
+  "src": "W",
+  "re": "56\u00b0 to 62\u00b0 C",
+  "claim": "Weine gamma 56-62"
+ },
+ {
+  "id": 12,
+  "ans": "Q2",
+  "src": "TP",
+  "re": "53\u00b0C to 59\u00b0C",
+  "claim": "Torabinejad et al amorphous 53-59"
+ },
+ {
+  "id": 13,
+  "ans": "Q2",
+  "src": "T",
+  "re": "70o ?C|70\u00b0 ?C",
+  "claim": "Azim and Aksel alpha at 70 C"
+ },
+ {
+  "id": 14,
+  "ans": "Q2",
+  "src": "C",
+  "re": "above 65\u00b0C",
+  "claim": "Cohen alpha melts above 65 C"
+ },
+ {
+  "id": 15,
+  "ans": "Q2",
+  "src": "G",
+  "re": "Hill \\(1847\\)",
+  "claim": "Hill 1847"
+ },
+ {
+  "id": 16,
+  "ans": "Q3",
+  "src": "T",
+  "re": "5% to 8%",
+  "claim": "Contamination 5-8%"
+ },
+ {
+  "id": 17,
+  "ans": "Q3",
+  "src": "T",
+  "re": "almost 20%",
+  "claim": "Contamination about 20% after opening"
+ },
+ {
+  "id": 18,
+  "ans": "Q3",
+  "src": "S",
+  "re": "2.0% digluconate chlorhexidine",
+  "claim": "2% CHX effective (Sikri)"
+ },
+ {
+  "id": 19,
+  "ans": "Q3",
+  "src": "C",
+  "re": "2% glutaraldehyde, 2% chlorhexidine, and 70% ethyl alcohol were not effective",
+  "claim": "Cohen: CHX etc not effective vs spores"
+ },
+ {
+  "id": 20,
+  "ans": "Q3",
+  "src": "S",
+  "re": "10% polyvinylpyrrolidone",
+  "claim": "PVP-iodine 10% (Sikri)"
+ },
+ {
+  "id": 21,
+  "ans": "Q6",
+  "src": "G",
+  "re": "Ben Johnson in 1978|Johnson in 1978",
+  "claim": "Thermafil 1978 (Grossman)"
+ },
+ {
+  "id": 22,
+  "ans": "Q6",
+  "src": "G",
+  "re": "approximately 10 seconds",
+  "claim": "ThermaPrep Plus 10 s"
+ },
+ {
+  "id": 23,
+  "ans": "Q6",
+  "src": "S",
+  "re": "115\u00b0C for 3.7 minutes",
+  "claim": "Sikri oven 115 C 3-7 min"
+ },
+ {
+  "id": 24,
+  "ans": "Q6",
+  "src": "G",
+  "re": "2.4 minutes",
+  "claim": "cool 2-4 min"
+ },
+ {
+  "id": 25,
+  "ans": "Q6",
+  "src": "I",
+  "re": "90 seconds",
+  "claim": "Thermafil gutta-percha resolidifies 90 s"
+ },
+ {
+  "id": 26,
+  "ans": "Q7",
+  "src": "S",
+  "re": "1.0.2\\.0 mm of .{0,3}-phase Successfil",
+  "claim": "Trifecta 1-2 mm Successfil"
+ },
+ {
+  "id": 27,
+  "ans": "Q7",
+  "src": "TP",
+  "re": "Trifecta System",
+  "claim": "Trifecta named (Torabinejad et al)"
+ },
+ {
+  "id": 28,
+  "ans": "Q7",
+  "src": "S",
+  "re": "70.90\u00b0C",
+  "claim": "Ultrafil 70-90 C"
+ },
+ {
+  "id": 29,
+  "ans": "Q9",
+  "src": "S",
+  "re": "8,000.20,000 rpm",
+  "claim": "McSpadden 8,000-20,000 rpm"
+ },
+ {
+  "id": 30,
+  "ans": "Q9",
+  "src": "S",
+  "re": "1000.4000",
+  "claim": "MicroSeal 1000-4000 rpm"
+ },
+ {
+  "id": 31,
+  "ans": "Q10",
+  "src": "T",
+  "re": "3 to 6 mm",
+  "claim": "MTA plug 3-6 mm (Azim)"
+ },
+ {
+  "id": 32,
+  "ans": "Q10",
+  "src": "S",
+  "re": "4\\.0.5\\.0 mm apical barrier",
+  "claim": "MTA plug 4-5 mm (Sikri)"
+ },
+ {
+  "id": 33,
+  "ans": "Q11",
+  "src": "G15",
+  "re": "inner seal of temporary stopping and an outer seal of Cavit or IRM",
+  "claim": "Double seal definition (Grossman)"
+ },
+ {
+  "id": 34,
+  "ans": "Q11",
+  "src": "G15",
+  "re": "minimum thickness of at least 3\\.5 mm",
+  "claim": "Cavit 3.5 mm"
+ },
+ {
+  "id": 35,
+  "ans": "Q11",
+  "src": "G15",
+  "re": "leak invariably when left for more than 3 weeks",
+  "claim": "leak after 3 weeks"
+ },
+ {
+  "id": 36,
+  "ans": "Q12",
+  "src": "C",
+  "re": "85% and 65%",
+  "claim": "Cavit 85% / Super EBA 65%"
+ },
+ {
+  "id": 37,
+  "ans": "Q12",
+  "src": "T",
+  "re": "12% to 14%",
+  "claim": "12-14% per mm"
+ },
+ {
+  "id": 38,
+  "ans": "Q12",
+  "src": "PP19",
+  "re": "Lack of a coronal seal is probably the most common",
+  "claim": "Coronal seal most controllable (Walton)"
+ },
+ {
+  "id": 39,
+  "ans": "Q13",
+  "src": "C",
+  "re": "no standardized techniques to evaluate and measure microleakage",
+  "claim": "no standardised leakage technique (Cohen)"
+ },
+ {
+  "id": 40,
+  "ans": "Q13",
+  "src": "PP15",
+  "re": "not known whether experimental leakage differences",
+  "claim": "clinical significance unknown (Walton)"
+ },
+ {
+  "id": 41,
+  "ans": "Q8",
+  "src": "C",
+  "re": "less than 10\u00b0C",
+  "claim": "System B <10 C"
+ },
+ {
+  "id": 42,
+  "ans": "Q8",
+  "src": "C",
+  "re": "Obtura II system heats the GP to 160\u00b0C",
+  "claim": "Obtura II 160 C (Cohen)"
+ },
+ {
+  "id": 43,
+  "ans": "Q8",
+  "src": "S",
+  "re": "160 to\\s*200\u00b0C|160 to 200",
+  "claim": "Obtura 160-200 (Sikri)"
+ },
+ {
+  "id": 44,
+  "ans": "Q8",
+  "src": "I",
+  "re": "4.6 mm from the end of the preparation",
+  "claim": "needle 4-6 mm (Ingle's)"
+ },
+ {
+  "id": 45,
+  "ans": "Q8",
+  "src": "S",
+  "re": "3\\.0 to 5\\.0 mm of the apical",
+  "claim": "needle 3-5 mm (Sikri)"
+ },
+ {
+  "id": 46,
+  "ans": "Q8",
+  "src": "S",
+  "re": "up to 350\u00b0C",
+  "claim": "Endotec 350 C"
+ },
+ {
+  "id": 47,
+  "ans": "Q14",
+  "src": "B12",
+  "re": "0\\.7 mm",
+  "claim": "BioConeless foramen cut-off 0.7 mm"
+ },
+ {
+  "id": 48,
+  "ans": "Q14",
+  "src": "T",
+  "re": "sealer-dependent",
+  "claim": "single cone sealer-dependent"
+ },
+ {
+  "id": 49,
+  "ans": "Q15",
+  "src": "T",
+  "re": "96% of the cases",
+  "claim": "96% repair (Augsburger and Peters)"
+ },
+ {
+  "id": 50,
+  "ans": "Q15",
+  "src": "T",
+  "re": "around 50% of cases",
+  "claim": "sealer extrusion ~50%"
+ },
+ {
+  "id": 51,
+  "ans": "Q15",
+  "src": "G",
+  "re": "as much as 25%",
+  "claim": "25% reduction (Grossman)"
+ },
+ {
+  "id": 52,
+  "ans": "Q15",
+  "src": "H",
+  "re": "equivocal",
+  "claim": "equivocal evidence (Harty)"
+ },
+ {
+  "id": 53,
+  "ans": "Q16",
+  "src": "C",
+  "re": "all materials and techniques result in some degree of leakage",
+  "claim": "All materials leak (Cohen)"
+ },
+ {
+  "id": 54,
+  "ans": "Q17",
+  "src": "C",
+  "re": "Toronto",
+  "claim": "Toronto studies (Cohen)"
+ },
+ {
+  "id": 55,
+  "ans": "Q17",
+  "src": "G",
+  "re": "Box 16\\.12",
+  "claim": "Single-visit criteria Box 16.12"
+ },
+ {
+  "id": 56,
+  "ans": "Q17",
+  "src": "PS",
+  "re": "seal cannot be seen on a radiograph",
+  "claim": "A seal cannot be seen (Problem Solving)"
+ },
+ {
+  "id": 57,
+  "ans": "P3",
+  "src": "EP",
+  "re": "same clinical outcome",
+  "claim": "older sealers same outcome (Prognosis)"
+ },
+ {
+  "id": 58,
+  "ans": "P4",
+  "src": "PS",
+  "re": "Hedstr.m file is inserted into the softened mass",
+  "claim": "Hedstr\u00f6m retrieval (Problem Solving)"
+ },
+ {
+  "id": 59,
+  "ans": "P4",
+  "src": "B12",
+  "re": "Ricucci et al",
+  "claim": "Ricucci overfilling (Bioceramics Ch.12)"
+ },
+ {
+  "id": 60,
+  "ans": "P1",
+  "src": "I",
+  "re": "neither molecularly condensable nor compressible",
+  "claim": "GP not condensable (Ingle's)"
+ },
+ {
+  "id": 61,
+  "ans": "P5",
+  "src": "S",
+  "re": "ZAP",
+  "claim": "ZAP and TAP (Sikri)"
+ }
+]
