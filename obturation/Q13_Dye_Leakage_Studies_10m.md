@@ -4,7 +4,7 @@
 
 **Repeats absorbed:** "Microleakage and its clinical significance" (5m, Oct 2016, PIII 16-21).
 
-**Source note.** The textbooks contain only scattered statements on leakage testing. Methods and limitations were added from a systematic review read in full, tagged [LIT] (Jafari and Jafari, 2017), and one comparison study read at abstract level (Karagenc et al, 2006).
+**Source note.** The textbooks contain only scattered statements on leakage testing. Methods and limitations were added from a systematic review read in full, tagged [LIT] (Jafari and Jafari, 2017); one comparison study, now read as the complete PubMed abstract rather than a secondary mention (Karagenç et al, 2006 — full text is paywalled, not in PMC, checked 2026-10-16); and one micro-CT study of obturation voids, abstract level (Hammad, Qualtrough and Silikas, 2009 — also paywalled, not in PMC).
 
 ---
 
@@ -57,11 +57,11 @@ Cold lateral condensation leaked more than heated gutta-percha in vitro; MTA lea
 - **Dye behaviour:** India ink particles are larger than some bacterial components and may give false results in either direction; methylene blue can dissolve during demineralisation; dye size, pH and immersion time alter the result [LIT].
 - **Sectioning:** longitudinal sectioning depends on a random cut axis and can miss the deepest penetration, underestimating leakage; clearing is more accurate but demineralisation may be incomplete [LIT].
 - **Air bubbles** trapped in voids block dye movement [LIT].
-- **Poor correlation between tests:** fluid filtration favoured lateral condensation, the bacterial test favoured Thermafil, and dye and electrochemical tests showed no difference; the authors found poor correlation between methods [LIT: Karagenc et al, 2006, abstract level].
+- **Poor correlation between tests:** comparing Thermafil with lateral condensation, fluid filtration favoured lateral condensation, dye and electrochemical tests showed no difference, and the bacterial test favoured Thermafil (all P<.05) — poor correlation between methods, clinical significance questionable [LIT: Karagenç et al, 2006, PubMed abstract, PMID 16831682].
 - **Clinical relevance is uncertain:** it is not known whether differences in dye or bacterial leakage are clinically significant.
 
 ### Alternatives
-Fluid filtration (air bubble movement in a capillary), bacterial and endotoxin leakage (clinically relevant but strain-dependent), glucose penetration (sensitive but slow), radioisotope and electrochemical tests, and CBCT or SEM imaging [LIT].
+Fluid filtration, bacterial and endotoxin leakage, glucose penetration, radioisotope and electrochemical tests, and micro-CT — non-destructive, quantifies void volume directly rather than inferring a seal; no filling technique gave a completely gap-free result in one such study [LIT: Hammad et al, 2009, PubMed abstract, PMID 19345801].
 
 ### Conclusion
 Dye studies are simple and cheap and can rank materials, but they are not standardised, correlate poorly with other leakage tests, and cannot by themselves predict clinical success.
@@ -84,7 +84,7 @@ Dye studies are simple and cheap and can rank materials, but they are not standa
 **"V-I-S-M"**: Varnish, Immerse, Section, Measure.
 
 ## SOURCE LIST
-**[SRC]** Berman et al 2021 Ch.9; Rotstein and Ingle 2019 Ch.22; Walton and Torabinejad 2002 Part 15 and 19; Chopra, *Bioceramics in Endodontics*; Chong, *Harty's*. **[LIT]** general dye method and limitations.
+**[SRC]** Berman et al 2021 Ch.9; Rotstein and Ingle 2019 Ch.22; Walton and Torabinejad 2002 Part 15 and 19; Chopra, *Bioceramics in Endodontics*; Chong, *Harty's*. **[LIT]** Jafari F, Jafari S. *J Clin Exp Dent*. 2017 (general dye method and limitations, read in full); Karagenç B, Gençoglu N, Ersoy M, Cansever G, Külekçi G. *Oral Surg Oral Med Oral Pathol Oral Radiol Endod*. 2006;102(1):110-3. [DOI](https://doi.org/10.1016/j.tripleo.2005.10.044). PMID 16831682 (PubMed abstract; full text paywalled, not in PMC); Hammad M, Qualtrough A, Silikas N. *J Endod*. 2009;35(4):541-4. [DOI](https://doi.org/10.1016/j.joen.2008.12.021). PMID 19345801 (PubMed abstract; full text paywalled, not in PMC).
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Textbooks read directly; method and limitation content supplied by the [LIT] sources above. **Pending:** Karagenc et al should be read in full; micro-CT as a leakage or void assessment tool is not covered by either source.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan item-3 follow-up 2026-10-16)
+Textbooks read directly; method and limitation content supplied by the [LIT] sources above. **Resolved:** Karagenç et al checked directly against PubMed — the full text is paywalled and not in PMC, so this remains an abstract-level [LIT] citation, but now the complete PubMed abstract (with sample size, group design and exact findings) rather than a secondary mention; the substance of the existing claim (fluid filtration favoured lateral condensation, bacterial test favoured Thermafil, dye/electrochemical showed no difference, poor correlation overall) is confirmed accurate. Added a micro-CT source for void/gap assessment of obturation quality (Hammad, Qualtrough and Silikas, 2009) to the Alternatives section — also abstract-level, full text paywalled. According to PubMed, both DOIs are given above per PubMed's attribution requirement.

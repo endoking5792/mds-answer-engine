@@ -115,7 +115,7 @@ Ultrasonic activation gave better sealer distribution when used circumferentiall
 | PAC-160 | 160 °C | Sikri |
 | Calamus Flow | Dispensed about 38-44 °C; flow 45-60 s | Sikri |
 | Thermafil oven | About 10 s (ThermaPrep Plus) or 115 °C for 3-7 min | Grossman's; Sikri |
-These figures differ between books and with the manufacturer's model; state them as ranges.
+These figures differ between books and with the manufacturer's model; state them as ranges. The Calamus Flow figure (38-44 °C) is checked directly against the printed page and is correctly transcribed, but it is unusually low next to Obtura's extruded-tip temperature (62-65 °C) and Ultrafil's 70-90 °C for the same purpose — flagged, not corrected, since no higher-authority source was found.
 
 ### Critical appraisal
 - **Bench versus clinic:** most advantages are laboratory findings (adaptation, voids, lateral canal filling). Outcome studies show no significant differences.
@@ -182,5 +182,5 @@ Newer techniques give denser or simpler fills in complex anatomy but have not ye
 ## SOURCE LIST
 **[SRC]** Sikri 2019 Ch.20; Rotstein and Ingle 2019 Ch.22; Berman et al 2021 Ch.9; Gopikrishna 2021 Ch.16; Siqueira and Rôças 2022 Ch.15; Chopra, *Bioceramics in Endodontics* Ch.11-12; Common Complications Ch.6.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Contradictions:** injection temperatures and needle positions as in Q8; Calamus dispensing temperature 38-44 °C as printed in Sikri looks low and should be checked in print. **Pending:** post-2021 literature on bioceramic single-cone outcomes.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan item-5 follow-up 2026-10-16)
+Read directly. **Contradictions:** injection temperatures and needle positions as in Q8. **Resolved:** the Calamus dispensing temperature was checked directly against the printed PDF page (p.349, "15. Calamus dual 3D system") — "The temperature of the thermoplasticized gutta-percha dispensed for use is around 38 to 44 °C" is exactly as printed, not an OCR or transcription error. The figure is genuinely unusually low next to Obtura's extruded-tip temperature (62-65 °C, Sikri) and Ultrafil's 70-90 °C, but it is Sikri's own stated figure and no higher-authority source was found to correct it against — kept as printed, flagged as worth independent verification against a Calamus manufacturer spec sheet if exam precision is needed. **Pending:** post-2021 literature on bioceramic single-cone outcomes.

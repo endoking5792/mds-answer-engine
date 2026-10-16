@@ -5,7 +5,7 @@
 ---
 
 ## RETRIEVAL REPORT
-**Textbooks opened directly in `mds-textbooks` (2026-10-16)** [SRC]: Azim and Aksel 2022 Ch.15; Berman et al 2021 Ch.9; Sikri 2019 Ch.20; Problem Solving in Endodontics Ch.12; Endodontic Prognosis Ch.9. **Source limit:** imaging methods beyond the periapical radiograph (CBCT, micro-CT) are not described in the chapters read.
+**Textbooks opened directly in `mds-textbooks` (2026-10-16)** [SRC]: Azim and Aksel 2022 Ch.15; Berman et al 2021 Ch.9; Sikri 2019 Ch.20; Problem Solving in Endodontics Ch.12; Endodontic Prognosis Ch.9. Imaging methods beyond the periapical radiograph are not described in these chapters; a micro-CT source was added separately [LIT], abstract level (checked 2026-10-16).
 
 ---
 
@@ -55,7 +55,7 @@ The quality of a root filling is judged by what can be seen on a radiograph, but
 Absence of symptoms, radiographic healing of any apical radiolucency at follow-up, and a sound coronal restoration. Poor outcomes in overfilled teeth without apical periodontitis were not associated with overfilling but with coexisting infection.
 
 ### Improving assessment
-Radiographs from more than one angulation are advisable [RECALL]; three-dimensional imaging such as CBCT and micro-CT can show voids but needs a journal source before it is cited as evidence.
+Radiographs from more than one angulation are advisable [RECALL]; micro-CT is non-destructive and measures void volume directly, and has shown no filling technique gives a completely gap-free result [LIT: Hammad et al, 2009, PubMed abstract, PMID 19345801]; it remains a research rather than a chairside tool.
 
 ### Conclusion
 Length, density, taper and coronal seal are the practical measures. Because radiographs cannot show a seal, follow-up healing is the real test.
@@ -77,7 +77,7 @@ Length, density, taper and coronal seal are the practical measures. Because radi
 **"L-D-T-C"**: Length, Density, Taper, Coronal seal.
 
 ## SOURCE LIST
-**[SRC]** Azim and Aksel 2022 Ch.15; Berman et al 2021 Ch.9; Sikri 2019 Ch.20; Problem Solving in Endodontics Ch.12; Endodontic Prognosis Ch.9.
+**[SRC]** Azim and Aksel 2022 Ch.15; Berman et al 2021 Ch.9; Sikri 2019 Ch.20; Problem Solving in Endodontics Ch.12; Endodontic Prognosis Ch.9. **[LIT]** Hammad M, Qualtrough A, Silikas N. *J Endod*. 2009;35(4):541-4. [DOI](https://doi.org/10.1016/j.joen.2008.12.021). PMID 19345801 (PubMed abstract; full text paywalled, not in PMC).
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
-Read directly. **Pending:** CBCT and micro-CT assessment of voids needs a journal source.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; Niranjan item-3 follow-up 2026-10-16)
+Read directly. **Resolved:** added a micro-CT source for void/gap assessment of obturation quality (Hammad, Qualtrough and Silikas, 2009, abstract level via PubMed; full text paywalled, not in PMC), closing the item-3 gap flagged in the handoff. According to PubMed, the DOI is given above per PubMed's attribution requirement. CBCT specifically remains uncited — no textbook or located journal source describes CBCT (as opposed to micro-CT) assessment of obturation quality.
