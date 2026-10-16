@@ -17,6 +17,7 @@ Working repo for the MDS (Master of Dental Surgery) exam-answer generation proje
 
 - Final `.docx` builds, flowchart images, and `.bak` files (`.gitignore`) — binary/build artifacts, not source content, and they bloat git history on every rebuild.
 - The Obsidian vault (`Question Paper Bank/...`) and OneDrive `MDS III/Answers/` — these are the published destinations for finished answers, kept wherever the user's own vault/OneDrive sync already lives, not duplicated into git.
+- The textbooks themselves — copyrighted, so they live in the **private** repo [`endoking5792/mds-textbooks`](https://github.com/endoking5792/mds-textbooks) (collaborators only), not here. Never add textbook text to this public repo.
 
 ## Workflow
 
