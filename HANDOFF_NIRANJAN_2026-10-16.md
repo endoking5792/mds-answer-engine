@@ -2,12 +2,15 @@
 
 Everything below is already on GitHub and in the Answer Bank. Start here, then read `WORKFLOW.md` (rules) and the shared `HANDOFF.md` (history).
 
+## 0. Niranjan's spot-check, published (2026-10-16)
+Items 1, 2, 3 and 5 of the checklist in section 3 are done (item 4 is acknowledgement-only). 20 files patched across `endodontic_sealers/` (11) and `obturation/` (9) — see the git log for the three commits ("Spot-check item 1/2/items 3 and 5") and section 3 below for the detail of each change. Published additively to the Answer Bank (`publish_guard.py merge` then `verify`): 243 manifest entries before and after, 247 files before and after, all 20 updated files grew in size, nothing lost (`VERIFY OK`).
+
 ## 1. What was done in this session
 | Topic | Folder | Answers | State |
 |---|---|---|---|
 | Dental ceramics | `ceramics/` | 35 | FINAL (audited earlier; not touched this session) |
-| **Endodontic sealers** | `endodontic_sealers/` | 8 repository + 2 predicted (P1, P2) | Drafted, audited twice against textbooks, Exam Mode expanded to Section 7 ranges, published. **Awaiting your spot-check** |
-| **Obturation** (materials and techniques) | `obturation/` | 17 repository + 5 predicted (P1-P5) | Drafted directly from textbooks, Exam Mode at Section 7 ranges, published. **Awaiting your audit/spot-check** |
+| **Endodontic sealers** | `endodontic_sealers/` | 8 repository + 2 predicted (P1, P2) | Drafted, audited twice against textbooks, Exam Mode expanded to Section 7 ranges, published; Niranjan's spot-check (items 1, 2, 5) applied and published 2026-10-16 |
+| **Obturation** (materials and techniques) | `obturation/` | 17 repository + 5 predicted (P1-P5) | Drafted directly from textbooks, Exam Mode at Section 7 ranges, published; Niranjan's spot-check (items 1, 2, 3, 5) applied and published 2026-10-16 |
 Reviewer files inside each topic folder (also visible in the Answer Bank as entries): `endodontic_sealers/A0_Audit_Note_for_Niranjan.md`, `endodontic_sealers/A1_Audit_Ledger_2026-10-16.md`, `obturation/A1_Audit_Ledger_2026-10-16.md`.
 
 Answer Bank: https://claude.ai/artifact/YRBFYrpgfh8aWhg9Qp1uvu (Endodontics -> Root Canal Sealers: 12 entries; Endodontics -> Obturation: 23 entries including the ledger).
