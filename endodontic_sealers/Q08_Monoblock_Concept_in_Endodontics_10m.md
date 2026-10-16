@@ -42,29 +42,41 @@ Smear layer removal with 17-19% EDTA or dilute citric acid; slightly moist denti
 ---
 
 ## EXAM MODE
-**(Word count about 380; about 15 min)**
+**(Word count 346; about 16 min at 22 words/min)**
 
 ### Definition
-A monoblock is an obturation in which core, sealer and canal dentin form a single, bonded, cohesive unit with similar elastic modulus (concept by Tay).
+A monoblock is an obturation in which core material, sealing agent and root canal dentin form a single cohesive unit. The concept was first described in endodontics by Franklin Tay.
 
-### Types
-| Type | Interfaces | Example |
+### Prerequisites
+1. The materials must bond strongly to each other and to the substrate they are meant to reinforce.
+2. They must have a modulus of elasticity similar to the substrate. Dentin is about 14,000 MPa; all filling materials in use are far below it, which questions the concept.
+
+### Classification by interfaces
+| Type | Interfaces | Examples |
 |---|---|---|
-| Primary | 1 | Gutta-percha without sealer; MTA apexification plug; Hydron |
-| Secondary | 2 | Sealer + core; EndoREZ + RCGP; Resilon + Epiphany; bioceramic single cone |
-| Tertiary | 3 | Activ GP with GI sealer; coated posts |
+| **Primary** | One, between material and canal wall | Gutta-percha without sealer; Hydron; MTA plug in apexification (Jain's example). Lacks strength and stiffness |
+| **Secondary** | Two: cement-dentin and cement-core | Sealer plus gutta-percha; resin sealer with Resilon; hydraulic bioceramic single cone |
+| **Tertiary** | Three: a coating on the core bonds to the sealer | Activ GP (glass-ionomer-coated), resin- or bioceramic-coated cones; coated fibre posts |
+Jain and Sikri differ in the primary examples, but both include gutta-percha without sealer.
 
-### Principle (resin monoblock)
-Dentin → primer/hybrid layer → resin sealer → bonded core.
+### Systems aiming at a monoblock
+EndoREZ with resin-coated gutta-percha points; Resilon with Epiphany (withdrawn 2014); Activ GP with glass-ionomer sealer; bioceramic sealers with coated cones. Tertiary systems are used with a single cone or accessory cones placed without lateral compaction to avoid disrupting the coating.
 
-### Requirements
-Bond to dentin and core; similar modulus; smear layer removed; slightly moist dentin; no oxygen-inhibited layer.
+### Conditions
+Smear layer removed with EDTA; slightly moist dentin; EDTA flushed after NaOCl; a bondable core.
 
-### Limitations
-Polymerisation shrinkage with a canal C-factor of about 1,000; hydrolysis of core; technique sensitivity; modulus of filling materials far below dentin (about 14,000 MPa); no proven root reinforcement; limited long-term evidence.
+### Problems
+- Gutta-percha and conventional sealers do not bond to each other; glass ionomer bonds dentin but not gutta-percha.
+- Polymerisation shrinkage, a canal C-factor of about 1,000 and incomplete conversion create gaps.
+- Polycaprolactone degrades enzymatically.
+- Filling materials have a modulus far below dentin, so root reinforcement is not achieved.
+- Moisture is hard to control clinically.
+
+### Evidence
+Cohen's calls the monoblock a purported advantage of bondable sealers; Azim and Aksel note that, in theory, the idea is excellent but achieving it in a canal is difficult. Resilon's long-term failure showed the limits, and no material has been shown to reinforce the root.
 
 ### Conclusion
-The monoblock is excellent in theory; no current material gives a true reinforcing monoblock, and clinical benefit is not proven.
+The monoblock is excellent in theory, but no current system forms a gap-free, reinforcing unit and clinical benefit is not proven.
 
 ---
 

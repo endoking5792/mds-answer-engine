@@ -1,0 +1,744 @@
+[
+ {
+  "id": 1,
+  "ans": "Q1",
+  "src": "C",
+  "re": "tacky",
+  "claim": "Grossman criteria: tacky (Cohen Box 9.1)"
+ },
+ {
+  "id": 2,
+  "ans": "Q1",
+  "src": "C",
+  "re": "very fine powder",
+  "claim": "Criterion 'very fine powder' present"
+ },
+ {
+  "id": 3,
+  "ans": "Q1",
+  "src": "C",
+  "re": "42.{0,60}27|zinc oxide.{0,40}42",
+  "claim": "ZOE formula 42/27 in Cohen"
+ },
+ {
+  "id": 4,
+  "ans": "Q1",
+  "src": "S",
+  "re": "40.{0,80}30|zinc oxide.{0,60}40",
+  "claim": "Sikri prints 40/30 formula"
+ },
+ {
+  "id": 5,
+  "ans": "Q1",
+  "src": "G",
+  "re": "42|Staybelite",
+  "claim": "Grossman formula 42 parts / Staybelite"
+ },
+ {
+  "id": 6,
+  "ans": "Q1",
+  "src": "T",
+  "re": "flow.{0,80}20 ?mm|20 mm",
+  "claim": "ISO 6876 flow over 20 mm"
+ },
+ {
+  "id": 7,
+  "ans": "Q1",
+  "src": "T",
+  "re": "50 ?[\u00b5\u03bc]m|50 ?\\S?m",
+  "claim": "film thickness under 50 um"
+ },
+ {
+  "id": 8,
+  "ans": "Q1",
+  "src": "T",
+  "re": "solubility.{0,60}3 ?%|3 ?%.{0,40}solub",
+  "claim": "solubility under 3%"
+ },
+ {
+  "id": 9,
+  "ans": "Q1",
+  "src": "T",
+  "re": "-1 ?%.{0,20}0\\.1|0\\.1 ?%",
+  "claim": "dimensional stability -1 to +0.1"
+ },
+ {
+  "id": 10,
+  "ans": "Q1",
+  "src": "T",
+  "re": "3 ?mm.{0,15}(Al|alumin)",
+  "claim": "radiopacity over 3 mm Al"
+ },
+ {
+  "id": 11,
+  "ans": "Q1",
+  "src": "C",
+  "re": "AH Plus.{0,300}(4 h|4 hours|four hours)|(4 h|4 hours).{0,200}AH Plus",
+  "claim": "AH Plus working time 4 h (Cohen)"
+ },
+ {
+  "id": 12,
+  "ans": "Q1",
+  "src": "AD",
+  "re": "extended working time in the region of 4 hours",
+  "claim": "AH Plus extended working time ~4 h (Applied DM)"
+ },
+ {
+  "id": 13,
+  "ans": "Q1",
+  "src": "S",
+  "re": "0\\.3.{0,10}39|22 ?[\u00b5\u03bc]m|22 ?\\S?m",
+  "claim": "Sikri AH Plus film 22 um / AH-26 39 um"
+ },
+ {
+  "id": 14,
+  "ans": "Q1",
+  "src": "C",
+  "re": "165 ?min",
+  "claim": "BC sealer initial set 165 min (Cohen)"
+ },
+ {
+  "id": 15,
+  "ans": "Q1",
+  "src": "C",
+  "re": "5 weeks|five weeks",
+  "claim": "EndoSequence BC 5 vs 3 weeks (Cohen)"
+ },
+ {
+  "id": 16,
+  "ans": "Q1",
+  "src": "G",
+  "re": "25 ?%",
+  "claim": "extruded material reduces healing up to 25% (Grossman)"
+ },
+ {
+  "id": 17,
+  "ans": "Q1",
+  "src": "J",
+  "re": "20 ?%.{0,120}patenc|patenc.{0,120}20 ?%",
+  "claim": "20% patency after bioceramic retreatment (Jain)"
+ },
+ {
+  "id": 18,
+  "ans": "Q1",
+  "src": "S",
+  "re": "(most|more) difficult",
+  "claim": "bioceramic retreatment most difficult (Sikri)"
+ },
+ {
+  "id": 19,
+  "ans": "Q1",
+  "src": "C",
+  "re": "no worse than|not (more|any) difficult|comparable",
+  "claim": "BC sealer removal no worse than epoxy (Cohen)"
+ },
+ {
+  "id": 20,
+  "ans": "Q1",
+  "src": "C",
+  "re": "N2.{0,200}unacceptable|unacceptable.{0,200}N2",
+  "claim": "N2 unacceptable (ADA 1974)"
+ },
+ {
+  "id": 21,
+  "ans": "Q1",
+  "src": "C",
+  "re": "(sealapex).{0,300}(zinc oxide)",
+  "claim": "Sealapex base ZnO/Ca(OH)2"
+ },
+ {
+  "id": 22,
+  "ans": "Q1",
+  "src": "C",
+  "re": "no .{0,40}(human )?(clinical )?(studies|trials).{0,120}(tricalcium|calcium silicate)|(tricalcium|calcium silicate).{0,200}no .{0,30}(human )?(clinical )?(studies|trials)",
+  "claim": "no human clinical studies of calcium silicate sealers (Cohen)"
+ },
+ {
+  "id": 23,
+  "ans": "Q1",
+  "src": "S",
+  "re": "definite classification",
+  "claim": "Sikri: definite classification not established"
+ },
+ {
+  "id": 24,
+  "ans": "Q1",
+  "src": "S",
+  "re": "fifteen|15 (requirements|properties)|ideal (properties|requirements)",
+  "claim": "Sikri lists fifteen requirements"
+ },
+ {
+  "id": 25,
+  "ans": "Q2",
+  "src": "C",
+  "re": "Hydron",
+  "claim": "Hydron first generation (Cohen)"
+ },
+ {
+  "id": 26,
+  "ans": "Q2",
+  "src": "S",
+  "re": "ADSeal|Dia-?ProSeal",
+  "claim": "Sikri fifth generation ADSeal/DiaProSeal"
+ },
+ {
+  "id": 27,
+  "ans": "Q2",
+  "src": "C",
+  "re": "92\\.1 ?%",
+  "claim": "EndoREZ 92.1% at 10 y (Cohen)"
+ },
+ {
+  "id": 28,
+  "ans": "Q2",
+  "src": "T",
+  "re": "56 ?%.{0,80}88 ?%",
+  "claim": "Barborka 56 vs 88"
+ },
+ {
+  "id": 29,
+  "ans": "Q2",
+  "src": "T",
+  "re": "5\\.3 times",
+  "claim": "5.3 times higher prevalence"
+ },
+ {
+  "id": 30,
+  "ans": "Q2",
+  "src": "T",
+  "re": "2014.{0,80}withdrawn|withdrawn.{0,80}2014",
+  "claim": "Resilon withdrawn 2014"
+ },
+ {
+  "id": 31,
+  "ans": "Q2",
+  "src": "C",
+  "re": "GuttaFlow.{0,400}(15 min|15-minute)",
+  "claim": "GuttaFlow working time 15 min (Cohen)"
+ },
+ {
+  "id": 32,
+  "ans": "Q2",
+  "src": "C",
+  "re": "25.{0,6}30 ?min",
+  "claim": "GuttaFlow cures 25-30 min"
+ },
+ {
+  "id": 33,
+  "ans": "Q2",
+  "src": "T",
+  "re": "13\\.2 ?%",
+  "claim": "MTA Fillapex 13.2% MTA (Azim/Aksel)"
+ },
+ {
+  "id": 34,
+  "ans": "Q2",
+  "src": "T",
+  "re": "calcium chloride",
+  "claim": "BioRoot RCS calcium chloride"
+ },
+ {
+  "id": 35,
+  "ans": "Q2",
+  "src": "C",
+  "re": "BioRoot.{0,500}(warm|heat)|(warm|heat).{0,500}BioRoot",
+  "claim": "BioRoot avoid warm techniques (Cohen)"
+ },
+ {
+  "id": 36,
+  "ans": "Q2",
+  "src": "T",
+  "re": "HiFlow",
+  "claim": "BC HiFlow for warm techniques"
+ },
+ {
+  "id": 37,
+  "ans": "Q2",
+  "src": "C",
+  "re": "less than 0\\.1 ?%|0\\.1 ?% expansion|under 0\\.1",
+  "claim": "calcium silicate sealers under 0.1% expansion"
+ },
+ {
+  "id": 38,
+  "ans": "Q2",
+  "src": "C",
+  "re": "12\\.|pH.{0,40}12",
+  "claim": "pH about 12"
+ },
+ {
+  "id": 39,
+  "ans": "Q2",
+  "src": "C",
+  "re": "5 ?s|5 seconds",
+  "claim": "low vacuum 5 s protocol"
+ },
+ {
+  "id": 40,
+  "ans": "Q2",
+  "src": "C",
+  "re": "nanodiamond",
+  "claim": "nanodiamond gutta-percha (Cohen)"
+ },
+ {
+  "id": 41,
+  "ans": "Q3",
+  "src": "G",
+  "re": "irritating in their freshly mixed|freshly mixed",
+  "claim": "all cements irritating freshly mixed (Grossman)"
+ },
+ {
+  "id": 42,
+  "ans": "Q3",
+  "src": "C",
+  "re": "lymphatic",
+  "claim": "cell culture lacks lymphatics (Cohen)"
+ },
+ {
+  "id": 43,
+  "ans": "Q3",
+  "src": "C",
+  "re": "formaldehyde",
+  "claim": "AH-26 formaldehyde (Cohen)"
+ },
+ {
+  "id": 44,
+  "ans": "Q3",
+  "src": "T",
+  "re": "cytotoxic.{0,100}genotoxic|genotoxic.{0,100}cytotoxic",
+  "claim": "MTA Fillapex cytotoxic and genotoxic"
+ },
+ {
+  "id": 45,
+  "ans": "Q3",
+  "src": "TM",
+  "re": "Fillapex.{0,400}(cytotox|genotox)|(cytotox|genotox).{0,400}Fillapex",
+  "claim": "MTA Fillapex cytotoxic (Torabinejad)"
+ },
+ {
+  "id": 46,
+  "ans": "Q3",
+  "src": "C",
+  "re": "paraformaldehyde",
+  "claim": "paraformaldehyde sealers (Cohen)"
+ },
+ {
+  "id": 47,
+  "ans": "Q3",
+  "src": "S",
+  "re": "paresthesia",
+  "claim": "AH-26 overfill paresthesia (Sikri)"
+ },
+ {
+  "id": 48,
+  "ans": "Q3",
+  "src": "S",
+  "re": "iodoform",
+  "claim": "iodoform sealers cytotoxic (Sikri)"
+ },
+ {
+  "id": 49,
+  "ans": "Q3",
+  "src": "CC",
+  "re": "persistent even after setting",
+  "claim": "eugenol effect persists after setting (Common Complications)"
+ },
+ {
+  "id": 50,
+  "ans": "Q3",
+  "src": "H",
+  "re": "equivocal evidence",
+  "claim": "extrusion equivocal (Harty)"
+ },
+ {
+  "id": 51,
+  "ans": "Q4",
+  "src": "T",
+  "re": "7\\.81 ?%",
+  "claim": "resin sealers shrink 7.81%"
+ },
+ {
+  "id": 52,
+  "ans": "Q4",
+  "src": "T",
+  "re": "1,?000 vs 5",
+  "claim": "C factor 1000 vs 5"
+ },
+ {
+  "id": 53,
+  "ans": "Q4",
+  "src": "J",
+  "re": "triethylene glycol dimethacrylate|TEGDMA",
+  "claim": "EndoREZ TEGDMA (Jain)"
+ },
+ {
+  "id": 54,
+  "ans": "Q4",
+  "src": "C",
+  "re": "triethylene glycol dimethacrylate|TEGDMA",
+  "claim": "EndoREZ TEGDMA (Cohen)"
+ },
+ {
+  "id": 55,
+  "ans": "Q4",
+  "src": "C",
+  "re": "1 ?s|1 second",
+  "claim": "paper point 1 s (Cohen)"
+ },
+ {
+  "id": 56,
+  "ans": "Q4",
+  "src": "W",
+  "re": "AH Plus.{0,60}noneugenol",
+  "claim": "AH Plus noneugenol (Weine)"
+ },
+ {
+  "id": 57,
+  "ans": "Q4",
+  "src": "W",
+  "re": "formaldehyde",
+  "claim": "AH-26 formaldehyde (Weine)"
+ },
+ {
+  "id": 58,
+  "ans": "Q4",
+  "src": "AD",
+  "re": "no residual monomer",
+  "claim": "AH Plus no residual monomer (Applied DM)"
+ },
+ {
+  "id": 59,
+  "ans": "Q5",
+  "src": "C",
+  "re": "Nogenol.{0,300}bismuth oxychloride",
+  "claim": "Nogenol ZnO BaSO4 bismuth oxychloride (Cohen)"
+ },
+ {
+  "id": 60,
+  "ans": "Q5",
+  "src": "C",
+  "re": "periodontal dressing",
+  "claim": "Nogenol from periodontal dressing"
+ },
+ {
+  "id": 61,
+  "ans": "Q5",
+  "src": "S",
+  "re": "expands on setting",
+  "claim": "Nogenol expands on setting (Sikri)"
+ },
+ {
+  "id": 62,
+  "ans": "Q5",
+  "src": "G",
+  "re": "noneugenol",
+  "claim": "Sealapex noneugenol (Grossman)"
+ },
+ {
+  "id": 63,
+  "ans": "Q5",
+  "src": "AD",
+  "re": "colophony",
+  "claim": "colophony sensitisation (Applied DM)"
+ },
+ {
+  "id": 64,
+  "ans": "Q6",
+  "src": "G",
+  "re": "Box 16\\.8|BOX 16\\.8",
+  "claim": "Grossman Box 16.8"
+ },
+ {
+  "id": 65,
+  "ans": "Q6",
+  "src": "C",
+  "re": "(Box|BOX) 9\\.1",
+  "claim": "Cohen Box 9.1"
+ },
+ {
+  "id": 66,
+  "ans": "Q6",
+  "src": "H",
+  "re": "good penetration into dentinal tubules",
+  "claim": "Harty tubule penetration item"
+ },
+ {
+  "id": 67,
+  "ans": "Q6",
+  "src": "PP",
+  "re": "expand slightly",
+  "claim": "Principles & Practice expands slightly"
+ },
+ {
+  "id": 68,
+  "ans": "Q7",
+  "src": "T",
+  "re": "polycaprolactone",
+  "claim": "Resilon polycaprolactone (Azim/Aksel)"
+ },
+ {
+  "id": 69,
+  "ans": "Q7",
+  "src": "G",
+  "re": "150 ?\u00b0? ?C",
+  "claim": "Resilon 150 C (Grossman)"
+ },
+ {
+  "id": 70,
+  "ans": "Q7",
+  "src": "G",
+  "re": "200 ?\u00b0? ?C",
+  "claim": "gutta-percha 200 C (Grossman)"
+ },
+ {
+  "id": 71,
+  "ans": "Q7",
+  "src": "G",
+  "re": "polyurethane",
+  "claim": "Grossman calls it polyurethane"
+ },
+ {
+  "id": 72,
+  "ans": "Q7",
+  "src": "J",
+  "re": "45 min",
+  "claim": "Epiphany self-cure about 45 min (Jain)"
+ },
+ {
+  "id": 73,
+  "ans": "Q7",
+  "src": "I",
+  "re": "P = 0\\.037|superior",
+  "claim": "Teixeira fracture resistance superior (Ingle)"
+ },
+ {
+  "id": 74,
+  "ans": "Q7",
+  "src": "I",
+  "re": "(did not have|not have) enough",
+  "claim": "Ingle: not enough stiffness to reinforce"
+ },
+ {
+  "id": 75,
+  "ans": "Q7",
+  "src": "J",
+  "re": "sulfonic acid",
+  "claim": "primer sulfonic acid-terminated monomer (Jain)"
+ },
+ {
+  "id": 76,
+  "ans": "Q8",
+  "src": "J",
+  "re": "14,?000 ?MPa",
+  "claim": "dentin modulus 14,000 MPa (Jain)"
+ },
+ {
+  "id": 77,
+  "ans": "Q8",
+  "src": "S",
+  "re": "Franklin Tay",
+  "claim": "Tay first described monoblock (Sikri)"
+ },
+ {
+  "id": 78,
+  "ans": "Q8",
+  "src": "J",
+  "re": "primary, secondary, or tertiary",
+  "claim": "primary/secondary/tertiary (Jain)"
+ },
+ {
+  "id": 79,
+  "ans": "Q8",
+  "src": "J",
+  "re": "ActiveGP|Activ GP",
+  "claim": "tertiary example ActiveGP (Jain)"
+ },
+ {
+  "id": 80,
+  "ans": "Q8",
+  "src": "H",
+  "re": "form of monoblock",
+  "claim": "Activ GP a form of monoblock (Harty)"
+ },
+ {
+  "id": 81,
+  "ans": "Q1",
+  "src": "T",
+  "re": "0\\.3.{0,6}1 ?%|shrinkage of 0\\.3|0\\.3 ?% to 1",
+  "claim": "ZOE shrinkage 0.3-1% (Azim/Aksel)"
+ },
+ {
+  "id": 82,
+  "ans": "Q1",
+  "src": "T",
+  "re": "2 ?h(ours)?.{0,60}37|37 ?\u00b0C.{0,60}2 ?h|hardens? in about 2",
+  "claim": "Grossman cement hardens in about 2 h at 37 C"
+ },
+ {
+  "id": 83,
+  "ans": "Q1",
+  "src": "S",
+  "re": "0\\.3 ?%.{0,200}0\\.5 ?%|solubility.{0,100}0\\.3",
+  "claim": "AH Plus solubility 0.3% / AH-26 0.5% (Sikri)"
+ },
+ {
+  "id": 84,
+  "ans": "Q1",
+  "src": "C",
+  "re": "cementoblast",
+  "claim": "GuttaFlow Bioseal PDL stem cells to cementoblast-like (Cohen)"
+ },
+ {
+  "id": 85,
+  "ans": "Q1",
+  "src": "C",
+  "re": "(ISO|Table 9\\.1).{0,200}(flow|radiopacity)",
+  "claim": "Cohen cites ISO/Table 9.1 properties"
+ },
+ {
+  "id": 86,
+  "ans": "Q1",
+  "src": "C",
+  "re": "lead.{0,60}magnesium|magnesium.{0,60}lead",
+  "claim": "calcium-containing less toxic than lead/magnesium (Sikri)"
+ },
+ {
+  "id": 87,
+  "ans": "Q1",
+  "src": "S",
+  "re": "lead.{0,80}magnesium|magnesium.{0,80}lead|calcium.{0,80}less toxic",
+  "claim": "Sikri calcium-containing less toxic than lead or magnesium"
+ },
+ {
+  "id": 88,
+  "ans": "Q2",
+  "src": "T",
+  "re": "tantalum",
+  "claim": "tantalum oxide radiopacifier (Azim/Aksel)"
+ },
+ {
+  "id": 89,
+  "ans": "Q2",
+  "src": "C",
+  "re": "NeoMTA|EndoSeal MTA|Endo-?CPM",
+  "claim": "NeoMTA/EndoSeal/Endo CPM named (Cohen)"
+ },
+ {
+  "id": 90,
+  "ans": "Q2",
+  "src": "S",
+  "re": "Sankin|CapSeal|CEM",
+  "claim": "Sikri calcium phosphate sealers Sankin Apatite/CapSeal/CEM"
+ },
+ {
+  "id": 91,
+  "ans": "Q2",
+  "src": "C",
+  "re": "ultrasonic.{0,300}(circumferential|distribut)|(circumferential|distribut).{0,300}ultrasonic",
+  "claim": "ultrasonics sealer distribution (Cohen)"
+ },
+ {
+  "id": 92,
+  "ans": "Q2",
+  "src": "T",
+  "re": "7 days|seven days",
+  "claim": "bioceramic alkalinity up to 7 days (Azim/Aksel)"
+ },
+ {
+  "id": 93,
+  "ans": "Q3",
+  "src": "T",
+  "re": "salicylate",
+  "claim": "MTA Fillapex salicylate resin reduces viability (Azim/Aksel)"
+ },
+ {
+  "id": 94,
+  "ans": "Q3",
+  "src": "C",
+  "re": "96\\.8|extru",
+  "claim": "extrusion (Cohen)"
+ },
+ {
+  "id": 95,
+  "ans": "Q3",
+  "src": "T",
+  "re": "regulat|systematic review",
+  "claim": "systematic review tricalcium silicate (Cohen)"
+ },
+ {
+  "id": 96,
+  "ans": "Q3",
+  "src": "C",
+  "re": "systematic review.{0,300}(tricalcium|MTA)|(tricalcium|MTA).{0,300}systematic review",
+  "claim": "systematic review tricalcium silicates similar to MTA (Cohen)"
+ },
+ {
+  "id": 97,
+  "ans": "Q4",
+  "src": "S",
+  "re": "sixth|fifth generation|five generations|fifth",
+  "claim": "Sikri five resin generations"
+ },
+ {
+  "id": 98,
+  "ans": "Q4",
+  "src": "C",
+  "re": "(4|four) generations?|fourth",
+  "claim": "Cohen generations"
+ },
+ {
+  "id": 99,
+  "ans": "Q4",
+  "src": "J",
+  "re": "Four generations have been introduced",
+  "claim": "Jain: four generations"
+ },
+ {
+  "id": 100,
+  "ans": "Q5",
+  "src": "S",
+  "re": "Resin methyl|salicylic",
+  "claim": "Nogenol catalyst resin/salicylic acid (Sikri, garbled)"
+ },
+ {
+  "id": 101,
+  "ans": "Q6",
+  "src": "I",
+  "re": "(ideal|requirement|criteria)",
+  "claim": "Ingle list present"
+ },
+ {
+  "id": 102,
+  "ans": "Q7",
+  "src": "T",
+  "re": "bismuth oxychloride",
+  "claim": "Resilon bismuth oxychloride (Azim/Aksel)"
+ },
+ {
+  "id": 103,
+  "ans": "Q7",
+  "src": "G",
+  "re": "65 ?%",
+  "claim": "Resilon 65% filler (Grossman?)"
+ },
+ {
+  "id": 104,
+  "ans": "Q7",
+  "src": "J",
+  "re": "65 ?%|70 ?%",
+  "claim": "Resilon 65% / Epiphany 70% filler (Jain)"
+ },
+ {
+  "id": 105,
+  "ans": "Q8",
+  "src": "J",
+  "re": "C-?factor|configuration",
+  "claim": "Jain C factor"
+ },
+ {
+  "id": 106,
+  "ans": "Q8",
+  "src": "J",
+  "re": "Hydron MTA",
+  "claim": "Jain primary example 'Hydron MTA'"
+ }
+]

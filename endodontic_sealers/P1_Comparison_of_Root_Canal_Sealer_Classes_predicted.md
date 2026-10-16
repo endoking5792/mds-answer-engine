@@ -34,26 +34,42 @@ Routine lateral compaction, retreatment likely: ZOE or epoxy. Hydraulic single c
 ---
 
 ## EXAM MODE
-**(Word count about 300)**
+**(Word count 356; about 16 min at 22 words/min)**
 
 ### Introduction
-Six classes of sealers are in use; each trades sealing, biocompatibility and retreatability.
+Six classes of sealer are in use: zinc oxide-eugenol, calcium hydroxide, glass ionomer, epoxy resin, methacrylate resin and calcium silicate (bioceramic). They differ in chemistry, bonding, solubility, biocompatibility and retreatability, and none is proven clinically superior.
 
 ### Comparison
-| Feature | ZOE | Ca(OH)2 | GIC | Epoxy | Resin | Bioceramic |
+| Feature | ZOE | Ca(OH)2 | Glass ionomer | Epoxy | Methacrylate | Bioceramic |
 |---|---|---|---|---|---|---|
-| Bond | None | None | Chemical | Dentin only | Hybrid layer | Chemical |
-| Solubility | High | High | Low | Low | Low | Low |
-| Antibacterial | Yes | Limited | Limited | Little | Little | Alkaline |
-| Toxicity | Fresh high | Low | Low | Fresh high | Mild | Low |
-| Moisture | Dry | Dry | Condition | Dry | Slightly moist | Moist |
-| Retreatment | Easy | Easy | Hard | Moderate | Moderate | Debated (hard) |
+| Example | Pulp Canal Sealer | Sealapex | Ketac-Endo | AH Plus | EndoREZ, Epiphany | iRoot SP, BioRoot |
+| Setting | Zinc eugenolate, slow | Resin/salicylate | Acid-base | Epoxide-amine addition | Dual-cure polymerisation | Hydraulic with moisture |
+| Bond | Adaptation | Adaptation | Chemical to dentin | Dentin only | Hybrid layer, tags | Mineral / chemical |
+| Solubility, shrinkage | Shrinks 0.3-1%, soluble | Soluble to act | Low | Low; resin sealers shrink about 7.81% | Shrinks; C-factor about 1,000 | Under 0.1% expansion; solubility above AH Plus in some |
+| Antimicrobial | Yes | Limited | Minimal | Some | Little | Alkaline for days |
+| Biocompatibility | Eugenol cytotoxic unset; good clinical record | Benefit not shown | Good | Toxic unset, low at 24 h | Higher cytotoxicity than AH Plus | Grossman's: most biocompatible; Cohen's: BC took 5 vs 3 weeks; MTA Fillapex cytotoxic |
+| Moisture | Dry | Dry | Needs conditioning | Dry | Slightly moist | Needs moisture |
+| Retreatment | Easy | Easy | Hardest | Moderate | Moderate | Disputed |
 
 ### Selection
-ZOE/epoxy routine; bioceramic hydraulic and open apex; resin for bonded monoblock; GIC niche.
+- **Routine cold or warm gutta-percha techniques with likely retreatment:** ZOE or epoxy.
+- **Hydraulic single cone, extrusion-prone or open apex:** bioceramic.
+- **Bonded system wanted and moisture controllable:** resin.
+- **Glass ionomer:** where chemical bonding is wanted and retreatment is unlikely.
+Paraformaldehyde sealers are never used.
+
+### Evidence
+No randomised trial shows one class superior. Older sealer classes give the same clinical outcome and bioceramic sealers lack sufficient clinical data. Leakage appears to depend more on the sealer than on the core, and greater radiopacity is not better sealing.
+
+### Key contrasts to state
+- **Bonding sealers** (glass ionomer, methacrylate, bioceramic) versus **adapting sealers** (ZOE, epoxy, silicone, calcium hydroxide).
+- **Most soluble:** ZOE and calcium hydroxide; **least soluble:** epoxy and silicone.
+- **Easiest to retreat:** ZOE and epoxy; **hardest:** glass ionomer; bioceramic disputed (Cohen's: no worse than epoxy; Jain: patency in 20%; Sikri: most difficult).
+- **Longest clinical record:** ZOE; **least clinical data:** bioceramic.
+- **Moisture:** resin slightly moist, bioceramic needs it, ZOE and epoxy dry.
 
 ### Conclusion
-No class is proven superior; choose by moisture control, extrusion risk and need for retreatment.
+Choose by seal, solubility, biocompatibility and retreatability, and always keep sealer within the canal.
 
 ---
 
@@ -73,7 +89,7 @@ Additional textbooks read after the first pass; additions and conflicts only (no
 
 ## SOURCE LIST
 **[SRC]** Gatewood RS. 2007;51:695-712; Pameijer CH, Zmener O. 2010;54:325-344; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am); digest `SubModule_4.5`; `calcium_silicate/Q02`.
-- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
+- Second-pass sources: Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; 2017. Ch.9; Jain PR, ed. *Common Complications in Endodontics: Prevention and Management*. 2nd ed. Springer; 2025. Ch.6; Chugal N, Lin LM, eds. *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*. Springer; 2017. Ch.9; *Problem Solving in Endodontics* Ch.12; Walton RE, Torabinejad M. *Principles and Practice of Endodontics*. 3rd ed. W.B. Saunders; 2002. Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors/years confirmed 2026-10-16 for Harty's, Common Complications, Endodontic Prognosis and Walton and Torabinejad; still pending for Problem Solving in Endodontics, Applied Dental Materials and Bioceramics in Endodontics.
 
 ## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel. **Corrected:** bioceramic retreatability and biocompatibility cells now show the textbook disagreement (Cohen's vs Jain vs Sikri; Grossman's vs Cohen's); epoxy antimicrobial cell; shrinkage and C-factor values; setting chemistry confirmed (Cohen's Table 9.1 and Ch.9 text). **Pending:** none beyond the primary studies cited in the textbooks.

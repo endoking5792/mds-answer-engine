@@ -52,48 +52,66 @@ Traditional sealers seal by adaptation without bonding, with solubility and shri
 ---
 
 ## EXAM MODE
-**(Word count about 780; about 35 min)**
+**(Word count 669; about 30 min at 22 words/min)**
 
 ### Introduction
-Resin-based sealers were developed because gutta-percha does not bond to dentin or conventional sealers, so microleakage follows. They include epoxy resins and methacrylate-based resin sealers.
+Gutta-percha does not bond to dentin, nor to zinc oxide-eugenol or epoxy sealers, so a bonded sealer was sought to prevent microleakage. Hydrophilic methacrylate sealers borrow from adhesive restorative dentistry to form a hybrid layer and resin tags. Epoxy resin sealers (AH Plus) are also resin-based but bond only to dentin.
 
-### Classification
-| Type | Examples |
-|---|---|
-| Epoxy resin | AH-26, AH Plus, Topseal |
-| Methacrylate (MBRS) | EndoREZ, Epiphany/RealSeal (Resilon), MetaSEAL (4-META) |
-| Generations | Four (Cohen's, Jain): Hydron, EndoREZ, Epiphany, MetaSEAL; five in Sikri |
+### Types
+**Epoxy resin sealers** (AH-26, AH Plus, Topseal): good handling, adhesion to dentin (probably its collagen), low solubility, dimensional stability and antibacterial properties. AH-26 released formaldehyde on setting and was reformulated as AH Plus. AH Plus is a two-paste epoxide-amine system with a working time of about 4 h. They do not bond to gutta-percha and are toxic when unset.
 
-### Composition and mechanism
-Dual-cure dimethacrylates (UDMA, BisGMA, TEGDMA, PEGDMA) with fillers; self-etch primer or self-priming; hydrophilic; bond by hybrid layer and resin tags in smear-layer-free, slightly moist dentin; resin-coated cones or Resilon core aim at a monoblock.
+**Methacrylate resin sealers (MBRS):**
+| Generation (Cohen's, four) | Example | Features |
+|---|---|---|
+| First | Hydron (poly-HEMA) | Mid-1970s, polymerised in situ without a core; obsolete in the 1980s |
+| Second | EndoREZ | Non-etching, hydrophilic, dual-cure (diurethane dimethacrylate with triethyleneglycol dimethacrylate); resin tags; used with resin-coated gutta-percha |
+| Third | Epiphany / RealSeal with Resilon | Self-etching primer plus dual-cure resin sealer; primer incorporates the smear layer |
+| Fourth | MetaSEAL, RealSeal SE | Self-adhesive; no separate primer |
+Sikri counts five generations by adding ADSeal and Dia-ProSeal as the fifth, calling them "an improved version of the fourth generation technology" — but Sikri's own composition table lists Paste A of both as **epoxy resin**, not a methacrylate (verified directly against the printed table, 2026-10-16). Preferred exam line: **four generations** (Cohen's, 2021; Jain, 2016) is the classification to use; ADSeal/Dia-ProSeal are better described as epoxy-resin sealers (alongside AH Plus) that Sikri places, apparently by error, in its methacrylate section.
 
-### Technique
-Final rinse 17% EDTA after NaOCl; low-vacuum 5 s and paper point 1 s to leave slightly moist dentin; primer (Epiphany) or self-priming sealer; place core; cure coronally and allow self-cure.
+### Bonding conditions
+Remove the smear layer with 17-19% EDTA or dilute citric acid. Leave the dentin slightly moist (low vacuum for about 5 s then a paper point for about 1 s); over-drying gives poor tags and flooding traps water. Flush EDTA after NaOCl because residual oxygen forms an oxygen-inhibited layer; push-out strength of EndoREZ was about 1.33 MPa after a final NaOCl rinse against about 8 MPa after EDTA [LIT: Pameijer and Zmener, 2010].
+
+### Clinical technique
+1. Final irrigation: NaOCl for disinfection, then 17% EDTA for one minute to remove the smear layer; flush so that no NaOCl or hydrogen peroxide remains.
+2. Remove excess fluid with a low-vacuum tip and paper points, leaving the dentin slightly moist.
+3. Apply the primer (Epiphany) or use a self-priming or self-adhesive sealer (EndoREZ, MetaSEAL), mixed through an auto-mix tip.
+4. Seat the core (resin-coated gutta-percha or Resilon) to working length.
+5. Light-cure the coronal 2 mm for about 40 s and allow the rest to self-cure; the dual-cure sealers set slowly in the canal.
+6. Restore promptly.
 
 ### Advantages
-Hybrid layer; low viscosity; lower leakage in several studies; success about 86-94% at 2-5 years, 92.1% at 10 years for EndoREZ.
+Hybrid layer and resin tags (EndoREZ tags 400-1000 μm [LIT]); low viscosity and good flow; auto-mix delivery; monoblock potential; lower leakage in several laboratory studies. Clinical success: EndoREZ 91.03% at 2 years and 86.3% at 5 years, Resilon-Epiphany 91.6% at 2 and 93.1% at 4 years [LIT]; EndoREZ with gutta-percha 92.1% cumulative success at 10 years in an uncontrolled study (Cohen's).
 
 ### Limitations
-Moisture sensitivity; polymerisation shrinkage (about 7.8%) and high C-factor; incomplete conversion; monomer cytotoxicity; no root reinforcement; contradictory evidence; Resilon withdrawn.
+- **Technique sensitivity:** moisture control and smear layer removal.
+- **Polymerisation shrinkage:** resin-based sealers shrink about 7.81%, and the C-factor in a canal is about 1,000 against 5 in a Class I cavity, so the bond cannot resist shrinkage stress.
+- **Incomplete conversion** below 70% and monomer release.
+- **Cytotoxicity:** methacrylate sealers showed higher cytotoxicity and inflammatory response than AH Plus or a calcium hydroxide sealer; their toxicity did not decrease with time in several studies.
+- **No proven superiority:** no better sealing or root strengthening than conventional sealers.
+- **Resilon core:** degraded enzymatically, creating a core-sealer gap; withdrawn 2014.
 
 ### Comparison with traditional sealers
 | Feature | Traditional (ZOE, Ca(OH)2, GIC) | Resin |
 |---|---|---|
-| Bond | Adaptation; GIC chemical | Hybrid layer, tags |
-| Solubility/shrinkage | ZOE soluble, shrinks | Low solubility; polymerisation shrinkage |
+| Bond | Adaptation; GIC chemical | Hybrid layer and tags |
+| Solubility and shrinkage | ZOE soluble and shrinks | Low solubility; polymerisation shrinkage |
 | Moisture | Dry canal | Slightly moist |
 | Technique | Simple | Sensitive |
-| Biocompatibility | Long record | Higher cytotoxicity than AH Plus |
-| Retreatment | Solvents | Moderate |
+| Biocompatibility | Long record | Higher cytotoxicity |
+| Retreatment | Solvents | Moderate; Resilon removed with chloroform |
+
+### Retreatment and evidence
+Epiphany/Resilon was removed faster and with less residue than gutta-percha with AH Plus in straight canals in one study; epoxy sealers are removable with chloroform and heat, but less easily than zinc oxide-eugenol. Clinically, resin sealers perform no better than conventional sealers: older sealer classes give the same outcome, no randomised trial shows a class superior, and the Pameijer and Zmener review comes from the EndoREZ developers.
 
 ### Conclusion
-Resin sealers bring adhesion to obturation, but benefit depends on moisture control and is not proven clinically superior.
+Resin sealers add adhesion to obturation, but benefit depends on moisture control, shrinkage is a problem, and clinical superiority is unproven.
 
 ---
 
 ## HIGH-YIELD POINTS
 - Gutta-percha does not bond to ZOE or epoxy sealers.
-- Four generations (Cohen's, Jain) vs five (Sikri).
+- Four generations (Cohen's, Jain) preferred; Sikri's "fifth" (ADSeal, Dia-ProSeal) is epoxy resin by composition.
 - EndoREZ: UDMA + TEGDMA; bonds dentin, not plain gutta-percha.
 - Final rinse EDTA; slightly moist dentin; oxygen-inhibited layer.
 - Resin sealer shrinks about 7.81%; C-factor 1,000 vs 5.
@@ -122,7 +140,7 @@ Additional textbooks read after the first pass; additions and conflicts only (no
 **[SRC]**
 - Berman et al (2021) Ch.9; Gopikrishna (2021) Ch.16; Sikri (2019) Ch.19; Jain (2016) Ch.5; Siqueira and Rôças (2022) Ch.15 (Azim, Aksel); Weine's Endodontic Therapy Ch.7.
 - Pameijer and Zmener (2010); Gatewood (2007) (Dent Clin North Am).
-- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
+- Second-pass sources: Chong BS, ed. *Harty's Endodontics in Clinical Practice*. 7th ed. Elsevier; 2017. Ch.9; Jain PR, ed. *Common Complications in Endodontics: Prevention and Management*. 2nd ed. Springer; 2025. Ch.6; Chugal N, Lin LM, eds. *Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome*. Springer; 2017. Ch.9; *Problem Solving in Endodontics* Ch.12; Walton RE, Torabinejad M. *Principles and Practice of Endodontics*. 3rd ed. W.B. Saunders; 2002. Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors/years confirmed 2026-10-16 for Harty's, Common Complications, Endodontic Prognosis and Walton and Torabinejad; still pending for Problem Solving in Endodontics, Applied Dental Materials and Bioceramics in Endodontics.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
-Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel, Weine. **Corrected or added:** four versus five generations recorded; AH-26 formaldehyde confirmed (Weine, Cohen's); TEGDMA in EndoREZ confirmed; shrinkage 7.81% and C-factor 1,000 vs 5 added; moisture protocol 5 s and 1 s; 10-year EndoREZ data added. **Pending:** original clinical studies (Zmener and Pameijer; Debelian and Barnett); cure times for Epiphany (Gatewood 15-30 min vs other sources 45 min) not reconciled.
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied; Niranjan contradiction review 2026-10-16)
+Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel, Weine. **Corrected or added:** four versus five generations recorded; AH-26 formaldehyde confirmed (Weine, Cohen's); TEGDMA in EndoREZ confirmed; shrinkage 7.81% and C-factor 1,000 vs 5 added; moisture protocol 5 s and 1 s; 10-year EndoREZ data added. **Resolved (contradiction review):** checked Sikri's own composition table for ADSeal/Dia-ProSeal directly — Paste A of both is epoxy resin, not methacrylate; four generations is the preferred exam line, Sikri's fifth flagged as a likely misclassification. **Pending:** original clinical studies (Zmener and Pameijer; Debelian and Barnett); cure times for Epiphany (Gatewood 15-30 min vs other sources 45 min) — kept side by side, no basis to prefer either.
