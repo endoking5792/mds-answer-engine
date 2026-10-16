@@ -112,11 +112,19 @@ Recent sealers move from passive space-fillers towards bonded and bioactive mate
 ## MNEMONIC
 **"R-S-B-C-N"**: Resin, Silicone, Bioceramic, Coated cones, Nano.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's:** RoekoSeal expands about 0.2% and GuttaFlow also about 0.2% on curing (manufacturer's figures); GuttaFlow working time 15 min and set about 30 min, GuttaFlow FAST 5 min and 10 min. ProRoot Endo Sealer: tricalcium and dicalcium silicate, calcium sulphate as retarder, bismuth oxide radiopacifier, a little tricalcium aluminate, with aqueous polyvinyl-pyrrolidone liquid. MTA-based sealers are slow setting (accelerators under development) and may give an entombment advantage in retreatment.
+- **Reinforcement conflict:** Harty's states EndoSequence BC sealer increased the fracture force of root-filled premolars; Jain also reports increased in vitro fracture resistance with a bioceramic sealer plus coated cone, whereas Azim and Aksel found no strengthening with methacrylate sealers. The two findings concern different sealer classes; do not generalise either.
+- **Bioceramics in Endodontics:** Bio-C Sealer ION+ upregulated CEMP1, CAP and RUNX2 in one study; flow and set time of RoekoSeal and iRoot SP fall as temperature rises.
+- Common Complications describes synchronised hydraulic condensation (bioceramic sealer with its proprietary coated cone) as the newest technique.
+
 ## SOURCE LIST
 **[SRC]**
 - Berman et al (2021) Ch.9; Gopikrishna (2021) Ch.16; Sikri (2019) Ch.19; Jain (2016) Ch.5; Siqueira and Rôças (2022) Ch.15; Torabinejad, MTA, Ch.10; Chopra, *Bioceramics in Endodontics*.
 - Pameijer and Zmener (2010); Gatewood (2007); Guruswamy Pandian et al (2026).
 - Project answers `calcium_silicate/Q02`, `smart_materials/`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's Ch.9, Grossman's Ch.16, Sikri Ch.19, Jain Ch.5, Azim and Aksel Ch.15, Torabinejad Ch.10, Chopra. **Corrected:** methacrylate generations are four in Cohen's and Jain but five in Sikri (previously "four" without the conflict); silicone sealer content added from Cohen's (previously flagged thin); Resilon withdrawal and the failure data added; final-set time conflict recorded (under 6 h vs 12-24 h); MTA Fillapex 13.2% MTA; "no human clinical studies" from Cohen's 12th ed. **Pending:** current clinical data on bioceramic sealers (post-2021), the smart-sealer claims (cited only through the project's smart-materials answer).

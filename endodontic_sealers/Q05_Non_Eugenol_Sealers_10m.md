@@ -98,9 +98,16 @@ Non-eugenol sealers avoid eugenol's irritation and interference with resins, but
 ## MNEMONIC
 **"N-C-E-G-R-S-B"**: Nogenol, Calcium hydroxide, Epoxy, Glass ionomer, Resin, Silicone, Bioceramic.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Applied Dental Materials:** ZOE sealers are cytotoxic and mutagenic in high doses without clinical significance; the antimicrobial potential of zinc oxide and zinc eugenolate is lost on switching to eugenol-free products; rosin/colophony additives in ZOE can sensitise; paraformaldehyde variants are contraindicated.
+- **Common Complications:** eugenol leakage induces toxic effects on nerve cells that persist after setting, which strengthens the case for eugenol-free sealers; ZOE nonetheless has over a century of successful use.
+- **Endodontic Prognosis:** ZOE and epoxy sealers show the same clinical outcome, so the choice of a non-eugenol sealer is mainly about resin compatibility and handling, not demonstrated outcome.
+
 ## SOURCE LIST
 **[SRC]** Berman et al (2021) Ch.9; Sikri (2019) Ch.19; Gopikrishna (2021) Ch.16; Weine's Endodontic Therapy Ch.7; Walton and Torabinejad, *Principles and Practice of Endodontics*; Gulabivala and Ng (2014) Ch.8; Gatewood (2007); Pameijer and Zmener (2010); Guruswamy Pandian et al (2026).
 **[RECALL]** eugenol allergy.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Sikri, Grossman's, Weine, Walton and Torabinejad, Gulabivala and Ng. **Corrected:** the inferred meaning of "non-eugenol" is replaced by the textbook sense (Nogenol as the specific product; Sealapex/AH Plus as "noneugenol" in descriptive use); Nogenol composition and expansion on setting added. **Pending:** the Nogenol composition in Sikri is garbled in the markdown (check printed page); the eugenol-polymerisation-inhibition mechanism is stated in Gulabivala and the trauma atlas only as clinical advice.

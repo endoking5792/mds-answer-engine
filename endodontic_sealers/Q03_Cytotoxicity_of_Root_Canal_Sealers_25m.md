@@ -99,11 +99,21 @@ No sealer is entirely nontoxic; toxicity falls with setting; selection should re
 ## MNEMONIC
 **"F-S-I-E-P"**: Fresh toxic, Set tolerated, In vitro exaggerates, Extrusion avoided, Paraformaldehyde banned.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's:** all ZOE cements are cytotoxic and the cellular response may last longer than with other materials, but this is usually not apparent clinically; most extruded sealer is absorbed with time; there is "equivocal evidence" that extrusion reduces success. **This conflicts in strength with Grossman's 14e "as much as 25%" reduction**; record both.
+- **Problem Solving in Endodontics** (Ch.12): extruded sealer may remain encapsulated, and apparent radiographic healing may hide a persistent chronic inflammatory reaction around irritating sealer.
+- **Common Complications:** ZOE eugenol toxicity "persistent even after setting"; epoxy findings are contradictory (toxic before setting and decreasing vs no cytotoxicity and proliferation on aged specimens); newer resin sealers showed toxic effects that did not decrease with time; silicone sealers slightly cytotoxic fresh and aged; calcium silicate sealers cytocompatible.
+- **Endodontic Prognosis:** once the microbial aetiology is accepted and tissue reactions overcome initial toxicity, some irritation does not impair clinical performance; focus has shifted to leakage and adhesion.
+- **Principles and Practice (2002):** all commonly used sealers show some toxicity, greatest unset, diminishing with setting and time.
+- **Applied Dental Materials:** ZOE is cytotoxic and mutagenic in high doses without clinical significance; epoxy least toxic of all sealers at 24 h.
+
 ## SOURCE LIST
 **[SRC]**
 - Berman et al (2021) Ch.9; Gopikrishna (2021) Ch.16; Rotstein and Ingle (2019) Ch.22; Sikri (2019) Ch.19; Jain (2016) Ch.5; Siqueira and Rôças (2022) Ch.15; Torabinejad, MTA, Ch.10.
 - Pameijer and Zmener (2010); Gatewood (2007).
 - Project answer `calcium_silicate/Q02`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Grossman's, Ingle's, Sikri, Jain, Azim and Aksel, Torabinejad. **Corrected or added:** the previous TEGDMA flag is resolved (EndoREZ contains triethylene glycol dimethacrylate in Cohen's and Jain, so the review's "neither contains" statement is wrong); Cohen's data on BC sealer versus AH Plus (5 vs 3 weeks) and the contradicting Grossman's "most biocompatible" recorded; MTA Fillapex cytotoxic/genotoxic confirmed in Torabinejad and Azim and Aksel; "healing probability reduced by as much as 25%" (Grossman's); medicated paraformaldehyde sealers added (Cohen's, Ingle's, Azim and Aksel). **Pending:** the primary cytotoxicity studies cited in the reviews; current ISO 10993 testing standard text.

@@ -87,8 +87,15 @@ No sealer meets all properties; radiopacity does not equal seal.
 ## MNEMONIC
 **"T-H-R-F-N-N-B-S-I-T-S"**: Tacky, Hermetic, Radiopaque, Fine powder, No shrinkage, No stain, Bacteriostatic, Slow set, Insoluble, Tolerated, Solvent-soluble.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's** gives twelve requirements: nonirritating, insoluble, dimensionally stable, hermetic seal, radiopaque, bacteriostatic, sticky with good adhesion once set, good penetration into dentinal tubules, easily mixed, nonstaining, good working time, easily removable; and purposes: luting the core, filling discrepancies, lubricant, antimicrobial agent, and marker for accessory canals, resorptive defects and root fractures. It states no current material satisfies all.
+- **Principles and Practice (2002)** adds that sealer should be dimensionally stable "or even expand slightly", have adequate working time then set reasonably soon, and be soluble in a solvent.
+- **Applied Dental Materials:** minimal film thickness is desirable because sealer is the material most likely to degrade; extended-working-time products exist for multi-canal cases.
+
 ## SOURCE LIST
 **[SRC]** Berman et al (2021) Ch.9 Box 9.1; Gopikrishna (2021) Ch.16 Box 16.8; Sikri (2019) Ch.19; Rotstein and Ingle (2019) Ch.22; Siqueira and Rôças (2022) Ch.15; Gatewood RS. Dent Clin North Am. 2007;51:695-712.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Grossman's, Sikri, Ingle's, Azim and Aksel. **Corrected:** Grossman's criteria are **eleven**, not ten (very fine powder had been missed); ISO 6876 added; Grossman's 14th ed. list recorded alongside; Sikri's six functions added. **Pending:** Ingle's list wording; original Grossman list (1988).

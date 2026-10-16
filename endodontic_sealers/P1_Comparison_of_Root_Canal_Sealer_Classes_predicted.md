@@ -65,8 +65,15 @@ No class is proven superior; choose by moisture control, extrusion risk and need
 ## MNEMONIC
 **"B-S-M-R"**: Bond, Solubility, Moisture, Retreatment.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Endodontic Prognosis:** ZOE, epoxy, calcium hydroxide-salicylate, silicone and composite sealers show the same clinical outcome; bioceramic sealers lack sufficient clinical data. This should sit under the "Evidence" row of the matrix.
+- **Harty's:** only limited research suggests selection influences outcome; sealer extrusion needs minimising; MTA-based sealers set slowly.
+- **Applied Dental Materials:** no evidence calcium hydroxide sealers confer any advantage.
+
 ## SOURCE LIST
 **[SRC]** Gatewood RS. 2007;51:695-712; Pameijer CH, Zmener O. 2010;54:325-344; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am); digest `SubModule_4.5`; `calcium_silicate/Q02`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel. **Corrected:** bioceramic retreatability and biocompatibility cells now show the textbook disagreement (Cohen's vs Jain vs Sikri; Grossman's vs Cohen's); epoxy antimicrobial cell; shrinkage and C-factor values; setting chemistry confirmed (Cohen's Table 9.1 and Ch.9 text). **Pending:** none beyond the primary studies cited in the textbooks.

@@ -87,6 +87,12 @@ Resilon was a bonded obturation system whose early promise was not borne out; it
 ## MNEMONIC
 **"P-S-R"**: Primer, Sealer, Resilon.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Common Complications** describes Resilon/Epiphany as an attempt to form a monoblock bond between wall, core and sealer, and notes the standard ISO sizes and shapes; it also describes resin-coated gutta-percha with EndoREZ as a parallel attempt.
+- **Endodontic Prognosis** cites the Cotton et al (2008) retrospective study (no outcome difference at 2-25 months), matching Azim and Aksel.
+- I found no statement in the second-pass chapters that contradicts the 2014 withdrawal; older textbooks simply predate it.
+
 ## SOURCE LIST
 **[SRC]**
 - Siqueira JF Jr, Rôças IN, eds. *Treatment of Endodontic Infections*. 2nd ed. Quintessence; 2022. Ch.15 (Azim AA, Aksel H).
@@ -94,6 +100,7 @@ Resilon was a bonded obturation system whose early promise was not borne out; it
 - Rotstein I, Ingle JI, eds. *Ingle's Endodontics*. 7th ed. 2019. Ch.22.
 - Jain P, ed. *Current Therapy in Endodontics*. 2016. Ch.5.
 - Gatewood RS. Dent Clin North Am. 2007;51:695-712; Pameijer CH, Zmener O. 2010;54:325-344.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Azim and Aksel, Grossman's, Ingle's, Jain. **Corrected or added:** product withdrawn 2014 (previously unstated); Barborka 56% vs 88% and 5.3 times data; 150 vs 200 °C; C-factor; enzymatic degradation. **Contradictions recorded:** Epiphany self-cure 15-30 min (Gatewood) vs about 45 min (Jain); fracture resistance superior (Teixeira, in Ingle's) vs insufficient stiffness (Ingle's); Grossman's calls Resilon "polyurethane" in its introductory line but lists polycaprolactone. **Pending:** original Barborka and Shipper papers.

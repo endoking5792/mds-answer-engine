@@ -86,8 +86,15 @@ The monoblock is excellent in theory; no current material gives a true reinforci
 ## MNEMONIC
 **"P-S-T"**: Primary 1, Secondary 2, Tertiary 3 interfaces.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's:** the glass-ionomer-coated Activ GP points are "a form of monoblock".
+- **Common Complications:** bioceramic sealer manufacturers now make proprietary coated cones to bond the core to the sealer, and combine them in synchronised hydraulic condensation; EndoREZ with resin-coated cones is the earlier equivalent.
+- Applied Dental Materials describes the swelling polymer system (Smartpoint/Smartpaste) as another attempt to improve seal without bonding.
+
 ## SOURCE LIST
 **[SRC]** Jain P, ed. *Current Therapy in Endodontics*. 2016. Ch.5; Sikri VK. *Essentials of Endodontics*. 2nd ed. 2019. Ch.19; Siqueira JF Jr, Rôças IN, eds. *Treatment of Endodontic Infections*. 2nd ed. 2022. Ch.15; Rotstein I, Ingle JI, eds. *Ingle's Endodontics*. 7th ed. 2019. Ch.22; Pameijer CH, Zmener O. 2010;54:325-344; Gatewood RS. 2007;51:695-712 (Dent Clin North Am); project answer `calcium_silicate/Q02`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Jain Ch.5, Sikri Ch.19, Azim and Aksel Ch.15, Ingle's Ch.22. **Corrected or added:** the two prerequisites and the modulus (about 14,000 MPa) confirmed in Jain; Tay as originator (Sikri); primary example differs between Jain and Sikri and both are recorded; tertiary monoblock coating and handling note; C-factor 1,000 vs 5. **Pending:** Tay's original papers; the Jain and Sikri citation year (Jain © 2016; the earlier draft cited 2017).

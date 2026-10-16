@@ -111,10 +111,18 @@ Resin sealers bring adhesion to obturation, but benefit depends on moisture cont
 ## MNEMONIC
 **"E-M-H-T"**: EDTA, Moist, Hybrid layer, Tags.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Common Complications:** for the newer resin sealers designed to bond dentin, several studies reported toxic effects that did not decrease with time; epoxy resin sealers showed no bioactive or osteogenic properties but higher dentin bond strength, low solubility and adequate dimensional stability.
+- **Applied Dental Materials:** AH Plus sets by addition polymerisation (no residual monomer), working time about 4 h, soluble in chloroform; some patients are allergic to epoxy resin.
+- **Endodontic Prognosis:** composite (resin) sealers show the same clinical outcome as ZOE and epoxy.
+- **Harty's:** a separate adhesive layer may improve the bond strength of UDMA sealers; interfacial biofilm susceptibility of EndoREZ depends on the etching system; the final rinse can positively influence adhesion.
+
 ## SOURCE LIST
 **[SRC]**
 - Berman et al (2021) Ch.9; Gopikrishna (2021) Ch.16; Sikri (2019) Ch.19; Jain (2016) Ch.5; Siqueira and Rôças (2022) Ch.15 (Azim, Aksel); Weine's Endodontic Therapy Ch.7.
 - Pameijer and Zmener (2010); Gatewood (2007) (Dent Clin North Am).
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's, Grossman's, Sikri, Jain, Azim and Aksel, Weine. **Corrected or added:** four versus five generations recorded; AH-26 formaldehyde confirmed (Weine, Cohen's); TEGDMA in EndoREZ confirmed; shrinkage 7.81% and C-factor 1,000 vs 5 added; moisture protocol 5 s and 1 s; 10-year EndoREZ data added. **Pending:** original clinical studies (Zmener and Pameijer; Debelian and Barnett); cure times for Epiphany (Gatewood 15-30 min vs other sources 45 min) not reconciled.

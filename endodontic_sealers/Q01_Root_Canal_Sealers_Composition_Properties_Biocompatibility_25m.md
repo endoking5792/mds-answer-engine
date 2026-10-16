@@ -111,6 +111,14 @@ No class is proven clinically superior; sealer selection should rest on seal, so
 ## MNEMONIC
 **"Z-C-E-G-R-S-B"**: ZOE, Calcium hydroxide, Epoxy, Glass ionomer, Resin, Silicone, Bioceramic.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's** divides sealers into six groups (ZOE, calcium hydroxide, resin, glass ionomer, silicone, calcium silicate/MTA-based) and lists twelve requirements, which add good penetration into dentinal tubules, easy mixing and good working time to the Grossman set; its stated purposes include acting as a marker for accessory canals, resorptive defects and fractures. It also says only limited research suggests that sealer selection influences outcome.
+- **Endodontic Prognosis** (Ch.9): ZOE (with or without Ca(OH)2), epoxy resin, Ca(OH)2-salicylate, silicone and composite sealers "all show the same clinical outcome"; bioceramic sealers lack sufficient clinical data for comparison. This supports the no-superior-class claim for the older classes and for bioceramics it confirms the evidence gap.
+- **Applied Dental Materials** (Ch.13): calcium hydroxide sealers show "no evidence" of any advantage in obturation or biological effect; ZOE rosin/colophony additives can sensitise; paraformaldehyde products are contraindicated; AH Plus sets by addition polymerisation with no residual monomer, is soluble in chloroform and can cause epoxy allergy.
+- **New contradiction (toxicity on setting):** most texts say toxicity falls on setting, but Common Complications states the neurotoxic effect of eugenol "is persistent even after setting", and says that for newer resin sealers toxic effects did not decrease with time.
+- **New contradiction (set time of calcium silicate sealers):** Common Complications gives 3-4 h and pH up to 12.8 in the first 24 h; Bioceramics in Endodontics gives 3.5 h for CeraSeal (solubility above ISO 6876). These sit with Cohen's 165 min/under 6 h and Azim and Aksel's 12-24 h; set time is product-dependent, not a class constant.
+
 ## SOURCE LIST
 **[SRC]**
 - Berman LH, Hargreaves KM, Rotstein I, eds. *Cohen's Pathways of the Pulp*. 12th ed. St Louis: Elsevier; 2021. Ch.9.
@@ -122,7 +130,8 @@ No class is proven clinically superior; sealer selection should rest on seal, so
 - Torabinejad M, ed. *Mineral Trioxide Aggregate: Properties and Clinical Applications*. Ch.10.
 - Gatewood RS. Dent Clin North Am. 2007;51:695-712; Pameijer CH, Zmener O. 2010;54:325-344; Guruswamy Pandian AP et al. 2026;70:45-62.
 - Project answer `calcium_silicate/Q02_Bioceramic_Sealers_25m.md`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's Ch.9, Grossman's Ch.16, Ingle's Ch.22, Sikri Ch.19, Jain Ch.5, Azim and Aksel Ch.15, Torabinejad Ch.10. **Corrected or added:** Grossman's criteria are eleven (Cohen's Box 9.1), not ten; Grossman's formula confirmed 42/27/15/15/1 in Cohen's, Grossman's and Gatewood, while Sikri prints 40/30/15/15/1 (recorded); ISO 6876 numbers added; AH Plus working time about 4 h and set 8 h; AH-26 formaldehyde confirmed; methacrylate sealers shrink about 7.81% and are more cytotoxic than AH Plus (Azim and Aksel); silicone sealer details added; medicated (paraformaldehyde) sealers added as contraindicated; classification per three textbooks. **Contradictions recorded:** Grossman's "CSBS most biocompatible" versus Cohen's "BC sealer more cytotoxic than AH Plus (5 vs 3 weeks)"; bioceramic final set under 6 h (Cohen's) versus 12-24 h (Azim and Aksel); retreatability "no worse than epoxy" (Cohen's) versus 20% patency (Jain) and "most difficult" (Sikri).
 **Still pending:** Chugal and Lin primary paper; Ingle's chapter figures; ISO 6876 standard text.

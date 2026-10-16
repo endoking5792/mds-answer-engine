@@ -69,8 +69,14 @@ Sealer performance depends on the irrigation sequence and dentin moisture as muc
 ## MNEMONIC
 **"N-E-F-M"**: NaOCl, EDTA, Flush, Moist.
 
+## SECOND AUDIT PASS (2026-10-16)
+Additional textbooks read after the first pass; additions and conflicts only (nothing above was removed):
+- **Harty's:** smear-layer removal is desirable for adaptation and to remove bacteria, but it is questioned because open tubules may allow diffusion of irritant filling materials and escape or proliferation of bacteria; penetration of sealer into tubules shows a lack of correlation with seal in non-bonded fillings. The recommended method is 17% EDTA with NaOCl.
+- **Harty's:** the final rinse can have a positive influence on adhesion of resin sealers; GuttaFlow requires all irrigant traces removed with water or isopropyl alcohol before use.
+
 ## SOURCE LIST
 **[SRC]** Pameijer CH, Zmener O. 2010;54:325-344; Gatewood RS. 2007;51:695-712; Guruswamy Pandian AP et al. 2026;70:45-62 (Dent Clin North Am); `calcium_silicate/Q02`.
+- Second-pass sources: Harty's *Endodontics in Clinical Practice* 7th ed. Ch.9; *Common Complications in Endodontics* Ch.6; *Endodontic Prognosis: A Clinical Guide* Ch.9; *Problem Solving in Endodontics* Ch.12; Walton and Torabinejad, *Principles and Practice of Endodontics* (2002) Part 14; *A Clinical Guide to Applied Dental Materials* Ch.13; Bioceramics in Endodontics (Chopra, ed.) pp.91-150. Editors and years to be confirmed from front matter.
 
-## TEXTBOOK AUDIT APPLIED (2026-10-16)
+## TEXTBOOK AUDIT APPLIED (2026-10-16; second pass applied)
 Opened directly: Cohen's Ch.9, Azim and Aksel, Sikri. **Added:** Cohen's 5 s + 1 s moisture protocol and its comparison of four sealers; timings recorded against Pameijer and Zmener's 1-2 s. **Pending:** the push-out figures (1.33, 7.95, 8.09 MPa) come from Pameijer and Zmener's own experiment, confirm in the original; textbook statement on drying protocol for ZOE and epoxy was not found in the chapters read.
