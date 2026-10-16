@@ -1,4 +1,6 @@
-# Audit ledger: endodontic_sealers (2026-10-16)
+# A1. Audit ledger: endodontic_sealers (2026-10-16)
+
+**Marks: n/a (reviewer ledger)**
 
 **Scope:** all 10 answers (Q1-Q8, P1, P2). **Method:** every specific figure, composition, attribution and "textbook X says" claim was extracted and re-checked by text search against the markdown in the private repo `endoking5792/mds-textbooks` (commit `26254fe`). The chapter files used were diffed against the copies in `dental-study-material/textbooks` and are byte-identical.
 
