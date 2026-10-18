@@ -9,11 +9,15 @@ Read first: `~/.claude/skills/dental-study-material/SKILL.md` Section 7. The ind
 - Study Mode counts match the index for answers not changed in study. Audit notes are at the end of each file under `## AUDIT NOTE (IADT 2020, checked 2026-10-19)`, so they are outside the Study count.
 - Confidence tags [Certain]/[Likely]/[Guessing] remain on contested statements.
 
-## Still to do
-1. OneDrive `.docx`: `MDS III/Answers/Endodontics_14_Traumatic_Dental_Injuries_Answers.docx` (python-docx 1.2.0 is installed).
-2. Vault copies: `Question Paper Bank/Answers/Endodontics/Traumatic Dental Injuries/` and the consolidated copy under `All Answers (Consolidated)/Endodontics/Traumatic Dental Injuries/`. The consolidated `00_INDEX.md` and `manifest.json` are merged additively (publish_guard.py merge), not regenerated from the local folder.
-3. Answer Bank publish (artifact `YRBFYrpgfh8aWhg9Qp1uvu`) via `publish_guard.py` (Rule 7): live read, stage, merge, stale check, publish, re-list, verify. Must print VERIFY OK.
-4. Git: commit and push to `microleakage-answers` (topic files, `tools/*.py`, `.gitignore` guard, WORKFLOW claim row). `sources/` is never committed (copyrighted PDF text).
+## Done (2026-10-19)
+1. OneDrive `.docx` built: `MDS III/Answers/Endodontics_14_Traumatic_Dental_Injuries_Answers.docx` (python-docx via `md2docx.py`; 1,641 paragraphs, 210 headings).
+2. Answer Bank published as Version 44 (version id 1792352904-f2c4). `publish_guard.py` merge: live 320 entries, merged 344, 0 lost; stale check clean; `verify` printed VERIFY OK (349 files; was 325).
+3. Vault: `Question Paper Bank/Answers/Endodontics/Traumatic Dental Injuries/` and `All Answers (Consolidated)/Endodontics/Traumatic Dental Injuries/` (24 files each, including the audit ledger). The consolidated `00_INDEX.md` and `manifest.json` were replaced by the published merge (no entries removed). 85 index entries from other topics (mostly Endodontics Obturation and Root Canal Sealers) have no file in the vault folder yet; they are in the Answer Bank.
+4. Git: pushed to `microleakage-answers` (commits 0ef795c and b50a970). `sources/` is excluded and guarded in `.gitignore`.
+
+## Optional next steps
+- Sync the 85 vault files listed above (Vault lag, same as other topics).
+- Revision candidates: the IADT 48-hour repositioning window (Fouad et al, 2020, p.333) for T13 and T14 when exam length allows.
 
 ## Scope calls
 - T05: the 1991 "Fractured teeth" entry has only a title; the scope is inferred and stated.
