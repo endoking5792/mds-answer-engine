@@ -16,12 +16,17 @@ Source: `ENDODONTICS_MASTER_REPOSITORY.docx`, section 19 (31 sittings) plus the 
 | Q10 | Biofilm models in endodontic research. | 7 | none |
 | Q11 | Describe the concept of biofilm-restoration interaction. How do restorative materials influence bacterial adhesion and plaque ecology. | 25 | none (Conservative Dentistry question; sources are materials and operative texts) |
 | Q12 | Write the role of microbiota in homeostasis of dental hard tissues. | 50 | none |
+| Q13 | Biofilms and apical periodontitis. | 10 | none |
+| Q14 | Discuss on endodontic Microbiology and the reaction of pulp and peri radicular tissues to bacteria. | 25 | none |
+| Q15 | Discuss microbial flora and control in endodontic therapy. | not stated (drafted at 25; confirm) | none |
+| Q16 | Role of biofilms in Endodontics. | 50 | 50m wording (Dec 2023); assembled from Q1, Q2, Q13 |
+| Q17 | Microbiology of root canals and its role in endodontic outcome. | 50 | 50m wording (Nov 2024); assembled from Q3, Q5, Q9, Q15 |
+| Q18 | Biofilms. | 100 | 100m wording (May 2014); assembled from Q1, Q2, Q3, Q6, Q9, Q10, Q11, Q13 |
+| Q19 | Newer methods of detecting Endodontic Microflora. | 50 | Q4 and Q5 are the shorter versions |
+| Q20 | Describe in detail the microflora of root canal system. Mention various molecular types of culturing techniques. | 20 | microflora 7m/10m wordings |
 
 ## Not yet drafted
-- "Biofilms and apical periodontitis" (10m, Oct 2016, PIII 07-15)
-- "Discuss on endodontic Microbiology and the reaction of pulp and peri radicular tissues to bacteria" (25m, Sep 2002)
-- "Discuss microbial flora and control in endodontic therapy" (Sep 1991)
-- "Biofilms" (100m, May 2014) and the 50m essays "Microbiology of root canals and its role in endodontic outcome" (Nov 2024) and "Role of biofilms in Endodontics" (Dec 2023): only partly covered by Q1-Q5 and Q9; a full 50m/100m answer needs assembling.
+None of the section 19 questions are left undrafted. Q16-Q20 and Q15 depend on assumptions (marks for Q15; the Q20 wording says 'molecular types of culturing', which the answer clarifies).
 
 ## Known gaps in the sources read
 Endodontic Irrigation book chapters 8-14 (activation techniques), probiotics and alkali-producing oral species, and the full Endodontic Microbiology 2nd ed. chapters on virulence, viruses and fungi were not read.

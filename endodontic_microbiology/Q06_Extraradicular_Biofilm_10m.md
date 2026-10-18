@@ -2,7 +2,7 @@
 
 **Marks: 10 (Short Essay) — 16-Jun-2022 (RG PII RS-5)**
 
-**Repeats absorbed:** none other. Related: "Biofilms and apical periodontitis" (10m, Oct 2016) is not yet drafted; Q1 and Q3 cover extraradicular biofilm only as one category.
+**Repeats absorbed:** none other. Related: "Biofilms and apical periodontitis" (10m, Oct 2016) is Q13; Q1 and Q3 cover extraradicular biofilm only as one category.
 
 **Failure disclosure:** No live literature search was run (textbook-only). Not yet cross-checked by a second reader. The Ricucci "mineralised biofilm" case report in Treatment of Endodontic Infections was seen only as a reference title, not read.
 

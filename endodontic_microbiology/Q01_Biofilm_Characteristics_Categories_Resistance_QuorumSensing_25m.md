@@ -2,7 +2,7 @@
 
 **Marks: 25 (Essay) — Oct 2024 (PII 21-25)**
 
-**Repeats absorbed (to be answered from this one file):** "Endodontic Biofilm" (10m, asked 5 times, 2011–2015, PIII 07-15); "Endodontic bio films" (5m, Jun 2016); "Biofilm" / "Biofilms and its significance in endodontics" (7m, RG PIII RS-3, 2014 and 2017); "Biofilm in endodontics" (10m, Mock 2023, ABS PII); "Biofilms" (100m, May 2014, RG PIV RS-2) as a partial cover. Not absorbed (own answers): extraradicular biofilm (10m, Q6), biofilm eradication (25m, Q2), biofilm models (7m, Q10); "Biofilms and apical periodontitis" (10m, Oct 2016) is not yet drafted.
+**Repeats absorbed (to be answered from this one file):** "Endodontic Biofilm" (10m, asked 5 times, 2011–2015, PIII 07-15); "Endodontic bio films" (5m, Jun 2016); "Biofilm" / "Biofilms and its significance in endodontics" (7m, RG PIII RS-3, 2014 and 2017); "Biofilm in endodontics" (10m, Mock 2023, ABS PII); "Biofilms" (100m, May 2014, RG PIV RS-2) as a partial cover. Not absorbed (own answers): extraradicular biofilm (10m, Q6), biofilm eradication (25m, Q2), biofilm models (7m, Q10); "Biofilms and apical periodontitis" (10m, Oct 2016) is Q13.
 
 **Failure disclosure:** No live literature search was run for this answer (textbook-only, per the project's lean mode). Draft status: not yet cross-checked by a second reader.
 

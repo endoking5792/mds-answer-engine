@@ -2,11 +2,11 @@
 
 # HANDOFF: MDS theory answers — most recently FINISHED topic "Smart Materials" (4 questions: CD 10m, CD 100m, RA 25m, Endo 100m — first-draft complete, no textbook audit pending since all four answers are literature-only, 2026-10-15)
 
-## Status (2026-10-18, endodontic_microbiology topic): FIRST DRAFT of 12 answers in `endodontic_microbiology/` (Roseline); NOT audited; published to the Answer Bank 2026-10-18
+## Status (2026-10-18, endodontic_microbiology topic): FIRST DRAFT of 20 answers in `endodontic_microbiology/` (Roseline); NOT audited; published to the Answer Bank 2026-10-18
 
-- **Files:** Q01-Q12 plus `_QUESTIONS.md` (question map, repeats absorbed, questions not yet drafted). Section 7 format: Study Mode, compressed synthesis, Exam Mode with word counts, source locators (PDF page markers) from the chapterwise Markdown textbooks in `dental-study-material/textbooks`.
+- **Files:** Q01-Q20 plus `_QUESTIONS.md`; Q13-Q20 added 2026-10-18 (biofilms and apical periodontitis, tissue reaction to bacteria, flora and control, three essays assembled from the shorter answers: Q16 50m, Q17 50m, Q18 100m, Q19 50m methods of detection, Q20 20m) (question map, repeats absorbed, questions not yet drafted). Section 7 format: Study Mode, compressed synthesis, Exam Mode with word counts, source locators (PDF page markers) from the chapterwise Markdown textbooks in `dental-study-material/textbooks`.
 - **Sources:** Cohen ch.8, 15, 19; Ingle ch.3, 21; Grossman ch.2; Treatment of Endodontic Infections ch.2, 6, 7, 11, 12, 14, 18, 19; Endodontic Microbiology 2nd ed. ch.1, 3, 4, 5, 6; Endodontic Irrigation ch.1, 4; Craig 14e ch.2; Summitt ch.14; Mount ch.1; Pickard's Guide ch.4, 9.
-- **Exam Mode lengths:** Q1-Q3 about 855/865/853 words; Q4-Q8 315-355; Q9 708; Q10 252; Q11 842; Q12 1,655 (below the 1,700 band: sources ran out; probiotics and alkali-producing species were not in the books read).
+- **Exam Mode lengths:** Q1-Q3 about 855/865/853 words; Q4-Q8 315-355; Q9 708; Q10 252; Q11 842; Q12 1,655 (below the 1,700 band: sources ran out; probiotics and alkali-producing species were not in the books read); Q13 343; Q14 851; Q15 848; Q16 1,887; Q17 1,708; Q18 3,304; Q19 1,746; Q20 800. Q16-Q18 and Q20 are assembled from the sourced Exam Mode text of Q1-Q13 with new introductions and conclusions.
 - **Disagreements kept side by side (not ranked):** E. faecalis role in failure (Grossman vs Cohen/Ingle/TEI); pre-obturation culture (Grossman vs Cohen/Dahlen); NaOCl concentration against biofilm (laboratory models vs clinical studies); unprepared canal wall (10-50% vs 35-53%); coronal leakage vs persistent infection.
 - **Published:** Answer Bank (Endodontics -> Endodontic Microbiology and Biofilms), additive merge with publish_guard.py; manifest 300 -> 312 entries, files 304 -> 316, 0 lost.
 - **Not done:** no live literature search, no second-reader verification of every cited sentence, no vault/OneDrive copy. Treat all as first drafts.
