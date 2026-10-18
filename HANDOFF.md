@@ -2,6 +2,16 @@
 
 # HANDOFF: MDS theory answers — most recently FINISHED topic "Smart Materials" (4 questions: CD 10m, CD 100m, RA 25m, Endo 100m — first-draft complete, no textbook audit pending since all four answers are literature-only, 2026-10-15)
 
+## Status (2026-10-18, minimal_intervention topic): FIRST DRAFT + TEXTBOOK VERIFICATION DONE; 15 answers published to the Answer Bank (Medhinir)
+
+Topic: minimally invasive / minimal intervention dentistry (MID). Questions: `minimal_intervention/_QUESTIONS.md` (27 printed wordings in the Conservative Dentistry repository section plus Recent Advances, merged into Q1-Q11 by distinct question; 4 predicted answers P1-P4). The 20-mark "MID, ideal materials and GICs" question is already Glass Ionomer Cement Q9. Ledger: `minimal_intervention/A1_Audit_Ledger_2026-10-18.md` (also in the Answer Bank).
+
+- **Method:** 4 readers built fact dossiers from the `mds-textbooks` books, a 5th checked guidelines by web search (abstracts only; PubMed/PMC blocked); 5 writers drafted to the Section 7.1 length ceilings; 4 independent readers then re-checked every cited sentence against the books (about 1,290 claims, about 150 problems); all findings that held up were applied; scripts re-verified every locator (987 of 987 exact) and word counts.
+- **Rule used (from the user):** where textbooks disagree, name each author, edition and year and show what each says side by side; never rank.
+- **"Golden triangle" (Q4):** not defined in any textbook read nor in a confirmable web source. Q4 says so and gives a labelled synthesis; it does not invent a definition.
+- **Thin sources:** Hall technique (Sikri; Kidd and Fejerskov), interim therapeutic restoration (Summitt only), FDI principles (Sikri p.554). Web items (Tyas 2000, Frencken 2012, Pitts and Ekstrand 2013, Schwendicke 2016, Innes 2017, Slayton 2018) were read as abstracts only and are labelled so.
+- **Answer Bank:** Conservative Dentistry / Minimally Invasive Dentistry added additively (manifest 244 -> 260 entries, no path lost, live manifest identical to the file sent).
+- **Open items:** vault (`dental-study-notes`) and OneDrive `.docx` copies not updated; dossiers and reader reports are kept locally (they quote textbook passages and this repo is public); the repository's Markdown question copy was read, not diffed against the Drive Word files.
 ## Status (2026-10-16, glass_ionomer_cement topic): TEXTBOOK AUDIT DONE against `mds-textbooks`; all 26 answers patched, P10 added, Answer Bank republished (Medhinir)
 
 Scope: P1-P9, Q01-Q16, Q11b re-checked against the private `mds-textbooks` repo (37 operative/materials books in one file each, plus the chapterwise endodontic books). Ledger: `gic_audit/A1_Audit_Ledger_2026-10-16.md` (also in the Answer Bank under Dental Materials / Glass Ionomer Cement).
