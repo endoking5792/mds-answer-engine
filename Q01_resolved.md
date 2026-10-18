@@ -451,7 +451,7 @@ GIC is the only restorative with a reliable chemical bond to tooth and a fluorid
 - (Mount et al, 2016) 09_9_Glass_Ionomer_Materials.md | PDF p.167 | "They had been in place for eight years at the"
 - (Mount, 1994) Chapter_01_description_of_glass_ionomer_cements.md | PDF p.18 | "The following classification is adapted from"
 - (Hill, 2007) 1-s2.0-S0011853207000171.pdf | PDF p.8 | "In the 1980s, with the desire to improve toughness and resistance to"
-- (Sakaguchi et al, 2019*) study note: Module 3 - Dental Materials and Material Science/SubModule_2.2_Ceramics_and_Glass_Materials.md | PDF p.n/a | "" (quoted in a user study note)
+- (Sakaguchi et al, 2019) Craigs_Restorative_Dental_Materials.md | PDF p.146 | "RMGIs were invented in the late 1980s"
 - (Bhat et al, 2019) 08_8_Restorative_Materials_Dental_Cements.md | PDF p.200 | "The worlds first high fluoride, non-resin auto-cure"
 - (Mount et al, 2016) 09_9_Glass_Ionomer_Materials.md | PDF p.158 | "levels insufficient to promote the acid/base setting reaction in the dark"
 - (Sakaguchi et al, 2019) Chapter_09.md | PDF p.171 | "Nanoionomer The latest advancement in RMGIs"
@@ -659,7 +659,7 @@ GIC is the only restorative with a reliable chemical bond to tooth and a fluorid
 - (Mount et al, 2016) 09_9_Glass_Ionomer_Materials.md | PDF p.167 | "faulty as a result of failure to seal them properly"
 - (van Noort and Barbour, 2013) 2_3_glass_ionomer_cements_and_resin_modified_glass_ionomer_cements.md | PDF p.118 | "been a consequence of using techniques inappropriate or inadequate"
 - (Anusavice et al, 2013) Chapter_14.md | PDF p.337 | "temperatures between 1100"
-- (Ngo, 2010) 1-s2.0-S0011853210000388.pdf | PDF p.2 | "The total water content of the set cement is somewhere between 11% and 24%." (taken from the project dossier E_dcna_and_notes.md; PDF not re-opened)
+- (Ngo, 2010) 1-s2.0-S0011853210000388.pdf | PDF p.2 | "The total water content of the set cement is somewhere between 11% and 24%."
 - (Mount, 1994) Chapter_04_type_ii_2_restorative_reinforced_cements.md | PDF p.75 | "A protective seal will not be"
 - (Mount, 1994) Chapter_04_type_ii_2_restorative_reinforced_cements.md | PDF p.75 | "dehydration for approximately 2 weeks after"
 - (Mount, 1994) Chapter_02_type_i_luting_cements.md | PDF p.44 | "water loss for about 2"

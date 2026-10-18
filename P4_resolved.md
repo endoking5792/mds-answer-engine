@@ -134,7 +134,7 @@ GIC is now the standard adhesive liner and base: it bonds, seals and releases fl
 **Source locators (file, PDF page marker, verbatim phrase)** for each retrieved fact:
 
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.87 | "A lining can be defined as a thin layer of"
-- (Craig, 2002) 23_ch_20_cements.md | PDF p.636 | "4.9 MPa. These cements can also be etched to"
+- (Craig, 2002) 23_ch_20_cements.md | PDF p.636 | "4.9 MPa. These cements also can be etched to"
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.88 | "The material that will provide the most effective"
 - (Hilton et al, 2013) 06_6_Pulpal_Considerations.md | PDF p.292 | "can be used as cavity bases as well as cavity liners"
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.89 | "Therefore, where amalgam is the material of"
