@@ -34,7 +34,7 @@
 
 **Timing.** The second appointment for apexification is two weeks to one month after the first [Berman et al, n.d., p.40]. Calcium hydroxide is changed at intervals until a barrier has formed, and the time needed depends on the root stage and periapical status [Berman et al, n.d., p.40] [Likely].
 
-**Regenerative options and monitoring.** Kohli and Lee advise monitoring, with endodontic intervention if infection develops, and mention regenerative procedures as an option where the pulp is necrotic in an immature tooth [Kohli and Lee, 2026, p.619]. The regenerative approach is not described in detail in the sources read for this answer. The IADT aim is revascularisation; if it fails, apexification or root canal treatment follows [Fouad et al, 2020, p.335].
+**Regenerative options and monitoring.** Kohli and Lee advise monitoring, with endodontic intervention if infection develops, and mention regenerative procedures as an option where the pulp is necrotic in an immature tooth [Kohli and Lee, 2026, p.612]. The regenerative approach is not described in detail in the sources read for this answer. The IADT aim is revascularisation; if it fails, apexification or root canal treatment follows [Fouad et al, 2020, p.335].
 
 *Estimated writing time: about 16 minutes (about 340 words at 22 words per minute).*
 

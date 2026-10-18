@@ -29,7 +29,7 @@
 
 ## EXAM MODE
 
-**Definition.** Intentional replantation is the surgical or deliberate removal of a tooth, treatment of the root outside the mouth, and replacement in its socket [Harty's, n.d., p.225; Johnson et al, n.d., p.1500-1502].
+**Definition.** Intentional replantation is the surgical or deliberate removal of a tooth, treatment of the root outside the mouth, and replacement in its socket [Harty's, n.d., p.225; Johnson et al, n.d., p.225].
 
 **Indications.** The sources differ in breadth. Harty's is strict: calcified canals, separated instruments, unnegotiable canals, perforations and closeness to the mandibular canal are not valid indications, and the only true indication is when no other treatment can maintain a strategic tooth [Harty's, n.d., p.225-226]. Cohen's is broader: intentional replantation may be an option where surgical access is limited or carries unacceptable risk, and any tooth that can be removed atraumatically in one piece is a potential candidate [Johnson et al, n.d., p.1500] [Likely]. The mandibular second molar is the common example, because of thick buccal bone, a shallow vestibule and root apices close to the mandibular canal [Johnson et al, n.d., p.1500].
 

@@ -23,7 +23,7 @@
 - *Hank's balanced salt solution (HBSS):* Cohen's calls it "presently considered the best medium for this purpose" (Kahler, n.d., p.2637). P&P names it the most common storage medium (Paranjpe and Noblett, 2021, p.220). Grossman's lists it first (Grossman, n.d., p.417).
 - *Viaspan and other tissue-culture media:* effective in vitro for several days, and conditioned media kept teeth for up to 96 hours with optimal healing in experimental work (Andreasen et al, 2007, p.475).
 - *Tooth rescue box:* Harty's places the specialised box first, with milk or saline second (Sigurdsson and Bourguignon, n.d., p.260).
-- *Milk:* "by far the best alternative to the specialized transport media" (Sigurdsson and Bourguignon, n.d., p.260). It keeps a high percentage of viable cells for at least 3 hours, with osmolarity and pH close to ideal (p.260). Cohen's places it first in its order of preference (Kahler, n.d., p.2635).
+- *Milk:* the second-best transport medium after the specialised kits (Sigurdsson and Bourguignon, n.d., p.260). It keeps a high percentage of viable cells for at least 3 hours, with osmolarity and pH close to ideal (p.260). Cohen's places it first in its order of preference (Kahler, n.d., p.2635).
 - *Saline:* a good experimental medium (Andreasen et al, 2007, p.486).
 - *Saliva:* acceptable for shorter periods. Storage in saline or saliva did not significantly impair periodontal healing (Andreasen et al, 2007, p.486).
 - *Propolis:* good effect reported, but in vivo studies are lacking (Andreasen et al, 2007, p.475).
@@ -40,7 +40,7 @@
 
 **Claim: does the medium matter more than the time out of the mouth?** The textbooks do not agree.
 
-- *EVIDENCE:* Andreasen states that "storage media more than the length of the extra-alveolar period determine prognosis", citing experimental studies (Andreasen et al, 2007, p.486). The same passage notes that a larger clinical study found "a less pronounced effect" of medium (p.486-487). Harty's names extra-alveolar time as the most critical factor (Sigurdsson and Bourguignon, n.d., p.260).
+- *EVIDENCE:* Andreasen states that "storage media more than the length of the extra-alveolar period determine prognosis", citing experimental studies (Andreasen et al, 2007, p.485-487). The same passage notes that a larger clinical study found "a less pronounced effect" of medium (p.486-487). Harty's names extra-alveolar time as the most critical factor (Sigurdsson and Bourguignon, n.d., p.260).
 - *INTERPRETATION:* The experimental and clinical sources weigh medium and time differently.
 - *LIMITATION:* The experimental work is animal or in vitro. The clinical study is observational. Neither isolates the medium, so no settled ranking follows.
 - *Clinical implication:* Replant early, and use the best available medium when replantation is delayed.
@@ -69,7 +69,7 @@
 
 **What the patient should be told.** Replant at once if possible. If not, put the tooth in milk, saline or saliva, never water, and go to the dentist. Time out of the mouth is a risk factor whatever the medium is.
 
-**Deciding how to store the tooth.** Storage matters most when the tooth cannot be replanted within minutes. The sequence is to rinse the root only if it is dirty, gently in milk, saline or saliva (Fouad et al, 2020, p.333), then place the tooth in the best medium available. The working limit is about an hour of extra-alveolar dry time, after which PDL survival is unlikely [Andreasen et al, 2007, p.475; Trope, n.d., p.344]. Because the medium cannot restore a dry root, the time to the dentist is part of the storage decision [Andreasen et al, 2007, p.486] [Likely].
+**Deciding how to store the tooth.** Storage matters most when the tooth cannot be replanted within minutes. The sequence is to rinse the root only if it is dirty, gently in milk, saline or saliva (Fouad et al, 2020, p.333), then place the tooth in the best medium available. The working limit is about an hour of extra-alveolar dry time, after which PDL survival is unlikely [Andreasen et al, 2007, p.475; Trope, n.d., p.344]. Because the medium cannot restore a dry root, the time to the dentist is part of the storage decision [Andreasen et al, 2007, p.475] [Likely].
 
 *Estimated writing time: about 34 minutes (about 690 words at 22 words per minute).*
 

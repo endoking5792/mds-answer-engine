@@ -54,7 +54,7 @@
 
 **Claim 2 — Dentin protection: calcium hydroxide liner or bonding agent.** [Likely]
 - *What the textbook states:* Andreasen et al argue that calcium hydroxide liners break down and harbour bacteria, so bonding is preferred for microleakage (2007, p.303). Berman et al state that hard-setting calcium hydroxide gives no long-term seal but can induce a bridge, and that hybridisation with a bonding agent is advocated (n.d., p.38).
-- *What the DCNA review states:* sealing lacks strong evidence but is still recommended to protect the pulp and interim aesthetics (Hexem and Eisler, 2026, p.596).
+- *What the DCNA review states:* sealing lacks strong evidence but is still recommended to protect the pulp and interim aesthetics (Hexem and Eisler, 2026, p.593).
 - *Agreement or challenge:* the sources agree that sealing matters and that calcium hydroxide alone is not a permanent seal. They differ on whether a bonding agent should replace the liner, and no source gives a trial comparing the two in adults.
 - *LIMITATION:* the in vitro and animal basis of the bonding argument is acknowledged by Andreasen et al, who describe 1970s and 1980s experimental work (p.302-303).
 

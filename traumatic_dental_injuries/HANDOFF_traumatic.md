@@ -45,3 +45,9 @@ Read first: `~/.claude/skills/dental-study-material/SKILL.md` Section 7. The ind
 - Citation metadata not confirmed from the journal page: Khandelwal first author initials; Krastl first author; Abreu journal and volume; Huang author list and volume; Kumari volume; Blackledge DOI; Fouad end page (331-342).
 - Study Mode 20-mark sections T03 and T06 are within 500-700 at last count (T03 697, T06 665).
 - The IADT 48-hour repositioning window (Fouad p.3) is noted in the ledger but not in the exam text, for length.
+
+## Re-audit of textbook and DCNA citations (2026-10-19)
+- Every citation to Andreasen 2007, Berman, Harty's, Cohen's, Ingle's and the DCNA reviews was checked against the local extracts. Corrections and open items are in `AUDIT_IADT_2026-10-19.md`, section 'Textbook and DCNA re-audit'.
+- Corrected in the answers: 17 page or attribution fixes; the T14 milk quotation (not in the source); the T16 Harty's sentence (complete on p.262); the T02 and P3 fluoride and ankylosis conflicts.
+- Still open: the 'not located on the cited page' items listed in the ledger, and 30 citations to Sikri, Grossman, Weine, Endodontic Radiology, Paranjpe and AAE, which were not audited.
+- The Answer Bank copy (Version 44) predates this re-audit. Republishing needs a go-ahead.

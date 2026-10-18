@@ -102,3 +102,85 @@
 - Exam Mode: every answer is within its Section 7 range (checked by `tools/count_words.py`, 2026-10-19). T14 is at 798 of 800.
 - Study Mode: counts match 00_INDEX.md for the answers not changed in study.
 - Confidence tags: IADT statements are [Certain] where the IADT text states them directly; reviews of observational or in vitro evidence are labelled as such.
+
+## Textbook and DCNA re-audit (2026-10-19)
+
+**Scope.** Every citation to Andreasen 2007, Berman, Harty's (Sigurdsson and Bourguignon), Cohen's (Kahler), Ingle's (Trope), and the DCNA reviews (Kohli and Lee; Hexem and Eisler Parts 1 and 2; Ogle 2024; Trope 2010) in the 23 answers was checked against the local text extracts in `mds-textbooks`, the DCNA PDFs and the Berman OneDrive extract. The IADT and supplied-PDF citations were checked in the first audit above and are not repeated here.
+
+**Coverage.** 589 citations to the named sources were resolved to a page. 466 matched automatically (the sentence's content words and numbers were found on the cited page, with a one-page tolerance for Andreasen and Harty's). 113 did not match and were judged one by one (113 verdicts): 27 supported, 32 supported in part or paraphrased, 7 page errors, 1 conflicts with the source, 5 metadata or tool artefacts, 41 not located on the cited page.
+
+**Not audited.** Citations to Sikri, Grossman, Weine, Endodontic Radiology, Paranjpe and Noblett, and the AAE glossary (30 citations). Their extracts were not mapped in this pass.
+
+**Corrections made in the answer files** (line numbers as at this re-audit):
+
+- P2 Regenerative options: Kohli and Lee regenerative procedures cited to p.612 (was 619).
+- T01 Crown-root/timing: Kohli 'two signs' cited to p.615 (was 610-611).
+- T01 Antibiotics: Hexem and Eisler 'no clear consensus' cited to p.592 (was 594).
+- T01 Pulp options: Andreasen 'capping contraindicated where degenerative change' cited to p.618 (was 624).
+- T02 Splinting/intrusion: Andreasen 're-eruption in immature roots' cited to p.458 (was 431).
+- T02 Kohli citations for canal obliteration, review schedule and five-year monitoring cited to p.616 (were 610 and 611).
+- T02 Replacement resorption: 'no effective treatment' changed to 'no reliable treatment'; Kohli and Lee's point that 2% sodium fluoride for 20 minutes may slow it (p.619) added (exam and study). The ankylosis nuance (Kohli and Lee call it acceptable in some growing patients) moved to the Critical Evidence Synthesis section, which is excluded from the word count.
+- T03 Canal obliteration: favourable-outcome statement cited to Kohli p.616 (was 619).
+- T03 Revascularisation: '18 to 40%' and '1.1 mm' attributed to Harty's p.262 (not Andreasen 484-485); Kohli p.619 removed from the 7-16% claim, which Andreasen p.401 supports.
+- T05 Hexem sealing claim cited to p.593 (was 596).
+- T07 Hexem alveolar-bone statement cited to p.586 (was 589).
+- T08 Kohli five-year monitoring cited to p.616 (was 611).
+- T09 Hexem putty-index statement cited to p.594 (was 596).
+- T14 Milk quotation: the quoted phrase ('by far the best alternative to the specialized transport media') is not in the source. Replaced with Harty's p.260 wording: milk or saline is the second-best transport medium after the specialised kits.
+- T14 Storage: Andreasen quotations cited to p.485 and p.487 (were 486); time-to-dentist statement cited to p.475 (was 486).
+- T16 Harty's pre-replantation root canal treatment: the sentence is complete on p.262. The text said it was cut off. Restored the reason: the apical portion is difficult to obturate hermetically by a traditional orthograde approach.
+- T17 Intentional replantation definition: Harty's page corrected to p.225 (was p.1500-1502, an implausible page).
+- P3 Kohli ridge preservation cited to p.621 (was 619-620); fluoride note added (Kohli p.619).
+- T01 Pulp options and antibiotic citation: as above.
+
+**Conflicts left visible.** (1) Kohli and Lee call ankylosis an acceptable outcome in some growing patients, against the textbook view that it is the most serious sequel (Critical Evidence Synthesis, T02). (2) Kohli and Lee and Harty's report that fluoride may slow replacement resorption; some answers still say there is no effective treatment (T02, P3 corrected; T02 Harty's p.266 'no treatment' wording not located). (3) Kohli and Lee's partial-pulpotomy figure (above 95%) and Krastl's observational 70-100% are both stated.
+
+**Not located on the cited page (U), for checking in the book itself.**
+- P1_ L23 ANDR: exposure-record list not located on Andreasen p304
+- P3_ L20 BERM: ankylosis after periodontal damage not located on Berman p84
+- P3_ L34 BERM: as item 58: not located on Berman p84
+- P3_ L36 HARTY: no treatment for established replacement resorption not located on Harty p266
+- T01 L37 ANDR: pulp treatment options by exposure size not located on Andreasen p304 (text on p621 in another context)
+- T01 L51 OGLE: IADT figures attributed to Ogle p158 not located on that page (IADT itself checked in the IADT audit)
+- T01 L80 ANDR: calcium hydroxide capping preference not located on p302-303
+- T01 L147 BERM: several-angle radiographs before reduction not located on p74
+- T01 L151 BERM: repeat-tests pattern not located on Berman p74
+- T01 L171 KOHLI: record contents not located on Kohli 609-611
+- T01 L171 ANDR: record contents not located on Andreasen p475
+- T02 L24 ANDR: progressive irreversible replacement resorption wording not located on Andreasen p412; Kohli p619 conflict recorded at item 17
+- T02 L36 HARTY: no-effective-treatment wording not located on Harty p266; Kohli p619 fluoride point (item 18)
+- T02 L46 ANDR: CES note: textbook view on replacement resorption not located on Andreasen p412; check the cited page
+- T02 L56 BERM: intrusion re-eruption wording not located on Berman p80
+- T02 L62 HARTY: no reliable treatment wording not located on Harty p266 (Kohli p619 fluoride point is supported)
+- T03 L31 ANDR: early treatment and low contamination not located on Andreasen p482 (figure caption only)
+- T03 L35 KOHLI: canal obliteration as favourable not on Kohli p619
+- T03 L35 ANDR: favourable-outcome statement not located on Andreasen p413 or Kohli p619
+- T03 L62 ANDR: as item 80: not located on Andreasen p482
+- T04 L69 BERM: list claim not on Berman p84 (page discusses orthodontic extrusion timing)
+- T05 L73 ANDR: Ellis class 4 wording not located on Andreasen p234
+- T05 L75 BERM: sensibility at 6-8 weeks not located on Andreasen p320 or Berman p28-29
+- T05 L83 ANDR: apexification or regenerative endodontics not located on Andreasen p304; Kohli p612 supports it
+- T05 L87 ANDR: composite as conservative default not on Andreasen p304 (p304 discusses GIC bandage)
+- T06 L45 BERM: composite as usual alternative not located on Berman p27
+- T06 L62 HEXEM1: 18 years and growth completion not in Hexem p589; teenagers statement is on p586
+- T07 L24 ANDR: monitoring for missed luxation not located on Andreasen p302
+- T07 L58 BERM: Berman p181-182 is the law chapter; parent-communication statement is on Hexem p604 only
+- T08 L48 KOHLI: CBCT statement not located on Kohli p610 (abbreviation list only)
+- T08 L58 HEXEM2: implant/ridge statement not located on Hexem Part 2 p603
+- T12 L33 ANDR: RCT options for coronal/apical fragments not located on Andreasen 355-368
+- T14 L20 ANDR: replacement resorption after drying not located on Andreasen p486 (figure caption)
+- T14 L35 INGLE: Ingle printed p383 is not in the extract; cannot verify
+- T14 L72 INGLE: Ingle printed p383 not present in the extract; cannot verify
+- T16 L38 ANDR: three-hour rule not located on Andreasen p477 in the extract; verify the source sentence
+- T17 L42 HARTY: opposing view not located on Harty p234
+- T18 L26 HARTY: scope statement not located on Harty p225 (p225 gives replantation definition)
+- T18 L32 ANDR: protect the PDL and cementum not located on Andreasen p760 (p760 has healing statement)
+- T19 L32 ANDR: monitor periodontal condition not located on Andreasen p702
+- T20 L38 HARTY: management by class not located on Harty p63
+
+**Quotations.** Four quoted phrases were checked verbatim. T14 milk phrase: not in the source (corrected). T14 Andreasen phrases: found on p.485 and p.487 (corrected). T16 Harty phrase: found on p.262 (confirmed). T14 'the most critical factor' (Harty p.260): found. T04 'the 15 to 40% / 15 to 61%' phrase is the answer's own wording; the 40% figure is in Andreasen (ch.13) and the 61% figure was not checked. T07 'without pulpal exposure' is generic wording, not on the cited pages.
+
+**Resolver limits.** Andreasen 2007 and Harty's: the answers cite PDF pages, which are the printed page + 16 (checked on T15/T16 locators and five Harty's anchors). Ingle's: PDF page = printed - 39 (checked on the doxycycline passage). Cohen's: page markers used directly. DCNA journal pages from PDF offsets: Kohli and Lee +608; Ogle +150; Trope 2010 +312; Hexem and Eisler Part 2 +600; Hexem and Eisler Part 1 +585 (weakest fit: four claims). Matching is by word and number overlap, not reading, so a claim can match on a neighbouring sentence. The 466 automatic matches were not individually read.
+
+**Bookkeeping error found and fixed.** The verdict records for 25 items were stored against the wrong file, line and source because the batch order changed during the review. The 25 were rebuilt from the printed listing and every flagged citation was re-matched by file, line and source before this section was written.
+

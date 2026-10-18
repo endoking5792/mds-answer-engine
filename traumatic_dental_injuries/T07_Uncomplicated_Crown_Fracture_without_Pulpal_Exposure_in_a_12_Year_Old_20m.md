@@ -53,7 +53,7 @@
 
 **Follow-up schedule.** Harty's follow-up table for an uncomplicated crown fracture sets clinical and radiographic review at six to eight weeks, four months, six months and one year [Harty's, n.d., p.264] [Likely]. Canal obliteration and root resorption are rare after an isolated crown fracture [Andreasen et al, 2007, p.319]. The IADT review for an uncomplicated crown fracture is at six to eight weeks and one year [Bourguignon et al, 2020, p.319].
 
-**Growing patient.** Keep the tooth and follow the child until skeletal growth ends. Hexem and Eisler stress preserving alveolar bone and gingiva in teenagers until maturity [Hexem and Eisler, 2026, Part 1, p.589]. Delayed treatment can lead to avoidable tooth loss [Hexem and Eisler, 2026, Part 2, p.603].
+**Growing patient.** Keep the tooth and follow the child until skeletal growth ends. Hexem and Eisler stress preserving alveolar bone and gingiva in teenagers until maturity [Hexem and Eisler, 2026, Part 1, p.586]. Delayed treatment can lead to avoidable tooth loss [Hexem and Eisler, 2026, Part 2, p.603].
 
 **Records and communication.** Record the baseline, the immediate and definitive treatment, and the follow-up plan. Explain the options and the review schedule to the parents and the child [Berman et al, n.d., p.181-182; Hexem and Eisler, 2026, Part 2, p.604].
 

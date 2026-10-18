@@ -57,7 +57,7 @@
 
 **Implants in adults.** The adult patient has finished growing, so an implant is an option where the root cannot be kept. Hexem and Eisler stress that implants should be delayed until growth is complete, and that ridge preservation and augmentation prepare the site [Hexem and Eisler, 2026, Part 2, p.603]. Ogle suggests an implant may be an alternative in older patients with a poor-prognosis tooth [Ogle, 2024, p.151] [Likely].
 
-**Follow-up.** Review clinically and radiographically to monitor periapical healing, which can take years, and for late root fracture or periodontal breakdown [Andreasen et al, 2007, p.628-631]. Kohli and Lee recommend at least five years of monitoring [Kohli and Lee, 2026, p.611].
+**Follow-up.** Review clinically and radiographically to monitor periapical healing, which can take years, and for late root fracture or periodontal breakdown [Andreasen et al, 2007, p.628-631]. Kohli and Lee recommend at least five years of monitoring [Kohli and Lee, 2026, p.616].
 
 **Crown-root fractures with a retained fragment.** Harty's notes that in an uncomplicated crown-root fracture the coronal fragment is usually retained by the periodontal ligament, and that such teeth have a poor prognosis when the fracture line runs well below the gingival margin on the palatal aspect. The fragment is removed so that the extent of the fracture can be assessed and sealed [Harty's, n.d., p.257]. This step matters before any endodontic plan is fixed, because it changes whether the tooth can be kept [Harty's, n.d., p.257] [Likely].
 

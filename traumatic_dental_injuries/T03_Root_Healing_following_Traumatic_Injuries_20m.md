@@ -32,7 +32,7 @@
 
 **Root fracture healing.** Healing after a root fracture takes one of four routes: calcified healing with a dentinal callus across the fracture, interposition of connective tissue, interposition of bone and connective tissue, or non-healing with granulation tissue between the fragments (Andreasen et al, 2007, p.358-368). Hard-tissue union cannot be diagnosed radiographically before three months and may take years (p.358). Non-healing typically results from infection at the fracture line in the avascular coronal pulp (p.359).
 
-**Pulp canal obliteration as healing.** Canal obliteration is a healing response in which hard tissue narrows the canal. It occurs in 3 to 35% of luxated teeth. It is compatible with pulp survival, and Kohli and Lee list it among favourable outcomes (Andreasen et al, 2007, p.413; Kohli and Lee, 2026, p.619).
+**Pulp canal obliteration as healing.** Canal obliteration is a healing response in which hard tissue narrows the canal. It occurs in 3 to 35% of luxated teeth. It is compatible with pulp survival, and Kohli and Lee list it among favourable outcomes (Andreasen et al, 2007, p.413; Kohli and Lee, 2026, p.616).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -59,11 +59,11 @@
 
 **Pulpal healing.** The pulp responds by reparative dentine, osteodentine, immature bone, internal resorption or necrosis in experimental replantation, with the caution that human confirmation is incomplete (Andreasen et al, 2007, p.462-463). After a crown fracture with exposure, transient inflammation settles if the vascular supply stays intact and bacteria are excluded [Andreasen et al, 2007, p.301]. After luxation the pulp may heal, revascularise, or become partly or totally necrotic, depending on the interruption to its supply [Andreasen et al, 2007, p.412].
 
-**Revascularisation.** In open-apex teeth, revascularisation after replantation depends on the foramen size and the canal length, and has been reported in 18 to 40% of teeth with a foramen larger than 1.1 mm [Andreasen et al, 2007, p.484-485; Sigurdsson and Bourguignon, n.d., p.262]. Early treatment and low contamination improve the chance [Andreasen et al, 2007, p.482].
+**Revascularisation.** In open-apex teeth, revascularisation after replantation depends on the foramen size and the canal length, and has been reported in 18 to 40% of teeth with a foramen larger than 1.1 mm [Sigurdsson and Bourguignon, n.d., p.262; Sigurdsson and Bourguignon, n.d., p.262]. Early treatment and low contamination improve the chance [Andreasen et al, 2007, p.482].
 
 **Root fracture healing.** Four routes are recognised: calcified healing with dentinal callus, connective tissue interposition, bone and connective tissue interposition, and non-healing. Hard-tissue union cannot be confirmed earlier than three months. Infection of the coronal pulp at the fracture line causes non-healing [Andreasen et al, 2007, p.358-368].
 
-**Canal obliteration.** Canal obliteration is a healing response that occurs in 3 to 35% of luxated teeth. It is compatible with pulp survival and is listed among favourable outcomes, but it can precede late necrosis in 7 to 16% of cases [Andreasen et al, 2007, p.401, p.413; Kohli and Lee, 2026, p.619]. The IADT says pulp canal obliteration is expected and can be recognised radiographically during the first year after injury [Fouad et al, 2020, p.338]. A 2024 meta-analysis gives a pooled prevalence of 27.6% in permanent teeth, with root fractures highest at 78.6% and concussion at 45.2% with high heterogeneity [Abreu et al, 2024, PDF p.1, p.6].
+**Canal obliteration.** Canal obliteration is a healing response that occurs in 3 to 35% of luxated teeth. It is compatible with pulp survival and is listed among favourable outcomes, but it can precede late necrosis in 7 to 16% of cases [Andreasen et al, 2007, p.401, p.413]. The IADT says pulp canal obliteration is expected and can be recognised radiographically during the first year after injury [Fouad et al, 2020, p.338]. A 2024 meta-analysis gives a pooled prevalence of 27.6% in permanent teeth, with root fractures highest at 78.6% and concussion at 45.2% with high heterogeneity [Abreu et al, 2024, PDF p.1, p.6].
 
 **Factors affecting healing.** The stage of root development is the strongest determinant of pulp healing. Dry time over 15 minutes, contamination and crown damage make resorption more likely and earlier. Rigid splinting harms healing, and the gingival fibres bond within about a week [Andreasen et al, 2007, p.481, p.865].
 

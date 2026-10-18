@@ -21,7 +21,7 @@
 
 **Management.** Harty's states that there is currently no treatment for replacement resorption (n.d., p.266). Kohli and Lee recommend that parents be told of the risk to the permanent tooth, and that in a growing patient infraocclusion from ankylosis may need decoronation to keep the alveolar height for later implant placement (2026, p.619-620). Monitoring is the main tool, with percussion and radiographs over time.
 
-**Growth.** Because the tooth fails to erupt with its neighbours, the adjacent teeth tip and the alveolar height is lost. Early decoronation preserves the ridge for later prosthetic treatment (Kohli and Lee, 2026, p.619-620).
+**Growth.** Because the tooth fails to erupt with its neighbours, the adjacent teeth tip and the alveolar height is lost. Early decoronation preserves the ridge for later prosthetic treatment (Kohli and Lee, 2026, p.621).
 
 ## EXAM MODE
 
@@ -33,7 +33,7 @@
 
 **Risk.** Ankylosis follows loss of the ligament cover, which is most likely after intrusion and lateral luxation with socket damage [Andreasen et al, 2007, p.412; Berman et al, n.d., p.84]. In primary teeth, ankylosis affected 3% of luxated teeth, mainly intruded ones, and spontaneous resorption by the erupting successor can occur [Andreasen et al, 2007, Ch.19, p.553].
 
-**Management.** No treatment is currently available for established replacement resorption [Harty's, n.d., p.266]. Prevention, avoidance of rigid splinting and monitoring are the tools [Andreasen et al, 2007, p.858]. In a growing patient, infraocclusion from ankylosis may need decoronation to keep alveolar height for later implant placement [Kohli and Lee, 2026, p.619-620]. The IADT advises that parents be told decoronation or autotransplantation may be needed later if the replanted tooth ankyloses [Fouad et al, 2020, p.335-336]. Crowder et al [2024] describe decoronation and root submergence in 37 teeth, mostly in case reports, with limited evidence (PDF p.1).
+**Management.** No treatment is currently available for established replacement resorption [Harty's, n.d., p.266]. Prevention, avoidance of rigid splinting and monitoring are the tools [Andreasen et al, 2007, p.858]. In a growing patient, infraocclusion from ankylosis may need decoronation to keep alveolar height for later implant placement [Kohli and Lee, 2026, p.619-620]. The IADT advises that parents be told decoronation or autotransplantation may be needed later if the replanted tooth ankyloses [Fouad et al, 2020, p.335-336]. Crowder et al [2024] describe decoronation and root submergence in 37 teeth, mostly in case reports, with limited evidence (PDF p.1). Kohli and Lee report that root surface treatment with 2% sodium fluoride for 20 minutes may slow it [Kohli and Lee, 2026, p.619].
 
 **Growing patients.** Tell the parents of the risk to the permanent tooth, monitor until growth is complete, and plan any replacement with the alveolar growth in mind [Kohli and Lee, 2026, p.619-620] [Likely].
 
