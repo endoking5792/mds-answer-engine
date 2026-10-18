@@ -3,8 +3,8 @@
 **Marks:** 10m (predicted; not a repository question)
 **Basis:** The repository has no complications question in this topic (37 sittings: indications, flaps, materials, healing, microsurgery), yet it is a standard subheading of every textbook chapter and the natural companion to "Soft tissue management in Periapical surgery" (10m, Oct 2024) and "Principles of surgical interventions in endodontics" (10m, Apr 2008). This is my construction; treat it as a prediction [Guessing]. The session brief suggested a bone graft and guided tissue regeneration question as a third prediction; that content is already the whole of Q09, so I chose a topic that adds something new. Niranjan may prefer to swap it.
 
-<!--LOC: com_rec,com_flapnec,com_sep,com_thin,com_sut,com_perio,com_heat,com_rootres,com_missed,com_us,coh_press,com_hema,coh_ecch,com_rebound,com_nerve,com_cbct,com_early,coh_para,coh_norm,com_sinus,com_sinus2,coh_sinusabx,coh_peak,com_swell,com_dexa,coh_pain,com_abx-->
-<!--REF: Tsesis2025,Berman2021-->
+<!--LOC: com_rec,com_flapnec,com_sep,com_thin,com_sut,com_perio,com_heat,com_rootres,com_missed,com_us,coh_press,com_hema,coh_ecch,com_rebound,com_nerve,com_cbct,com_early,coh_para,coh_norm,com_sinus,com_sinus2,coh_sinusabx,coh_peak,com_swell,com_dexa,coh_pain,com_abx, z_dose, z_ibu, z_ps_inf, z_antib_ind-->
+<!--REF: Tsesis2025, Berman2021, Reiser16, Torab5, PS16-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Tsesis et al, Complications of Endodontic Surgery (Springer, 2025; read in full), Cohen's Ch.11 (postoperative care and management of surgical complications). Both hit. No journal search. Not read: the primary studies behind the quoted percentages.
@@ -24,6 +24,9 @@ Queries on `mds-textbooks`: Tsesis et al, Complications of Endodontic Surgery (S
 **Sinus.** Perforation of the Schneiderian membrane is reported in 9.6 to 50% of cases; it is not detrimental to outcome so long as foreign material and the root apex are kept out of the sinus (Tsesis et al, 2025) [SRC]. Routine antibiotics and decongestants for sinus exposure are not supported by evidence (Johnson et al, 2021) [SRC].
 
 **Pain, swelling and infection.** Pain is worst in the first 24 hours and swelling peaks at 1 to 2 days (Tsesis et al, 2025; Johnson et al, 2021) [SRC]. Preemptive analgesia is advised; in one report a single 8 mg dose of oral dexamethasone before surgery was followed by 76% of patients being pain-free at day 1 (Tsesis et al, 2025) [SRC]. NSAIDs are the usual drug (Johnson et al, 2021) [SRC]. There is no consensus on antibiotics; they are considered mainly for immunocompromised patients or systemic signs, and the chapter relies on antiseptic rinses (Tsesis et al, 2025) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Correction.* Dexamethasone is given before surgery and for 2 days afterwards, not as a single dose (Reiser, 2019) [SRC]. Infection after surgery is uncommon, and antibiotics are reserved for systemic involvement (Reiser, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks and the question does not say "critically".
@@ -53,6 +56,8 @@ Pain peaks on the day of surgery; swelling peaks on days 1 to 2; ecchymosis may 
 
 ### Prevention in general
 Case selection and CBCT; a well-designed flap; a small osteotomy; microsurgical technique; thorough preoperative history including bleeding disorders; clear written instructions and follow-up (Tsesis et al, 2025; Johnson et al, 2021).
+
+- Dexamethasone: before surgery and for 2 days after (Reiser, 2019).
 
 ## HIGH-YIELD POINTS
 Recession in thin biotypes; heat necrosis of bone; rebound bleeding; inferior alveolar nerve injury in second molars; sinus perforation harmless if no material enters; swelling peaks at days 1 to 2.
@@ -98,9 +103,16 @@ None.
 - Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.228 (printed p.217): "a single 8 mg dose of oral dexamethasone preoperatively"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1502: "NSAIDs are generally the preferred class of drugs for managing postoperative pain"
 - Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.228 (printed p.217): "No consensus exists regarding the use of antibiotics in endodontic surgery"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.112 (printed p.99): "varies from 20 to 100 microsieverts"
+- Reiser, 2019, 16_Chapter_16_Pharmacology_in_Surgical_Endodontics.md, PDF p.299 (printed p.286): "ibuprofen 400 mg"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.364: "no value has been shown in the reduction of postoperative infections"
+- Reiser, 2019, 16_Chapter_16_Pharmacology_in_Surgical_Endodontics.md, PDF p.303 (printed p.290): "in otherwise healthy patients has not"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
+- Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).
+- Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.16.
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
 - Tsesis I, Blazer T, Elbahary S, Rosen E. Complications of endodontic surgery. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.9.

@@ -7,8 +7,8 @@
 
 
 
-<!--LOC: y_g9_res,y_g9_exc,y_e40_res,y_wei_bev45,gro_twice,ing_indic,har_three,gse_ind5,gse_post,gse_visual,gse_biopsy,coh_rationale,coh_cyst,coh_cost,gse_contra,gro_contra,har_contra,ing_contra,ing_sinus,gse_rct,gse_short,coh_twofold,coh_two,coh_75,gro_3mm,ing_3mm,coh_mental,coh_fenest,coh_perp,coh_tubules,coh_enh,ing_bevel,coh_smooth,ing_isthmus,gro_mid,coh_fill,coh_edta,coh_mtaedta-->
-<!--REF: Berman2021,Rotstein2019,Gopikrishna2021,Chong2017,Evans2012-->
+<!--LOC: y_g9_res,y_g9_exc,y_e40_res,y_wei_bev45,gro_twice,ing_indic,har_three,gse_ind5,gse_post,gse_visual,gse_biopsy,coh_rationale,coh_cyst,coh_cost,gse_contra,gro_contra,har_contra,ing_contra,ing_sinus,gse_rct,gse_short,coh_twofold,coh_two,coh_75,gro_3mm,ing_3mm,coh_mental,coh_fenest,coh_perp,coh_tubules,coh_enh,ing_bevel,coh_smooth,ing_isthmus,gro_mid,coh_fill,coh_edta,coh_mtaedta, z_93, z_sinus_nocontra, z_bar_ring, z_unethical, z_longterm, z_ps_extr, z_ps_notrem, z_ps_surg-->
+<!--REF: Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Evans2012, Rubin7, Tataryn12, Torab5, Barnes1984, Weine2004, PS16-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.11 (indications, decision making, "Management of the root end", resection angle, root-end conditioning), Grossman's Ch.22 (indications, contraindications, microsurgical triad), Ingle's Ch.24 (indications, contraindications, anatomy, resection), Harty's Ch.10 (indications) and the RCS England Guidelines for Surgical Endodontics (indications, contraindications). All hit. No journal search was run for this answer; the outcome evidence is in Q01 and Q02.
@@ -28,6 +28,15 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (indications, decision making, "Manage
 > **SOURCE CONFLICT, how much root and what bevel.** *Gulabivala and Ng* (Ch.9): removing the apical 3 mm routinely "may prove grossly excessive", since not every root has complex anatomy there and short roots cannot tolerate it; pare the apex gradually and stop when the canal anatomy is seen (Gulabivala and Ng, 2014) [SRC]. *Endodontology* (Ch.40) and the other textbooks above: resect 3 mm at 0 to 10 degrees (Endodontology, Ch.40) [SRC]. *Weine* (Ch.9, 2004): still bevels about 45 degrees, a smaller bevel being enough with the microscope, because the whole root face must be seen (Weine, 2004) [SRC]. Gulabivala and Ng also warn that the usual 3 mm is not always possible when a long post or the neurovascular bundle limits resection (Gulabivala and Ng, 2014) [SRC].
 
 **Microsurgical points.** After resection, inspect the cut surface under high magnification, with methylene blue, for cracks, canal aberrations, missed canals and isthmuses (Torabinejad, Sabeti and Glickman, 2019) [SRC]. A smooth surface helps inspection, although fibroblast attachment was not impaired by roughness in the one study cited (Johnson et al, 2021) [SRC]. Midrange magnification is used for resection, preparation and filling (Gopikrishna, 2021) [SRC]. The resected surface may be conditioned; 15 to 24% EDTA for about 2 minutes is judged the most suitable agent from periodontal research, but its effect on human periradicular outcome is not established, and the MTA manufacturer advised against EDTA with MTA (Johnson et al, 2021) [SRC]. A root-end filling is placed if the rest of the canal cannot be verified irritant-free (Johnson et al, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+> **SOURCE CONFLICT, sinus proximity as a contraindication.** *Gopikrishna* (Grossman's Ch.22) lists nearness to the sinus among the local contraindications; *Tataryn* (Torabinejad Ch.12) states that the risk of sinus entry should not deter surgery and that the literature supports no contraindication even with sinusitis (Gopikrishna, 2021; Tataryn, 2019) [SRC]. Proximity changes the technique (CBCT, small osteotomy, barrier), not the decision.
+
+> **SOURCE CONFLICT, failing tooth with no found cause.** *Weine* treats a failing tooth with an apparently adequate seal and no identifiable cause by curettage alone, and many heal without a root-end filling; *Torabinejad, Sabeti and Glickman* list unidentified cause of failure as a contraindication (Weine, 2004; Torabinejad, Sabeti and Glickman, 2019) [SRC]. Weine also called routine apicoectomy no longer valid.
+
+*More on resection.* Rubinstein (Ch.7) states one figure, that 93% of canal ramifications lie in the apical 3 mm, not the 98% and 93% pair used above (Rubinstein (Ch.7), 2019) [SRC]. Barnes gave five harms of an oblique cut (more tubules, ribbon-shaped canals, abnormal bone stress, an apical lesion hidden on follow-up films, palatal foramina missed) and judged completeness of resection by an unbroken ring of periodontal ligament around the cut root (Barnes, 1984 (older text)) [SRC]. Barnes also advised abandoning the operation if the mental nerve cannot be told from a sinus tract, and treated a large lesion as no contraindication (Barnes, 1984 (older text)) [SRC].
+
+*Indications not listed above.* Extruded filling material that causes symptoms or does not resolve (for example through a fenestrated apex) needs surgery to remove it and resect the root end; a separated fragment that does not reach the apex need not be removed (Gutmann (Problem Solving Ch.16)) [SRC]. Torabinejad's review found surgery gave a better initial result but nonsurgical retreatment better long-term outcomes, and surgery for a retreatable case is unethical (Torabinejad (Ch.5), 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: a perpendicular 3 mm cut is better than a bevelled one.** Textbook: Cohen's and Ingle's both recommend it, on anatomical and mechanical reasoning (Johnson et al, 2021; Torabinejad, Sabeti and Glickman, 2019) [SRC]. Retrieved evidence: the 94% against 59% pooled outcome (Q01) compares whole packages of technique, so it cannot isolate the bevel [Likely]. The reasoning is anatomical, and I did not retrieve a trial that isolates the angle. Conclusion: well-reasoned and consistent across sources, but supported by anatomy and bundled outcome data, not by an isolated comparison [Likely].
@@ -82,6 +91,9 @@ Nonsurgical retreatment is usually the first choice; surgery is chosen when retr
 
 ### Advantages of the microsurgical cut
 Smaller osteotomy, fewer exposed tubules, better inspection, better preparation.
+
+- **Sinus proximity** is not a supported contraindication (Tataryn, 2019); Grossman's lists it (Gopikrishna, 2021).
+- Surgery for a case that could be retreated nonsurgically is unethical (Torabinejad (Ch.5), 2019).
 
 ## HIGH-YIELD POINTS
 3 mm cut; 98% and 93%; perpendicular, little or no bevel; indications shrinking, retreat first; contraindications few; indiscriminate use and unknown cause are contraindications.
@@ -140,12 +152,26 @@ None.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1449: "if the remainder of the canal system cannot be verified to be irritant free, then a root-end filling should be placed"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1456: "application of 15% to 24% EDTA for approximately 2 minutes produces the optimum root surface"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1457: "advised against the use of EDTA when MTA is used as a root-end filling material"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.127 (printed p.114): "93% of the canal ramifications occur in the apical 3 mm"
+- Tataryn, 2019, 12_Chapter_12_Surgical_Endodontics_and_the_Maxillary_Sinus.m, PDF p.227 (printed p.214): "The literature provides no supported contraindications to performing periapical surgery"
+- Barnes, 1984 (older text), 05_Chapter_6_Operative_Technique_The_Root.md, PDF p.33: "running in an unbroken ring around the cut end"
+- Torabinejad (Ch.5), 2019, 05_Chapter_5_Diagnosis_and_Treatment_Planning.md, PDF p.107 (printed p.94): "is unethical and should not be practiced"
+- Torabinejad (Ch.5), 2019, 05_Chapter_5_Diagnosis_and_Treatment_Planning.md, PDF p.107 (printed p.94): "nonsurgical retreatment offered more favorable long-term outcomes"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.342: "to remove the extruded material and resect the root end into the bony housing"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.346: "it is not necessary to remove it"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.336: "success rate for surgical intervention may be higher"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
 - Evans GE, Bishop K, Renton T. Guidelines for Surgical Endodontics. London: Royal College of Surgeons of England, Faculty of Dental Surgery; 2012.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
+- Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).
+- Rubinstein R. Magnification and illumination in apical surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.7.
+- Tataryn RW. Surgical endodontics and the maxillary sinus. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.12.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
+- Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).

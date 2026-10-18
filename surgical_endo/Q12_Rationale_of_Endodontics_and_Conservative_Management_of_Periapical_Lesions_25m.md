@@ -4,8 +4,8 @@
 **Sitting:** 15-03-2022 (ABS PII). Also answers "Rationale of endodontics and its role in conservative management of periapical lesions" (20m, Long Essay, Apr 2008, RG PIII RS-2); at 20m use the same answer and drop the last two Exam Mode headings. This is the nonsurgical counterpart of Q11 and is placed in the Surgical endodontics set because the repository files these questions under periapical lesions.
 
 
-<!--LOC: y_sb_true,y_sb_10,y_r16_true,y_tei_spec,y_tei_irrel,ing_primary,c16_surgdeb,coh_rationale,c16_exo,c16_kak,c16_trauma,c16_exo,c16_infl,p22_prim,p22_bio,c16_biodeb,c16_off,c16_heal,c16_gtr,c16_78,c16_sinus,p22_caoh,p22_94,p22_over,c10_fb,c10_gp,a04_granul,a04_mgmt,c10_inc,c16_prev,pp22_nodiff,pp22_200,c10_true,c16_trueless,c16_trueheal,c16_nodirect,pp01_nodirect,pp01_equal,p22_most,p22_first,p22_77,p22_41,ing_primary,har_higher,gse_rct,p22_six,p22_def,p22_larger,p22_late,p22_pai,c16_dm,c16_hiv,coh_nsaid,pp02_decomp,coh_cyst,a04_five,coh_rationale,coh_twofold,lie_retreat,c16_cond-->
-<!--REF: Lin2021,Roda2021,Setzer2021,Sedgley2021,SaidAlNaief2019,Berman2021,Rotstein2019,Chong2017,Evans2012,Walton2002,Lieblich2012-->
+<!--LOC: y_sb_true,y_sb_10,y_r16_true,y_tei_spec,y_tei_irrel,ing_primary,c16_surgdeb,coh_rationale,c16_exo,c16_kak,c16_trauma,c16_exo,c16_infl,p22_prim,p22_bio,c16_biodeb,c16_off,c16_heal,c16_gtr,c16_78,c16_sinus,p22_caoh,p22_94,p22_over,c10_fb,c10_gp,a04_granul,a04_mgmt,c10_inc,c16_prev,pp22_nodiff,pp22_200,c10_true,c16_trueless,c16_trueheal,c16_nodirect,pp01_nodirect,pp01_equal,p22_most,p22_first,p22_77,p22_41,ing_primary,har_higher,gse_rct,p22_six,p22_def,p22_larger,p22_late,p22_pai,c16_dm,c16_hiv,coh_nsaid,pp02_decomp,coh_cyst,a04_five,coh_rationale,coh_twofold,lie_retreat,c16_cond, z_less40, z_fri_10, z_chu_four, z_whi_fail, z_sb_rest, z_tei_wait, z_tei_conc, z_sk_two-->
+<!--REF: Lin2021, Roda2021, Setzer2021, Sedgley2021, SaidAlNaief2019, Berman2021, Rotstein2019, Chong2017, Evans2012, Walton2002, Lieblich2012, Friedman2017, Chugal2017, White2017, Orstavik2012, Siqueira1, Rocas4, Fouad2020, Patel2020-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: etiology, wound healing of apical periodontitis, cyst regression; read in full for these sections), Ch.10 (Roda, Gettleman and Johnson: causes of posttreatment disease), Ch.11 (rationale for surgery), Endodontics: Principles and Practice Ch.22 (Setzer, Chogle and Torabinejad: causes of nonhealed treatment, outcomes of retreatment, healing evaluation) and Ch.1 (Sedgley, Silva and Fouad), Torabinejad and Rubinstein Ch.4 (Said-Al-Naief), Ingle's Ch.24, Harty's Ch.10, Evans et al guidelines. All hit. The disinfection and obturation details are in the irrigants, medicaments and obturation topics and are only cross-referenced. No new journal search; the figures are the textbooks' own.
@@ -27,6 +27,13 @@ Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: etiology, wound healin
 **Large cysts.** For a very large cyst that does not heal, surgical exposure with root-end surgery and a polyethylene drainage tube for several weeks has been described (Walton and Torabinejad, 2002) [SRC]; recent decompression literature is in Q11.
 
 **Factors that modify healing.** Diabetes reduces the likelihood of healing; immunocompromised patients such as those with HIV responded as well as others (Lin and Huang, 2021) [SRC]. A lesion that is unchanged or larger after 1 year is unlikely to resolve; if it is smaller at 6 months it is healing and review continues; larger lesions take longer; late healing and late failure both occur (Setzer et al, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+> **SOURCE CONFLICT, cortication as a cyst sign.** *Fouad* regards a corticated margin as pointing to a cyst; *Orstavik* and *Patel* reject this, since many granulomas are corticated (Fouad, 2020; Orstavik, 2012; Patel, 2020) [SRC].
+
+> **SOURCE CONFLICT, bay cyst to true cyst.** *Seltzer and Bender* hold that a bay cyst can progress into a true cyst; *Siqueira and Rocas* argue that true cysts are self-sustaining and not simply infected sacs (Siqueira, 2022) [SRC]. Nair's figures (9% true, 6% bay) differ from Ricucci's (48% and 52%), so histology depends on the sampling method.
+
+*Size and outcome.* Lesions over 10 mm heal in about 53% against 80% below 10 mm (Friedman, 2017) [SRC]. One year may be too early to judge; four years is the Chugal standard (Chugal et al, 2017) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: nonsurgical treatment should be the first approach even for large lesions with possible cysts.** *Textbook:* all sources place nonsurgical treatment first (Setzer et al, 2021; Torabinejad, Sabeti and Glickman, 2019) [SRC]. *Evidence in the textbooks:* healing of 78% of apical periodontitis cases after proper treatment (Lin and Huang, 2021), but only 41% for retreatment of lesions over 5 mm (Setzer et al, 2021) [SRC], and the texts disagree on true cysts. *Limitation:* these are pooled figures from different eras and criteria, and the cyst argument rests on theory rather than direct evidence (Sedgley et al, 2021; Lin and Huang, 2021) [SRC]. *Conclusion:* disinfect first and reassess at 6 to 12 months, then operate if the lesion is not shrinking; this is the common position of the sources and the more cautious reading of the cyst evidence [Likely].
@@ -107,6 +114,8 @@ Persistent lesion with a cause outside the canal (extraradicular infection, fore
 ### Factors modifying outcome
 Diabetes lowers the chance of healing; HIV patients responded as well (Lin and Huang, 2021). Lesion size, quality of the coronal seal, and the apical extent of the filling matter.
 
+- Cortication does not reliably separate cyst from granuloma (Orstavik, 2012; Patel, 2020).
+
 ## HIGH-YIELD POINTS
 Kakehashi; macrophage biologic debridement; filling within 0 to 2 mm gives 94%; 78% healing overall; retreatment 77.2%, 41% when over 5 mm; true cyst is disputed; review at 6 and 12 months.
 
@@ -181,18 +190,34 @@ None.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1448: "The basis for periradicular surgery is twofold"
 - Lieblich, 2012, 1-s2.0-S0011853211001388.pdf, printed p.122: "clinical studies have not shown retreatment to be more successful than surgery"
 - Lin and Huang, 2021, 16_16_Pathobiology_of_apical_periodontitis.md, PDF p.2090: "Most chronic apical periodontitis lesions with reactive bone formation demonstrate healing after nonsurgical root canal therapy"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.114 (printed p.101): "less than 40% of cases when using conventional radiography"
+- Friedman, 2017, 15_Chapter_15_Prognosis_of_Healing_in_Treated_Teeth.md, PDF p.370: "have not been shown to influence the prognosis"
+- Chugal et al, 2017, 12_12_Criteria_for_Outcome_Assessment_of_Nonsurgical_Endodon, PDF p.229: "A treated tooth or root that is serving its intended purpose"
+- White and Torabinejad, 2017, 13_13_From_Tooth_Retention_Through_Root_Canal_Treatment_to_E, PDF p.239: "heal well initially, but have a tendency toward failure over time"
+- Seltzer and Bender, 2012, Chapter_16_Interrelationship_of_Pulpal_and_Periodontal_Disea, PDF p.685: "fishnet-like, three-dimensional, interconnected network"
+- Hulsmann et al, 2022, 17_Chapter_17_Management_of_posttreatment_apical_periodontit, PDF p.946: "in 51% of such cases the lesion increases in size"
+- Rocas et al, 2022 (Ch.7), 07_Chapter_7_Causes_of_endodontic_treatment_failure.md, PDF p.398: "virtually impossible to preclude the possibility of a concomitant infection"
+- Setzer and Karabucak, 2020, 12_Pages_361_390.md, PDF p.378: "two separate processes, osseous healing and dentoalveolar healing"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Chugal N, Mallya SM, Kahler B. Criteria for outcome assessment of nonsurgical endodontic treatment. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.12.
 - Evans GE, Bishop K, Renton T. Guidelines for Surgical Endodontics. London: Royal College of Surgeons of England, Faculty of Dental Surgery; 2012.
+- Fouad AF, Khan AA. Periapical tissues and histology (Ch.3). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020.
+- Friedman S. Prognosis of healing in treated teeth. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Wiley; 2017. Ch.15.
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+- Orstavik D. Healing of chronic apical periodontitis. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Wiley; 2012. Ch.16.
+- Patel S, Durack C. Radiology and healing (Ch.6). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020.
+- Rocas IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.4.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Said-Al-Naief N. Radiolucent periapical pathosis. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.4.
 - Sedgley C, Silva R, Fouad AF. Pathogenesis of pulp and periapical diseases. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.1.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.22.
+- Siqueira JF Jr, Rocas IN. Endodontic infections and the etiology of apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.1.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
 - Walton RE, Torabinejad M. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Part 24 Endodontic surgery.
+- White SN, Torabinejad M. From tooth retention through root canal treatment to extraction and implant. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.13.

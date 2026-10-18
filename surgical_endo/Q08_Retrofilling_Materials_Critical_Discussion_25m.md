@@ -5,8 +5,8 @@
 
 
 
-<!--LOC: y_g9_4h,y_bio_set,y_bio_islam,y_g9_bd,x_endo_mta, x_endo_chong, x_endo_irm, x_endo_retro, ing_mtaset, ing_mta345, coh_finish, coh_ideal, ing_moist, coh_lightgic, coh_geriLeak, coh_abscess, a11_others, ing_bioind, ing_ideal, a11_seal, a10_amalgam, a10_omnell, gro_amalgam, har_argyria, har_irm91, a10_frank, a10_oynick, coh_zoehyd, coh_irm, coh_irmseal, coh_seba, coh_sebaacid, coh_sebaless, ing_zoemix, coh_gicrate, coh_gicmoist, coh_diaket, coh_retro74, coh_retro10, coh_retrodry, coh_geri25, coh_mtaset, coh_mtaph, coh_mtatox, coh_mtacem, coh_mtaocn, coh_blood, coh_mtairm, coh_wmta, har_mta34, ing_mtamix, a10_pull, coh_mtahandle, coh_errm, a10_bd, coh_overview, a11_dye, a11_mb, a11_sem, a11_bioact, a11_cem, a11_choice, a11_survey, a11_limited, a11_sr, a11_five, a10_song, pp_super, lie_mta, ing_mtacem, gro_mta, coh_mtaedta, har_mtagone, a10_wipe-->
-<!--REF: Endodontology, Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Rubinstein2019, Rubinstein2021, Parirokh2019, Lieblich2012-->
+<!--LOC: y_g9_4h,y_bio_set,y_bio_islam,y_g9_bd,x_endo_mta, x_endo_chong, x_endo_irm, x_endo_retro, ing_mtaset, ing_mta345, coh_finish, coh_ideal, ing_moist, coh_lightgic, coh_geriLeak, coh_abscess, a11_others, ing_bioind, ing_ideal, a11_seal, a10_amalgam, a10_omnell, gro_amalgam, har_argyria, har_irm91, a10_frank, a10_oynick, coh_zoehyd, coh_irm, coh_irmseal, coh_seba, coh_sebaacid, coh_sebaless, ing_zoemix, coh_gicrate, coh_gicmoist, coh_diaket, coh_retro74, coh_retro10, coh_retrodry, coh_geri25, coh_mtaset, coh_mtaph, coh_mtatox, coh_mtacem, coh_mtaocn, coh_blood, coh_mtairm, coh_wmta, har_mta34, ing_mtamix, a10_pull, coh_mtahandle, coh_errm, a10_bd, coh_overview, a11_dye, a11_mb, a11_sem, a11_bioact, a11_cem, a11_choice, a11_survey, a11_limited, a11_sr, a11_five, a10_song, pp_super, lie_mta, ing_mtacem, gro_mta, coh_mtaedta, har_mtagone, a10_wipe, z_cas_3h, z_sb_fb, z_bar_fail, z_ps_pellet-->
+<!--REF: Endodontology, Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Rubinstein2019, Rubinstein2021, Parirokh2019, Lieblich2012, Castellucci2003, Weine2004, Barnes1984, PS16, vonArx2019, Evans2012-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.11 (root-end filling materials section, read in full), Torabinejad and Rubinstein Ch.11 (Parirokh and Shabahang: ideal properties, sealing, marginal adaptation, bioactivity, cementum, clinical outcome and conclusion; the long in vitro biocompatibility and gene-expression sections were not read), Ch.10 (material selection and placement), Ingle's Ch.24 (root-end filling section), Harty's Ch.10 (root-end filling), Grossman's Ch.22 (clinical note), Endodontics: Principles and Practice Ch.20, and Lieblich (2012). All hit. No new journal search; the outcome comparisons are those the textbooks themselves report. Not read: the original primary trials (Song et al, Chong et al, Frank et al); they are quoted through the textbooks.
@@ -34,6 +34,11 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (root-end filling materials section, r
 > **SOURCE CONFLICT, Diaket and cementum.** *Johnson, Fayad and Berman* (Cohen's Ch.11): no cementum was evident on Diaket in animal studies. *Parirokh and Shabahang* (Torabinejad Ch.11): list Diaket among materials that may promote cementum formation.
 
 **Newer bioceramics.** *Gulabivala and Ng* (Ch.9) add that Biodentine remains untested as a root-end filling (Gulabivala and Ng, 2014) [SRC]. EndoSequence Root Repair Material (calcium silicates, monobasic calcium phosphate, zirconium oxide) has biocompatibility and antimicrobial activity like MTA in vitro and no long-term clinical data in Cohen's (Johnson et al, 2021) [SRC]; Biodentine (tricalcium silicate, about 12 minutes working time) is poorly radiopaque (Rubinstein and Fayad, 2019) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+> **SOURCE CONFLICT, EDTA conditioning.** The RCS guideline records EDTA conditioning of the cut root-end before filling as without proven benefit (Evans et al, 2012), whereas the answer above lists conditioning among its steps. Treat it as optional.
+
+*Materials.* MTA sets in about 3 hours (Castellucci, 2003) [SRC]. Weine described the mechanism of amalgam retention and its tattooing and leakage; Barnes preferred amalgam in a retentive cavity, now an older practice (Weine, 2004; Barnes, 1984 (older text)) [SRC]. Gutmann lists reasons for failure such as an unsealed canal and amalgam tattoo (Gutmann (Problem Solving Ch.16)) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: MTA is the best root-end filling.** *Textbook:* strong. In vitro studies mostly show better sealing and marginal adaptation than SuperEBA, IRM, amalgam and GIC (Parirokh and Shabahang, 2019) [SRC]; MTA is the most popular material among American Board diplomates, 61.4% (Parirokh and Shabahang, 2019) [SRC]. *Clinical evidence:* weaker than the laboratory data. A randomised trial found no difference between Super-EBA and ProRoot MTA, and the textbook infers that surgical technique matters more than the material (Rubinstein and Fayad, 2019) [SRC]; in the human comparison with IRM, persistent disease was 16% against 24% at 12 months, not significantly different (Johnson et al, 2021) [SRC]. Systematic reviews disagree: one found no effect of material, two found IRM or MTA better than amalgam, GIC or gutta-percha, one found only MTA beneficial, and the authors note most primary studies were small, retrospective and short (Parirokh and Shabahang, 2019) [SRC]. *Conclusion:* amalgam, GIC and gutta-percha are inferior; between MTA and IRM or Super-EBA the clinical benefit is unproven, and MTA's real advantage is biological (cementum, handling aside) [Likely].
@@ -107,6 +112,8 @@ Gutta-percha, amalgam, polycarboxylate and zinc phosphate cements, Cavit, gold f
 ### Conclusion
 MTA or a tricalcium silicate cement is the material of choice (Gopikrishna, 2021). IRM and Super-EBA are acceptable alternatives, and amalgam should not be used.
 
+- **EDTA conditioning** of the root end has no proven benefit (Evans et al, 2012).
+
 ## HIGH-YIELD POINTS
 Ideal properties and "bioinductive"; amalgam obsolete (57.7% at 10 years); IRM 91% against amalgam 75%; Super-EBA composition; Retroplast 74% against 59%; MTA pH 12.5, cementum, 61.4% usage; RCT: no difference MTA versus Super-EBA.
 
@@ -149,7 +156,7 @@ None.
 - Gopikrishna, 2021, 22_Chapter_22_Endodontic_Surgery.md, PDF p.466 (printed p.441): "it is not recommended presently due to corrosion and dimensional changes, unsightly amalgam tattoos"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.216 (printed p.200): "problems have existed with corrosion and tissue argyria"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.216 (printed p.200): "compared with amalgam (75%) over long periods"
-- Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.190 (printed p.177): "dropped to 57.7% after 10 years"
+- Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.190 (printed p.177): "dropped to 57.7%"
 - Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.184 (printed p.171): "collagen fibers from the periodontal ligament abutting"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1465: "When ZOE comes in contact with water, it undergoes surface hydrolysis"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1465: "IRM consists of a powder containing greater than 75% zinc oxide"
@@ -198,16 +205,26 @@ None.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1457: "advised against the use of EDTA when MTA is used as a root-end filling material"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.218 (printed p.202): "such treatment of the root face is inappropriate"
 - Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.186 (printed p.173): "finished by wiping the beveled surface of the root with a moist cotton pellet"
+- Castellucci, 2003, 00_Pages_1_16.md, PDF p.12: "solidifies to a hard structure in approximately three hours"
+- Seltzer and Bender, 2012, Chapter_16_Interrelationship_of_Pulpal_and_Periodontal_Disea, PDF p.684: "have all been reported to trigger periradicular inflammatory reactions"
+- Barnes, 1984 (older text), 12_Chapter_14_Correction_of_Failure.md, PDF p.76: "Incompletely sealed root canals (the commonest cause of failure)"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.362: "Leaving a cotton pellet in the lesion will result in an acute foreign body reaction"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
 - Baumann MA, Beer R, editors. Endodontology. Edition and publisher not verified from the file. Ch.40 Endodontic surgery (chapter author not verified from the file).
+- Castellucci A. Advances in surgical endodontics. L'Informatore Endodontico 2003;6(1) (short article, PDF pp.1-16 of the file; authorship read from the file).
+- Evans GE, Bishop K, Renton T. Guidelines for Surgical Endodontics. London: Royal College of Surgeons of England, Faculty of Dental Surgery; 2012.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Parirokh M, Shabahang S. Root-end filling materials. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.11.
+- Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).
 - Rubinstein R, Fayad MI, Torabinejad M. Apical microsurgery. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.20.
 - Rubinstein R, Fayad MI. Apical microsurgery: application of armamentaria, materials, and methods. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.10.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).
+- von Arx T, White SN. Outcomes of endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.17.

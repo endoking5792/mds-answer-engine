@@ -10,10 +10,12 @@
 
 
 
+
+
 **FAILURE DISCLOSURE:** Exam Mode is 815 words, above the Section 7 range of 680-800 for 20 marks. First draft; adjust after discussion.
 
-<!--LOC: gro_vert,ing_dont,ing_5mm,ing_loss,a09_ratio,a09_conv,gro_semilunar,a09_semi,a09_tri,a09_palatal,ing_21,a09_rect,gro_sulc,gro_papilla,ing_lo,gro_luebke,a09_sub,ing_2mm,a09_2mm,a09_vonarx5,a09_pbprevent,a09_15,a09_pbfree,a09_papheal,ing_velvart,a09_sulcpap,ing_papperc,a09_tarnow,a09_biotype,a09_necro,a09_periost,a09_groove,a09_moist,ing_dont-->
-<!--REF: Rotstein2019,Gopikrishna2021,Velvart2019,vonArx2008,Kuo2026-->
+<!--LOC: gro_vert,ing_dont,ing_5mm,ing_loss,a09_ratio,a09_conv,gro_semilunar,a09_semi,a09_tri,a09_palatal,ing_21,a09_rect,gro_sulc,gro_papilla,ing_lo,gro_luebke,a09_sub,ing_2mm,a09_2mm,a09_vonarx5,a09_pbprevent,a09_15,a09_pbfree,a09_papheal,ing_velvart,a09_sulcpap,ing_papperc,a09_tarnow,a09_biotype,a09_necro,a09_periost,a09_groove,a09_moist,ing_dont, z_7_0, z_bar_ring-->
+<!--REF: Rotstein2019, Gopikrishna2021, Velvart2019, vonArx2008, Kuo2026, Rubin7, Weine2004, Barnes1984-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Ingle's Ch.24 flap section (principles, biotype, full and limited flaps, papilla-based, modified papillary), Grossman's Ch.22 (Boxes 22.4 and 22.5, flap descriptions, clinical notes), and Torabinejad and Rubinstein Ch.9 (Velvart and Peters; read in full). All hit. PubMed searched for flap-design systematic reviews (none found) and for flap-design papers; **abstracts only** read for two items.
@@ -47,6 +49,13 @@ Queries on `mds-textbooks`: Ingle's Ch.24 flap section (principles, biotype, ful
 **Elevation and retraction.** Start in the vertical incision, undermine the periosteum without tearing it, since an intact periosteum keeps mucosa out of the bony crypt (Velvart and Peters, 2019) [SRC]; make a small groove in bone as a rest for the retractor (Velvart and Peters, 2019) [SRC]; keep the flap and any non-reflected tissue moist (Velvart and Peters, 2019) [SRC].
 
 **Evidence.** Ingle's records disagreement: Harrison and Jurosky, and Chindia and Valdehaug, found no difference in healing between intrasulcular and submarginal incisions, while Kramper and colleagues found persistent inflammation and bone loss of 0.5 to 1 mm with intrasulcular incisions; it also warns that periodontal flap data may not transfer to endodontic surgery (Torabinejad, Sabeti and Glickman, 2019) [SRC]. A narrative review for the anterior maxilla concludes that flap choice depends on marginal periodontium, lesion extent, restoration margin and esthetic demand, and that recession may be created while solving the endodontic problem (von Arx and Salvi, 2008) [LIT, abstract]. A 2026 technique report describes a dual-layer coronally advanced and trapdoor flap for the esthetic zone, with a single case and no comparative data (Kuo et al, 2026) [LIT, abstract].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+> **SOURCE CONFLICT, the word "envelope".** *Barnes* means a sulcular horizontal incision with relieving incisions; *Weine* means a wide-based flap bounded by two diagonal incisions limited to the involved tooth (Barnes, 1984 (older text); Weine, 2004) [SRC].
+
+*Semilunar flap.* Weine keeps a limited indication where the marginal gingival contour must be preserved (for example around jacket crowns) and contraindicates it with deep pockets, little attached gingiva or a large lesion; Barnes found few indications; Hulsmann, Schafer and Burklein call it no longer recommended because of poor access and scarring (Weine, 2004; Barnes, 1984 (older text)) [SRC].
+
+*Base of the flap.* Weine and Gutmann (Problem Solving Ch.16) design the base wider than the margin for blood supply; Barnes notes oral mucosa is so vascular that necrosis is unlikely unless the base is very narrow; Velvart and Peters advise that verticals should not converge (Weine, 2004; Barnes, 1984 (older text)) [SRC]. Barnes cut a mid-level flap at least 7 mm above the gingival margin in keratinised tissue and used an envelope flap in the lower jaw (Barnes, 1984 (older text)) [SRC]. A palatal flap edge can be held back by a retraction suture tied to the opposite teeth (Weine, 2004) [SRC]. The papilla-base flap needs 7-0 sutures and at least X4.3 magnification (Rubinstein (Ch.7), 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: papilla-base and submarginal flaps give less recession than sulcular flaps.** Textbook: Velvart and Peters and Ingle's report that papilla loss is greatest with sulcular incisions and least with papilla-base (Velvart and Peters, 2019; Torabinejad, Sabeti and Glickman, 2019) [SRC]. Retrieved evidence: the cited von Arx study found less recession with submarginal incisions at first but no significant difference at 5 years (Velvart and Peters, 2019) [SRC]; Ingle's cites an RCT showing lower gingival margin height with full-thickness than papilla-based flaps at one month, yet no difference in bleeding, attachment or probing depth (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Strength: small clinical studies, short follow-up for the papilla-base data, and the original technique reports come from its originator. Conclusion: papilla-base reduces early recession in the studies cited; whether it changes long-term outcome is not shown [Likely]. The sources disagree on whether the sulcular flap or the papilla-based one is "the design of choice": Grossman's names the sulcular flap as the choice for microsurgery and the papilla-based for recession-free healing (Gopikrishna, 2021) [SRC].
@@ -153,12 +162,17 @@ None.
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.164 (printed p.151): "it will protect the surgical cavity from being in direct contact with the mucosal tissue"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.164 (printed p.151): "This groove serves as a rest for the retractor"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.165 (printed p.152): "Both the flap and nonreflected tissue remaining on the tooth surface should be kept moist"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.141 (printed p.128): "requires the use of 7-0 sutures"
+- Barnes, 1984 (older text), 05_Chapter_6_Operative_Technique_The_Root.md, PDF p.33: "running in an unbroken ring around the cut end"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Kuo PJ, Hsieh SC, Kuo TC, Wen WC, Wu TH, Do JH. A dual-layer flap preparation approach utilizing the external coronally advanced flap and the internal trapdoor periosteal flap for endodontic microsurgery in the esthetic zone: technique and case report. Int J Periodontics Restorative Dent 2026;46(5):554-565. doi:10.11607/prd.7648 (PubMed abstract only; technique report and single case).
+- Rubinstein R. Magnification and illumination in apical surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.7.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
 - Velvart P, Peters OA. Soft tissue management. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.9.
+- Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).
 - von Arx T, Salvi GE. Incision techniques and flap designs for apical surgery in the anterior maxilla. Eur J Esthet Dent 2008;3(2):110-26 (PubMed abstract only).

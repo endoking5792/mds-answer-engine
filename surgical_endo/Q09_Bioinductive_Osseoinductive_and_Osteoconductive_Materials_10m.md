@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2014 (RG PIII RS-2). Also answers "Bio-inductive materials in Root end surgeries" (5m Short Note, Feb 2019, ABS PIII); the bioinductive root-end filling materials are in the last section and in Q08.
 
-<!--LOC: coh_pecora,a15_conduct,a15_induct,kin_graft,coh_graftcat,a15_graftfn,a15_regen,a15_space,coh_kimclass,a15_apico,coh_15mm,a15_deng,a15_intact,coh_pecora,coh_86,pp_clot,a10_clot,a10_dbm,a10_dynamatrix,coh_resorb,a15_motile,coh_pecora,kin_fdba,kin_repair,kin_bmp2,kin_bmp7,kin_reserved,a14_triad,a14_emd,a14_pdgf,a14_half,a14_bmp,a14_emdroot,a15_smoke,lie_resorb,lie_foreign,coh_ridge,ing_bioind,a11_cem,coh_mtacem,coh_mtaocn,a11_others-->
-<!--REF: Pecora1995,Torabinejad2019adj,Berman2021,Parirokh2019,Rubinstein2019,Jurosky2019,Kinaia2012,Lieblich2012,Rotstein2019,Flynn2024-->
+<!--LOC: coh_pecora,a15_conduct,a15_induct,kin_graft,coh_graftcat,a15_graftfn,a15_regen,a15_space,coh_kimclass,a15_apico,coh_15mm,a15_deng,a15_intact,coh_pecora,coh_86,pp_clot,a10_clot,a10_dbm,a10_dynamatrix,coh_resorb,a15_motile,coh_pecora,kin_fdba,kin_repair,kin_bmp2,kin_bmp7,kin_reserved,a14_triad,a14_emd,a14_pdgf,a14_half,a14_bmp,a14_emdroot,a15_smoke,lie_resorb,lie_foreign,coh_ridge,ing_bioind,a11_cem,coh_mtacem,coh_mtaocn,a11_others, z_gpf, z_rap, z_resorb-->
+<!--REF: Pecora1995, Torabinejad2019adj, Berman2021, Parirokh2019, Rubinstein2019, Jurosky2019, Kinaia2012, Lieblich2012, Rotstein2019, Flynn2024, Wright1, Huja3, Torab5-->
 
 ## Retrieval Report
 Queries on `mds-textbooks` and the DCNA collection: Torabinejad and Rubinstein Ch.15 (regenerative techniques and grafting, read in full), Ch.14 (EMD, PDGF, tissue engineering), Ch.10 (grafts and membranes) and Ch.11 (cementogenesis), Cohen's Ch.11 (guided tissue regeneration section, read in full), Kinaia et al (2012, DCNA, full text), Lieblich (2012). All hit. The Flynn et al (2024) meta-analysis was read as an abstract in Q01. Not read: the original BMP and EMD trials.
@@ -26,6 +26,9 @@ Queries on `mds-textbooks` and the DCNA collection: Torabinejad and Rubinstein C
 **Evidence.** Biologically a clot is a better space filler than any graft, and membranes have no clear proven benefit routinely (Rubinstein and Fayad, 2019) [SRC]. A 2024 meta-analysis of 8 randomised trials found significantly better healing with grafting with or without a membrane (odds ratio 2.18), but no particular graft, membrane or combination was significant, and the authors call for more trials (Flynn et al, 2024) [LIT, abstract]. Lieblich cautions that a foreign body placed in an infected area is more likely to fail, and notes a trend to better results with resorbable membranes in large through-and-through lesions (Lieblich, 2012) [SRC].
 
 **Bioinductive root-end fillings.** MTA promotes cementum deposition and osteocalcin expression over the filling, which Ingle's counts as bioinductive (Parirokh and Shabahang, 2019; Johnson et al, 2021) [SRC]; other possible cementum-promoting materials are Diaket, CEM cement, EndoSequence RRM and Quick-Set (Parirokh and Shabahang, 2019) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Bone biology.* Bone heals in about 3 to 4 months after surgery, aided by the regional acceleratory phenomenon, a burst of remodelling in the injured area (Huja and Roberts, 2019) [SRC]. Reduced remodelling with potent bisphosphonates is why osteonecrosis of the jaw is weighed beforehand (Huja and Roberts, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks, the question does not ask for critical analysis. The state of the evidence is summarised above (grafts help on average, no product is proven, membranes only in selected defects).
@@ -68,6 +71,8 @@ MTA and other tricalcium silicate cements stimulate cementum and bone over the f
 - Smoking contraindicates GTR; discuss cost and the animal or human origin of the material (Johnson et al, 2021).
 - BMP-2 may cause ankylosis (Kinaia et al, 2012).
 - A membrane or other foreign body placed in an already infected area is more likely to fail; resorbable membranes show a trend to better results in large through-and-through lesions (Lieblich, 2012).
+
+- Bone heals in about 3 to 4 months; the regional acceleratory phenomenon speeds remodelling (Huja and Roberts, 2019).
 
 ## HIGH-YIELD POINTS
 Osteogenic, osteoinductive, osteoconductive; Kim and Kratchman classes D to F; resorbable membrane 2 to 3 mm beyond crypt; odds ratio 2.18 (Flynn); no routine use; bioinductive filling means MTA and cementum.
@@ -126,11 +131,15 @@ Bony crypt with graft and a membrane overlapping the margin by 2 to 3 mm.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1472: "Cementum deposition is essential to regeneration of the periodontal apparatus"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1472: "strong expression of the OCN gene was seen after application of MTA"
 - Parirokh and Shabahang, 2019, 11_Chapter_11_Root_End_Filling_Materials.md, PDF p.207 (printed p.194): "Some other materials that may promote cementum formation include Diaket"
+- Wright et al, 2019, 01_Chapter_1_Anatomical_Zones_in_Endodontic_Surgery.md, PDF p.23 (printed p.10): "it is actually more posteriorly located"
+- Huja and Roberts, 2019, 03_Chapter_3_Bone_Physiology_and_Metabolism_in_Endodontic_Su, PDF p.50 (printed p.37): "lasts 4 months in bone and somewhat less in soft tissues"
+- Huja and Roberts, 2019, 03_Chapter_3_Bone_Physiology_and_Metabolism_in_Endodontic_Su, PDF p.59 (printed p.46): "osteoclasts will have to resorb bone prior to formation"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Flynn R, Foschi F, Maloney B, Creavin G, Duncan HF. The impact of bone grafting with/without barrier membrane placement on the outcome of apical surgery: a systematic review and meta-analysis. Int Endod J 2024;57(8):1006-1020. doi:10.1111/iej.14066 (PubMed abstract only).
+- Huja SS, Roberts WE. Bone physiology and metabolism in endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.3.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Jurosky KA. Wound healing. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.14.
 - Kinaia BM, Chogle SMA, Kinaia AM, Goodis HE. Regenerative therapy: a periodontal-endodontic perspective. Dent Clin North Am 2012;56(3):537-547 (full text read).
@@ -140,3 +149,5 @@ Bony crypt with graft and a membrane overlapping the margin by 2 to 3 mm.
 - Rubinstein R, Fayad MI. Apical microsurgery: application of armamentaria, materials, and methods. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.10.
 - Torabinejad M, Lundgren T, Tatakis DN, Fayad MI. Adjunctive procedures. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.15.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
+- Wright HM, Rice DD, Luo L. Anatomical zones in endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.1.

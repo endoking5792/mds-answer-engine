@@ -3,8 +3,8 @@
 **Marks:** 7m, Short Essay
 **Sitting:** Jun 2018 (RG PIII RS-3); Nov 2013 (RG PIII RS-3).
 
-<!--LOC: p22_prim,c16_infl,c16_exo,c16_endo,c16_cc,c16_cc2,a04_cleft,a04_five,a04_clue,a04_antigen,c10_four,c10_fb,c10_gp,c16_fb2,c16_fb,c16_tol,p22_over,coh_cyst,c10_sep,c10_inc,c16_prev,a04_five,a04_scar2,a04_scar,c16_nonendo,a04_okc,har_mimic,lie_ameloblastoma,c16_extra,c16_extra2,c10_actino-->
-<!--REF: Lin2021,Roda2021,SaidAlNaief2019,Setzer2021,Berman2021,Chong2017,Lieblich2012-->
+<!--LOC: p22_prim,c16_infl,c16_exo,c16_endo,c16_cc,c16_cc2,a04_cleft,a04_five,a04_clue,a04_antigen,c10_four,c10_fb,c10_gp,c16_fb2,c16_fb,c16_tol,p22_over,coh_cyst,c10_sep,c10_inc,c16_prev,a04_five,a04_scar2,a04_scar,c16_nonendo,a04_okc,har_mimic,lie_ameloblastoma,c16_extra,c16_extra2,c10_actino, z_less40-->
+<!--REF: Lin2021, Roda2021, SaidAlNaief2019, Setzer2021, Berman2021, Chong2017, Lieblich2012, Siqueira1, Rocas7, Fouad2020-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: etiology and histopathology), Ch.10 (Roda, Gettleman and Johnson: four groups of posttreatment disease), Ch.11, Torabinejad and Rubinstein Ch.4 (Said-Al-Naief), Endodontics: Principles and Practice Ch.22, Harty's Ch.10 and Lieblich (2012). All hit. No journal search. The wording "non microbial" is ambiguous, so I answer in two layers: irritants within an endodontic lesion that are not bacteria, and lesions that are not of endodontic origin. Not read: Nair's original reviews on cholesterol and foreign body reactions; they are cited second-hand by the textbooks.
@@ -26,6 +26,9 @@ Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: etiology and histopath
 **Five reasons for persistence.** Said-Al-Naief lists intraradicular infection, extraradicular infection, a cystic lesion, foreign body reaction and scar; Roda et al list four groups (intraradicular microorganisms, extraradicular infection, foreign body reaction and true cysts) (Said-Al-Naief, 2019; Roda et al, 2021) [SRC]. Three of these are non-microbial in nature.
 
 **Lesions that are not of endodontic origin.** Trauma, foreign bodies, host metabolic by-products, advanced periodontal disease, fibro-osseous lesions and benign and malignant tumours can mimic apical periodontitis (Lin and Huang, 2021) [SRC]. The odontogenic keratocyst is the most common mimic (Said-Al-Naief, 2019) [SRC]; others include globulomaxillary and nasopalatine cysts and tumours (Gutmann, 2017) [SRC]. A cystic ameloblastoma was found in a lesion on a vital tooth (Lieblich, 2012) [SRC]. Extraradicular infection is microbial and does not belong here; Lin and Huang say it can be diagnosed only after biopsy and that independent periapical infection is not consistently present (Lin and Huang, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Non-microbial causes questioned.* Siqueira and Rocas' group argue that most "non-microbial" persistence reflects undetected extraradicular bacteria (Siqueira, 2022) [SRC]. Cholesterol crystals and foreign bodies are treated as contributory, not primary (Siqueira, 2022; Fouad, 2020) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 7 marks and the question does not say "critically". The one point to keep in mind is that most of the "non-microbial" causes are less clear than the textbook headings suggest, because bacteria were not always excluded (Lin and Huang, 2021) [SRC].
@@ -60,6 +63,8 @@ Bacteria are the main cause of apical periodontitis, but some periapical lesions
 
 ### Management
 Remove the cause: retreat the canal; remove foreign material and cyst surgically; histology of all removed tissue (Johnson et al, 2021).
+
+- Siqueira's group questions the independence of non-microbial causes (Siqueira, 2022).
 
 ## HIGH-YIELD POINTS
 Foreign body, cholesterol, true cyst, scar; cholesterol in 18 to 44%; scar 6.6 to 12%; keratocyst is the commonest mimic.
@@ -107,14 +112,18 @@ None.
 - Lin and Huang, 2021, 16_16_Pathobiology_of_apical_periodontitis.md, PDF p.2090: "Extraradicular endodontic infection can only be diagnosed after surgical biopsy"
 - Lin and Huang, 2021, 16_16_Pathobiology_of_apical_periodontitis.md, PDF p.2091: "The preponderance of evidence does not support the consistent presence of an independent periapical infection"
 - Roda et al, 2021, 10_10_Nonsurgical_retreatment.md, PDF p.1195: "can exist in the periapical tissues and may prevent healing after root canal therapy"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.114 (printed p.101): "less than 40% of cases when using conventional radiography"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Fouad AF, Khan AA. Periapical tissues and histology (Ch.3). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020.
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+- Rocas IN, Ricucci D, Siqueira JF Jr. Causes of endodontic treatment failure. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.7.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Said-Al-Naief N. Radiolucent periapical pathosis. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.4.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.22.
+- Siqueira JF Jr, Rocas IN. Endodontic infections and the etiology of apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.1.

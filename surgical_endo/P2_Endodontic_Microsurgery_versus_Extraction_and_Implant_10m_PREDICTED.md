@@ -4,8 +4,8 @@
 **Basis:** The repository holds many decision-making and indication questions in this topic ("Indications for Periapical surgery", 10m, Oct 2016; "Indications, contraindications and techniques involved in surgical endodontics", 15m, Feb 2005) and a related "Endodontic endosseous implants" (5m, Mar 2007); the comparison with implants is the usual modern form of the indications question. This is my construction; treat it as a prediction [Guessing].
 
 
-<!--LOC: coh_bridge,coh_equal,coh_cost,coh_shared,coh_diff,coh_noteasy,a17_first,lie_implant,lie_extract,lie_retreat,lie_6070,lie_box1,lie_foreign,har_three-->
-<!--REF: Berman2021,vonArx2019,Lieblich2012,Chong2017,Torabinejad2015-->
+<!--LOC: coh_bridge,coh_equal,coh_cost,coh_shared,coh_diff,coh_noteasy,a17_first,lie_implant,lie_extract,lie_retreat,lie_6070,lie_box1,lie_foreign,har_three, z_tsesis, z_six-->
+<!--REF: Berman2021, vonArx2019, Lieblich2012, Chong2017, Torabinejad2015, Torab5-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.11 (decision making, treatment alternatives), von Arx and White Ch.17, Harty's Ch.10 (indications), and Lieblich (2012, full text). PubMed: the Loma Linda systematic review comparing microsurgery with single implants (Torabinejad et al, 2015), **abstract only**. Not read: the full text of that review, the primary implant studies, and any cost analysis beyond what Cohen's quotes.
@@ -21,6 +21,9 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (decision making, treatment alternativ
 **Case factors.** Lieblich's list of factors for success includes a dense orthograde filling, healthy periodontium, a lesion confined to the apical third and a maxillary incisor or mesiobuccal root of a maxillary molar; factors for failure include a fracture, poor filling, leakage of crown or post, poor periodontal condition, and a mandibular incisor (Lieblich, 2012) [SRC]. If several adverse factors exist, extraction and an implant are more predictable (Lieblich, 2012) [SRC].
 
 **Shared decision.** Comparative probabilities are difficult to project because many variables are complex and not easily quantified, and definitions of success vary (Johnson et al, 2021) [SRC]. Cohen's recommends shared decision making (Johnson et al, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Pooled success.* Torabinejad's pooled figures were 90% success and 94% survival at 2 to 4 years against 84% and 88% at 4 to 6 years, and the 2009 and 2015 pooled figures differ, so quote the year (von Arx and White, 2019; Torabinejad (Ch.5), 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks and the question does not say "critically".
@@ -62,6 +65,8 @@ When retreatment would need removal of a post or a recently placed restoration, 
 ### Decision
 Decide by shared decision making: the evidence, tooth-specific factors (restorability, periodontal status, fracture risk), cost and the patient's wishes (Johnson et al, 2021).
 
+- Pooled microsurgery: 90% success and 94% survival at 2 to 4 years; 84% and 88% at 4 to 6 years (von Arx and White, 2019).
+
 ## HIGH-YIELD POINTS
 Prognoses roughly equal under ideal conditions; implants slightly higher survival at 4 to 6 years, no direct comparison; extraction favoured with fracture or severe periodontal loss; shared decision making.
 
@@ -92,6 +97,8 @@ None.
 - Lieblich, 2012, 1-s2.0-S0011853211001388.pdf, printed p.125: "Factors associated with success and failures in periapical surgery"
 - Lieblich, 2012, 1-s2.0-S0011853211001388.pdf, printed p.126: "is more likely to lead to failure of the surgery"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.197 (printed p.181): "if there is a strong possibility of failure with nonsurgical root canal treatment"
+- von Arx and White, 2019, 17_Chapter_17_Outcomes_of_Endodontic_Surgery.md, PDF p.312 (printed p.299): "pooled weighted success rate of 94%"
+- von Arx and White, 2019, 17_Chapter_17_Outcomes_of_Endodontic_Surgery.md, PDF p.325 (printed p.312): "six-times higher risk of failure"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
@@ -100,4 +107,5 @@ None.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Torabinejad M, Landaez M, Milan M, Sun CX, Henkin J, Al-Ardah A, et al. Tooth retention through endodontic microsurgery or tooth replacement using single implants: a systematic review of treatment outcomes. J Endod 2015;41(1):1-10. doi:10.1016/j.joen.2014.09.002 (PubMed abstract only).
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
 - von Arx T, White SN. Outcomes of endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.17.

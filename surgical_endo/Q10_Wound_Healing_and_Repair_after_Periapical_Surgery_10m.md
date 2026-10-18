@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Apr 2013 (PIII 07-15). Also answers "Wound Healing in Periapical Surgery" (5m Short Note, Mar 2021, PIII 16-21) and "Repair following endodontic surgery" (5m Short Note, Aug 2004, PIII 01-07). "Healing of periapical lesions" (10m, RG PIII RS-old, Diagnosis section) is about healing after nonsurgical treatment and is not covered here; whether to fold it in is still to be decided with Niranjan.
 
-<!--LOC: a14_prim,a14_sec,a14_thin,coh_clot,a14_pmn,a14_macro,a14_mac12,coh_macro,a14_seal,a14_key,coh_seal,coh_barrier,a14_barrier,a14_granul,a14_matur,coh_mat,a14_peri,a14_woven,a14_coag,coh_bone6,ing_woven,coh_16wk,a14_16wk,coh_cem,coh_cem28,coh_pdl8,a14_citric,gro_repair,gro_andreasen,gro_surgdefect,a14_repair,a14_scarless,a14_triad,a14_suture5,a14_smoke,a14_bonj,coh_nsaid,coh_bp,coh_aronj,ing_selvig,a14_tgf-->
-<!--REF: Jurosky2019,Berman2021,Gopikrishna2021,Rotstein2019-->
+<!--LOC: a14_prim,a14_sec,a14_thin,coh_clot,a14_pmn,a14_macro,a14_mac12,coh_macro,a14_seal,a14_key,coh_seal,coh_barrier,a14_barrier,a14_granul,a14_matur,coh_mat,a14_peri,a14_woven,a14_coag,coh_bone6,ing_woven,coh_16wk,a14_16wk,coh_cem,coh_cem28,coh_pdl8,a14_citric,gro_repair,gro_andreasen,gro_surgdefect,a14_repair,a14_scarless,a14_triad,a14_suture5,a14_smoke,a14_bonj,coh_nsaid,coh_bp,coh_aronj,ing_selvig,a14_tgf, z_rap-->
+<!--REF: Jurosky2019, Berman2021, Gopikrishna2021, Rotstein2019, Huja3-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.14 (Jurosky, read in full, including the Baylor monkey and dog studies), Cohen's Ch.11 (wound healing and medically complex patients), Grossman's Ch.22 (repair and types of repair), Ingle's Ch.24 (healing). All hit. Wound healing is mostly established biology; no journal search was run. The healing times differ between sources and are given side by side.
@@ -26,6 +26,9 @@ Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.14 (Jurosky, read in f
 **Repair.** Grossman's describes initial repair across the incision by first intention in about 5 days, and says repair of the periradicular tissue is usually complete within a year, with progress visible on a radiograph at 6 months (Gopikrishna, 2021) [SRC]. A radiolucent "surgical defect" can persist when the periosteum was destroyed or the palatal plate was lost, because the defect is filled with fibrous tissue rather than bone (Gopikrishna, 2021) [SRC]. Andreasen and Rud's three types of repair after root resection are: complete repair with restored PDL, repair with scar adjacent to the PDL, and scar tissue with moderate inflammation (Gopikrishna, 2021) [SRC].
 
 **What delays healing.** Prolonged infection or hypoxia, smoking (tissue hypoxia is the main mechanism), diabetes, malnutrition, steroids and chemotherapy, and long-term NSAIDs (Jurosky, 2019; Johnson et al, 2021) [SRC]. Intravenous bisphosphonates carry the risk of osteonecrosis of the jaw (Jurosky, 2019) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Regional acceleratory phenomenon.* Surgery triggers a regional acceleratory phenomenon that speeds remodelling for several months in the operated area (Huja and Roberts, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks and no "critically" in the question.
@@ -131,11 +134,13 @@ None.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1392: "Nonsurgical retreatment should usually be considered the first choice, especially for patients with a history of IV bisphosphonate use"
 - Torabinejad, Sabeti and Glickman, 2019, 24_Chapter_24_Surgical_Endodontics.md, PDF p.733 (printed p.822): "healing was observed in the region of the free gingiva (seven days)"
 - Jurosky, 2019, 14_Chapter_14_Wound_Healing.md, PDF p.253 (printed p.240): "are key factors causing scarring and are primarily produced by inflammatory cells"
+- Huja and Roberts, 2019, 03_Chapter_3_Bone_Physiology_and_Metabolism_in_Endodontic_Su, PDF p.50 (printed p.37): "lasts 4 months in bone and somewhat less in soft tissues"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
+- Huja SS, Roberts WE. Bone physiology and metabolism in endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.3.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Jurosky KA. Wound healing. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.14.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).

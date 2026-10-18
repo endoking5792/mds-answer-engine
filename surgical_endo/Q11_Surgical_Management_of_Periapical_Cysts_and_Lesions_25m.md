@@ -6,8 +6,8 @@
 
 
 
-<!--LOC: y_sb_true,y_sb_10,y_r16_true,y_tei_spec,y_tei_irrel,x_gul_biopsy, x_gul_decomp, x_gul_cannula, x_lie_biopsy, c16_trueheal, c16_trueless, c10_true, a04_pct, a04_sull, pp01_inc, coh3_lower, a04_rests, a04_dormant, a04_hist, a04_pocket, pp01_two, coh3_true, pp22_pocket, pp22_true, pp01_nodirect, pp01_equal, pp22_nodiff, pp22_200, a04_cbct, a04_residual, a04_lateral, a04_okc, a04_mgmt, coh3_ident, a04_five, coh_cyst, coh_ef, gro_obj, gro_histo, coh_biopsy, lie_biopsy, lie_gc, lie_ameloblastoma, lie_box2, har_mimic, ing_fist, pp02_decomp, bar_sac, bar8_space, bar8_abx, ing_5mm, ing_dont, har_remnant, har_peel, har_sens, coh_peel, coh_notall, coh_hemo, com_sinus2, coh_kimclass, a15_apico, coh_15mm, a15_deng, a15_intact, coh_pecora, coh_86, coh_resorb, lie_resorb, flo_64, flo_725, lie_3mo, lie_rubkim, gse_cbct, lie_expl, coh_clot, a10_scar, com_swell, com_nerve, pp_comp3-->
-<!--REF: Gulabivala2014, Lieblich2012, Pecora1995, Raabe2026, Kader2024, Kaygisiz2024, Wang2024, Lin2021, Roda2021, Evans2012, Rubinstein2021, SaidAlNaief2019, Sedgley2021, Setzer2021, Landwehr2021, Berman2021, Gopikrishna2021, Rotstein2019, Chong2017, Walton2002, Barnes1984, Floratos2017, Torabinejad2019adj, Rubinstein2019, Tsesis2025-->
+<!--LOC: y_sb_true,y_sb_10,y_r16_true,y_tei_spec,y_tei_irrel,x_gul_biopsy, x_gul_decomp, x_gul_cannula, x_lie_biopsy, c16_trueheal, c16_trueless, c10_true, a04_pct, a04_sull, pp01_inc, coh3_lower, a04_rests, a04_dormant, a04_hist, a04_pocket, pp01_two, coh3_true, pp22_pocket, pp22_true, pp01_nodirect, pp01_equal, pp22_nodiff, pp22_200, a04_cbct, a04_residual, a04_lateral, a04_okc, a04_mgmt, coh3_ident, a04_five, coh_cyst, coh_ef, gro_obj, gro_histo, coh_biopsy, lie_biopsy, lie_gc, lie_ameloblastoma, lie_box2, har_mimic, ing_fist, pp02_decomp, bar_sac, bar8_space, bar8_abx, ing_5mm, ing_dont, har_remnant, har_peel, har_sens, coh_peel, coh_notall, coh_hemo, com_sinus2, coh_kimclass, a15_apico, coh_15mm, a15_deng, a15_intact, coh_pecora, coh_86, coh_resorb, lie_resorb, flo_64, flo_725, lie_3mo, lie_rubkim, gse_cbct, lie_expl, coh_clot, a10_scar, com_swell, com_nerve, pp_comp3, z_10mm, z_less40, z_vol, z_overest, z_fri_10, z_sk_cur, z_sk_gtr, z_sk_9, z_whi_fail, z_fri_l, z_chu_four, z_sb_rest, z_pd_noup, z_tei_cur, z_tei_gtr, z_tei_51-->
+<!--REF: Gulabivala2014, Lieblich2012, Pecora1995, Raabe2026, Kader2024, Kaygisiz2024, Wang2024, Lin2021, Roda2021, Evans2012, Rubinstein2021, SaidAlNaief2019, Sedgley2021, Setzer2021, Landwehr2021, Berman2021, Gopikrishna2021, Rotstein2019, Chong2017, Walton2002, Barnes1984, Floratos2017, Torabinejad2019adj, Rubinstein2019, Tsesis2025, Torab5, Friedman2017, Chugal2017, White2017, SetzerK2020, Hulsmann2022, Orstavik2012, vonArx2019-->
 
 ## Retrieval Report
 Queries on `mds-textbooks` and the DCNA collection: Torabinejad and Rubinstein Ch.4 (Said-Al-Naief; periapical granuloma, cyst, mimickers), Endodontics: Principles and Practice Ch.1 and Ch.22, Cohen's Ch.3 (Landwehr) and Ch.11 (curettage and biopsy, GTR), Harty's Ch.10 (curettage and biopsy), Grossman's Ch.22, Ingle's Ch.24, Walton and Torabinejad (2002, decompression figure), Barnes (1984, enucleation), Torabinejad and Rubinstein Ch.15 (regenerative techniques), and Lieblich (2012). All hit. PubMed was searched for decompression, marsupialisation and radicular cysts and for the Pecora membrane trial; **abstracts only** were read for Raabe et al (2026), Kader et al (2024), Kaygisiz and Karsli (2024), Wang et al (2024) and Pecora et al (1995). No randomised trial or guideline on decompression of radicular cysts was found; the studies are retrospective series of mixed jaw cysts and a single endodontic case report. Not read: the primary studies behind the pocket-cyst and true-cyst hypothesis.
@@ -33,6 +33,19 @@ Queries on `mds-textbooks` and the DCNA collection: Torabinejad and Rubinstein C
 **Grafts and membranes.** Pecora and colleagues' randomised trial of 20 lesions of at least 10 mm found that lesions covered with an e-PTFE membrane healed quicker and with better bone quality at 3 to 12 months than uncovered controls (Pecora et al, 1995) [LIT, abstract]. Defects of Kim and Kratchman class D to F, apicomarginal defects (healing reduced by about 20%) and lesions of 15 mm or more are the cases where grafting and a membrane are considered (Johnson et al, 2021) [SRC]. A resorbable membrane gave no benefit when the buccal bone over the root was intact (Torabinejad et al, 2019) [SRC]. See Q09.
 
 **Healing.** Healing of small lesions is quicker: under 5 mm took 6.4 months on average and 5 to 10 mm about 7 months (Floratos and Kim, 2017) [SRC]. A film at 3 months and 6 months, then yearly, is the usual follow-up (Lieblich, 2012) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Lesion size, imaging and biopsy.* Lesion volume (about 50 mm3) rather than diameter is the better marker, and the common 15 mm cut-off for "large lesions" is not universal: Friedman uses 10 mm, giving healing of about 80% below it against 53% above (Torabinejad (Ch.5), 2019; Friedman, 2017) [SRC].
+
+> **SOURCE CONFLICT, 10 mm against 15 mm.** *Torabinejad* (Ch.5) and the text above take about 15 mm; *Friedman* takes 10 mm for the prognostic cut-off.
+
+CBCT overestimates cysts (a reported 28.4% of lesions called cystic by CBCT were not cysts), so biopsy remains the way to tell (Torabinejad (Ch.5), 2019) [SRC].
+
+> **SOURCE CONFLICT, completeness of curettage.** *Setzer and Karabucak* (Cohen's) teach removing the whole lesion; *Hülsmann et al* accept leaving tissue where nerve, sinus or vessels are at risk. Both agree the specimen goes for histology.
+
+> **SOURCE CONFLICT, guided tissue regeneration.** *Friedman* finds little extra benefit from GTR membranes; trials cited in other chapters report healing of 88% with a membrane against 57% without in through-and-through lesions over 10 mm. *Torabinejad (Ch.10)* is cautious about routine use (Friedman, 2017; Rubinstein and Fayad, 2019) [SRC].
+
+*Very large lesions.* 74% of very large lesions healed after nonsurgical treatment alone, so surgery is not the default (Chugal et al, 2017) [SRC]. Healing after surgery is judged at 1 year, but Chugal and Friedman require up to 4 years for a final verdict; 51% of lesions treated by observation enlarge, so wait-and-see is not safe (Chugal et al, 2017) [SRC]. Healing of nonsurgical cases was 51% at 6 months, 70% at 12 and 75% at 24 (Orstavik, 2012) [SRC]. Scar tissue is under 10% of recorded outcomes and is an endpoint, not a cause of failure (Friedman, 2017) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: a true periapical cyst needs surgery.** *Textbooks:* Cohen's and the outcomes chapter say true cysts are less likely to heal nonsurgically (Johnson et al, 2021; Setzer et al, 2021) [SRC]; the pathogenesis chapter says no direct evidence supports this (Sedgley et al, 2021) [SRC]. *Interpretation:* the idea is a plausible rationale, not a demonstrated fact, and since a true cyst cannot be diagnosed before biopsy the practical rule is the same for granuloma and cyst: control the infection first, operate if the lesion does not heal, and send the tissue [Likely]. *Limitation:* I searched PubMed for decompression and for radicular cysts but found no trial directly testing it, so the textbook disagreement remains.
@@ -200,22 +213,42 @@ None.
 - Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.227 (printed p.216): "the maximum swelling occurs between the first and second postoperative days"
 - Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.225 (printed p.214): "Most cases of inferior alveolar nerve (IAN) injuries have been reported in second mandibular molars"
 - Rubinstein et al, 2021, 20_20_Apical_Microsurgery.md, PDF p.446 (printed p.439): "firm finger pressure for a minimum of 3 minutes"
+- von Arx and White, 2019, 17_Chapter_17_Outcomes_of_Endodontic_Surgery.md, PDF p.324 (printed p.311): "lesions not surpassing 10 mm in diameter"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.114 (printed p.101): "less than 40% of cases when using conventional radiography"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.123 (printed p.110): "associated with significantly higher successful outcomes"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.121 (printed p.108): "overestimated cysts by 28.4%"
+- Friedman, 2017, 15_Chapter_15_Prognosis_of_Healing_in_Treated_Teeth.md, PDF p.370: "have not been shown to influence the prognosis"
+- Setzer and Karabucak, 2020, 12_Pages_361_390.md, PDF p.365: "any epithelial remnants that might continue proliferation of a cystic lesion"
+- Setzer and Karabucak, 2020, 12_Pages_361_390.md, PDF p.377: "88% with GTR placement versus 57% without"
+- Setzer and Karabucak, 2020, 11_Pages_331_360.md, PDF p.356: "9% were described as apical true and 6% as apical pocket"
+- White and Torabinejad, 2017, 13_13_From_Tooth_Retention_Through_Root_Canal_Treatment_to_E, PDF p.239: "heal well initially, but have a tendency toward failure over time"
+- Friedman, 2017, 15_Chapter_15_Prognosis_of_Healing_in_Treated_Teeth.md, PDF p.360: "appear completely healed by 1 year"
+- Chugal et al, 2017, 12_12_Criteria_for_Outcome_Assessment_of_Nonsurgical_Endodon, PDF p.229: "A treated tooth or root that is serving its intended purpose"
+- Seltzer and Bender, 2012, Chapter_16_Interrelationship_of_Pulpal_and_Periodontal_Disea, PDF p.685: "fishnet-like, three-dimensional, interconnected network"
+- Patel and Durack, 2020, 06_Pages_181_210.md, PDF p.206: "no scientifically accepted upper time limit for the healing"
+- Hulsmann et al, 2022, 17_Chapter_17_Management_of_posttreatment_apical_periodontit, PDF p.991: "not absolutely necessary to remove the lesion in its entirety"
+- Hulsmann et al, 2022, 17_Chapter_17_Management_of_posttreatment_apical_periodontit, PDF p.1000: "little evidence for the use of GBR"
+- Gulabivala and Ng, 2022, 20_Chapter_20_Outcomes_of_endodontic_therapy.md, PDF p.1172: "51% (95% CI: 42%, 60%) after 6 months"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
+- Chugal N, Mallya SM, Kahler B. Criteria for outcome assessment of nonsurgical endodontic treatment. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.12.
 - Evans GE, Bishop K, Renton T. Guidelines for Surgical Endodontics. London: Royal College of Surgeons of England, Faculty of Dental Surgery; 2012.
 - Floratos S, Kim S. Modern endodontic microsurgery concepts: a clinical update. Dent Clin North Am 2017;61(1):81-91 (full text read).
+- Friedman S. Prognosis of healing in treated teeth. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Wiley; 2017. Ch.15.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Elsevier; 2014. Ch.9 Management of non-surgical root-canal treatment failure (chapter author not named in the file, so the editors are cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
+- Hulsmann M, Schafer E, Burklein S. Management of posttreatment apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.17.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Kader D, Ozalp O, Ozbudak IH, Sindel A, Altay MA. The effect of decompression on histologic diagnoses of cystic jaw lesions. Ann Ital Chir 2024;95(5):901-908. doi:10.62713/aic.3589 (PubMed abstract only).
 - Kaygisiz OF, Karsli ED. Evaluation of cyst treatment technique, cyst type, size differences and healing by fractal analysis. BMC Oral Health 2024;24(1):1271. doi:10.1186/s12903-024-04945-9 (PubMed abstract only).
 - Landwehr DJ. Lesions that mimic endodontic pathosis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.3.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+- Orstavik D. Healing of chronic apical periodontitis. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Wiley; 2012. Ch.16.
 - Pecora G, Kim S, Celletti R, Davarpanah M. The guided tissue regeneration principle in endodontic surgery: one-year postoperative results of large periapical lesions. Int Endod J 1995;28(1):41-6. doi:10.1111/j.1365-2591.1995.tb00155.x (PubMed abstract only).
 - Raabe C, Schmidt V, Schriber M, Chappuis V, Suter VGA. Three-dimensional changes in mandibular jaw cysts following decompression surgery: a retrospective cohort study. BMC Oral Health 2026;26(1):343. doi:10.1186/s12903-026-07729-5 (PubMed abstract only).
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
@@ -224,8 +257,12 @@ None.
 - Said-Al-Naief N. Radiolucent periapical pathosis. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.4.
 - Sedgley C, Silva R, Fouad AF. Pathogenesis of pulp and periapical diseases. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.1.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.22.
+- Setzer FC, Karabucak B. Surgical endodontics (healing and outcome sections). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020. Ch.12.
 - Torabinejad M, Lundgren T, Tatakis DN, Fayad MI. Adjunctive procedures. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.15.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
 - Tsesis I, Blazer T, Elbahary S, Rosen E. Complications of endodontic surgery. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.9.
 - Walton RE, Torabinejad M. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Part 24 Endodontic surgery.
 - Wang FM, Liang H, Glickman GN, Gutmann JL. Use of a Penrose drain for decompression of a large periapical lesion: a case report with 4.5-year follow-up. J Endod 2024;50(10):1521-1526. doi:10.1016/j.joen.2024.07.005 (PubMed abstract only; single case report).
+- White SN, Torabinejad M. From tooth retention through root canal treatment to extraction and implant. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.13.
+- von Arx T, White SN. Outcomes of endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.17.

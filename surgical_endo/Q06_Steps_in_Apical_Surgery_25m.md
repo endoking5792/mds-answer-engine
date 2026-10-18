@@ -5,8 +5,8 @@
 
 
 
-<!--LOC: y_tsesis_epi,y_a08_epi,y_g9_cur,y_harty_cur,x_gul_suture7, x_endo_suture, x_wei_max, x_cur_suture, x_col_suture, x_gul_comp, coh_su24, a14_suture5, nie_sut, ing_round, ing_no3, a10_freq, com_heat, com_sinus2, a10_lingvert, a10_pz, pp_flap1, pp_cbct, lie_expl, har_mb, ogl_ostene, pp_papilla, pp_chx, a09_chx, gro_lido, nie_bupi, gro_epi200, a10_asa, coh_hemo, ogl_direct, nie_hemo, ogl_wax, pp_osteo, gro_osteo4, flo_heal, nie_lido, pp_foreign, gro_histo, lie_biopsy, lie_gc, gro_3mm, a10_3mm, ing_bevel, flo_bevel, flo_inspect, gro_depth3, a10_tip, coh_class1, coh_re_adv, pp_mirror, gro_retromirror, a10_dry, gro_mta, coh_overview, a10_cones, a10_pull, gro_xray, pp_comp3, ing_silk, a10_silk, pp_su, har_su48, ing_suture4, pp_postop, nie_ice, lie_3mo, lie_rubkim, pp_prog, a10_song, a10_stages, com_abx-->
-<!--REF: Gulabivala2014, Endodontology, Weine2004, Current2016, Barnes1984, Rubinstein2021, Chong2017, Gopikrishna2021, Rotstein2019, Berman2021, Rubinstein2019, Velvart2019, Floratos2017, Niemczyk2010, Ogle2011, Lieblich2012, Tsesis2025, Setzer2010-->
+<!--LOC: y_tsesis_epi,y_a08_epi,y_g9_cur,y_harty_cur,x_gul_suture7, x_endo_suture, x_wei_max, x_cur_suture, x_col_suture, x_gul_comp, coh_su24, a14_suture5, nie_sut, ing_round, ing_no3, a10_freq, com_heat, com_sinus2, a10_lingvert, a10_pz, pp_flap1, pp_cbct, lie_expl, har_mb, ogl_ostene, pp_papilla, pp_chx, a09_chx, gro_lido, nie_bupi, gro_epi200, a10_asa, coh_hemo, ogl_direct, nie_hemo, ogl_wax, pp_osteo, gro_osteo4, flo_heal, nie_lido, pp_foreign, gro_histo, lie_biopsy, lie_gc, gro_3mm, a10_3mm, ing_bevel, flo_bevel, flo_inspect, gro_depth3, a10_tip, coh_class1, coh_re_adv, pp_mirror, gro_retromirror, a10_dry, gro_mta, coh_overview, a10_cones, a10_pull, gro_xray, pp_comp3, ing_silk, a10_silk, pp_su, har_su48, ing_suture4, pp_postop, nie_ice, lie_3mo, lie_rubkim, pp_prog, a10_song, a10_stages, com_abx, z_cas_epi, z_cas_fe, z_cas_su, z_cas_3h, z_g4_call, z_ibu, z_dose, z_sk_cur, z_ps_kfile, z_ps_notrem, z_bar_fail-->
+<!--REF: Gulabivala2014, Endodontology, Weine2004, Current2016, Barnes1984, Rubinstein2021, Chong2017, Gopikrishna2021, Rotstein2019, Berman2021, Rubinstein2019, Velvart2019, Floratos2017, Niemczyk2010, Ogle2011, Lieblich2012, Tsesis2025, Setzer2010, Castellucci2003, PS16, Torab5, Reiser16, Wright2-->
 
 ## Retrieval Report
 Queries on `mds-textbooks` and the DCNA collection: Endodontics: Principles and Practice Ch.20 (Rubinstein et al, whole chapter), Torabinejad and Rubinstein Ch.10 (to the end of closure), Grossman's Ch.22 (microsurgery and root-end sections), Ingle's Ch.24 (resection to healing), Harty's Ch.10 (root-end cavity to closure), Cohen's Ch.11 (root-end sections), and the full DCNA texts of Niemczyk (2010), Floratos and Kim (2017), Ogle et al (2011, hemostasis) and Lieblich (2012). All hit. PubMed: Setzer et al (2010) abstract only. The individual steps are developed in more depth in Q01 to Q05; this answer is the connected sequence. Not read: Kim and Kratchman's 2006 review.
@@ -38,6 +38,11 @@ Queries on `mds-textbooks` and the DCNA collection: Endodontics: Principles and 
 **10. Radiograph, closure and instructions.** A radiograph before closure confirms complete resection and the filling (Gopikrishna, 2021) [SRC]. The flap is replaced and compressed with moist gauze for at least 3 minutes to leave a thin clot (Rubinstein et al, 2021) [SRC]. *Gulabivala and Ng* (Ch.9) add that once all sutures are placed the flap is compressed again with digital pressure for about 5 to 10 minutes (Gulabivala and Ng, 2014) [SRC]. Monofilament sutures are preferred; silk collects bacteria (Rubinstein and Fayad, 2019) [SRC]. Removal time is quoted differently. **SOURCE CONFLICT, suture removal:** *Gutmann* (Harty's Ch.10) 48 to 72 hours; *Niemczyk* (2010) 1 to 3 days in uncomplicated cases; *Johnson, Fayad and Berman* (Cohen's Ch.11) 2 to 4 days; *Jurosky* (Torabinejad Ch.14) consider 5 days; *Torabinejad, Sabeti and Glickman's* chapter four days as the earliest reasonable time; *Rubinstein and Fayad* (Torabinejad Ch.10) up to 7 days; *Rubinstein, Fayad and Torabinejad* (Principles and Practice Ch.20) 3 to 7 days [SRC]. Further sources: *Gulabivala and Ng* (Ch.9) 7 days when wound strength is assured (Gulabivala and Ng, 2014) [SRC]; *Endodontology* (Ch.40) 3 to 5 days (Endodontology, Ch.40) [SRC]; *Weine* (Ch.9) an absolute maximum of 7 days (Weine, 2004) [SRC]; *Barnes* (1984, the older colour manual) 5 to 7 days (Barnes, 1984) [SRC]; *Johnson, McNally et al* (Current Therapy, Ch.9) 2 to 4 days (Johnson, McNally et al, Current Therapy Ch.9) [SRC]. No source gives a trial; the range is 1 to 7 days and I have not picked one. Written postoperative instructions are given (Rubinstein et al, 2021) [SRC].
 
 **11. Follow-up.** A film at 3 months compared with the postoperative one; if bone fill is not yet clear, again at 6 months (Lieblich, 2012) [SRC]. In Rubinstein and Kim's series complete healing took 3 months in 25.3% of cases, 6 months in 34%, 9 months in 15.4% and 12 months in 25.3% (Lieblich, 2012) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+> **SOURCE CONFLICT, haemostasis and suture timing.** Epinephrine: 1:50,000 injected slowly with no contraindication even in compromised patients (*Castellucci*), 1:80,000 (*Barnes*, older text), against the dose-limited wording above. Ferric sulfate has a pH of 0.21 (*Castellucci*), and all agree it must be removed completely. Sutures out at 24 to 48 hours (*Castellucci*), 3 to 4 days (*Weine*) or up to 7 days (Castellucci, 2003; Weine, 2004) [SRC].
+
+*Steps not stressed above.* Weine and Gutmann stress that curettage alone is not the end of the operation, and that a K-file can be used with the ultrasonic tip for the preparation (Weine, 2004; Gutmann (Problem Solving Ch.16)) [SRC]. A retained cotton pellet gives an acute foreign-body reaction, so pellets are counted (Gutmann (Problem Solving Ch.16)) [SRC]. MTA sets in about 3 hours (Castellucci, 2003) [SRC]. Postoperative: ice for 4 to 6 hours, a telephone call at 24 hours, and an analgesic regimen of ibuprofen 600 mg with acetaminophen 1000 mg (Evans et al, 2012; Gutmann (Problem Solving Ch.16)) [SRC]. Barnes lists common reasons for failure: an unsealed canal, a missed canal or a fracture (Barnes, 1984 (older text)) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: the modern sequence (microscope, 3 mm resection, ultrasonic preparation, bioceramic filling) is what raises success.** Textbooks give 91.4% to 94.4% for microsurgery (Rubinstein et al, 2021) [SRC], and the Setzer meta-analysis found 94% against 59% for traditional surgery (Setzer et al, 2010) [LIT, abstract]. The one randomised trial quoted found no difference between Super-EBA and ProRoot MTA (Rubinstein and Fayad, 2019) [SRC], which suggests the whole technique, not one material, carries the gain. Limitation: the pooled studies differ in case mix and criteria, so the gap between 94% and 59% is not a clean causal estimate [Likely].
@@ -117,6 +122,9 @@ Apical (periradicular) surgery means surgical access to the root apex, removal o
 
 ### Outcome
 Success of 91 to 94% is quoted for microsurgery (Rubinstein et al, 2021).
+
+- **Haemostasis:** epinephrine concentration differs by author (1:50,000 Castellucci; 1:80,000 Barnes); ferric sulfate must be removed fully.
+- **Postoperative:** ice 4 to 6 hours, review call at 24 hours (Evans et al, 2012).
 
 ## HIGH-YIELD POINTS
 3 mm resection (93% lateral canals, 98% ramifications); 0 to 10 degree bevel; 3 mm ultrasonic Class I cavity; about 4 mm osteotomy; compress 3 minutes; MTA is the material of choice; 94% against 59%.
@@ -211,12 +219,24 @@ None.
 - Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.184 (printed p.171): "The surgical technique may then have a greater bearing on the clinical result than the specific root-end filling material"
 - Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.174 (printed p.161): "flap reflection, flap retraction, osteotomy, periapical curettage, biopsy, hemostasis, apical resection"
 - Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.228 (printed p.217): "No consensus exists regarding the use of antibiotics in endodontic surgery"
+- Castellucci, 2003, 00_Pages_1_16.md, PDF p.6: "has no contraindication even in medically compromised patients"
+- Castellucci, 2003, 00_Pages_1_16.md, PDF p.9: "extremely low pH (0.21)"
+- Castellucci, 2003, 00_Pages_1_16.md, PDF p.14: "healing occures by primary intention in 24-48 hours"
+- Castellucci, 2003, 00_Pages_1_16.md, PDF p.12: "solidifies to a hard structure in approximately three hours"
+- Evans et al, 2012, 04_Outcomes_of_surgical_endodontic_intervention.md, PDF p.7 (printed p.6): "telephone communication within 24 hours"
+- Reiser, 2019, 16_Chapter_16_Pharmacology_in_Surgical_Endodontics.md, PDF p.299 (printed p.286): "ibuprofen 400 mg"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.112 (printed p.99): "varies from 20 to 100 microsieverts"
+- Setzer and Karabucak, 2020, 12_Pages_361_390.md, PDF p.365: "any epithelial remnants that might continue proliferation of a cystic lesion"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.352: "possible with an ultrasonically energized K-file"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.346: "it is not necessary to remove it"
+- Barnes, 1984 (older text), 12_Chapter_14_Correction_of_Failure.md, PDF p.76: "Incompletely sealed root canals (the commonest cause of failure)"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
 - Baumann MA, Beer R, editors. Endodontology. Edition and publisher not verified from the file. Ch.40 Endodontic surgery (chapter author not verified from the file).
+- Castellucci A. Advances in surgical endodontics. L'Informatore Endodontico 2003;6(1) (short article, PDF pp.1-16 of the file; authorship read from the file).
 - Floratos S, Kim S. Modern endodontic microsurgery concepts: a clinical update. Dent Clin North Am 2017;61(1):81-91 (full text read).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Elsevier; 2014. Ch.9 Management of non-surgical root-canal treatment failure (chapter author not named in the file, so the editors are cited).
@@ -226,10 +246,14 @@ None.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Niemczyk SP. Essentials of endodontic microsurgery. Dent Clin North Am 2010;54(2):375-399 (full text read).
 - Ogle OE, Swantek J, Kamoh A. Hemostatic agents. Dent Clin North Am 2011;55(3):433-439 (full text read).
+- Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).
+- Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.16.
 - Rubinstein R, Fayad MI, Torabinejad M. Apical microsurgery. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.20.
 - Rubinstein R, Fayad MI. Apical microsurgery: application of armamentaria, materials, and methods. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.10.
 - Setzer FC, Shah SB, Kohli MR, Karabucak B, Kim S. Outcome of endodontic surgery: a meta-analysis of the literature, part 1. J Endod 2010;36(11):1757-65. doi:10.1016/j.joen.2010.08.007 (PubMed abstract only).
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Torabinejad M. Diagnosis and treatment planning. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.5.
 - Tsesis I, Blazer T, Elbahary S, Rosen E. Complications of endodontic surgery. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.9.
 - Velvart P, Peters OA. Soft tissue management. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.9.
 - Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).
+- Wright HM. Histology of tissues involved in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.2.

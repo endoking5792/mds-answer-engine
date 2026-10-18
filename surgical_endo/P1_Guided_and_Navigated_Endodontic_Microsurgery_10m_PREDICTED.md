@@ -4,8 +4,8 @@
 **Basis:** The repository asks for "Advances in modern endodontic microsurgery" (10m, Sep 2010), "Endodontic surgery – Recent techniques, devices and its influence on prognosis" (50m, Nov 2024) and Recent Advances sittings on CBCT and illumination and magnification (50m, Oct 2023). Digital guidance is the newest item in that family and the topic has no repository wording of its own. This is my construction; treat it as a prediction [Guessing].
 
 
-<!--LOC: a10_cbct,pp_cbct,gse_cbct,a10_pz,gro_osteo4,flo_ost,ing_bevel,gro_3mm-->
-<!--REF: Rubinstein2019,Rubinstein2021,Evans2012,Gopikrishna2021,Floratos2017,Rotstein2019,Rewthamrongsris2026,Kapoor2025,Wei2023-->
+<!--LOC: a10_cbct,pp_cbct,gse_cbct,a10_pz,gro_osteo4,flo_ost,ing_bevel,gro_3mm, z_cbctlim, z_less40-->
+<!--REF: Rubinstein2019, Rubinstein2021, Evans2012, Gopikrishna2021, Floratos2017, Rotstein2019, Rewthamrongsris2026, Kapoor2025, Wei2023, Fayad6-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.10, Endodontics: Principles and Practice Ch.20, Grossman's Ch.22 and the Guidelines for Surgical Endodontics (CBCT planning and the standard parameters guidance tries to reproduce). The textbooks do not describe guided microsurgery. PubMed: three items, **abstracts only**: a 2026 systematic review and meta-analysis comparing static guides, dynamic navigation and augmented reality (Rewthamrongsris et al, 2026), a 2025 systematic review of dynamic navigation (Kapoor et al, 2025) and a 2023 expert consensus on digital guided therapy (Wei et al, 2023). Full texts not read.
@@ -21,6 +21,9 @@ Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.10, Endodontics: Princ
 **Evidence.** The 2026 meta-analysis found 33 studies, of which 1 was a nonrandomised trial, 1 a case series and 31 in vitro or cadaver studies. Static and dynamic guidance both gave significantly lower three-dimensional deviation at the bur tip than freehand work; dynamic navigation had significantly greater resection angle deviation than static guides; static guides needed the least operating time (Rewthamrongsris et al, 2026) [LIT, abstract]. The 2025 systematic review of dynamic navigation included 14 articles (12 case reports and 2 case series), 7 of them for endodontic surgery, with a mean follow-up of 9.9 months; it concluded that the method is reliable for complex cases but limited by high cost and a steep learning curve, and called for randomised trials (Kapoor et al, 2025) [LIT, abstract].
 
 **Interpretation.** Accuracy gains are shown in laboratory and cadaver models; clinical outcome (healing and survival) has not been shown to improve. This follows the study designs and should not be read as proof of benefit [Likely]. Cost, learning curve, the need for a CBCT, and the fixed path of a static guide in a sinus or nerve area are practical limits [Guessing].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+CBCT shows the canal-to-apex relation in every case, against under 40% on conventional films; dose is 20 to 100 microsieverts (Fayad et al, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks and the question does not say "critically".
@@ -88,11 +91,14 @@ None.
 - Floratos and Kim, 2017, 1-s2.0-S0011853216300799.pdf, printed p.82: "The diameter of the osteotomy is only 3 to 4 mm"
 - Torabinejad, Sabeti and Glickman, 2019, 24_Chapter_24_Surgical_Endodontics.md, PDF p.729 (printed p.818): "little or no beveling of the root during rootend resection"
 - Gopikrishna, 2021, 22_Chapter_22_Endodontic_Surgery.md, PDF p.463 (printed p.438): "about 93% of the lateral canals and 98% of apical ramifications"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.124 (printed p.111): "radiographic view(s) are yielding limited"
+- Fayad et al, 2019, 06_Chapter_6_Cone_Beam_Computed_Tomography_in_Treatment_Plan, PDF p.114 (printed p.101): "less than 40% of cases when using conventional radiography"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
 - Evans GE, Bishop K, Renton T. Guidelines for Surgical Endodontics. London: Royal College of Surgeons of England, Faculty of Dental Surgery; 2012.
+- Fayad MI, Azevedo BC, Rubinstein R. Cone beam computed tomography in treatment planning of periapical surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.6.
 - Floratos S, Kim S. Modern endodontic microsurgery concepts: a clinical update. Dent Clin North Am 2017;61(1):81-91 (full text read).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Kapoor A, Alagarsamy R, Lal B, Rana AS, Kaur A, Sharma S, Logani A. Dynamic navigation in endodontics: scope, benefits, and challenges - a systematic review. J Endod 2025;51(7):879-889.e2. doi:10.1016/j.joen.2025.04.010 (PubMed abstract only).

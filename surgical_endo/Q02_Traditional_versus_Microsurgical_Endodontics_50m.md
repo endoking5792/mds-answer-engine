@@ -6,15 +6,15 @@
 
 
 
-<!--LOC: nie_oclock,nie_air,nie_jagged,nie_groove,nie_single,nie_radial,a10_tipspec,a10_es,a10_mini,a10_110,a10_35,har_curve,flo_725,coh_aspirin,gro_triad,gro_mid,a10_cbct,a10_stages,gro_kimB,flo_table,flo_bevel,flo_ost,flo_heal,flo_64,nie_small,nie_ergo,nie_axis,nie_77,nie_dom,nie_97,nie_lido,nie_bupi,nie_muscle,a10_vert,a10_impact,a10_lind,gro_3mm,nie_93,nie_bread,flo_pdl,flo_incomp,nie_gil,a10_gil,flo_inspect,flo_gap,nie_bow,a10_3mm,a10_buffer,flo_isth,flo_tem,nie_isth,a10_reside,a10_craze,a10_diam,ing_microfx,ing_usrct,a10_80k,a10_freq,a10_tip,flo_light,flo_vibr,a10_pz,a10_pzadv,a10_mirror,a10_dry,nie_fe,nie_hemo,nie_avitene,a10_asa,a10_path,nie_mta,nie_dry,flo_mta,flo_rrm,flo_bioc,a10_song,nie_geri,nie_5min,nie_ice,nie_sut,gro_96,ing_silk,coh_94,coh_5yr,a17_tsesis,a17_setzer,a17_loupe,a17_lost,a17_qol,a17_rct,flo_968,flo_kimabc,flo_kimdf,coh_enh,coh_perp,har_cookbook-->
-<!--REF: Gopikrishna2021,Rubinstein2019,Floratos2017,Niemczyk2010,Rotstein2019,Berman2021,vonArx2019,Chong2017,Setzer2010,Setzer2012,Kohli2018,Pinto2020,Rewthamrongsris2026,Karlovic2005-->
+<!--LOC: nie_oclock,nie_air,nie_jagged,nie_groove,nie_single,nie_radial,a10_tipspec,a10_es,a10_mini,a10_110,a10_35,har_curve,flo_725,coh_aspirin,gro_triad,gro_mid,a10_cbct,a10_stages,gro_kimB,flo_table,flo_bevel,flo_ost,flo_heal,flo_64,nie_small,nie_ergo,nie_axis,nie_77,nie_dom,nie_97,nie_lido,nie_bupi,nie_muscle,a10_vert,a10_impact,a10_lind,gro_3mm,nie_93,nie_bread,flo_pdl,flo_incomp,nie_gil,a10_gil,flo_inspect,flo_gap,nie_bow,a10_3mm,a10_buffer,flo_isth,flo_tem,nie_isth,a10_reside,a10_craze,a10_diam,ing_microfx,ing_usrct,a10_80k,a10_freq,a10_tip,flo_light,flo_vibr,a10_pz,a10_pzadv,a10_mirror,a10_dry,nie_fe,nie_hemo,nie_avitene,a10_asa,a10_path,nie_mta,nie_dry,flo_mta,flo_rrm,flo_bioc,a10_song,nie_geri,nie_5min,nie_ice,nie_sut,gro_96,ing_silk,coh_94,coh_5yr,a17_tsesis,a17_setzer,a17_loupe,a17_lost,a17_qol,a17_rct,flo_968,flo_kimabc,flo_kimdf,coh_enh,coh_perp,har_cookbook, z_mag, z_loupe, z_noaccess, z_2ass, z_1984, z_tsesis, z_7_0, z_endosc-->
+<!--REF: Gopikrishna2021, Rubinstein2019, Floratos2017, Niemczyk2010, Rotstein2019, Berman2021, vonArx2019, Chong2017, Setzer2010, Setzer2012, Kohli2018, Pinto2020, Rewthamrongsris2026, Karlovic2005, Rubin7-->
 
 ## Retrieval Report
 Queries on `mds-textbooks` and the DCNA collection: Grossman's Ch.22 (microsurgery section, Boxes), Torabinejad and Rubinstein Ch.10 (Rubinstein and Fayad; read up to the hemostasis and root-end filling headings), Ingle's Ch.24 (ultrasonic section), Cohen's Ch.11 (angle of resection), von Arx and White Ch.17 (outcomes), and two full-text DCNA articles (Niemczyk 2010; Floratos and Kim 2017). All hit. PubMed searched for the three Setzer-group meta-analyses, a long-term review and a guided-surgery review; **abstracts only** read. Not read: Torabinejad and Rubinstein Ch.10 beyond the root-end filling heading, and Kim and Kratchman's 2006 review (cited through the secondary sources).
 
 ## STUDY MODE
 
-**Definition.** Grossman's: microsurgery is a surgical procedure on exceptionally small and complex anatomical structures with the dental operating microscope (DOM), letting the surgeon judge the pathologic cause more precisely and remove the lesion with minimal tissue damage; the term "microdentistry" was coined by Apothkar in 1980 (Gopikrishna, 2021) [SRC]. Its working framework is the microsurgical triad: magnification, illumination and instruments (Gopikrishna, 2021) [SRC]. Rubinstein and Fayad list the stages as flap design, reflection, retraction, osteotomy, curettage, biopsy, hemostasis, apical resection, evaluation of the resected apex, preparation, drying, selecting, mixing, placing, condensing and finishing the filling, and flap closure (Rubinstein and Fayad, 2019) [SRC].
+**Definition.** Grossman's: microsurgery is a surgical procedure on exceptionally small and complex anatomical structures with the dental operating microscope (DOM), letting the surgeon judge the pathologic cause more precisely and remove the lesion with minimal tissue damage; the term "microdentistry" was coined by Apotheker in 1980 (Gopikrishna, 2021) [SRC]. Its working framework is the microsurgical triad: magnification, illumination and instruments (Gopikrishna, 2021) [SRC]. Rubinstein and Fayad list the stages as flap design, reflection, retraction, osteotomy, curettage, biopsy, hemostasis, apical resection, evaluation of the resected apex, preparation, drying, selecting, mixing, placing, condensing and finishing the filling, and flap closure (Rubinstein and Fayad, 2019) [SRC].
 
 **Why traditional surgery failed.** Floratos and Kim (Penn group) trace it to the technique: a large osteotomy, a steep bevel (45 to 60 degrees), no inspection of the cut face, isthmuses neither seen nor treated, a bur-prepared cavity that rarely lay inside the canal, and amalgam (Floratos and Kim, 2017) [SRC]. A steep bevel exposes more dentinal tubules; Gilheany and colleagues found leakage increased with the slope of the bevel and that the minimum retrograde filling depth was 1 mm at 0 degrees, 2.1 mm at 30 degrees and 2.5 mm at 45 degrees (Niemczyk, 2010; Rubinstein and Fayad, 2019) [SRC]. Floratos and Kim state there is no biological justification for a steep bevel (Floratos and Kim, 2017) [SRC].
 
@@ -37,6 +37,15 @@ Queries on `mds-textbooks` and the DCNA collection: Grossman's Ch.22 (microsurge
 **Root-end filling.** MTA is the material of choice (Floratos and Kim, 2017; Niemczyk, 2010) [SRC], and it needs a dry cavity because blood or moisture can wash it away before setting (Niemczyk, 2010) [SRC]. Bioceramic root repair materials appear equally reliable and probably easier to use (Floratos and Kim, 2017) [SRC]; in a dog model, a bioceramic gave a better tissue response next to the root end than MTA (Floratos and Kim, 2017) [SRC]. A prospective randomised trial found no significant difference between Super-EBA and MTA, so technique may matter more than material (Rubinstein and Fayad, 2019) [SRC]. A bonded restoration (Geristore) is used where a post prevents a normal cavity (Niemczyk, 2010) [SRC]. Details in Q08.
 
 **Closure.** Compress for about 5 minutes, ice for 24 hours, remove sutures at 1 to 3 days (Niemczyk, 2010) [SRC]. Grossman's gives 96 hours as the maximum for non-absorbable sutures (Gopikrishna, 2021) [SRC]; silk is not recommended (Torabinejad, Sabeti and Glickman, 2019) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Optics and team.* Loupes are limited to about X3.5 to X4.5 in practice, whereas the operating microscope gives variable power, coaxial shadow-free light and Galilean optics (parallel beams, so the eyes rest); it improves the view but not physical access to the site (Rubinstein (Ch.7), 2019) [SRC]. Two assistants are used: one seated with an articulating binocular, the other standing on the surgeon's dominant side passing instruments; operating position is set by six factors (Rubinstein (Ch.7), 2019) [SRC]. Endoscopes give a two-dimensional image that fails in blood, and 3D heads-up systems are being tried; whether they could replace the microscope is unknown (Rubinstein (Ch.7), 2019) [SRC]. History: the microscope was first reported in apical surgery in 1984 by Reuben and Apotheker; the term "microdentistry" was coined by Apotheker in 1980 (so "Apothkar" above is a misspelling) (Rubinstein (Ch.7), 2019) [SRC].
+
+> **SOURCE CONFLICT, microscope bands.** *Rubinstein* (Torabinejad Ch.7): X2.5 to X8 orientation, X10 to X16 operating, X20 to X30 detail; above X30 is of little use. Grossman's (above): x2.5 to 8, x8 to 14, x14 to 30. Both are kept.
+
+*Papilla-base flap detail.* The papilla-base incision needs 7-0 sutures, at least two per papilla, and magnification of at least X4.3, whereas simple flaps need little magnification; the microscope is used to best advantage for osteotomy, resection, preparation, filling and documentation (Rubinstein (Ch.7), 2019) [SRC]. This differs from the 5-0 or 6-0 monofilament quoted for closure above.
+
+*Why traditional surgery failed and outcomes.* West found an unfilled or underfilled portal of exit in every failed specimen examined, and amalgam-sealed surgery fell to 57.7% at 10 years (Rubinstein (Ch.7), 2019) [SRC]. Tsesis found complete healing in 91% (modern) against 44% (traditional) (von Arx and White, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -152,6 +161,9 @@ CBCT planning; piezosurgery; bioceramic root repair materials; papilla-preservin
 
 ### 10. Conclusion
 The gain comes from a whole technique, not one gadget: small osteotomy, flat cut, inspection, ultrasonic preparation of the whole canal and isthmus, and a biocompatible seal. It should be the standard whenever surgery is chosen; but surgery remains second to nonsurgical retreatment where retreatment is feasible, and the figures quoted should always be tied to the study design.
+
+- **Microscope vs loupes:** loupes about X3.5 to X4.5; microscope variable power, coaxial light, does not improve access (Rubinstein (Ch.7), 2019).
+- **Papilla-base flap** needs 7-0 sutures and at least X4.3 magnification (Rubinstein (Ch.7), 2019).
 
 ## HIGH-YIELD POINTS
 Table of 10 differences (osteotomy 3-4 mm, bevel 0-10, inspection, isthmus 80-90%, ultrasonic, MTA, 5-0 sutures); Kim's classes; 94% vs 59%; 3 mm = 93% lateral canals and 98% ramifications; ultrasonic tip 0.25 mm and 3 mm long; light touch; MTA needs a dry field.
@@ -270,6 +282,14 @@ None.
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1452: "Enhanced magnification and illumination techniques have eliminated the need to create a beveled root surface"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1452: "the most appropriate angle of root-end resection is perpendicular to the long axis of the tooth"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.196 (printed p.180): "type indications for surgical intervention"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.134 (printed p.121): "are used for operating"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.131 (printed p.118): "X3.5 to X4.5 is the maximum practical magnification limit"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.140 (printed p.127): "The SOM will not improve access to the surgical field"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.139 (printed p.126): "should utilize two assistants"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.130 (printed p.117): "reported its use for the first time in apical surgery"
+- von Arx and White, 2019, 17_Chapter_17_Outcomes_of_Endodontic_Surgery.md, PDF p.312 (printed p.299): "pooled weighted success rate of 94%"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.141 (printed p.128): "requires the use of 7-0 sutures"
+- Rubinstein (Ch.7), 2019, 07_Chapter_7_Magnification_and_Illumination_in_Apical_Surger, PDF p.138 (printed p.125): "could replace the SOM in apical surgery is unknown"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
@@ -284,6 +304,7 @@ None.
 - Pinto D, Marques A, Pereira JF, Palma PJ, Santos JM. Long-term prognosis of endodontic microsurgery: a systematic review and meta-analysis. Medicina (Kaunas) 2020;56(9):447. doi:10.3390/medicina56090447 (PubMed abstract only).
 - Rewthamrongsris P, Chokechanachaisakul U, Khurshid Z, Osathanon T. Comparing guided surgical endodontics using static guidance, dynamic navigation, and augmented reality: a systematic review and meta-analysis. Eur J Dent 2026. doi:10.1055/s-0046-1824743 (PubMed abstract only).
 - Rubinstein R, Fayad MI. Apical microsurgery: application of armamentaria, materials, and methods. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.10.
+- Rubinstein R. Magnification and illumination in apical surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.7.
 - Setzer FC, Kohli MR, Shah SB, Karabucak B, Kim S. Outcome of endodontic surgery: a meta-analysis of the literature, part 2. J Endod 2012;38(1):1-10. doi:10.1016/j.joen.2011.09.021 (PubMed abstract only).
 - Setzer FC, Shah SB, Kohli MR, Karabucak B, Kim S. Outcome of endodontic surgery: a meta-analysis of the literature, part 1. J Endod 2010;36(11):1757-65. doi:10.1016/j.joen.2010.08.007 (PubMed abstract only).
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).

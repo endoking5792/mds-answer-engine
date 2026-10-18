@@ -3,8 +3,8 @@
 **Marks:** 10m, Short Essay
 **Sitting:** date not printed on scan (RG PIII RS-old). This is the healing that follows nonsurgical treatment; healing after surgery is in Q10.
 
-<!--LOC: y_r16_time,y_r16_year,y_r16_late,y_r16_pai,y_r16_fail,y_r16_kvist,p22_aae,c16_off,c16_biodeb,c16_heal,c16_cem,c16_bone,c16_scar,c16_gtr,c16_surgdeb,c16_78,c16_trueheal,c16_trueless,c16_nodirect,c16_dm,c16_hiv,c16_cond,p22_six,p22_def,p22_larger,p22_late,p22_pai,p22_cbct,p22_94,p22_over,a04_scar2,a04_scar,c10_fb-->
-<!--REF: Lin2021,Setzer2021,SaidAlNaief2019,Roda2021-->
+<!--LOC: y_r16_time,y_r16_year,y_r16_late,y_r16_pai,y_r16_fail,y_r16_kvist,p22_aae,c16_off,c16_biodeb,c16_heal,c16_cem,c16_bone,c16_scar,c16_gtr,c16_surgdeb,c16_78,c16_trueheal,c16_trueless,c16_nodirect,c16_dm,c16_hiv,c16_cond,p22_six,p22_def,p22_larger,p22_late,p22_pai,p22_cbct,p22_94,p22_over,a04_scar2,a04_scar,c10_fb, z_tei_51, z_chu_four, z_fri_scar, z_whi_fail, z_tei_wait-->
+<!--REF: Lin2021, Setzer2021, SaidAlNaief2019, Roda2021, Orstavik2012, Chugal2017, Friedman2017, White2017-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: wound healing of apical periodontitis, read in full), Endodontics: Principles and Practice Ch.22 (Setzer, Chogle and Torabinejad: evaluation of outcomes), Torabinejad and Rubinstein Ch.4 (scar), Cohen's Ch.10. All hit. No journal search; this is established biology and the timings are the textbooks' own. Not read: the primary human healing studies cited by Lin and Huang.
@@ -26,6 +26,11 @@ Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: wound healing of apica
 **Evaluating healing.** *Ørstavik* (Endodontic Radiology Ch.16): density changes may appear after a few weeks and quite regularly at 3 to 6 months, about 1 year is needed to judge the overall outcome, and complete healing can be seen as late as 17 to 27 years after surgery (Ørstavik, 2012) [SRC]. His periapical index treats a score above 2 as disease and reports 1-year failure of about 5 to 10% for filled vital teeth against 20 to 30% for teeth with apical periodontitis (Ørstavik, 2012) [SRC]. After surgery, 6-month results favoured surgery, but at 1 to 2 years retreatment was as good or better (Kvist and Reit, quoted in Ørstavik, 2012) [SRC]. The AAE replaces success and failure with healed (functional, asymptomatic, no or minimal radiographic pathosis), healing (asymptomatic and functional but with pathosis present) and nonhealed (nonfunctional, symptomatic) (Setzer et al, 2021) [SRC]. Six months is a reasonable first review. A lesion that is unchanged or larger after 1 year is unlikely to resolve; if it is smaller at 6 months it is healing and review continues; larger lesions heal more slowly; late healing and late failure both occur (Setzer et al, 2021) [SRC]. With the periapical index complete healing may need 4 to 5 years, particularly after surgery (Setzer et al, 2021) [SRC]. CBCT detects more lesions and increases the share of uncertain and unsatisfactory healing at 1 year (Setzer et al, 2021) [SRC].
 
 **Factors that delay healing.** Persistent infection, foreign material, poor nutrition and diabetes (Lin and Huang, 2021) [SRC]. A filling more than 2 mm short lowers healing from 94% to 68% (Setzer et al, 2021) [SRC]. HIV patients heal as well as others (Lin and Huang, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Wording correction.* The 17 to 27 years in the Orstavik healing timeline refers to years after treatment, not after surgery (Orstavik, 2012) [SRC].
+
+*Timelines.* Healing was 51% at 6 months, 70% at 12 months and 75% at 24 months (Orstavik, 2012) [SRC]. Scar tissue forms in under 10% (Friedman, 2017) [SRC]. A final verdict may take up to 4 years rather than 1 (Chugal et al, 2017) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: 10 marks and the question does not say "critically".
@@ -64,6 +69,8 @@ Surgery debrides faster and bone heals quicker, but late failure may be higher; 
 ### Factors affecting healing
 - Local: infection, foreign body, apical extent of filling (94% when within 0 to 2 mm, 68% when more than 2 mm short), lesion size, coronal leakage.
 - Systemic: diabetes lowers the chance of healing; HIV patients heal as well as others (Lin and Huang, 2021; Setzer et al, 2021).
+
+- Healing: 51% at 6 months, 70% at 12, 75% at 24 months; judge up to 4 years (Orstavik, 2012; Chugal et al, 2017).
 
 ## HIGH-YIELD POINTS
 Biologic debridement; mostly regeneration; 78% healing; review at 6 months and 1 year; filling within 2 mm gives 94%; scar 6.6% to 12%.
@@ -114,11 +121,20 @@ None.
 - Said-Al-Naief, 2019, 04_Chapter_4_Radiolucent_Periapical_Pathosis.md, PDF p.72 (printed p.59): "The development of a periapical scar represents the ultimate healing attempt of the tissue"
 - Said-Al-Naief, 2019, 04_Chapter_4_Radiolucent_Periapical_Pathosis.md, PDF p.72 (printed p.59): "The incidence of periapical scars varies from 6.6% to 12%"
 - Roda et al, 2021, 10_10_Nonsurgical_retreatment.md, PDF p.1196: "Several materials have been associated with inflammatory responses including lentil beans"
+- Gulabivala and Ng, 2022, 20_Chapter_20_Outcomes_of_endodontic_therapy.md, PDF p.1172: "51% (95% CI: 42%, 60%) after 6 months"
+- Chugal et al, 2017, 12_12_Criteria_for_Outcome_Assessment_of_Nonsurgical_Endodon, PDF p.229: "A treated tooth or root that is serving its intended purpose"
+- Friedman, 2017, 15_Chapter_15_Prognosis_of_Healing_in_Treated_Teeth.md, PDF p.366: "reserved for fibrous scars, occurring in less than 10% of cases"
+- White and Torabinejad, 2017, 13_13_From_Tooth_Retention_Through_Root_Canal_Treatment_to_E, PDF p.239: "heal well initially, but have a tendency toward failure over time"
+- Hulsmann et al, 2022, 17_Chapter_17_Management_of_posttreatment_apical_periodontit, PDF p.946: "in 51% of such cases the lesion increases in size"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Chugal N, Mallya SM, Kahler B. Criteria for outcome assessment of nonsurgical endodontic treatment. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.12.
+- Friedman S. Prognosis of healing in treated teeth. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Wiley; 2017. Ch.15.
 - Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+- Orstavik D. Healing of chronic apical periodontitis. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Wiley; 2012. Ch.16.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Said-Al-Naief N. Radiolucent periapical pathosis. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.4.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.22.
+- White SN, Torabinejad M. From tooth retention through root canal treatment to extraction and implant. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.13.

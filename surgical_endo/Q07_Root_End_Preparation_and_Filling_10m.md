@@ -4,8 +4,8 @@
 **Sitting:** May 2009 (RG PIII RS-old). Also answers "Ultrasonic root end preparation" (5m Short Note, Aug 2004, PIII 01-07). The materials themselves are compared in Q08, so only placement is given here.
 
 
-<!--LOC: flo_isth,coh_class1,ing_adv,gro_depth3,har_depth,a10_gil,a10_35,ing_burs,ing_std,coh_re_adv,coh_re_less,coh_smear,ing_parallel,ing_usrct,a10_freq,a10_tip,a10_brush,a10_irrig,a10_tipspec,a10_chatter,flo_light,a10_lingvert,coh_3types,ing_layton,ing_gray,ing_microfx,coh_lowpower,coh_curv70,coh_diamagg,a10_diam,coh_heat,a10_backact,pp_mirror,a10_dry,a10_cones,a10_pull,coh_bonded,gro_mta-->
-<!--REF: Berman2021,Rotstein2019,Gopikrishna2021,Chong2017,Rubinstein2019,Rubinstein2021,Floratos2017,Karlovic2005-->
+<!--LOC: flo_isth,coh_class1,ing_adv,gro_depth3,har_depth,a10_gil,a10_35,ing_burs,ing_std,coh_re_adv,coh_re_less,coh_smear,ing_parallel,ing_usrct,a10_freq,a10_tip,a10_brush,a10_irrig,a10_tipspec,a10_chatter,flo_light,a10_lingvert,coh_3types,ing_layton,ing_gray,ing_microfx,coh_lowpower,coh_curv70,coh_diamagg,a10_diam,coh_heat,a10_backact,pp_mirror,a10_dry,a10_cones,a10_pull,coh_bonded,gro_mta, z_rud, z_sk_cur, z_ps_kfile, z_tawil, z_fri_scar-->
+<!--REF: Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Rubinstein2019, Rubinstein2021, Floratos2017, Karlovic2005, Rubin7, Weine2004, Barnes1984, PS16, Castellucci2003, vonArx2019-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.11 (root-end cavity preparation and ultrasonic fractures), Ingle's Ch.24 (preparation), Grossman's Ch.22 (retrotips), Harty's Ch.10 (cavity preparation), Torabinejad and Rubinstein Ch.10 (apical preparation), Endodontics: Principles and Practice Ch.20. All hit. Further detail on ultrasonic technique is in Q01 and Q02. Karlovic et al (2005) was read as an abstract in the earlier answers. No new journal search.
@@ -23,6 +23,9 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (root-end cavity preparation and ultra
 **The crack problem.** Three types are described: intracanal, extracanal and communicating (Johnson et al, 2021) [SRC]. In vitro studies show more microfractures after ultrasonic preparation, lower with low power; cadaver and in vivo studies do not (Torabinejad, Sabeti and Glickman, 2019; Johnson et al, 2021) [SRC]. Ingle's finds no evidence that the cracks lower the success rate (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Heat is a second concern, so every tip needs an irrigation port (Johnson et al, 2021) [SRC].
 
 **Alternatives.** An Er:YAG laser produced less leakage than ultrasonics in an in vitro comparison (Karlovic et al, 2005) [LIT, abstract; in vitro only]. For bonded fillings the preparation is shallow and scalloped (Johnson et al, 2021) [SRC].
+
+**Further textbook points (second audit against the remaining books, 2026-10-18).** 
+*Alternative preparations.* Weine and Barnes describe slot and figure-of-eight preparations for flat or oval roots and an amalgam retention mechanism of cavity and slot design; amalgam is now historical (Weine, 2004; Barnes, 1984 (older text)) [SRC]. Gutmann describes the K-file with an ultrasonic tip as a way of cleaning the canal (Gutmann (Problem Solving Ch.16)) [SRC]. The ultrasonic tip may cause cracks: see the Q01 conflict (Tawil) (von Arx and White, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: a 10-mark answer earns marks on technique and advantages. The fracture controversy is stated above.
@@ -66,6 +69,8 @@ An isthmus is present in premolars and molars in roughly 80% to 90% of cases at 
 
 ### Bonded technique
 Shallow, scalloped preparation over the whole root face, filled in a dome (Johnson et al, 2021).
+
+- Root-end cracks: Tawil found healing 30% to 32% with cracks vs 95% to 97% without (von Arx and White, 2019).
 
 ## HIGH-YIELD POINTS
 3 mm Class I; 0.25 mm tip; 28,000 to 40,000 cycles per second; 80.5% against 70.9%; low power plus irrigation; micromirror check.
@@ -122,15 +127,26 @@ None.
 - Rubinstein and Fayad, 2019, 10_Chapter_10_Apical_Microsurgery_Application_of_Armamentari, PDF p.185 (printed p.172): "care must be taken to avoid pulling the material out of the preparation"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1463: "A shallow, scalloped preparation of the entire root surface should be made using a round or oval bur"
 - Gopikrishna, 2021, 22_Chapter_22_Endodontic_Surgery.md, PDF p.466 (printed p.441): "Tricalcium silicate cements/MTA is the recommended root-end"
+- Wright, 2019, 02_Chapter_2_Histology_of_Tissues_Involved_in_Surgical_Endod, PDF p.38 (printed p.25): "layer and an osteogenic layer"
+- Setzer and Karabucak, 2020, 12_Pages_361_390.md, PDF p.365: "any epithelial remnants that might continue proliferation of a cystic lesion"
+- Gutmann (Problem Solving Ch.16), 16_Chapter_16_Problem_Solving_Challenges_in_Periapical_Surge, PDF p.352: "possible with an ultrasonically energized K-file"
+- von Arx and White, 2019, 17_Chapter_17_Outcomes_of_Endodontic_Surgery.md, PDF p.325 (printed p.312): "Rates of healed cases were significantly higher"
+- Friedman, 2017, 15_Chapter_15_Prognosis_of_Healing_in_Treated_Teeth.md, PDF p.366: "reserved for fibrous scars, occurring in less than 10% of cases"
 
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
+- Castellucci A. Advances in surgical endodontics. L'Informatore Endodontico 2003;6(1) (short article, PDF pp.1-16 of the file; authorship read from the file).
 - Floratos S, Kim S. Modern endodontic microsurgery concepts: a clinical update. Dent Clin North Am 2017;61(1):81-91 (full text read).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
 - Karlovic Z, Pezelj-Ribaric S, Miletic I, Jukic S, Grgurevic J, Anic I. Erbium:YAG laser versus ultrasonic in preparation of root-end cavities. J Endod 2005;31(11):821-3. doi:10.1097/01.don.0000158234.33581.e9 (PubMed abstract only; in vitro).
+- Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).
 - Rubinstein R, Fayad MI, Torabinejad M. Apical microsurgery. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. Elsevier; 2021. Ch.20.
 - Rubinstein R, Fayad MI. Apical microsurgery: application of armamentaria, materials, and methods. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.10.
+- Rubinstein R. Magnification and illumination in apical surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.7.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
+- Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).
+- von Arx T, White SN. Outcomes of endodontic surgery. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.17.

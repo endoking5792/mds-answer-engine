@@ -45,6 +45,35 @@ BOOK = {
  'Rewthamrongsris2026':"Rewthamrongsris P, Chokechanachaisakul U, Khurshid Z, Osathanon T. Comparing guided surgical endodontics using static guidance, dynamic navigation, and augmented reality: a systematic review and meta-analysis. Eur J Dent 2026. doi:10.1055/s-0046-1824743 (PubMed abstract only).",
  'Karlovic2005':"Karlovic Z, Pezelj-Ribaric S, Miletic I, Jukic S, Grgurevic J, Anic I. Erbium:YAG laser versus ultrasonic in preparation of root-end cavities. J Endod 2005;31(11):821-3. doi:10.1097/01.don.0000158234.33581.e9 (PubMed abstract only; in vitro).",
 }
+_TR="In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019."
+BOOK.update({
+ 'Wright1':"Wright HM, Rice DD, Luo L. Anatomical zones in endodontic surgery. "+_TR+" Ch.1.",
+ 'Wright2':"Wright HM. Histology of tissues involved in surgical endodontics. "+_TR+" Ch.2.",
+ 'Huja3':"Huja SS, Roberts WE. Bone physiology and metabolism in endodontic surgery. "+_TR+" Ch.3.",
+ 'Torab5':"Torabinejad M. Diagnosis and treatment planning. "+_TR+" Ch.5.",
+ 'Fayad6':"Fayad MI, Azevedo BC, Rubinstein R. Cone beam computed tomography in treatment planning of periapical surgery. "+_TR+" Ch.6.",
+ 'Rubin7':"Rubinstein R. Magnification and illumination in apical surgery. "+_TR+" Ch.7.",
+ 'Tataryn12':"Tataryn RW. Surgical endodontics and the maxillary sinus. "+_TR+" Ch.12.",
+ 'Reiser16':"Reiser K. Pharmacology in surgical endodontics. "+_TR+" Ch.16.",
+ 'Castellucci2003':"Castellucci A. Advances in surgical endodontics. L'Informatore Endodontico 2003;6(1) (short article, PDF pp.1-16 of the file; authorship read from the file).",
+ 'PS16':"Problem Solving in Endodontics (Gutmann JL, editor). Ch.16 Problem solving challenges in periapical surgery (chapter author not named in the file).",
+ 'PS18':"Problem Solving in Endodontics (Gutmann JL, editor). Ch.18 Problem solving challenges that require periradicular surgery (chapter author not named in the file).",
+ 'Siqueira1':"Siqueira JF Jr, Rocas IN. Endodontic infections and the etiology of apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.1.",
+ 'Rocas4':"Rocas IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.4.",
+ 'Rocas7':"Rocas IN, Ricucci D, Siqueira JF Jr. Causes of endodontic treatment failure. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.7.",
+ 'Hulsmann2022':"Hulsmann M, Schafer E, Burklein S. Management of posttreatment apical periodontitis. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.17.",
+ 'Gulabivala2022':"Gulabivala K, Ng YL. Outcomes of endodontic therapy. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.20.",
+ 'Friedman2017':"Friedman S. Prognosis of healing in treated teeth. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Wiley; 2017. Ch.15.",
+ 'Chugal2017':"Chugal N, Mallya SM, Kahler B. Criteria for outcome assessment of nonsurgical endodontic treatment. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.12.",
+ 'White2017':"White SN, Torabinejad M. From tooth retention through root canal treatment to extraction and implant. In: Endodontic Prognosis: A Clinical Guide. Springer; 2017. Ch.13.",
+ 'SetzerK2020':"Setzer FC, Karabucak B. Surgical endodontics (healing and outcome sections). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020. Ch.12.",
+ 'Patel2020':"Patel S, Durack C. Radiology and healing (Ch.6). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020.",
+ 'Fouad2020':"Fouad AF, Khan AA. Periapical tissues and histology (Ch.3). In: Orstavik D, editor. Essential Endodontology. 3rd ed. Wiley; 2020.",
+ 'Orstavik2012':"Orstavik D. Healing of chronic apical periodontitis. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Wiley; 2012. Ch.16.",
+ 'Lam2012':"Lam EWN. Image interpretation of periapical abnormalities. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Wiley; 2012. Ch.8.",
+ 'SeltzerCh16':"Seltzer and Bender's Dental Pulp. Quintessence; 2012. Ch.16 Interrelationship of pulpal and periodontal diseases (file begins mid-chapter, so chapter authors are not named).",
+})
+
 # Chapter-author-first reference format (Niranjan, 2026-10-18): "Author(s). Chapter. In: Editors, editors. Book. ..."
 _OVERRIDE = {
  'Berman2021':"Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.",
