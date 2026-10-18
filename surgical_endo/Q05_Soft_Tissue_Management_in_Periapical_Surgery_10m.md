@@ -4,7 +4,7 @@
 **Sitting:** Oct 2024 (PII 21-25).
 
 
-<!--LOC: x_gul_comp, a09_tarnow, a09_holmes, a09_width, a09_2mm, a09_biotype, a09_necro, a09_chx, a09_periost, a09_groove, a09_moist, a09_pbfree, a09_papheal, a09_sulcpap, gro_vert, ing_dont, ing_loss, a09_ratio, ing_selvig, ing_comp, ing_silk, ing_interrupt, ing_suture4, gro_compress-->
+<!--LOC: y_g9_att,y_pp_4mm,y_e40_att,x_gul_comp, a09_tarnow, a09_holmes, a09_width, a09_2mm, a09_biotype, a09_necro, a09_chx, a09_periost, a09_groove, a09_moist, a09_pbfree, a09_papheal, a09_sulcpap, gro_vert, ing_dont, ing_loss, a09_ratio, ing_selvig, ing_comp, ing_silk, ing_interrupt, ing_suture4, gro_compress-->
 <!--REF: Gulabivala2014, Velvart2019, Rotstein2019, Gopikrishna2021-->
 
 ## Retrieval Report
@@ -15,6 +15,8 @@ Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.9 (Velvart and Peters,
 **Why it matters.** Handling of the tissues, meaning incision, raising the flap, handling during surgery and suturing, decides the final result, mainly gingival recession and attachment loss (Velvart and Peters, 2019) [SRC]. "Pink esthetics" (soft tissue and bone) is as important as "white esthetics" after surgery (Velvart and Peters, 2019) [SRC]. Microsurgery does not speed epithelial healing in itself; it shortens the distance epithelium must migrate by giving exact adaptation of wound edges (Velvart and Peters, 2019) [SRC].
 
 **Assess before cutting.** Probing depth around all teeth, noting furcations; an inflamed gingiva reads deeper than the true histologic attachment (Velvart and Peters, 2019) [SRC]. Reduce plaque first: hygienist care and 0.2% chlorhexidine twice daily from a week before to 2 weeks after (Velvart and Peters, 2019) [SRC]. Measure attached gingiva: probing depth subtracted from the distance from margin to mucogingival junction; a submarginal incision needs at least 2 mm (Velvart and Peters, 2019) [SRC]. Note biotype (thin biotypes recede more), restoration margins (recession can expose a crown margin) and papilla height (Velvart and Peters, 2019) [SRC]. The papilla is present nearly 100% of the time if contact point to bone is 5 mm or less, 56% at 6 mm, 27% at 7 mm or more (Velvart and Peters, 2019) [SRC]; once cut, 22 of 32 excised papillae in one study did not regenerate to original shape and height (Velvart and Peters, 2019) [SRC].
+
+> **SOURCE CONFLICT, attached gingiva needed for a submarginal flap.** *Velvart and Peters* (Torabinejad Ch.9): at least 2 mm coronal to the incision (Velvart and Peters, 2019) [SRC]. *Endodontology* (Ch.40): at least 2 mm (Endodontology, Ch.40) [SRC]. *Rubinstein, Fayad and Torabinejad* (Principles and Practice Ch.20): 4 mm for a papilla-based incision (Rubinstein et al, 2021) [SRC]. *Gulabivala and Ng* (Ch.9): 3 to 5 mm for the Luebke-Ochsenbein flap (Gulabivala and Ng, 2014) [SRC]. For the exam, quote 2 mm and say the range is 2 to 5 mm.
 
 **Incision.** Keep the blood supply: verticals parallel to the tooth and never converging, flap length to base within 2:1, not over a bony defect and not over a root eminence (Velvart and Peters, 2019; Torabinejad, Sabeti and Glickman, 2019; Gopikrishna, 2021) [SRC]. Single sharp stroke to bone (Gopikrishna, 2021) [SRC]. A sulcular flap loses about 0.5 to 0.62 mm of crestal bone and papilla height; papilla-base flaps preserve the papilla (Torabinejad, Sabeti and Glickman, 2019; Velvart and Peters, 2019) [SRC].
 
@@ -80,6 +82,9 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.257: "the required width of the attached gingivae is 3–5 mm"
+- Rubinstein et al, 2021, 20_20_Apical_Microsurgery.md, PDF p.438 (printed p.431): "Prerequisites are 4 mm of attached gingiva"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.323: "a width of at least 2 mm of the attached gingiva should be preserved"
 - Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.265: "compressed again with digital pressure for approximately 5–10 minutes"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.157 (printed p.144): "the papilla was present almost 100% of the time"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.157 (printed p.144): "22 papillae did not regenerate to their original shape and height"

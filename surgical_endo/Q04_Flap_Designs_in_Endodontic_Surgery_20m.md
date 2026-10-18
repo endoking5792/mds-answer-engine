@@ -9,6 +9,7 @@
 
 
 
+
 **FAILURE DISCLOSURE:** Exam Mode is 815 words, above the Section 7 range of 680-800 for 20 marks. First draft; adjust after discussion.
 
 <!--LOC: gro_vert,ing_dont,ing_5mm,ing_loss,a09_ratio,a09_conv,gro_semilunar,a09_semi,a09_tri,a09_palatal,ing_21,a09_rect,gro_sulc,gro_papilla,ing_lo,gro_luebke,a09_sub,ing_2mm,a09_2mm,a09_vonarx5,a09_pbprevent,a09_15,a09_pbfree,a09_papheal,ing_velvart,a09_sulcpap,ing_papperc,a09_tarnow,a09_biotype,a09_necro,a09_periost,a09_groove,a09_moist,ing_dont-->
@@ -32,6 +33,8 @@ Queries on `mds-textbooks`: Ingle's Ch.24 flap section (principles, biotype, ful
 **Sulcular full-thickness flap.** Grossman's: the design of choice for endodontic microsurgery (Gopikrishna, 2021) [SRC], giving the best access, but laborious to reposition and a cause of recession and loss of the papilla in the esthetic zone (Gopikrishna, 2021) [SRC]. Human studies show about 0.5 to 0.62 mm crestal bone loss after full-thickness flaps (Torabinejad, Sabeti and Glickman, 2019) [SRC]. In one study none of 17 papilla sites stayed at preoperative height after a sulcular flap (Velvart and Peters, 2019) [SRC].
 
 **Semilunar flap.** Fits drainage only (Gopikrishna, 2021) [SRC]; it gives limited access, severs vessels horizontally, lies over a bone defect and is under constant tension, so Velvart and Peters call it obsolete (Velvart and Peters, 2019) [SRC].
+
+> **SOURCE CONFLICT, attached gingiva needed:** *Velvart and Peters* and *Endodontology* (Ch.40) 2 mm; *Rubinstein, Fayad and Torabinejad* (Principles and Practice Ch.20) 4 mm for a papilla-based incision; *Gulabivala and Ng* (Ch.9) 3 to 5 mm. See Q05.
 
 **Submarginal (Luebke-Ochsenbein) flap.** Scalloped horizontal incision in attached gingiva with two vertical releases, designed by Ochsenbein and Luebke in 1974 (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Grossman's: 3 to 5 mm from the gingival attachment and 45 degrees to the cortical plate (Gopikrishna, 2021) [SRC]. Advantages: the gingival margin around the crown is untouched, the scallop guides exact repositioning, and it is preferred for crowned anterior teeth (Gopikrishna, 2021) [SRC]. Limits: needs at least 2 mm of attached gingiva (Torabinejad, Sabeti and Glickman, 2019; Velvart and Peters, 2019) [SRC]; unusable with short roots, large lesions, sinus tracts above the incision, or a frenum in the way (Torabinejad, Sabeti and Glickman, 2019) [SRC]; the incision may cross the osteotomy; there is no access to the root under the band of gingiva; scar lines are common (Torabinejad, Sabeti and Glickman, 2019; Velvart and Peters, 2019) [SRC]. Von Arx found significantly less recession than with sulcular and papilla-base incisions in the first year, but the difference was not significant at 5 years (Velvart and Peters, 2019) [SRC].
 

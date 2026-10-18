@@ -660,6 +660,43 @@ L.update({
  'x_col_suture': ('x_col4', 'Sutures may be removed after 5-7 days.'),
  'x_lie_biopsy': ('lie', 'A clinical controversy has ensued over the consideration as to whether all periapical lesions treated surgically should have soft tissue removed and submitted for histologic evaluation'),
 })
+F.update({
+ 'y_bio': (T+'Bioceramics_in_Endodontics_Chapterwise/01_Pages_31_60.md', None, 'Chopra, 2024'),
+ 'y_r16': (T+'Endodontic_Radiology_2nd_ed_Chapterwise/16_16_Healing_of_Chronic_Apical_Periodontitis.md', None, 'Ørstavik, 2012'),
+ 'y_tei4': (T+'Treatment_of_Endodontic_Infections_Chapterwise/04_Chapter_4_The_disease_clinical_manifestations_and_pathophysi.md', None, 'Siqueira, 2022'),
+ 'y_sb16': (T+'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_16_Interrelationship_of_Pulpal_and_Periodontal_Diseases.md', None, 'Seltzer and Bender, 2012'),
+ 'y_a08': (A+'08_Chapter_8_Local_Anesthesia_and_Hemostasis.md', 13, 'Johnson and Abedi, 2019'),
+})
+L.update({
+ 'y_g9_4h': ('x_gul9','it does not set for approximately 4 hours'),
+ 'y_g9_att': ('x_gul9','the required width of the attached gingivae is 3–5 mm'),
+ 'y_g9_bd': ('x_gul9','remains untested in this scenario'),
+ 'y_g9_res': ('x_gul9','it is often recommended that the apical 3 mm of the root-end be removed as a matter of routine'),
+ 'y_g9_exc': ('x_gul9','this may prove grossly excessive'),
+ 'y_g9_cur': ('x_gul9','it is always better to curette first and resect later'),
+ 'y_tsesis_epi': ('com','Usually, 1:100,000 epinephrine concentration should be sufficient'),
+ 'y_harty_cur': ('har','This procedure can often be performed before or in conjunction with root-end resection'),
+ 'y_a08_epi': ('y_a08','anesthetic with 1:50,000 epinephrine is an effective'),
+ 'y_bio_set': ('y_bio','GMTA has significantly higher initial and final setting times than WMTA'),
+ 'y_bio_islam': ('y_bio','final setting times of 140 minutes (2 hours and 20 minutes) for WMTA and 175 minutes'),
+ 'y_wei_bevel': ('x_wei9','Placing a filling in an unbeveled apex is similar'),
+ 'y_r16_time': ('y_r16','increased radiographic density may often be seen after a few weeks and quite regularly at'),
+ 'y_r16_year': ('y_r16','a period of 1 year may be necessary to assess the overall outcome'),
+ 'y_r16_late': ('y_r16','observed as much as 17'),
+ 'y_r16_pai': ('y_r16','a cutoff for health and disease between 2 and 3'),
+ 'y_r16_fail': ('y_r16','routinely carries a failure rate of 20'),
+ 'y_r16_kvist': ('y_r16','short-term observation periods (6 months) tended to favor surgical treatment'),
+ 'y_r16_true': ('y_r16','may therefore be resistant to conventional root canal treatment'),
+ 'y_r16_prev': ('y_r16','The proportion of root-filled teeth that has CAP is in the order of 30'),
+ 'y_tei_spec': ('y_tei4','this is only speculative and there is no scientific evidence in this regard'),
+ 'y_tei_irrel': ('y_tei4','differentiation between true and bay cysts seems to be of no clinical relevance'),
+ 'y_sb_true': ('y_sb16','True cysts must be surgically removed, but bay cysts that communicated'),
+ 'y_sb_10': ('y_sb16','the incidence of true cysts is probably less than 10%'),
+ 'y_pp_4mm': ('pp20','Prerequisites are 4 mm of attached gingiva'),
+ 'y_e40_att': ('x_endo40','a width of at least 2 mm of the attached gingiva should be preserved'),
+ 'y_e40_res': ('x_endo40','the root tip should be resected 3 mm from the apex'),
+ 'y_wei_bev45': ('x_wei9','Root tip must be beveled at an approximate 45-degree angle'),
+})
 def norm(s): return re.sub(r'\s+',' ',s).replace('- ','').strip()
 def find(key):
     f,ph = L[key]; path,off,cite = F[f]

@@ -7,7 +7,7 @@
 
 
 
-<!--LOC: gro_twice,ing_indic,har_three,gse_ind5,gse_post,gse_visual,gse_biopsy,coh_rationale,coh_cyst,coh_cost,gse_contra,gro_contra,har_contra,ing_contra,ing_sinus,gse_rct,gse_short,coh_twofold,coh_two,coh_75,gro_3mm,ing_3mm,coh_mental,coh_fenest,coh_perp,coh_tubules,coh_enh,ing_bevel,coh_smooth,ing_isthmus,gro_mid,coh_fill,coh_edta,coh_mtaedta-->
+<!--LOC: y_g9_res,y_g9_exc,y_e40_res,y_wei_bev45,gro_twice,ing_indic,har_three,gse_ind5,gse_post,gse_visual,gse_biopsy,coh_rationale,coh_cyst,coh_cost,gse_contra,gro_contra,har_contra,ing_contra,ing_sinus,gse_rct,gse_short,coh_twofold,coh_two,coh_75,gro_3mm,ing_3mm,coh_mental,coh_fenest,coh_perp,coh_tubules,coh_enh,ing_bevel,coh_smooth,ing_isthmus,gro_mid,coh_fill,coh_edta,coh_mtaedta-->
 <!--REF: Berman2021,Rotstein2019,Gopikrishna2021,Chong2017,Evans2012-->
 
 ## Retrieval Report
@@ -24,6 +24,8 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (indications, decision making, "Manage
 **Root-end resection: why and how much.** The surgery has two aims: remove the cause, and stop recontamination (Johnson et al, 2021) [SRC]. Two principles set the extent of resection: remove the cause (including diseased tissue and, when needed, reduce a fenestrated apex) and give room for inspection and management of the root end (Johnson et al, 2021) [SRC]. About 75% of teeth have canal aberrations in the apical 3 mm, so a 3 mm resection removes most of them (Johnson et al, 2021) [SRC]; Grossman's gives 98% of apical ramifications and 93% of lateral canals (Gopikrishna, 2021) [SRC]. Ingle's reports no consensus on the amount, and says not to remove more than 3 mm (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Anatomical limits (mental foramen, mandibular canal) may set the extent instead (Johnson et al, 2021) [SRC].
 
 **Angle.** Cohen's: enhanced magnification and illumination removed the need for a bevel in most cases, and the biologically best cut is perpendicular to the long axis (Johnson et al, 2021) [SRC]. Reasons: a perpendicular cut 3 mm from the apex is more likely to include all ramifications, a steeper angle exposes more tubules connecting the canal to the periradicular tissue, extending the cavity coronally is simpler, and stress is distributed evenly (Johnson et al, 2021) [SRC]. Ingle's recommends little or no bevel (Torabinejad, Sabeti and Glickman, 2019) [SRC].
+
+> **SOURCE CONFLICT, how much root and what bevel.** *Gulabivala and Ng* (Ch.9): removing the apical 3 mm routinely "may prove grossly excessive", since not every root has complex anatomy there and short roots cannot tolerate it; pare the apex gradually and stop when the canal anatomy is seen (Gulabivala and Ng, 2014) [SRC]. *Endodontology* (Ch.40) and the other textbooks above: resect 3 mm at 0 to 10 degrees (Endodontology, Ch.40) [SRC]. *Weine* (Ch.9, 2004): still bevels about 45 degrees, a smaller bevel being enough with the microscope, because the whole root face must be seen (Weine, 2004) [SRC]. Gulabivala and Ng also warn that the usual 3 mm is not always possible when a long post or the neurovascular bundle limits resection (Gulabivala and Ng, 2014) [SRC].
 
 **Microsurgical points.** After resection, inspect the cut surface under high magnification, with methylene blue, for cracks, canal aberrations, missed canals and isthmuses (Torabinejad, Sabeti and Glickman, 2019) [SRC]. A smooth surface helps inspection, although fibroblast attachment was not impaired by roughness in the one study cited (Johnson et al, 2021) [SRC]. Midrange magnification is used for resection, preparation and filling (Gopikrishna, 2021) [SRC]. The resected surface may be conditioned; 15 to 24% EDTA for about 2 minutes is judged the most suitable agent from periodontal research, but its effect on human periradicular outcome is not established, and the MTA manufacturer advised against EDTA with MTA (Johnson et al, 2021) [SRC]. A root-end filling is placed if the rest of the canal cannot be verified irritant-free (Johnson et al, 2021) [SRC].
 
@@ -100,6 +102,10 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.260: "it is often recommended that the apical 3 mm of the root-end be removed as a matter of routine"
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.260: "this may prove grossly excessive"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.326: "the root tip should be resected 3 mm from the apex"
+- Weine, 2004, 09_CHAPTER_9_Periapical_Surgery_Intraoral_Imaging_and_Its_Us, PDF p.1155: "Root tip must be beveled at an approximate 45-degree angle"
 - Gopikrishna, 2021, 22_Chapter_22_Endodontic_Surgery.md, PDF p.451 (printed p.426): "Nonsurgical treatment should have been rendered at least twice"
 - Torabinejad, Sabeti and Glickman, 2019, 24_Chapter_24_Surgical_Endodontics.md, PDF p.712 (printed p.801): "anatomical complexities of the root canal system that prevent complete cleaning"
 - Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.197 (printed p.181): "if there is a strong possibility of failure with nonsurgical root canal treatment"

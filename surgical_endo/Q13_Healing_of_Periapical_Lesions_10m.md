@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** date not printed on scan (RG PIII RS-old). This is the healing that follows nonsurgical treatment; healing after surgery is in Q10.
 
-<!--LOC: p22_aae,c16_off,c16_biodeb,c16_heal,c16_cem,c16_bone,c16_scar,c16_gtr,c16_surgdeb,c16_78,c16_trueheal,c16_trueless,c16_nodirect,c16_dm,c16_hiv,c16_cond,p22_six,p22_def,p22_larger,p22_late,p22_pai,p22_cbct,p22_94,p22_over,a04_scar2,a04_scar,c10_fb-->
+<!--LOC: y_r16_time,y_r16_year,y_r16_late,y_r16_pai,y_r16_fail,y_r16_kvist,p22_aae,c16_off,c16_biodeb,c16_heal,c16_cem,c16_bone,c16_scar,c16_gtr,c16_surgdeb,c16_78,c16_trueheal,c16_trueless,c16_nodirect,c16_dm,c16_hiv,c16_cond,p22_six,p22_def,p22_larger,p22_late,p22_pai,p22_cbct,p22_94,p22_over,a04_scar2,a04_scar,c10_fb-->
 <!--REF: Lin2021,Setzer2021,SaidAlNaief2019,Roda2021-->
 
 ## Retrieval Report
@@ -23,7 +23,7 @@ Queries on `mds-textbooks`: Cohen's Ch.16 (Lin and Huang: wound healing of apica
 
 **Reactive bone.** Lesions with reactive bone formation (focal condensing osteitis) heal after treatment, with remodelling of the dense bone (Lin and Huang, 2021) [SRC].
 
-**Evaluating healing.** The AAE replaces success and failure with healed (functional, asymptomatic, no or minimal radiographic pathosis), healing (asymptomatic and functional but with pathosis present) and nonhealed (nonfunctional, symptomatic) (Setzer et al, 2021) [SRC]. Six months is a reasonable first review. A lesion that is unchanged or larger after 1 year is unlikely to resolve; if it is smaller at 6 months it is healing and review continues; larger lesions heal more slowly; late healing and late failure both occur (Setzer et al, 2021) [SRC]. With the periapical index complete healing may need 4 to 5 years, particularly after surgery (Setzer et al, 2021) [SRC]. CBCT detects more lesions and increases the share of uncertain and unsatisfactory healing at 1 year (Setzer et al, 2021) [SRC].
+**Evaluating healing.** *Ørstavik* (Endodontic Radiology Ch.16): density changes may appear after a few weeks and quite regularly at 3 to 6 months, about 1 year is needed to judge the overall outcome, and complete healing can be seen as late as 17 to 27 years after surgery (Ørstavik, 2012) [SRC]. His periapical index treats a score above 2 as disease and reports 1-year failure of about 5 to 10% for filled vital teeth against 20 to 30% for teeth with apical periodontitis (Ørstavik, 2012) [SRC]. After surgery, 6-month results favoured surgery, but at 1 to 2 years retreatment was as good or better (Kvist and Reit, quoted in Ørstavik, 2012) [SRC]. The AAE replaces success and failure with healed (functional, asymptomatic, no or minimal radiographic pathosis), healing (asymptomatic and functional but with pathosis present) and nonhealed (nonfunctional, symptomatic) (Setzer et al, 2021) [SRC]. Six months is a reasonable first review. A lesion that is unchanged or larger after 1 year is unlikely to resolve; if it is smaller at 6 months it is healing and review continues; larger lesions heal more slowly; late healing and late failure both occur (Setzer et al, 2021) [SRC]. With the periapical index complete healing may need 4 to 5 years, particularly after surgery (Setzer et al, 2021) [SRC]. CBCT detects more lesions and increases the share of uncertain and unsatisfactory healing at 1 year (Setzer et al, 2021) [SRC].
 
 **Factors that delay healing.** Persistent infection, foreign material, poor nutrition and diabetes (Lin and Huang, 2021) [SRC]. A filling more than 2 mm short lowers healing from 94% to 68% (Setzer et al, 2021) [SRC]. HIV patients heal as well as others (Lin and Huang, 2021) [SRC].
 
@@ -81,6 +81,12 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.275: "increased radiographic density may often be seen after a few weeks and quite regularly at"
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.275: "a period of 1 year may be necessary to assess the overall outcome"
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.275: "observed as much as 17"
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.279: "a cutoff for health and disease between 2 and 3"
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.280: "routinely carries a failure rate of 20"
+- Ørstavik, 2012, 16_16_Healing_of_Chronic_Apical_Periodontitis.md, PDF p.273: "short-term observation periods (6 months) tended to favor surgical treatment"
 - Setzer et al, 2021, 22_22_Endodontic_Treatment_Outcomes.md, PDF p.461 (printed p.454): "Healed—Functional, asymptomatic teeth with no or minimal"
 - Lin and Huang, 2021, 16_16_Pathobiology_of_apical_periodontitis.md, PDF p.2097: "relatively little is known about what turns off the inflammatory system after elimination of irritants"
 - Lin and Huang, 2021, 16_16_Pathobiology_of_apical_periodontitis.md, PDF p.2102: "activated macrophages perform bacterial killing and cleanup of periapical lesions, which is called biologic debridement"

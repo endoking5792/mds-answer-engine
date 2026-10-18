@@ -5,7 +5,7 @@
 
 
 
-<!--LOC: x_endo_mta, x_endo_chong, x_endo_irm, x_endo_retro, ing_mtaset, ing_mta345, coh_finish, coh_ideal, ing_moist, coh_lightgic, coh_geriLeak, coh_abscess, a11_others, ing_bioind, ing_ideal, a11_seal, a10_amalgam, a10_omnell, gro_amalgam, har_argyria, har_irm91, a10_frank, a10_oynick, coh_zoehyd, coh_irm, coh_irmseal, coh_seba, coh_sebaacid, coh_sebaless, ing_zoemix, coh_gicrate, coh_gicmoist, coh_diaket, coh_retro74, coh_retro10, coh_retrodry, coh_geri25, coh_mtaset, coh_mtaph, coh_mtatox, coh_mtacem, coh_mtaocn, coh_blood, coh_mtairm, coh_wmta, har_mta34, ing_mtamix, a10_pull, coh_mtahandle, coh_errm, a10_bd, coh_overview, a11_dye, a11_mb, a11_sem, a11_bioact, a11_cem, a11_choice, a11_survey, a11_limited, a11_sr, a11_five, a10_song, pp_super, lie_mta, ing_mtacem, gro_mta, coh_mtaedta, har_mtagone, a10_wipe-->
+<!--LOC: y_g9_4h,y_bio_set,y_bio_islam,y_g9_bd,x_endo_mta, x_endo_chong, x_endo_irm, x_endo_retro, ing_mtaset, ing_mta345, coh_finish, coh_ideal, ing_moist, coh_lightgic, coh_geriLeak, coh_abscess, a11_others, ing_bioind, ing_ideal, a11_seal, a10_amalgam, a10_omnell, gro_amalgam, har_argyria, har_irm91, a10_frank, a10_oynick, coh_zoehyd, coh_irm, coh_irmseal, coh_seba, coh_sebaacid, coh_sebaless, ing_zoemix, coh_gicrate, coh_gicmoist, coh_diaket, coh_retro74, coh_retro10, coh_retrodry, coh_geri25, coh_mtaset, coh_mtaph, coh_mtatox, coh_mtacem, coh_mtaocn, coh_blood, coh_mtairm, coh_wmta, har_mta34, ing_mtamix, a10_pull, coh_mtahandle, coh_errm, a10_bd, coh_overview, a11_dye, a11_mb, a11_sem, a11_bioact, a11_cem, a11_choice, a11_survey, a11_limited, a11_sr, a11_five, a10_song, pp_super, lie_mta, ing_mtacem, gro_mta, coh_mtaedta, har_mtagone, a10_wipe-->
 <!--REF: Endodontology, Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Rubinstein2019, Rubinstein2021, Parirokh2019, Lieblich2012-->
 
 ## Retrieval Report
@@ -27,13 +27,13 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (root-end filling materials section, r
 
 > **SOURCE CONFLICT, MTA setting time.** *Johnson, Fayad and Berman* (Cohen's Ch.11, quoting Torabinejad's original study): 2 hours 45 minutes. *Torabinejad, Sabeti and Glickman's* chapter: 3 hours 45 minutes in one place and 2.5 to 3 hours in another within the same chapter. *Gutmann* (Harty's Ch.10): working time about 3 to 4 hours. *Lieblich* (2012): full firm set at 2 to 4 hours. I have not chosen one; for the exam write "about 2 to 4 hours".
 >
-> *Endodontology* (Ch.40) gives 2.75 hours for MTA, with a pH rise to 10.2 during setting (Endodontology, Ch.40) [SRC].
+> *Endodontology* (Ch.40) gives 2.75 hours for MTA, with a pH rise to 10.2 during setting (Endodontology, Ch.40) [SRC]. *Gulabivala and Ng* (Ch.9): grey or white ProRoot MTA does not set for approximately 4 hours (Gulabivala and Ng, 2014) [SRC]. *Chopra* (Bioceramics in Endodontics, 2024): grey ProRoot MTA 2 hours 45 minutes (plus or minus 5 minutes) as reported by Torabinejad, and final setting times of 140 minutes for white and 175 minutes for grey MTA as reported by Islam et al (Chopra, 2024) [SRC].
 >
 > **SOURCE CONFLICT, healing rates.** *Endodontology* (Ch.40), citing Chong et al, 2003: healing 92% with MTA against 87% with IRM at 2 years; Jensen et al, 2002, give 73 to 90% for Retroplast (Endodontology, Ch.40) [SRC]. Johnson et al (2021) give 74% against 59% for amalgam at 1 year for Retroplast (Johnson et al, 2021) [SRC]. These figures measure different comparisons and are not reconciled here.
 >
 > **SOURCE CONFLICT, Diaket and cementum.** *Johnson, Fayad and Berman* (Cohen's Ch.11): no cementum was evident on Diaket in animal studies. *Parirokh and Shabahang* (Torabinejad Ch.11): list Diaket among materials that may promote cementum formation.
 
-**Newer bioceramics.** EndoSequence Root Repair Material (calcium silicates, monobasic calcium phosphate, zirconium oxide) has biocompatibility and antimicrobial activity like MTA in vitro and no long-term clinical data in Cohen's (Johnson et al, 2021) [SRC]; Biodentine (tricalcium silicate, about 12 minutes working time) is poorly radiopaque (Rubinstein and Fayad, 2019) [SRC].
+**Newer bioceramics.** *Gulabivala and Ng* (Ch.9) add that Biodentine remains untested as a root-end filling (Gulabivala and Ng, 2014) [SRC]. EndoSequence Root Repair Material (calcium silicates, monobasic calcium phosphate, zirconium oxide) has biocompatibility and antimicrobial activity like MTA in vitro and no long-term clinical data in Cohen's (Johnson et al, 2021) [SRC]; Biodentine (tricalcium silicate, about 12 minutes working time) is poorly radiopaque (Rubinstein and Fayad, 2019) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 **Claim: MTA is the best root-end filling.** *Textbook:* strong. In vitro studies mostly show better sealing and marginal adaptation than SuperEBA, IRM, amalgam and GIC (Parirokh and Shabahang, 2019) [SRC]; MTA is the most popular material among American Board diplomates, 61.4% (Parirokh and Shabahang, 2019) [SRC]. *Clinical evidence:* weaker than the laboratory data. A randomised trial found no difference between Super-EBA and ProRoot MTA, and the textbook infers that surgical technique matters more than the material (Rubinstein and Fayad, 2019) [SRC]; in the human comparison with IRM, persistent disease was 16% against 24% at 12 months, not significantly different (Johnson et al, 2021) [SRC]. Systematic reviews disagree: one found no effect of material, two found IRM or MTA better than amalgam, GIC or gutta-percha, one found only MTA beneficial, and the authors note most primary studies were small, retrospective and short (Parirokh and Shabahang, 2019) [SRC]. *Conclusion:* amalgam, GIC and gutta-percha are inferior; between MTA and IRM or Super-EBA the clinical benefit is unproven, and MTA's real advantage is biological (cementum, handling aside) [Likely].
@@ -124,6 +124,10 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.264: "it does not set for approximately 4 hours"
+- Chopra, 2024, 01_Pages_31_60.md, PDF p.40: "GMTA has significantly higher initial and final setting times than WMTA"
+- Chopra, 2024, 01_Pages_31_60.md, PDF p.40: "final setting times of 140 minutes (2 hours and 20 minutes) for WMTA and 175 minutes"
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.263: "remains untested in this scenario"
 - Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.331: "2.75 hours. During setting there is a pH increase of up to 10.2"
 - Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.335: "Chong et al. (2003) reported that the rate of healing after use of MTA was 92%"
 - Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.335: "with IRM 87%, 2 years following treatment"

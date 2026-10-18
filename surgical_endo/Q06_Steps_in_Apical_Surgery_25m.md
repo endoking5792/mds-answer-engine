@@ -5,7 +5,7 @@
 
 
 
-<!--LOC: x_gul_suture7, x_endo_suture, x_wei_max, x_cur_suture, x_col_suture, x_gul_comp, coh_su24, a14_suture5, nie_sut, ing_round, ing_no3, a10_freq, com_heat, com_sinus2, a10_lingvert, a10_pz, pp_flap1, pp_cbct, lie_expl, har_mb, ogl_ostene, pp_papilla, pp_chx, a09_chx, gro_lido, nie_bupi, gro_epi200, a10_asa, coh_hemo, ogl_direct, nie_hemo, ogl_wax, pp_osteo, gro_osteo4, flo_heal, nie_lido, pp_foreign, gro_histo, lie_biopsy, lie_gc, gro_3mm, a10_3mm, ing_bevel, flo_bevel, flo_inspect, gro_depth3, a10_tip, coh_class1, coh_re_adv, pp_mirror, gro_retromirror, a10_dry, gro_mta, coh_overview, a10_cones, a10_pull, gro_xray, pp_comp3, ing_silk, a10_silk, pp_su, har_su48, ing_suture4, pp_postop, nie_ice, lie_3mo, lie_rubkim, pp_prog, a10_song, a10_stages, com_abx-->
+<!--LOC: y_tsesis_epi,y_a08_epi,y_g9_cur,y_harty_cur,x_gul_suture7, x_endo_suture, x_wei_max, x_cur_suture, x_col_suture, x_gul_comp, coh_su24, a14_suture5, nie_sut, ing_round, ing_no3, a10_freq, com_heat, com_sinus2, a10_lingvert, a10_pz, pp_flap1, pp_cbct, lie_expl, har_mb, ogl_ostene, pp_papilla, pp_chx, a09_chx, gro_lido, nie_bupi, gro_epi200, a10_asa, coh_hemo, ogl_direct, nie_hemo, ogl_wax, pp_osteo, gro_osteo4, flo_heal, nie_lido, pp_foreign, gro_histo, lie_biopsy, lie_gc, gro_3mm, a10_3mm, ing_bevel, flo_bevel, flo_inspect, gro_depth3, a10_tip, coh_class1, coh_re_adv, pp_mirror, gro_retromirror, a10_dry, gro_mta, coh_overview, a10_cones, a10_pull, gro_xray, pp_comp3, ing_silk, a10_silk, pp_su, har_su48, ing_suture4, pp_postop, nie_ice, lie_3mo, lie_rubkim, pp_prog, a10_song, a10_stages, com_abx-->
 <!--REF: Gulabivala2014, Endodontology, Weine2004, Current2016, Barnes1984, Rubinstein2021, Chong2017, Gopikrishna2021, Rotstein2019, Berman2021, Rubinstein2019, Velvart2019, Floratos2017, Niemczyk2010, Ogle2011, Lieblich2012, Tsesis2025, Setzer2010-->
 
 ## Retrieval Report
@@ -19,11 +19,13 @@ Queries on `mds-textbooks` and the DCNA collection: Endodontics: Principles and 
 
 **2. Anaesthesia and hemostasis.** Profound anaesthesia with a vasoconstrictor is the first and most important hemostatic measure (Rubinstein and Fayad, 2019) [SRC]; Grossman's names lidocaine with epinephrine as the usual choice (Gopikrishna, 2021) [SRC], and a long-acting agent such as bupivacaine helps with postoperative pain (Niemczyk, 2010) [SRC]. Where bleeding persists, direct pressure remains the most important measure and topical agents are secondary (Ogle et al, 2011) [SRC]. Local agents include ferric sulfate and buffered aluminium chloride gel (Niemczyk, 2010) [SRC]. Bone wax seals cancellous bone mechanically but stays in the jaw and inhibited bone regeneration in a cited study, so many authors avoid it (Ogle et al, 2011) [SRC]. A synthetic water-soluble alternative that dissolves in about 48 hours is described (Ostene) (Ogle et al, 2011) [SRC].
 
+> **SOURCE CONFLICT, epinephrine concentration.** *Endodontology* (Ch.40): 1:50,000 recommended (Endodontology, Ch.40) [SRC]. *Johnson and Abedi* (Torabinejad Ch.8): 1:50,000 is effective for hemostasis in surgery, usually one cartridge of 2% lidocaine with 1:50,000 (Johnson and Abedi, 2019) [SRC]. *Tsesis et al* (2025): 1:100,000 is usually sufficient (Tsesis et al, 2025) [SRC]. Higher concentrations give better hemostasis but are limited in cardiovascular patients (see Q03).
+
 **3. Flap.** The flap must give access with an adequate blood supply, avoid incisions over the bony defect, avoid acute corners, include the periosteum and never split a papilla (Rubinstein et al, 2021) [SRC]. Choice of flap (sulcular, papilla-base, submarginal) is taken in Q04 and tissue handling in Q05.
 
 **4. Osteotomy.** Bone is removed with a round or surgical-length bur under saline, or piezosurgery, as small as is practical but large enough to curette and reach the root end (Rubinstein et al, 2021) [SRC]. About 4 mm is the ideal diameter with ultrasonic tips (Gopikrishna, 2021) [SRC], and smaller osteotomies heal faster (Floratos and Kim, 2017) [SRC].
 
-**5. Curettage and biopsy.** Granulation tissue is removed to give vision and access; foreign material in the crypt must go. Tissue that is removed should be examined (Rubinstein et al, 2021; Gopikrishna, 2021) [SRC]. Lieblich notes the practical controversy: guidelines exist for not submitting tissue in clear, typical cases, and distinguishing granuloma from cyst does not change outcome (Lieblich, 2012) [SRC]. See Q11.
+**5. Curettage and biopsy.** Granulation tissue is removed to give vision and access; foreign material in the crypt must go. Tissue that is removed should be examined (Rubinstein et al, 2021; Gopikrishna, 2021) [SRC]. Lieblich notes the practical controversy: guidelines exist for not submitting tissue in clear, typical cases, and distinguishing granuloma from cyst does not change outcome (Lieblich, 2012) [SRC]. See Q11. On order, *Gulabivala and Ng* (Ch.9) advise curetting first and resecting later so the root end stays in clear view (Gulabivala and Ng, 2014) [SRC]; *Gutmann* (Harty's Ch.10) says curettage can often be done before or together with resection (Gutmann, 2017) [SRC].
 
 **6. Root-end resection.** At least 3 mm of the apex is removed to include 93% of lateral canals and 98% of apical ramifications (Gopikrishna, 2021; Niemczyk, 2010) [SRC], at close to zero bevel, because a bevel exposes more dentinal tubules and increases leakage (Floratos and Kim, 2017) [SRC].
 
@@ -134,6 +136,10 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Tsesis et al, 2025, 09_9_Complications_of_Endodontic_Surgery.md, PDF p.225 (printed p.214): "Usually, 1:100,000 epinephrine concentration should be sufficient"
+- Johnson and Abedi, 2019, 08_Chapter_8_Local_Anesthesia_and_Hemostasis.md, PDF p.144 (printed p.131): "anesthetic with 1:50,000 epinephrine is an effective"
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.260: "it is always better to curette first and resect later"
+- Gutmann, 2017, 10_10_Surgical_Endodontics.md, PDF p.205 (printed p.189): "This procedure can often be performed before or in conjunction with root-end resection"
 - Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.266: "suture removal is recommended at 7 days when wound strength is assured"
 - Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.334: "the sutures can be removed within 3–5 days"
 - Weine, 2004, 09_CHAPTER_9_Periapical_Surgery_Intraoral_Imaging_and_Its_Us, PDF p.1215: "with the absolute maximum being 7 days"
