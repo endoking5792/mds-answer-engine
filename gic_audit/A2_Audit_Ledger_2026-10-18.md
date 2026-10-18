@@ -19,8 +19,9 @@
 - **Q11 line 187**, Potiprapanpong 2023 from the dossier. Abstract only; the quote was not re-checked.
 - **P4 lines 162-165**, Atlas Chapter 5 (Type III lining). The four phrases are in the text but interleaved with the other column of a two-column scan, so they do not match as one string. They need a page read.
 
-## Page-marker convention (affects every chapterwise citation)
-The vault chapterwise conversions disagree. In some files "PDF page N" sits at the top of page N (the mds-textbooks convention); in others it sits at the end of page N (for example `28_20_Glass_Ionomer_Cement`, `23_ch_20_cements`, `14_14_Fluoride_Releasing_Materials`). Every GIC citation matches one convention for its file, so the answers are internally consistent, but which one is the true PDF page cannot be settled without the PDF. The source PDF for 28_20 (Textbook of Conservative & Restorative Dentistry) is cloud-only in OneDrive and was not read.
+## Page-marker convention (resolved for 28_20; a formatting difference)
+Vault chapterwise conversions place the "PDF page N" marker either at the end of page N (for example `28_20_Glass_Ionomer_Cement`, `23_ch_20_cements`) or at its start (the mds-textbooks convention). This is a difference in marker placement, not in page numbering. Each GIC citation matches the convention of its own file, so the answers are internally consistent.
+Checked in the source PDF (Textbook of Conservative & Restorative Dentistry, 666 pages): PDF page 406 holds "Glass-ionomer cement, developed by Wilson and Kent (1972)" (printed page 387, so printed = PDF page minus 19). The vault copy (marker at end) and the mds-textbooks copy (marker at start) both give page 406 for that sentence. The P1/P2 out-of-range lines below are not affected by this, because their pages (478, 480) lie outside the chapter's pages (406-424).
 
 ## Attribution
 The "Sikri, 2020" labels for the Textbook of Conservative and Restorative Dentistry are consistent with its front matter, which lists the author's other CBS books.
