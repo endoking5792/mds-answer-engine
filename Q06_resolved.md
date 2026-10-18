@@ -92,7 +92,7 @@ Glass ionomer cement (glass polyalkenoate cement) arose in the early 1970s as a 
 ### 3B. The fluoride story behind the interest
 In the 1950s silicate cement was noticed to release fluoride, and in 1957 fluoride from silicate cements was shown to reduce adjacent enamel solubility (Hilton et al, 2013; Mount et al, 2016). This earlier finding is why a fluoride-releasing, adhesive successor attracted so much interest.
 
-### 4. Refinement of chemistry (late 1970s to 1980s)
+### 4. Refinement of chemistry
 - **Copolymers:** itaconic and maleic acid reduce gelling of the liquid (McCabe and Walls, 2008; Mount, 1994).
 - **Tartaric acid:** sharper set, lower-fluoride, translucent glass (Mount, 1994).
 - **Water-hardening cement:** 1981 (van Noort and Barbour, 2013).
@@ -123,7 +123,7 @@ Restoration of cervical lesions, luting, lining and base, fissure sealant, ART a
 | Stage | Gain | Still unsolved |
 |---|---|---|
 | ASPA (1972-76) | adhesion plus fluoride, translucent (van Noort and Barbour, 2013) | unsealed water uptake and cracking (Mount et al, 2016) |
-| Copolymers, tartaric acid (late 1970s) | stable liquid, sharper set, translucency (Mount, 1994) | brittleness |
+| Copolymers, tartaric acid | stable liquid, sharper set, translucency (Mount, 1994) | brittleness |
 | Water-hardening (1981) | polyacid kept dry in the powder, so no liquid gelling (McCabe and Walls, 2008) | moisture sensitivity (van Noort and Barbour, 2013) |
 | Metal-reinforced (1983-85) | abrasion resistance, radiopacity (Mount et al, 2016) | colour, weak interface (Sikri, 2020); other properties little improved (Mount et al, 2016) |
 | RMGIC (1989; late 1980s-1990s) | early water resistance, command set (Hill, 2007) | HEMA, shrinkage, water uptake (Bonsor and Pearson, 2013) |

@@ -29,3 +29,12 @@ The "Sikri, 2020" labels for the Textbook of Conservative and Restorative Dentis
 ## Not done
 - No sentence-level re-reading of GIC claims in this pass.
 - Sturdevant 5th ed is still not in the library (its lines match against the vault's 5th-ed copy).
+
+## Addendum (2026-10-18): manual page read and sentence-level triage
+- **P4 lines 137 and 162-165, read on the source pages.** Atlas OCR PDF pp.88, 89 and 93 (printed 77, 78, 82) and Michigan 2002 p.636 (printed 627). All four Atlas phrases and the "4.9 MPa. These cements also can be etched to" line are on those pages. Michigan p.635 (printed 626) gives the subject of line 18: "Bond strengths measured in tension vary from 2.0 to 4.9 MPa". The mechanical checker still reports the Atlas lines NOT_FOUND because the vault chapterwise file interleaves the two columns.
+- **P4 line 165 quote** now carries the full source wording, "10-15-second application of 10% poly(acrylic acid) to remove the smear layer". The earlier quote dropped "10-15-".
+- **Sentence-level triage (all cited sentences).** 68 flags. 15 NUMBER and 10 LOWOVERLAP flags were read against the cited pages. 43 NO-LOCATOR flags were not read individually: they are labels written without a comma ("Ritter 2019"), comparison tables, and meta statements.
+  - Supported on the page: Sikri 152 MPa, 48 KHN and 16,000-22,000 psi; Mount 4.5% and 15% residual HEMA; Bonsor 3-4% shrinkage; Mount 15-25% resin; Torres 0.2-1 mm liner; Anusavice 7-10 min and 0.75 mm base; Roberson 24-72 h and 30 days; Bhat 105 MPa, 20 MPa and 40 KHN; Mount 8 mm cavity; McCabe 30 days; Sikri core build-up; Banerjee "longer periods" discolouration; Sikri acid-base setting for conventional GIC.
+  - Fixed: P1 "Colour stability 'might be suspect over longer periods'" replaces a reworded phrase in quote marks. Q06 "late 1970s" removed from the section heading and the Copolymers table cell (the cited source does not give that date). Q02 Banerjee "shorter lifespan" (not on the cited pages) is marked [Guessing].
+  - Not verified: Q01 van Noort "low-load" restriction (not on the cited p.110).
+- **Still open:** P1 line 190 and P2 line 145 (Sikri, out of chapter, not in the text); Q01 line 528 (Mount study note); P2 line 110 and Q11 line 143 (study notes); Q11 line 187 (dossier, abstract only).

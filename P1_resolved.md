@@ -30,7 +30,7 @@ The sandwich technique places GIC as dentine replacement under a composite ename
 - Disclosure now names both journal abstracts (Ge et al, 2023; Miletic et al, 2024), abstract only.
 - Class II: restricted to conventional GIC (van Noort); Miletic 2024 reworded to moderate-large cavities, success 81.9% against 90.7% numerically, no significant difference overall (abstract only).
 - Shrinkage: GIC about 3% by volume and slow (Mount et al, 2016), not "little"; resin-modified GIC 3-4% (Bonsor and Pearson, 2013) (textbook-verified).
-- Adhesion cell: no acid etching, but polyacrylic acid conditioning is used (Sikri, 2020; Mount, 1994). Discolouration reworded to "may be doubtful over longer periods" (one 6-year case) (Banerjee and Watson, 2011).
+- Adhesion cell: no acid etching, but polyacrylic acid conditioning is used (Sikri, 2020; Mount, 1994). Colour stability "might be suspect over longer periods" (one 6-year case) (Banerjee and Watson, 2011).
 - Uncited cells (composite aesthetics, moisture, monomer release) are now labelled general knowledge. Retention caveat added: conventional GIC 67% (Hilton et al, 2013).
 
 **Source disagreements shown**

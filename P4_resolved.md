@@ -162,7 +162,7 @@ GIC is now the standard adhesive liner and base: it bonds, seals and releases fl
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.88 | "a thin layer (0.5 mm) of a lining material may offer a degree of thermal"
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.88 | "if a healthy, uninfected pulp is mechanically exposed, it is only necessary to seal it from"
 - (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.89 | "Amalgam shows a unique ability to seal its own margins through corrosion"
-- (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.93 | "second application of 10% poly(acrylic acid) to remove the smear layer"
+- (Mount, 1994) Chapter_05_type_iii_lining_cements.md | PDF p.93 | "10–15-second application of 10% poly(acrylic acid) to remove the smear layer"
 - (Mount et al, 2016) 09_9_Glass_Ionomer_Materials.md | PDF p.175 | "can be used to cover and protect a mechanical or traumatic exposure"
 - (Mount et al, 2016) 09_9_Glass_Ionomer_Materials.md | PDF p.182 | "because it will reduce the area for adhesion of the"
 - (Hilton et al, 2013) 06_6_Pulpal_Considerations.md | PDF p.296 | "there is little human clinical research to support direct pulp capping with glass ionomer"
