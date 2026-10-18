@@ -348,3 +348,4 @@ The user supplied four real, peer-reviewed journal articles in `~/Downloads/dent
 - Audited against the supplied IADT 2020 guidelines and 2002-2025 reviews; ledger `traumatic_dental_injuries/AUDIT_IADT_2026-10-19.md`. Exam Mode in Section 7 ranges (23 answers).
 - Pushed to `microleakage-answers` (0ef795c, b50a970). OneDrive `.docx` built. Answer Bank Version 44 (publish_guard merge, VERIFY OK, 344 entries / 349 files, 0 lost). Vault copies written.
 - Vault consolidated index: 85 entries whose files are not yet in the vault folder (Endodontics Obturation and Root Canal Sealers, and others). Sync when convenient.
+- 2026-10-19 (later): traumatic_dental_injuries republished to the Answer Bank as Version 45 after the textbook re-audit corrections (publish_guard merge, VERIFY OK, 344 entries / 349 files, 0 lost).

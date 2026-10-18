@@ -50,4 +50,4 @@ Read first: `~/.claude/skills/dental-study-material/SKILL.md` Section 7. The ind
 - Every citation to Andreasen 2007, Berman, Harty's, Cohen's, Ingle's and the DCNA reviews was checked against the local extracts. Corrections and open items are in `AUDIT_IADT_2026-10-19.md`, section 'Textbook and DCNA re-audit'.
 - Corrected in the answers: 17 page or attribution fixes; the T14 milk quotation (not in the source); the T16 Harty's sentence (complete on p.262); the T02 and P3 fluoride and ankylosis conflicts.
 - Still open: the 'not located on the cited page' items listed in the ledger, and 30 citations to Sikri, Grossman, Weine, Endodontic Radiology, Paranjpe and AAE, which were not audited.
-- The Answer Bank copy (Version 44) predates this re-audit. Republishing needs a go-ahead.
+- Answer Bank republished as Version 45 (version id 1792354217-32bc) with these corrections: publish_guard merge (344 entries, 24 updated, 0 added), stale check clean, VERIFY OK (344 entries, 349 files, 0 lost). Vault copies and the consolidated copy refreshed.
