@@ -4,8 +4,8 @@
 **Sitting:** Oct 2024 (PII 21-25).
 
 
-<!--LOC: a09_tarnow,a09_holmes,a09_width,a09_2mm,a09_biotype,a09_necro,a09_chx,a09_periost,a09_groove,a09_moist,a09_pbfree,a09_papheal,a09_sulcpap,gro_vert,ing_dont,ing_loss,a09_ratio,ing_selvig,ing_comp,ing_silk,ing_interrupt,ing_suture4,gro_compress-->
-<!--REF: Velvart2019,Rotstein2019,Gopikrishna2021-->
+<!--LOC: x_gul_comp, a09_tarnow, a09_holmes, a09_width, a09_2mm, a09_biotype, a09_necro, a09_chx, a09_periost, a09_groove, a09_moist, a09_pbfree, a09_papheal, a09_sulcpap, gro_vert, ing_dont, ing_loss, a09_ratio, ing_selvig, ing_comp, ing_silk, ing_interrupt, ing_suture4, gro_compress-->
+<!--REF: Gulabivala2014, Velvart2019, Rotstein2019, Gopikrishna2021-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.9 (Velvart and Peters, read in full), Ingle's Ch.24 (flap handling, closure, healing), Grossman's Ch.22 (incision rules, closure). All hit. Flap shapes are in Q04 and wound healing in Q10, so only the management principles are developed here. No journal search was run.
@@ -20,7 +20,7 @@ Queries on `mds-textbooks`: Torabinejad and Rubinstein Ch.9 (Velvart and Peters,
 
 **Elevation and retraction.** Begin in the vertical incision and undermine, keeping the periosteum intact so mucosa cannot enter the bony crypt (Velvart and Peters, 2019) [SRC]. Cut a small bone groove as a rest for the retractor (Velvart and Peters, 2019) [SRC]. Keep the flap and non-reflected tissue moist, since dehydration shrinks the flap and makes closure tense (Velvart and Peters, 2019) [SRC]. The longer a flap stays retracted, the greater the morbidity (Torabinejad, Sabeti and Glickman, 2019) [SRC].
 
-**Closure.** Reposition exactly and compress for 2 to 3 minutes, which leaves a thin fibrin clot instead of a thick coagulum (Torabinejad, Sabeti and Glickman, 2019; Gopikrishna, 2021) [SRC]. Interrupted sutures adapt better than continuous (Torabinejad, Sabeti and Glickman, 2019) [SRC]; monofilament is preferred and silk collects plaque (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Remove sutures at 4 days, the earliest sensible time (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Healing is fastest in free gingiva (7 days), slower in attached gingiva (14) and alveolar mucosa (28), which is why dehiscence is commoner in mucosa (Torabinejad, Sabeti and Glickman, 2019) [SRC].
+**Closure.** Reposition exactly and compress for 2 to 3 minutes, which leaves a thin fibrin clot instead of a thick coagulum (Torabinejad, Sabeti and Glickman, 2019; Gopikrishna, 2021) [SRC]. Interrupted sutures adapt better than continuous (Torabinejad, Sabeti and Glickman, 2019) [SRC]; monofilament is preferred and silk collects plaque (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Remove sutures at 4 days, the earliest sensible time (Torabinejad, Sabeti and Glickman, 2019) [SRC]. Healing is fastest in free gingiva (7 days), slower in attached gingiva (14) and alveolar mucosa (28), which is why dehiscence is commoner in mucosa (Torabinejad, Sabeti and Glickman, 2019) [SRC]. *Gulabivala and Ng* (Ch.9) give about 5 to 10 minutes of digital pressure once all sutures are placed (Gulabivala and Ng, 2014) [SRC].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 Omitted: a 10-mark answer earns marks on principles and technique. The flap-type comparison is in Q04.
@@ -80,6 +80,7 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.265: "compressed again with digital pressure for approximately 5–10 minutes"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.157 (printed p.144): "the papilla was present almost 100% of the time"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.157 (printed p.144): "22 papillae did not regenerate to their original shape and height"
 - Velvart and Peters, 2019, 09_Chapter_9_Soft_Tissue_Management.md, PDF p.155 (printed p.142): "the junctional epithelial attachment width (0.97 mm) and connective tissue attachment width (1.07 mm)"
@@ -108,5 +109,6 @@ None.
 
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
+- Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Elsevier; 2014. Ch.9 Management of non-surgical root-canal treatment failure (chapter author not named in the file, so the editors are cited).
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
 - Velvart P, Peters OA. Soft tissue management. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.9.

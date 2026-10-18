@@ -5,8 +5,8 @@
 
 
 
-<!--LOC: coh_su24,a14_suture5,nie_sut,ing_round,ing_no3,a10_freq,com_heat,com_sinus2,a10_lingvert,a10_pz,pp_flap1,pp_cbct,lie_expl,har_mb,ogl_ostene,pp_papilla,pp_chx,a09_chx,gro_lido,nie_bupi,gro_epi200,a10_asa,coh_hemo,ogl_direct,nie_hemo,ogl_wax,pp_osteo,gro_osteo4,flo_heal,nie_lido,pp_foreign,gro_histo,lie_biopsy,lie_gc,gro_3mm,a10_3mm,ing_bevel,flo_bevel,flo_inspect,gro_depth3,a10_tip,coh_class1,coh_re_adv,pp_mirror,gro_retromirror,a10_dry,gro_mta,coh_overview,a10_cones,a10_pull,gro_xray,pp_comp3,ing_silk,a10_silk,pp_su,har_su48,ing_suture4,pp_postop,nie_ice,lie_3mo,lie_rubkim,pp_prog,a10_song,a10_stages,com_abx-->
-<!--REF: Rubinstein2021,Chong2017,Gopikrishna2021,Rotstein2019,Berman2021,Rubinstein2019,Velvart2019,Floratos2017,Niemczyk2010,Ogle2011,Lieblich2012,Tsesis2025,Setzer2010-->
+<!--LOC: x_gul_suture7, x_endo_suture, x_wei_max, x_cur_suture, x_col_suture, x_gul_comp, coh_su24, a14_suture5, nie_sut, ing_round, ing_no3, a10_freq, com_heat, com_sinus2, a10_lingvert, a10_pz, pp_flap1, pp_cbct, lie_expl, har_mb, ogl_ostene, pp_papilla, pp_chx, a09_chx, gro_lido, nie_bupi, gro_epi200, a10_asa, coh_hemo, ogl_direct, nie_hemo, ogl_wax, pp_osteo, gro_osteo4, flo_heal, nie_lido, pp_foreign, gro_histo, lie_biopsy, lie_gc, gro_3mm, a10_3mm, ing_bevel, flo_bevel, flo_inspect, gro_depth3, a10_tip, coh_class1, coh_re_adv, pp_mirror, gro_retromirror, a10_dry, gro_mta, coh_overview, a10_cones, a10_pull, gro_xray, pp_comp3, ing_silk, a10_silk, pp_su, har_su48, ing_suture4, pp_postop, nie_ice, lie_3mo, lie_rubkim, pp_prog, a10_song, a10_stages, com_abx-->
+<!--REF: Gulabivala2014, Endodontology, Weine2004, Current2016, Barnes1984, Rubinstein2021, Chong2017, Gopikrishna2021, Rotstein2019, Berman2021, Rubinstein2019, Velvart2019, Floratos2017, Niemczyk2010, Ogle2011, Lieblich2012, Tsesis2025, Setzer2010-->
 
 ## Retrieval Report
 Queries on `mds-textbooks` and the DCNA collection: Endodontics: Principles and Practice Ch.20 (Rubinstein et al, whole chapter), Torabinejad and Rubinstein Ch.10 (to the end of closure), Grossman's Ch.22 (microsurgery and root-end sections), Ingle's Ch.24 (resection to healing), Harty's Ch.10 (root-end cavity to closure), Cohen's Ch.11 (root-end sections), and the full DCNA texts of Niemczyk (2010), Floratos and Kim (2017), Ogle et al (2011, hemostasis) and Lieblich (2012). All hit. PubMed: Setzer et al (2010) abstract only. The individual steps are developed in more depth in Q01 to Q05; this answer is the connected sequence. Not read: Kim and Kratchman's 2006 review.
@@ -33,7 +33,7 @@ Queries on `mds-textbooks` and the DCNA collection: Endodontics: Principles and 
 
 **9. Drying and filling.** The cavity is rinsed and dried with a microtip (Stropko) irrigator (Rubinstein and Fayad, 2019) [SRC]. Tricalcium silicate cement/MTA is Grossman's material of choice (Gopikrishna, 2021) [SRC]; zinc oxide eugenol cements are delivered as small cones and condensed in increments, while MTA is carried in a sleeve or carrier and must not be pulled out when withdrawing the plugger (Rubinstein and Fayad, 2019) [SRC]. Materials are compared in Q08.
 
-**10. Radiograph, closure and instructions.** A radiograph before closure confirms complete resection and the filling (Gopikrishna, 2021) [SRC]. The flap is replaced and compressed with moist gauze for at least 3 minutes to leave a thin clot (Rubinstein et al, 2021) [SRC]. Monofilament sutures are preferred; silk collects bacteria (Rubinstein and Fayad, 2019) [SRC]. Removal time is quoted differently. **SOURCE CONFLICT, suture removal:** *Gutmann* (Harty's Ch.10) 48 to 72 hours; *Niemczyk* (2010) 1 to 3 days in uncomplicated cases; *Johnson, Fayad and Berman* (Cohen's Ch.11) 2 to 4 days; *Jurosky* (Torabinejad Ch.14) consider 5 days; *Torabinejad, Sabeti and Glickman's* chapter four days as the earliest reasonable time; *Rubinstein and Fayad* (Torabinejad Ch.10) up to 7 days; *Rubinstein, Fayad and Torabinejad* (Principles and Practice Ch.20) 3 to 7 days [SRC]. No source gives a trial; the range is 1 to 7 days and I have not picked one. Written postoperative instructions are given (Rubinstein et al, 2021) [SRC].
+**10. Radiograph, closure and instructions.** A radiograph before closure confirms complete resection and the filling (Gopikrishna, 2021) [SRC]. The flap is replaced and compressed with moist gauze for at least 3 minutes to leave a thin clot (Rubinstein et al, 2021) [SRC]. *Gulabivala and Ng* (Ch.9) add that once all sutures are placed the flap is compressed again with digital pressure for about 5 to 10 minutes (Gulabivala and Ng, 2014) [SRC]. Monofilament sutures are preferred; silk collects bacteria (Rubinstein and Fayad, 2019) [SRC]. Removal time is quoted differently. **SOURCE CONFLICT, suture removal:** *Gutmann* (Harty's Ch.10) 48 to 72 hours; *Niemczyk* (2010) 1 to 3 days in uncomplicated cases; *Johnson, Fayad and Berman* (Cohen's Ch.11) 2 to 4 days; *Jurosky* (Torabinejad Ch.14) consider 5 days; *Torabinejad, Sabeti and Glickman's* chapter four days as the earliest reasonable time; *Rubinstein and Fayad* (Torabinejad Ch.10) up to 7 days; *Rubinstein, Fayad and Torabinejad* (Principles and Practice Ch.20) 3 to 7 days [SRC]. Further sources: *Gulabivala and Ng* (Ch.9) 7 days when wound strength is assured (Gulabivala and Ng, 2014) [SRC]; *Endodontology* (Ch.40) 3 to 5 days (Endodontology, Ch.40) [SRC]; *Weine* (Ch.9) an absolute maximum of 7 days (Weine, 2004) [SRC]; *Barnes* (1984, the older colour manual) 5 to 7 days (Barnes, 1984) [SRC]; *Johnson, McNally et al* (Current Therapy, Ch.9) 2 to 4 days (Johnson, McNally et al, Current Therapy Ch.9) [SRC]. No source gives a trial; the range is 1 to 7 days and I have not picked one. Written postoperative instructions are given (Rubinstein et al, 2021) [SRC].
 
 **11. Follow-up.** A film at 3 months compared with the postoperative one; if bone fill is not yet clear, again at 6 months (Lieblich, 2012) [SRC]. In Rubinstein and Kim's series complete healing took 3 months in 25.3% of cases, 6 months in 34%, 9 months in 15.4% and 12 months in 25.3% (Lieblich, 2012) [SRC].
 
@@ -134,6 +134,12 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.266: "suture removal is recommended at 7 days when wound strength is assured"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.334: "the sutures can be removed within 3–5 days"
+- Weine, 2004, 09_CHAPTER_9_Periapical_Surgery_Intraoral_Imaging_and_Its_Us, PDF p.1215: "with the absolute maximum being 7 days"
+- Johnson, McNally et al (Current Therapy, Ch.9), 09_10_pdf_p_228_283.md, PDF p.261: "Sutures should be removed between 2 and 4 days after"
+- Barnes, 1984, 04_Chapter_5_Operative_Technique_Flap.md, PDF p.28: "Sutures may be removed after 5-7 days."
+- Gulabivala and Ng, 2014, 09_9_Management_of_non_surgical_root_canal_treatment_failure, PDF p.265: "compressed again with digital pressure for approximately 5–10 minutes"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1502: "Sutures are commonly removed 2 to 4 days after surgery"
 - Jurosky, 2019, 14_Chapter_14_Wound_Healing.md, PDF p.268 (printed p.255): "Consider early suture removal at 5 days"
 - Niemczyk, 2010, 1-s2.0-S0011853209001104.pdf, printed p.396: "Suture removal, in uncomplicated cases, is normally 1 to 3 days after the operation"
@@ -203,10 +209,14 @@ None.
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Barnes IE. Surgical Endodontics: A Colour Manual. Lancaster: MTP Press (Kluwer Academic Publishers group); 1984 (old text, used only for historical technique).
+- Baumann MA, Beer R, editors. Endodontology. Edition and publisher not verified from the file. Ch.40 Endodontic surgery (chapter author not verified from the file).
 - Floratos S, Kim S. Modern endodontic microsurgery concepts: a clinical update. Dent Clin North Am 2017;61(1):81-91 (full text read).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
+- Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Elsevier; 2014. Ch.9 Management of non-surgical root-canal treatment failure (chapter author not named in the file, so the editors are cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.
+- Johnson JD, McNally K, McClanahan SB, Niemczyk SP. Endodontic microsurgery. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Edition year not verified from the file. Ch.9.
 - Lieblich SE. Endodontic surgery. Dent Clin North Am 2012;56(1):121-132 (full text read).
 - Niemczyk SP. Essentials of endodontic microsurgery. Dent Clin North Am 2010;54(2):375-399 (full text read).
 - Ogle OE, Swantek J, Kamoh A. Hemostatic agents. Dent Clin North Am 2011;55(3):433-439 (full text read).
@@ -216,3 +226,4 @@ None.
 - Torabinejad M, Sabeti M, Glickman GN. Surgical endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.24 (chapter authors decoded from a garbled author line in the extracted file; verify against the printed book).
 - Tsesis I, Blazer T, Elbahary S, Rosen E. Complications of endodontic surgery. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.9.
 - Velvart P, Peters OA. Soft tissue management. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park, IL: Quintessence; 2019. Ch.9.
+- Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).

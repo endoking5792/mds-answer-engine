@@ -5,8 +5,8 @@
 
 
 
-<!--LOC: ing_mtaset,ing_mta345,coh_finish,coh_ideal,ing_moist,coh_lightgic,coh_geriLeak,coh_abscess,a11_others,ing_bioind,ing_ideal,a11_seal,a10_amalgam,a10_omnell,gro_amalgam,har_argyria,har_irm91,a10_frank,a10_oynick,coh_zoehyd,coh_irm,coh_irmseal,coh_seba,coh_sebaacid,coh_sebaless,ing_zoemix,coh_gicrate,coh_gicmoist,coh_diaket,coh_retro74,coh_retro10,coh_retrodry,coh_geri25,coh_mtaset,coh_mtaph,coh_mtatox,coh_mtacem,coh_mtaocn,coh_blood,coh_mtairm,coh_wmta,har_mta34,ing_mtamix,a10_pull,coh_mtahandle,coh_errm,a10_bd,coh_overview,a11_dye,a11_mb,a11_sem,a11_bioact,a11_cem,a11_choice,a11_survey,a11_limited,a11_sr,a11_five,a10_song,pp_super,lie_mta,ing_mtacem,gro_mta,coh_mtaedta,har_mtagone,a10_wipe-->
-<!--REF: Berman2021,Rotstein2019,Gopikrishna2021,Chong2017,Rubinstein2019,Rubinstein2021,Parirokh2019,Lieblich2012-->
+<!--LOC: x_endo_mta, x_endo_chong, x_endo_irm, x_endo_retro, ing_mtaset, ing_mta345, coh_finish, coh_ideal, ing_moist, coh_lightgic, coh_geriLeak, coh_abscess, a11_others, ing_bioind, ing_ideal, a11_seal, a10_amalgam, a10_omnell, gro_amalgam, har_argyria, har_irm91, a10_frank, a10_oynick, coh_zoehyd, coh_irm, coh_irmseal, coh_seba, coh_sebaacid, coh_sebaless, ing_zoemix, coh_gicrate, coh_gicmoist, coh_diaket, coh_retro74, coh_retro10, coh_retrodry, coh_geri25, coh_mtaset, coh_mtaph, coh_mtatox, coh_mtacem, coh_mtaocn, coh_blood, coh_mtairm, coh_wmta, har_mta34, ing_mtamix, a10_pull, coh_mtahandle, coh_errm, a10_bd, coh_overview, a11_dye, a11_mb, a11_sem, a11_bioact, a11_cem, a11_choice, a11_survey, a11_limited, a11_sr, a11_five, a10_song, pp_super, lie_mta, ing_mtacem, gro_mta, coh_mtaedta, har_mtagone, a10_wipe-->
+<!--REF: Endodontology, Berman2021, Rotstein2019, Gopikrishna2021, Chong2017, Rubinstein2019, Rubinstein2021, Parirokh2019, Lieblich2012-->
 
 ## Retrieval Report
 Queries on `mds-textbooks`: Cohen's Ch.11 (root-end filling materials section, read in full), Torabinejad and Rubinstein Ch.11 (Parirokh and Shabahang: ideal properties, sealing, marginal adaptation, bioactivity, cementum, clinical outcome and conclusion; the long in vitro biocompatibility and gene-expression sections were not read), Ch.10 (material selection and placement), Ingle's Ch.24 (root-end filling section), Harty's Ch.10 (root-end filling), Grossman's Ch.22 (clinical note), Endodontics: Principles and Practice Ch.20, and Lieblich (2012). All hit. No new journal search; the outcome comparisons are those the textbooks themselves report. Not read: the original primary trials (Song et al, Chong et al, Frank et al); they are quoted through the textbooks.
@@ -26,6 +26,10 @@ Queries on `mds-textbooks`: Cohen's Ch.11 (root-end filling materials section, r
 **Mineral trioxide aggregate.** Developed at Loma Linda; calcium silicates, bismuth oxide, calcium carbonate, sulfate and aluminate. Hydration yields a gel that hardens to crystals in an amorphous matrix (Johnson et al, 2021) [SRC]. Properties: longest setting time (see the conflict below), low initial compressive strength, pH 10.2 rising to 12.5, less cytotoxic than amalgam, Super-EBA or IRM, setting unaffected by blood (Johnson et al, 2021; Torabinejad, Sabeti and Glickman, 2019) [SRC]. Biologically it stands out for cementum deposition over the filling (Parirokh and Shabahang, 2019; Lieblich, 2012) [SRC], with osteocalcin expression and cementoblast attachment (Johnson et al, 2021) [SRC]. It is the material of choice in Grossman's, Ingle's and Torabinejad (Gopikrishna, 2021; Parirokh and Shabahang, 2019) [SRC]. Disadvantages: long setting time, high cost, discoloration potential and handling difficulty (Parirokh and Shabahang, 2019) [SRC]; it needs a carrier and it should not be pulled out with the plugger (Rubinstein and Fayad, 2019) [SRC]. Moisture is needed for set (Torabinejad, Sabeti and Glickman, 2019) [SRC]. EDTA conditioning is advised against with MTA (Johnson et al, 2021) [SRC].
 
 > **SOURCE CONFLICT, MTA setting time.** *Johnson, Fayad and Berman* (Cohen's Ch.11, quoting Torabinejad's original study): 2 hours 45 minutes. *Torabinejad, Sabeti and Glickman's* chapter: 3 hours 45 minutes in one place and 2.5 to 3 hours in another within the same chapter. *Gutmann* (Harty's Ch.10): working time about 3 to 4 hours. *Lieblich* (2012): full firm set at 2 to 4 hours. I have not chosen one; for the exam write "about 2 to 4 hours".
+>
+> *Endodontology* (Ch.40) gives 2.75 hours for MTA, with a pH rise to 10.2 during setting (Endodontology, Ch.40) [SRC].
+>
+> **SOURCE CONFLICT, healing rates.** *Endodontology* (Ch.40), citing Chong et al, 2003: healing 92% with MTA against 87% with IRM at 2 years; Jensen et al, 2002, give 73 to 90% for Retroplast (Endodontology, Ch.40) [SRC]. Johnson et al (2021) give 74% against 59% for amalgam at 1 year for Retroplast (Johnson et al, 2021) [SRC]. These figures measure different comparisons and are not reconciled here.
 >
 > **SOURCE CONFLICT, Diaket and cementum.** *Johnson, Fayad and Berman* (Cohen's Ch.11): no cementum was evident on Diaket in animal studies. *Parirokh and Shabahang* (Torabinejad Ch.11): list Diaket among materials that may promote cementum formation.
 
@@ -120,6 +124,10 @@ None.
 ## SOURCE LIST
 
 **[SRC] textbook locators** (file chapter, PDF page marker; printed page where the offset is confirmed):
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.331: "2.75 hours. During setting there is a pH increase of up to 10.2"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.335: "Chong et al. (2003) reported that the rate of healing after use of MTA was 92%"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.335: "with IRM 87%, 2 years following treatment"
+- Endodontology, Ch.40, 40_40_Endodontic_Surgery.md, PDF p.335: "healing rate of 73%–90% (Jensen et al., 2002)"
 - Torabinejad, Sabeti and Glickman, 2019, 24_Chapter_24_Surgical_Endodontics.md, PDF p.732 (printed p.821): "The setting time of MTA is 2.5 to 3 hours"
 - Torabinejad, Sabeti and Glickman, 2019, 24_Chapter_24_Surgical_Endodontics.md, PDF p.731 (printed p.820): "its setting time is three hours and 45 minutes"
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1466: "When SuperEBA and IRM were finished with a carbide finishing bur"
@@ -190,6 +198,7 @@ None.
 **[LIT] journal items** are listed in REFERENCES (abstract-level only; no full text read).
 
 ## REFERENCES (alphabetical)
+- Baumann MA, Beer R, editors. Endodontology. Edition and publisher not verified from the file. Ch.40 Endodontic surgery (chapter author not verified from the file).
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.22 Endodontic surgery (no individual chapter author is named in the file, so the editor is cited).
 - Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Elsevier; 2017 (year not verified from the file). Ch.10.
 - Johnson BR, Fayad MI, Berman LH. Periradicular surgery. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.11.

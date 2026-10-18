@@ -58,6 +58,12 @@ for _k,_v in list(BOOK.items()):
     _m=_re.match(r"^(?P<ed>.+? editors?)\. (?P<rest>.+?)\. Ch\.(?P<n>\d+) (?P<title>.+?) \((?P<au>[^()]+)\)\.(?P<tail>.*)$",_v)
     if _m: BOOK[_k]=f"{_m['au']}. {_m['title']}. In: {_m['ed']}. {_m['rest']}. Ch.{_m['n']}.{_m['tail']}"
 
+BOOK.update({
+ 'Gulabivala2014': "Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Elsevier; 2014. Ch.9 Management of non-surgical root-canal treatment failure (chapter author not named in the file, so the editors are cited).",
+ 'Endodontology': "Baumann MA, Beer R, editors. Endodontology. Edition and publisher not verified from the file. Ch.40 Endodontic surgery (chapter author not verified from the file).",
+ 'Weine2004': "Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.9 Periapical surgery (chapter author not verified from the file).",
+ 'Current2016': "Johnson JD, McNally K, McClanahan SB, Niemczyk SP. Endodontic microsurgery. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Edition year not verified from the file. Ch.9.",
+})
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}  # 7m is not in the Section 7 table; interpolated at about 34-40 words per mark
 def run(files=None):
   for p in sorted(files or glob.glob('Q*.md')+glob.glob('P*.md')):

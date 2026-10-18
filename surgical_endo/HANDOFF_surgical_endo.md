@@ -89,3 +89,38 @@ In-text citations were changed to chapter authors on request (Q01 to Q14 and P1 
 
 ## Update 4 (citations by chapter author)
 Changed everywhere, including Q01 to Q05 (citation names only; no content changed): "Berman et al, 2021" is now **Johnson et al, 2021** (Cohen's Ch.11: Johnson BR, Fayad MI, Berman LH); "Chong, 2017" is now **Gutmann, 2017** (Harty's Ch.10; year still unverified); "Rotstein and Ingle, 2019" is now **Torabinejad, Sabeti and Glickman, 2019** (Ingle's Ch.24). Cohen's Ch.3, 10 and 16 were already Landwehr, Roda et al and Lin and Huang. Two things to check: (1) the Ingle's Ch.24 author line is garbled in the extracted file; I decoded it (the substitution cipher is consistent across all three names) to Mahmoud Torabinejad, Mohammad Sabeti and Gerald N. Glickman, so please confirm against the printed book; (2) Grossman's Ch.22 names no individual chapter author in the file, so it stays "Gopikrishna, 2021" (the editor). The two Torabinejad 2019 citations are distinct: "Torabinejad et al, 2019" is the Art and Science Ch.15 and "Torabinejad, Sabeti and Glickman, 2019" is Ingle's. After the change Q04 Exam Mode is 815 words (range 680 to 800; was 808), still carrying its failure disclosure.
+
+## Audit against textbooks: IN PROGRESS (2026-10-18; usage limit reached; no answer files edited, nothing committed)
+**Done:** (1) Script check of every number in cited sentences against the cited chapter: no transcription errors found (17 flags were false positives from multi-cite sentences or PubMed items). (2) Read for the audit: Endodontology Ch.40, Gulabivala and Ng Ch.9 (surgical sections), Problem Solving Ch.16 (searched), Weine Ch.9 (searched), Ørstavik Ch.16 (Endodontic Radiology), parts of Essential Endodontology, TEI Ch.4 and 7, Seltzer and Bender Ch.16 (cyst passages found, not yet read).
+**Patches still to apply (found, not yet written into the answers):**
+1. MTA setting time (Q08 conflict box): add Endodontology Ch.40 2.75 h (pH 10.2 to 12.5) and Gulabivala and Ng about 4 h (ProRoot).
+2. Suture removal (Q06 conflict box): add Endodontology Ch.40 3 to 5 days; Gulabivala and Ng 7 days; Weine maximum 7 days; Colour Manual (Barnes) 5 to 7 days; Current Therapy 2 to 4 days. Suture size also differs: Gutmann (Harty) 5-0 or 6-0; Endodontology 6-0 or finer, 7-0 and 8-0 at the papilla.
+3. Flap compression time (Q05, Q06): Gulabivala and Ng 5 to 10 minutes against 3 minutes (Torabinejad, Rubinstein et al) and 2 to 3 minutes (Ingle's, Grossman).
+4. Attached gingiva for submarginal flap (Q04, Q05): Gulabivala and Ng 3 to 5 mm; Velvart, Endodontology and Ingle's 2 mm; P&P Ch.20 papilla-base prerequisite 4 mm.
+5. Resection depth (Q03, Q06): Gulabivala and Ng say routine 3 mm may be grossly excessive (pare gradually); Weine still describes a 45 degree bevel with a smaller bevel under the microscope; all others 3 mm and 0 to 10 degrees.
+6. Epinephrine (Q06): Endodontology recommends 1:50,000; Tsesis says 1:100,000 suffices.
+7. Biopsy (Q06, Q11): Gulabivala and Ng and Torabinejad say always send tissue; Lieblich (quoting Walton) says not always.
+8. Curettage order: Gulabivala and Ng curette first then resect; Harty allows either.
+9. Decompression (Q11): Gulabivala and Ng treat decompression and marsupialisation as the same, with a flanged cannula and daily irrigation by the patient, and note it spares adjacent teeth and structures.
+10. True cysts (Q11, Q12, Q13): Seltzer and Bender and Ørstavik say true cysts must be removed surgically; Treatment of Endodontic Infections Ch.4 (Siqueira group) says the claim is speculative and the distinction is clinically irrelevant. Add both.
+11. Q08: add Endodontology (Chong et al 2003) healing MTA 92% against IRM 87% at 2 years; Retroplast 73 to 90%; Gulabivala and Ng say Biodentine untested for root-end use.
+12. Q13: add Ørstavik timeline (density change at 3 to 6 months, 1 year to judge, late healing up to 17 to 27 years), PAI cut-off above 2, failure at 1 year 5 to 10% (vital) and 20 to 30% (apical periodontitis), Kvist and Reit (6 months favours surgery, 1 to 2 years equal or better for retreatment), Strindberg and Rud/Molven criteria.
+13. Q01 coverage gaps to check: incision and drainage, trephination, through-and-through surgery (Gulabivala and Ng).
+**Not yet read:** Torabinejad Ch.1 to 3, 5 to 8, 12, 13, 16, 17 (rest), Bioceramics in Endodontics, Seltzer and Bender Ch.12, Endodontic Microbiology Ch.15, TEI Ch.1, 17, 20, Essential Endodontology (healing chapters), Guidelines Ch.3 and 4, Colour Manual (full), Advances in Surgical Endodontics.
+
+## Update 5 (2026-10-18, after Niranjan's decisions): conflict boxes applied
+Niranjan chose "conflict boxes only" for the 13 patches in Update 3 plus the earlier audit entry. Re-checked against the text first; several earlier claims did not hold up.
+**Applied (Q05, Q06, Q08, Q11; SOURCE LIST and REFERENCES rebuilt with build_sources.py; all Exam Mode counts in range):**
+- Item 2, suture removal (Q06): added Gulabivala and Ng 7 days (Ch.9, when wound strength is assured), Endodontology 3 to 5 days (Ch.40), Weine maximum 7 days (Ch.9), Barnes 5 to 7 days (1984 colour manual, Ch.5), Johnson, McNally et al 2 to 4 days (Current Therapy Ch.9).
+- Item 3, flap compression (Q05, Q06): added Gulabivala and Ng 5 to 10 minutes of digital pressure after all sutures are placed.
+- Item 1, MTA setting (Q08): added Endodontology 2.75 hours and pH rise to 10.2. **Not added:** the Gulabivala "about 4 h (ProRoot)" figure; no such passage found in Ch.9 or the Gulabivala folder.
+- Item 11, healing (Q08): added Endodontology (citing Chong et al 2003) MTA 92% against IRM 87% at 2 years, and Retroplast 73 to 90% (Jensen et al 2002); noted that Johnson et al's Retroplast 74% vs 59% measures a different comparison. **Not added:** Gulabivala "Biodentine untested for root-end use"; no such passage found.
+- Item 7, biopsy (Q11): added Gulabivala and Ng (routine biopsy accepted as standard of care; formalin and request form) and Lieblich 2012 (controversy over biopsying every surgically treated lesion, PDF p.10).
+- Item 9, decompression (Q11): added Gulabivala and Ng (decompression and marsupialisation treated as one procedure; flanged cannula; daily patient irrigation; spares adjacent teeth).
+**Not applied:**
+- Item 4 (attached gingiva): already consistent (Velvart and Endodontology 2 mm in Q05). Gulabivala "3 to 5 mm" not found in Ch.9.
+- Item 6 (epinephrine): Endodontology 1:50,000 for prolonged hemostasis confirmed (Ch.40); Tsesis "1:100,000 suffices" not found in the complications chapter text. Not added.
+- Item 8 (curettage order): Gulabivala "curette first and resect later" confirmed (Ch.9), but Harty's "either" not found in Harty Ch.10. Single-source; not added.
+- Item 12 (Q13 Ørstavik timeline and Kvist and Reit): not searched in this pass.
+- Items 5, 10, 13: held for discussion (resection depth; true-cyst conflict; Q01 coverage gaps).
+**Locator check:** `python3 locators.py` reports 0 MISSING with the 14 new keys (prefixed x_). Backups of the pre-patch files are in the scratchpad, not the repo.

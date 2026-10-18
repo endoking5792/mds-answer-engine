@@ -637,6 +637,29 @@ L = {
  'ing_mtaset':('ing','The setting time of MTA is 2.5 to 3 hours'),
  'ing_mta345':('ing','its setting time is three hours and 45 minutes'),
 }
+F.update({
+ 'x_gul9': (T+'Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/09_9_Management_of_non_surgical_root_canal_treatment_failure.md', None, 'Gulabivala and Ng, 2014'),
+ 'x_endo40': (T+'Endodontology_Chapterwise/40_40_Endodontic_Surgery.md', None, 'Endodontology, Ch.40'),
+ 'x_wei9': (T+'Weines_Endodontics_Full_Chapterwise/09_CHAPTER_9_Periapical_Surgery_Intraoral_Imaging_and_Its_Use_w.md', None, 'Weine, 2004'),
+ 'x_cur9': (T+'Current_Therapy_in_Endodontics_Chapterwise/09_10_pdf_p_228_283.md', None, 'Johnson, McNally et al (Current Therapy, Ch.9)'),
+ 'x_col4': (T+'Surgical_Endodontics_A_Colour_Manual_Chapterwise/04_Chapter_5_Operative_Technique_Flap.md', None, 'Barnes, 1984'),
+})
+L.update({
+ 'x_gul_suture7': ('x_gul9', 'suture removal is recommended at 7 days when wound strength is assured'),
+ 'x_gul_comp': ('x_gul9', 'compressed again with digital pressure for approximately 5–10 minutes'),
+ 'x_gul_biopsy': ('x_gul9', 'The taking of a routine biopsy during periradicular surgical procedures has come to be accepted as the standard of care'),
+ 'x_gul_decomp': ('x_gul9', 'Decompression or marsupialization involves the surgical exteriorization of a large periradicular lesion'),
+ 'x_gul_cannula': ('x_gul9', 'inserting a flanged cannula allowing for daily irrigation of the lesion by the patient'),
+ 'x_endo_suture': ('x_endo40', 'the sutures can be removed within 3–5 days'),
+ 'x_endo_mta': ('x_endo40', '2.75 hours. During setting there is a pH increase of up to 10.2'),
+ 'x_endo_chong': ('x_endo40', 'Chong et al. (2003) reported that the rate of healing after use of MTA was 92%'),
+ 'x_endo_irm': ('x_endo40', 'with IRM 87%, 2 years following treatment'),
+ 'x_endo_retro': ('x_endo40', 'healing rate of 73%–90% (Jensen et al., 2002)'),
+ 'x_wei_max': ('x_wei9', 'with the absolute maximum being 7 days'),
+ 'x_cur_suture': ('x_cur9', 'Sutures should be removed between 2 and 4 days after'),
+ 'x_col_suture': ('x_col4', 'Sutures may be removed after 5-7 days.'),
+ 'x_lie_biopsy': ('lie', 'A clinical controversy has ensued over the consideration as to whether all periapical lesions treated surgically should have soft tissue removed and submitted for histologic evaluation'),
+})
 def norm(s): return re.sub(r'\s+',' ',s).replace('- ','').strip()
 def find(key):
     f,ph = L[key]; path,off,cite = F[f]
