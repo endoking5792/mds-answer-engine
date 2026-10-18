@@ -124,3 +124,14 @@ Niranjan chose "conflict boxes only" for the 13 patches in Update 3 plus the ear
 - Item 12 (Q13 Ørstavik timeline and Kvist and Reit): not searched in this pass.
 - Items 5, 10, 13: held for discussion (resection depth; true-cyst conflict; Q01 coverage gaps).
 **Locator check:** `python3 locators.py` reports 0 MISSING with the 14 new keys (prefixed x_). Backups of the pre-patch files are in the scratchpad, not the repo.
+
+## Update 6 (2026-10-18): sentence-level reading check
+- Triage of every cited sentence (numbers against the cited pages, plus wording overlap): 25 flags. Five substantive ones read against the source text:
+  - Q02, aspirin 81 mg for 7 days (Rubinstein and Fayad, 2019) and "low-dose aspirin need not be stopped" (Johnson et al, 2021): both supported (Rubinstein p.184; Cohen's p.1400).
+  - Q07, tip "probably turned lingually" (Rubinstein and Fayad, 2019): supported; the book says "assumed" (p.179).
+  - Q11, fewer cysts in serially sectioned specimens (Landwehr, 2021): supported (p.454).
+  - Q01, "1990s: microsurgery..." (Torabinejad, Sabeti and Glickman, 2019): the decade is not stated in the cited chapter. Reworded as "Later decades" and tagged [Guessing].
+  - Q02, 78.4% prospective figure: it comes from Pinto et al, 2020 (abstract). The citation is now added at the point of use.
+- Not read individually: flags on abstract-only journal items (von Arx and Salvi, 2008; Kaygisiz and Karsli, 2024) and on repository-listing sentences (Sitting, Basis, "Same content"). These need the abstracts, not the textbooks.
+- Locator check after these edits: 195 of 195 OK (Q01, Q02).
+- Uncommitted; see gic_audit/A2_Audit_Ledger_2026-10-18.md for the matching GIC changes.

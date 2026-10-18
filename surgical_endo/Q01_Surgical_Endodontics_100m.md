@@ -78,7 +78,7 @@ Surgical endodontics is the group of surgical procedures used to retain a tooth 
 - 1890s: Partsch, semilunar incision.
 - 1900-1939: focal infection era; extraction in America, surgery continued in Europe.
 - 1974: Ochsenbein and Luebke flap.
-- 1990s: microsurgery (magnification, ultrasonic tips, MTA) (Torabinejad, Sabeti and Glickman, 2019).
+- Later decades: microsurgery with magnification, ultrasonic tips and MTA (Torabinejad, Sabeti and Glickman, 2019). The decade is not stated in the cited chapter [Guessing].
 
 ### 4. Classification
 **Gutmann (Grossman's):**
