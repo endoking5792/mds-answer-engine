@@ -17,24 +17,24 @@
 
 ## STUDY MODE
 
-**Why a medium is needed.** An avulsed tooth has lost its blood supply, and the PDL on the root decides periodontal healing. If the PDL stays moist and viable, healing is expected. Once it dries, the cells die and the root is exposed to inflammation and replacement resorption (Andreasen et al, 2007, p.486). A transport medium keeps PDL cells alive while the tooth is out of the mouth.
+**Why a medium is needed.** An avulsed tooth has lost its blood supply, and the PDL on the root decides periodontal healing. If the PDL stays moist and viable, healing is expected. Once it dries, the cells die and the root is exposed to inflammation and replacement resorption (Andreasen et al, 2007, p.485-486). A transport medium keeps PDL cells alive while the tooth is out of the mouth.
 
 **The media named in the sources.**
 - *Hank's balanced salt solution (HBSS):* Cohen's calls it "presently considered the best medium for this purpose" (Kahler, n.d., p.2637). P&P names it the most common storage medium (Paranjpe and Noblett, 2021, p.220). Grossman's lists it first (Grossman, n.d., p.417).
 - *Viaspan and other tissue-culture media:* effective in vitro for several days, and conditioned media kept teeth for up to 96 hours with optimal healing in experimental work (Andreasen et al, 2007, p.475).
 - *Tooth rescue box:* Harty's places the specialised box first, with milk or saline second (Sigurdsson and Bourguignon, n.d., p.260).
 - *Milk:* the second-best transport medium after the specialised kits (Sigurdsson and Bourguignon, n.d., p.260). It keeps a high percentage of viable cells for at least 3 hours, with osmolarity and pH close to ideal (p.260). Cohen's places it first in its order of preference (Kahler, n.d., p.2635).
-- *Saline:* a good experimental medium (Andreasen et al, 2007, p.486).
-- *Saliva:* acceptable for shorter periods. Storage in saline or saliva did not significantly impair periodontal healing (Andreasen et al, 2007, p.486).
+- *Saline:* a good experimental medium (Andreasen et al, 2007, p.485-486).
+- *Saliva:* acceptable for shorter periods. Storage in saline or saliva did not significantly impair periodontal healing (Andreasen et al, 2007, p.485-486).
 - *Propolis:* good effect reported, but in vivo studies are lacking (Andreasen et al, 2007, p.475).
-- *Tap water:* least desirable. Its low osmolality causes rapid cell death (Andreasen et al, 2007, p.486; Kahler, n.d., p.2636).
-- *Dry storage:* worst, causing cell necrosis and compromised healing (Andreasen et al, 2007, p.486).
+- *Tap water:* least desirable. Its low osmolality causes rapid cell death (Andreasen et al, 2007, p.485-486; Kahler, n.d., p.2636).
+- *Dry storage:* worst, causing cell necrosis and compromised healing (Andreasen et al, 2007, p.485-486).
 
 **The inconsistency inside Cohen's.** Cohen's gives milk first in its order of preference (p.2635), yet calls HBSS the best medium in its clinical section (p.2637). Both statements should be given with their pages.
 
-**Extra-alveolar time.** Harty's calls extra-alveolar time "the most critical factor influencing the survival of an avulsed and replanted tooth" (Sigurdsson and Bourguignon, n.d., p.260). A dry time of 60 minutes is the point at which PDL survival is unlikely (Trope, n.d., p.344; Kahler, n.d., p.2637). Andreasen's 400-tooth follow-up found PDL healing in 73% of teeth replanted within 5 minutes and in 18% of teeth stored before replantation (Andreasen et al, 2007, p.486).
+**Extra-alveolar time.** Harty's calls extra-alveolar time "the most critical factor influencing the survival of an avulsed and replanted tooth" (Sigurdsson and Bourguignon, n.d., p.260). A dry time of 60 minutes is the point at which PDL survival is unlikely (Trope, n.d., p.343; Kahler, n.d., p.2637). Andreasen's 400-tooth follow-up found PDL healing in 73% of teeth replanted within 5 minutes and in 18% of teeth stored before replantation (Andreasen et al, 2007, p.485).
 
-**Clinical implications.** The practical point is that the medium is a bridge, not a cure. A specialised medium keeps PDL cells viable for longer, milk and saline are acceptable for shorter periods, and saliva suits a patient who cannot get anything else at once. Water and dry storage should be avoided in every case, because they damage the PDL irreversibly and make healing unlikely (Andreasen et al, 2007, p.486; Sigurdsson and Bourguignon, n.d., p.260). The choice of medium therefore has to be made together with the time of arrival at the surgery, since a good medium cannot compensate for a long dry period (Andreasen et al, 2007, p.475).
+**Clinical implications.** The practical point is that the medium is a bridge, not a cure. A specialised medium keeps PDL cells viable for longer, milk and saline are acceptable for shorter periods, and saliva suits a patient who cannot get anything else at once. Water and dry storage should be avoided in every case, because they damage the PDL irreversibly and make healing unlikely (Andreasen et al, 2007, p.485-486; Sigurdsson and Bourguignon, n.d., p.260). The choice of medium therefore has to be made together with the time of arrival at the surgery, since a good medium cannot compensate for a long dry period (Andreasen et al, 2007, p.475).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -69,7 +69,7 @@
 
 **What the patient should be told.** Replant at once if possible. If not, put the tooth in milk, saline or saliva, never water, and go to the dentist. Time out of the mouth is a risk factor whatever the medium is.
 
-**Deciding how to store the tooth.** Storage matters most when the tooth cannot be replanted within minutes. The sequence is to rinse the root only if it is dirty, gently in milk, saline or saliva (Fouad et al, 2020, p.333), then place the tooth in the best medium available. The working limit is about an hour of extra-alveolar dry time, after which PDL survival is unlikely [Andreasen et al, 2007, p.475; Trope, n.d., p.344]. Because the medium cannot restore a dry root, the time to the dentist is part of the storage decision [Andreasen et al, 2007, p.475] [Likely].
+**Deciding how to store the tooth.** Storage matters most when the tooth cannot be replanted within minutes. The sequence is to rinse the root only if it is dirty, gently in milk, saline or saliva (Fouad et al, 2020, p.333), then place the tooth in the best medium available. The working limit is about an hour of extra-alveolar dry time, after which PDL survival is unlikely [Andreasen et al, 2007, p.475; Trope, n.d., p.343]. Because the medium cannot restore a dry root, the time to the dentist is part of the storage decision [Andreasen et al, 2007, p.475] [Likely].
 
 *Estimated writing time: about 34 minutes (about 690 words at 22 words per minute).*
 
@@ -120,4 +120,4 @@
 
 ## AUDIT NOTE (IADT 2020, checked 2026-10-19)
 
-**Audit note (IADT 2020; Blackledge et al, 2025, checked 2026-10-19).** The storage order in the IADT is milk, HBSS, saliva, saline (Fouad et al, 2020, p.333), which matches the milk-first ranking in Cohen's and differs from its clinical-section statement that HBSS is best. The 2025 meta-analysis supports HBSS in vitro (PDF p.1, p.3). Corrections: the 60-minute figure is the IADT management boundary, and the viability figure is 30 minutes; the earlier text presented 60 minutes as the point of PDL death. The Andreasen experimental comparison is a textbook point and is not claimed as IADT. The earlier figures attributed to Andreasen's 400-tooth study were removed because they could not be verified against the supplied text. The 'Viaspan' comparison was also removed because the IADT does not mention it.
+**Audit note (IADT 2020; Blackledge et al, 2025, checked 2026-10-19).** The storage order in the IADT is milk, HBSS, saliva, saline (Fouad et al, 2020, p.333), which matches the milk-first ranking in Cohen's and differs from its clinical-section statement that HBSS is best. The 2025 meta-analysis supports HBSS in vitro (PDF p.1, p.3). Corrections: the 60-minute figure is the IADT management boundary, and the viability figure is 30 minutes; the earlier text presented 60 minutes as the point of PDL death. The Andreasen experimental comparison is a textbook point and is not claimed as IADT. The Andreasen 400-tooth figures (73% PDL healing within 5 minutes, 18% when stored) were first marked unverifiable in error; they are on Andreasen p.485 and are restored in the study text. The 'Viaspan' comparison was also removed because the IADT does not mention it.

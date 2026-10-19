@@ -63,7 +63,7 @@
 | T14 | Storage order: IADT milk, HBSS, saliva, saline. Earlier draft placed HBSS first without the IADT order. | Corrected | Fouad p.3 (333) |
 | T14 | Blackledge et al 2025: HBSS most effective in vitro. | Added; labelled in vitro | Blackledge p.1, p.3 |
 | T14 | Earlier draft: ten-second rinse under cold running water in the storage paragraph. | Corrected to gentle rinse in milk, saline or saliva | Fouad p.3 (333) |
-| T14 | Earlier draft: 73% of teeth replanted within 5 min healed PDL vs 18% stored (Andreasen p.486). Not verifiable in the supplied text. | Removed | Not found |
+| T14 | Andreasen 400-tooth follow-up: 73% PDL healing within 5 min vs 18% when stored. First marked unverifiable in error; confirmed on p.485. | Kept; page corrected | Andreasen p.485 |
 | T14 | Earlier draft: Viaspan named as a storage medium. Not in the IADT text. | Removed | Not found |
 | T15 | Delayed replantation: IADT poor long-term prognosis, ankylosis expected. Andreasen's protocol kept as a textbook option. | Corrected | Fouad p.4, p.6 (334, 336) |
 | T15 | Fluoride root treatment: not mentioned in IADT (no match in the guideline text). Kept as textbook. | Labelled | Not found (IADT) |
@@ -183,4 +183,35 @@
 **Resolver limits.** Andreasen 2007 and Harty's: the answers cite PDF pages, which are the printed page + 16 (checked on T15/T16 locators and five Harty's anchors). Ingle's: PDF page = printed - 39 (checked on the doxycycline passage). Cohen's: page markers used directly. DCNA journal pages from PDF offsets: Kohli and Lee +608; Ogle +150; Trope 2010 +312; Hexem and Eisler Part 2 +600; Hexem and Eisler Part 1 +585 (weakest fit: four claims). Matching is by word and number overlap, not reading, so a claim can match on a neighbouring sentence. The 466 automatic matches were not individually read.
 
 **Bookkeeping error found and fixed.** The verdict records for 25 items were stored against the wrong file, line and source because the batch order changed during the review. The 25 were rebuilt from the printed listing and every flagged citation was re-matched by file, line and source before this section was written.
+
+
+## Textbook audit completion (2026-10-19)
+
+**Previously unaudited citations (30), now checked.** Sikri's Ellis classes 1-6 are on printed p.463 (cited as p.484 in the PDF-page convention) and match the answers. The Endodontic Radiology text supports the dens invaginatus statements (maxillary lateral incisors, invagination of the dental papilla, Oehlers classes I-III, the figure legend that none directly communicates with the pulp). The AAE glossary definition matches. Grossman's lists HBSS first among storage media and has a 'DENS IN DENTE' heading in Chapter 13. Principles and Practice names HBSS the most common storage medium and milk an excellent alternative.
+
+**Previously unlocated claims, resolved by searching the whole source.** Supported on the cited page: Harty's p.266 (no treatment for replacement resorption), Berman p.84 (ankylosis after intrusion), Berman p.74 (several radiographic angles), Kohli p.616 (canal obliteration as a favourable response), Harty's p.234 (Weine's 'case against intentional replantation') and p.225 (transplantation definition), the three-hour rule (Andreasen p.477). Corrected: Ingle's 60-minute statement is on p.343, not 344; the Andreasen 400-tooth figures are on p.485 (this also reverses an earlier wrong 'unverifiable' note); the T03 revascularisation sentence now states what Andreasen p.481 says (contamination and drying bring resorption on earlier); the T06 growth sentence now states what Hexem p.586 says; the T01 calcium hydroxide liner sentence now states what Andreasen p.302-303 says; Kohli CBCT cited to p.611; Hexem Part 2 implants cited to p.602-603.
+
+**Still unverified (20).** The extracts hold no sentence matching these; they are generic clinical statements or the answer's own synthesis, and should be read as such. They were not rewritten.
+- P1_ L23 ANDR: exposure-record list not located on Andreasen p304
+- T01 L37 ANDR: pulp treatment options by exposure size not located on Andreasen p304 (text on p621 in another context)
+- T01 L51 OGLE: IADT figures attributed to Ogle p158 not located on that page (IADT itself checked in the IADT audit)
+- T01 L151 BERM: repeat-tests pattern not located on Berman p74
+- T01 L171 KOHLI: record contents not located on Kohli 609-611
+- T01 L171 ANDR: record contents not located on Andreasen p475
+- T02 L24 ANDR: progressive irreversible replacement resorption wording not located on Andreasen p412; Kohli p619 conflict recorded at item 17
+- T02 L46 ANDR: CES note: textbook view on replacement resorption not located on Andreasen p412; check the cited page
+- T02 L56 BERM: intrusion re-eruption wording not located on Berman p80
+- T03 L35 ANDR: favourable-outcome statement not located on Andreasen p413 or Kohli p619
+- T04 L69 BERM: list claim not on Berman p84 (page discusses orthodontic extrusion timing)
+- T05 L75 BERM: sensibility at 6-8 weeks not located on Andreasen p320 or Berman p28-29
+- T05 L83 ANDR: apexification or regenerative endodontics not located on Andreasen p304; Kohli p612 supports it
+- T05 L87 ANDR: composite as conservative default not on Andreasen p304 (p304 discusses GIC bandage)
+- T06 L45 BERM: composite as usual alternative not located on Berman p27
+- T07 L24 ANDR: monitoring for missed luxation not located on Andreasen p302
+- T07 L58 BERM: Berman p181-182 is the law chapter; parent-communication statement is on Hexem p604 only
+- T12 L33 ANDR: RCT options for coronal/apical fragments not located on Andreasen 355-368
+- T18 L32 ANDR: protect the PDL and cementum not located on Andreasen p760 (p760 has healing statement)
+- T19 L32 ANDR: monitor periodontal condition not located on Andreasen p702
+
+**Ellis class 4.** Sikri's text supports 'pulp status, not fracture pattern'; the Andreasen p.234 half of that citation is the WHO table only.
 

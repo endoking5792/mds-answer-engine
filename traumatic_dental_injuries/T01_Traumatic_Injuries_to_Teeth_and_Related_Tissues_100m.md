@@ -77,7 +77,7 @@
 - *LIMITATION:* the two mechanisms are not tested against each other in a single study.
 
 **Claim 2 — Dentin protection and pulp treatment: the evidence is strongest for the principle, weakest for the numbers.** [Likely]
-- *What the textbook states:* the barrier principle is well supported, but calcium hydroxide is still the most recommended capping agent, while bonding is advocated for a permanent seal (Andreasen et al, 2007, p.302-303; Berman et al, n.d., p.38).
+- *What the textbook states:* the barrier principle is well supported, but calcium hydroxide liners cannot give a permanent barrier, because bacteria have been found within them, so bonding is advocated for the permanent seal (Andreasen et al, 2007, p.302-303; Berman et al, n.d., p.38).
 - *What the 2026 review states:* partial pulpotomy success above 95% with bioceramic sealing (Kohli and Lee, 2026, p.612).
 - *Agreement or challenge:* the principle of sealing the dentin and preserving a vital pulp is agreed. The numerical success figures are not reconciled, and the review's figure has no stated denominator.
 - *LIMITATION:* the most cited success data come from clinical follow-up series of different sizes and follow-up lengths, and none is a randomised trial in adult anterior fractures.
