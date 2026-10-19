@@ -349,3 +349,4 @@ The user supplied four real, peer-reviewed journal articles in `~/Downloads/dent
 - Pushed to `microleakage-answers` (0ef795c, b50a970). OneDrive `.docx` built. Answer Bank Version 44 (publish_guard merge, VERIFY OK, 344 entries / 349 files, 0 lost). Vault copies written.
 - Vault consolidated index: 85 entries whose files are not yet in the vault folder (Endodontics Obturation and Root Canal Sealers, and others). Sync when convenient.
 - 2026-10-19 (later): traumatic_dental_injuries republished to the Answer Bank as Version 45 after the textbook re-audit corrections (publish_guard merge, VERIFY OK, 344 entries / 349 files, 0 lost).
+- 2026-10-19 (later): traumatic_dental_injuries textbook audit completed; Answer Bank Version 46 (publish_guard merge, VERIFY OK, 344 entries / 349 files, 0 lost).

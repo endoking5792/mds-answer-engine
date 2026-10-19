@@ -51,3 +51,7 @@ Read first: `~/.claude/skills/dental-study-material/SKILL.md` Section 7. The ind
 - Corrected in the answers: 17 page or attribution fixes; the T14 milk quotation (not in the source); the T16 Harty's sentence (complete on p.262); the T02 and P3 fluoride and ankylosis conflicts.
 - Still open: the 'not located on the cited page' items listed in the ledger, and 30 citations to Sikri, Grossman, Weine, Endodontic Radiology, Paranjpe and AAE, which were not audited.
 - Answer Bank republished as Version 45 (version id 1792354217-32bc) with these corrections: publish_guard merge (344 entries, 24 updated, 0 added), stale check clean, VERIFY OK (344 entries, 349 files, 0 lost). Vault copies and the consolidated copy refreshed.
+
+## Textbook audit completed (2026-10-19)
+- The 30 citations to Sikri, Grossman, Weine-era sources, Endodontic Radiology, the AAE glossary and Principles and Practice were checked and are supported. Of the 41 unlocated claims, 21 were resolved by whole-source search (page fixes or rewrites); 20 remain unverified and are listed in the ledger.
+- Answer Bank republished as Version 46 (1792423331-fb44): merge 344 entries (24 updated, 0 lost), stale check clean, VERIFY OK, 349 files. Vault copies refreshed.
