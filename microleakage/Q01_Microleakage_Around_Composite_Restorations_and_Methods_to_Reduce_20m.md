@@ -4,55 +4,45 @@
 **Repeats absorbed:** None (the same question also sits in `composites/Q12_Microleakage_Around_Composite_Restorations_20m.md`; this file is the master)
 **Failure disclosure:** 1. Sturdevant's 5th edition (2006), cited in the old answer, is not in `mds-textbooks`; the 2nd South Asia edition (Ritter, 2019) is used instead and differs on proximal bevels. 2. Summitt's has no printed folios in the extraction, so it is cited by PDF marker only. 3. Journal items are carried over from the old file and were not re-opened this session. 4. No primary evidence was found for Sikri's 24-hour finishing rule.
 
-## RETRIEVAL REPORT
-- Evidence base: seven textbook fact dossiers (Sikri, Garg and Singh; Summitt's; Sturdevant's 2e and Marzouk; Goldstein, Lasers in Dentistry and Composite Veneers; Phillips, Craig, McCabe and Walls, van Noort and other materials books; Mount, Pickard, Alani and Hybridization; Seltzer and Bender, Cohen and other endodontic books), plus two citation-check reports on the old answers.
-- Queries re-run with `grep -a` in `/home/user/mds-textbooks`: "Measures to Reduce Marginal Leakage" and the Sikri Ch.22 composite section (read in full, markers 459 to 462); "bevels on these margins", "Bevel placement is a point", "majority of studies show no", "no significant differences in marginal", "usually is not enough to overcome" (Summitt's); "five primary strategies", "proved effective", "Bevels are rarely used" (Sturdevant's 2e); "little advantage is to be gained by ramped", "dry polishing", "rebond" (Phillips); "comparable to incrementally placed" (Craig 14th); "too late" (van Noort); "minimizing marginal leakage", "0.9–1.7", "laminated over a glass" (Mount); "shrink from 2% to 6%" (Seltzer and Bender).
-- Hits: all of the above found at the markers listed under Source locators.
-- Journal literature: not searched again. Items kept from the old file with their old read status (full text or abstract).
-- No usable result for: primary evidence on the timing of composite finishing (24 hours vs immediate); Sturdevant's 5th edition.
+## ANSWER
 
-## STUDY MODE
-
-### S1. Definition and why composite is at risk
+### Definition
 Microleakage is "the clinically undetectable passage of bacteria and bacterial products, fluids, molecules or ions" along the gaps at the cavity and restoration interface (Sikri, 2020). Sturdevant's defines it more narrowly as passage of bacteria and their toxins between restoration margins and preparation walls (Ritter, 2019). Summitt's states that no material or technique gives a complete hermetic seal (Hilton et al, 2013), and Cohen's says no adhesive has been shown to eliminate microleakage completely (Berman and Hargreaves, Cohen 12th ed., n.d.).
 
-Composite has no adhesion of its own to enamel or dentin; it depends on the bonded interface (Sikri, 2020). Goldstein puts it simply: without adhesion, marginal gaps after polymerisation are "the logical consequence" (Goldstein et al, 2018). Unlike glass ionomer or amalgam, composite has no intrinsic defence against caries, so once a gap forms leakage can lead to recurrent caries (van Noort and Barbour, 2013).
+Leakage can follow three routes at the interface: within the smear layer, between the smear layer and the liner, and between the liner and the restoration (after Sikri, 2020, Fig 22.1).
 
-### S2. Causes
-1. **Polymerisation shrinkage.** Sikri gives volumetric shrinkage of 1.67 to 5.68%, lower for light-activated materials (Sikri, 2020). His own Table 22.2 gives narrower values (conventional 1.5 to 2.0%, microfilled 1.3 to 1.5%, hybrid 2.2 to 2.5%). Other books give: 2 to 6% by volume (Hargreaves et al, 2012); 2.2 to 3.0% for early resins and 0.9 to 1.7% for newer ones (Mount et al, 2016); linear shrinkage 2.2 to 2.4% and 1.4 to 1.7% for low-shrink resins (Ritter, 2019). When the shrinkage stress exceeds bond strength the interface separates, and "it is usually the bond with dentin which is compromised" (Sikri, 2020). Contraction stress can reach 13 MPa (Sakaguchi et al, 2019).
+### Why composite is at risk
+Composite has no adhesion of its own to enamel or dentin; the seal depends entirely on the bonded interface (Sikri, 2020). Goldstein puts it simply: without adhesion, marginal gaps after polymerisation are "the logical consequence" (Goldstein et al, 2018). Unlike glass ionomer or amalgam, composite has no intrinsic defence against caries, so once a gap forms leakage can lead to recurrent caries (van Noort and Barbour, 2013).
+
+### Causes of microleakage around composite
+1. **Polymerisation shrinkage.** Sikri gives volumetric shrinkage of 1.67 to 5.68%, lower for light-activated materials (Sikri, 2020). His own Table 22.2 gives narrower values (conventional 1.5 to 2.0%, microfilled 1.3 to 1.5%, hybrid 2.2 to 2.5%). Other books give: 2 to 6% by volume (Hargreaves et al, 2012); 2.2 to 3.0% for early resins and 0.9 to 1.7% for newer ones (Mount et al, 2016); linear shrinkage 2.2 to 2.4% and 1.4 to 1.7% for low-shrink resins (Ritter, 2019). When the shrinkage stress exceeds bond strength the interface separates, and "it is usually the bond with dentin which is compromised" (Sikri, 2020); the enamel bond survives. Contraction stress can reach 13 MPa (Sakaguchi et al, 2019).
 2. **C-factor (configuration factor).** The ratio of bonded to unbonded surfaces. Class I is about 5, so it carries the highest stress (Ritter, 2019; McCabe and Walls, 2008; Hargreaves et al, 2012). Cohen's gives a risk cut-off: C-factor above 3.0 carries the greatest risk of debonding (Berman and Hargreaves, Cohen 12th ed., n.d.). Craig's 14th edition warns that C-factor alone does not accurately predict stress or clinical longevity (Sakaguchi et al, 2019). Sikri's chapter makes the same point without the term, through cavity shape: the volume to bonded-area ratio.
 3. **Thermal mismatch.** Resin 22 to 25 x 10⁻⁶/°C against tooth 11.4 x 10⁻⁶/°C (Sikri, 2020). Summitt's gives composite CTE as two to six times that of tooth (Hilton et al, 2013). If a gap exists, the mismatch lets oral fluids percolate (Sakaguchi et al, 2019).
 4. **Functional loading.** Repeated deformation under occlusal load enlarges gaps (Sikri, 2020); cuspal flexure reopens the gap with each chewing cycle (Hargreaves et al, 2012).
 5. **Water sorption.** It counteracts shrinkage only a little and slowly, and weakens the resin (Sikri, 2020). Summitt's says it is usually not enough to close the gap (Hilton et al, 2013); van Noort says equilibrium takes more than three years, "by then, it will be too late" (van Noort and Barbour, 2013).
 6. **Site.** Cervical margins of Class II leak most: access is difficult, air is trapped, the sticky material pulls back, and the gingival wall bonds poorly (Sikri, 2020). Cervical enamel is thin and aprismatic, and there are no tubules within 100 µm of the cervical border (Coluzzi and Parker, 2017). Primary studies agree that gingival margins leak more than enamel margins (Prati, 1989; Hamouda et al, 2011).
 7. **Degradation with time.** The hybrid layer hydrolyses, and leakage increases over time (Torres, 2020; Banerjee and Watson, 2015).
-8. **Consequences.** Marginal gaps "may result in microleakage, sensitivity, staining at the margins of the restoration, and recurrent caries" (Hilton et al, 2013).
 
-### S3. Methods to reduce leakage (Sikri's ten measures, with other books alongside)
+### Consequences
+Marginal gaps "may result in microleakage, sensitivity, staining at the margins of the restoration, and recurrent caries" (Hilton et al, 2013). Composite has no anticariogenic defence, so recurrent caries follows once a gap forms (van Noort and Barbour, 2013).
+
+### Methods to reduce microleakage (Sikri's ten measures, with other books alongside)
 1. **Material.** Microfills adapt better: they are more flexible and absorb more water (Sikri, 2020). Beta-quartz glass "mega filler" inserts cut shrinkage; prepolymerised composite balls leaked more (Sikri, 2020). Higher filler content lowers shrinkage and brings CTE closer to tooth (Anusavice et al, 2013). Bulk-fill resins give marginal adaptation "comparable to incrementally placed composites", with some equivocal results (Sakaguchi et al, 2019).
-2. **Cavity design.** Conservative outline, bevels, reduced depth and rounded internal angles; a V-shaped cavity gap fell from 13 µm unbonded (box) to 4 µm, and with bonding from 3 µm to almost nil, as the volume to bonded-area ratio fell from 1.0 to 0.4 (Sikri, 2020). [The extraction drops the µ sign; µm read from context, Likely.] Remove unsupported enamel at margins (McCabe and Walls, 2008).
-3. **Bevels.** See S4; the books disagree.
-4. **Acid etching and bonding.** Resin tags reduce enamel leakage "to almost nil", but cervical enamel bonds less well (Sikri, 2020). Etch past the margin to optimise the seal (Alani and Patel, 2025). Skipping phosphoric acid on enamel with self-etch adhesives risks enamel leakage (Hilton et al, 2013); selective enamel etching improved marginal adaptation (Ritter, 2019). A thick, filled hydrophobic adhesive reduces leakage (Fahl and Ritter, Composite Veneers, n.d.). Excessive etching increases leakage (Hargreaves et al, 2012).
+2. **Cavity design.** Conservative outline, bevels, reduced depth, rounded internal angles and a low volume to bonded-area ratio. A V-shaped cavity gap fell from 13 µm unbonded (box) to 4 µm, and with bonding from 3 µm to almost nil, as the volume to bonded-area ratio fell from 1.0 to 0.4 (Sikri, 2020). [The extraction drops the µ sign; µm read from context, Likely.] Remove unsupported enamel at margins (McCabe and Walls, 2008).
+3. **Bevels (disputed).** Sikri calls their role controversial but still lists bevels as effective and bevels the facial and lingual proximal-box margins, never occlusal; Summitt's cites reduced leakage with 0.5 mm proximal bevels; Sturdevant's 2e rarely bevels proximal walls and never the gingival margin (Sikri, 2020; Hilton et al, 2013; Ritter, 2019). The sides are set out under Textbook disagreements.
+4. **Acid etching and bonding.** Resin tags reduce enamel leakage "to almost nil", but cervical enamel bonds less well (Sikri, 2020). Etch past the margin to optimise the seal (Alani and Patel, 2025). Skipping phosphoric acid on enamel with self-etch adhesives risks enamel leakage (Hilton et al, 2013); selective enamel etching with self-etch adhesives improved marginal adaptation (Ritter, 2019). A thick, filled hydrophobic adhesive reduces leakage (Fahl and Ritter, Composite Veneers, n.d.). Excessive etching increases leakage (Hargreaves et al, 2012).
 5. **Incremental placement.** Increments of 1.0 to 1.5 mm (Sikri, 2020); 2 mm or less (Mount et al, 2016; Sakaguchi et al, 2019); first gingival increment no thicker than 1 mm (Hilton et al, 2013); first gingival increment is "the most critical" for the gingival seal (Ritter, 2019). Oblique, not horizontal, increments (Goldstein et al, 2018).
-6. **Curing.** Soft-start (low then high intensity) is advocated by Sikri (2020) and listed by Sturdevant's as one of five stress-reducing strategies (Ritter, 2019). Shrinkage is said to move towards the light, so light-directing wedges and the three-sited technique are used (Sikri, 2020). Light-reflecting wedges help only when the gingival margin is in enamel; on dentin they failed to reduce leakage (Hilton et al, 2013).
-7. **Liners and sandwich.** A GIC base under composite: successful in reducing leakage, chemical bond to dentin, CTE close to tooth; but composite shrinkage may pull the GIC from dentin, and light-cured GIC bases do better (Sikri, 2020). Mount says composite should be laminated over a GIC base except in small cavities (Mount et al, 2016). Open sandwich (RMGI first increment when the margin is in dentin or within 1 mm of the CEJ) improved adaptation in vitro (Hilton et al, 2013), but the benefit can be overwhelmed by plaque, so it suits low caries risk only.
+6. **Curing.** Soft-start (low then high intensity) is advocated by Sikri (2020) and listed by Sturdevant's as one of five stress-reducing strategies (Ritter, 2019); Phillips finds "little advantage" in it (Anusavice et al, 2013). Shrinkage is said to move towards the light, so light-directing wedges and the three-sited technique are used (Sikri, 2020). Light-reflecting wedges help only when the gingival margin is in enamel; on dentin they failed to reduce leakage (Hilton et al, 2013).
+7. **Liners and sandwich technique.** A GIC base under composite: successful in reducing leakage, chemical bond to dentin, CTE close to tooth; but composite shrinkage may pull the GIC from dentin, and light-cured GIC bases do better (Sikri, 2020). Mount says composite should be laminated over a GIC base except in small cavities (Mount et al, 2016). Open sandwich (RMGI first increment when the margin is in dentin or within 1 mm of the CEJ) improved adaptation in vitro (Hilton et al, 2013), but the benefit can be overwhelmed by plaque, so it suits low caries risk only. Sturdevant's 2e says liners are unproven clinically and not supported by current evidence (Ritter, 2019).
 8. **Sealing the margins.** Unfilled resin or fissure sealant brushed over finished margins (Sikri, 2020). "Rebonding" significantly decreases microleakage (Anusavice et al, 2013); surface sealers reduce leakage in vitro (Hilton et al, 2013).
-9. **Finishing.** Delay 24 hours; finishing after one week is harmful; dry finishing increases leakage; slow speed, light strokes and "generous air coolants"; Sof-Lex discs gave the best margins (Sikri, 2020). Phillips agrees that dry polishing increases leakage, and adds that the polishing system did not matter in one study (Anusavice et al, 2013).
+9. **Finishing.** Delay 24 hours; finishing after one week is harmful; dry finishing increases leakage; slow speed, light intermittent strokes and "generous air coolants"; Sof-Lex discs gave the best margins (Sikri, 2020). Phillips agrees that dry polishing increases leakage, and adds that the polishing system did not matter in one study (Anusavice et al, 2013).
 10. **Indirect composite.** Bulk shrinkage occurs before cementation, so inlays leak less than direct resin (Sikri, 2020); preferred for large high C-factor cavities (Sakaguchi et al, 2019). Only the thin lute shrinks, but its C-factor is very high (McCabe and Walls, 2008). Sikri prefers microfilled luting resin for wear resistance, not for sealing.
-11. **Expanding matrix resins** have been proposed (Sikri, 2020). Isolation with rubber dam has mixed evidence (Hilton et al, 2013).
+11. **Other measures.** Expanding matrix resins have been proposed (Sikri, 2020). Isolation with rubber dam has mixed evidence (Hilton et al, 2013).
 
-### S4. Differences between textbooks
-| Point | Position A | Position B |
-|---|---|---|
-| Bevels | Sikri (2020): role "remained controversial"; still lists bevels as effective and recommends facial and lingual proximal-box bevels, not occlusal | Summitt's 4th ed (Hilton et al, 2013): "point of controversy" (PDF 594) yet research shows 0.5 mm proximal bevels "significantly reduce marginal leakage" (PDF 595); a Class 3 silver-nitrate study showed no difference (PDF 525) |
-| Bevels (continued) | Goldstein 3rd ed (2018): 45° bevel is the commonest composite finish line, reduces leakage | Sturdevant's 2e (Ritter, 2019): no occlusal bevels, none on the gingival margin, "rarely used" on proximal box walls |
-| Soft-start curing | Sikri (2020) advocates it; Sturdevant's 2e (Ritter, 2019) lists it as a strategy | Phillips 12th ed (Anusavice et al, 2013): "little advantage is to be gained"; Summitt's 4th ed (Hilton et al, 2013): clinically significant stress reduction "not feasible" |
-| Liners (GIC, RMGI, flowable) | Sikri (2020), Mount 3rd ed (2016), Goldstein (2018): GIC liner reduces leakage | Sturdevant's 2e (Ritter, 2019): flowable or GIC liners "not been proved effective clinically" (p.408) and claims "not supported by current clinical evidence" (p.502); Summitt's 4th ed (Hilton et al, 2013): most flowable-liner studies show no benefit |
-| Water sorption | Sikri (2020): improves adaptation a little | Summitt's 4th ed (Hilton et al, 2013), van Noort 4th ed (2013): too little and too late |
-| Increment size | Sikri (2020): 1.0 to 1.5 mm | Mount (2016), Craig 14th (Sakaguchi et al, 2019): 2 mm; Craig: bulk-fill comparable |
-| Shrinkage figure | Sikri (2020) text 1.67 to 5.68%; his Table 22.2 1.3 to 2.5% | Seltzer and Bender 2nd ed (2012): 2 to 6%; Mount (2016): 0.9 to 1.7% for newer resins; Sturdevant's 2e (Ritter, 2019): 2.2 to 2.4% (linear) |
+### Conclusion
+No method eliminates leakage. Enamel margins seal reliably; dentin and cervical margins need a combined approach: correct etch and bond, small well-cured increments, low C-factor design, delayed wet finishing and margin sealing, with a liner or an indirect inlay where the cavity is large or the margin lies in dentin. Textbooks disagree on bevels, soft-start and liners, and dye studies on these are split (see below).
 
-## CRITICAL EVIDENCE SYNTHESIS
+### Critical appraisal
 Scope: four claims where sources diverge.
 
 **Claim A. Bevels reduce composite leakage.** Textbooks: Sikri (2020) calls it controversial but still recommends proximal bevels; Summitt's (Hilton et al, 2013) cites research that bevels reduce leakage and a Class 3 study that found no difference; Goldstein et al (2018) support bevels; Sturdevant's 2e (Ritter, 2019) rarely bevels proximal walls and never the gingival margin. Primary: Ameri et al (2010, abstract) and Bagheri and Ghavamnasiri (2008, abstract) found no benefit in Class V; Peixoto et al (2002, abstract) found benefit at one inlay margin only.
@@ -70,62 +60,13 @@ Scope: four claims where sources diverge.
 **Claim D. Composite type decides leakage, and in-vitro rankings predict clinical results.** Prati (1989, full text) found composite type mattered more than bonding agent. Most later comparisons are null or split (Bajabaa et al, 2021; Hamouda et al, 2011; Cayo-Rojas et al, 2021, full text; Martínez-Sabio et al, 2023; Chakraborty et al, 2022). Peutzfeldt et al (2024, full text) found laboratory bond and gap results correlate only weakly with clinical outcome; Phillips notes bond strength often does not correlate with leakage (Anusavice et al, 2013). Taylor and Lynch (1992) describe wide method variation.
 - Interpretation: treat material rankings from dye studies as hypotheses. [Likely]
 
-## EXAM MODE
-**(686 words; about 31 min at 22 words/min)**
-
-**Definition**
-Microleakage is the clinically undetectable passage of bacteria, fluids, molecules or ions along the gap at the cavity and restoration interface (Sikri, 2020). No material or adhesive gives a complete hermetic seal (Hilton et al, 2013).
-
-**Why composite leaks**
-Composite has no adhesion of its own; the seal depends entirely on the bonded interface (Sikri, 2020).
-
-1. *Polymerisation shrinkage*: 1.67 to 5.68% by volume, less for light-cured resins (Sikri, 2020); 2 to 6% in Seltzer and Bender (Hargreaves et al, 2012). Stress above bond strength separates the interface, usually at dentin; the enamel bond survives.
-2. *C-factor*: bonded to unbonded surface ratio. Class I about 5, highest stress (Ritter, 2019; McCabe and Walls, 2008). It does not alone predict clinical outcome (Sakaguchi et al, 2019).
-3. *Thermal mismatch*: resin 22 to 25 x 10⁻⁶/°C, tooth 11.4 x 10⁻⁶/°C; fluids percolate through any gap (Sikri, 2020; Sakaguchi et al, 2019).
-4. *Occlusal loading and cuspal flexure* reopen gaps (Hargreaves et al, 2012).
-5. *Water sorption* compensates only slightly and too slowly (Sikri, 2020; van Noort and Barbour, 2013).
-6. *Site*: cervical Class II margins leak most: poor access, trapped air, pull-back of sticky material, weak gingival bond. Cervical enamel is thin and aprismatic (Sikri, 2020; Coluzzi and Parker, 2017).
-7. *Hydrolysis of the hybrid layer* raises leakage with time (Torres, 2020).
-
-**Consequences**: marginal staining, sensitivity and recurrent caries; composite has no anticariogenic defence (Hilton et al, 2013; van Noort and Barbour, 2013).
-
-**Methods to reduce microleakage**
-
-1. *Material*: higher filler content lowers shrinkage and CTE (Anusavice et al, 2013). Microfills flex and absorb water; glass "mega filler" inserts reduce shrinkage (Sikri, 2020). Bulk-fill adaptation is comparable to incremental technique (Sakaguchi et al, 2019).
-
-2. *Cavity design*: conservative outline, reduced depth, rounded internal angles, low volume to bonded-area ratio; remove unsupported enamel (Sikri, 2020; McCabe and Walls, 2008).
-
-3. *Bevels* (disputed): Sikri calls their role controversial but bevels facial and lingual proximal margins, never occlusal; Summitt's cites reduced leakage with 0.5 mm proximal bevels; Sturdevant's 2e rarely bevels proximal walls and never the gingival margin (Sikri, 2020; Hilton et al, 2013; Ritter, 2019).
-
-4. *Etch and bond*: enamel etching reduces leakage "to almost nil"; cervical enamel bonds poorly (Sikri, 2020). Etch beyond the margin (Alani and Patel, 2025); selective enamel etch with self-etch adhesives (Ritter, 2019).
-
-5. *Incremental placement*: 1.0 to 1.5 mm (Sikri, 2020) or up to 2 mm (Mount et al, 2016), placed obliquely (Goldstein et al, 2018); first gingival increment 1 mm or less (Hilton et al, 2013).
-
-6. *Light curing*: soft-start, light-directing wedges and three-sited curing (Sikri, 2020). Phillips finds "little advantage" in soft-start (Anusavice et al, 2013); reflecting wedges fail on dentin margins (Hilton et al, 2013).
-
-7. *Sandwich technique*: GIC or RMGI base bonds chemically to dentin, matches tooth CTE (Sikri, 2020; Mount et al, 2016). Shrinkage may pull it off dentin, and light-cured GIC does better (Sikri, 2020). Sturdevant's 2e says liners are unproven clinically and not supported by current evidence (Ritter, 2019).
-
-8. *Marginal sealing*: unfilled resin or fissure sealant over finished margins ("rebonding") (Sikri, 2020; Anusavice et al, 2013).
-
-9. *Finishing*: delay 24 hours, not one week; slow speed, light intermittent strokes, air coolant; avoid dry finishing; Sof-Lex discs (Sikri, 2020; Anusavice et al, 2013).
-
-10. *Indirect composite inlays*: bulk shrinkage occurs before cementation, so leakage is less (Sikri, 2020); preferred for large high C-factor cavities (Sakaguchi et al, 2019).
-
-11. *Isolation*: rubber dam; evidence is mixed (Hilton et al, 2013).
-
-**Diagram**: three leakage routes at the interface; Class II shrinkage arrows with gap at the gingival wall.
-
-**Evidence appraisal**
-- Textbooks disagree on bevels, soft-start and liners; dye studies on these are split (Ameri et al, 2010; Moazzami et al, 2014; Prati, 1989).
-- In-vitro leakage correlates only weakly with clinical outcome (Peutzfeldt et al, 2024).
-
-**Conclusion**
-No method eliminates leakage. Enamel margins seal reliably; dentin and cervical margins need a combined approach: correct etch and bond, small well-cured increments, low C-factor design, delayed wet finishing and margin sealing, with a liner or an indirect inlay where the cavity is large or the margin lies in dentin.
-
-## DIAGRAMS TO DRAW
-- [DIAGRAM: Leakage routes at the interface | tooth, smear layer, liner, restoration | three routes: within smear layer, between smear layer and liner, between liner and restoration | locates where leakage occurs (after Sikri, 2020, Fig 22.1, redrawn)]
-- [DIAGRAM: Class II shrinkage | shrinkage arrows towards the light and the centre; V-shaped gap at the gingival wall | labels: enamel bond intact, dentin bond failed, gap | shows the causal chain]
-- [DIAGRAM: C-factor cubes | Class I (5 bonded, 1 free) vs Class IV | shows why small Class I has highest stress]
+## TEXTBOOK DISAGREEMENTS
+- **Bevels.** Sikri, Textbook of Conservative and Restorative Dentistry, first eBook ed (2020): role "remained controversial"; still lists bevels as effective and recommends facial and lingual proximal-box bevels, not occlusal. Summitt's 4th ed (Hilton et al, 2013): "point of controversy" (PDF 594) yet research shows 0.5 mm proximal bevels "significantly reduce marginal leakage" (PDF 595); a Class 3 silver-nitrate study showed no difference (PDF 525). Goldstein's Esthetics in Dentistry, 3rd ed (Goldstein et al, 2018): the 45° bevel is the commonest composite finish line and reduces leakage. Sturdevant's 2nd South Asia ed (Ritter, 2019): no occlusal bevels, none on the gingival margin, "rarely used" on proximal box walls.
+- **Soft-start curing.** For: Sikri, first eBook ed (2020) advocates it; Sturdevant's 2nd South Asia ed (Ritter, 2019) lists it as a strategy. Against: Phillips' 12th ed (Anusavice et al, 2013): "little advantage is to be gained"; Summitt's 4th ed (Hilton et al, 2013): clinically significant stress reduction "not feasible".
+- **Liners (GIC, RMGI, flowable).** For: Sikri, first eBook ed (2020), Mount 3rd ed (Mount et al, 2016) and Goldstein 3rd ed (Goldstein et al, 2018): a GIC liner reduces leakage. Against: Sturdevant's 2nd South Asia ed (Ritter, 2019): flowable or GIC liners "not been proved effective clinically" (p.408) and claims "not supported by current clinical evidence" (p.502); Summitt's 4th ed (Hilton et al, 2013): most flowable-liner studies show no benefit.
+- **Water sorption.** Sikri, first eBook ed (2020): improves adaptation a little. Summitt's 4th ed (Hilton et al, 2013) and van Noort's Introduction to Dental Materials, 4th ed (van Noort and Barbour, 2013): too little and too late.
+- **Increment size.** Sikri, first eBook ed (2020): 1.0 to 1.5 mm. Mount 3rd ed (Mount et al, 2016) and Craig's 14th ed (Sakaguchi et al, 2019): 2 mm; Craig's adds that bulk-fill is comparable.
+- **Shrinkage figure.** Sikri, first eBook ed (2020): text 1.67 to 5.68%, but his Table 22.2 gives 1.3 to 2.5%. Seltzer and Bender's Dental Pulp, 2nd ed (Hargreaves et al, 2012): 2 to 6%. Mount 3rd ed (Mount et al, 2016): 0.9 to 1.7% for newer resins. Sturdevant's 2nd South Asia ed (Ritter, 2019): 2.2 to 2.4% (linear).
 
 ## HIGH-YIELD POINTS
 - Definition: clinically undetectable passage along the interface gap (Sikri, 2020).
@@ -144,118 +85,61 @@ No method eliminates leakage. Enamel margins seal reliably; dentin and cervical 
 4. Calling C-factor a measure of shrinkage volume. It governs stress, not volume.
 5. Claiming microfilled luting cement is chosen for sealing. Sikri prefers it for wear resistance.
 
-## REFERENCES
-- Alani A, Patel S. Adhesive Techniques in Restorative Dentistry (BDJ Clinician's Guides). Cham: Springer; 2025.
-- Amaral CM, Peris AR, Ambrosano GMB, Pimenta LAF. Microleakage and gap formation of resin composite restorations polymerized with different techniques. Am J Dent. 2004;17(3):156-160. PMID 15301209. [abstract]
-- Ameri H, Ghavamnasiri M, Abdoli E. Effects of load cycling on the microleakage of beveled and nonbeveled margins in class V resin-based composite restorations. J Contemp Dent Pract. 2010;11(5):25-32. PMID 20978721. [abstract]
-- Anusavice KJ, Shen C, Rawls HR. Phillips' Science of Dental Materials. 12th ed. St Louis: Elsevier; 2013.
-- Bagheri M, Ghavamnasiri M. Effect of cavosurface margin configuration of Class V cavity preparations on microleakage of composite resin restorations. J Contemp Dent Pract. 2008;9(2):122-129. PMID 18264534. [abstract]
-- Bajabaa S, Balbaid S, Taleb M, Islam L, Elharazeen S, Alagha E. Microleakage evaluation in Class V cavities restored with five different resin composites: in vitro dye leakage study. Clin Cosmet Investig Dent. 2021;13:405-411. doi:10.2147/CCIDE.S331426. [full text]
-- Banerjee A, Watson TF. Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: OUP; 2015.
-- Berman LH, Hargreaves KM, eds. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier. Ch.23; n.d. (Year not stated in the extracted front matter.)
-- Cayo-Rojas CF, Hernández-Caba KK, Aliaga-Mariñas AS, Ladera-Castañeda MI, Cervantes-Ganoza LA. Microleakage in class II restorations of two bulk fill resin composites and a conventional nanohybrid resin composite: an in vitro study at 10,000 thermocycles. BMC Oral Health. 2021;21:619. doi:10.1186/s12903-021-01942-0. [full text]
-- Chakraborty M, Singh A, Vadavadagi SV, Kumari A, Prasad RS, Anand A. Evaluation of microleakage using dye-penetration method in three different composite resin core build-up materials: an in vitro study. J Contemp Dent Pract. 2022;23(1):61-65. doi:10.5005/jp-journals-10024-3220. [full text]
-- Chuang SF, Jin YT, Lin TS, Chang CH, García-Godoy F. Effects of lining materials on microleakage and internal voids of Class II resin-based composite restorations. Am J Dent. 2003;16(2):84-90. PMID 12797564. [abstract]
-- Coluzzi DJ, Parker SPA, eds. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2017. Ch.8 (Poli et al).
-- Fahl N Jr, Ritter AV. Composite Veneers: The Direct-Indirect Technique. Berlin: Quintessence; n.d. (Year not stated in the extracted front matter.)
-- Gamarra VSS, Borges GA, Júnior LHB, Spohr AM. Marginal adaptation and microleakage of a bulk-fill composite resin photopolymerized with different techniques. Odontology. 2017;106(1):56-63. doi:10.1007/s10266-017-0294-5. [abstract]
-- Goldstein RE, Chu SJ, Lee EA, Stappert CFJ. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.14.
-- Hamouda IM, Abd Elkader H, Badawi MF. Microleakage of nanofilled composite resin restorative material. J Biomater Nanobiotechnol. 2011;2:329-334. doi:10.4236/jbnb.2011.23040. [full text]
-- Hargreaves KM, Goodis HE, Tay FR, eds. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.14.
-- Hilton TJ, Ferracane JL, Broome JC, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013.
-- Kasraei S, Azarsina M, Majidi S. In vitro comparison of microleakage of posterior resin composites with and without liner using two-step etch-and-rinse and self-etch dentin adhesive systems. Oper Dent. 2011;36(2):213-221. doi:10.2341/10-215-L. [abstract]
-- Loguercio AD, Reis A, Mazzocco KC, et al. Microleakage in class II composite resin restorations: total bonding and open sandwich technique. J Adhes Dent. 2002;4(2):137-144. PMID 12236642. [abstract]
-- Martínez-Sabio L, Peñate L, Arregui M, Veloso Duran A, Blanco JR, Guinot F. Comparison of shear bond strength and microleakage between Activa BioActive Restorative and bulk-fill composites: an in vitro study. Polymers. 2023;15:2840. doi:10.3390/polym15132840. [full text]
-- McCabe JF, Walls AWG. Applied Dental Materials. 9th ed. Oxford: Blackwell; 2008.
-- Moazzami SM, Sarabi N, Hajizadeh H, et al. Efficacy of four lining materials in sandwich technique to reduce microleakage in class II composite resin restorations. Oper Dent. 2014;39(3):256-263. doi:10.2341/11-495-L. [abstract]
-- Mount GJ, Hume WR, Ngo HC, Wolff MS, eds. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley-Blackwell; 2016.
-- Peixoto RTR, Poletto LTA, Lanza MD, Buono VTL. The influence of occlusal finish line configuration on microleakage of indirect composite inlays. J Adhes Dent. 2002;4(2):145-150. PMID 12236643. [abstract]
-- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966-975. doi:10.1016/j.dental.2024.05.004. [full text]
-- Prati C. Early marginal microleakage in Class II resin composite restorations. Dent Mater. 1989;5:392-398. [full text]
-- Ritter AV, ed. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: Elsevier (RELX India); 2019.
-- Sakaguchi R, Ferracane J, Powers J, eds. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019.
-- Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS; 2020 (first eBook edition). Ch.22 "Microleakage".
-- Soubhagya M, Goud KM, Deepak BS, Thakur S, Nandini TN, Arun J. Comparative in vitro evaluation of internal adaptation of resin-modified glass ionomer, flowable composite and bonding agent applied as a liner under composite restoration: an SEM study. J Int Oral Health. 2015;7(4):27-31. [abstract]
-- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3-10. [full text]
-- Torres CRG, ed. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer; 2020.
-- van Noort R, Barbour ME. Introduction to Dental Materials. 4th ed. Edinburgh: Elsevier; 2013.
-- Wibowo G, Stockton L. Microleakage of Class II composite restorations. Am J Dent. 2001;14(3):177-185. PMID 11572297. [abstract]
-
 ## AUDIT LOG
 ### Source locators
 All textbook files are in `/home/user/mds-textbooks/Operative_and_Dental_Materials_Textbooks/` unless a folder is named. Sikri printed page = marker minus 19, read from running headers.
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 454 (p.435) | "clinically undetectable passage of bacteria and bacterial products"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 459 (p.440) | "in the range of 1.67– 5.68%"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 459 (p.440) | "usually the bond with dentin which is compromised"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 459 (p.440) | "restorative resins (22–25 × 10–6/°C)"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 459 (p.440) | "relief of stresses by hygroscopic expansion proceeds slowly"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 459 (p.440) | "Marginal gaps are higher on the cervical"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 460 (p.441) | "used as 'mega fillers' in composite restorations"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 460 (p.441) | "decreasing ratio of volume/bonded area"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 460 (p.441) | "in reducing leakage remained controversial"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 460 (p.441) | "facial and lingual margins of the proximal box"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 460 (p.441) | "reducing microleakage to almost nil"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 461 (p.442) | "preferably be limited to 1.0–1.5 mm"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 461 (p.442) | "concept of soft start polymerization has been advocated"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 461 (p.442) | "Sealing marginal gaps has shown promising results"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 461 (p.442) | "finishing of composites to be delayed for 24 hours"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 461 (p.442) | "breaks the seal of glass-ionomer cement"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 462 (p.443) | "resulting in a gap not less" / "than 5.0 mm" (line break in source)
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 462 (p.443) | "Light cure glass-ionomer, when used as base"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 462 (p.443) | "Less leakage with inlay systems"
-- Textbook_of_Conservative_and_Restorative_Dentistry.md | PAGE 462 (p.443) | "microfilled resins should be preferred for the cementation"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 44 | "No restorative material or technique can ensure a complete hermetic seal"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 509 | "incremental placement techniques, long enamel bevels, low-shrinkage"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 509 | "may result in microleakage, sensitivity, staining at"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 525 | "no significant differences in marginal"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 578 | "usually is not enough to overcome the polymerization shrinkage"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 594 | "Bevel placement is a point of controversy"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 595 | "bevels on these margins significantly reduce marginal leakage"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 598-599 | "improved marginal adaptation and a reduction in marginal leakage"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 606 | "an increment no thicker than 1 mm"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 606 | "failed to reduce gingival margin microleakage"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 609 | "the majority of studies show no"
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 624 | "clinically significant are not feasible" (confirmed by grep 2026-10-21)
-- Summitts_Fundamentals_of_Operative_Dentistry.md | PAGE 628-629 | "significantly reduce microleakage in vitro"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 427 (p.408) | "has not been proved effective clinically"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 427 (p.408) | "dentin margins is potentiated by this discrepancy"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 438 (p.419) | "passage of bacteria and their toxins between restoration margins"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 459 (p.440) | "ear polymerization shrinkage of between 2.2% and 2.4%" ("lin-" on the line above) and "linear shrinkage of these materials ranges be-"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 460 (p.441) | "five primary strategies that can be used"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 521 (p.502) | "not supported by current clinical evidence"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 529 (p.510) | "Bevels are rarely used on any of the proximal box"
-- Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md | PAGE 531 (p.512) | "the most critical in establishing a proper gingival seal"
-- Phillips_Science_of_Dental_Materials.md | PAGE 296 (p.280) | "greater the risk of eventual leakage in marginal gaps"
-- Phillips_Science_of_Dental_Materials.md | PAGE 310 (p.294) | "little advantage is to be gained by ramped"
-- Phillips_Science_of_Dental_Materials.md | PAGE 315 (p.299) | "dry polishing technique results in an increase"
-- Phillips_Science_of_Dental_Materials.md | PAGE 315 (p.299) | "technique also significantly decreases microleakage"
-- Craigs_Restorative_Dental_Materials.md | PAGE 96 | "alone does not accurately predict stresses or clini-" (confirmed by grep 2026-10-21)
-- Craigs_Restorative_Dental_Materials.md | PAGE 159 (p.148) | "Adding the composite in 2-mm increments"
-- Craigs_Restorative_Dental_Materials.md | PAGE 161 (p.150) | "could permit percolation of oral fluids"
-- Craigs_Restorative_Dental_Materials.md | PAGE 165 (p.154) | "comparable to incrementally placed composites"
-- Craigs_Restorative_Dental_Materials.md | PAGE 166 (p.155) | "high C-factors due to concerns of polymerization stress"
-- Applied_Dental_Materials_McCabe_Walls_9th.md | PAGE 218 (p.209) | "a class I cavity … has a C-factor of about 5"
-- Applied_Dental_Materials_McCabe_Walls_9th.md | PAGE 225 (p.216) | "resulting in a failure of marginal seal"
-- Applied_Dental_Materials_McCabe_Walls_9th.md | PAGE 233 (p.224) | "Only the shrinkage of the luting material"
-- Introduction_to_Dental_Materials_4th.md | PAGE 95 (p.80) | "once a gap is formed, micro-leakage will occur"
-- Introduction_to_Dental_Materials_4th.md | PAGE 101 (p.86) | "by then, it will be too late"
-- Preservation_and_Restoration_of_Tooth_Structure_Mount.md | PAGE 191 (p.175) | "polymerization shrinkage reduced to the range 0.9–1.7%"
-- Preservation_and_Restoration_of_Tooth_Structure_Mount.md | PAGE 191 (p.175) | "margin, thus minimizing marginal leakage"
-- Preservation_and_Restoration_of_Tooth_Structure_Mount.md | PAGE 107 (p.91) | "laminated over a glass‐ionomer cement base"
-- Esthetics_in_Dentistry_Goldstein.md | PAGE 368 | "marginal gaps would be the logical consequence"
-- Esthetics_in_Dentistry_Goldstein.md | PAGE 410 (p.398) | "beveling the margin of posterior composite resins reduces microleakage"
-- Esthetics_in_Dentistry_Goldstein.md | PAGE 415 | "most often placed obliquely rather than horizontally"
-- Lasers_in_Dentistry_Current_Concepts.md | PAGE 263 (p.255) | "absence of dentin tubules in 100 μm within the cervical border"
-- Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md | PAGE 183 | "cohesive marginal failure in the tooth structure" (verified 2026-10-21; the shorter wording is the 9th ed Manual)
-- Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.md | PAGE 155 | "should extend past the cavity margin to optimise the marginal seal" (verified 2026-10-21)
-- Composite_Veneers.md | PAGE 277 | "enhances bond strength and reduces microleakage" (repo file `Composite_Veneers.md`, verified 2026-10-21)
-- Modern_Operative_Dentistry.md | PAGE 584 (p.578) | "increasing the mar-" / "ginal microleakage" (line break in source; verified 2026-10-21)
-- Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_14_Caries_Restorative_Dentistry_and_the_Pulp.md | PDF page 610 | "Resin-based restorative materials shrink from 2% to 6%"
-- Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_14_Caries_Restorative_Dentistry_and_the_Pulp.md | PDF page 613-614 | "particularly along the cervical margins"
-- Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_14_Caries_Restorative_Dentistry_and_the_Pulp.md | PDF page 605 | "increased microleakage result from excessive etching"
-- Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/23_23_Restoration_of_the_endodontically_treated_tooth.md | PDF page 2744 | "high Cfactors (>3.0) are at greatest risk for debonding"
-- Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/23_23_Restoration_of_the_endodontically_treated_tooth.md | PDF page 2756 | "no adhesive has been shown to completely eliminate microleakage"
-- Journal items: located in the old file's Drive PDFs or PubMed records; not re-opened this session.
+- Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS; 2020 (first eBook edition). Ch.22 "Microleakage". `Textbook_of_Conservative_and_Restorative_Dentistry.md` | PAGE 454 (p.435) | "clinically undetectable passage of bacteria and bacterial products"
+- same file | PAGE 459 (p.440) | "in the range of 1.67– 5.68%"; "usually the bond with dentin which is compromised"; "restorative resins (22–25 × 10–6/°C)"; "relief of stresses by hygroscopic expansion proceeds slowly"; "Marginal gaps are higher on the cervical"
+- same file | PAGE 460 (p.441) | "used as 'mega fillers' in composite restorations"; "decreasing ratio of volume/bonded area"; "in reducing leakage remained controversial"; "facial and lingual margins of the proximal box"; "reducing microleakage to almost nil"
+- same file | PAGE 461 (p.442) | "preferably be limited to 1.0–1.5 mm"; "concept of soft start polymerization has been advocated"; "Sealing marginal gaps has shown promising results"; "finishing of composites to be delayed for 24 hours"; "breaks the seal of glass-ionomer cement"
+- same file | PAGE 462 (p.443) | "resulting in a gap not less" / "than 5.0 mm" (line break in source); "Light cure glass-ionomer, when used as base"; "Less leakage with inlay systems"; "microfilled resins should be preferred for the cementation"
+- Hilton TJ, Ferracane JL, Broome JC, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. `Summitts_Fundamentals_of_Operative_Dentistry.md` | PAGE 44 | "No restorative material or technique can ensure a complete hermetic seal"
+- same file | PAGE 509 | "incremental placement techniques, long enamel bevels, low-shrinkage"; "may result in microleakage, sensitivity, staining at"
+- same file | PAGE 525 | "no significant differences in marginal"
+- same file | PAGE 578 | "usually is not enough to overcome the polymerization shrinkage"
+- same file | PAGE 594 | "Bevel placement is a point of controversy"
+- same file | PAGE 595 | "bevels on these margins significantly reduce marginal leakage"
+- same file | PAGE 598-599 | "improved marginal adaptation and a reduction in marginal leakage"
+- same file | PAGE 606 | "an increment no thicker than 1 mm"; "failed to reduce gingival margin microleakage"
+- same file | PAGE 609 | "the majority of studies show no"
+- same file | PAGE 624 | "clinically significant are not feasible" (confirmed by grep 2026-10-21)
+- same file | PAGE 628-629 | "significantly reduce microleakage in vitro"
+- Ritter AV, ed. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: Elsevier (RELX India); 2019. `Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md` | PAGE 427 (p.408) | "has not been proved effective clinically"; "dentin margins is potentiated by this discrepancy"
+- same file | PAGE 438 (p.419) | "passage of bacteria and their toxins between restoration margins"
+- same file | PAGE 459 (p.440) | "ear polymerization shrinkage of between 2.2% and 2.4%" ("lin-" on the line above) and "linear shrinkage of these materials ranges be-"
+- same file | PAGE 460 (p.441) | "five primary strategies that can be used"
+- same file | PAGE 521 (p.502) | "not supported by current clinical evidence"
+- same file | PAGE 529 (p.510) | "Bevels are rarely used on any of the proximal box"
+- same file | PAGE 531 (p.512) | "the most critical in establishing a proper gingival seal"
+- Anusavice KJ, Shen C, Rawls HR. Phillips' Science of Dental Materials. 12th ed. St Louis: Elsevier; 2013. `Phillips_Science_of_Dental_Materials.md` | PAGE 296 (p.280) | "greater the risk of eventual leakage in marginal gaps"
+- same file | PAGE 310 (p.294) | "little advantage is to be gained by ramped"
+- same file | PAGE 315 (p.299) | "dry polishing technique results in an increase"; "technique also significantly decreases microleakage"
+- Sakaguchi R, Ferracane J, Powers J, eds. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. `Craigs_Restorative_Dental_Materials.md` | PAGE 96 | "alone does not accurately predict stresses or clini-" (confirmed by grep 2026-10-21)
+- same file | PAGE 159 (p.148) | "Adding the composite in 2-mm increments"
+- same file | PAGE 161 (p.150) | "could permit percolation of oral fluids"
+- same file | PAGE 165 (p.154) | "comparable to incrementally placed composites"
+- same file | PAGE 166 (p.155) | "high C-factors due to concerns of polymerization stress"
+- McCabe JF, Walls AWG. Applied Dental Materials. 9th ed. Oxford: Blackwell; 2008. `Applied_Dental_Materials_McCabe_Walls_9th.md` | PAGE 218 (p.209) | "a class I cavity … has a C-factor of about 5"
+- same file | PAGE 225 (p.216) | "resulting in a failure of marginal seal"
+- same file | PAGE 233 (p.224) | "Only the shrinkage of the luting material"
+- van Noort R, Barbour ME. Introduction to Dental Materials. 4th ed. Edinburgh: Elsevier; 2013. `Introduction_to_Dental_Materials_4th.md` | PAGE 95 (p.80) | "once a gap is formed, micro-leakage will occur"
+- same file | PAGE 101 (p.86) | "by then, it will be too late"
+- Mount GJ, Hume WR, Ngo HC, Wolff MS, eds. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley-Blackwell; 2016. `Preservation_and_Restoration_of_Tooth_Structure_Mount.md` | PAGE 191 (p.175) | "polymerization shrinkage reduced to the range 0.9–1.7%"; "margin, thus minimizing marginal leakage"
+- same file | PAGE 107 (p.91) | "laminated over a glass‐ionomer cement base"
+- Goldstein RE, Chu SJ, Lee EA, Stappert CFJ. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.14. `Esthetics_in_Dentistry_Goldstein.md` | PAGE 368 | "marginal gaps would be the logical consequence"
+- same file | PAGE 410 (p.398) | "beveling the margin of posterior composite resins reduces microleakage"
+- same file | PAGE 415 | "most often placed obliquely rather than horizontally"
+- Coluzzi DJ, Parker SPA, eds. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2017. Ch.8 (Poli et al). `Lasers_in_Dentistry_Current_Concepts.md` | PAGE 263 (p.255) | "absence of dentin tubules in 100 μm within the cervical border"
+- Banerjee A, Watson TF. Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: OUP; 2015. `Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md` | PAGE 183 | "cohesive marginal failure in the tooth structure" (verified 2026-10-21; the shorter wording is the 9th ed Manual)
+- Alani A, Patel S. Adhesive Techniques in Restorative Dentistry (BDJ Clinician's Guides). Cham: Springer; 2025. `Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.md` | PAGE 155 | "should extend past the cavity margin to optimise the marginal seal" (verified 2026-10-21)
+- Fahl N Jr, Ritter AV. Composite Veneers: The Direct-Indirect Technique. Berlin: Quintessence; n.d. (Year not stated in the extracted front matter.) `Composite_Veneers.md` | PAGE 277 | "enhances bond strength and reduces microleakage" (repo file `Composite_Veneers.md`, verified 2026-10-21)
+- Torres CRG, ed. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer; 2020. `Modern_Operative_Dentistry.md` | PAGE 584 (p.578) | "increasing the mar-" / "ginal microleakage" (line break in source; verified 2026-10-21)
+- Hargreaves KM, Goodis HE, Tay FR, eds. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.14. `Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_14_Caries_Restorative_Dentistry_and_the_Pulp.md` | PDF page 610 | "Resin-based restorative materials shrink from 2% to 6%"
+- same file | PDF page 613-614 | "particularly along the cervical margins"
+- same file | PDF page 605 | "increased microleakage result from excessive etching"
+- Berman LH, Hargreaves KM, eds. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier. Ch.23; n.d. (Year not stated in the extracted front matter.) `Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/23_23_Restoration_of_the_endodontically_treated_tooth.md` | PDF page 2744 | "high Cfactors (>3.0) are at greatest risk for debonding"
+- same file | PDF page 2756 | "no adhesive has been shown to completely eliminate microleakage"
+- Journals (located in the old file's Drive PDFs or PubMed records; not re-opened this session; read status in brackets): Amaral CM, Peris AR, Ambrosano GMB, Pimenta LAF. Microleakage and gap formation of resin composite restorations polymerized with different techniques. Am J Dent. 2004;17(3):156-160. PMID 15301209 [abstract]. Ameri H, Ghavamnasiri M, Abdoli E. Effects of load cycling on the microleakage of beveled and nonbeveled margins in class V resin-based composite restorations. J Contemp Dent Pract. 2010;11(5):25-32. PMID 20978721 [abstract]. Bagheri M, Ghavamnasiri M. Effect of cavosurface margin configuration of Class V cavity preparations on microleakage of composite resin restorations. J Contemp Dent Pract. 2008;9(2):122-129. PMID 18264534 [abstract]. Bajabaa S, Balbaid S, Taleb M, Islam L, Elharazeen S, Alagha E. Microleakage evaluation in Class V cavities restored with five different resin composites: in vitro dye leakage study. Clin Cosmet Investig Dent. 2021;13:405-411. doi:10.2147/CCIDE.S331426 [full text]. Cayo-Rojas CF, Hernández-Caba KK, Aliaga-Mariñas AS, Ladera-Castañeda MI, Cervantes-Ganoza LA. Microleakage in class II restorations of two bulk fill resin composites and a conventional nanohybrid resin composite: an in vitro study at 10,000 thermocycles. BMC Oral Health. 2021;21:619. doi:10.1186/s12903-021-01942-0 [full text]. Chakraborty M, Singh A, Vadavadagi SV, Kumari A, Prasad RS, Anand A. Evaluation of microleakage using dye-penetration method in three different composite resin core build-up materials: an in vitro study. J Contemp Dent Pract. 2022;23(1):61-65. doi:10.5005/jp-journals-10024-3220 [full text]. Chuang SF, Jin YT, Lin TS, Chang CH, García-Godoy F. Effects of lining materials on microleakage and internal voids of Class II resin-based composite restorations. Am J Dent. 2003;16(2):84-90. PMID 12797564 [abstract]. Gamarra VSS, Borges GA, Júnior LHB, Spohr AM. Marginal adaptation and microleakage of a bulk-fill composite resin photopolymerized with different techniques. Odontology. 2017;106(1):56-63. doi:10.1007/s10266-017-0294-5 [abstract]. Hamouda IM, Abd Elkader H, Badawi MF. Microleakage of nanofilled composite resin restorative material. J Biomater Nanobiotechnol. 2011;2:329-334. doi:10.4236/jbnb.2011.23040 [full text]. Kasraei S, Azarsina M, Majidi S. In vitro comparison of microleakage of posterior resin composites with and without liner using two-step etch-and-rinse and self-etch dentin adhesive systems. Oper Dent. 2011;36(2):213-221. doi:10.2341/10-215-L [abstract]. Loguercio AD, Reis A, Mazzocco KC, et al. Microleakage in class II composite resin restorations: total bonding and open sandwich technique. J Adhes Dent. 2002;4(2):137-144. PMID 12236642 [abstract]. Martínez-Sabio L, Peñate L, Arregui M, Veloso Duran A, Blanco JR, Guinot F. Comparison of shear bond strength and microleakage between Activa BioActive Restorative and bulk-fill composites: an in vitro study. Polymers. 2023;15:2840. doi:10.3390/polym15132840 [full text]. Moazzami SM, Sarabi N, Hajizadeh H, et al. Efficacy of four lining materials in sandwich technique to reduce microleakage in class II composite resin restorations. Oper Dent. 2014;39(3):256-263. doi:10.2341/11-495-L [abstract]. Peixoto RTR, Poletto LTA, Lanza MD, Buono VTL. The influence of occlusal finish line configuration on microleakage of indirect composite inlays. J Adhes Dent. 2002;4(2):145-150. PMID 12236643 [abstract]. Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966-975. doi:10.1016/j.dental.2024.05.004 [full text]. Prati C. Early marginal microleakage in Class II resin composite restorations. Dent Mater. 1989;5:392-398 [full text]. Soubhagya M, Goud KM, Deepak BS, Thakur S, Nandini TN, Arun J. Comparative in vitro evaluation of internal adaptation of resin-modified glass ionomer, flowable composite and bonding agent applied as a liner under composite restoration: an SEM study. J Int Oral Health. 2015;7(4):27-31 [abstract]. Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3-10 [full text]. Wibowo G, Stockton L. Microleakage of Class II composite restorations. Am J Dent. 2001;14(3):177-185. PMID 11572297 [abstract].
 
 ### 2026-10-18 Literature update (from old file)
 Updated with ten articles from the Downloads/Microleakage folder. Full text read for Prati (1989), Hamouda (2011), Jesudass (2014), Dutra (2023), Bajabaa (2021), Cayo-Rojas (2021), Martínez-Sabio (2023), Chakraborty (2022), Pinto (2023), Yalcin (2006) and the Pisuttiwong (2017) unpublished thesis; Moazzami and Gamarra from PubMed abstracts only. Two PubMed searches on finishing time returned nothing, so the 24-hour finishing rule stayed textbook-only. The old file flagged that several papers state conclusions stronger than their statistics (Bajabaa abstract, Jesudass, Dutra discussion, Pinto). Jesudass, Dutra, Pinto, Yalcin, Pisuttiwong, Feiz and Uno are not cited in this rewrite to keep the answer to the strongest items; the old file holds their details.
@@ -276,3 +160,11 @@ Updated with ten articles from the Downloads/Microleakage folder. Full text read
 - Removed unsupported Exam wording: "releases fluoride" (sandwich), "fully cured" (first increment), "pulpal inflammation" (consequences). Added Study S2.8 consequences with Summitt's PAGE 509 locator.
 - Cohen's and Fahl citations given n.d.; Cohen's C-factor sentence cited; S4 rows given edition and author-year; Sturdevant's 2.2 to 2.4% added to the shrinkage row.
 - Checker claim that Sturdevant's 2.2 to 2.4% is not linear was rejected: PAGE 459 reads "linear polymerization shrinkage of between 2.2% and 2.4%" (the PAGE 460 summary omits "linear"); wording kept, locator added.
+
+### 2026-10-21 Single-flow format
+- Study Mode (S1 to S3), Critical Evidence Synthesis and Exam Mode merged into one ANSWER. Exam-only details kept in the merged text ("the enamel bond survives", "light intermittent strokes", the conclusion and the evidence appraisal lines, which were already covered by Claims A, B and D). The Critical Evidence Synthesis is now the final "Critical appraisal" subsection. Study S2.8 consequences became its own "Consequences" subsection. S3.11 and the Exam isolation point merged as "Other measures".
+- Study S4 "Differences between textbooks" table moved out of the answer body into TEXTBOOK DISAGREEMENTS, with author, edition and year for each side.
+- Removed: RETRIEVAL REPORT, DIAGRAMS TO DRAW, REFERENCES, Exam word-count line and Exam diagram line. The leakage-route content of the first diagram (three routes, after Sikri Fig 22.1) was kept as a sentence under Definition; the other two diagram notes duplicated text already in Causes.
+- REFERENCES details moved to the start of each book's locator lines; journal references moved into one Journals bullet with their read status. Sikri locators grouped by page marker.
+- Retrieval Report folded here: evidence base was seven textbook fact dossiers (Sikri, Garg and Singh; Summitt's; Sturdevant's 2e and Marzouk; Goldstein, Lasers in Dentistry and Composite Veneers; Phillips, Craig, McCabe and Walls, van Noort and other materials books; Mount, Pickard, Alani and Hybridization; Seltzer and Bender, Cohen and other endodontic books), plus two citation-check reports on the old answers. Queries re-run with `grep -a` in `/home/user/mds-textbooks` (Sikri Ch.22 composite section read in full, markers 459 to 462; Summitt's, Sturdevant's 2e, Phillips, Craig 14th, van Noort, Mount and Seltzer and Bender phrases) all hit at the markers listed under Source locators. Journal literature was not searched again. No usable result for: primary evidence on the timing of composite finishing (24 hours vs immediate); Sturdevant's 5th edition.
+- No facts, numbers or citations changed.
