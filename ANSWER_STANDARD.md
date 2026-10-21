@@ -1,6 +1,6 @@
 # ANSWER STANDARD (canonical answer format)
 
-**Status:** DRAFT v0.3 (2026-10-21). **Not in force.** Answers continue to be drafted under SKILL.md §7 unchanged. This file is applied later, as a separate reformat pass, once all answers are finished. It overrides nothing until then.
+**Status:** DRAFT v0.4 (2026-10-21). **Not in force.** Answers continue to be drafted under SKILL.md §7 unchanged. This file is applied later, as a separate reformat pass, once all answers are finished. It overrides nothing until then.
 
 No open items remain.
 
@@ -8,7 +8,7 @@ No open items remain.
 
 ## 0. What applying this file does
 
-**Reformat only.** It renames and reorders headings, normalises the header block, citation style and file names, and moves audit material into one section. **The wording of answers is not changed.** Anything that would need new or removed content (a missing required section, Exam Mode over its word ceiling, confidence tags, dashes in prose) is **reported** in a per-topic list for a later decision. It is never fixed silently.
+**Restructure, no new facts.** It merges Study Mode, Critical Evidence Synthesis and Exam Mode into one ANSWER (removing duplication, losing no fact, number or citation), renames and reorders headings, normalises the header block, citation style and file names, and moves audit material into one section. Anything that would need new content (a missing required section, confidence tags) is **reported** in a per-topic list for a later decision. It is never fixed silently.
 
 ## 1. File
 
@@ -35,18 +35,13 @@ No open items remain.
 
 | # | Heading | Required? | Notes |
 |---|---|---|---|
-| 1 | `## RETRIEVAL REPORT` | yes | Queries run, files hit, final bullet "No usable result for: ..." |
-| 2 | `## STUDY MODE` | yes | `### S1. ...`, `### S2. ...` |
-| 3 | `## CRITICAL EVIDENCE SYNTHESIS` | if present | Plain heading; scope (e.g. "compressed, one claim") becomes the first body line. |
-| 4 | `## EXAM MODE` | yes | First line: `**(<words> words; about <min> min at 22 words/min)**` |
-| 5 | `## DIAGRAMS TO DRAW` | if present | |
-| 6 | `## HIGH-YIELD POINTS` | **yes** | |
-| 7 | `## COMMON EXAM MISTAKES` | **yes** | |
-| 8 | `## MNEMONIC` | if present | |
-| 9 | `## REFERENCES` | yes | Alphabetical, full reference. |
-| 10 | `## AUDIT LOG` | if any audit material exists | Always last. See §5. |
+| 1 | `## ANSWER` | yes | One continuous, exhaustive answer with `###` subheadings in teaching order. Merges what were Study Mode, Critical Evidence Synthesis (as a final `### Critical appraisal`) and Exam Mode. In-text (Author, year) citations. No length limit, no word-count line. |
+| 2 | `## TEXTBOOK DISAGREEMENTS` | if any | Bullets; every side names author, edition and year. Not repeated in the answer body. |
+| 3 | `## HIGH-YIELD POINTS` | yes | |
+| 4 | `## COMMON EXAM MISTAKES` | yes | |
+| 5 | `## AUDIT LOG` | yes | Always last. `### Source locators` first, each book's line starting with its full details (authors, title, edition, publisher, year), since there is no References section. Then dated entries. |
 
-A required section that is missing is reported, not written.
+Removed sections: RETRIEVAL REPORT (anything important goes into AUDIT LOG), STUDY MODE, EXAM MODE, CRITICAL EVIDENCE SYNTHESIS (as a separate section), DIAGRAMS TO DRAW, MNEMONIC, REFERENCES. Decided by the user 2026-10-21 after the microleakage sample.
 
 ## 4. Heading map (old → canonical)
 
@@ -54,10 +49,11 @@ A required section that is missing is reported, not written.
 |---|---|
 | `Retrieval Report`, `Retrieval Report — AUDITED ...` | `RETRIEVAL REPORT` (suffix text moves to AUDIT LOG) |
 | `CRITICAL EVIDENCE SYNTHESIS (<anything>)`, `(6A)` etc. | `CRITICAL EVIDENCE SYNTHESIS` (sub-parts become `###`) |
-| `SOURCE LIST` | `REFERENCES` |
+| `SOURCE LIST`, `REFERENCES` | book details into AUDIT LOG source locators |
 | `SOURCE LOCATORS` | `### Source locators` inside AUDIT LOG |
 | `TEXTBOOK AUDIT APPLIED (...)`, `Corrections made ...`, `Known gaps ...`, `Not yet drafted` | `### <date> <original title>` inside AUDIT LOG |
-| `DIFFERENCES BETWEEN TEXTBOOKS` | `### Differences between textbooks`, last subsection of STUDY MODE (answer content, not audit) |
+| `DIFFERENCES BETWEEN TEXTBOOKS`, `Differences between textbooks` tables | `## TEXTBOOK DISAGREEMENTS` |
+| `STUDY MODE`, `EXAM MODE`, `CRITICAL EVIDENCE SYNTHESIS` | merged into `## ANSWER` |
 | `QUESTION (<marks>, <type>)` | header block lines |
 | any other unknown `##` | reported |
 
@@ -82,4 +78,4 @@ Source locators first, then dated entries, oldest first.
 
 ## 7. Report produced per topic when applied
 
-Missing required sections; Exam Mode over the §7.1(3) ceiling; unknown headings; in-text citations missing from REFERENCES; unresolved `[SRC:...]` tags; files that could not be mapped automatically.
+Missing required sections; unknown headings; in-text citations with no source locator; unresolved `[SRC:...]` tags; files that could not be mapped automatically.
