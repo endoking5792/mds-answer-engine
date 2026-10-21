@@ -1,16 +1,21 @@
-# ANSWER STANDARD (canonical format for every exam answer)
+# ANSWER STANDARD (canonical answer format)
 
-**Status:** DRAFT v0.1 (2026-10-21), under discussion. Once approved, this file replaces the format rules of SKILL.md §7.3 (Master Prompt OUTPUT ORDER) and the citation clause of §7.1(2). Content rules (sources, [SRC]/[LIT]/[RECALL], word ceilings in §7.1(3), lean mode §7.1(9)) stay in SKILL.md. Where the two disagree on FORMAT, this file wins.
+**Status:** DRAFT v0.2 (2026-10-21). **Not in force.** Answers continue to be drafted under SKILL.md §7 unchanged. This file is applied later, as a separate reformat pass, once all answers are finished. It overrides nothing until then.
 
-Items marked **OPEN** are not decided yet.
+Items marked **OPEN** are undecided.
 
 ---
+
+## 0. What applying this file does
+
+**Reformat only.** It renames and reorders headings, normalises the header block, citation style and file names, and moves audit material into one section. **The wording of answers is not changed.** Anything that would need new or removed content (a missing required section, Exam Mode over its word ceiling, confidence tags, dashes in prose) is **reported** in a per-topic list for a later decision. It is never fixed silently.
 
 ## 1. File
 
 - One question per file, inside its topic folder: `<topic>/QNN_<Short_Title>_<marks>m.md`.
-- Predicted questions: `PNN_<Short_Title>_predicted.md`. Topic audit ledgers: `A1_Audit_Ledger_<date>.md` (not answers; this standard does not apply to them).
-- **OPEN:** the root-level `draft_*.md` / `*_resolved.md` files (GIC). Move into a `gic/` folder and rename to this scheme?
+- Predicted questions: `PNN_<Short_Title>_predicted.md`.
+- Audit ledgers (`A1_Audit_Ledger_*.md`), dossiers and `_QUESTIONS.md` are not answers; this standard does not apply to them.
+- **OPEN:** the root-level GIC `draft_*.md` / `*_resolved.md` files (folder, naming, and which copy is final).
 
 ## 2. Header block (fixed lines, in this order)
 
@@ -19,47 +24,61 @@ Items marked **OPEN** are not decided yet.
 
 **Marks:** <n> (<Short Note | Short Essay | Long Essay | Essay>) — <Month Year> (<Paper code>)
 **Repeats absorbed:** "<wording>" (<n>m, <Month Year>, <code>); ... | None
-**Scope note:** <one line, only if the answer is deliberately narrowed or cross-references another file> (omit line otherwise)
-**Failure disclosure:** <numbered list of known limits: no journals read, source conflicts, [RECALL] items, page-marker caveat> | None
+**Scope note:** <one line, only if the answer is narrowed or cross-refers to another file> (omit otherwise)
+**Failure disclosure:** <numbered known limits> | None
 ```
 
-Rules: `**Marks:**` is the line `build_manifest.py` parses, so its spelling never changes. Highest-marks version is the file's marks; repeats are listed, never answered twice.
+`**Marks:**` is the line `build_manifest.py` parses; its spelling is fixed.
 
 ## 3. Sections (exact `##` headings, exact order)
 
 | # | Heading | Required? | Notes |
 |---|---|---|---|
-| 1 | `## RETRIEVAL REPORT` | always | Queries run and which books/files hit; final bullet "No usable result for: ..." |
-| 2 | `## STUDY MODE` | always | Subsections `### S1. ...`, `### S2. ...`. No word cap; length guide per §7.1(9a). |
-| 3 | `## CRITICAL EVIDENCE SYNTHESIS` | 20m and above, or any "critically" question | Heading has no suffix. Scope (claims count) goes in the first line of the body, not the heading. |
-| 4 | `## EXAM MODE` | always | First line: `**(<words> words; about <min> min at 22 words/min)**`. Must stand alone (no "see Study Mode"). Ceiling per §7.1(3). |
-| 5 | `## DIAGRAMS TO DRAW` | always (write "None needed" if none) | |
-| 6 | `## HIGH-YIELD POINTS` | always | 4 to 8 bullets. |
-| 7 | `## COMMON EXAM MISTAKES` | always | |
-| 8 | `## MNEMONIC` | always | One mnemonic, expanded. |
-| 9 | `## REFERENCES` | always | Alphabetical, full reference. Journals with DOI/PubMed link; say "abstract only" where true. |
-| 10 | `## AUDIT LOG` | when any change after first draft | Last section. Dated entries, newest last: `- 2026-10-16 (textbook audit): <what changed and why>`. |
+| 1 | `## RETRIEVAL REPORT` | yes | Queries run, files hit, final bullet "No usable result for: ..." |
+| 2 | `## STUDY MODE` | yes | `### S1. ...`, `### S2. ...` |
+| 3 | `## CRITICAL EVIDENCE SYNTHESIS` | if present | Plain heading; scope (e.g. "compressed, one claim") becomes the first body line. |
+| 4 | `## EXAM MODE` | yes | First line: `**(<words> words; about <min> min at 22 words/min)**` |
+| 5 | `## DIAGRAMS TO DRAW` | if present | |
+| 6 | `## HIGH-YIELD POINTS` | **yes** | |
+| 7 | `## COMMON EXAM MISTAKES` | **yes** | |
+| 8 | `## MNEMONIC` | if present | |
+| 9 | `## REFERENCES` | yes | Alphabetical, full reference. |
+| 10 | `## AUDIT LOG` | if any audit material exists | Always last. See §5. |
 
-Retired headings (map on migration): `SOURCE LIST` and `SOURCE LOCATORS` → `REFERENCES`; `TEXTBOOK AUDIT APPLIED (...)`, `Corrections made...`, `DIFFERENCES BETWEEN TEXTBOOKS` → `AUDIT LOG` (differences kept as text inside Study Mode); `Retrieval Report` (any case/suffix) → `RETRIEVAL REPORT`; `CRITICAL EVIDENCE SYNTHESIS (<anything>)` → plain heading; `QUESTION (...)` headers → header block.
+A required section that is missing is reported, not written.
 
-## 4. Citations and tags
+## 4. Heading map (old → canonical)
 
-- In-text author-year only: `(McCabe and Walls, 2008)`, `(Mount et al, 2016)`, multiple separated by `;`. No `[SRC:A13]`, no `[n, p.X]`.
-- Every cited work appears in REFERENCES; nothing in REFERENCES is uncited.
-- `[RECALL]` for unverified memory, never with author, year, edition or page.
-- Confidence tags `[Certain]` / `[Likely]` / `[Guessing]`. **OPEN:** on every claim, or only on claims that are not directly sourced?
-- Source disagreements are shown side by side with each book named, never smoothed.
+| Found in files | Becomes |
+|---|---|
+| `Retrieval Report`, `Retrieval Report — AUDITED ...` | `RETRIEVAL REPORT` (suffix text moves to AUDIT LOG) |
+| `CRITICAL EVIDENCE SYNTHESIS (<anything>)`, `(6A)` etc. | `CRITICAL EVIDENCE SYNTHESIS` (sub-parts become `###`) |
+| `SOURCE LIST` | `REFERENCES` |
+| `SOURCE LOCATORS` | `### Source locators` inside AUDIT LOG |
+| `TEXTBOOK AUDIT APPLIED (...)`, `Corrections made ...`, `Known gaps ...`, `Not yet drafted` | `### <date> <original title>` inside AUDIT LOG |
+| `DIFFERENCES BETWEEN TEXTBOOKS` | **OPEN:** AUDIT LOG, or `###` inside STUDY MODE (it is answer content) |
+| `QUESTION (<marks>, <type>)` | header block lines |
+| any other unknown `##` | reported |
 
-## 5. Style
+## 5. AUDIT LOG layout
 
-- No em or en dashes in prose (the `—` in the Marks line is the one exception). **OPEN:** confirm, and whether existing files get swept.
-- British spelling (existing files use it).
-- Exam Mode uses `###` sub-headings, short paragraphs and lists; tables allowed if they convert in `md2docx.py`.
+```
+## AUDIT LOG
+### Source locators
+- <file>, <PDF page marker>: "<quote under 12 words>"
+### 2026-10-16 Textbook audit applied
+<original text, unchanged>
+```
 
-## 6. Validation
+Source locators first, then dated entries, oldest first.
 
-`tools/check_answer.py` (to be written) fails a file if: header lines missing or misordered; a required section missing; sections out of order; an unknown `##` heading; Exam Mode word count above the ceiling for its marks; an in-text citation absent from REFERENCES.
+## 6. Citations and tags
 
-## 7. Migration
+- In-text author-year: `(McCabe and Walls, 2008)`, `(Mount et al, 2016)`, multiple separated by `;`.
+- Old `[SRC:A13]` style: **OPEN** (converting needs a lookup table, which is close to a content edit).
+- `[RECALL]` for unverified memory, never with bibliographic detail.
+- `[Certain]` / `[Likely]` / `[Guessing]` only on claims without a citation. Not enforced by the reformat pass; reported only.
 
-Structure-only, topic by topic, one commit per topic: rename/reorder headings, move audit notes into AUDIT LOG, merge SOURCE LOCATORS into REFERENCES. Wording of answers is not touched. Files over the word ceiling are reported, not trimmed, unless you say otherwise.
+## 7. Report produced per topic when applied
+
+Missing required sections; Exam Mode over the §7.1(3) ceiling; unknown headings; in-text citations missing from REFERENCES; leftover `[SRC:...]` tags; files that could not be mapped automatically.
