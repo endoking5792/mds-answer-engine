@@ -2,6 +2,13 @@
 
 # HANDOFF: MDS theory answers — most recently FINISHED topic "Smart Materials" (4 questions: CD 10m, CD 100m, RA 25m, Endo 100m — first-draft complete, no textbook audit pending since all four answers are literature-only, 2026-10-15)
 
+
+## Status (2026-10-21, microleakage topic): CANONICAL REWRITE + FULL TEXTBOOK AUDIT DONE; 9 answers in `microleakage/`, Answer Bank republished (v47)
+- First topic written to `ANSWER_STANDARD.md` v0.3. The 11 old Answer Bank files became 9: Q5+Q6 merged (10m) and Q7+Q9 merged (5m). Composites Q12, Composites Q20 and Obturation Q13 duplicate these questions; the microleakage files are now the master, and those three should become pointers later.
+- Method: 7 readers covered all of `mds-textbooks` (548 facts); 2 verifiers checked 143 old citations (113 confirmed, 7 wrong, 3 not found, about 12 wrong pages); 9 writers, 9 independent checkers and 9 fixers. Dossiers are kept in the session scratchpad only (copyrighted quotes).
+- Errors fixed: GIC isolation is 30 min, not 24 h; bacteria under 1 µm vs a gap over 10 µm; micro-CT is not in Sikri; the Sikri page offset is +19; Summitt pages were off by one.
+- New prompt rules: SKILL.md §7.4. Not yet done: copy SKILL.md back to the Mac; vault and OneDrive .docx.
+
 ## Status (2026-10-18, endodontic_microbiology topic): FIRST DRAFT of 20 answers in `endodontic_microbiology/` (Roseline); NOT audited; published to the Answer Bank 2026-10-18
 
 - **Files:** Q01-Q20 plus `_QUESTIONS.md`; Q13-Q20 added 2026-10-18 (biofilms and apical periodontitis, tissue reaction to bacteria, flora and control, three essays assembled from the shorter answers: Q16 50m, Q17 50m, Q18 100m, Q19 50m methods of detection, Q20 20m) (question map, repeats absorbed, questions not yet drafted). Section 7 format: Study Mode, compressed synthesis, Exam Mode with word counts, source locators (PDF page markers) from the chapterwise Markdown textbooks in `dental-study-material/textbooks`.
