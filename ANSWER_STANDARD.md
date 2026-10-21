@@ -1,8 +1,8 @@
 # ANSWER STANDARD (canonical answer format)
 
-**Status:** DRAFT v0.2 (2026-10-21). **Not in force.** Answers continue to be drafted under SKILL.md §7 unchanged. This file is applied later, as a separate reformat pass, once all answers are finished. It overrides nothing until then.
+**Status:** DRAFT v0.3 (2026-10-21). **Not in force.** Answers continue to be drafted under SKILL.md §7 unchanged. This file is applied later, as a separate reformat pass, once all answers are finished. It overrides nothing until then.
 
-Items marked **OPEN** are undecided.
+No open items remain.
 
 ---
 
@@ -15,7 +15,8 @@ Items marked **OPEN** are undecided.
 - One question per file, inside its topic folder: `<topic>/QNN_<Short_Title>_<marks>m.md`.
 - Predicted questions: `PNN_<Short_Title>_predicted.md`.
 - Audit ledgers (`A1_Audit_Ledger_*.md`), dossiers and `_QUESTIONS.md` are not answers; this standard does not apply to them.
-- **OPEN:** the root-level GIC `draft_*.md` / `*_resolved.md` files (folder, naming, and which copy is final).
+- Root-level GIC files: `*_resolved.md` is the final version of each answer; `draft_*.md` are stale copies. On applying, the resolved files move to `gic/` and are renamed to this scheme; the `draft_*.md` copies are deleted.
+- A question that exists in several marks versions is one file, named by its highest marks; the other versions are listed under `**Repeats absorbed:**`.
 
 ## 2. Header block (fixed lines, in this order)
 
@@ -56,7 +57,7 @@ A required section that is missing is reported, not written.
 | `SOURCE LIST` | `REFERENCES` |
 | `SOURCE LOCATORS` | `### Source locators` inside AUDIT LOG |
 | `TEXTBOOK AUDIT APPLIED (...)`, `Corrections made ...`, `Known gaps ...`, `Not yet drafted` | `### <date> <original title>` inside AUDIT LOG |
-| `DIFFERENCES BETWEEN TEXTBOOKS` | **OPEN:** AUDIT LOG, or `###` inside STUDY MODE (it is answer content) |
+| `DIFFERENCES BETWEEN TEXTBOOKS` | `### Differences between textbooks`, last subsection of STUDY MODE (answer content, not audit) |
 | `QUESTION (<marks>, <type>)` | header block lines |
 | any other unknown `##` | reported |
 
@@ -75,10 +76,10 @@ Source locators first, then dated entries, oldest first.
 ## 6. Citations and tags
 
 - In-text author-year: `(McCabe and Walls, 2008)`, `(Mount et al, 2016)`, multiple separated by `;`.
-- Old `[SRC:A13]` style: **OPEN** (converting needs a lookup table, which is close to a content edit).
+- Old `[SRC:A13]` style is converted to author-year using the dossier/`refs_meta.json` lookup; any tag that cannot be resolved is left as is and reported.
 - `[RECALL]` for unverified memory, never with bibliographic detail.
 - `[Certain]` / `[Likely]` / `[Guessing]` only on claims without a citation. Not enforced by the reformat pass; reported only.
 
 ## 7. Report produced per topic when applied
 
-Missing required sections; Exam Mode over the §7.1(3) ceiling; unknown headings; in-text citations missing from REFERENCES; leftover `[SRC:...]` tags; files that could not be mapped automatically.
+Missing required sections; Exam Mode over the §7.1(3) ceiling; unknown headings; in-text citations missing from REFERENCES; unresolved `[SRC:...]` tags; files that could not be mapped automatically.
