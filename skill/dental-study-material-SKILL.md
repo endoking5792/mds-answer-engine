@@ -447,3 +447,15 @@ Only when I explicitly ask. Generate per-question DOCX files, then assemble on r
 
 FINAL CHECK (silent)
 Question wording and marks exact. Every citation traceable to [SRC] or [LIT]. No numbers or bibliographic details attached to [RECALL]. Retrieval failures disclosed. Synthesis scaled to marks. Exam Mode within length ceiling. Study and Exam overlap under 30 percent. Laboratory evidence not presented as clinical. Disagreement preserved, not smoothed.
+
+### 7.4 Source-verification rules (added 2026-10-21, from the microleakage audit)
+1. **Locators** use the file that exists in `mds-textbooks`: `<repo file> | ===== PAGE n ===== marker (or <!-- PDF page n --> in endo folders) | quote under 12 words`. Never cite chapterwise files that are not in that repo.
+2. **Pages:** cite the PDF marker. Give a printed page only if it was read from that page's own running header or folio; offsets are not constant within many books (Sikri TCRD +19; Goldstein, Marzouk, Shama Bhat, Craig 11th drift).
+3. **Units:** the extraction drops the micro sign ("10 m"). Every µm/nm/mm value is checked against context or the PDF, or tagged [Likely].
+4. **Numbers:** a phrase match is not a check. Compare every number in a claim to the book separately (e.g. GIC isolation 30 min vs solubility 24 h; bacteria <1 µm vs gap >10 µm).
+5. **Search:** use `grep -a` (some files contain NUL bytes and read as binary). Ignore hits inside reference lists/bibliographies.
+6. **Editions:** cite only editions present in `mds-textbooks`. If an older edition is quoted from memory or an old copy, say so and give what the repo edition says.
+7. **Consistency:** a claim repeated in Study Mode, Exam Mode and High-Yield must say the same thing in each; check before finishing.
+8. **Readers:** when fanning out to readers, group by question (after a grep census of which books hit), not by book type.
+9. **Audit working files** (dossiers, reader reports) quote copyrighted text: keep them in the session scratchpad or the private `mds-textbooks` repo, never in this public repo.
+10. **Repo first:** every finished answer is committed to this repo before it is published to the Answer Bank.
