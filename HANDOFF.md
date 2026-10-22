@@ -1,5 +1,7 @@
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
+## Status (2026-10-22, endo_perio topic): FIRST DRAFT COMPLETE. 10 repository answers + 3 predicted in `endo_perio/`, all within Section 7 lengths. Read `endo_perio/HANDOFF_endo_perio.md` (file table, offsets, open points). Nothing published.
+
 ## Status (2026-10-18, surgical_endodontics topic): FIRST DRAFT COMPLETE, committed, pushed, and PUBLISHED to the Answer Bank (2026-10-18)
 14 repository answers + 3 predicted in `surgical_endo/` (read `surgical_endo/HANDOFF_surgical_endo.md` for the file table, sources read, author-level source conflicts and open points). Q06-Q14 and P1-P3 were drafted in the second session; citations are by chapter author; PubMed was abstract-level only. Ingle's Ch.24 chapter authors were decoded from a garbled line and need checking against the printed book. Vault .docx not built. Answer Bank: Version 35, manifest 283 -> 300 entries (17 new under Endodontics > Surgical Endodontics), no live entry lost (publish_guard merge; verify run on the manifest, file count checked from the version header). Copied to the Obsidian vault consolidated folder; vault manifest/index not regenerated (Rule 7).
 
