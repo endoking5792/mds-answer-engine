@@ -9,3 +9,6 @@ __pycache__/
 *.pyc
 # Textbook and guideline text extracted for audit (copyrighted; never commit)
 traumatic_dental_injuries/sources/
+# Endo-perio source text and PDFs (copyrighted; never commit)
+endo_perio/sources/
+endo_perio/_dossier.md
