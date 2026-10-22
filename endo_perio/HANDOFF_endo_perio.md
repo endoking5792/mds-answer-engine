@@ -31,3 +31,5 @@
 4. The 2017 grades (Table 6) have no validation study in the sources read; stated as consensus.
 5. Cohen's Table 25.2 (differential diagnosis) is an image not captured in the extraction; Grossman's Table 20.1 used instead.
 6. PUBLISHED 2026-10-22: Answer Bank Version 49 (additive; manifest 342 -> 355, 0 lost, VERIFY OK by manifest comparison; file listing after publish not re-run). Vault: copied to `Answers/Endodontics/Endodontic-Periodontal Lesions/` and the consolidated folder (vault manifest/index not regenerated, Rule 7). OneDrive: `Endodontics_17_Endodontic_Periodontal_Lesions_Answers.docx` (13 answers, tooling comments stripped).
+
+**Canonical answers (2026-10-22):** `canonical/<name>_CANONICAL.md`, one per question, built by `build_canonical.py` (explanation then "✎ Exam core" per section; exam cores = the Exam Mode text, all within range; Q01 paragraphs imported into Q02-Q05, Q07, Q08, P2, P3 so each stands alone). Published over the same Answer Bank paths (Version 50; 355 entries, 0 lost), vault copies replaced, OneDrive .docx rebuilt from them. The Study/Exam drafts in this folder are unchanged.

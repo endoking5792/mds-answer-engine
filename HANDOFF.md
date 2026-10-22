@@ -1,5 +1,7 @@
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
+## Status (2026-10-22, canonical answers): endo_perio has 13 canonical answers (`endo_perio/canonical/`), now the published versions (Answer Bank Version 50). Smart Materials CD Q02 canonical fixed (Bruni reference, exam cores, sources) and published over the 100m path; its exam core is only 746 words against 3200-3500 (disclosed in the file; expansion needs a re-read of the 13 PDFs). Format rule recorded in SKILL.md Section 7.1 item 12.
+
 ## Status (2026-10-22, endo_perio topic): FIRST DRAFT COMPLETE. 10 repository answers + 3 predicted in `endo_perio/`, all within Section 7 lengths. Published to the Answer Bank (Version 49, manifest 342 -> 355, 0 lost); vault copies and OneDrive .docx done. Read `endo_perio/HANDOFF_endo_perio.md` (file table, offsets, open points). Nothing published.
 
 ## Status (2026-10-18, surgical_endodontics topic): FIRST DRAFT COMPLETE, committed, pushed, and PUBLISHED to the Answer Bank (2026-10-18)
