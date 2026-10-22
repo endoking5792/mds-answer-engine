@@ -30,4 +30,4 @@
 3. Harty's 7th ed year (2017) and Seltzer 2nd ed editors not verified from the files.
 4. The 2017 grades (Table 6) have no validation study in the sources read; stated as consensus.
 5. Cohen's Table 25.2 (differential diagnosis) is an image not captured in the extraction; Grossman's Table 20.1 used instead.
-6. Nothing published to the Answer Bank, vault or OneDrive yet; .docx not built.
+6. PUBLISHED 2026-10-22: Answer Bank Version 49 (additive; manifest 342 -> 355, 0 lost, VERIFY OK by manifest comparison; file listing after publish not re-run). Vault: copied to `Answers/Endodontics/Endodontic-Periodontal Lesions/` and the consolidated folder (vault manifest/index not regenerated, Rule 7). OneDrive: `Endodontics_17_Endodontic_Periodontal_Lesions_Answers.docx` (13 answers, tooling comments stripped).
