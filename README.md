@@ -4,6 +4,8 @@ Working repo for the MDS (Master of Dental Surgery) exam-answer generation proje
 
 ## What's in here
 
+- **`ANSWER_GUIDE.md`** — start here if you are drafting answers (Rosy, Medhinir, anyone new): the current canonical-answer method step by step, setup, and the worked example `procedural_errors/`.
+- **`templates/canonical_topic/`** — copy this folder for a new topic: `locators.py` (verbatim-phrase checker), `build_sources.py` (word count, source list, references), `_QUESTIONS.md` and a canonical answer skeleton.
 - **`HANDOFF.md`** — the standing status/handoff file. Read this first in any new session (local or cloud) before touching a topic. It tracks what's done, what's in progress, and lessons learned per topic.
 - **`skill/dental-study-material-SKILL.md`** — a **mirrored copy** of the governing skill that drives this whole project (study-material compilation rules + Section 7, the MDS University Theory Answer Generator rules: citation format, confidence/evidence tags, marks-based word ceilings, the standing publish step, etc.).
   - **Canonical/live copy** (on this Mac): `~/.claude/skills/dental-study-material/SKILL.md`. That's the one Claude Code actually loads when the `dental-study-material` skill is invoked locally.
