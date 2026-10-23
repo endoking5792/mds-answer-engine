@@ -1,0 +1,29 @@
+  687 |   220pp | Dentine HyperSensitivity.pdf | dense pages: [8, 9, 13, 14, 15, 17, 19, 21, 22, 28, 29, 30, 38, 40, 44, 45, 46, 52, 54, 55, 56, 57, 58, 59, 60, 72, 73, 74, 75, 76, 78, 90, 94, 95, 96, 98, 99, 104, 105, 108]
+ERR Sturdevants_Art_&_Science_of_Operative_Dentistry_2e_south_asian_compressed.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Sturdevants_Art_&_Science_of_Operative_Dentistry_2e_south_asian_compressed.pdf'.
+  130 |  1015pp | niranjan Sturdevant's Art and Science of Operative Dentistry | dense pages: [198, 275, 276, 280, 281, 283, 284, 286, 448, 548, 727, 737]
+   76 |  1145pp | Summitt's_Fundamentals_of_Operative_Dentistry_Thomas_J_Hilto | dense pages: [91, 792, 809, 812, 816, 864, 880, 1091]
+  137 |  3488pp | Cohen’s_Pathways_of_the_Pulp_12th edi_Louis_H_Berman.pdf | dense pages: [116, 252, 1732, 1733, 1848, 1849, 1850, 1870, 1881, 3010]
+   55 |  1046pp | Ingle’s Endodontics 7 .pdf | dense pages: [51, 112, 134, 183, 184, 188]
+   25 |   517pp | Grossman’s Endodontic Practice-14th.ed(1).pdf | dense pages: [128, 129]
+  148 |   882pp | Seltzer and Bender's Dental Pulp.pdf | dense pages: [288, 335, 338, 340, 342, 343, 345, 346, 365, 366, 367, 659, 660, 669, 808]
+  142 |   666pp | Textbook of Conservative & Restorative Dentistry.pdf | dense pages: [18, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 637]
+ERR Pickards Manual of Operative Dentistry 9th.ed.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Pickards Manual of Operative Dentistry 9th.ed.pdf'.
+    5 |   197pp | Pickard's_Guide_to_Minimally_Invasive_Operative_Dentistry.pd | dense pages: [53]
+ERR Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount,.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Preservation_and_Restoration_of_Tooth_Structure_Graham_J_Mount,.pdf'.
+    6 |   333pp | Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Si | dense pages: []
+   19 |   331pp | Newman_and_Carranza's_Essentials_of_Clinical_Periodontology. | dense pages: [234, 240, 273]
+   47 |   589pp | Lasers in Dentistry Current Concepts.pdf | dense pages: [233, 245, 368, 382, 532, 533]
+   18 |   268pp | Lasers in Operative Dentistry and Endodontics.pdf | dense pages: []
+ERR Modern Operative Dentistry Principles for Clinical Practice.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Modern Operative Dentistry Principles for Clinical Practice.pdf'.
+   17 |   263pp | Advanced Operative Dentistry.pdf | dense pages: [53, 55]
+   23 |   503pp | Dynamic Aspects of Dental Pulp.pdf | dense pages: [154]
+    8 |   350pp | Harty's Endodontics in Clinical Practice-7th.ed.pdf | dense pages: []
+   17 |   351pp | Craig's Restorative Dental Materials .pdf | dense pages: [118]
+ERR Philips Science of Dental Materials.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Philips Science of Dental Materials.pdf'.
+ERR Essentials of Dental Caries_ FOURTH EDITION2016.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/Essentials of Dental Caries_ FOURTH EDITION2016.pdf'.
+   11 |   718pp | Mahajan_&_Gupta_Textbook_of_Preventive.pdf | dense pages: []
+MuPDF error: format error: No default Layer config
+
+   54 |   189pp | Clinical Dental Pharmacology.pdf | dense pages: [14, 88, 89, 96, 115, 182, 186]
+ERR 2019_@dentallib_Vimal_K_Sikri_Essentials_of_Endodontics,_2nd_Ed.pdf Failed to open file '/Users/niranjan/Library/CloudStorage/OneDrive-Personal/MDS III/Textbooks/2019_@dentallib_Vimal_K_Sikri_Essentials_of_Endodontics,_2nd_Ed.pdf'.
+    6 |   320pp | Textbook of Preclinical Conservative Dentistry.pdf | dense pages: []
