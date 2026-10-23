@@ -1,0 +1,2176 @@
+
+===== PAGE 1 =====
+314  |  	
+﻿
+Dental Traumatology. 2020;36:314–330.
+wileyonlinelibrary.com/journal/edt
+ 
+Received: 19 May 2020  |  Accepted: 19 May 2020
+DOI: 10.1111/edt.12578  
+C O M P R E H E N S I V E  R E V I E W
+International Association of Dental Traumatology guidelines for 
+the management of traumatic dental injuries: 1. Fractures and 
+luxations
+Cecilia Bourguignon1
+ |   Nestor Cohenca2
+ |   Eva Lauridsen3
+ |    
+Marie Therese Flores4
+ |   Anne C. O'Connell5
+ |   Peter F. Day6
+ |   
+Georgios Tsilingaridis7,8
+ |   Paul V. Abbott9
+ |   Ashraf F. Fouad10
+ |   Lamar Hicks11 |   
+Jens Ove Andreasen12 |   Zafer C. Cehreli13 |   Stephen Harlamb14 |   Bill Kahler15
+ |   
+Adeleke Oginni16 |   Marc Semper17 |   Liran Levin18
+1Specialist Private Practice, Paris, France
+2Department of Pediatric Dentistry, University of Washington and Seattle Children's Hospital, Seattle, WA, USA
+3Resource Center for Rare Oral Diseases, Copenhagen University Hospital, Copenhagen, Denmark
+4Department of Pediatric Dentistry, Faculty of Dentistry, Universidad de Valparaíso, Valparaíso, Chile
+5Paediatric Dentitsry, Dublin Dental University Hospital, Trinity College Dublin, The University of Dublin, Dublin, Ireland
+6School of Dentistry, University of Leeds and Community Dental Service Bradford District Care NHS Trust, Leeds, UK
+7Division of Orthodontics and Pediatric Dentistry, Department of Dental Medicine, Karolinska Institutet, Huddinge, Sweden
+8Center for Pediatric Oral Health Research, Stockholm, Sweden
+9UWA Dental School, University of Western Australia, Nedlands, WA, Australia
+10Adams School of Dentistry, University of North Carolina, Chapel Hill, NC, USA
+11Division of Endodontics, University of Maryland School of Dentistry, UMB, Baltimore, MD, USA
+12Department of Oral and Maxillofacial Surgery, Resource Centre for Rare Oral Diseases, University Hospital in Copenhagen (Rigshospitalet), Copenhagen, 
+Denmark
+13Department of Pediatric Dentistry, Faculty of Dentistry, Hacettepe University, Ankara, Turkey
+14Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia
+15School of Dentistry, The University of Queensland, St Lucia, Qld, Australia
+16Faculty of Dentistry, College of Health Sciences, Obafemi Awolowo University, Ile-Ife, Nigeria
+17Specialist Private Practice, Bremen, Germany
+18Faculty of Medicine and Dentistry, University of Alberta, Edmonton, AB, Canada
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in 
+any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2020 The Authors. Dental Traumatology published by John Wiley & Sons Ltd.
+Correspondence
+Liran Levin, Chair of the IADT Guidelines 
+Committee, Faculty of Medicine & Dentistry, 
+University of Alberta, 5-468 Edmonton 
+Clinic Health Academy, 11405 - 87 Avenue 
+NW, 5th Floor, Edmonton, AB T6G 1C9, 
+Canada.
+Email: liran@ualberta.ca
+Abstract
+Traumatic dental injuries (TDIs) of permanent teeth occur frequently in children and 
+young adults. Crown fractures and luxations of these teeth are the most commonly 
+occurring of all dental injuries. Proper diagnosis, treatment planning, and follow up 
+are important for achieving a favorable outcome. Guidelines should assist dentists 
+and patients in decision making and in providing the best care possible, both effec-
+tively and efficiently. The International Association of Dental Traumatology (IADT) 
+has developed these Guidelines as a consensus statement after a comprehensive 
+
+===== PAGE 2 =====
+    |  315
+BOURGUIGNON et al.
+1 | INTRODUCTION
+The vast majority of traumatic dental injuries (TDI) occur in children 
+and teenagers where loss of a tooth has lifetime consequences. 
+Treatments for these younger age groups may be different than in 
+adults, mainly due to immature teeth and pubertal facial growth. The 
+purpose of these Guidelines is to improve management of injured 
+teeth and minimize complications resulting from trauma.
+2 | CLINICAL EXAMINATION
+Trauma involving the dento-alveolar region is a frequent occur-
+rence which can result in the fracture and displacement of teeth, 
+crushing, and/or fracturing of bone, and soft tissue injuries including 
+contusions, abrasions, and lacerations. Available current literature 
+provides protocols, methods, and documentation for the clinical as-
+sessment of traumatic dental injuries (TDI), trauma first aid, patient 
+examination, factors that affect treatment planning decisions, and 
+the importance of communicating treatment options and prognosis 
+to traumatized patients.1–3
+The combination of two different types of injuries occurring con-
+currently to the same tooth will be more detrimental than a single 
+injury, creating a negative synergistic effect. Concurrent crown frac-
+tures significantly increase the risk of pulp necrosis and infection in 
+teeth with concussion or subluxation injuries and mature root devel-
+opment.4 Similarly, crown fractures with or without pulp exposure 
+significantly increase the risk of pulp necrosis and infection in teeth 
+with lateral luxation.5,6
+Kenny et al7 have developed a core outcome set (COS) for TDIs in 
+children and adults. Outcomes were identified as recurring through-
+out the different injury types. These outcomes were then identified 
+as “generic” or “Injury-specific.” Generic outcomes are relevant to 
+all TDIs while “Injury-specific outcomes” are related to only one or 
+more specific TDIs. Additionally, the core outcome set also estab-
+lished what, how, when, and by whom these outcomes should be 
+measured (Tables 1-13).
+3 | RADIOGRAPHIC EXAMINATION
+Several conventional two-dimensional imaging projections and an-
+gulations are recommended.2,8,9 The clinician should evaluate each 
+case and determine which radiographs are required for the spe-
+cific case involved. A clear justification for taking a radiograph is 
+essential. There needs to be a strong likelihood that a radiograph 
+will provide the information that will positively influence the se-
+lection of the treatment provided. Furthermore, initial radiographs 
+are important as they provide a baseline for future comparisons at 
+follow-up examinations. The use of film holders is highly recom-
+mended to allow standardization and reproducible radiographs.
+Since maxillary central incisors are the most frequently affected 
+teeth, the radiographs listed below are recommended to thoroughly 
+examine the injured area:
+1.	 One parallel periapical radiograph aimed through the midline 
+to show the two maxillary central incisors.
+2.	 One parallel periapical radiograph aimed at the maxillary right 
+lateral incisors (should also show the right canine and central 
+incisor).
+3.	 One parallel periapical radiograph aimed at the maxillary left lat-
+eral incisor (should also show the left canine and central incisor).
+4.	 One maxillary occlusal radiograph.
+5.	 At least one parallel periapical radiograph of the lower incisors 
+centered on the two mandibular centrals. However, other ra-
+diographs may be indicated if there are obvious injuries of the 
+review of the dental literature and working group discussions. Experienced research-
+ers and clinicians from various specialties and the general dentistry community were 
+included in the working group. In cases where the published data did not appear 
+conclusive, recommendations were based on the consensus opinions of the working 
+group. They were then reviewed and approved by the members of the IADT Board 
+of Directors. These Guidelines represent the best current evidence based on litera-
+ture search and expert opinion. The primary goal of these Guidelines is to delineate 
+an approach for the immediate or urgent care of TDIs. In this first article, the IADT 
+Guidelines cover the management of fractures and luxations of permanent teeth. The 
+IADT does not, and cannot, guarantee favorable outcomes from adherence to the 
+Guidelines. However, the IADT believes that their application can maximize the prob-
+ability of favorable outcomes.
+K E Y W O R D S
+avulsion, luxation, prevention, tooth fracture, trauma
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 3 =====
+316  |    
+BOURGUIGNON et al.
+mandibular teeth (eg, similar periapical radiographs as above for 
+the maxillary teeth, mandibular occlusal radiograph).
+The radiographs aimed at the maxillary lateral incisors provide 
+different horizontal (mesial and distal) views of each incisor, as 
+well as showing the canine teeth. The occlusal radiograph pro-
+vides a different vertical view of the injured teeth and the sur-
+rounding tissues, which is particularly helpful in the detection of 
+lateral luxations, root fractures, and alveolar bone fractures.2,8,9
+The above radiographic series is provided as an example. If other 
+teeth are injured, then the series can be modified to focus on the rel-
+evant tooth/teeth. Some minor injuries, such as enamel infractions, 
+may not require all of these radiographs.
+Radiographs are necessary to make a thorough diagnosis of 
+dental injuries. Tooth root and bone fractures, for instance, may 
+occur without any clinical signs or symptoms and are frequently 
+undetected when only one radiographic view is used. Additionally, 
+patients sometimes seek treatment several weeks after the trauma 
+occurred when clinical signs of a more serious injury have subsided. 
+Thus, dentists should use their clinical judgment and weigh the ad-
+vantages and disadvantages of taking several radiographs.
+Cone beam computerized tomography (CBCT) provides en-
+hanced visualization of TDIs, particularly root fractures, crown/
+root fractures, and lateral luxations. CBCT helps to determine the 
+location, extent, and direction of a fracture. In these specific inju-
+ries, 3D imaging can be useful and should be considered, if avail-
+able.9–11 A guiding principle when considering exposing a patient 
+to ionizing radiations (eg, either 2D or 3D radiographs) is whether 
+the image is likely to change the management of the injury.
+4 | PHOTOGRAPHIC DOCUMENTATION
+The use of clinical photographs is strongly recommended for the 
+initial documentation of the injury and for follow-up examinations. 
+Photographic documentation allows monitoring of soft tissue heal-
+ing, assessment of tooth discoloration, the re-eruption of an intruded 
+tooth, and the development of infra-positioning of an ankylosed 
+tooth. In addition, photographs provide medico-legal documentation 
+that could be used in litigation cases.
+5 | PULP STATUS EVALUATION: 
+SENSIBILITY AND VITALITY TESTING
+5.1 | Sensibility tests
+Sensibility testing refers to tests (cold test and electric pulp test) 
+used to determine the condition of the pulp. It is important to un-
+derstand that sensibility testing assesses neural activity and not 
+vascular supply. Thus, this testing might be unreliable due to a 
+transient lack of neural response or undifferentiation of A-delta 
+nerve fibers in young teeth.12–14 The temporary loss of sensibility 
+is a frequent finding during post-traumatic pulp healing, especially 
+after luxation injuries.15 Thus, the lack of a response to pulp sen-
+sibility testing is not conclusive for pulp necrosis in traumatized 
+teeth.16–19 Despite this limitation, pulp sensibility testing should 
+be performed initially and at each follow-up appointment in order 
+to determine if changes occur over time. It is generally accepted 
+that pulp sensibility testing should be done as soon as practical to 
+establish a baseline for future comparison testing and follow up. 
+Initial testing is also a good predictor for the long-term prognosis 
+of the pulp.12–15,20
+5.2 | Vitality tests
+The use of pulse oximetry, which measures actual blood flow rather 
+than the neural response, has been shown to be a reliable non-
+invasive and accurate way of confirming the presence of a blood 
+supply (vitality) in the pulp.14,21 The current use of pulse oximetry is 
+limited due to the lack of sensors specifically designed to fit dental 
+dimensions and the lack of power to penetrate through hard dental 
+tissues.
+Laser and ultrasound Doppler flowmetry are promising technol-
+ogies to monitor pulp vitality.
+6 | STABILIZATION/SPLINTING: TYPE 
+AND DURATION
+Current evidence supports short-term, passive, and flexible splints 
+for splinting of luxated, avulsed, and root-fractured teeth. In the case 
+of alveolar bone fractures, splinting of the teeth may be used for 
+bone segment immobilization. When using wire-composite splints, 
+physiological stabilization can be obtained with stainless steel wire 
+up to 0.4 mm in diameter.22 Splinting is considered best practice in 
+order to maintain the repositioned tooth in its correct position and 
+to favor initial healing while providing comfort and controlled func-
+tion.23–25 It is critically important to keep composite and bonding 
+agents away from the gingiva and proximal areas to avoid plaque 
+retention and secondary infection. This allows better healing of the 
+marginal gingiva and bone. Splinting time (duration) will depend on 
+the injury type. Please see the recommendations for each injury type 
+(Tables 1-13).
+7 | USE OF ANTIBIOTICS
+There is limited evidence for the use of systemic antibiotics in the 
+emergency management of luxation injuries and no evidence that 
+antibiotics improve the outcomes for root-fractured teeth. Antibiotic 
+use remains at the discretion of the clinician as TDIs are often ac-
+companied by soft tissue and other associated injuries, which may 
+require other surgical intervention. In addition, the patient's medical 
+status may warrant antibiotic coverage.26,27
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 4 =====
+    |  317
+BOURGUIGNON et al.
+8 | PATIENT INSTRUCTIONS
+Patient compliance with follow-up visits and home care contribute to 
+better healing following a TDI. Both patients and parents or guard-
+ians should be advised regarding care of the injured tooth/teeth and 
+tissues for optimal healing, prevention of further injury by avoidance 
+of participation in contact sports, meticulous oral hygiene, and rinsing 
+with an antibacterial agent such as chlorhexidine gluconate 0.12%.
+9 | FOLLOW UPS AND DETECTION OF 
+POST-TRAUMATIC COMPLICATIONS
+Follow ups are mandatory after traumatic injuries. Each follow 
+up should include questioning of the patient about any signs or 
+symptoms, plus clinical and radiographic examinations and pulp 
+sensibility testing. Photographic documentation is strongly rec-
+ommended. The main post-traumatic complications are as fol-
+lows: pulp necrosis and infection, pulp space obliteration, several 
+types of root resorption, breakdown of marginal gingiva and 
+bone. Early detection and management of complications im-
+proves prognosis.
+10 | STAGE OF ROOT DEVELOPMENT—
+IMMATURE (OPEN APEX) VS MATURE 
+(CLOSED APEX) PERMANENT TEETH
+Every effort should be made to preserve the pulp, in both mature 
+and immature teeth. In immature permanent teeth, this is of utmost 
+importance in order to allow continued root development and apex 
+formation. The vast majority of TDIs occur in children and teenag-
+ers, where loss of a tooth has lifetime consequences. The pulp of 
+an immature permanent tooth has considerable capacity for heal-
+ing after a traumatic pulp exposure, luxation injury, or root fracture. 
+Pulp exposures secondary to TDIs are amenable to conservative 
+pulp therapies, such as pulp capping, partial pulpotomy, shallow or 
+partial pulpotomy, and cervical pulpotomy, which aim to maintain 
+the pulp and allow for continued root development.28–31 In addition, 
+emerging therapies have demonstrated the ability to revascularize/
+revitalize teeth by attempting to create conditions allowing for tissue 
+in-growth into the root canals of immature permanent teeth with 
+necrotic pulps.32–37
+11 | COMBINED INJURIES
+Teeth frequently sustain a combination of several injuries. Studies 
+have demonstrated that crown-fractured teeth, with or without pulp 
+exposure and with a concomitant luxation injury, experience a greater 
+frequency of pulp necrosis and infection.38 Mature permanent teeth 
+that sustain a severe TDI after which pulp necrosis and infection is 
+anticipated are amenable to preventive endodontic treatment.
+Since prognosis is worse in combined injuries, the more frequent 
+follow-up regimen for luxation injuries prevails over the less fre-
+quent regime for fractures.
+12 | PULP CANAL OBLITERATION
+Pulp canal obliteration (PCO) occurs more frequently in teeth with 
+open apices which have suffered a severe luxation injury. It usu-
+ally indicates the presence of viable tissue within the root canal. 
+Extrusion, intrusion, and lateral luxation injuries have high rates of 
+PCO.39,40 Subluxated and crown-fractured teeth also may exhibit 
+PCO, although with lower frequency.41 Additionally, PCO is a com-
+mon occurrence following root fractures.42,43
+13 | ENDODONTIC CONSIDERATIONS 
+FOR LUXATED AND FRACTURED TEETH
+13.1 | Fully developed teeth (mature teeth with 
+closed apex)
+The pulp may survive after the trauma, but early endodontic treat-
+ment is typically advisable for fully developed teeth that have been 
+intruded, severely extruded, or laterally luxated. Calcium hydrox-
+ide is recommended as an intra-canal medicament to be placed 
+1-2 weeks after trauma for up to 1 month followed by root canal fill-
+ing.44 Alternately, a corticosteroid/antibiotic paste can be used as 
+an anti-inflammatory and anti-resorptive intra-canal medicament 
+to prevent external inflammatory (infection-related) resorption. If 
+such a paste is used, it should be placed immediately (or as soon as 
+possible) following repositioning of the tooth and then left in situ 
+for at least 6 weeks.45–48 Medicaments should be carefully applied 
+within the root canal system while avoiding contact with the access 
+cavity walls due to possible discoloration of the crown.48
+13.2 | Incompletely developed teeth (immature 
+teeth with open apex)
+The pulp of fractured and luxated immature teeth may survive and 
+heal, or there may be spontaneous pulp revascularization follow-
+ing luxation. Thus, root canal treatment should be avoided unless 
+there is clinical or radiographic evidence of pulp necrosis or peria-
+pical infection on follow-up examinations. The risk of infection-re-
+lated (inflammatory) root resorption should be weighed against the 
+chances of obtaining pulp space revascularization. Such resorption 
+is very rapid in children. Hence, regular follow ups are mandatory 
+so root canal treatment can be commenced as soon as this type of 
+resorption is detected (see below). Incompletely developed teeth 
+that have been intruded and also have a crown fracture (combined 
+traumatic injuries) are at higher risk of pulp necrosis and infection 
+and, therefore, immediate or early root canal treatment might be 
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 5 =====
+318  |    
+BOURGUIGNON et al.
+considered in these cases. Other endodontic treatment of teeth 
+with incompletely developed roots may involve apexification or 
+pulp space revascularization/revitalization techniques.
+13.3 | Endodontic treatment for external 
+inflammatory (infection-related) root resorption
+Whenever there is evidence of infection-related (inflammatory) 
+external resorption, root canal treatment should be initiated im-
+mediately. The canal should be medicated with calcium hydrox-
+ide.49 The calcium hydroxide should be placed for 3  weeks and 
+replaced every 3 months until the radiolucencies of the resorptive 
+lesions disappear. Final obturation of the root canal can be per-
+formed when bone repair is visible radiographically.
+13.4 | Dental dam field isolation during 
+endodontic treatment
+Endodontic treatment should always be undertaken under dental 
+dam isolation. The dental dam retainer can be applied on one or more 
+neighboring teeth to avoid further trauma to the injured tooth/teeth 
+and to prevent the risk of fracturing an immature tooth. Dental floss 
+or other stabilizing cords may also be used instead of metal retainers.
+14 | CORE OUTCOME SET
+The International Association for Dental Traumatology (IADT) recently 
+developed a core outcome set (COS) for traumatic dental injuries 
+(TDIs) in children and adults.7 This is one of the first COS developed 
+in dentistry and is underpinned by a systematic review of the out-
+comes used in the trauma literature and follows a robust consensus 
+methodology. Some outcomes were identified as recurring through-
+out the different injury types. These outcomes were then identified 
+as “generic” (ie, relevant to all TDIs). Injury-specific outcomes were 
+also determined as those outcomes related only to one or more indi-
+vidual TDIs. Additionally, the study established what, how, when, and 
+by whom these outcomes should be measured. Table 2 in the General 
+Introduction section66 of the Guidelines shows the generic and injury-
+specific outcomes to be recorded at the follow-up review appoint-
+ments recommended for the different traumatic injuries. Further 
+information for each outcome is described in the original article.7
+15 | ADDITIONAL RESOURCES
+Besides the general recommendations above, clinicians are encour-
+aged to access the IADT’s official publication, the journal Dental 
+Traumatology, the IADT website (www.iadt-denta​ltrau​ma.org), the 
+free ToothSOS app and the Dental Trauma Guide (www.denta​ltrau​
+magui​de.org).
+TA B LE 1 Permanent teeth: Treatment guidelines for enamel infractions
+Enamel infraction
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable 
+outcomes
+Unfavorable 
+outcomes
+An incomplete fracture 
+(crack or crazing) of 
+the enamel, without 
+loss of tooth structure
+•	 No sensitivity to percussion 
+or palpation
+•	 Evaluate the tooth for a 
+possible associated luxation 
+injury or root fracture, 
+especially if tenderness is 
+observed
+•	 Normal mobility
+•	 Pulp sensibility tests usually 
+positive
+•	 No radiographic 
+abnormalities
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Additional radiographs 
+are indicated if signs 
+or symptoms of other 
+potential injuries are 
+present
+•	 In case of severe 
+infractions, etching and 
+sealing with bonding resin 
+should be considered to 
+prevent discoloration and 
+bacterial contamination of 
+the infractions.
+•	 Otherwise, no treatment 
+is necessary
+•	 No follow up is needed 
+if it is certain that 
+the tooth suffered an 
+infraction injury only
+•	 If there is an associated 
+injury such as a luxation 
+injury, that injury-
+specific follow-up 
+regimen prevails
+•	 Asymptomatic
+•	 Positive 
+response to 
+pulp sensibility 
+testing
+•	 Continued root 
+development in 
+immature teeth
+•	 Symptomatic
+•	 Pulp necrosis 
+and infection
+•	 Apical 
+periodontitis
+•	 Lack of 
+further root 
+development in 
+immature teeth
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 6 =====
+    |  319
+BOURGUIGNON et al.
+TA B LE 3 Permanent teeth: Treatment guidelines for uncomplicated crown fractures involving enamel and dentin
+Uncomplicated crown 
+fracture (enamel-
+dentin fracture)
+Clinical findings
+Imaging, radiographic assessment, 
+and findings
+Treatment
+Follow up
+Favorable outcomes
+Unfavorable 
+outcomes
+A fracture confined to 
+enamel and dentin
+without pulp exposure
+•	 Normal mobility
+•	 Pulp sensibility tests 
+usually positive
+•	 No sensitivity to 
+percussion or palpation
+•	 Evaluate the tooth for 
+a possible associated 
+luxation injury or root 
+fracture, especially if 
+tenderness is present
+•	 Enamel-dentin loss is visible.
+•	 Missing fragments should be 
+accounted for:
+-	 If fragment is missing and 
+there are soft tissue injuries, 
+radiographs of the lip and/or 
+cheek are indicated to search 
+for tooth fragments and/or 
+foreign materials
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Additional radiographs 
+are indicated if signs or 
+symptoms of other potential 
+injuries are present
+•	 If the tooth fragment is 
+available and intact, it can 
+be bonded back on to the 
+tooth. The fragment should 
+be rehydrated by soaking in 
+water or saline for 20 min 
+before bonding
+•	 Cover the exposed dentin with 
+glass-ionomer or use a bonding 
+agent and composite resin
+•	 If the exposed dentin is 
+within 0.5 mm of the pulp 
+(pink but no bleeding), place a 
+calcium hydroxide lining and 
+cover with a material such as 
+glass-ionomer
+Clinical and radiographic 
+evaluations are 
+necessary:
+•	 after 6-8 wk
+•	 after 1 y
+•	 If there is an 
+associated luxation, 
+root fracture or 
+the suspicion of an 
+associated luxation 
+injury, the luxation 
+follow-up regimen 
+prevails and should be 
+used. Longer follow 
+ups will be needed
+•	 Asymptomatic
+•	 Positive response 
+to pulp sensibility 
+testing
+•	 Good quality 
+restoration 
+Continued root 
+development in 
+immature teeth
+•	 Symptomatic
+•	 Pulp necrosis and 
+infection
+•	 Apical 
+periodontitis.
+•	 Lack of further 
+root development 
+in immature teeth
+•	 Loss of 
+restoration
+•	 Breakdown of the 
+restoration
+TA B LE 2 Permanent teeth: Treatment guidelines for uncomplicated crown fractures involving enamel only
+Uncomplicated crown 
+fracture (enamel-only 
+fracture)
+Clinical findings
+Imaging, radiographic assessment, and 
+findings
+Treatment
+Follow up
+Favorable outcomes
+Unfavorable 
+outcomes
+A coronal fracture 
+involving enamel only, 
+with loss of tooth 
+structure
+•	 Loss of enamel
+•	 No visible sign of 
+exposed dentin
+•	 Evaluate the tooth for 
+a possible associated 
+luxation injury or root 
+fracture, especially if 
+tenderness is present
+•	 Normal mobility
+•	 Pulp sensibility tests 
+usually positive
+•	 Enamel loss is visible
+•	 Missing fragments should be 
+accounted for:
+-	 If fragment is missing and there are 
+soft tissue injuries, radiographs of 
+the lip and/or cheek are indicated to 
+search for tooth fragments and/or 
+foreign materials
+•	 Recommended radiographs:
+-	 One parallel periapical radiograph
+-	 Additional radiographs are 
+indicated if signs or symptoms of 
+other potential injuries are present
+•	 If the tooth 
+fragment is 
+available, it can be 
+bonded back on to 
+the tooth
+•	 Alternatively, 
+depending on the 
+extent and location 
+of the fracture, the 
+tooth edges can 
+be smoothed, or 
+a composite resin 
+restoration placed
+Clinical and radiographic 
+evaluations are necessary:
+•	 after 6-8 wk
+•	 after 1 y
+•	 If there is an associated 
+luxation or root fracture, 
+or the suspicion of an 
+associated luxation injury, 
+the luxation follow-up 
+regimen prevails and 
+should be used. Longer 
+follow ups will be needed
+•	 Asymptomatic
+•	 Positive response 
+to pulp sensibility 
+testing
+•	 Good quality 
+restoration
+•	 Continued root 
+development in 
+immature teeth
+•	 Symptomatic
+•	 Pulp necrosis and 
+infection
+•	 Apical periodontitis
+•	 Loss of restoration
+•	 Breakdown of the 
+restoration
+•	 Lack of further root 
+development in 
+immature teeth
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 7 =====
+320  |    
+BOURGUIGNON et al.
+TA B LE 4 Permanent teeth: Treatment guidelines for complicated crown fractures
+Complicated crown 
+fracture
+(enamel-dentin fracture 
+with pulp exposure)
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable outcomes
+Unfavorable 
+outcomes
+A fracture confined to 
+enamel and dentin with 
+pulp exposure
+•	 Normal mobility
+•	 No sensitivity to 
+percussion or palpation.
+•	 Evaluate the tooth for 
+a possible associated 
+luxation injury or root 
+fracture, especially if 
+tenderness is present
+•	 Exposed pulp is 
+sensitive to stimuli (eg, 
+air, cold, sweets)
+•	 Enamel-dentin loss is 
+visible
+•	 Missing fragments should 
+be accounted for:
+-	 If fragment is missing 
+and there are soft tissue 
+injuries, radiographs of 
+the lip and/or cheek are 
+indicated to search for 
+tooth fragments and/or 
+foreign debris
+•	 Recommended 
+radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Additional radiographs 
+are indicated if signs 
+or symptoms of other 
+potential injuries are 
+present
+•	 In patients where teeth have 
+immature roots and open apices, 
+it is very important to preserve 
+the pulp. Partial pulpotomy or 
+pulp capping are recommended 
+in order to promote further root 
+development
+•	 Conservative pulp treatment (eg, 
+partial pulpotomy) is also the 
+preferred treatment in teeth with 
+completed root development
+•	 Non-setting calcium hydroxide 
+or non-staining calcium silicate 
+cements are suitable materials to 
+be placed on the pulp wound
+•	 If a post is required for crown 
+retention in a mature tooth with 
+complete root formation, root 
+canal treatment is the preferred 
+treatment
+•	 If the tooth fragment is available, 
+it can be bonded back on to the 
+tooth after rehydration and the 
+exposed pulp is treated
+•	 In the absence of an intact crown 
+fragment for bonding, cover 
+the exposed dentin with glass-
+ionomer or use a bonding agent 
+and composite resin
+Clinical and radiographic 
+evaluations are necessary:
+•	 after 6-8 wk
+•	 after 3 mo
+•	 after 6 mo
+•	 after 1 y
+•	 If there is an associated 
+luxation, root fracture 
+or the suspicion of an 
+associated luxation 
+injury, the luxation 
+follow-up regimen 
+prevails and should be 
+used. Longer follow ups 
+will be needed
+•	 Asymptomatic
+•	 Positive response 
+to pulp sensibility 
+testing
+•	 Good quality 
+restoration
+•	 Continued root 
+development in 
+immature teeth
+•	 Symptomatic
+•	 Discoloration
+•	 Pulp necrosis and 
+infection
+•	 Apical 
+periodontitis
+•	 Lack of further 
+root development 
+in immature teeth
+•	 Loss of 
+restoration
+•	 Breakdown of the 
+restoration
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 8 =====
+    |  321
+BOURGUIGNON et al.
+TA B LE 5 Permanent teeth: Treatment guidelines for uncomplicated crown-root fractures
+Uncomplicated crown-
+root fracture (crown-root 
+fracture without pulp 
+exposure)
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable 
+outcomes
+Unfavorable 
+outcomes
+A fracture involving 
+enamel, dentin and 
+cementum
+(Note: Crown-root 
+fractures typically 
+extend below the 
+gingival margin)
+•	 Pulp sensibility tests 
+usually positive
+•	 Tender to percussion.
+•	 Coronal, or mesial or 
+distal, fragment is usually 
+present and mobile
+•	 The extent of the 
+fracture (sub- or supra-
+alveolar) should be 
+evaluated
+•	 Apical extension of fracture 
+usually not visible
+•	 Missing fragments should be 
+accounted for:
+-	 If fragment is missing 
+and there are soft tissue 
+injuries, radiographs of 
+the lip and/or cheek are 
+indicated to search for 
+tooth fragments or foreign 
+debris
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Two additional radiographs 
+of the tooth taken with 
+different vertical and/or 
+horizontal angulations
+-	 Occlusal radiograph
+•	 CBCT can be considered for 
+better visualization of the 
+fracture path, its extent, and 
+its relationship to the marginal 
+bone; also, useful to evaluate 
+the crown-root ratio and to 
+help determine treatment 
+options
+•	 Until a treatment plan is finalized, 
+temporary stabilization of the loose 
+fragment to the adjacent tooth/teeth 
+or to the non-mobile fragment should 
+be attempted
+•	 If the pulp is not exposed, removal of 
+the coronal or mobile fragment and 
+subsequent restoration should be 
+considered
+•	 Cover the exposed dentin with glass-
+ionomer or use a bonding agent and 
+composite resin
+Future Treatment Options:
+•	 The treatment plan is dependent, in part, 
+on the patient's age and anticipated co-
+operation. Options include:
+•	 Orthodontic extrusion of the apical 
+or non-mobile fragment, followed by 
+restoration (may also need periodontal 
+re-contouring surgery after extrusion)
+•	 Surgical extrusion
+•	 Root canal treatment and restoration 
+if the pulp becomes necrotic and 
+infected
+•	 Root submergence
+•	 Intentional replantation with or 
+without rotation of the root
+•	 Extraction
+•	 Autotransplantation
+Clinical and 
+radiographic 
+evaluations are 
+necessary:
+•	 after 1 wk
+•	 after 6-8 wk
+•	 after 3 mo
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for 
+at least 5 ys
+•	 Asymptomatic
+•	 Positive 
+response to 
+pulp sensibility 
+testing
+•	 Continued root 
+development in 
+immature teeth
+•	 Good quality 
+restoration
+•	 Symptomatic
+•	 Discoloration
+•	 Pulp necrosis and 
+infection
+•	 Apical 
+periodontitis
+•	 Lack of further 
+root development 
+in immature teeth
+•	 Loss of 
+restoration
+•	 Breakdown of the 
+restoration
+•	 Marginal 
+bone loss and 
+periodontal 
+inflammation
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 9 =====
+322  |    
+BOURGUIGNON et al.
+TA B LE 6 Permanent teeth: Treatment guidelines for complicated crown-root fractures
+Complicated crown-root 
+fracture (crown-root fracture 
+with pulp exposure)
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable 
+outcomes
+Unfavorable 
+outcomes
+A fracture involving enamel, 
+dentin, cementum and the 
+pulp
+(Note: Crown-root fractures 
+typically extend below the 
+gingival margin)
+•	 Pulp sensibility tests 
+usually positive
+•	 Tender to percussion.
+•	 Coronal, or mesial or 
+distal, fragment is usually 
+present and mobile
+•	 The extent of the 
+fracture (sub- or supra-
+alveolar) should be 
+evaluated
+•	 Apical extension of fracture 
+usually not visible
+•	 Missing fragments should be 
+accounted for:
+-	 If fragment is missing and 
+there are soft tissue injuries, 
+radiographs of the lip and/
+or cheek are indicated to 
+search for tooth fragments 
+or foreign debris
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Two additional radiographs 
+of the tooth taken with 
+different vertical and/or 
+horizontal angulations
+-	 Occlusal radiograph
+•	 CBCT can be considered for 
+better visualization of the 
+fracture path, its extent, and 
+its relationship to the marginal 
+bone; also useful to evaluate 
+the crown-root ratio and to 
+help determine treatment 
+options
+•	 Until a treatment plan is finalized, 
+temporary stabilization of the loose 
+fragment to the adjacent tooth/teeth 
+or to the non-mobile fragment should 
+be attempted
+•	 In immature teeth with incomplete 
+root formation, it is advantageous to 
+preserve the pulp by performing a 
+partial pulpotomy. Rubber dam isolation 
+is challenging but should be tried.
+-	 Non-setting calcium hydroxide 
+or non-staining calcium silicate 
+cements are suitable materials to 
+be placed on the pulp wound
+•	 In mature teeth with complete root 
+formation, removal of the pulp is 
+usually indicated
+-	 Cover the exposed dentin with 
+glass-ionomer or use a bonding 
+agent and composite resin
+Future Treatment Options:
+•	 The treatment plan is dependent, in part, 
+on the patient's age and anticipated co-
+operation. Options include:
+•	 Completion of root canal treatment 
+and restoration
+•	 Orthodontic extrusion of the apical 
+segment (may also need periodontal 
+re-contouring surgery after extrusion)
+•	 Surgical extrusion
+•	 Root submergence
+•	 Intentional replantation with or 
+without rotation of the root
+•	 Extraction
+•	 Autotransplantation
+Clinical and 
+radiographic 
+evaluations are 
+necessary:
+•	 after 1 wk
+•	 after 6-8 wk
+•	 after 3 mo
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly 
+for at least 5 y
+•	 Asymptomatic
+•	 Continued 
+root 
+development 
+in immature 
+teeth
+•	 Good quality 
+restoration
+•	 Symptomatic
+•	 Pulp necrosis 
+and infection
+•	 Apical 
+periodontitis
+•	 Lack of 
+further root 
+development 
+in immature 
+teeth
+•	 Loss of 
+restoration
+•	 Breakdown of 
+the restoration
+•	 Marginal 
+bone loss and 
+periodontal 
+inflammation
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 10 =====
+    |  323
+BOURGUIGNON et al.
+TA B LE 7 Permanent teeth: Treatment guidelines for root fractures
+Root fracture
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable outcomes
+Unfavorable 
+outcomes
+A fracture of the root 
+involving dentin, 
+pulp and cementum.
+The fracture may be 
+horizontal, oblique 
+or a combination of 
+both.
+•	 The coronal segment 
+may be mobile and may 
+be displaced
+•	 The tooth may be 
+tender to percussion
+•	 Bleeding from the 
+gingival sulcus may be 
+seen
+•	 Pulp sensibility testing 
+may be negative 
+initially, indicating 
+transient or permanent 
+neural damage
+•	 The fracture may be 
+located at any level of 
+the root
+•	 Recommended 
+radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Two additional 
+radiographs of the 
+tooth taken with 
+different vertical 
+and/or horizontal 
+angulations
+-	 Occlusal radiograph
+•	 Root fractures may be 
+undetected without 
+additional imaging
+•	 In cases where the above 
+radiographs provide 
+insufficient information 
+for treatment planning, 
+CBCT can be considered 
+to determine the 
+location, extent and 
+direction of the fracture
+•	 If displaced, the coronal fragment should 
+be repositioned as soon as possible.
+•	 Check repositioning radiographically
+•	 Stabilize the mobile coronal segment with 
+a passive and flexible splint for 4 wk. If the 
+fracture is located cervically, stabilization 
+for a longer period of time (up to 4 mo) 
+may be needed
+•	 Cervical fractures have the potential 
+to heal. Thus, the coronal fragment, 
+especially if not mobile, should not be 
+removed at the emergency visit
+•	 No endodontic treatment should be 
+started at the emergency visit
+•	 It is advisable to monitor healing of the 
+fracture for at least one year. Pulp status 
+should also be monitored
+•	 Pulp necrosis and infection may develop 
+later. It usually occurs in the coronal 
+fragment only. Hence, endodontic 
+treatment of the coronal segment only 
+will be indicated. As root fracture lines 
+are frequently oblique, determination of 
+root canal length may be challenging. An 
+apexification approach may be needed. 
+The apical segment rarely undergoes 
+pathological changes that require treatment
+•	 In mature teeth where the cervical fracture 
+line is located above the alveolar crest and 
+the coronal fragment is very mobile, removal 
+of the coronal fragment, followed by root 
+canal treatment and restoration with a 
+post-retained crown will likely be required. 
+Additional procedures such as orthodontic 
+extrusion of the apical segment, crown 
+lengthening surgery, surgical extrusion or 
+even extraction may be required as future 
+treatment options (similar to those for 
+crown-root fractures outlined above).
+Clinical and radiographic 
+evaluations are 
+necessary:
+•	 after 4 wk S+
+•	 after 6-8 wk
+•	 after 4 mo S++
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for at 
+least 5 y
+•	 Positive response 
+to pulp sensibility 
+testing; however, 
+a false negative 
+response is 
+possible for 
+several months. 
+Endodontic 
+treatment should 
+not be started 
+solely on the basis 
+of no response to 
+pulp sensibility 
+testing
+•	 Signs of repair 
+between the 
+fractured 
+segments
+•	 Normal or slightly 
+more than 
+physiological 
+mobility of the 
+coronal fragment
+•	 Symptomatic
+•	 Extrusion and/
+or excessive 
+mobility of 
+the coronal 
+segment
+•	 Radiolucency 
+at the fracture 
+line
+•	 Pulp necrosis 
+and infection 
+with 
+inflammation 
+in the fracture 
+line
+Note: S+ = splint removal (for mid-root and apical third fractures); S++ = splint removal (for cervical third fractures).
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 11 =====
+324  |    
+BOURGUIGNON et al.
+TA B LE 8 Permanent teeth: Treatment guidelines for alveolar fractures
+Alveolar fracture
+Clinical Findings
+Imaging, radiographic assessment, 
+and findings
+Treatment
+Follow Up
+Favorable outcomes
+Unfavorable 
+outcomes
+The fracture 
+involves the 
+alveolar bone and 
+may extend to 
+adjacent bones.
+ •	The alveolar fracture is 
+complete and extends all 
+the way from the buccal 
+to the palatal bone in 
+the maxilla and from the 
+buccal to the lingual bony 
+surface in the mandible
+•	 Segment mobility and 
+displacement with several 
+teeth moving together are 
+common findings
+•	 Occlusal disturbances 
+due to displacement 
+and misalignment of the 
+fractured alveolar segment 
+are often seen
+•	 Teeth in the fractured 
+segment may not respond 
+to pulp sensibility testing
+•	 Fracture lines may be located 
+at any level, from the marginal 
+bone to the root apex
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Two additional radiographs 
+of the tooth taken with 
+different vertical and/or 
+horizontal angulations
+-	 Occlusal radiograph
+•	 In cases where the above 
+radiographs provide insufficient 
+information for treatment 
+planning, a panoramic 
+radiograph and/or CBCT can 
+be considered to determine the 
+location, extent and direction 
+of the fracture
+•	 Reposition any 
+displaced segment
+•	 Stabilize the segment 
+by splinting the teeth 
+with a passive and 
+flexible splint for 4 wk
+•	 Suture gingival 
+lacerations if present
+•	 Root canal treatment is 
+contraindicated at the 
+emergency visit
+•	 Monitor the pulp 
+condition of all teeth 
+involved, both initially 
+and at follow ups, to 
+determine if or when 
+endodontic treatment 
+becomes necessary
+ Clinical and radiographic 
+evaluations are 
+necessary:
+ •	after 4 wk S+
+•	 after 6-8 wk
+•	 after 4 mo
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for at least 
+5 y
+ Bone and soft tissue 
+healing must also be 
+monitored 
+•	 Positive response to 
+pulp sensibility testing 
+(a false negative 
+response is possible for 
+several months)
+•	 No signs of pulp necrosis 
+and infection
+•	 Soft tissue healing
+•	 Radiographic signs of 
+bone repair
+•	 Slight tenderness of 
+the bone to palpation 
+may remain at the 
+fracture line and/or on 
+mastication for several 
+months
+•	 Symptomatic
+•	 Pulp necrosis and 
+infection
+•	 Apical 
+periodontitis
+•	 Inadequate soft 
+tissue healing
+•	 Non-healing of the 
+bone fracture
+•	 External 
+inflammatory 
+(infection-related) 
+resorption
+Note: S+ = splint removal.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 12 =====
+    |  325
+BOURGUIGNON et al.
+TA B LE 9 Permanent teeth: Treatment guidelines for concussion injuries of the teeth
+Concussion
+Clinical findings
+Imaging, radiographic assessment, 
+and findings
+Treatment
+Follow up
+Favorable outcome
+Unfavorable 
+outcome
+ •	Normal mobility
+•	 The tooth is tender to 
+percussion and touch
+•	 The tooth will likely 
+respond to pulp 
+sensibility testing
+ •	No radiographic abnormalities
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Additional radiographs are 
+indicated if signs or symptoms 
+of other potential injuries are 
+present
+ •	No treatment is needed.
+•	 Monitor pulp condition 
+for at least one year, but 
+preferably longer
+ Clinical and radiographic 
+evaluations are necessary:
+•	 after 4 wk
+•	 after 1 y
+ •	Asymptomatic
+•	 Positive response to pulp 
+sensibility testing; however, 
+a false negative response is 
+possible for several months. 
+Endodontic treatment 
+should not be started solely 
+on the basis of no response 
+to pulp sensibility testing
+•	 Continued root development 
+in immature teeth
+•	 Intact lamina dura
+ •	Symptomatic
+•	 Pulp necrosis 
+and infection
+•	 Apical 
+periodontitis
+•	 No further root 
+development in 
+immature teeth
+TA B LE 10 Permanent teeth: Treatment guidelines for subluxation injuries of the teeth
+Subluxation
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable Outcome
+Unfavorable outcome
+An injury to the tooth-
+supporting structures 
+with abnormal 
+loosening, but without 
+displacement of the 
+tooth
+ 	 The tooth is tender to 
+touch or light tapping
+•	 Tooth has increased 
+mobility but is not 
+displaced
+•	 Bleeding from the 
+gingival crevice may be 
+present
+•	 The tooth may not 
+respond to pulp 
+sensibility testing 
+initially indicating 
+transient pulp damage
+•	 Radiographic appearance is 
+usually normal
+•	 Recommended radiographs:
+-	 One parallel periapical 
+radiograph
+-	 Two additional 
+radiographs of the tooth 
+taken with different 
+vertical and/or horizontal 
+angulations
+-	 Occlusal radiograph
+•	 Normally no treatment 
+is needed
+•	 A passive and flexible 
+splint to stabilize the 
+tooth for up to 2 wk may 
+be used but only if there 
+is excessive mobility or 
+tenderness when biting 
+on the tooth
+•	 Monitor the pulp 
+condition for at least 
+one year, but preferably 
+longer
+ Clinical and 
+radiographic 
+evaluations 
+are necessary:
+•	 after 2 wk S+
+•	 after 12 wk
+•	 after 6 mo
+•	 after 1 yr
+•	 Asymptomatic
+•	 Positive response to 
+pulp sensibility testing; 
+however, a false 
+negative response is 
+possible for several 
+months. Endodontic 
+treatment should not 
+be started solely on the 
+basis of no response to 
+pulp sensibility testing
+•	 Continued root 
+development in 
+immature teeth
+•	 Intact lamina dura
+•	 Symptomatic
+•	 Pulp necrosis and infection
+•	 Apical periodontitis
+•	 No further root development 
+in immature teeth
+•	 External inflammatory 
+(infection-related) resorption 
+– if this type of resorption 
+develops, root canal 
+treatment should be initiated 
+immediately, with the use 
+of calcium hydroxide as an 
+intra-canal medicament. 
+Alternatively, corticosteroid/
+antibiotic medicament can be 
+used initially, which is then 
+followed by calcium hydroxide
+Note: S+ = splint removal.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 13 =====
+326  |    
+BOURGUIGNON et al.
+TA B LE 11 Permanent teeth: Treatment guidelines for extrusive luxation injuries of the teeth
+Extrusive luxation
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable outcome
+Unfavorable outcome
+Displacement of 
+the tooth out 
+of its socket in 
+an incisal/axial 
+direction
+•	 The tooth appears 
+elongated
+•	 The tooth has 
+increased mobility
+•	 The tooth will appear 
+elongated incisally
+•	 Likely to have no 
+response to pulp 
+sensibility tests
+ •	Increased periodontal 
+ligament space both 
+apically and laterally
+•	 Tooth will not be 
+seated in its socket 
+and will appear 
+elongated incisally
+•	 Recommended 
+radiographs:
+-	 One parallel 
+periapical 
+radiograph
+-	 Two additional 
+radiographs of the 
+tooth taken with 
+different vertical 
+and/or horizontal 
+angulations
+-	 Occlusal radiograph
+ •	Reposition the tooth by gently 
+pushing It back into the tooth 
+socket under local anesthesia
+•	 Stabilize the tooth for 2 wk 
+using a passive and flexible 
+splint. If breakdown/fracture 
+of the marginal bone, splint for 
+an additional 4 wk
+•	 Monitor the pulp condition 
+with pulp sensibility tests
+•	 If the pulp becomes necrotic 
+and infected, endodontic 
+treatment appropriate to 
+the tooth's stage of root 
+development is indicated
+ Clinical and radiographic 
+evaluations are necessary:
+•	 after 2 wk S+
+•	 after 4 wk
+•	 after 8 wk
+•	 after 12 wk
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for at least 5 y
+ 
+•	 Patients (and parents, 
+where relevant) should 
+be informed to watch 
+for any unfavorable 
+outcomes and the need 
+to return to clinic if they 
+observe any 
+•	 Where unfavorable 
+outcomes are identified, 
+treatment is often 
+required. This is outside 
+the scope of these 
+guidelines. Referral to a 
+dentist with the relevant 
+expertise, training and 
+experience is advised
+ •	Asymptomatic
+•	 Clinical and radiographic 
+signs of normal or healed 
+periodontium.
+•	 Positive response to 
+pulp sensibility testing; 
+however, a false negative 
+response is possible 
+for several months. 
+Endodontic treatment 
+should not be started 
+solely on the basis of 
+no response to pulp 
+sensibility testing
+•	 No marginal bone loss
+•	 Continued root 
+development in immature 
+teeth
+•	 Symptomatic
+•	 Pulp necrosis and 
+infection
+•	 Apical periodontitis
+•	 Breakdown of marginal 
+bone
+•	 External inflammatory 
+(infection-related) 
+resorption – if this 
+type of resorption 
+develops, root canal 
+treatment should be 
+initiated immediately, 
+with the use of calcium 
+hydroxide as an intra-
+canal medicament. 
+Alternatively, 
+corticosteroid/
+antibiotic medicament 
+can be used initially, 
+which is then followed 
+by calcium hydroxide
+Note: S+ = splint removal.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 14 =====
+    |  327
+BOURGUIGNON et al.
+TA B LE 12 Permanent teeth: Treatment guidelines for lateral luxation injuries of the teeth
+Lateral luxation
+Clinical findings
+Imaging, radiographic 
+assessment, and findings
+Treatment
+Follow up
+Favorable Outcome
+Unfavorable outcome
+Displacement 
+of the tooth 
+in any lateral 
+direction, 
+usually 
+associated with 
+a fracture or 
+compression 
+of the alveolar 
+socket wall or 
+facial cortical 
+bone
+ •	The tooth is displaced, 
+usually in a palatal/
+lingual or labial 
+direction
+•	 There is usually an 
+associated fracture of 
+the alveolar bone
+•	 The tooth is frequently 
+immobile as the apex of 
+the root is “locked” in 
+by the bone fracture
+•	 Percussion will give a 
+high metallic (ankylotic) 
+sound
+•	 Likely to have no 
+response to pulp 
+sensibility tests
+ •	A widened periodontal 
+ligament space 
+which is best seen on 
+radiographs taken with 
+horizontal angle shifts 
+or occlusal exposures
+•	 Recommended 
+radiographs:
+-	 One parallel 
+periapical radiograph
+-	 Two additional 
+radiographs of the 
+tooth taken with 
+different vertical 
+and/or horizontal 
+angulations
+-	 Occlusal radiograph
+ •	Reposition the tooth digitally by 
+disengaging it from its locked position 
+and gently reposition it into its original 
+location under local anesthesia. 
+-	 Method: Palpate the gingiva to 
+feel the apex of the tooth. Use one 
+finger to push downwards over the 
+apical end of the tooth, then use 
+another finger or thumb to push 
+the tooth back into its socket
+•	 Stabilize the tooth for 4 wk using 
+a passive and flexible splint. If 
+breakdown/fracture of the marginal 
+bone or alveolar socket wall, 
+additional splinting may be required
+•	 Monitor the pulp condition with pulp 
+sensibility tests at the follow-up 
+appointments
+•	 At about 2 wk post-injury, make an 
+endodontic evaluation:
+•	 Teeth with incomplete root formation: 
+-	 Spontaneous revascularization 
+may occur.
+-	 If the pulp becomes necrotic and 
+there are signs of inflammatory 
+(infection-related) external 
+resorption, root canal treatment 
+should be started as soon as possible.
+-	 Endodontic procedures suitable for 
+immature teeth should be used
+•	 Teeth with complete root formation: 
+-	 The pulp will likely become necrotic.
+-	 Root canal treatment should be 
+started, using a corticosteroid-
+antibiotic or calcium hydroxide 
+as an intra-canal medicament 
+to prevent the development of 
+inflammatory (infection-related) 
+external resorption
+ Clinical and 
+radiographic 
+evaluations are 
+necessary:
+•	 after 2 wk
+•	 after 4 wk S+
+•	 after 8 wk
+•	 after 12 wk
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for at 
+least 5 y 
+•	 Patients (and 
+parents, where 
+relevant) should be 
+informed to watch 
+for any unfavorable 
+outcomes and the 
+need to return 
+to clinic if they 
+observe any
+•	 Where unfavorable 
+outcomes are 
+identified, 
+treatment is often 
+required. This 
+is outside the 
+scope of these 
+guidelines. Referral 
+to a dentist with 
+the relevant 
+expertise, training 
+and experience is 
+advised
+•	 Asymptomatic
+•	 Clinical and 
+radiographic signs 
+of normal or healed 
+periodontium
+•	 Positive response to 
+pulp sensibility testing; 
+however, a false 
+negative response is 
+possible for several 
+months. Endodontic 
+treatment should not 
+be started solely on the 
+basis of no response to 
+pulp sensibility testing
+•	 Marginal bone height 
+corresponds to that 
+seen radiographically 
+after repositioning
+•	 Continued root 
+development in 
+immature teeth
+ •	Symptomatic
+•	 Breakdown of 
+marginal bone
+•	 Pulp necrosis and 
+infection
+•	 Apical periodontitis
+•	 Ankylosis
+•	 External replacement 
+resorption
+•	 External inflammatory 
+(infection-related) 
+resorption
+•	 External inflammatory 
+(infection-related) 
+resorption – if this 
+type of resorption 
+develops, root 
+canal treatment 
+should be initiated 
+immediately, with 
+the use of calcium 
+hydroxide as an intra-
+canal medicament. 
+Alternatively, 
+corticosteroid/
+antibiotic medicament 
+can be used initially, 
+which is then followed 
+by calcium hydroxide
+Note: S+ = splint removal.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 15 =====
+328  |    
+BOURGUIGNON et al.
+TA B LE 13 Permanent teeth: Treatment guidelines for intrusive luxation injuries of the teeth
+Intrusive 
+luxation
+Clinical findings
+Imaging, radiographic 
+assessment, and 
+findings
+Treatment
+Follow up
+Favorable outcome
+Unfavorable
+Displacement 
+of the tooth 
+in an apical 
+direction into 
+the alveolar 
+bone
+ •	The tooth is 
+displaced axially 
+into the alveolar 
+bone
+•	 The tooth is 
+immobile
+•	 Percussion 
+will give a 
+high metallic 
+(ankylotic) sound
+•	 Likely to have no 
+response to pulp 
+sensibility tests
+ •	The periodontal 
+ligament space may 
+not be visible for all 
+or part of the root 
+(especially apically)
+•	 The cemento-
+enamel junction 
+is located more 
+apically in the 
+intruded tooth than 
+in adjacent non-
+injured teeth
+•	 Recommended 
+radiographs: 
+-	 One parallel 
+periapical 
+radiograph
+-	 Two additional 
+radiographs of 
+the tooth taken 
+with different 
+vertical and/
+or horizontal 
+angulations
+-	 Occlusal 
+radiograph
+ Teeth with incomplete root formation (immature 
+teeth):
+ 
+•	 Allow re-eruption without intervention 
+(spontaneous repositioning) for all intruded 
+teeth independent of the degree of intrusion
+•	 If no re-eruption within 4 wk, initiate 
+orthodontic repositioning
+•	 Monitor the pulp condition
+•	 In teeth with incomplete root formation 
+spontaneous pulp revascularization may occur. 
+However, if it is noted that the pulp becomes 
+necrotic and infected or that there are signs 
+of inflammatory (infection-related) external 
+resorption at follow-up appointments, root canal 
+treatment is indicated and should be started as 
+soon as possible when the position of the tooth 
+allows. Endodontic procedures suitable for 
+immature teeth should be used.
+•	 Parents must be informed about the necessity of 
+follow-up visits
+ Teeth with complete root formation (mature teeth):
+ 
+•	 Allow re-eruption without intervention if the 
+tooth is intruded less than 3 mm. If no re-
+eruption within 8 wk, reposition surgically and 
+splint for 4 wk with a passive and flexible splint 
+Alternatively, reposition orthodontically before 
+ankylosis develops
+•	 If the tooth is intruded 3-7 mm, reposition 
+surgically (preferably) or orthodontically
+•	 If the tooth is intruded beyond 7mm, reposition 
+surgically
+•	 In teeth with complete root formation, the pulp 
+almost always becomes necrotic. Root canal 
+treatment should be started at 2 wk or as soon 
+as the position of the tooth allows, using a 
+corticosteroid-antibiotic or calcium hydroxide 
+as an intra-canal medication. The purpose of 
+this treatment is to prevent the development of 
+inflammatory (infection-related) external resorption
+ Clinical and 
+radiographic 
+evaluations are 
+necessary:
+•	 after 2 wk
+•	 after 4 wk S+
+•	 after 8 wk
+•	 after 12 wk
+•	 after 6 mo
+•	 after 1 y
+•	 then yearly for at  
+least 5 y 
+•	 Patients (and 
+parents, where 
+relevant) should be 
+informed to watch 
+for any unfavorable 
+outcomes and the 
+need to return to 
+clinic if they observe 
+any
+•	 Where unfavorable 
+outcomes are 
+identified, 
+treatment is often 
+required. This is 
+outside the scope 
+of these guidelines. 
+Referral to a dentist 
+with the relevant 
+expertise, training 
+and experience is 
+advised
+•	 Asymptomatic
+•	 Tooth in place or is 
+re-erupting
+•	 Intact lamina dura
+•	 Positive response 
+to pulp sensibility 
+testing; however, 
+a false negative 
+response is possible 
+for several months. 
+Endodontic 
+treatment should 
+not be started solely 
+on the basis of no 
+response to pulp 
+sensibility testing
+•	 No signs of root 
+resorption
+•	 Continued root 
+development in 
+immature teeth
+•	 Symptomatic
+•	 Tooth locked in place/
+ankylotic tone to 
+percussion
+•	 Pulp necrosis and 
+infection
+•	 Apical periodontitis
+•	 Ankylosis
+•	 External replacement 
+resorption
+•	 External inflammatory 
+(infection-related) 
+resorption – if this type of 
+resorption develops, root 
+canal treatment should 
+be initiated immediately, 
+with the use of calcium 
+hydroxide as an intra-
+canal medicament. 
+Alternatively, 
+corticosteroid/antibiotic 
+medicament can be used 
+initially, which is then 
+followed by calcium 
+hydroxide
+Note: S+ = splint removal.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 16 =====
+    |  329
+BOURGUIGNON et al.
+CONFLICT OF INTEREST
+The authors declare there are no competing interests for the above 
+manuscript. No funding was received for the presented work. Images 
+Courtesy of the Dental Trauma Guide.
+ETHICAL STATEMENT
+No ethic approval was required for this paper.
+ORCID
+Cecilia Bourguignon 
+ https://orcid.org/0000-0003-2753-649X 
+Nestor Cohenca 
+ https://orcid.org/0000-0002-0603-5437 
+Eva Lauridsen 
+ https://orcid.org/0000-0003-0859-7262 
+Marie Therese Flores 
+ https://orcid.org/0000-0003-2412-190X 
+Anne C. O'Connell 
+ https://orcid.org/0000-0002-1495-3983 
+Peter F. Day 
+ https://orcid.org/0000-0001-9711-9638 
+Georgios Tsilingaridis 
+ https://orcid.org/0000-0001-5361-5840 
+Paul V. Abbott 
+ https://orcid.org/0000-0001-5727-4211 
+Ashraf F. Fouad 
+ https://orcid.org/0000-0001-6368-1665 
+Bill Kahler 
+ https://orcid.org/0000-0002-4181-3871 
+Liran Levin 
+ https://orcid.org/0000-0002-8123-7936 
+REFERENCES
+	 1.	 Moule A, Cohenca N. Emergency assessment and treatment plan-
+ning for traumatic dental injuries. Aust Dent J. 2016;61(Suppl 
+1):21–38.
+	 2.	 Andreasen FM, Andreasen JO, Tsukiboshi M, Cohenca N. 
+Examaination and diagnosis of dental injuries. In: Andreasen JO, 
+Andreasen FM, Andersson L, editors. Textbook and color atlas 
+of traumatic injuries to the teeth, 5th edn. Oxford, UK: Wiley 
+Blackwell; 2019. p. 295–326.
+	 3.	 Andreasen JO, Bakland L, Flores MT, Andreasen FM, Andersson 
+L. Traumatic dental injuries. A manual, 3rd edn. Chichester, UK: 
+Wiley-Blackwell; 2011.
+	 4.	 Lauridsen E, Hermann NV, Gerds TA, Ahrensburg SS, Kreiborg S, 
+Andreasen JO. Combination injuries 1. The risk of pulp necrosis in 
+permanent teeth with concussion injuries and concomitant crown 
+fractures. Dent Traumatol. 2012;28:364–70.
+	 5.	 Lauridsen E, Hermann NV, Gerds TA, Ahrensburg SS, Kreiborg S, 
+Andreasen JO. Combination injuries 2. The risk of pulp necrosis in 
+permanent teeth with subluxation injuries and concomitant crown 
+fractures. Dent Traumatol. 2012;28:371–8.
+	 6.	 Lauridsen E, Hermann NV, Gerds TA, Ahrensburg SS, Kreiborg 
+S, Andreasen JO. Combination injuries 3. The risk of pulp necro-
+sis in permanent teeth with extrusion or lateral luxation and con-
+comitant crown fractures without pulp exposure. Dent Traumatol. 
+2012;28:379–85.
+	 7.	 Kenny KP, Day PF, Sharif MO, Parashos P, Lauridsen E, Feldens CA, 
+et al. What are the important outcomes in traumatic dental injuries? 
+An international approach to the development of a core outcome 
+set. Dent Traumatol. 2018;34:4–11.
+	 8.	 Molina JR, Vann WF Jr, McIntyre JD, Trope M, Lee JY. Root frac-
+tures in children and adolescents: diagnostic considerations. Dent 
+Traumatol. 2008;24:503–9.
+	 9.	 Cohenca N, Silberman A. Contemporary imaging for the diag-
+nosis and treatment of traumatic dental injuries: a review. Dent 
+Traumatol. 2017;33:321–8.
+	10.	 Cohenca N, Simon JH, Mathur A, Malfaz JM. Clinical indications 
+for digital imaging in dento-alveolar trauma. Part 2: root resorption. 
+Dent Traumatol. 2007;23:105–13.
+	11.	 Cohenca N, Simon JH, Roges R, Morag Y, Malfaz JM. Clinical indica-
+tions for digital imaging in dento-alveolar trauma. Part 1: traumatic 
+injuries. Dent Traumatol. 2007;23:95–104.
+	12.	 Fulling HJ, Andreasen JO. Influence of maturation status and tooth 
+type of permanent teeth upon electrometric and thermal pulp test-
+ing. Scand J Dent Res. 1976;84:286–90.
+	13.	 Fuss Z, Trowbridge H, Bender IB, Rickoff B, Sorin S. Assessment 
+of reliability of electrical and thermal pulp testing agents. J Endod. 
+1986;12:301–5.
+	14.	 Gopikrishna V, Tinagupta K, Kandaswamy D. Comparison of electri-
+cal, thermal, and pulse oximetry methods for assessing pulp vitality 
+in recently traumatized teeth. J Endod. 2007;33:531–5.
+	15.	 Bastos JV, Goulart EM, de Souza Cortes MI. Pulpal response to 
+sensibility tests after traumatic dental injuries in permanent teeth. 
+Dent Traumatol. 2014;30:188–92.
+	16.	 Dummer PM, Hicks R, Huws D. Clinical signs and symptoms in pulp 
+disease. Int Endod J. 1980;13:27–35.
+	17.	 Kaletsky T, Furedi A. Reliability of various types of pulp testers as a 
+diagnostic aid. J Am Dent Assoc. 1935;22:1559–74.
+	18.	 Teitler D, Tzadik D, Eidelman E, Chosack A. A clinical evaluation of 
+vitality tests in anterior teeth following fracture of enamel and den-
+tin. Oral Surg Oral Med Oral Pathol. 1972;34:649–52.
+	19.	 Zadik D, Chosack A, Eidelman E. The prognosis of traumatized per-
+manent anterior teeth with fracture of the enamel and dentin. Oral 
+Surg Oral Med Oral Pathol. 1979;47:173–5.
+	20.	 Alghaithy RA, Qualtrough AJ. Pulp sensibility and vitality tests for 
+diagnosing pulpal health in permanent teeth: a critical review. Int 
+Endod J. 2017;50:135–42.
+	21.	 Gopikrishna V, Tinagupta K, Kandaswamy D. Evaluation of efficacy 
+of a new custom-made pulse oximeter dental probe in comparison 
+with the electrical and thermal tests for assessing pulp vitality. J 
+Endod. 2007;33:411–4.
+	22.	 Kwan SC, Johnson JD, Cohenca N. The effect of splint material and 
+thickness on tooth mobility after extraction and replantation using 
+a human cadaveric model. Dental Traumatol. 2012;28:277–81.
+	23.	 Kahler B, Heithersay GS. An evidence-based appraisal of splint-
+ing luxated, avulsed and root-fractured teeth. Dent Traumatol. 
+2008;24:2–10.
+	24.	 Oikarinen K, Andreasen JO, Andreasen FM. Rigidity of various 
+fixation methods used as dental splints. Endod Dent Traumatol. 
+1992;8:113–9.
+	25.	 Andreasen JO, Andreasen FM, Mejare I, Cvek M. Healing of 400 
+intra-alveolar root fractures. 2. Effect of treatment factors such as 
+treatment delay, repositioning, splinting type and period and antibi-
+otics. Dental Traumatol. 2004;20:203–11.
+	26.	 Hammarstrom L, Blomlof L, Feiglin B, Andersson L, Lindskog 
+S. Replantation of teeth and antibiotic treatment. Endod Dent 
+Traumatol. 1986;2:51–7.
+	27.	 Andreasen JO, Storgaard Jensen S, Sae-Lim V. The role of antibiot-
+ics in presenting healing complications after traumatic dental inju-
+ries: a literature review. Endod Topics. 2006;14:80–92.
+	28.	 Cvek M. A clinical report on partial pulpotomy and capping with 
+calcium hydroxide in permanent incisors with complicated crown 
+fracture. J Endod. 1978;4:232–7.
+	29.	 Fuks AB, Cosack A, Klein H, Eidelman E. Partial pulpotomy as a 
+treatment alternative for exposed pulps in crown- fractured perma-
+nent incisors. Endod Dent Traumatol. 1987;3:100–2.
+	30.	 Fuks AB, Gavra S, Chosack A. Long-term followup of traumatized 
+incisors treated by partial pulpotomy. Pediatr Dent. 1993;15:334–6.
+	31.	 Bimstein E, Rotstein I. Cvek pulpotomy - revisited. Dent Traumatol. 
+2016;32:438–42.
+	32.	 Chueh LH, Ho YC, Kuo TC, Lai WH, Chen YH, Chiang CP. 
+Regenerative endodontic treatment for necrotic immature perma-
+nent teeth. J Endod. 2009;35:160–4.
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+===== PAGE 17 =====
+330  |    
+BOURGUIGNON et al.
+	33.	 Hagglund M, Walden M, Bahr R, Ekstrand J. Methods for epidemio-
+logical study of injuries to professional football players: developing 
+the UEFA model. Br J Sports Med. 2005;39:340–6.
+	34.	 Huang GT. A paradigm shift in endodontic management of imma-
+ture teeth: conservation of stem cells for regeneration. J Dent. 
+2008;36:379–86.
+	35.	 Jung IY, Lee SJ, Hargreaves KM. Biologically based treatment of 
+immature permanent teeth with pulpal necrosis: a case series. J 
+Endod. 2008;34:876–87.
+	36.	 Thibodeau B, Teixeira F, Yamauchi M, Caplan DJ, Trope M. Pulp re-
+vascularization of immature dog teeth with apical periodontitis. J 
+Endod. 2007;33:680–9.
+	37.	 Trope M. Treatment of the immature tooth with a non-vital pulp and 
+apical periodontitis. Dent Clin North Am. 2010;54:313–24.
+	38.	 Robertson A, Andreasen FM, Andreasen JO, Noren JG. Long-term 
+prognosis of crown-fractured permanent incisors. The effect of 
+stage of root development and associated luxation injury. Int J 
+Paediatr Dent. 2000;10:191–9.
+	39.	 Holcomb JB, Gregory WB Jr. Calcific metamorphosis of the pulp: 
+its incidence and treatment. Oral Surg Oral Med Oral Pathol. 
+1967;24:825–30.
+	40.	 Neto JJ, Gondim JO, de Carvalho FM, Giro EM. Longitudinal clinical 
+and radiographic evaluation of severely intruded permanent inci-
+sors in a pediatric population. Dent Traumatol. 2009;25:510–4.
+	41.	 Robertson A. A retrospective evaluation of patients with uncompli-
+cated crown fractures and luxation injuries. Endod Dent Traumatol. 
+1998;14:245–56.
+	42.	 Andreasen FM, Andreasen JO, Bayer T. Prognosis of root-fractured 
+permanent incisors-prediction of healing modalities. Endod Dent 
+Traumatol. 1989;5:11–22.
+	43.	 Amir FA, Gutmann JL, Witherspoon DE. Calcific metamorphosis: a 
+challenge in endodontic diagnosis and treatment. Quintessence Int. 
+2001;32:447–55.
+	44.	 Cvek M. Prognosis of luxated non-vital maxillary incisors treated 
+with calcium hydroxide and filled with gutta percha. Endod Dent 
+Traumatol. 1992;8:45–55.
+	45.	 Abbott PV. Prevention and management of external inflammatory 
+resorption following trauma to teeth. Aust Dent J. 2016;61(Suppl. 
+1):S82–S94.
+	46.	 Bryson EC, Levin L, Banchs F, Abbott PV, Trope M. Effect of im-
+mediate intracanal placement of ledermix paste on healing of 
+replanted dog teeth after extended dry times. Dent Traumatol. 
+2002;18:316–21.
+	47.	 Chen H, Teixeira FB, Ritter AL, Levin L, Trope M. The effect of in-
+tracanal anti-inflammatory medicaments on external root resorp-
+tion of replanted dog teeth after extended extra-oral dry time. Dent 
+Traumatol. 2008;24:74–8.
+	48.	 Day PF, Gregg TA, Ashley P, Welbury RR, Cole BO, High AS, et al. 
+Periodontal healing following avulsion and replantation of teeth: A 
+multi-centre randomized controlled trial to compare two root canal 
+medicaments. Dent Traumatol. 2012;28:55–64.
+	49.	 Trope M, Moshonov J, Nissan R, Buxt P, Yesilsoy C. Short vs. Long-
+term calcium hydroxide treatment of established inflammatory 
+root resorption in replanted dog teeth. Endod Dent Traumatol. 
+1995;11:124–8.
+	50.	 Andreasen JO, Andreasen FM, Skeie A, Hjorting-Hansen E, 
+Schwartz O. Effect of treatment delay upon pulp and periodon-
+tal healing of traumatic dental injuries – a review article. Dent 
+Traumatol. 2002;18:116–28.
+	51.	 Andreasen JO, Bakland LK, Andreasen FM. Traumatic intrusion of 
+permanent teeth. Part 3. A clinical study of the effect of treatment 
+variables such as treatment delay, method of repositioning, type 
+of splint, length of splinting and antibiotics on 140 teeth. Dental 
+Traumatol. 2006;22:99–111.
+	52.	 Andreasen JO, Bakland LK, Andreasen FM. Traumatic intrusion of 
+permanent teeth. Part 2. A clinical study of the effect of preinjury 
+and injury factors, such as sex, age, stage of root development, tooth 
+location, and extent of injury including number of intruded teeth on 
+140 intruded permanent teeth. Dental Traumatol. 2006;22:90–8.
+	53.	 Andreasen JO, Bakland LK, Matras RC, Andreasen FM. Traumatic 
+intrusion of permanent teeth. Part 1. An epidemiological study of 
+216 intruded permanent teeth. Dental Traumatol. 2006;22:83–9.
+	54.	 Welbury R, Kinirons MJ, Day P, Humphreys K, Gregg TA. Outcomes 
+for root-fractured permanent incisors: a retrospective study. Ped 
+Dent. 2002;24:98–102.
+	55.	 Andreasen JO, Andreasen FM, Mejare I, Cvek M. Healing of 400 
+intra-alveolar root fractures. 1. Effect of pre-injury and injury fac-
+tors such as sex, age, stage of root development, fracture type, 
+location of fracture and severity of dislocation. Dental Traumatol. 
+2004;20:192–202.
+	56.	 Andreasen JO, Hjorting-Hansen E. Intraalveolar root frac-
+tures: radiographic and histologic study of 50 cases. J Oral Surg. 
+1967;25:414–26.
+	57.	 Cvek M, Andreasen JO, Borum MK. Healing of 208 intra-alveo-
+lar root fractures in patients aged 7–17 years. Dental Traumatol. 
+2001;17:53–62.
+	58.	 Bakland LK. Revisiting traumatic pulpal exposure: materials, 
+management principles, and techniques. Dent Clin North Am. 
+2009;53:661–73.
+	59.	 Bogen G, Kim JS, Bakland LK. Direct pulp capping with mineral 
+trioxide aggregate: an observational study. J Am Dent Assoc. 
+2008;139:305–15.
+	60.	 Cavalleri G, Zerman N. Traumatic crown fractures in permanent 
+incisors with immature roots: a follow-up study. Endod Dent 
+Traumatol. 1995;11:294–6.
+	61.	 About I, Murray PE, Franquin JC, Remusat M, Smith AJ. The effect 
+of cavity restoration variables on odontoblast cell numbers and 
+dental repair. J Dent. 2001;29:109–17.
+	62.	 Murray PE, Smith AJ, Windsor LJ, Mjor IA. Remaining dentine thick-
+ness and human pulp responses. Int Endod J. 2003;36:33–43.
+	63.	 Subay RK, Demirci M. Pulp tissue reactions to a dentin bonding 
+agent as a direct capping agent. J Endod. 2005;31:201–4.
+	64.	 Berthold C, Thaler A, Petschelt A. Rigidity of commonly used dental 
+trauma splints. Dent Traumatol. 2009;25:248–55.
+	65.	 von Arx T, Filippi A, Lussi A. Comparison of a new dental trauma 
+splint device (TTS) with three commonly used splinting techniques. 
+Dent Traumatol. 2001;17:266–74.
+	66.	 Levin L, Day P, Hicks L, O'Connell AC, Fouad AF, Bourguigon C, et al. 
+International Association of Dental Traumatology guidelines for the 
+management of traumatic dental injuries: General Introduction. 
+Dent Traumatol. 2020;36:309–13.   
+How to cite this article: Bourguignon C, Cohenca N, 
+Lauridsen E, et al. International Association of Dental 
+Traumatology guidelines for the management of traumatic 
+dental injuries: 1. Fractures and luxations. Dent Traumatol. 
+2020;36:314–330. https://doi.org/10.1111/edt.12578
+ 16009657, 2020, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/edt.12578 by Ab Shetty Memorial Institute Of Dental Sciences, Wiley Online Library on [18/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
