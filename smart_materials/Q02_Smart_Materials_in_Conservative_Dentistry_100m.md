@@ -36,7 +36,7 @@ Three independent, complementary classification axes exist in the literature, an
 
 **3.5 Smart glass-ionomer cement.** Davidson (1998) first proposed GIC's own intrinsic "intelligent" behaviour: its hydrogel structure reversibly absorbs/releases water in response to temperature and pH changes, loosely mimicking natural dentin's fluid dynamics, while sustaining a long-term, rechargeable low-level fluoride release rather than a single depleting burst (Davidson, 1998, cited in Loya et al, 2023) [LIT]. This is the field's single oldest and most clinically embedded example of a "smart" restorative material.
 
-**3.6 Smart ceramics.** Zirconia exhibits a genuinely temperature-dependent structural transformation — monoclinic at and around 95°C in its natural state, converting to tetragonal above that threshold — giving it a phase-change "smart" character distinct from conventional glass-based ceramics' disordered atomic packing (Loya et al, 2023) [LIT]. CERCON zirconium is named as a clinically marketed metal-free, high-strength, crack-resistant example used for bridges, crowns and implants (Ved et al, 2025) [LIT].
+**3.6 Smart ceramics.** Zirconia's smart behaviour is a stress-induced phase transformation. Stabilised with yttrium, calcium or cerium, its tetragonal form is retained at room temperature but is metastable: stress ahead of a crack transforms nearby grains to monoclinic, whose unit cell occupies about 4.4% more volume, and the expansion closes the crack (Badami and Ahuja, 2014) [LIT]. Glass-based ceramics, with their disordered atomic network, have no such mechanism. (Correction 2026-10-22: Maloo et al (2022) and Loya et al (2023) place the monoclinic-to-tetragonal change at about 95°C; Craig's states that monoclinic zirconia is stable at all temperatures below 1170°C (Sakaguchi et al, 2019) [SRC]. Do not reproduce the 95°C figure.) CERCON zirconium is named as a clinically marketed metal-free, high-strength, crack-resistant example used for bridges, crowns and implants (Ved et al, 2025) [LIT].
 
 **3.7 SmartPrep burs.** Polymer burs with a hardness intermediate between sound and carious dentin enable minimally invasive, self-limiting caries excavation — cutting edges deteriorate on contact with harder (sound) tissue, so the bur mechanically "senses" when to stop (Loya et al, 2023; Ved et al, 2025) [LIT]. This is a procedural/instrument-level smart adjunct rather than a restorative material per se, but is standardly classified alongside restorative smart materials in this literature.
 
@@ -68,7 +68,7 @@ Three classification axes exist and should each be stated: (1) BY STIMULUS/PROPE
 **Smart antimicrobial/antibiofilm materials**: bioactive glass ceramics (>90% biofilm reduction, bone integration), silver-nanoparticle-doped polymers (effective vs *S. mutans*/*C. albicans*, but capped at <0.3 wt% in PMMA to avoid cytotoxicity), pH-responsive chitosan coatings (acidic-biofilm-triggered release); emerging quaternary ammonium compounds, graphene oxide hybrids, 4D-printed hydrogels.
 **Bioactive-particle substrate**: silicate/phosphate/borate bioglasses, glass-ceramics, ACP, hydroxyapatite, mesoporous bioactive glasses, hybrid composites, and emerging dendrimer/peptide/enzyme/phytoderivative systems — the structural chemistry underlying most of the above "smart" ion-release behaviour.
 **Smart GIC**: Davidson's (1998) original "intelligent material" — pH/temperature-responsive hydrogel, rechargeable sustained fluoride release, the field's oldest and most clinically embedded example.
-**Smart ceramics**: zirconia's genuine monoclinic↔tetragonal phase transformation around 95°C; CERCON as a marketed metal-free, crack-resistant example.
+**Smart ceramics**: zirconia's stress-induced tetragonal→monoclinic transformation at the crack tip (about 4.4% volume expansion closes the crack; not a 95°C change — Craig's: monoclinic below 1170°C); CERCON as a marketed metal-free, crack-resistant example.
 **SmartPrep burs**: hardness intermediate between sound and carious dentin, self-limiting minimally invasive excavation.
 **Smart bonding systems and impression materials**: ACP/AgNP/DMADDM-enhanced adhesives; VPS impression material with hydrophilic, shape-memory, snap-set behaviour cutting working/setting time by ≥33%.
 
@@ -85,7 +85,7 @@ Smart materials represent conservative dentistry's shift from passive tissue rep
 - Self-healing resin (Yao 2023, original data): 10% microcapsule loading → 80.3% bacteriostasis + 66.1% self-healing, no mechanical/cytotoxicity penalty.
 - Antimicrobial platforms: BGC >90% biofilm reduction; AgNP effective but capped <0.3 wt% in PMMA (cytotoxicity trade-off); pH-responsive chitosan coatings.
 - Davidson (1998): GIC itself is the field's original "intelligent material."
-- Zirconia's monoclinic↔tetragonal phase change at ~95°C = smart ceramic behaviour.
+- Zirconia is smart because stress at a crack tip transforms metastable tetragonal grains to monoclinic (about 4.4% expansion), closing the crack; do not quote 95°C (Craig's: monoclinic below 1170°C).
 - 2026 meta-analysis (40 RCTs): 45% overall secondary-caries reduction, but GIC (RR 0.36) vs giomer (RR 1.09, NS) — "smart" ≠ automatically clinically superior.
 
 ## DIAGRAMS TO DRAW
@@ -102,7 +102,7 @@ Smart materials represent conservative dentistry's shift from passive tissue rep
 6. Forgetting to state at least two of the three classification frameworks (stimulus-based, passive/active, material-category) — a 100m essay is expected to be classification-complete.
 
 ## MNEMONIC
-**"PACS-GB"** — **P**H-triggered composites, **A**ntimicrobial nanoparticles, **C**eramics (zirconia phase change), **S**elf-healing resins, **G**IC (the original smart material), **B**onding/impression systems — six pillars of smart conservative-dentistry materials, with **G** (GIC) remembered as the one with the strongest clinical evidence behind it.
+**"PACS-GB"** — **P**H-triggered composites, **A**ntimicrobial nanoparticles, **C**eramics (zirconia transformation toughening), **S**elf-healing resins, **G**IC (the original smart material), **B**onding/impression systems — six pillars of smart conservative-dentistry materials, with **G** (GIC) remembered as the one with the strongest clinical evidence behind it.
 
 ## REFERENCES
 1. Loya PR, Nikhade PP, Paul P, Reche A. Be Smart and Active in Conservative Dentistry and Endodontics. *Cureus*. 2023 Oct 17;15(10):e47185. doi:10.7759/cureus.47185.
@@ -119,8 +119,10 @@ Smart materials represent conservative dentistry's shift from passive tissue rep
 12. Khan AA. Self-healing dental biomaterials: a narrative review. *Biomater Investig Dent*. 2025;12:288-299.
 13. Zhang J, Yang Y, Chen Y, Chen X, Li A, Wang J, Shen D, Zheng S. A review of new generation of dental restorative resin composites with antibacterial, remineralizing and self-healing capabilities. *Discover Nano*. 2024;19(1):1-24.
 14. Zailai A, Mubarki O, Alobaidan AN, et al. Clinical Efficacy of Bioactive and Smart Restorative Materials in Preventing Secondary Caries: A Systematic Review and Meta-Analysis. *Cureus*. 2026 Jan 24;18(1):e102221.
+15. Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019 (zirconia phase stability; added 2026-10-22 to correct the 95°C figure).
 
 ## SOURCE LOCATORS
+- [SRC] Craig's Restorative Dental Materials, 14th ed. — "The monoclinic form is stable at all temperatures below 1170" (verified in smart_locators.py, key cra).
 - [LIT] Yao et al, *Dent Mater* 2023;39:1040-1050 — full text extracted (PyMuPDF) from the user's supplied PDF; original experimental data (80.3% bacteriostasis, 66.1% self-healing at 10% microcapsule mass fraction).
 - [LIT] Sun et al, *Mater Today Bio* 2025/2026 — full text extracted from supplied PDF; six-category classification (sections 3.1-3.6), read in full including nano/hydrogel/natural-agent/chemical-resin/intelligent-carrier/ceramic subsections.
 - [LIT] Dascanio et al, *Dent Mater* 2026 (in press) — full text extracted; bioactive-particle platform taxonomy and the "more than a marketing concept" conclusion quoted directly.
