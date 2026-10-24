@@ -3,16 +3,16 @@
 **Marks:** 50m, Essay (raised from 25m at Niranjan's request)
 **Sitting:** 25m Nov 2021, Oct 2024 (PI 21-25). Repeats absorbed: "Write in detail on management of gingival tissues during restorative procedures." (20m Oct 2019, Mar 2021; 25m Jun 2021 Manipal); "Discuss management of Gingival tissues during Restorative procedures." (20m Nov 2020, Mar 2008); "Discuss the management of gingival tissues during definitive restorative treatment." (20m May 2014 RG); "Management of soft tissue during operative[s] procedure." (25m Oct 2024 Manipal); "Management of Gingival tissues during restorative treatment." (10m Oct 2023, Oct 2011); "Control of periodontium during restorative procedures." (10m Apr 2012); "Management of gingival tissue during restorative procedures." (5m Sep 2006; 10m Apr 1995; 7m Nov 2016 RG; 10m May 2011 RG); "Management of soft tissue during Restorative Procedures." (5m Apr 2004); "Gingival tissue management." (10m Mar 2010; 5m Feb 2005; 7m 2015 NU); "Gingival Tissue Management in Restorative Dentistry." (7m 2016 ABS); "Soft tissue management in restorative procedures." (10m Oct/Nov 2024 NU); "Soft tissue management" (10m Oct 2009 RG).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1787 words, about 81 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1941 words, about 88 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
 
-**Retrieval report.** Read in full: Sturdevant 2019 Ch.10 "Periodontology applied to operative dentistry" (Morelli and Neiva), PDF 271-279; Sikri 2017 *Indirect Restorations in Dental Practice* Ch.10, gingival retraction section, PDF 575-590; Summitt 2013 Ch.18 (Rouse), biologic principles and impression technique, PDF 948-968; Summitt Ch.15 (Overton, Hilton, LittleStar, Starr), access and isolation of cervical lesions, PDF 795-800; Goldstein 2018 Ch.41 (Goldstein, Powers, Lee), soft-tissue preparation, PDF 1315-1319; Ricketts 2011 Ch.13 (*Advanced Operative Dentistry*), gingival management, PDF 172-177. Read in part: Sturdevant Ch.8 (cervical retainer, retraction cord, dam removal; PDF 245, 254) and Ch.23 (tissue retraction for cast restorations, PDF 678-679); Summitt Ch.2 (Rose, Haveman, Davis), restoration-related periodontal health, PDF 113-114; Summitt "Cast Gold Restorations" (Fan, Stevenson, Berry), cement removal, PDF 1082. Not used: Marzouk, Valerio, the lasers book and the optional books (time; the six main chapters already covered every heading; the umbrella Q1 uses them). Live search: none run by me; the Martins et al 2020 meta-analysis is cited from the abstract opened by the lead session (DOI below). No extract was incomplete. Sikri prints an epinephrine absorption figure ("71 pg") that looks like an OCR or unit error; it is not used.
+**Retrieval report.** Added 2026-10-24 (lead session, at Niranjan's request): Marzouk Ch.20 "Techniques and rationale for control of the periodontium preparatory to cast fabrication", PDF 343-346 (printed 345-348), read in full, and the margin-location factors in his chapter on single tooth restorations and the periodontium, PDF 288-289. Read in full: Sturdevant 2019 Ch.10 "Periodontology applied to operative dentistry" (Morelli and Neiva), PDF 271-279; Sikri 2017 *Indirect Restorations in Dental Practice* Ch.10, gingival retraction section, PDF 575-590; Summitt 2013 Ch.18 (Rouse), biologic principles and impression technique, PDF 948-968; Summitt Ch.15 (Overton, Hilton, LittleStar, Starr), access and isolation of cervical lesions, PDF 795-800; Goldstein 2018 Ch.41 (Goldstein, Powers, Lee), soft-tissue preparation, PDF 1315-1319; Ricketts 2011 Ch.13 (*Advanced Operative Dentistry*), gingival management, PDF 172-177. Read in part: Sturdevant Ch.8 (cervical retainer, retraction cord, dam removal; PDF 245, 254) and Ch.23 (tissue retraction for cast restorations, PDF 678-679); Summitt Ch.2 (Rose, Haveman, Davis), restoration-related periodontal health, PDF 113-114; Summitt "Cast Gold Restorations" (Fan, Stevenson, Berry), cement removal, PDF 1082. Not used: Marzouk, Valerio, the lasers book and the optional books (time; the six main chapters already covered every heading; the umbrella Q1 uses them). Live search: none run by me; the Martins et al 2020 meta-analysis is cited from the abstract opened by the lead session (DOI below). No extract was incomplete. Sikri prints an epinephrine absorption figure ("71 pg") that looks like an OCR or unit error; it is not used.
 
 <!--LIT: Martins FV, Santana RB, Fonseca EM. J Prosthet Dent 2020 (2021;125(1):46-55), abstract only, opened by the lead session, https://doi.org/10.1016/j.prosdent.2019.09.009 -->
 
 
-<!--LOC: b_r_margin, b_rose_3, b_rose_overhang, b_rose_supra, b_rose_allergy, b_g_inflamed, b_s_sound, b_g_twoappt, b_ri_little, b_bw_def, b_bw_191, b_je114, b_ct077, b_sulc132, b_r_174, b_r_ct071, b_ri_bw3, b_violate, b_ri_reestab, b_beyond1, b_ri_05, b_r_normmarg, b_r_vary, b_r_sound, b_r_normal, b_r_85, b_r_low13, b_r_low_ret, b_r_high2, b_r_highmarg, b_3to4, b_3min, b_wagen, b_subg_more, b_biotype, b_3mm_caries, b_cl_def, b_ortho, b_gvx, b_gvx_kt, b_cl_ci, b_wedge, b_direct_soon, b_6to8wk, b_6to8mo, b_o_4to8, b_o_combined, b_o_dam, b_heavydam, b_212, b_o_212sa, b_o_compound, b_cord_direct, b_cord_excess, b_cord_early, b_noblanch, b_1mmbeyond, b_notapical, b_o_miniflap, b_o_gplasty, b_o_3mmag, b_o_rmgi, b_geristore, b_mta, b_rmgi, b_o_overhang, b_dam_remnant, b_s_def, b_s_goal, b_obj_widen, b_r_4req, b_r_horiz, b_g_crit4, b_ri_02, b_r_02, b_s_ci, b_s_noirrev, b_retr_3, b_g_five, b_s_methods, b_s_mech, b_s_twill, b_s_copper, b_ri_braided, b_s_colour, b_s_xs, b_s_xl, b_s_axial, b_thin_cord, b_r_flat15, b_r_popular, b_r_alsulf, b_r_4min, b_r_wet, b_s_hydrous, b_s_dbl_adv, b_s_dbl_rem, b_g_twocord, b_ri_beyond, b_s_alt, b_g_sever, b_r_lowcrest_ci, b_s_vaso10, b_vaso_ci, b_g_timber, b_ri_adren, b_s_alum10, b_s_alumnec, b_ri_alcl, b_r_ferric_heal, b_r_iron, b_s_fe155, b_s_festain, b_r_ferric_pe, b_g_fe_pvs, b_s_zncl, b_s_racegel, b_s_compr_alcl, b_r_latex, b_r_repeat, b_g_isch, b_g_mand, b_g_abund, b_s_esdef, b_s_es_rect, b_s_es_5s, b_s_es_metal, b_s_es_pace, b_s_es_thin, b_g_1mm, b_g_crestloss, b_s_gingitage, b_ri_burs, b_s_laser, b_g_810, b_ri_laser, b_g_sixunit, b_s_cryo, b_s_foam, b_s_foam_nohem, b_s_expasyl, b_s_exp05, b_ri_exp2, b_s_foam_multi, b_s_merocel, b_s_gingitrac, b_s_stayput, b_s_decong, b_cord_greater, b_expasyl_slow, b_foam_2mm, b_wostmann, b_nocompare, b_heals, b_prov_obs, b_prov_retr, b_prov_poor, b_prov_supra, b_r_rebound, b_marg_fit, b_s_cement, b_s_finish, b_fan_set, b_fan_floss, b_fan_subg-->
+<!--LOC: b_r_margin, b_rose_3, b_rose_overhang, b_rose_supra, b_rose_allergy, b_g_inflamed, b_s_sound, b_g_twoappt, b_ri_little, b_bw_def, b_bw_191, b_je114, b_ct077, b_sulc132, b_r_174, b_r_ct071, b_ri_bw3, b_violate, b_ri_reestab, b_beyond1, b_ri_05, b_r_normmarg, b_r_vary, b_r_sound, b_r_normal, b_r_85, b_r_low13, b_r_low_ret, b_r_high2, b_r_highmarg, b_3to4, b_3min, b_wagen, b_subg_more, b_biotype, b_3mm_caries, b_cl_def, b_ortho, b_gvx, b_gvx_kt, b_cl_ci, b_wedge, b_direct_soon, b_6to8wk, b_6to8mo, b_o_4to8, b_o_combined, b_o_dam, b_heavydam, b_212, b_o_212sa, b_o_compound, b_cord_direct, b_cord_excess, b_cord_early, b_noblanch, b_1mmbeyond, b_notapical, b_o_miniflap, b_o_gplasty, b_o_3mmag, b_o_rmgi, b_geristore, b_mta, b_rmgi, b_o_overhang, b_dam_remnant, b_s_def, b_s_goal, b_obj_widen, b_r_4req, b_r_horiz, b_g_crit4, b_ri_02, b_r_02, b_s_ci, b_s_noirrev, b_retr_3, b_g_five, b_s_methods, b_s_mech, b_s_twill, b_s_copper, b_ri_braided, b_s_colour, b_s_xs, b_s_xl, b_s_axial, b_thin_cord, b_r_flat15, b_r_popular, b_r_alsulf, b_r_4min, b_r_wet, b_s_hydrous, b_s_dbl_adv, b_s_dbl_rem, b_g_twocord, b_ri_beyond, b_s_alt, b_g_sever, b_r_lowcrest_ci, b_s_vaso10, b_vaso_ci, b_g_timber, b_ri_adren, b_s_alum10, b_s_alumnec, b_ri_alcl, b_r_ferric_heal, b_r_iron, b_s_fe155, b_s_festain, b_r_ferric_pe, b_g_fe_pvs, b_s_zncl, b_s_racegel, b_s_compr_alcl, b_r_latex, b_r_repeat, b_g_isch, b_g_mand, b_g_abund, b_s_esdef, b_s_es_rect, b_s_es_5s, b_s_es_metal, b_s_es_pace, b_s_es_thin, b_g_1mm, b_g_crestloss, b_s_gingitage, b_ri_burs, b_s_laser, b_g_810, b_ri_laser, b_g_sixunit, b_s_cryo, b_s_foam, b_s_foam_nohem, b_s_expasyl, b_s_exp05, b_ri_exp2, b_s_foam_multi, b_s_merocel, b_s_gingitrac, b_s_stayput, b_s_decong, b_cord_greater, b_expasyl_slow, b_foam_2mm, b_wostmann, b_nocompare, b_heals, b_prov_obs, b_prov_retr, b_prov_poor, b_prov_supra, b_r_rebound, b_marg_fit, b_s_cement, b_s_finish, b_fan_set, b_fan_floss, b_fan_subg, b_mz_crest, b_mz_sound, b_mz_fluid, b_mz_trough, b_mz_nodetach, b_mz_four, b_mz_phys, b_mz_healthy, b_mz_temp, b_mz_cords30, b_mz_dam, b_mz_chem, b_mz_vaso, b_mz_racemic, b_mz_coag, b_mz_nosys, b_mz_alum, b_mz_alcl, b_mz_surf, b_mz_zinc, b_mz_drawn, b_mz_ends, b_mz_packer, b_mz_static, b_mz_hydrous, b_mz_heal, b_mz_actions, b_mz_cut, b_mz_nocrest, b_mz_recess, b_mz_metal, b_mz_attach, b_mz_knife, b_mz_rule, b_mz_age, b_mz_caries, b_mz_plaque, b_mz_perio, b_mz_mat-->
 
-<!--REF: bMorelli2019, bRitter2019, bRouse2013, bOverton2013, bRose2013, bFan2013, bSikri2017, bGoldstein2018, bRicketts2011, bMartins2020-->
+<!--REF: bMorelli2019, bRitter2019, bRouse2013, bOverton2013, bRose2013, bFan2013, bSikri2017, bGoldstein2018, bRicketts2011, bMartins2020, bMarzouk-->
 
 ## 1. Introduction and pre-restorative periodontal health
 
@@ -64,6 +64,8 @@ Violating it, by placing margins within or apical to the junctional epithelium, 
 
 Safe distances: 3-4 mm from gingival margin to crest ensures healing (Morelli and Neiva, 2019) [SRC]; 3 mm is the minimum (Morelli and Neiva, 2019) [SRC]; Wagenberg suggested aiming for 5 mm from bone to margin (Morelli and Neiva, 2019) [SRC]. Subgingival margins, even without overhangs, accumulate more plaque (Morelli and Neiva, 2019) [SRC]. A thin scalloped biotype recedes after margin-induced inflammation (Morelli and Neiva, 2019) [SRC]. Q3 and Q4 cover biologic width in depth.
 
+**Marzouk: margin location is individual.** Marzouk recalls the historical rule of placing gingival margins 1-2 mm apical to the free gingival margin but says "such a rule, however, cannot be blindly" applied (Marzouk, year not printed) [SRC]. He lists the factors that decide the level: patient age and relative age of the tooth (Marzouk, year not printed) [SRC], caries rate (Marzouk, year not printed) [SRC], patient plaque control (Marzouk, year not printed) [SRC], periodontal index (Marzouk, year not printed) [SRC] and type of restorative material (Marzouk, year not printed) [SRC]. His book predates the biologic-width figures above, so it argues from clinical factors, not millimetre limits.
+
 #### ✎ Exam core
 
 **Margin placement.** Supragingival margins are preferred whenever aesthetics, retention or caries extent allow (Rose et al, 2013; Ricketts, 2011).
@@ -75,7 +77,7 @@ Safe distances: 3-4 mm from gingival margin to crest ensures healing (Morelli an
 
 **Violation** causes inflammation, attachment loss, recession or pocketing (Morelli and Neiva, 2019); the tissues re-establish the width by bone loss and recession (Ricketts, 2011).
 
-**Limit of subgingival extension** (authors differ): not deeper than 0.5 mm (Ricketts, 2011); 0.5-1.0 mm facially in a normal crest (Rouse, 2013); more than 1 mm into the sulcus is disruptive (Morelli and Neiva, 2019). At least 3 mm from the margin to the crest is needed (Morelli and Neiva, 2019).
+**Limit of subgingival extension** (authors differ): not deeper than 0.5 mm (Ricketts, 2011); 0.5-1.0 mm facially in a normal crest (Rouse, 2013); more than 1 mm into the sulcus is disruptive (Morelli and Neiva, 2019). At least 3 mm from the margin to the crest is needed (Morelli and Neiva, 2019). The level is decided case by case from patient and tooth age, caries rate, plaque control, periodontal index and restorative material (Marzouk, year not printed).
 
 **Bone sounding** gives the individual measurement (Rouse, 2013):
 
@@ -138,6 +140,23 @@ Materials near the gingiva: RMGI apically is most conducive to tissue reattachme
 
 **Definition and goal.** Gingival retraction is the process of exposing margins when making impressions of prepared teeth (Sikri, 2017) [SRC]; its goal is to displace the gingiva *reversibly* (Sikri, 2017) [SRC]. Sturdevant's objectives are to widen the sulcus for bulk of material (Ritter et al, 2019) [SRC] and to control haemorrhage and moisture. Rouse lists four requirements (Rouse, 2013) [SRC]: horizontal displacement for bulk (Rouse, 2013) [SRC], vertical displacement to expose the area apical to the finish line, arrest of bleeding, and dry tissues. Goldstein adds that the method must be as nontoxic as possible (Goldstein et al, 2018) [SRC]. A sulcus width of 0.2 mm or more is needed (Ricketts, 2011) [SRC]; Rouse quotes Laufer: no difference in distortion at 0.2 mm or greater (Rouse, 2013) [SRC]. Contraindications include poor hygiene, recession, bone loss and systemic diseases affecting gingiva (Sikri, 2017) [SRC]; retraction must cause no irreversible damage (Sikri, 2017) [SRC].
 
+**Marzouk's framework: control of the periodontium before cast restorations.** Marzouk sets prerequisites before any impression: the crest of the free gingiva at its normal position (Marzouk, year not printed) [SRC]; a periodontium that is sound or healing (Marzouk, year not printed) [SRC]; crevicular fluid and bleeding fully arrested (Marzouk, year not printed) [SRC]; a temporary trough exposing the finish line (Marzouk, year not printed) [SRC]; and all of this achieved without detachment of the epithelial attachment or periodontal ligament (Marzouk, year not printed) [SRC]. He names four means, often combined (Marzouk, year not printed) [SRC]:
+1. *Physico-mechanical*, which mechanically forces the gingiva away from the tooth (Marzouk, year not printed) [SRC] and suits only absolutely healthy gingivae (Marzouk, year not printed) [SRC]. There are three versions: a custom temporary restoration with bulky cement or pack, whose effect takes at least 24 hours (Marzouk, year not printed) [SRC]; cords forced into the sulcus, effective in 30 minutes or less (Marzouk, year not printed) [SRC]; and heavy rubber dam, which acts immediately (Marzouk, year not printed) [SRC].
+2. *Chemical*, the most universally used (Marzouk, year not printed) [SRC]. There are three groups:
+   - Vasoconstrictors such as racemic epinephrine, which restrict blood supply (Marzouk, year not printed) [SRC] but have systemic effects.
+   - Biologic fluid coagulants, safe because they induce no systemic effects (Marzouk, year not printed) [SRC]: 100% alum, 15-25% aluminium chloride, 10% aluminium potassium sulfate and 15-25% tannic acid (Marzouk, year not printed) [SRC].
+   - Surface-layer tissue coagulants (Marzouk, year not printed) [SRC] such as 8% zinc chloride and silver nitrate (Marzouk, year not printed) [SRC], which can ulcerate if overused.
+   The chemicals are carried on cords, on drawn cotton rolls (Marzouk, year not printed) [SRC] or on cotton pellets.
+   Packing rules (Marzouk, year not printed) [SRC]:
+   - Precut the cord.
+   - Use the smallest diameter first.
+   - Place the cord ends at the axial angles, not interproximally (Marzouk, year not printed) [SRC].
+   - Use a blunt, serrated packer (Marzouk, year not printed) [SRC] with steady static loading directed apically (Marzouk, year not printed) [SRC].
+   - Remove the cord in a hydrous field (Marzouk, year not printed) [SRC].
+   - Finish with a good temporary restoration for healing (Marzouk, year not printed) [SRC].
+3. *Electrosurgical*. Of the four electrode actions (Marzouk, year not printed) [SRC], cutting is the one used, being precise and bloodless (Marzouk, year not printed) [SRC]. Cut only the internal wall of the sulcus. Never involve the crest of the free gingiva (Marzouk, year not printed) [SRC], because that leads to loss of gingival height, i.e., recession (Marzouk, year not printed) [SRC]. Do not touch metallic restorations (Marzouk, year not printed) [SRC], and never approach the attaching epithelium or periodontal ligament (Marzouk, year not printed) [SRC].
+4. *Surgical*, with a sharp cold knife (Marzouk, year not printed) [SRC] for unwanted tissue or apical repositioning.
+
 **Classification.** Mechanical, chemical or surgical (Morelli and Neiva, 2019) [SRC]; Sikri lists mechanical, chemomechanical, surgical/electrosurgical and miscellaneous (Sikri, 2017) [SRC]; Goldstein lists five: cord, paste, electrosurgery, bipolar, diode laser (Goldstein et al, 2018) [SRC].
 
 **Mechanical.** For healthy gingiva with good blood supply (Sikri, 2017) [SRC]: wooden wedges, cotton twills forced into the sulcus (Sikri, 2017) [SRC], rubber dam, copper band with modelling wax (Sikri, 2017) [SRC], plain cord. Braided cord is easier than twisted, which unwinds (Ricketts, 2011) [SRC]. Colour code shows thickness (Sikri, 2017) [SRC], from black 000 extra small [SRC] to red 3 extra large [SRC]. Cord ends should fall at axial line angles (Sikri, 2017) [SRC]. Thin gingiva needs a very small cord (Ritter et al, 2019) [SRC]. Rouse warns that the primary cord can flatten the gingival architecture by up to 1.5 mm (Rouse, 2013) [SRC].
@@ -176,12 +195,14 @@ A sulcus width of at least **0.2 mm** is needed (Ricketts, 2011; Rouse, 2013).
 
 **Contraindications:** poor oral hygiene, inflamed gingiva, recession, bone loss, systemic disease affecting the gingiva (Sikri, 2017).
 
-**Classification** (Sikri, 2017): mechanical, chemomechanical, surgical, cordless (miscellaneous).
+**Prerequisites before retraction** (Marzouk, year not printed): healthy periodontium with the gingival crest at its normal level; bleeding and crevicular fluid arrested; a temporary trough exposing the finish line; no detachment of the epithelial attachment or periodontal ligament.
+
+**Classification** (Sikri, 2017): mechanical, chemomechanical, surgical, cordless (miscellaneous). Marzouk's four means: physico-mechanical, chemical, electrosurgical and surgical. His physico-mechanical group includes a custom temporary with bulky cement (at least 24 h), cords (30 min or less) and heavy rubber dam (immediate).
 
 **A. Mechanical:** plain cord, cotton twills, copper band with wax, wooden wedges, rubber dam (Sikri, 2017). Cords: twisted, braided or knitted (braided is easiest to pack: Ricketts, 2011), plain or impregnated; colour-coded from 000 (black, extra small) to 3 (red, extra large) (Sikri, 2017).
 
 **B. Chemomechanical: double-cord technique,** the most popular (Rouse, 2013):
-1. Thin dry primary cord (000/00) packed with a blunt instrument, ends meeting at the axial line angles.
+1. Thin dry primary cord (000/00), precut, packed with a blunt serrated instrument using steady apical pressure; ends at the axial angles, never interproximally (Marzouk, year not printed).
 2. Haemostatic agent applied; larger secondary cord (0/1) packed over it.
 3. Dwell time: authors differ (4 min, Rouse, 2013; 5 min, Goldstein et al, 2018; 8-10 min, Sikri, 2017).
 4. Secondary cord wetted and removed; impression with primary cord in place, which must lie apical to the margin (Ricketts, 2011).
@@ -197,10 +218,12 @@ In low or high crests use thin cords and light pressure; excessive pressure seve
 | Aluminium chloride / alum | Fluid coagulant | Least damaging, the agent of choice (Ricketts, 2011); concentrated alum causes necrosis (Sikri, 2017) |
 | Aluminium sulfate | Astringent | One of the least irritating (Rouse, 2013) |
 | Ferric sulphate | Coagulates blood | Rapid healing (Rouse, 2013); stains tissue (Sikri, 2017); inhibits polyether (Rouse, 2013) or addition silicone (Goldstein et al, 2018) |
-| Zinc chloride | Surface coagulant | Ulceration and necrosis (Sikri, 2017) |
+| Zinc chloride (8%), silver nitrate | Surface coagulant | Ulceration and necrosis (Sikri, 2017; Marzouk, year not printed) |
+
+Marzouk's fluid coagulants: 100% alum, 15-25% aluminium chloride, 10% aluminium potassium sulfate, 15-25% tannic acid, all free of systemic effects (Marzouk, year not printed).
 
 **C. Surgical**
-- **Electrosurgery:** fully rectified current, light rapid strokes with pauses of about 5 seconds, avoid metal restorations and pacemakers (Sikri, 2017); remove no more than 1 mm apical to the margin; loss of crest height is possible (Goldstein et al, 2018).
+- **Electrosurgery:** fully rectified current, light rapid strokes with pauses of about 5 seconds, avoid metal restorations and pacemakers (Sikri, 2017); cut only the inner sulcular wall and never the gingival crest, which causes recession (Marzouk, year not printed); remove no more than 1 mm apical to the margin; loss of crest height is possible (Goldstein et al, 2018).
 - **Rotary curettage (gingitage):** only with adequate gingiva and sulcus under 3 mm (Sikri, 2017); traumatic, bleeds (Ricketts, 2011).
 - **Lasers** (diode 810 nm, Nd:YAG, CO2): bloodless troughing (Goldstein et al, 2018; Sikri, 2017), though Ricketts (2011) calls them uncommon.
 - All three are contraindicated in low-crest patients (Rouse, 2013).
@@ -471,6 +494,45 @@ Sorensen's data correlate marginal discrepancy with periodontal defects (Morelli
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1082: "it is important to check the cement to ensure that it has set before the excess is removed"
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1082: "floss or yarn is used to remove interproximal excess cement"
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1082: "Cement left subgingivally can cause tissue inflammation"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "The crest of the free gingiva is at its normal healthy"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "The periodontium should be sound or undergoing healthy"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "Crevicular fluids and bleeding from the gingiva and its"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "a temporary trough (Fig. 1)"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "detachment of the apically located epithelium attachment and"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "There are four means of accomplishing these objectives"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "This constitutes mechanically forcing the gingiva away from"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "indicated for absolutely healthy gingivae"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "The use of a custom temporary restoration"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "achieved in 30 min. or less."
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "The use of heavy weight rubber dam"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "These constitute the most universally used technique"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.343 (printed p.345): "Vasoconstrictors physiologically restrict the blood supply"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "racemic epinepherine"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "Biologic fluid coagulants coagulate blood and tissue"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "insofar as they induce no systemic effects"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "the agents producing these effects are: 100% alum, 15-25%"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "aluminum chloride, 10% aluminum potassium sulfate"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "Surface layer tissue coagulants coagulate surface layer"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "of these chemicals are 8% zinc chloride and silver nitrate."
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "Soft loose cotton rolls can be readily rolled to a desired"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "The ideal location is at the axial angles of the"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "The packing instrument should be blunt, with definite"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.344 (printed p.346): "Always use steady static loading directed apically and"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.345 (printed p.347): "done in a hydrous field"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.345 (printed p.347): "For healthy healing of the peridontium a favorable"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.345 (printed p.347): "Four types of actions can be produced at the electrode end:"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.345 (printed p.347): "This is extremely precise, bloodless, with minimal tissue"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.346 (printed p.348): "Never involve the crest of the free gingiva"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.346 (printed p.348): "lead to loss of gingival height, i.e., recession."
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.346 (printed p.348): "The tooth metallic restorations should not be touched."
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.346 (printed p.348): "Never approach the attaching epithelium or periodontal"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.346 (printed p.348): "Use a sharp, cold knife, which is not different from the"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.288 (printed p.289): "Such a rule, however, cannot be blindly"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.288 (printed p.289): "Patient age and relative age of the tooth"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.288 (printed p.289): "B. Caries rate"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.288 (printed p.289): "C. Patient plaque control"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.289 (printed p.290): "D. Periodontal index"
+- Marzouk, year not printed, Operative_Dentistry_Marzouk.md, PDF p.289 (printed p.290): "E. Type of restorative material"
 
 **[LIT]** Martins FV, Santana RB, Fonseca EM. J Prosthet Dent 2020 (2021;125(1):46-55), abstract only, opened by the lead session, https://doi.org/10.1016/j.prosdent.2019.09.009
 
@@ -478,6 +540,7 @@ Sorensen's data correlate marginal discrepancy with periodontal defects (Morelli
 - Fan PP, Stevenson R, Berry TG. Cast gold restorations. In: Hilton TJ, Ferracane JL, Broome JC, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013.
 - Goldstein RE, Powers JM, Lee EA. Impressions (Ch.41). In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, eds. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018.
 - Martins FV, Santana RB, Fonseca EM. Efficacy of conventional cord versus cordless techniques for gingival displacement: a systematic review and meta-analysis. J Prosthet Dent. 2021;125(1):46-55. doi:10.1016/j.prosdent.2019.09.009. [LIT, abstract only]
+- Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis/Tokyo: Ishiyaku EuroAmerica (Indian reprint, AITBS); publication year not printed in the extracted file. Ch.20 Techniques and rationale for control of the periodontium preparatory to cast fabrication; chapter on single tooth restorations and the periodontium.
 - Morelli T, Neiva GF. Periodontology applied to operative dentistry. In: Ritter AV, Boushell LW, Walter R, eds. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: Elsevier; 2019. Ch.10.
 - Overton JD, Hilton TJ, LittleStar ML, Starr CB. Class 5 restorations (Ch.15). In: Hilton TJ, Ferracane JL, Broome JC, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013.
 - Ricketts D. Impression materials and techniques (Ch.13). In: Ricketts D, Bartlett D, eds. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone Elsevier; 2011.

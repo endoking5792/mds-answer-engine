@@ -205,3 +205,52 @@ book('bSikri2017', "Sikri VK. Impression making (Ch.10). In: Indirect Restoratio
 book('bGoldstein2018', "Goldstein RE, Powers JM, Lee EA. Impressions (Ch.41). In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, eds. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018.")
 book('bRicketts2011', "Ricketts D. Impression materials and techniques (Ch.13). In: Ricketts D, Bartlett D, eds. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone Elsevier; 2011.")
 book('bMartins2020', "Martins FV, Santana RB, Fonseca EM. Efficacy of conventional cord versus cordless techniques for gingival displacement: a systematic review and meta-analysis. J Prosthet Dent. 2021;125(1):46-55. doi:10.1016/j.prosdent.2019.09.009. [LIT, abstract only]")
+
+# Marzouk additions (2026-10-24, lead session at Niranjan's request)
+MZ = OP+'Operative_Dentistry_Marzouk.md'
+src('b_mz', MZ, -2, 'Marzouk, year not printed')
+src('b_mz17', MZ, -1, 'Marzouk, year not printed')
+add('b_mz', {
+ 'b_mz_crest': 'The crest of the free gingiva is at its normal healthy',
+ 'b_mz_sound': 'The periodontium should be sound or undergoing healthy',
+ 'b_mz_fluid': 'Crevicular fluids and bleeding from the gingiva and its',
+ 'b_mz_trough': 'a temporary trough (Fig. 1)',
+ 'b_mz_nodetach': 'detachment of the apically located epithelium attachment and',
+ 'b_mz_four': 'There are four means of accomplishing these objectives',
+ 'b_mz_phys': 'This constitutes mechanically forcing the gingiva away from',
+ 'b_mz_healthy': 'indicated for absolutely healthy gingivae',
+ 'b_mz_temp': 'The use of a custom temporary restoration',
+ 'b_mz_cords30': 'achieved in 30 min. or less.',
+ 'b_mz_dam': 'The use of heavy weight rubber dam',
+ 'b_mz_chem': 'These constitute the most universally used technique',
+ 'b_mz_vaso': 'Vasoconstrictors physiologically restrict the blood supply',
+ 'b_mz_racemic': 'racemic epinepherine',
+ 'b_mz_coag': 'Biologic fluid coagulants coagulate blood and tissue',
+ 'b_mz_nosys': 'insofar as they induce no systemic effects',
+ 'b_mz_alum': 'the agents producing these effects are: 100% alum, 15-25%',
+ 'b_mz_alcl': 'aluminum chloride, 10% aluminum potassium sulfate',
+ 'b_mz_surf': 'Surface layer tissue coagulants coagulate surface layer',
+ 'b_mz_zinc': 'of these chemicals are 8% zinc chloride and silver nitrate.',
+ 'b_mz_drawn': 'Soft loose cotton rolls can be readily rolled to a desired',
+ 'b_mz_ends': 'The ideal location is at the axial angles of the',
+ 'b_mz_packer': 'The packing instrument should be blunt, with definite',
+ 'b_mz_static': 'Always use steady static loading directed apically and',
+ 'b_mz_hydrous': 'done in a hydrous field',
+ 'b_mz_heal': 'For healthy healing of the peridontium a favorable',
+ 'b_mz_actions': 'Four types of actions can be produced at the electrode end:',
+ 'b_mz_cut': 'This is extremely precise, bloodless, with minimal tissue',
+ 'b_mz_nocrest': 'Never involve the crest of the free gingiva',
+ 'b_mz_recess': 'lead to loss of gingival height, i.e., recession.',
+ 'b_mz_metal': 'The tooth metallic restorations should not be touched.',
+ 'b_mz_attach': 'Never approach the attaching epithelium or periodontal',
+ 'b_mz_knife': 'Use a sharp, cold knife, which is not different from the',
+})
+add('b_mz17', {
+ 'b_mz_rule': 'Such a rule, however, cannot be blindly',
+ 'b_mz_age': 'Patient age and relative age of the tooth',
+ 'b_mz_caries': 'B. Caries rate',
+ 'b_mz_plaque': 'C. Patient plaque control',
+ 'b_mz_perio': 'D. Periodontal index',
+ 'b_mz_mat': 'E. Type of restorative material',
+})
+book('bMarzouk', "Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis/Tokyo: Ishiyaku EuroAmerica (Indian reprint, AITBS); publication year not printed in the extracted file. Ch.20 Techniques and rationale for control of the periodontium preparatory to cast fabrication; chapter on single tooth restorations and the periodontium.")
