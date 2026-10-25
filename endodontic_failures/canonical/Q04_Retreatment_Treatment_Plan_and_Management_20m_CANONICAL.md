@@ -275,13 +275,13 @@ Skipped.
 
 ## REFERENCES (alphabetical)
 - Cunha RS, Bueno CES. Disinfection in nonsurgical retreatment cases. In: Basrani B, editor. Endodontic Irrigation: Chemical Disinfection of the Root Canal System. Cham: Springer; 2015. Ch.17.
-- Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.21 Nonsurgical endodontic retreatment (chapter author not named in the extraction).
+- Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.21 Nonsurgical endodontic retreatment (the book's contents list names no chapter author for Ch.21, so the chapter is cited under the editor).
 - Gulabivala K, Ng YL. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.3 Biological and clinical rationale for root-canal treatment; Ch.5 Treatment planning (chapter authors as printed in the book's chapter headings; the chapter files used are named in the SOURCE LIST).
 - Gulabivala K, Ng YL. Outcomes of endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.33.
 - Hülsmann M, Schäfer E, Bürklein S. Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.17.
-- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors as used elsewhere in this repo; verify against the printed book.)
+- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors confirmed from the book's contents list: Pierre Machtou, Clifford J. Ruddle.)
 - Ng YL, Gulabivala K. Management of non-surgical root-canal treatment failure. In: Gulabivala K, Ng YL. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.9.
-- Pontius O. Endodontic retreatment procedures. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed (English translation of the 2nd German edition, 2008). Stuttgart: Thieme; 2010. Ch.39. (Chapter author read from the book's contents list; verify against the printed book.)
+- Pontius O. Endodontic retreatment procedures. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed (English translation of the 2nd German edition, 2008). Stuttgart: Thieme; 2010. Ch.39. (Chapter author confirmed from the book's contents list: O. Pontius.)
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers & Distributors; 2017 (second eBook edition 2019). Ch.36 Endodontic failures and retreatment.
 - Terauchi Y, Parirokh M, Handysides R. Nonsurgical retreatment. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.19. (Edition and year as used elsewhere in this repo; verify against the printed book.)

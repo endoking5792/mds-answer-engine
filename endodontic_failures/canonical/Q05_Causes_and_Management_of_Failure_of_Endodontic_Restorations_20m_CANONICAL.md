@@ -209,12 +209,12 @@ Skipped.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baba NZ, Goodacre CJ. Contemporary restoration of endodontically treated teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.35. (Author names decoded from a garbled chapter heading; verify against the printed book.)
+- Baba NZ, Goodacre CJ. Contemporary restoration of endodontically treated teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.35. (Chapter authors confirmed from the book's contents list: Nadim Z. Baba, Charles J. Goodacre.)
 - Baba NZ, White SN, Bogen G. Restoration of endodontically treated teeth. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.10.
-- Goldberg F. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.34. (Author name decoded from a garbled chapter heading; verify against the printed book.)
+- Goldberg F. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.34. (Chapter author confirmed from the book's contents list: Fernando Goldberg.)
 - Gulabivala K, Ng YL. Outcomes of endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.33.
 - Hülsmann M, Schäfer E, Bürklein S. Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.17.
-- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors as used elsewhere in this repo; verify against the printed book.)
+- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors confirmed from the book's contents list: Pierre Machtou, Clifford J. Ruddle.)
 - Malek M, Lin LM. Local, systemic, and genetic considerations of endodontic treatment prognosis. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.11.
 - Ng YL, Gulabivala K. Management of non-surgical root-canal treatment failure. In: Gulabivala K, Ng YL. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.9.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.

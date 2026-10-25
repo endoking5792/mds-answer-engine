@@ -116,7 +116,7 @@ Skipped.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Goldberg F. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.34. (Author name decoded from a garbled chapter heading; verify against the printed book.)
+- Goldberg F. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.34. (Chapter author confirmed from the book's contents list: Fernando Goldberg.)
 - Malek M, Lin LM. Local, systemic, and genetic considerations of endodontic treatment prognosis. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.11.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.22. (Edition and year as used elsewhere in this repo; verify against the printed book.)
 - White SN, Torabinejad M. From tooth retention through root canal treatment to extraction and replacement. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.13.

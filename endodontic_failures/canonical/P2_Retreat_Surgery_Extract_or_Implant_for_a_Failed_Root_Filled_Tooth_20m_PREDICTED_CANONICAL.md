@@ -206,7 +206,7 @@ Skipped.
 
 ## REFERENCES (alphabetical)
 - Hülsmann M, Schäfer E, Bürklein S. Management of posttreatment apical periodontitis: nonsurgical retreatment and periradicular surgery. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.17.
-- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors as used elsewhere in this repo; verify against the printed book.)
+- Machtou P, Ruddle CJ. Endodontic orthograde retreatment and management of mishaps. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.23. (Chapter authors confirmed from the book's contents list: Pierre Machtou, Clifford J. Ruddle.)
 - Ng YL, Gulabivala K. Evaluation of outcomes. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.17.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Setzer F, Chogle S, Torabinejad M. Endodontic treatment outcomes. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.22. (Edition and year as used elsewhere in this repo; verify against the printed book.)

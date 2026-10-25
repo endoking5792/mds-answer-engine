@@ -103,7 +103,7 @@ Skipped.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baba NZ, Goodacre CJ. Contemporary restoration of endodontically treated teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.35. (Author names decoded from a garbled chapter heading; verify against the printed book.)
+- Baba NZ, Goodacre CJ. Contemporary restoration of endodontically treated teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.35. (Chapter authors confirmed from the book's contents list: Nadim Z. Baba, Charles J. Goodacre.)
 - Baba NZ, White SN, Bogen G. Restoration of endodontically treated teeth. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.10.
 - Gulabivala K, Ng YL. Outcomes of endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. PMPH USA; 2019. Ch.33.
 - Ng YL, Gulabivala K. Evaluation of outcomes. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.17.
