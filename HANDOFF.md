@@ -1,5 +1,8 @@
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
+## Status (2026-10-23, endodontic_failures topic): VERIFIED in canonical format, 9 answers (Q01-Q06, P1-P3); second-reader check done; published to the Answer Bank (Version 60); not yet pushed to GitHub (Roseline)
+See `endodontic_failures/HANDOFF_endodontic_failures.md` for the file table, offsets, disagreements kept side by side and open points.
+
 ## Status (2026-10-22, procedural_errors topic): COMPLETE. 9 repository + 3 predicted canonical answers in `procedural_errors/canonical/` (Q05 Perforation and Q09 Ledge upgraded to 100m at Niranjan's request; Harty's added). 378 verbatim locators verified. Published to the Answer Bank (Version 54, manifest 380 -> 392, 0 lost); vault copies done. Read `procedural_errors/HANDOFF_procedural_errors.md`. Not committed.
 
 ## Status (2026-10-22, Smart Materials CD Q02 canonical expanded): exam core rewritten to 3306 words (Section 7 range met) after a full re-read of the 12 distinct supplied PDFs (13 files; one duplicate). Corrections: zirconia 95°C figure (Maloo, Loya) replaced by stress-induced transformation toughening with Craig's 1170°C shown side by side; Yao 2023 tested an unfilled resin, one organism; Sun 2025 claim that Filtek Supreme Ultra is self-healing shown against Khan 2025 as unsupported; Dascanio now 2026;42:1891-1911. 66 verbatim locators checked by `smart_materials/smart_locators.py`. Published (Answer Bank Version 51, manifest unchanged at 355), vault copies and Smart_Materials_Answers.docx rebuilt.
