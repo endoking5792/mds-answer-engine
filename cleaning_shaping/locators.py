@@ -681,7 +681,7 @@ L = {
  'r_cause':('sq18','Extrusion of infected debris to the periradicular tissues during chemomechanical preparation is allegedly one of the principal causes of postoperative pain'),
  'r_balance':('sq18','In teeth with asymptomatic apical periodontitis, a balance has been established between bacterial aggression from the infected canal and host defenses'),
  'r_quant':('sq18','The number of bacterial cells extruded (bacterial load) is the quantitative factor, while the virulence of the extruded bacteria is the qualitative factor'),
- 'r_100':('sq18','All instrumentation techniques promoted apical extrusion of debris/bacteria in'),
+ 'r_100':('sq18','All instrumentation techniques promoted apical extrusion of debris/bacteria in 70% to 100% of the cases'),
  'r_crown':('sq18','crown-down techniques usually extrude less debris and should preferentially be used for instrumentation of infected root canals'),
  'r_symp':('sq18','teeth with preoperative symptoms are at higher risk of flare-ups'),
  'i_impossible':('ing','Avoiding extrusion of some debris during root canal preparation is virtually impossible'),

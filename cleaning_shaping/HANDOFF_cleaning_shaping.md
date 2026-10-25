@@ -1,6 +1,6 @@
 # HANDOFF: cleaning_shaping (Roseline, 2026-10-25)
 
-**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Second-reader check done 2026-10-25 (`_AUDIT_2026-10-25.md`: 10 corrections in Q02, Q05, Q07, Q10, Q11, Q12, P3). Not published to the Answer Bank, no vault copy, no .docx.
+**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Second-reader check done 2026-10-25 (`_AUDIT_2026-10-25.md`: 11 corrections in Q02, Q05, Q07, Q10, Q11, Q12, P3). Not published to the Answer Bank, no vault copy, no .docx.
 
 ## Files and exam-core word counts
 
