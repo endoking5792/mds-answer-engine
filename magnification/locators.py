@@ -40,6 +40,8 @@ L = {
  's_tab_low': ('sik', 'Low magnification loupes 2.5X 0.08 80'),
  's_tab_high': ('sik', 'High magnification loupes 6X 0.05 50'),
  's_tab_mic': ('sik', 'Microscope (high) 20X 0.01 10'),
+ 's_tab_posture': ('sik', '20°–40° forward head posture Head posture near neutral Head posture near neutral'),
+ 's_tab_image': ('sik', '3-D image convergence angle 2-D image on screen 3-D image binocular vision'),
  's_endoscope': ('sik', 'An optical lens with a diameter of 0.9 mm provides the clinician a magnification up to 20X'),
  's_endo27': ('sik', 'An improved version of endoscope (2.7 mm lens diameter and 3.0 cm long rod-lens) is recommended for non-surgical procedures'),
  's_endohemo': ('sik', 'Hemostasis of the surgical site, is also important before using endoscope'),
