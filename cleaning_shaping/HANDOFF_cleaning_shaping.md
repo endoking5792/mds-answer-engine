@@ -1,6 +1,6 @@
 # HANDOFF: cleaning_shaping (Roseline, 2026-10-25)
 
-**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Second-reader check done 2026-10-25 (`_AUDIT_2026-10-25.md`: 11 corrections in Q02, Q05, Q07, Q10, Q11, Q12, P3). Not published to the Answer Bank, no vault copy, no .docx.
+**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Second-reader check done 2026-10-25 (`_AUDIT_2026-10-25.md`: 11 corrections in Q02, Q05, Q07, Q10, Q11, Q12, P3). Round-2 claim tracing by three parallel readers (28 more corrections). Published to the Answer Bank 2026-10-25 under Endodontics/Cleaning and Shaping/ (Version 62; publish_guard merge 459 -> 477 manifest entries, 464 -> 482 files, VERIFY OK, 0 lost). No vault copy (vault not on this Mac), no .docx.
 
 ## Files and exam-core word counts
 
@@ -38,8 +38,8 @@
 | sik | Sikri 2nd ed Ch.16 | Sikri, 2019 | 21 |
 | har | Harty's 7th ed Ch.7 | Schäfer, 2017 | 16 |
 | gb | Guidebook to Molar Endodontics Ch.7 | Peters and Arias, 2025 | 17 |
-| ctx | Current Therapy in Endodontics Ch.3 | Jain, 2016 | none |
-| wei | Weine's Endodontic Therapy 6th ed Ch.5 | Weine, 2004 | none (sparse PDF markers) |
+| ctx | Current Therapy in Endodontics Ch.3 | Jain, 2016 | 26 (confirmed at all 60 markers; printed pp.27-86) |
+| wei | Weine's Endodontic Therapy 6th ed Ch.5 | Weine, 2004 | none (no linear mapping); chapter = printed pp.164-239 |
 | e12, e24 | Endodontology 2nd ed Ch.12, Ch.24 | Baumann and Beer, 2010 (editors; chapter authors not in extract) | 17 |
 | gut8, gut10 | Gutmann and Lovdahl, Problem Solving in Endodontics 5th ed Ch.8, Ch.10 | Gutmann and Lovdahl, 2011 | 11 |
 | cc4 | Common Complications in Endodontics Ch.4 | Johnson, 2025 | 11 |
@@ -65,6 +65,6 @@
 
 1. May 2015 (RG PIII RS-3) 20m entry has lost its wording in the repository; placed under Q05 as a guess. Check the scan.
 2. Second-reader check done 2026-10-25; see `_AUDIT_2026-10-25.md`.
-3. Not published to the Answer Bank (Rule 7, publish_guard.py); vault copy not written; no .docx (skill 7.1 item 13).
+3. Published to the Answer Bank (Version 62). Vault copy not written: the Obsidian vault is not on Roseline's Mac; whoever holds it should copy `canonical/` files (without `_CANONICAL`) into `All Answers (Consolidated)/Endodontics/Cleaning and Shaping/`. No .docx (skill 7.1 item 13).
 4. Curved-canal anatomy overlaps Medhinir's `root_canal_anatomy`; Q06 points to it.
 5. `[RECALL]` items: pulp stone types, rubber dam timing and champagne test (Q07), guided endodontics (Q07).
