@@ -3,7 +3,7 @@
 **Marks:** 100m, Single Essay
 **Sitting:** RG PIV RS-old (date not printed on the scan; also listed as an either-or in the Recent Advances repository). Repeats absorbed: none at this wording. The endodontics-only essays are Q02 (75m) and Q03 (50m).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3270 words, about 149 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3277 words, about 149 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
 
 **Retrieval report.** Read in full: Sikri, Essentials of Endodontics 2nd ed Ch.30; Grossman's Endodontic Practice 14th ed Ch.9 (editor Gopikrishna); Endodontology (Baumann and Beer, eds) Ch.18; Current Therapy in Endodontics Ch.8 (Lins, Alves and de Resende); The Art and Science of Contemporary Surgical Endodontics Ch.7 (Rubinstein); Essentials of Preclinical Conservative Dentistry 2nd ed Ch.8 (Bharti and Bhasin). Read in part: Sturdevant's 2nd South Asian ed Ch.3 (magnification section); Summitt's 4th ed (visualization and caries-detection passages). Not read: Cohen's and Ingle's sections on the microscope (Cohen's Ch.11 and Ingle's Ch.19 mention it inside surgery and preparation chapters; not opened this session). Live search: none. Where the books give different dates or figures, both are shown and attributed.
 
@@ -245,7 +245,7 @@ Cost, equipment size and perceived lack of value have limited microscope use in 
 
 **Periodontal and surgical work.** Flaps can be raised with little magnification, but papilla-base incisions, which need 7-0 sutures, call for about ×4.3 or more (Rubinstein, 2017). Microsurgical root coverage and suturing follow the same principle. [RECALL]
 
-**Fixed prosthodontics.** Margin finishing, impression checks and cementation follow the same "see more, remove less" principle (Ritter et al, 2019).
+**Fixed prosthodontics.** Ritter et al (2019) name the finishing of porcelain margins. Impression checks and cementation under magnification follow the same "see more, remove less" principle. [RECALL]
 
 ## 10. Instruments for working under the microscope
 

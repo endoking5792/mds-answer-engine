@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** 18-Jun-2022 (RG PIII-D RS-5). Repeats absorbed: none at this wording; the either-or listing in the Recent Advances repository is the same sitting.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1762 words, about 80 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The question names surgical endodontics, so about half the answer is on surgery.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1765 words, about 80 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The question names surgical endodontics, so about half the answer is on surgery.
 
 **Retrieval report.** Read in full: Rubinstein Ch.7 (Magnification and illumination in apical surgery); Sikri Ch.30; Grossman's Ch.9; Current Therapy in Endodontics Ch.8 (Lins et al); Endodontology Ch.18. Not read: Cohen's Ch.11 and Grossman's Ch.22 (surgery chapters; the microscope passages there were not opened this session). Live search: none.
 
@@ -116,11 +116,11 @@ Sikri (2019) calls magnification, illumination and micro-instruments the microsu
 | Stage | Magnification and its role |
 |---|---|
 | Flap design and reflection | Low power is enough, but papilla-base incisions with 7-0 sutures need about ×4.3 or more (Rubinstein, 2017) |
-| Osteotomy | Bone is told apart from root by colour; small osteotomy of about 0.5 cm against more than 1.0 cm conventionally (Sikri, 2019) |
+| Osteotomy | Small osteotomy of about 0.5 cm against more than 1.0 cm conventionally (Sikri, 2019); root is told apart from bone by colour [RECALL] |
 | Root-end resection | Shallow bevel (about 10° against 45°); Lins et al (2016) describe a cut perpendicular to the long axis |
 | Inspection of the resected surface | High power with a micro-mirror shows the isthmus, fins, lateral canals, missed canals, and craze lines or cracks (Rubinstein, 2017; Sikri, 2019) |
 | Root-end preparation | Ultrasonic tips, first designed for retrograde work (Baumann and Beer, 2010), prepare the isthmus along the long axis; checked with a mirror |
-| Retrofilling | MTA or bioceramic placed and condensed precisely and checked for voids |
+| Retrofilling | Precise rather than approximate (Sikri, 2019); the material is checked for voids [RECALL] |
 | Suturing | Microsuturing (Gopikrishna, 2021) |
 | Documentation | Every step recorded |
 
