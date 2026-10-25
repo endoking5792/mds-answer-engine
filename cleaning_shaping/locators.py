@@ -737,6 +737,8 @@ L = {
  'k_flow':('sik','termed ‘concept of flow’, facilitating placement of obturating materials and also their removal, if need be'),
  'c_popular':('coh','These concepts have been popularized by Schilder386 and are still maintained today'),
  'w_cleansing':('wei','Schilder has dubbed these procedures cleansing and shaping'),
+ 't_benefit':('tor','early coronal flaring is also beneficial for the earlier access of disinfecting irrigation solutions, better tactile control of hand instruments during negotiation'),
+ 'c_wall1':('coh','Before root canal shaping, dentin wall thickness dimensions of 1 mm and below have been demonstrated in anatomical studies'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

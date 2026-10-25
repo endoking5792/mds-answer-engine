@@ -1,5 +1,7 @@
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
+## Status (2026-10-25, cleaning_shaping topic): FIRST DRAFT COMPLETE in canonical format. 15 repository answers (Q01, Q02, Q15 100m; Q03 50m; Q04-Q06, Q08 25m; Q07, Q09-Q13 10m; Q14 7m) + 3 predicted (P1 20m, P2-P3 10m) in `cleaning_shaping/canonical/`; question set agreed with Roseline; every exam core inside its Section 7 range; 689 verbatim locators verified against `mds-textbooks`; source conflicts shown side by side. Not second-read, not published to the Answer Bank, no vault copy. Read `cleaning_shaping/HANDOFF_cleaning_shaping.md`. (Roseline)
+
 ## Status (2026-10-23, endodontic_failures topic): VERIFIED in canonical format, 9 answers (Q01-Q06, P1-P3); second-reader check done; published to the Answer Bank (Version 60); not yet pushed to GitHub (Roseline)
 See `endodontic_failures/HANDOFF_endodontic_failures.md` for the file table, offsets, disagreements kept side by side and open points.
 
