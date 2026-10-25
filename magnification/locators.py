@@ -87,6 +87,7 @@ L = {
  's_cracks': ('sik', 'when viewed under high power, definite cracks can be diagnosed'),
  's_dryness': ('sik', 'The dryness of root canal before obturation and distribution of sealer'),
  's_mb2': ('sik', 'The prevalence of second mesiobuccal canal in maxillary first molars has increased from 73% from the premagnification era to 93% in the microscope era'),
+ 's_calcif': ('sik', 'Use of magnification along with ultrasonic troughing of the pulp chamber helps to identify and remove the calcifications including denticles'),
  's_mm': ('sik', 'The identification of a middle mesial and middle distal canal in the mandibular first molars has also improved with microscope'),
  's_retreat': ('sik', 'Procedures such as bypassing a ledge, removing a separated instrument or repairing a perforation have become more predictable'),
  's_post': ('sik', 'During post removal, identification of residual cement and the remaining dentin can be better carried out using microscope'),
