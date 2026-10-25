@@ -3,7 +3,7 @@
 **Marks:** 25m, Long Essay
 **Sitting:** Apr 2022 (NU PII). Repeats absorbed: "Cleaning, shaping and obturation of difficult to treat root canals." 20m Sep 2010 (PIII 07-15); "Discuss cleaning, shaping and obturation of difficult to treat root canals." 20m May 2013 (RG PIII RS-2); probably the May 2015 (RG PIII RS-3) 20m entry whose wording is lost in the repository (to be verified against the scan). For the 20m "cleaning, shaping and obturation" wording, write sections 1-4 in short form and section 5 in full.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 908 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 906 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read for this answer: Weine's Ch.5 "Intracanal treatment procedures, basic and advanced topics", sections "Aids for preparing difficult canals" and "Preparation in extremely curved canals" (Weine, 2004); Molar Guidebook Ch.7 complex-case strategies and obturation (Peters and Arias, 2025). Reused: Grossman's Ch.14 (Gopikrishna, 2021) glide path and calcified canals; Harty's Ch.7 (Schäfer, 2017); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019). Not used: Gutmann's Problem Solving in Endodontics and Hülsmann and Schäfer's Problems in Endodontics (kept for Q13 canal impediments). Curved canals are answered in full in Q06 and calcified canals in Q07; this answer covers all difficult canals at the depth a 25m essay allows. No live search.
 
@@ -105,7 +105,7 @@ Peters and Arias: with "open apices or procedural errors such as apical zipping"
 
 **Obturation of difficult canals (Peters and Arias, 2025)**
 - Curved and narrow canals: tapered master cone fitted with apical tug-back; warm vertical or carrier-based techniques follow curves; a tapered resistance form replaces the apical stop.
-- Open apices, zipped apices, apices near the mandibular canal or sinus: cold lateral compaction to limit overfill; foramen #55 or larger: MTA or bioceramic apical barrier; consider reduced patency near the mandibular canal.
+- Open apices, zipped apices, apices near the mandibular canal: cold lateral compaction to limit overfill; foramen #55 or larger: MTA or bioceramic apical barrier; consider reduced patency near the mandibular canal.
 - Complex anatomy (isthmuses, lateral canals, C-shaped): thermoplastic or injectable techniques; calcium silicate sealer with single cone.
 
 **Conclusion.** Difficult canals are managed by recognising the difficulty before starting, using magnification and imaging, negotiating with small precurved stainless steel files, intermediate sizes and chelators, enlarging gradually with flaring and recapitulation, and choosing a filling technique suited to the shape obtained. The instruments must be adapted to the canal, not the canal to the instruments (Peters and Arias, 2025), and cases beyond the operator's skill should be referred.
@@ -199,7 +199,7 @@ Peters and Arias: with "open apices or procedural errors such as apical zipping"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.327 (printed p.320): "A resistance form along the root canal should allow proper warm vertical obturation with no need of an apical stop"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.527 (printed p.588): "Stainless steel pilot instruments are best suited for bypass"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.523 (printed p.584): "following rotary NiTi preparation of root canals having an oval cross-section"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.1007: "consider shaping as two canals"
 - Siqueira et al, 2022, 12_Chapter_12_Chemomechanical_preparation.md, PDF p.618: "Long oval and flattened canals may require changes in preparation strategy by using rotary instruments in brushing motion"
 
@@ -213,4 +213,4 @@ Peters and Arias: with "open apices or procedural errors such as apical zipping"
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Schäfer E. Preparation of the root canal system. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.7.
 - Siqueira JF Jr, Debelian G, Lopes HP, Rôças IN. Chemomechanical preparation. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.12.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

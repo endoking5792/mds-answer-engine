@@ -13,7 +13,7 @@ F = {
  'siq': (T+'Treatment_of_Endodontic_Infections_Chapterwise/12_Chapter_12_Chemomechanical_preparation.md', None, 'Siqueira et al, 2022'),
  'aae': (T+'Glossary_of_Endodontic_Terms_Chapterwise/00_Pages_1_30.md', None, 'American Association of Endodontists, 2012'),
  'gb': (T+'The_Guidebook_to_Molar_Endodontics_Chapterwise/07_7_Shaping_Disinfection_and_Obturation_for_Molars.md', 17, 'Peters and Arias, 2025'),
- 'ctx': (T+'Current_Therapy_in_Endodontics_Chapterwise/03_4_pdf_p_53_112.md', None, 'Jain, 2016'),
+ 'ctx': (T+'Current_Therapy_in_Endodontics_Chapterwise/03_4_pdf_p_53_112.md', 26, 'Jain, 2016'),
  'wei': (T+'Weines_Endodontics_Full_Chapterwise/05_CHAPTER_5_Intracanal_Treatment_Procedures_Basic_and_Advanced.md', None, 'Weine, 2004'),
  'e12': (T+'Endodontology_Chapterwise/12_12_Sonic_and_Ultrasonic_Treatment.md', 17, 'Baumann and Beer, 2010'),
  'e24': (T+'Endodontology_Chapterwise/24_24_The_Hybrid_Concept_of_Nickel_titanium_Rotary_Instrumentat.md', 17, 'Baumann and Beer, 2010'),
@@ -739,6 +739,13 @@ L = {
  'w_cleansing':('wei','Schilder has dubbed these procedures cleansing and shaping'),
  't_benefit':('tor','early coronal flaring is also beneficial for the earlier access of disinfecting irrigation solutions, better tactile control of hand instruments during negotiation'),
  'c_wall1':('coh','Before root canal shaping, dentin wall thickness dimensions of 1 mm and below have been demonstrated in anatomical studies'),
+ 'w_nochel':('wei','should not be used in a ledged or blocked canal'),
+ 'i_hardstop':('ing','hitting against a hard structure'),
+ 'b_distal':('gb','often found in distal roots of mandibular molars'),
+ 'a_rcdebr':('aae','Elimination of organic and inorganic substances as well as microorganisms from the root canal by mechanical and/or chemical means'),
+ 'c_goldblue':('coh','worked by micro milling and finally submitted to specific annealing and cooling steps'),
+ 'x_electro':('ctx','Electropolishing of instruments has also been introduced by some manufacturers'),
+ 'b_patthird':('gb','Better delivery of irrigants to the apical third'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

@@ -3,7 +3,7 @@
 **Marks:** 25m (marks not printed on the sitting; set at 25m by agreement with Roseline, 2026-10-25), Essay
 **Sitting:** Mar 1990 (PIII 90-00). Repeats absorbed: none. Ultrasonics as a general topic ("Ultrasonics in endodontics" 25m Oct 2024 Manipal and others) sits in Special Topics; this answer appraises ultrasonics specifically as a method of biomechanical preparation, and gives other uses only briefly.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 873 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 887 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read for this answer: Weine's Ch.5 section "Ultrasonics" (Weine, 2004), which explains the origin of the phrase "synergistic system" in Martin and Cunningham's work; Endodontology Ch.12 "Sonic and ultrasonic treatment" (Baumann and Beer, 2010; chapter author not stated in the extract, cited under the editors). Reused: Grossman's Ch.14 (Gopikrishna, 2021) group III instruments; Cohen's Ch.8 (Peters, Peters and Basrani, 2021) ultrasonic and sonic activation; Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021) ultrasonics; Ingle's Ch.20 (Hülsmann and Schäfer, 2019) history. The statement in the question dates from 1990, when the concept was new; the appraisal therefore contrasts the claim of that era with later evidence. No live search.
 
@@ -25,7 +25,7 @@ Frequencies: "sonic" is 16 Hz to 20 kHz and "ultrasonic" 20 kHz to 1 GHz in phys
 **Introduction.** Ultrasonic devices were introduced to endodontics by Richman in 1957 (Weine, 2004). Martin and Cunningham, from 1976-1980, coined the term "endosonics" and described ultrasonics as a **synergistic system**: one group of devices that prepares and cleans the canal, irrigates and disinfects it, and helps fill it, with the irrigant energised by the vibrating file (Weine, 2004; Baumann and Beer, 2010). The statement in the question reflects this claim. A critical appraisal must ask whether ultrasonics is efficient for both parts of biomechanical preparation: mechanical shaping and chemical cleaning.
 
 **Equipment**
-- Electromagnetic (magnetostrictive, e.g. Cavi-Endo) or piezoelectric units (e.g. Enac, EMS); piezoelectric are more powerful and produce less heat (Weine, 2004).
+- Electromagnetic (magnetostrictive, e.g. Cavi-Endo) or piezoelectric units (e.g. Enac, EMS); piezoelectric units are more powerful (Weine, 2004) and produce less heat (Baumann and Beer, 2010; Gopikrishna, 2021).
 - Ultrasonic: about 20-40 kHz; sonic: 1500-6000 Hz (Baumann and Beer, 2010).
 - An endodontic file (K-file, diamond file) or smooth wire is held in an adapter; irrigant (water or NaOCl) flows down the file into the canal.
 
@@ -99,7 +99,7 @@ Endodontology describes "a total paradigm shift": ultrasonics are now used mainl
 | Efficient cleaning and disinfection | Partly supported: improves irrigant action in vitro, mainly through acoustic microstreaming as PUI after shaping |
 | Synergy (one system for shaping, cleaning, filling) | Not supported: shaping and activation need different conditions (wall contact versus free oscillation) |
 
-**Conclusion.** The statement was a reasonable hypothesis in 1990, but it is only half true. Ultrasonics is not an efficient method of mechanical preparation and is no longer used for shaping. Its value lies in the "bio" part, energising irrigants after the canal has been shaped by hand or NiTi instruments, and in many adjunctive procedures. The modern synergy is between NiTi shaping, NaOCl and passive ultrasonic activation, not within the ultrasonic unit alone.
+**Conclusion.** The statement was a reasonable hypothesis in the 1980s, when Martin and Cunningham proposed it, but it is only half true. Ultrasonics is not an efficient method of mechanical preparation and is no longer used for shaping. Its value lies in the "bio" part, energising irrigants after the canal has been shaped by hand or NiTi instruments, and in many adjunctive procedures. The modern synergy is between NiTi shaping, NaOCl and passive ultrasonic activation, not within the ultrasonic unit alone.
 
 ## HIGH-YIELD POINTS
 
@@ -193,4 +193,4 @@ Endodontology describes "a total paradigm shift": ultrasonics are now used mainl
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

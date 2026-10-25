@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2011 (RG PIII RS-2). Filed in the repository under §5 Instruments; answered here by agreement.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 362 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 353 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read: Endodontology Ch.24 "The hybrid concept of nickel-titanium rotary instrumentation" (Baumann and Beer, 2010; chapter author not stated in the extract). Reused: Grossman's Ch.14 hybrid technique (Gopikrishna, 2021); Cohen's Ch.8 hybrid technique (Peters, Peters and Basrani, 2021); Sikri Ch.16 (Sikri, 2019). The term has two meanings in the books, a stainless steel hand technique and a NiTi system-combination concept; both are given. No live search.
 
@@ -43,7 +43,7 @@ Combines crown-down advantages (less extrusion, straighter access) with step-bac
 
 **Rules (Baumann and Beer, 2010):** slowest recommended speed; continuous irrigation with NaOCl; minimal apical pressure; withdraw as soon as length is reached; vary taper as well as size within the crown-down sequence to avoid taper lock; clean, inspect and recapitulate after every file; confirm patency regularly.
 
-**Terminology note:** Sikri (2019) describes the same crown-down plus step-back combination under the heading of step-down and also calls it a "modified step-back technique", a name other books use for preparations with a parallel apical segment.
+**Terminology note:** Sikri (2019) uses the name "modified step-back technique" both for this crown-down plus step-back combination and for a preparation with a parallel, round apical segment.
 
 **Advantages:** larger, rounder apical preparations safely; less taper lock and fracture; less transportation; adapts to anatomy.
 **Disadvantages:** many instruments and systems; cost; knowledge of each system's cutting behaviour required.

@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2014 (RG PIII RS-2). Repeats absorbed: "Management of calcified canals" 7m Jun 2018 (RG PIII RS-3); "Calcified root canals, Causes and Management." 7m 2016 (ABS PIII); "Discuss causes and management of calcified teeth in endodontics." 5m Mar 2018 (ABS PIII). For 5m write the causes and the management list only.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 342 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 347 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read: Gutmann and Lovdahl's Problem Solving in Endodontics Ch.8, sections on pulp chamber calcifications and calcification of the dental pulp (Gutmann and Lovdahl, 2011); Common Complications in Endodontics Ch.4, "Locating calcified canals" (Johnson, 2025). Reused: Grossman's Ch.14 (Gopikrishna, 2021); Harty's Ch.7 (Schäfer, 2017); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021). Guided endodontics (3D-printed templates) is in the Recent Advances repository as its own topic and is mentioned only as [RECALL]. No live search.
 
@@ -20,7 +20,7 @@ Gutmann and Lovdahl: "pulpal calcifications are signs of pathosis, not the cause
 
 #### ✎ Exam core
 
-**Causes:** age (secondary dentine) and slow, long-standing irritation from caries and repeated restorations (Gutmann and Lovdahl, 2011); pulp inflammation (Gopikrishna, 2021); vital pulp therapy with calcium hydroxide (Gutmann and Lovdahl, 2011); trauma (pulp canal obliteration) (Johnson, 2025); attrition and periodontal disease [RECALL]. Calcifications are signs of chronic irritation, not its cause; they progress coronal to apical, so the apical canal is often patent (Peters, Arias and Shabahang, 2021).
+**Causes:** age (secondary dentine) and slow, long-standing irritation from caries and repeated restorations (Gutmann and Lovdahl, 2011); pulp inflammation (Gopikrishna, 2021); vital pulp therapy with calcium hydroxide (Gutmann and Lovdahl, 2011); trauma (pulp canal obliteration) (Johnson, 2025); attrition and periodontal disease [RECALL]. Calcifications are signs of pathosis, not its cause (Gutmann and Lovdahl, 2011); mineralisation generally proceeds coronal to apical (Peters, Arias and Shabahang, 2021), so the apical canal may remain negotiable [RECALL].
 
 **Types:** pulp stones (free, attached, embedded) in the chamber [RECALL]; diffuse (linear) calcification along the canal; apparently complete radiographic obliteration, where histology may still show small areas of residual tissue (Gutmann and Lovdahl, 2011).
 
@@ -99,4 +99,4 @@ Assessment: angled radiographs (Gopikrishna, 2021) [SRC], bite-wings for chamber
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Schäfer E. Preparation of the root canal system. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.7.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

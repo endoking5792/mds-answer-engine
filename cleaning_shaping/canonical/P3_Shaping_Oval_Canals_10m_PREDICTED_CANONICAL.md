@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the 3D conforming and adaptive instruments in Q02 and Q15, and the oval-canal objectives in Torabinejad's chapter.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 361 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 386 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built from chapters read for Q01, Q02 and Q15: Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Grossman's Ch.14 (Gopikrishna, 2021); Current Therapy Ch.3 (Jain, 2016); Molar Guidebook Ch.7 (Peters and Arias, 2025); Ingle's Ch.20 (Hülsmann and Schäfer, 2019); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021). TRUShape figures in Jain's chapter appear to be manufacturer data. No live search.
 
@@ -20,9 +20,9 @@ Torabinejad's learning objectives include shaping canals that are "round, oval, 
 
 #### ✎ Exam core
 
-**Introduction.** Many canals are oval, ribbon-shaped, C-shaped or joined by isthmuses, particularly distal roots of mandibular molars, mandibular incisors and premolars; their oval cross-section often extends to the apex (Peters, Peters and Basrani, 2021).
+**Introduction.** Many canals are oval, ribbon-shaped, C-shaped or joined by isthmuses, for example the distal roots of mandibular molars (Peters and Arias, 2025), and also mandibular incisors and premolars [RECALL]; the oval cross-section often extends deep into the apical area (Peters, Peters and Basrani, 2021).
 
-**Problem.** Rotary files cut a round canal at best; the first file binds to the narrow diameter, so the wide buccal and lingual extensions remain untouched and filled with infected tissue and debris (Peters, Peters and Basrani, 2021; Siqueira et al, 2022). In one micro-CT study 28-83% of canal walls in premolars stayed unprepared (Hülsmann and Schäfer, 2019). Enlarging to the widest diameter would overenlarge and weaken the root (Siqueira et al, 2022).
+**Problem.** Rotary files cut a round canal at best; the first file binds to the narrow diameter, so the wide buccal and lingual extensions remain untouched and filled with infected tissue and debris (Peters, Peters and Basrani, 2021; Siqueira et al, 2022). Even with ProTaper hand files in premolars, 28-83% of canal surfaces were left unprepared in one micro-CT study (Hülsmann and Schäfer, 2019). Enlarging to the widest diameter would overenlarge and weaken the root (Siqueira et al, 2022).
 
 **Strategies with conventional instruments**
 - Shape as two canals: buccal and lingual paths (Peters, Peters and Basrani, 2021; Peters and Arias, 2025).
@@ -37,7 +37,7 @@ Torabinejad's learning objectives include shaping canals that are "round, oval, 
 | XP-endo Shaper / Finisher | MaxWire alloy expands at body temperature; Finisher forms a 1.5 mm spoon | Scrapes untouched walls; mainly in vitro data (Gopikrishna, 2021) |
 | TRUShape | S-shaped, shape-set 3D conforming file | Up to 75% wall contact, 36% less dentine removed (manufacturer-type data in Jain, 2016) |
 
-**Supplementary irrigation:** sonic and ultrasonic activation, negative pressure and multisonic systems reach isthmuses (Siqueira et al, 2022).
+**Supplementary irrigation:** sonic, ultrasonic and negative-pressure systems carry irrigant into isthmuses (Siqueira et al, 2022); multisonic GentleWave also claims this (Peters, Peters and Basrani, 2021).
 
 **Clinical sequence:** locate both extensions under magnification; shape each path with flexible NiTi to an apical size that admits the needle; brush or file towards the recesses; use an adaptive file (XP-endo Finisher) or Hedström file in the extensions; activate NaOCl and EDTA; obturate with warm vertical or hydraulic techniques that flow into irregularities (Peters and Arias, 2025; Hülsmann and Schäfer, 2019).
 
@@ -70,12 +70,12 @@ Torabinejad's learning objectives include shaping canals that are "round, oval, 
 - Siqueira et al, 2022, 12_Chapter_12_Chemomechanical_preparation.md, PDF p.618: "Long oval and flattened canals may require changes in preparation strategy by using rotary instruments in brushing motion"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.523 (printed p.584): "following rotary NiTi preparation of root canals having an oval cross-section"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.527 (printed p.588): "of the root canal surfaces were not prepared by the instruments"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.94: "relies on the gentle abrasive action of a flexible mesh lattice to prepare the root canal walls"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.94 (printed p.68): "relies on the gentle abrasive action of a flexible mesh lattice to prepare the root canal walls"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "action of the dentin from the canal walls (60–75 μm thick) and preserves the basic shape of the root canal"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "The SAF system is no longer commercially available"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "assuming a spoon shape of 1.5 mm depth in the final 10 mm of its length"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "They clean irregular geometries better than traditional ISO rotary files by contacting up to 75% of canal walls"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "removes 36% less dentin"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "They clean irregular geometries better than traditional ISO rotary files by contacting up to 75% of canal walls"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "removes 36% less dentin"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "instruments with three-dimensional shapes manufactured through a shape setting process"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.324 (printed p.317): "the so-called 3D conforming instruments"
 - Siqueira et al, 2022, 12_Chapter_12_Chemomechanical_preparation.md, PDF p.618: "Supplementary steps with mechanical or ultrasonic devices can also be used to maximize cleaning and disinfection in areas of the root canal untouched by instruments acting in reaming motion"
@@ -85,7 +85,7 @@ Torabinejad's learning objectives include shaping canals that are "round, oval, 
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.

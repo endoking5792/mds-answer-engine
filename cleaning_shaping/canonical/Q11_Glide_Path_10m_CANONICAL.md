@@ -60,7 +60,7 @@ On precurving, Grossman's uses "a precurved ISO size 10 or ISO size 8" (Gopikris
 ## SOURCE LIST
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "According to John West, a glide path is defined as a smooth radicular tunnel from the orifice of the canal to the physiologic terminus of the root canal"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "According to John West, a glide path is defined as a smooth radicular tunnel from the orifice of the canal to the physiologic terminus of the root canal"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.304 (printed p.279): "The concept of creating a patent path up to the working length without altering or blocking the original root canal anatomy is known as glide path determination or canal patency"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.922: "This term has been used in endodontics for more than a decade"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.922: "it minimizes the so-called screw-in or threading-in effect"
@@ -81,8 +81,8 @@ On precurving, Grossman's uses "a precurved ISO size 10 or ISO size 8" (Gopikris
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.923: "Pathfiles (Dentsply"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.923: "The creation of a rotary glide path has demonstrated better preservation of the canal anatomy with fewer shaping aberrations"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.923: "has shown a less incidence of postoperative pain"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "a cutting tip that in curved and/or calcified canals can cause ledges or transportation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "a cutting tip that in curved and/or calcified canals can cause ledges or transportation"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.197 (printed p.180): "The use of a Golden Mediums instrument (Dentsply Maillefer) with a half size 0.12 may help the #15 file to reach working length"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.197 (printed p.180): "Step back with #20 and #25 files with balanced force techniques"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.172 (printed p.155): "Use of a viscous chelator during canal negotiation to prevent pulp tissue blockage"
@@ -95,7 +95,7 @@ On precurving, Grossman's uses "a precurved ISO size 10 or ISO size 8" (Gopikris
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Gutmann JL, Lovdahl PE. Problem Solving in Endodontics: Prevention, Identification, and Management. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.8 Problem solving in tooth isolation, access openings, and identification of orifice locations; Ch.10 Problem-solving clinical techniques in enlarging and shaping the root canal.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.

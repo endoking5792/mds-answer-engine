@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** Mock 2025 (ABS PIII). Repeats absorbed: "Write in detail about the biological concepts for debridement of root canal system and means to achieve elimination of infection." 20m Oct 2017 (PIII 16-21). For the 20m sitting write sections 1, 6 and 7 in full and section 2 as a table. The full technique account is in Q01 and the full debridement account in Q15.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1758 words, about 80 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1778 words, about 81 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built on the chapters read for Q01, Q15 and Q02: Cohen's Ch.8 (Peters, Peters and Basrani, 2021) principles of cleaning and shaping (mechanical, biologic and technical objectives); Ingle's Ch.20 (Hülsmann and Schäfer, 2019) aims and evaluation criteria; Grossman's Ch.14 (Gopikrishna, 2021); Endodontics: Principles and Practice 6th ed Ch.14 (Peters, Arias and Shabahang, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Current Therapy Ch.3 (Jain, 2016) introduction; Molar Guidebook Ch.7 (Peters and Arias, 2025). No new chapter read; no live literature search. The question asks for a critical evaluation, so the answer argues a position: the mechanical objectives are means to biological ends, and a third objective, preservation of tooth structure, now sits beside both.
 
@@ -118,7 +118,7 @@ The balance between the two has shifted historically. After the Washington study
 | Issue | Mechanical / structural argument | Biological argument |
 |---|---|---|
 | Apical size | Small size: less transportation, less weakening, controlled filling | Larger size: more infected dentine removed, better irrigant penetration (Siqueira et al, 2022) |
-| Apical length | Stay short to protect the constriction and avoid extrusion | Clean to the terminus in infected canals; each uninstrumented millimetre lowers success by 12% (Peters, Arias and Shabahang, 2021) |
+| Apical length | Stay short to protect the constriction and avoid extrusion | Clean to the terminus in infected canals; each millimetre short of the terminus reduces the odds of success by 12% (Peters, Arias and Shabahang, 2021) |
 | Patency | Risk of extrusion and widening the foramen | Keeps the apex clear; associated with better healing (Peters and Arias, 2025) |
 | Coronal taper | Wide taper for spreaders and pluggers | Only enough taper for the needle; preserve pericervical dentine |
 | Oval canals | Round preparation by rotary files | Recesses must be touched by files or irrigant |
@@ -179,7 +179,7 @@ Peters and Arias's practical rule sums up the evaluation: "consider adapting the
 
 #### ✎ Exam core
 
-**Conclusion.** Schilder's division into mechanical and biological objectives remains a useful teaching framework, but it is not a partnership of equals. The mechanical objectives were largely designed to make obturation possible; they are justified today only to the extent that they allow disinfection, avoid errors that leave parts of the canal uncleaned, and preserve tooth structure. The biological objectives are the true goals, but the aim of removing all tissue must be restated as reducing infection to levels compatible with healing, with strategies tailored to vital and infected cases. To both should be added a structural objective, retention of radicular dentine, because fracture rather than infection now causes most losses. Clinicians should adapt the instruments to the canal rather than the canal to the instruments (Peters and Arias, 2025).
+**Conclusion.** Schilder's division into mechanical and biological objectives remains a useful teaching framework, but it is not a partnership of equals. The mechanical objectives were largely designed to make obturation possible; they are justified today only to the extent that they allow disinfection, avoid errors that leave parts of the canal uncleaned, and preserve tooth structure. The biological objectives are the true goals, but the aim of removing all tissue must be restated as reducing infection to levels compatible with healing, with strategies tailored to vital and infected cases. To both should be added a structural objective, retention of radicular dentine, because vertical fracture and other non-endodontic causes, rather than persistent infection, are now the main reasons for loss (Peters, Arias and Shabahang, 2021). Clinicians should adapt the instruments to the canal rather than the canal to the instruments (Peters and Arias, 2025).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -234,9 +234,9 @@ Peters and Arias's practical rule sums up the evaluation: "consider adapting the
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.497 (printed p.558): "space for intracanal medicaments"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.497 (printed p.558): "Completion of preparation in one appointment"
 - Sikri, 2019, 16_16_Cleaning_and_Shaping_of_Root_Canals.md, PDF p.291 (printed p.270): "Removal of substrate harboring microorganisms from the root canal space"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "“shaping” refers to a specific root canal cavity form with four design objectives"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.53: "From a biological perspective, the goals of chemomechanical preparation are to eliminate microorganisms from the root canal system"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "The technical goals of canal preparation are directed toward shaping the canal so as to achieve the biological objectives and to facilitate placement of a root filling"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "“shaping” refers to a specific root canal cavity form with four design objectives"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.53 (printed p.27): "From a biological perspective, the goals of chemomechanical preparation are to eliminate microorganisms from the root canal system"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "The technical goals of canal preparation are directed toward shaping the canal so as to achieve the biological objectives and to facilitate placement of a root filling"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.864: "this guideline was aimed at facilitating obturation rather than targeting antimicrobial efficacy"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.861: "An ideal mechanical objective of root canal instrumentation is complete and centered incorporation of the original canals into the prepared shape"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.861: "this goal is unlikely to be met with current techniques"
@@ -298,7 +298,7 @@ Peters and Arias's practical rule sums up the evaluation: "consider adapting the
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.

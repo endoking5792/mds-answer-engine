@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Note
 **Sitting:** 15-03-2022 (ABS PII). Repeats absorbed: none. Ledges, separated instruments and perforations are answered in full in `procedural_errors` (Q09 Ledge, Q07 and Q08 instrument separation); here they are given only as impediments to negotiation.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 358 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 379 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read: Gutmann and Lovdahl Ch.10 "Loss of working length" (Gutmann and Lovdahl, 2011). Reused: Cohen's Ch.8 "Signs of mishaps" (Peters, Peters and Basrani, 2021); Molar Guidebook Ch.7 (Peters and Arias, 2025); Weine's Ch.5 (Weine, 2004); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Grossman's Ch.14 (Gopikrishna, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019). No live search.
 
@@ -28,10 +28,10 @@ Gutmann and Lovdahl: loss of working length is mostly "due to the packing of den
 1. *Anatomical:* abrupt or apical curvature and dilaceration (Peters, Peters and Basrani, 2021); exit of the foramen at 90° to the canal (Peters and Arias, 2025); calcifications and pulp stones; canal division or merging.
 2. *Iatrogenic:* blockage with compacted dentine chips or pulp tissue; ledge, a dentinal shelf on the convex wall (Peters, Peters and Basrani, 2021); separated instrument; old filling materials, posts, cements.
 
-**Diagnosis by tactile feel:** loose resistance = ledge or curve; rubbery resistance = packed soft tissue (Peters and Arias, 2025); a hard stop at a consistent depth = calcification or fragment. Confirm with an angled radiograph or CBCT.
+**Diagnosis by tactile feel:** loose resistance = ledge or curve; rubbery resistance = packed soft tissue (Peters and Arias, 2025); a hard stop may mean calcification, a fragment or a ledge (Hülsmann and Schäfer, 2019). Confirm with an angled radiograph or CBCT.
 
 **Management**
-- *Blockage of debris:* irrigate with NaOCl and use a lubricant or chelator; a small stiff #10-#15 K-file or C+ file with a 45° bend in the apical 3-4 mm, rotated gently to find the catch, then small-amplitude in-and-out movements; do not withdraw until loose; confirm with a radiograph; then a Hedström file on the outstroke (Gutmann and Lovdahl, 2011).
+- *Blockage of debris:* irrigate with NaOCl and use a lubricant or chelator (Gutmann and Lovdahl, 2011; Weine, 2004, by contrast, advises against chelators in a ledged or blocked canal); a small stiff #10-#15 K-file or C+ file with a 45° bend in the apical 3-4 mm, rotated gently to find the catch, then small-amplitude in-and-out movements; do not withdraw until loose; confirm with a radiograph; then a Hedström file on the outstroke (Gutmann and Lovdahl, 2011).
 - *Ledge or curve:* sharp 30-40° precurve near the tip, directional stop, stainless steel pilot files; rotaries are unsuitable in ledged canals (Weine, 2004; Hülsmann and Schäfer, 2019; Peters, Arias and Shabahang, 2021).
 - *Calcification:* ultrasonic tips under the microscope, EDTA gel, C+ files (Gopikrishna, 2021).
 - *Separated instrument or filling material:* bypass, retrieval with ultrasonics, or solvents (see Procedural Errors topic).
@@ -94,4 +94,4 @@ Gutmann and Lovdahl: loss of working length is mostly "due to the packing of den
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

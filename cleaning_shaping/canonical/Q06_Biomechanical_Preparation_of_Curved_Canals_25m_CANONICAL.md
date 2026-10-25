@@ -5,7 +5,7 @@
 
 **Scope (agreed):** preparation technique and instrumentation. Curved-canal anatomy belongs to `root_canal_anatomy` (Medhinir, in progress) and mishaps in curved canals to `procedural_errors/Q04`; both are summarised here only as far as the preparation needs them, and the exam core stands alone.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 916 words, about 42 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 919 words, about 42 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read for this answer: Weine's Ch.5 sections on precurving, incremental instrumentation, remeasurement, preparation in extremely curved canals, plastic block studies, avoiding the zip and elbow, flaring versus crown-down, non-ISO tapers, curvatures of 30-60° and over 60°, bayonet canals and flexible files (Weine, 2004). Reused: Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019); Grossman's Ch.14 (Gopikrishna, 2021); Harty's Ch.7 (Schäfer, 2017); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Current Therapy Ch.3 (Jain, 2016); Molar Guidebook Ch.7 (Peters and Arias, 2025). No live search.
 
@@ -39,7 +39,7 @@ Weine's plastic block studies showed that after preparation "the narrowest site 
 
 **Mechanism of transportation**
 - A file bent around a curve stores a restoring force; as it tries to straighten it cuts more on the inner wall coronal to the curve and on the outer wall apical to it (Siqueira et al, 2022; Peters, Arias and Shabahang, 2021).
-- The effect grows with curvature, file size and stiffness (Schäfer, 2017); stainless steel transports curved canals from about size 20-25 (Peters, Arias and Shabahang, 2021).
+- The effect grows with curvature, file size and stiffness (Schäfer, 2017); stainless steel transports curved canals from about size 25 (Peters, Arias and Shabahang, 2021).
 
 **Resulting errors (detail in Procedural Errors topic)**
 - *Elbow:* the narrowest part of the preparation, a few millimetres short of the apex, giving an hourglass shape.
@@ -62,7 +62,7 @@ Enlarging curved canals beyond a No. 25 "can be done only when an adequate coron
 3. **Precurved, small stainless steel files** to negotiate, with a gradual curve along the flutes and a directional stop (Weine, 2004).
 4. **Glide path:** a straight #10-#15 K-file passing smoothly to length before rotary NiTi (Peters and Arias, 2025; Peters, Peters and Basrani, 2021).
 5. **Incremental enlargement:** intermediate sizes (clipped files, Golden Mediums); never force or ream a binding file.
-6. **Limit apical enlargement** in proportion to the curve and instrument flexibility; with stainless steel do not exceed three sizes above the initial apical file (Peters, Arias and Shabahang, 2021).
+6. **Limit apical enlargement** in proportion to the curve and instrument flexibility; in small curved canals do not enlarge more than three sizes beyond the initial apical file (Peters, Arias and Shabahang, 2021).
 7. **Remeasure** working length after every three sizes, because straightening shortens it (Weine, 2004).
 8. **Recapitulate** with a small file to length after every larger instrument; maintain patency.
 9. **Copious irrigation and lubrication.**
@@ -197,8 +197,8 @@ Peters and Arias describe the tapered apical "resistance form" created by NiTi, 
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.934: "a general agreement exists that the so-called balanced force technique creates the least canal aberrations with K-files"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.529 (printed p.590): "It has been claimed that BF preparation can achieve preparation sizes of 45 in curved canals and 80 in straight canals"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.530 (printed p.591): "there is no evidence that step-down techniques are superior to step-back techniques or vice versa with the exception of the BF technique"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "Instruments fracture most commonly at the point of maximum flexion of the shaft, which clinically often corresponds to the midpoint of the canal curvature"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79: "the centering ability is improved and transportation is reduced while using these new-generation files"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "Instruments fracture most commonly at the point of maximum flexion of the shaft, which clinically often corresponds to the midpoint of the canal curvature"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79 (printed p.53): "the centering ability is improved and transportation is reduced while using these new-generation files"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.195 (printed p.178): "shaping procedures can be simplified by dividing the entire root canal in two"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "The taper of the last instrument that reaches working length creates a resistance form in the apical millimetres of the root canal"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "a straight, not precurved size #10 K-file can passively and smoothly travel to working length"
@@ -210,10 +210,10 @@ Peters and Arias describe the tapered apical "resistance form" created by NiTi, 
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Schäfer E. Preparation of the root canal system. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.7.
 - Siqueira JF Jr, Debelian G, Lopes HP, Rôças IN. Chemomechanical preparation. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.12.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

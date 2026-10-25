@@ -3,7 +3,7 @@
 **Marks:** 25m, Essay
 **Sitting:** Nov 2001 (PIII 01-07). Repeats absorbed: "Critically evaluate rotary instruments and hand instruments in cleaning and shaping." 15m Oct 2003 (PIII 01-07). For the 15m sitting write sections 1, 3 and 4 (about 550 words).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 870 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 910 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read for this answer: Ingle's Ch.20 sections on hand instruments (stainless steel, flexible stainless steel, NiTi hand, greater-taper hand files) and on conventional and NiTi engine-driven systems (Hülsmann and Schäfer, 2019). Reused: Grossman's Ch.14 (Gopikrishna, 2021) instrument classification; Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022) outcome studies; Harty's Ch.7 (Schäfer, 2017); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Molar Guidebook Ch.7 (Peters and Arias, 2025); Current Therapy Ch.3 (Jain, 2016). No live search. Hand techniques (step-back, balanced force) are described in full in Q01.
 
@@ -21,9 +21,12 @@ Grossman's classifies shaping instruments by method of use: group I hand-operate
 
 **Introduction.** Root canals can be prepared with hand instruments, manipulated by the fingers, or with automated (engine-driven) instruments powered by a handpiece or motor. Hand instrumentation was the only method for most of the twentieth century; automated preparation became practical only when nickel-titanium (NiTi) allowed files to rotate in curved canals without fracturing (Hülsmann and Schäfer, 2019).
 
-**Classification (Gopikrishna, 2021)**
-- *Hand instruments:* barbed broaches; stainless steel reamers, K-files, K-Flex, Flex-R; Hedström and S-files; NiTi hand files; greater-taper NiTi hand files.
-- *Automated:* (a) low-speed stainless steel (Gates-Glidden, Peeso); (b) conventional reciprocating and vertical handpieces with stainless steel files (Giromatic, Canal Finder, Excalibur), now abandoned; (c) sonic and ultrasonic; (d) engine-driven NiTi: continuous rotation, reciprocation, canal-adaptive (SAF, XP-endo).
+**Classification by method of use (Gopikrishna, 2021)**
+- *Group I, hand-operated:* barbed broaches and rasps; K-type reamers and files (K-Flex, Flex-R); Hedström files. NiTi and greater-taper NiTi hand files are later additions (Hülsmann and Schäfer, 2019).
+- *Group II, low-speed stainless steel latch instruments:* Gates-Glidden drills, Peeso reamers.
+- *Group III, ultrasonic and sonic instruments.*
+- *Group IV, engine-driven NiTi:* rotary, reciprocating, canal-adaptive (SAF, XP-endo).
+- Earlier automated handpieces driving stainless steel files (Giromatic, Canal Finder, Excalibur) are now abandoned (Hülsmann and Schäfer, 2019).
 
 ## 2. Hand instrumentation
 
@@ -102,7 +105,7 @@ Clinical evidence: Siqueira and colleagues report that NiTi hand files were "fiv
 
 **Critical evaluation**
 - Engine-driven NiTi gives better-shaped canals faster with fewer errors, and outcome studies favour NiTi: 77% healing against 60% with stainless steel hand files (Siqueira et al, 2022). The ESE guideline recommends engine-driven NiTi (Peters and Arias, 2025).
-- But neither method cleans the whole canal: 28-83% of walls remained untouched in one micro-CT study (Hülsmann and Schäfer, 2019); irrigation remains essential.
+- But no instrument cleans the whole canal: with ProTaper hand files 28-83% of canal surfaces remained unprepared in one micro-CT study (Hülsmann and Schäfer, 2019), and rotary preparations also leave walls untouched (Peters, Peters and Basrani, 2021); irrigation remains essential.
 - Some of NiTi's centring may come from lower cutting efficiency, not flexibility alone (Gambill, in Hülsmann and Schäfer, 2019).
 - The two methods are complementary, not rivals: stainless steel hand files scout, negotiate and create the glide path; NiTi shapes; Hedström files clean oval recesses. This hybrid use, adapting the tool to the canal (Peters and Arias, 2025), is the current standard.
 
@@ -167,10 +170,10 @@ Clinical evidence: Siqueira and colleagues report that NiTi hand files were "fiv
 - Siqueira et al, 2022, 12_Chapter_12_Chemomechanical_preparation.md, PDF p.575: "NiTi rotary instruments achieved higher healing rates (77%) than stainless steel hand files (60%)"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.176 (printed p.159): "root canal preparation should be performed using contemporary engine-driven techniques with NiTi root canal instruments"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "The resulting shape is larger than needed in the coronal third, potentially debilitating the tooth"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "size #15 NiTi instruments were two to three times more flexible than stainless steel instruments"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "size #15 NiTi instruments were two to three times more flexible than stainless steel instruments"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.999: "manual endodontic file fracture or rotary instrument fracture occur at a rate of approximately 1% to 6% and 0.4% to 5%, respectively"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "The phenomenon of repeated cyclic metal fatigue may be the most important factor in instrument separation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "The phenomenon of repeated cyclic metal fatigue may be the most important factor in instrument separation"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.310 (printed p.303): "There is no consensus or clinical evidence on which technique or instrument design or type is clinically superior"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.312 (printed p.287): "Precurving of files is restricted to stainless steel instruments"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.194 (printed p.177): "Consider adapting the tools to the anatomy of the specific canal system, rather than adapting the canal to the tool"
@@ -180,7 +183,7 @@ Clinical evidence: Siqueira and colleagues report that NiTi hand files were "fiv
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.

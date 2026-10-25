@@ -3,15 +3,15 @@
 **Marks:** 100m, Single Essay
 **Sitting:** Dec 2006 (Manipal Paper IV, single essay; filed under Recent Advances in the Endodontics repository addendum). Repeats absorbed: none. Closely related: "Write in detail about the biological concepts for debridement of root canal system and means to achieve elimination of infection" 20m Oct 2017 is answered as part of Q03 (biological vs mechanical objectives); the instrumentation techniques are given in full in Q01 and only summarised here.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3257 words, about 148 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3304 words, about 150 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read in full for this answer: Cohen's Ch.8 sections on irrigation, irrigants, intracanal medication, disinfection devices and techniques (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 sections on irrigation, irrigation systems and smear layer (Siqueira, Debelian, Lopes and Rôças, 2022); Endodontics: Principles and Practice 6th ed Ch.14 sections on smear layer, irrigants and ultrasonics (Peters, Arias and Shabahang, 2021). Reused from Q01: Grossman's Ch.14 (Gopikrishna, 2021), the rest of the three chapters above, Ingle's Ch.20 (Hülsmann and Schäfer, 2019). AAE Glossary of Endodontic Terms 2012 for the definition. Not used: the book *Endodontic Irrigation: Chemical Disinfection of the Root Canal System* (kept for Q02 and P3), Grossman's Ch.15 on irrigants, Endodontology Ch.25. No live literature search. NaOCl accident, chelators and medicaments each have their own topics (Irrigants, Smear Layer, Medicaments); this answer gives them at the depth a debridement essay needs.
 
 
 
-<!--LOC: a_debr, i_fauchard, i_broach, i_gg1885, i_richman, i_saf2010, q_walker, q_retx, q_necinf, q_stump, q_vitalfree, q_ph6, q_volcomp, c_retention, c_dentin, c_01pct, c_organic, c_ideal1, c_ideal2, c_ideal3, g_saf6075, g_safgone, g_xpf, t_irrbox, t_debrispush, c_nit, g_def, g_debr, i_def, c_reverse, t_sterile, q_unable, t_reduce, t_tubules, q_critical, t_synergy, c_box, i_toxins, c_irrobj, c_irrlist, c_biofunc, q_irrobj, q_70pct, q_mechanical, g_four, g_tags, t_funnel, t_irrig, c_1mm, q_larger, t_lessres, c_debate, c_glide15, q_terminus, q_patency05, t_12pct, q_77, c_round, c_twocanals, q_oval, g_adaptive, c_delivery, c_nooptimal, c_naocl, c_coolidge, c_chloramine, c_saponif, q_sh, q_hocl, q_ph12, t_naocladv, c_conc, t_25, c_volume, c_2min, c_after, c_heat, c_bodytemp, t_noinorg, c_chxsubst, t_chxsim, t_chxsyn, t_chxout, c_chxng, c_chxlack, q_nodiff, q_chxadv, c_pca, c_driedpp, c_edtanyg, c_selflimit, c_edtanaocl, c_edta1min, t_apicalless, t_10min, c_hebp, c_tensides, c_mtad, t_mtadsup, t_mtadclin, c_malkh, c_qmix, c_ordinola, c_iki, c_smeardef, q_smear, q_plugs, c_smearcontro, t_smearsupp, q_retreat, q_final, c_summaryirr, c_15mm, q_needle, q_2ml, q_flow, c_nobind, q_saturation, c_agitate, c_mda, c_endoact, c_sonicfreq, g_cavit, g_streaming, g_nocavit, g_3040, t_microstream, c_puiweller, c_puipassive, c_puifinal, c_ui, c_puiinvivo, c_cui, t_ultranorec, c_macro, c_micro, c_anpsafe, c_anpshear, q_endovacns, c_gw, c_gw97, c_gwindep, c_eryag, c_pips, c_ndyag, c_pdt, c_nano, c_ozone, t_costeff, t_cold, c_medobj, c_caoh1920, c_caoh925, c_caohlps, c_caohlimited, c_caohresidue, c_formo, c_accsign, c_hyperton, c_accmx, c_accprog, c_turbid, t_glassy, q_complete, c_summary-->
+<!--LOC: a_debr, a_rcdebr, b_esecaoh, i_fauchard, i_broach, i_gg1885, i_richman, i_saf2010, q_walker, q_retx, q_necinf, q_stump, q_vitalfree, q_ph6, q_volcomp, c_retention, c_dentin, c_01pct, c_organic, c_ideal1, c_ideal2, c_ideal3, g_saf6075, g_safgone, g_xpf, t_irrbox, t_debrispush, c_nit, g_def, g_debr, i_def, c_reverse, t_sterile, q_unable, t_reduce, t_tubules, q_critical, t_synergy, c_box, i_toxins, c_irrobj, c_irrlist, c_biofunc, q_irrobj, q_70pct, q_mechanical, g_four, g_tags, t_funnel, t_irrig, c_1mm, q_larger, t_lessres, c_debate, c_glide15, q_terminus, q_patency05, t_12pct, q_77, c_round, c_twocanals, q_oval, g_adaptive, c_delivery, c_nooptimal, c_naocl, c_coolidge, c_chloramine, c_saponif, q_sh, q_hocl, q_ph12, t_naocladv, c_conc, t_25, c_volume, c_2min, c_after, c_heat, c_bodytemp, t_noinorg, c_chxsubst, t_chxsim, t_chxsyn, t_chxout, c_chxng, c_chxlack, q_nodiff, q_chxadv, c_pca, c_driedpp, c_edtanyg, c_selflimit, c_edtanaocl, c_edta1min, t_apicalless, t_10min, c_hebp, c_tensides, c_mtad, t_mtadsup, t_mtadclin, c_malkh, c_qmix, c_ordinola, c_iki, c_smeardef, q_smear, q_plugs, c_smearcontro, t_smearsupp, q_retreat, q_final, c_summaryirr, c_15mm, q_needle, q_2ml, q_flow, c_nobind, q_saturation, c_agitate, c_mda, c_endoact, c_sonicfreq, g_cavit, g_streaming, g_nocavit, g_3040, t_microstream, c_puiweller, c_puipassive, c_puifinal, c_ui, c_puiinvivo, c_cui, t_ultranorec, c_macro, c_micro, c_anpsafe, c_anpshear, q_endovacns, c_gw, c_gw97, c_gwindep, c_eryag, c_pips, c_ndyag, c_pdt, c_nano, c_ozone, t_costeff, t_cold, c_medobj, c_caoh1920, c_caoh925, c_caohlps, c_caohlimited, c_caohresidue, c_formo, c_accsign, c_hyperton, c_accmx, c_accprog, c_turbid, t_glassy, q_complete, c_summary-->
 
-<!--REF: AAE2012, Gopikrishna2021, Peters2021T, Peters2021C, Hulsmann2019, Siqueira2022-->
+<!--REF: AAE2012, Peters2025, Gopikrishna2021, Peters2021T, Peters2021C, Hulsmann2019, Siqueira2022-->
 
 ## 1. Definition and concept
 
@@ -23,7 +23,7 @@ For the essay, debridement is best defined as the removal of the canal contents 
 
 #### ✎ Exam core
 
-**Introduction.** Debridement is the "removal of foreign matter, devitalized tissue and microorganisms from an area" (American Association of Endodontists, 2012). In endodontics it means the removal of vital or necrotic pulp, microorganisms and their byproducts, dentine debris and foreign material from the root canal system (Gopikrishna, 2021). It is achieved by mechanical and chemical means acting together (Hülsmann and Schäfer, 2019): canals are shaped so that irrigants can reach and clean them, which is why "shaping and cleaning" is the more exact order (Peters, Peters and Basrani, 2021).
+**Introduction.** Debridement is the "removal of foreign matter, devitalized tissue and microorganisms from an area" (American Association of Endodontists, 2012). Root canal debridement is the "elimination of organic and inorganic substances as well as microorganisms from the root canal by mechanical and/or chemical means" (American Association of Endodontists, 2012); Grossman's uses the term more narrowly for removing accumulated debris and necrotic pulp from the pulp cavity (Gopikrishna, 2021). It is achieved by mechanical and chemical means acting together (Hülsmann and Schäfer, 2019): canals are shaped so that irrigants can reach and clean them, which is why "shaping and cleaning" is the more exact order (Peters, Peters and Basrani, 2021).
 
 **Means of debridement**
 1. Mechanical: hand and engine-driven instrumentation.
@@ -158,7 +158,7 @@ Siqueira and colleagues base the strategy on the presence or absence of infectio
 | Aim | Asepsis; complete pulp removal | Maximal bacterial reduction | Remove filling and residual bacteria |
 | Length | 1-2 mm short of radiographic apex | To canal terminus with patency; preparation 0.5-1 mm short | As for necrotic |
 | Apical size | Moderate | As large as anatomy allows | As large as anatomy allows |
-| Medicament | Usually not needed (single visit) | Ca(OH)2 if not completed in one visit | Ca(OH)2 often used |
+| Medicament | Usually not needed (single visit) | Ca(OH)2 between visits in Siqueira's two-visit protocol; single visit without Ca(OH)2 is an option in asymptomatic teeth (ESE guideline, in Peters and Arias, 2025) | Ca(OH)2 often used |
 
 Necrotic pulps are treated as infected even without a visible lesion; preservation of a vital pulp stump is unpredictable and not required for healing (Siqueira et al, 2022).
 
@@ -190,7 +190,7 @@ Concentration is a genuine disagreement: Cohen's gives a range "between 0.5% and
 - The most commonly used irrigant. It flushes debris, dissolves vital and necrotic tissue, kills microorganisms and lubricates instruments; it is cheap and available (Peters, Arias and Shabahang, 2021).
 - Mechanism: saponification of fatty acids into soap and glycerol, neutralisation of amino acids, and chloramination, in which chlorine combines with amino groups to form chloramines that impede cell metabolism (Peters, Peters and Basrani, 2021); irreversible oxidation of the sulfhydryl groups of essential bacterial enzymes, with HOCl as the main active moiety (Siqueira et al, 2022).
 - Concentration: 0.5-6% (Peters, Peters and Basrani, 2021), commonly 2.5% to limit toxicity (Peters, Arias and Shabahang, 2021).
-- Use: throughout instrumentation and for 1-2 minutes after it; heating has no clinical support because the irrigant reaches body temperature in the canal (Peters, Peters and Basrani, 2021).
+- Use: throughout instrumentation and for 1-2 minutes after it. Preheated NaOCl cools to body temperature once in the canal, so some advise heating it in situ; no clinical studies support heated NaOCl (Peters, Peters and Basrani, 2021).
 - Limitations: does not remove the inorganic part of the smear layer; toxic and hypertonic if extruded; weakens dentine at high concentration.
 
 **Factors governing NaOCl efficacy**
@@ -403,6 +403,8 @@ Peters, Peters and Basrani's summary applies here more than anywhere: "cleaning 
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - American Association of Endodontists, 2012, 00_Pages_1_30.md, PDF p.14: "Removal of foreign matter, devitalized tissue and microorganisms from an area"
+- American Association of Endodontists, 2012, 00_Pages_1_30.md, PDF p.14: "Elimination of organic and inorganic substances as well as microorganisms from the root canal by mechanical and/or chemical means"
+- Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.181 (printed p.164): "recommend a single-visit approach without the use of inter-appointment calcium hydroxide"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.496 (printed p.557): "Pierre Fauchard described instruments for root canal preparation"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.496 (printed p.557): "enlargement of root canals was performed with broaches"
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.496 (printed p.557): "In 1885, the Gates Glidden drill was introduced"
@@ -575,5 +577,6 @@ Peters, Peters and Basrani's summary applies here more than anywhere: "cleaning 
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
+- Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Siqueira JF Jr, Debelian G, Lopes HP, Rôças IN. Chemomechanical preparation. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.12.

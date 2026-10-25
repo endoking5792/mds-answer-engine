@@ -3,7 +3,7 @@
 **Marks:** 20m, Long Essay (predicted)
 **Sitting:** none; predicted from the argued-position format of the newest papers (Nitte Oct/Nov 2024, Mock 2025) noted in the Recent Advances repository, and from Q02 and Q03.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 737 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 753 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built from chapters read for Q01-Q03: Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Molar Guidebook Ch.7 (Peters and Arias, 2025); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Gutmann and Lovdahl Ch.10 (Gutmann and Lovdahl, 2011); Grossman's Ch.14 (Gopikrishna, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019). The answer defends a position as the question demands. No live search; long-term clinical trials of minimally invasive shaping were not found in the books read.
 
@@ -39,10 +39,10 @@ Reconciliation: "preparation should dictate the obturation technique" (Hülsmann
 3. Larger apical preparations reduce bacteria in infected canals (Siqueira et al, 2022).
 
 **Reconciling the two**
-- Shaping should be tooth-dependent and set by irrigant delivery, not by the obturation technique (Peters, Arias and Shabahang, 2021); preparation dictates obturation (Hülsmann and Schäfer, 2019).
+- Shaping should be tooth-dependent and not depend on the obturation technique (Peters, Arias and Shabahang, 2021); preparation dictates obturation (Hülsmann and Schäfer, 2019); the minimum size is set by irrigant delivery (Peters and Arias, 2025).
 - A minimum of about #25/.06 (or #25/.08, #30/.06) admits a 30-gauge needle (Peters and Arias, 2025).
 - Variably tapered files give apical taper without coronal excess: a #30 file may carry 9% taper apically while a #50 K-file has only 2% (Gutmann and Lovdahl, 2011).
-- No apical size has been shown to give better outcomes (Peters and Arias, 2025); large sizes can pack debris into anatomy.
+- No apical size has been shown to give better outcomes, and shaping to larger sizes may compact dentine shavings into areas irrigant cannot reach (Peters and Arias, 2025).
 - Well-executed single-cone obturation with calcium silicate sealers works in conservative shapes (Peters and Arias, 2025).
 - Activated irrigation compensates for smaller shapes in isthmuses and fins.
 

@@ -104,4 +104,4 @@ Instrument cross-section and chip space matter more than motion: large cross-sec
 - Rôças IN, Siqueira JF Jr. Endodontic emergencies of infectious origin. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.18.
 - Schäfer E. Preparation of the root canal system. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.7.
 - Siqueira JF Jr, Debelian G, Lopes HP, Rôças IN. Chemomechanical preparation. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.12.
-- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.
+- Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5, printed pp.164-239 (page-level printed numbers not recoverable from the extract).

@@ -3,13 +3,13 @@
 **Marks:** 100m, Single Essay
 **Sitting:** May 2013 (RG PIV RS-2; OR-choice in the Recent Advances paper). Repeats absorbed: "Current trends in root canal cleaning and shapping" [sic] 75m May 2019 (RG PIV RS-3); "Describe recent advances in cleaning and shaping of root canal system." / "Classify and discuss in detail recent advances in cleaning and shaping of root canal system." 25m Jul 2021 (PII 21-25); "Discuss modern concept of instrumentation in bio-mechanical preparation." Nov 1993 (PIII 90-00, marks not printed). For the 75m "current trends" sitting write sections 1-9 and 12; for the 25m "recent advances" sitting write the classification table in section 2 and sections 3-6 in short form. The basic principles and classical techniques are in Q01; irrigants and activation are in Q15; they are summarised here only where they are recent or disputed.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3224 words, about 147 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3249 words, about 148 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read in full: The Guidebook to Molar Endodontics Ch.7 "Shaping, disinfection and obturation for molars" (Peters and Arias, 2025), the most recent source in the repository and the one that reports the ESE S3-level guideline of 2023. Read in part: Current Therapy in Endodontics Ch.3 "Rotary instruments" (Jain, 2016): introduction, metallurgy, fracture, speed and torque, heat treatment, reciprocation, SAF, TRUShape, glide path; Grossman's Ch.14 (Gopikrishna, 2021) NiTi metallurgy, generations, motors; Cohen's Ch.8 (Peters, Peters and Basrani, 2021) principles, apical size, fracture, devices; Endodontics: Principles and Practice 6th ed Ch.14 (Peters, Arias and Shabahang, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019); Harty's Ch.7 (Schäfer, 2017) on alloys and single-file systems; Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022). Not used: Endodontology Ch.20-21 and 24 (older, 2010 edition), Weine's. No live literature search; the ESE S3 guideline and the systematic reviews mentioned are cited as reported in the textbooks, not read directly. Statements about TRUShape percentages come from Jain's chapter and read like manufacturer claims; they are flagged as such.
 
 
 
-<!--LOC: b_twogoals, t_fracture, b_extract, b_similar, b_83, b_mostimp, x_triad, c_access, t_pericerv, b_mfd, g_trunat, b_excessflare, b_superseded, b_mb2, t_ggunsuit, b_ssshape, x_nitinol, x_5644, g_5545, h_mwire558, h_cm521, x_flex, x_8pct, h_10pct, x_stress, x_twoprop, x_heat2000, x_mwire, x_rphase, g_mwireph, g_cm55, h_regain, x_center, x_autoclave, c_bodytempfat, b_martcut, x_cyclic, x_midcurve, c_crownroot, x_rightt, g_adaptmotor, x_1958, x_yared2007, g_recip, x_elastic, x_notsup, h_time, h_cracks, g_recipextr, h_pecks, x_saf, g_saf6075, g_safgone, g_xpf, x_trushape, t_conform, b_shapeset, b_twopath, c_round, x_west, b_glide10, b_glidetest, b_rotglide, x_manualglide, c_rotglide, c_pain, b_patency, b_patprog, k_disfavor, b_05, b_0_05, c_term, q_terminus, b_vpt, q_planned, q_cbctdiam, b_2506, b_2508, b_nosize, c_nosize, c_50, q_larger, c_debate, b_compact, b_realistic, b_4060, b_40min, b_continuous, c_hebp, b_chxnot, c_chxng, q_nodiff, b_esecaoh, b_ese, c_gw97, c_gwindep, c_puiinvivo, t_costeff, c_nit, i_nit, b_singlefile, b_adapttools, b_twostage, b_resistform, b_singlecone, b_dry, c_rotfrac, c_retained, c_transp, t_noconsensus, i_noevid, c_flarewl, c_notconf, i_ggsafe, t_conform, b_chelneg, b_scout, b_gauge, b_repatency, b_rubbery, b_shortest, t_manuf, t_mfd1, t_therm, t_cbct, t_martspeed, g_noncut, g_regress, g_landred, g_tqm, g_autorev, g_triauto-->
+<!--LOC: b_twogoals, c_goldblue, x_electro, b_patthird, t_fracture, b_extract, b_similar, b_83, b_mostimp, x_triad, c_access, t_pericerv, b_mfd, g_trunat, b_excessflare, b_superseded, b_mb2, t_ggunsuit, b_ssshape, x_nitinol, x_5644, g_5545, h_mwire558, h_cm521, x_flex, x_8pct, h_10pct, x_stress, x_twoprop, x_heat2000, x_mwire, x_rphase, g_mwireph, g_cm55, h_regain, x_center, x_autoclave, c_bodytempfat, b_martcut, x_cyclic, x_midcurve, c_crownroot, x_rightt, g_adaptmotor, x_1958, x_yared2007, g_recip, x_elastic, x_notsup, h_time, h_cracks, g_recipextr, h_pecks, x_saf, g_saf6075, g_safgone, g_xpf, x_trushape, t_conform, b_shapeset, b_twopath, c_round, x_west, b_glide10, b_glidetest, b_rotglide, x_manualglide, c_rotglide, c_pain, b_patency, b_patprog, k_disfavor, b_05, b_0_05, c_term, q_terminus, b_vpt, q_planned, q_cbctdiam, b_2506, b_2508, b_nosize, c_nosize, c_50, q_larger, c_debate, b_compact, b_realistic, b_4060, b_40min, b_continuous, c_hebp, b_chxnot, c_chxng, q_nodiff, b_esecaoh, b_ese, c_gw97, c_gwindep, c_puiinvivo, t_costeff, c_nit, i_nit, b_singlefile, b_adapttools, b_twostage, b_resistform, b_singlecone, b_dry, c_rotfrac, c_retained, c_transp, t_noconsensus, i_noevid, c_flarewl, c_notconf, i_ggsafe, t_conform, b_chelneg, b_scout, b_gauge, b_repatency, b_rubbery, b_shortest, t_manuf, t_mfd1, t_therm, t_cbct, t_martspeed, g_noncut, g_regress, g_landred, g_tqm, g_autorev, g_triauto-->
 
 <!--REF: Peters2025, Jain2016, Gopikrishna2021, Peters2021C, Peters2021T, Hulsmann2019, Schafer2017, Siqueira2022, Sikri2019-->
 
@@ -92,7 +92,7 @@ Jain describes the mechanism as "a stress-induced thermoelastic transformation" 
 | M-wire | 2007; mixed martensite, R-phase and austenite; 55.8% Ni; more flexible and fatigue resistant | ProTaper Next, WaveOne, Reciproc, Vortex |
 | R-phase | 2008; rhombohedral intermediate phase; allows twisting instead of grinding | Twisted File, K3XF |
 | Controlled memory (CM) | Austenite finish about 55°C; 52.1% Ni; martensitic at body temperature; no shape memory, regains shape on autoclaving | HyFlex CM |
-| Gold and Blue | Proprietary heat treatments named among the improved alloys (Peters, Arias and Shabahang, 2021); details of the process not given in the books read; flexible, fatigue resistant | ProTaper Gold, WaveOne Gold, Reciproc Blue |
+| Gold and Blue | Micro-milled, then given specific annealing and cooling steps that make them more martensitic (Peters, Peters and Basrani, 2021); flexible, fatigue resistant | ProTaper Gold, WaveOne Gold, Reciproc Blue |
 | MaxWire | Martensite-austenite change with temperature; expands in the canal | XP-endo Shaper and Finisher |
 (Jain, 2016; Gopikrishna, 2021; Schäfer, 2017)
 
@@ -121,7 +121,7 @@ Motors: most rotary files work "between 1.5 and 4.0 N cm" (Gopikrishna, 2021) [S
 - **Taper:** from ISO .02 to greater fixed tapers (.04-.12), then variable taper along one file (ProTaper), and regressive taper with a small maximum flute diameter (TruNatomy) to spare coronal dentine (Gopikrishna, 2021).
 - **Cross-section:** U-file with radial lands (ProFile, GT), convex triangular without lands (ProTaper), S-shaped (Mtwo, Reciproc), off-centred rectangular giving swaggering motion (ProTaper Next), parallelogram (TruNatomy).
 - **Maximum flute diameter:** under 1 mm in recent files, to limit coronal enlargement (Peters, Arias and Shabahang, 2021).
-- **Manufacture:** grinding replaced or supplemented by twisting (Twisted File), shape-setting (TRUShape, XP-endo) and electric discharge machining (HyFlex EDM), plus electropolishing (Peters, Arias and Shabahang, 2021).
+- **Manufacture:** grinding replaced or supplemented by twisting (Twisted File), shape-setting (TRUShape, XP-endo) and electric discharge machining (HyFlex EDM) (Peters, Arias and Shabahang, 2021); electropolishing, e.g. RaCe (Jain, 2016).
 - **Motors:** torque-controlled electric motors (most files 1.5-4.0 N cm) with auto-stop and auto-reverse; combined rotary/reciprocating and adaptive motors; motors with integrated apex locators that stop and reverse at working length (Gopikrishna, 2021). Martensitic files may run faster (about 500 rpm) than austenitic files (about 250 rpm) (Peters, Arias and Shabahang, 2021).
 - **Imaging and vision:** CBCT helps plan shaping of difficult anatomy (Peters, Arias and Shabahang, 2021); the operating microscope helps locate and negotiate canals.
 
@@ -165,7 +165,7 @@ Adaptive motors run in rotation and switch to reciprocation "once the file excee
 | Disadvantages | Higher fatigue in curves | Possible dentinal cracks and debris extrusion; one size does not fit all | Motor cost |
 (Jain, 2016; Gopikrishna, 2021; Schäfer, 2017)
 
-- History: stainless steel reciprocation since 1958 (Giromatic, equal 90° angles); Yared's ProTaper F2 technique (2007 in Jain, 2016; 2008 in Gopikrishna, 2021).
+- History: stainless steel reciprocation since 1958 (Racer handpiece 1958, Giromatic 1964, both with equal 90° angles; Jain, 2016; Hülsmann and Schäfer, 2019); Yared's ProTaper F2 technique (2007 in Jain, 2016; 2008 in Gopikrishna, 2021).
 - Use reciprocating files with gentle in-and-out pecks of up to 3 mm, withdrawing after three pecks to clean and irrigate (Schäfer, 2017).
 
 **Controversy:** reciprocation has not been shown superior to continuous rotation (Jain, 2016); studies on cracks and extrusion conflict (Schäfer, 2017). A single file is acceptable in simple canals but not in molars of moderate difficulty (Peters and Arias, 2025).
@@ -205,7 +205,7 @@ Patency has moved from controversy to recommendation. Peters and Arias: accumula
 - Now supported: patency is associated with better outcomes and is a prognostic factor for healing, with less postoperative pain and no increase in irrigation accidents (Peters and Arias, 2025).
 
 
-**Benefits of patency listed by Peters and Arias (2025):** lower risk of losing length; less canal transportation and fewer preparation errors; better tactile sense during apical shaping; fewer gas bubbles blocking irrigant from reaching working length; better irrigant penetration into the apical 2 mm.
+**Benefits of patency listed by Peters and Arias (2025):** lower risk of losing length; less canal transportation and fewer preparation errors; better tactile sense during apical shaping; fewer gas bubbles blocking irrigant from reaching working length; better delivery of irrigants to the apical third.
 
 ## 10. Working length, apical limit and apical size
 
@@ -267,7 +267,8 @@ Peters and Arias report the European Society of Endodontology S3-level clinical 
 - Use contemporary engine-driven NiTi instruments for root canal preparation in mature teeth.
 - Irrigate with NaOCl (1-5.25%) followed by EDTA and NaOCl.
 - In asymptomatic mature teeth with adequate procedures, a single visit without interappointment calcium hydroxide is recommended.
-- Gutta-percha with epoxy-resin, zinc oxide-eugenol or calcium silicate sealer by lateral, warm vertical, carrier-based or single-cone technique may be used; well-executed single-cone obturation with calcium silicate sealers may give appropriate outcomes, which removes the need to shape wide for spreaders or pluggers.
+- Gutta-percha with epoxy-resin, zinc oxide-eugenol or calcium silicate sealer by lateral, warm vertical, carrier-based or single-cone technique may be used; obturation options are listed as "may be considered".
+- Separately, Peters and Arias (2025) note that well-executed single-cone obturation may give appropriate clinical outcomes; if so, shapes need not be widened for spreaders or pluggers [Likely; inference].
 
 
 ## 13. A contemporary shaping protocol
@@ -394,12 +395,15 @@ Peters and Arias close: "only long-term observation will really disclose what ma
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.167 (printed p.150): "preserve the natural dentition for the lifetime of the patient (‘retention’) and treat or prevent apical periodontitis (‘healing’)"
+- Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.888: "worked by micro milling and finally submitted to specific annealing and cooling steps"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.56 (printed p.30): "Electropolishing of instruments has also been introduced by some manufacturers"
+- Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.172 (printed p.155): "Better delivery of irrigants to the apical third"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.304 (printed p.297): "vertical fracture or other nonendodontic causes are the major reasons for the eventual loss of root canal–treated teeth"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.176 (printed p.159): "root fracture and non-restorable carious defects are most frequently cited for the reason to extract root canal-treated teeth"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.179 (printed p.162): "healing outcomes after root canal treatments remain substantially similar"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.166 (printed p.149): "success as determined by the absence of periapical periodontitis was about 83% and 80% for initial treatment and re-treatment"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.185 (printed p.168): "preparation and disinfection of the root canal as the single most important factor in the treatment of endodontic pathosis"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.53: "Three major elements determine the predictability of successful endodontics"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.53 (printed p.27): "Three major elements determine the predictability of successful endodontics"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.917: "more conservative access cavities, in particular in premolars, may increase fracture resistance and permit similar shaping outcomes"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.310 (printed p.303): "preserving pericervical dentin (4 mm above and below the crestal bone) is crucial for the distribution of functional stresses"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.176 (printed p.159): "Clinicians should therefore consider the use of instruments with a limited maximum flute diameter (MFD)"
@@ -409,54 +413,54 @@ Peters and Arias close: "only long-term observation will really disclose what ma
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.169 (printed p.152): "The management of this curvature with a Gates–Glidden drill before scouting an MB2 canal in an upper molar is a common practice among inexperienced clinicians"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.320 (printed p.313): "The amount of dentin removed in the coronal third makes Gates-Glidden drills an unsuitable instrument for modern endodontics"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "The resulting shape is larger than needed in the coronal third, potentially debilitating the tooth"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "The alloy was called Nitinol, an acronym for the elements from which the material was composed"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "composed of approximately 56% nickel and 44% titanium by weight and is generically known as 55 Nitinol"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "The alloy was called Nitinol, an acronym for the elements from which the material was composed"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "composed of approximately 56% nickel and 44% titanium by weight and is generically known as 55 Nitinol"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.297 (printed p.272): "This alloy consists of 55% nickel and 45% titanium by"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.142 (printed p.126): "M-wire consists of 55.8% nickel in weight with the addition of some iron"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.142 (printed p.126): "this alloy is characterized by a lower percentage weight of nickel (52.1%)"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54: "size #15 NiTi instruments were two to three times more flexible than stainless steel instruments"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "The superelasticity of NiTi allows deformation of as much as 8% strain to be fully recoverable"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.54 (printed p.28): "size #15 NiTi instruments were two to three times more flexible than stainless steel instruments"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "The superelasticity of NiTi allows deformation of as much as 8% strain to be fully recoverable"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.138 (printed p.122): "even after substantial deformation (up to 10%) once the load is removed"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "This phenomenon is called a stress-induced thermoelastic transformation"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "superelasticity and high resistance to cyclic fatigue"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.78: "changes in the transformation behavior via heat treatment was effective in increasing the flexibility of NiTi endodontic instruments"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79: "M-wire was introduced in 2007 using a proprietary thermal cycling process"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79: "In 2008, instruments were developed by transforming a raw NiTi wire in the austenite phase into the R-phase through a thermal process"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "This phenomenon is called a stress-induced thermoelastic transformation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "superelasticity and high resistance to cyclic fatigue"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.78 (printed p.52): "changes in the transformation behavior via heat treatment was effective in increasing the flexibility of NiTi endodontic instruments"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79 (printed p.53): "M-wire was introduced in 2007 using a proprietary thermal cycling process"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79 (printed p.53): "In 2008, instruments were developed by transforming a raw NiTi wire in the austenite phase into the R-phase through a thermal process"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.297 (printed p.272): "This system is composed of three crystalline phases—deformed and microtwinned martensite, premartensitic R phase, and austenitic phase"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.297 (printed p.272): "an austenitic finish temperature of approximately 55°C"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.142 (printed p.126): "permanently deformed CM-wire instruments will regain their original shape when heated during sterilization"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79: "the centering ability is improved and transportation is reduced while using these new-generation files"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79: "up to seven sterilization cycles have not significantly affected the flexibility or fracture resistance"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79 (printed p.53): "the centering ability is improved and transportation is reduced while using these new-generation files"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.79 (printed p.53): "up to seven sterilization cycles have not significantly affected the flexibility or fracture resistance"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.1001: "this benefit was greatly reduced at body temperature"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.171 (printed p.154): "flexible martensitic alloy cut more rapidly than conventional NiTi alloys when used with light touch"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "The phenomenon of repeated cyclic metal fatigue may be the most important factor in instrument separation"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55: "Instruments fracture most commonly at the point of maximum flexion of the shaft, which clinically often corresponds to the midpoint of the canal curvature"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "The phenomenon of repeated cyclic metal fatigue may be the most important factor in instrument separation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "Instruments fracture most commonly at the point of maximum flexion of the shaft, which clinically often corresponds to the midpoint of the canal curvature"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.1002: "A crown-down approach is recommended to reduce torsional loads"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.57: "The ideal configuration is slow-speed and low-torque or preferably right-torque motors"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.57 (printed p.31): "The ideal configuration is slow-speed and low-torque or preferably right-torque motors"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.303 (printed p.278): "the rotary files are used in rotary mode but would change to reciprocal mode once the file exceeds a certain stress inside the canal"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.90: "Reciprocation is defined as any repetitive back-and-forth motion and has been used clinically to drive stainless steel files since 1958"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.91: "Yared in 2007 described the use of a ProTaper F2 file in a reciprocating handpiece"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.90 (printed p.64): "Reciprocation is defined as any repetitive back-and-forth motion and has been used clinically to drive stainless steel files since 1958"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.91 (printed p.65): "Yared in 2007 described the use of a ProTaper F2 file in a reciprocating handpiece"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.297 (printed p.272): "The counterclockwise engaging angle is five times the clockwise disengaging angle"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.91: "The angles of rotation are unequal and lower than the angle at which the elastic limit of the metal composing the instrument develops"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.92: "research to date has not indicated they are superior to files used in continuous rotation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.91 (printed p.65): "The angles of rotation are unequal and lower than the angle at which the elastic limit of the metal composing the instrument develops"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.92 (printed p.66): "research to date has not indicated they are superior to files used in continuous rotation"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.141 (printed p.125): "these systems consider­ ably reduce the working time"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.141 (printed p.125): "an increased tendency of apical debris extrusion with reciprocating instruments"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.297 (printed p.272): "if improperly used, these files can caused inadvertent extrusion of periapical debris causing increased postoperative pain"
 - Schäfer, 2017, 07_7_Preparation_of_the_Root_Canal_System.md, PDF p.141 (printed p.125): "after three ‘pecks’ the instrument should be withdrawn"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.94: "relies on the gentle abrasive action of a flexible mesh lattice to prepare the root canal walls"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.94 (printed p.68): "relies on the gentle abrasive action of a flexible mesh lattice to prepare the root canal walls"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "action of the dentin from the canal walls (60–75 μm thick) and preserves the basic shape of the root canal"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "The SAF system is no longer commercially available"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.299 (printed p.274): "assuming a spoon shape of 1.5 mm depth in the final 10 mm of its length"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "They clean irregular geometries better than traditional ISO rotary files by contacting up to 75% of canal walls"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "They clean irregular geometries better than traditional ISO rotary files by contacting up to 75% of canal walls"
 - Peters, Arias and Shabahang, 2021, 14_14_Cleaning_and_Shaping.md, PDF p.324 (printed p.317): "the so-called 3D conforming instruments"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "instruments with three-dimensional shapes manufactured through a shape setting process"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "clinicians may elect to prepare two canal pathways located in the far buccal and far lingual aspects of the canal"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.942: "Naturally, a rotating file can produce a round canal at best"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "According to John West, a glide path is defined as a smooth radicular tunnel from the orifice of the canal to the physiologic terminus of the root canal"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "According to John West, a glide path is defined as a smooth radicular tunnel from the orifice of the canal to the physiologic terminus of the root canal"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "a straight, not precurved size #10 K-file can passively and smoothly travel to working length"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "This should be tested from 1–2 mm off working length, as well as from 5–6 mm away"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.175 (printed p.158): "these small-diameter rotaries should be used only after a size #10 K-file is placed to working length"
-- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96: "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "the manual technique continues to offer undeniable advantages: greater tactile control, lower risk of endodontic fracture"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.923: "The creation of a rotary glide path has demonstrated better preservation of the canal anatomy with fewer shaping aberrations"
 - Peters, Peters and Basrani, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.923: "has shown a less incidence of postoperative pain"
 - Peters and Arias, 2025, 07_7_Shaping_Disinfection_and_Obturation_for_Molars.md, PDF p.172 (printed p.155): "strongly suggests that keeping canals patent is associated with better outcomes"
@@ -530,7 +534,7 @@ Peters and Arias close: "only long-term observation will really disclose what ma
 ## REFERENCES (alphabetical)
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.14 Shaping and cleaning of the radicular space: instruments and techniques.
 - Hülsmann M, Schäfer E. Preparation of the coronal and radicular spaces. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.20.
-- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.
+- Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3, pp.27-86.
 - Peters OA, Arias A, Shabahang S. Cleaning and shaping. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.14.
 - Peters OA, Arias A. Shaping, disinfection and obturation for molars. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.7.
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.

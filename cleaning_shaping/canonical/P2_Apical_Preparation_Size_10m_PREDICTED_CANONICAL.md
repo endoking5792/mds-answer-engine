@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the controversy sections of Q01 and Q02 and the "critically appraise the evidence" format of the Mock 2025 papers.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 366 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 384 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built from chapters read for Q01 and Q02: Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Grossman's Ch.14 (Gopikrishna, 2021); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Molar Guidebook Ch.7 (Peters and Arias, 2025); Harty's Ch.7 (Schäfer, 2017); Gutmann and Lovdahl Ch.10 (Gutmann and Lovdahl, 2011); Endodontology Ch.24 (Baumann and Beer, 2010). No live search.
 
@@ -30,11 +30,11 @@ Final apical size "remains a much-disputed entity" (Peters, Peters and Basrani, 
 **Evidence for smaller sizes**
 - Some studies found no difference in bacterial counts between small and large sizes (Peters, Peters and Basrani, 2021).
 - Larger sizes transport curved canals (stainless steel beyond #20), create zips and ledges, weaken roots and increase extrusion (Peters, Arias and Shabahang, 2021; Gutmann and Lovdahl, 2011).
-- In oval canals, making the apex round would need overenlargement (Siqueira et al, 2022); large sizes may pack debris into isthmuses (Peters and Arias, 2025).
+- In oval canals, making the apex round would need overenlargement (Siqueira et al, 2022); shaping to larger sizes may compact dentine shavings into canal portions that irrigant cannot then reach (Peters and Arias, 2025).
 
 **Appraisal**
 - No apical size has been shown to give better clinical outcomes (Peters and Arias, 2025); most data are in vitro or microbiological.
-- The old rules (three sizes beyond the first binding file; white shavings) have no biological basis (Gopikrishna, 2021).
+- The old rules (three sizes beyond the first binding file; white shavings) are no longer recommended, and shaving colour is no indication of infected dentine (Gopikrishna, 2021).
 - Taper can substitute for diameter: a variably tapered #30 file may reach 9% taper apically (Gutmann and Lovdahl, 2011).
 - NiTi allows larger sizes safely in curves.
 
