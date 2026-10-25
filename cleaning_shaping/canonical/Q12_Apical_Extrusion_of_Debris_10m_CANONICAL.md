@@ -3,12 +3,12 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Mock 2025 (ABS PII). Repeats absorbed: none.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 369 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 384 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read: Ingle's Ch.20 section "Extrusion of debris" (Hülsmann and Schäfer, 2019); Treatment of Endodontic Infections Ch.18 section "Apical extrusion of debris" (Rôças and Siqueira, 2022). Reused: Grossman's Ch.14 (Gopikrishna, 2021); Harty's Ch.7 (Schäfer, 2017); Weine's Ch.5 ultrasonics (Weine, 2004); Cohen's Ch.8 irrigation devices (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022). The meta-analysis and clinical trials are cited as reported by the textbooks. No live search.
 
 
-<!--LOC: i_impossible, r_100, r_cause, r_balance, r_quant, r_symp, r_crown, i_bacteremia, g_cdadv, g_extrus, c_notconf, i_bfextr, i_ultraextr, w_flareups, i_meta, i_neuro, i_piston, i_266, i_rotsingle, i_recipmore, h_cracks, g_recipextr, c_nobind, q_needle, q_flow, c_eaextr, c_anpsafe, t_patency-->
+<!--LOC: i_impossible, g_largemaf, r_100, r_cause, r_balance, r_quant, r_symp, r_crown, i_bacteremia, g_cdadv, g_extrus, c_notconf, i_bfextr, i_ultraextr, w_flareups, i_meta, i_neuro, i_piston, i_266, i_rotsingle, i_recipmore, h_cracks, g_recipextr, c_nobind, q_needle, q_flow, c_eaextr, c_anpsafe, t_patency-->
 
 <!--REF: Hulsmann2019, Rocas2022, Gopikrishna2021, Schafer2017, Weine2004, Peters2021C, Peters2021T, Siqueira2022-->
 
@@ -43,7 +43,7 @@ Instrument cross-section and chip space matter more than motion: large cross-sec
 
 **Comparison of irrigation protocols:** open-ended or bound needles and high pressure extrude most; side-vented needles 1 mm short at 4-15 ml/min are safer (Siqueira et al, 2022); sonic activation (EndoActivator) extrudes minimally; apical negative pressure (EndoVac) is the safest (Peters, Peters and Basrani, 2021).
 
-**Factors increasing extrusion:** over-instrumentation beyond the foramen; loss of the apical constriction (resorption, open apex); linear filing; large cross-section files with little chip space; forcing files or using them too long at length; high irrigant pressure and bound needles; larger apical sizes; and, in some studies, more instruments in the sequence (Hülsmann and Schäfer, 2019).
+**Factors increasing extrusion:** over-instrumentation beyond the foramen; loss of the apical constriction (resorption, open apex); linear filing; large cross-section files with little chip space; forcing files or using them too long at length; high irrigant pressure and bound needles; larger apical sizes; and, in some studies, more instruments in the sequence (Hülsmann and Schäfer, 2019); larger master apical files raise the risk of extruding irrigant and filling material (Gopikrishna, 2021).
 
 **Prevention:** accurate electronic working length kept within the canal; coronal pre-enlargement and crown-down sequences; patency with small files used passively (it does not increase pain; Peters, Arias and Shabahang, 2021); full-sequence rotary or balanced force rather than linear filing; light pecking strokes; loose, moving side-vented needles or negative pressure; extra care in symptomatic teeth and medically compromised patients.
 
@@ -65,6 +65,7 @@ Instrument cross-section and chip space matter more than motion: large cross-sec
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Hülsmann and Schäfer, 2019, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.550 (printed p.611): "Avoiding extrusion of some debris during root canal preparation is virtually impossible"
+- Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.318 (printed p.293): "Increased probability of physical disruption of bacterial biofilms due to mechanical removal of radicular dentin"
 - Rôças and Siqueira, 2022, 18_Chapter_18_Endodontic_emergencies_of_infectious_origin., PDF p.1047: "All instrumentation techniques promoted apical extrusion of debris/bacteria in"
 - Rôças and Siqueira, 2022, 18_Chapter_18_Endodontic_emergencies_of_infectious_origin., PDF p.1046: "Extrusion of infected debris to the periradicular tissues during chemomechanical preparation is allegedly one of the principal causes of postoperative pain"
 - Rôças and Siqueira, 2022, 18_Chapter_18_Endodontic_emergencies_of_infectious_origin., PDF p.1046: "In teeth with asymptomatic apical periodontitis, a balance has been established between bacterial aggression from the infected canal and host defenses"

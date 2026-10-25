@@ -3,7 +3,7 @@
 **Marks:** 25m, Long Essay
 **Sitting:** Apr 2022 (NU PII). Repeats absorbed: "Cleaning, shaping and obturation of difficult to treat root canals." 20m Sep 2010 (PIII 07-15); "Discuss cleaning, shaping and obturation of difficult to treat root canals." 20m May 2013 (RG PIII RS-2); probably the May 2015 (RG PIII RS-3) 20m entry whose wording is lost in the repository (to be verified against the scan). For the 20m "cleaning, shaping and obturation" wording, write sections 1-4 in short form and section 5 in full.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 906 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 908 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read for this answer: Weine's Ch.5 "Intracanal treatment procedures, basic and advanced topics", sections "Aids for preparing difficult canals" and "Preparation in extremely curved canals" (Weine, 2004); Molar Guidebook Ch.7 complex-case strategies and obturation (Peters and Arias, 2025). Reused: Grossman's Ch.14 (Gopikrishna, 2021) glide path and calcified canals; Harty's Ch.7 (Schäfer, 2017); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Ingle's Ch.20 (Hülsmann and Schäfer, 2019). Not used: Gutmann's Problem Solving in Endodontics and Hülsmann and Schäfer's Problems in Endodontics (kept for Q13 canal impediments). Curved canals are answered in full in Q06 and calcified canals in Q07; this answer covers all difficult canals at the depth a 25m essay allows. No live search.
 
@@ -45,14 +45,14 @@ Grossman's: "radiographs taken at different angulations provide useful informati
 - Case difficulty assessment (AAE form) and referral when beyond skill (Peters, Arias and Shabahang, 2021).
 - Preoperative radiographs at two or more angulations to judge curvature and calcification (Gopikrishna, 2021); Schneider's method to measure curvature (Weine, 2004).
 - CBCT for multiplanar curves, extra canals, calcifications and resorption (Peters, Arias and Shabahang, 2021).
-- Operating microscope, loupes and illumination; dyes and NaOCl "champagne" test to find orifices.
+- Operating microscope, loupes and illumination; dyes and the NaOCl "champagne" test to find orifices [RECALL].
 - Electronic apex locator attached to the negotiating file.
 
 ## 3. Instruments and materials that help
 
 ### Explanation
 
-Grossman's: in calcified canals "stiffer files such as C+ file ... or C-Pilot file are recommended" (Gopikrishna, 2021) [SRC]; Schäfer agrees these "are helpful for initial negotiation of sclerosed canals and/or severely curved root canals" (Schäfer, 2017) [SRC]; Hülsmann and Schäfer: "stainless steel pilot instruments are best suited for bypass[ing]" ledges (Hülsmann and Schäfer, 2019) [SRC]. Intermediate sizes address the jump in diameter: from size 10 to 15 diameter "increases by 50%" (Hülsmann and Schäfer, 2019) [SRC]. Weine clips files: "if a 1 mm increment is clipped from a size 10 file, the instrument becomes a size 12", or 0.5 mm in extreme cases (Weine, 2004) [SRC]; Golden Mediums come in "sizes no. 12, 17, 22, 27, 32, and 37" (Weine, 2004) [SRC]. Peters and Arias add files with large handles "to reduce finger fatigue", rotary glide path files (some even "precurved by applying the same ethil chloride that is used for cold testing"), and hand versions of rotary files (Peters and Arias, 2025) [SRC]. Grossman's adds ultrasonic tips for calcified canals and EDTA gel (Gopikrishna, 2021) [SRC].
+Grossman's: in calcified canals "stiffer files such as C+ file ... or C-Pilot file are recommended" (Gopikrishna, 2021) [SRC]; Schäfer agrees these "are helpful for initial negotiation of sclerosed canals and/or severely curved root canals" (Schäfer, 2017) [SRC]; Hülsmann and Schäfer: "stainless steel pilot instruments are best suited for bypass[ing]" ledges (Hülsmann and Schäfer, 2019) [SRC]. Intermediate sizes address the jump in diameter: from size 10 to 15 diameter "increases by 50%" (Hülsmann and Schäfer, 2019) [SRC]. Weine clips files: "if a 1 mm increment is clipped from a size 10 file, the instrument becomes a size 12", or 0.5 mm in extreme cases (Weine, 2004) [SRC]; Golden Mediums come in "sizes no. 12, 17, 22, 27, 32, and 37" (Weine, 2004) [SRC]. Peters and Arias add that files with larger handles "may help reduce finger fatigue", rotary glide path files (some even "precurved by applying the same ethil chloride that is used for cold testing"), and hand versions of rotary files (Peters and Arias, 2025) [SRC]. Grossman's adds ultrasonic tips for calcified canals and EDTA gel (Gopikrishna, 2021) [SRC].
 
 #### ✎ Exam core
 

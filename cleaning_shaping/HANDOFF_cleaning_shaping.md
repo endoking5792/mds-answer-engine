@@ -1,6 +1,6 @@
 # HANDOFF: cleaning_shaping (Roseline, 2026-10-25)
 
-**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Not second-read, not published to the Answer Bank, no vault copy, no .docx.
+**Status:** FIRST DRAFT COMPLETE in canonical format. 15 repository answers + 3 predicted in `canonical/`, question set agreed with Roseline (`_QUESTIONS.md`). Every exam core is inside its Section 7 range; 689 verbatim locators verified (`python3 locators.py` prints missing 0). Second-reader check done 2026-10-25 (`_AUDIT_2026-10-25.md`: 10 corrections in Q02, Q05, Q07, Q10, Q11, Q12, P3). Not published to the Answer Bank, no vault copy, no .docx.
 
 ## Files and exam-core word counts
 
@@ -64,7 +64,7 @@
 ## Open points
 
 1. May 2015 (RG PIII RS-3) 20m entry has lost its wording in the repository; placed under Q05 as a guess. Check the scan.
-2. Second-reader check not done.
+2. Second-reader check done 2026-10-25; see `_AUDIT_2026-10-25.md`.
 3. Not published to the Answer Bank (Rule 7, publish_guard.py); vault copy not written; no .docx (skill 7.1 item 13).
 4. Curved-canal anatomy overlaps Medhinir's `root_canal_anatomy`; Q06 points to it.
 5. `[RECALL]` items: pulp stone types, rubber dam timing and champagne test (Q07), guided endodontics (Q07).

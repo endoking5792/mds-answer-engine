@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** 10-Jul-2023 (RG PII RS-5). Repeats absorbed: none.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 369 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 375 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built from chapters read for Q01 and Q02: Grossman's Ch.14 (Gopikrishna, 2021); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Molar Guidebook Ch.7 (Peters and Arias, 2025); Current Therapy Ch.3 (Jain, 2016); Ingle's Ch.20 (Hülsmann and Schäfer, 2019); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021); Harty's Ch.7 (Schäfer, 2017); Gutmann and Lovdahl Ch.10 (Gutmann and Lovdahl, 2011). No live search.
 
@@ -28,7 +28,7 @@ On precurving, Grossman's uses "a precurved ISO size 10 or ISO size 8" (Gopikris
 
 **Armamentarium**
 - *Manual:* #06, #08, #10, #15 (to #20) stainless steel K-files; C+ / C-Pilot files for calcified canals; Golden Mediums (#12, #17) for the #10-#15 jump (Gopikrishna, 2021; Peters and Arias, 2025).
-- *Engine-driven:* ProGlider, PathFiles, Scout RaCe, G-Files, TruNatomy Glider (Peters, Peters and Basrani, 2021).
+- *Engine-driven:* PathFiles, Scout RaCe, G-Files (Peters, Peters and Basrani, 2021); ProGlider (Gopikrishna, 2021); TruNatomy Glider (Peters and Arias, 2025).
 - *Adjuncts:* viscous chelator (EDTA gel) or NaOCl, apex locator, magnification.
 
 **Steps**

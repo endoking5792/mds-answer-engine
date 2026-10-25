@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the 3D conforming and adaptive instruments in Q02 and Q15, and the oval-canal objectives in Torabinejad's chapter.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 358 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 361 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Built from chapters read for Q01, Q02 and Q15: Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Treatment of Endodontic Infections Ch.12 (Siqueira et al, 2022); Grossman's Ch.14 (Gopikrishna, 2021); Current Therapy Ch.3 (Jain, 2016); Molar Guidebook Ch.7 (Peters and Arias, 2025); Ingle's Ch.20 (Hülsmann and Schäfer, 2019); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021). TRUShape figures in Jain's chapter appear to be manufacturer data. No live search.
 
@@ -22,7 +22,7 @@ Torabinejad's learning objectives include shaping canals that are "round, oval, 
 
 **Introduction.** Many canals are oval, ribbon-shaped, C-shaped or joined by isthmuses, particularly distal roots of mandibular molars, mandibular incisors and premolars; their oval cross-section often extends to the apex (Peters, Peters and Basrani, 2021).
 
-**Problem.** Rotary files cut a round canal at best; the first file binds to the narrow diameter, so the wide buccal and lingual extensions remain untouched and filled with infected tissue and debris (Peters, Peters and Basrani, 2021; Siqueira et al, 2022). Up to 28-83% of canal walls may stay unprepared (Hülsmann and Schäfer, 2019). Enlarging to the widest diameter would overenlarge and weaken the root (Siqueira et al, 2022).
+**Problem.** Rotary files cut a round canal at best; the first file binds to the narrow diameter, so the wide buccal and lingual extensions remain untouched and filled with infected tissue and debris (Peters, Peters and Basrani, 2021; Siqueira et al, 2022). In one micro-CT study 28-83% of canal walls in premolars stayed unprepared (Hülsmann and Schäfer, 2019). Enlarging to the widest diameter would overenlarge and weaken the root (Siqueira et al, 2022).
 
 **Strategies with conventional instruments**
 - Shape as two canals: buccal and lingual paths (Peters, Peters and Basrani, 2021; Peters and Arias, 2025).

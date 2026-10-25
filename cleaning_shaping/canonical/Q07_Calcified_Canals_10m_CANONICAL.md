@@ -3,12 +3,12 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2014 (RG PIII RS-2). Repeats absorbed: "Management of calcified canals" 7m Jun 2018 (RG PIII RS-3); "Calcified root canals, Causes and Management." 7m 2016 (ABS PIII); "Discuss causes and management of calcified teeth in endodontics." 5m Mar 2018 (ABS PIII). For 5m write the causes and the management list only.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 329 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 342 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Written directly as a canonical answer (no separate Study/Exam draft).
 
 **Retrieval report.** Read: Gutmann and Lovdahl's Problem Solving in Endodontics Ch.8, sections on pulp chamber calcifications and calcification of the dental pulp (Gutmann and Lovdahl, 2011); Common Complications in Endodontics Ch.4, "Locating calcified canals" (Johnson, 2025). Reused: Grossman's Ch.14 (Gopikrishna, 2021); Harty's Ch.7 (Schäfer, 2017); Cohen's Ch.8 (Peters, Peters and Basrani, 2021); Endodontics: Principles and Practice Ch.14 (Peters, Arias and Shabahang, 2021). Guided endodontics (3D-printed templates) is in the Recent Advances repository as its own topic and is mentioned only as [RECALL]. No live search.
 
 
-<!--LOC: u_signs, u_slow, u_vpt, g_calccause, t_mineral, u_center, u_bitewing, u_parallel, u_never, u_x30, u_ultra, j_cej, j_cbct, j_transill, j_trough, j_bur, g_angles, g_explorer, g_edtagel, g_calcult, g_monitor, g_cplus, h_cplus, h_cpressure, c_chelcalc, c_chelcaut, c_mineral, c_mintech, w_half-->
+<!--LOC: u_signs, j_trough, u_slow, u_vpt, g_calccause, t_mineral, u_center, u_bitewing, u_parallel, u_never, u_x30, u_ultra, j_cej, j_cbct, j_transill, j_trough, j_bur, g_angles, g_explorer, g_edtagel, g_calcult, g_monitor, g_cplus, h_cplus, h_cpressure, c_chelcalc, c_chelcaut, c_mineral, c_mintech, w_half-->
 
 <!--REF: Gutmann2011, Johnson2025, Gopikrishna2021, Schafer2017, Peters2021C, Peters2021T, Weine2004-->
 
@@ -20,9 +20,9 @@ Gutmann and Lovdahl: "pulpal calcifications are signs of pathosis, not the cause
 
 #### ✎ Exam core
 
-**Causes:** age (secondary dentine); caries, restorations and attrition (tertiary dentine); trauma (pulp canal obliteration); vital pulp therapy with calcium hydroxide; periodontal disease; inflammation (Gutmann and Lovdahl, 2011; Gopikrishna, 2021). Calcifications are signs of chronic irritation, not its cause; they progress coronal to apical, so the apical canal is often patent (Peters, Arias and Shabahang, 2021).
+**Causes:** age (secondary dentine) and slow, long-standing irritation from caries and repeated restorations (Gutmann and Lovdahl, 2011); pulp inflammation (Gopikrishna, 2021); vital pulp therapy with calcium hydroxide (Gutmann and Lovdahl, 2011); trauma (pulp canal obliteration) (Johnson, 2025); attrition and periodontal disease [RECALL]. Calcifications are signs of chronic irritation, not its cause; they progress coronal to apical, so the apical canal is often patent (Peters, Arias and Shabahang, 2021).
 
-**Types:** pulp stones (free, attached, embedded) in the chamber [RECALL]; diffuse (linear) calcification along the canal; complete radiographic obliteration, in which a fine canal with tissue remnants usually persists histologically (Gutmann and Lovdahl, 2011).
+**Types:** pulp stones (free, attached, embedded) in the chamber [RECALL]; diffuse (linear) calcification along the canal; apparently complete radiographic obliteration, where histology may still show small areas of residual tissue (Gutmann and Lovdahl, 2011).
 
 **Problems:** canal not visible on the radiograph; receded orifices; access may perforate the floor or the labial root surface; files cannot be advanced, causing ledges, false canals, instrument fracture and loss of working length.
 
@@ -61,6 +61,7 @@ Assessment: angled radiographs (Gopikrishna, 2021) [SRC], bite-wings for chamber
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Gutmann and Lovdahl, 2011, 08_Chapter_8_Problem_Solving_in_Tooth_Isolation_Access_Ope, PDF p.179 (printed p.168): "pulpal calcifications are signs of pathosis, not the cause of them"
+- Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.94 (printed p.83): "troughing for calcified canals"
 - Gutmann and Lovdahl, 2011, 08_Chapter_8_Problem_Solving_in_Tooth_Isolation_Access_Ope, PDF p.179 (printed p.168): "if irritants impact the tooth slowly over a long period, both the pulp chamber and the pulp canal system undergo calcific changes"
 - Gutmann and Lovdahl, 2011, 08_Chapter_8_Problem_Solving_in_Tooth_Isolation_Access_Ope, PDF p.179 (printed p.168): "Calcification is also known to occur as a result of vital pulp treatment with calcium hydroxide"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.304 (printed p.279): "reactions of the pulp to inflammatory changes have caused calcification and blockage of an orifice or of most of the root canal"
@@ -74,7 +75,6 @@ Assessment: angled radiographs (Gopikrishna, 2021) [SRC], bite-wings for chamber
 - Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.87 (printed p.76): "Even in teeth with calcified and/or receded pulp chambers, the roof of the pulp chamber can be found at the level of the CEJ"
 - Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.89 (printed p.78): "Limited field of view cone beam computed tomography (CBCT) can also be useful to assist in the location of calcified or receded canals"
 - Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.94 (printed p.83): "Transillumination with a fiber-optic light source directed through the facial or lingual/palatal aspect of a tooth at the level of the CEJ"
-- Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.94 (printed p.83): "troughing for calcified canals"
 - Johnson, 2025, 04_4_Access_Related_Complications_Bradford_R_Johnson_4_1.m, PDF p.95 (printed p.84): "Intraoperative radiograph with small round bur in place to assist in orientation while searching for calcified canals"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.304 (printed p.279): "Radiographs taken at different angulations provide useful information on the extent of the calcification"
 - Gopikrishna, 2021, 14_Chapter_14_Shaping_and_Cleaning_of_the_Radicular_Space_, PDF p.305 (printed p.280): "A blocked orifice can be opened by picking out the calcified tissue with a sharp endodontic explorer or by removing the blockage using slow-speed, small, round burs"
