@@ -12,6 +12,10 @@ BOOK = {
  'Jain2016': "Jain P. Rotary instruments. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.3.",
  'Weine2004': "Weine FS. Intracanal treatment procedures, basic and advanced topics. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.5.",
  'Baumann2010': "Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.12 Sonic and ultrasonic treatment (chapter author not stated in the extracted file; cited under the editors).",
+ 'Gutmann2011': "Gutmann JL, Lovdahl PE. Problem Solving in Endodontics: Prevention, Identification, and Management. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.8 Problem solving in tooth isolation, access openings, and identification of orifice locations; Ch.10 Problem-solving clinical techniques in enlarging and shaping the root canal.",
+ 'Johnson2025': "Johnson BR. Access-related complications. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer Nature; 2025. Ch.4.",
+ 'Rocas2022': "Rôças IN, Siqueira JF Jr. Endodontic emergencies of infectious origin. In: Siqueira JF Jr, editor. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.18.",
+ 'Baumann2010h': "Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.24 The hybrid concept of nickel-titanium rotary instrumentation (chapter author not stated in the extracted file; cited under the editors).",
  'Schafer2017': "Schäfer E. Preparation of the root canal system. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.7.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
