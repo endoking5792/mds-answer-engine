@@ -603,6 +603,26 @@ L = {
  'c_mineral':('coh','preparing mineralized canals requires advanced operator skills and is facilitated by magnification'),
  'c_mintech':('coh','in some instances of highly mineralized canals, clinicians must devise strategies using small crown-down and/or step-back sequences'),
  'i_pilot':('ing','Stainless steel pilot instruments are best suited for bypass'),
+ # Q06 curved canals
+ 'q_straighten':('siq','When passed along the curvature, the instrument tends to straighten to return to its original shape'),
+ 'q_pronounced':('siq','These effects are more pronounced with greater curvatures and with larger and stiffer instruments'),
+ 'q_smallss':('siq','the common recommendation was that curved canals'),
+ 'q_ssreason':('siq','has nothing to do with the minimum sizes needed to promote cleaning and'),
+ 't_no25':('tor','Transportation in curved canals already begins with a No. 25 file'),
+ 't_flare25':('tor','Enlargement of curved canals at the WL beyond a No. 25 file can be done only when an adequate coronal flare is developed'),
+ 't_restoring':('tor','The restoring force of the file (the tendency to return to the original straight shape of the file) exceeds the threshold for cutting dentin in a curved canal'),
+ 't_danger':('tor','the average distance to the furcal wall (danger zone) is less than the distance to the bulky outer wall (safety zone)'),
+ 't_ggcurve':('tor','To prevent stripping perforations, Gates-Glidden drills should not be placed apical to canal curvatures'),
+ 'i_flareout':('ing','can reduce the degree of the curvature and facilitate further preparation of the middle and apical thirds'),
+ 'i_precurvedanti':('ing','should be achieved by use of precurved instruments'),
+ 'i_3d':('ing','with only two planes of the curve visible in the radiograph'),
+ 'i_bf45':('ing','It has been claimed that BF preparation can achieve preparation sizes of 45 in curved canals and 80 in straight canals'),
+ 'i_bfcontra':('ing','some earlier reports have indicated signi'),
+ 'g_bftrans':('gro','The balanced force technique has shown to reduce canal transportation and ledging'),
+ 'g_dangerzone':('gro','The furcal wall of the canals in the mesial roots of molars is prone to perforation during coronal enlargement'),
+ 'h_curve':('har','the probability of canal straightening increases as the size of the stainless steel instrument or the degree of canal curvature increases'),
+ 'g_sonic23':('gro','Sonic handpieces operate at 2–3 kHz when used inside root canals'),
+ 'g_sonicfiles':('gro','the sonic system uses water as an irrigant and requires special instruments'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
