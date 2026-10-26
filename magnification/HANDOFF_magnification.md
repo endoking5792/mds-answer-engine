@@ -1,6 +1,6 @@
 # HANDOFF: magnification (Roseline, 2026-10-25)
 
-Status: FIRST DRAFT COMPLETE in canonical format; second-reader check done 2026-10-26. 7 repository answers + 3 predicted; every exam core inside its Section 7 range; 320 verbatim locators verified (`python3 locators.py` → missing 0). NOT published to the Answer Bank, vault copy not done.
+Status: FIRST DRAFT COMPLETE in canonical format; second-reader check done 2026-10-26. 7 repository answers + 3 predicted; every exam core inside its Section 7 range; 320 verbatim locators verified (`python3 locators.py` → missing 0). Published to the Answer Bank 2026-10-27 under Endodontics/Magnification in Endodontics/ (Version 63; publish_guard merge 477 -> 487 manifest entries, 482 -> 492 files, 0 lost, 0 changed; verify done by script comparison of the before/after manifest and index plus the file count, because the live listing was not saved as files.txt; index.html unchanged). Vault copy not done.
 
 ## Files (`canonical/`)
 | File | Marks | Exam core (words) |
@@ -51,4 +51,4 @@ Question grouping and the defaults taken on the open points: `_QUESTIONS.md`.
 4. Cohen's and Ingle's microscope passages were not opened; adding them would strengthen Q01-Q03.
 5. Q04 digital imaging is deliberately brief (Lam Ch.4 and Ch.20 only); the CBCT uses list beyond lesions and fractures is [RECALL].
 6. A few statements are marked [RECALL] (microsurgical root coverage, prosthodontic impression checks, orange filter, colour of root vs bone, retrofill void check).
-7. Not published to the Answer Bank (Rule 7 procedure still to run), and no vault copy.
+7. Published (Version 63). No vault copy: whoever holds the vault should copy `canonical/` files (without `_CANONICAL`) into `All Answers (Consolidated)/Endodontics/Magnification in Endodontics/`.
