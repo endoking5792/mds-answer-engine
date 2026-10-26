@@ -3,7 +3,7 @@
 **Marks:** 100m, Single Essay
 **Sitting:** RG PIV RS-old (date not printed on the scan; also listed as an either-or in the Recent Advances repository). Repeats absorbed: none at this wording. The endodontics-only essays are Q02 (75m) and Q03 (50m).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3277 words, about 149 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3324 words, about 151 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
 
 **Retrieval report.** Read in full: Sikri, Essentials of Endodontics 2nd ed Ch.30; Grossman's Endodontic Practice 14th ed Ch.9 (editor Gopikrishna); Endodontology (Baumann and Beer, eds) Ch.18; Current Therapy in Endodontics Ch.8 (Lins, Alves and de Resende); The Art and Science of Contemporary Surgical Endodontics Ch.7 (Rubinstein); Essentials of Preclinical Conservative Dentistry 2nd ed Ch.8 (Bharti and Bhasin). Read in part: Sturdevant's 2nd South Asian ed Ch.3 (magnification section); Summitt's 4th ed (visualization and caries-detection passages). Not read: Cohen's and Ingle's sections on the microscope (Cohen's Ch.11 and Ingle's Ch.19 mention it inside surgery and preparation chapters; not opened this session). Live search: none. Where the books give different dates or figures, both are shown and attributed.
 
@@ -103,7 +103,7 @@ Light: Sikri lists xenon (brighter, daylight-like), metal halide and quartz halo
 
 Lins et al (2016) describe the DOM as the base, the optical head, the light source, the engine (motorised zoom and focus) and the light splitter. Grossman's lists four optical parts of the body: eyepiece, binoculars, magnification changer and objective lens (Gopikrishna, 2021).
 
-**A. Support (mounting).** Floor stand, wall, ceiling or bench mount on a counterbalanced arm (Gopikrishna, 2021). A vibration-free site is an absolute requirement at high magnification, and cheap supports vibrate; magnetic or electromagnetic brakes hold the head in position (Baumann and Beer, 2010).
+**A. Support (mounting).** Floor stand, wall, ceiling or bench mount on a counterbalanced arm (Gopikrishna, 2021). A vibration-free site is an absolute requirement at high magnification, and cheap supports vibrate; mechanical or electromagnetic brakes hold the head in position (Baumann and Beer, 2010).
 
 **B. Optical head:**
 1. **Eyepieces:** 10×, 12.5×, 16× and 20×, of which 10× and 12.5× are most used (Gopikrishna, 2021); Sikri (2019) also lists 6.3×. Diopter settings of −5 to +5 correct for accommodation and refractive error; the rubber cups are folded down for spectacle wearers.
@@ -170,7 +170,7 @@ The ranges given by the books overlap but do not match:
 | Medium | 5-12× | 10-16× | Most nonsurgical and surgical work ("working magnification", Sikri, 2019) |
 | High | 12-20× | 20-30× | Inspection: instrument retrieval, cracks, resected root surface, documentation |
 
-Lins et al (2016) find 8× and 12.5× most useful for locating canals, because the pulp floor distorts and depth of field is lost at higher power. Baumann and Beer (2010) say ×20-25 is the usual maximum, yet endodontics needs a capacity of up to ×30 for work beyond the middle third. Rubinstein (2017) finds more than ×30 of little practical value in apical surgery, because every small movement of the patient throws the field out of focus. A loupe-equivalent 2-2.5× shows several quadrants, 3.5× one quadrant, and above this a single tooth (Gopikrishna, 2021; Ritter et al, 2019).
+Lins et al (2016) find 8× and 12.5× most useful for locating canals, because the pulp floor distorts and depth of field is lost at higher power. Baumann and Beer (2010) say ×20-25 is the usual maximum, yet endodontics needs a capacity of up to ×30 for work beyond the middle third. Rubinstein (2017) finds more than ×30 of little practical value in apical surgery, because every small movement of the patient throws the field out of focus. At 2-2.5× several quadrants are in view, at 3.5× a single quadrant, and above this the view narrows to a single tooth (Gopikrishna, 2021, describing the microscope changer). Ritter et al (2019) make the same point for loupes.
 
 ## 7. Microscope compared with other magnification aids
 
@@ -183,11 +183,11 @@ Sikri: loupes allow less than 25° forward head movement, but have one fixed mag
 | Feature | Loupes | Procedure scope / endoscope | Operating microscope |
 |---|---|---|---|
 | Magnification | Fixed; practical limit 3.5-4.5× (Rubinstein, 2017), maximum 6× (Sikri, 2019) | Up to 20× | Variable, about 2-20× and more |
-| Light | Headlamp; shadows | Built in | Coaxial; shadow-free (Baumann and Beer, 2010) |
+| Light | None built in (headlamp added; shadows) | Standard light | Coaxial; shadow-free (Baumann and Beer, 2010) |
 | Image | 3D, convergent | 2D on a screen (Rubinstein, 2017) | 3D, parallel (stereoscopic) |
 | Posture | Head 20-40° forward (fixed loupes) | Neutral | Neutral, upright |
 | Documentation | Not possible | Yes | Beam splitter, camera |
-| Cost and training | Low, easy | Moderate | High; learning curve |
+| Cost and training | Low, easy | Procedure scope less expensive (Sikri, 2019) | High; learning curve |
 
 Loupes remain the entry point, but in the books' comparison only the microscope combines high variable magnification, coaxial light and neutral posture (Sikri, 2019).
 
@@ -236,10 +236,9 @@ Ritter et al: microscopes are used for finishing porcelain margins, identifying 
 
 #### ✎ Exam core
 
-**Restorative and operative dentistry.** Microscopes are used in detail-oriented work: finishing porcelain restoration margins, identifying minute caries lesions and minimising the removal of sound tooth structure (Ritter et al, 2019). They typically have five or six steps of 2.5-20×. The accuracy of visual caries detection can improve by 50% with a prism loupe or surgical microscope (Hilton et al, 2013). Other uses are:
+**Restorative and operative dentistry.** Microscopes are used in detail-oriented work: finishing porcelain restoration margins, identifying minute caries lesions and minimising the removal of sound tooth structure (Ritter et al, 2019). They typically have five or six steps of 2.5-20×. The accuracy of visual caries detection can improve by 50% with a prism loupe or surgical microscope (Hilton et al, 2013). Other uses, not stated in the books read, are [RECALL]:
 - checking cavity walls and margins for residual caries and enamel cracks;
-- precise bonding, with control of the adhesive layer and of excess cement;
-- minimally invasive preparations.
+- precise bonding, with control of the adhesive layer and of excess cement.
 
 Cost, equipment size and perceived lack of value have limited microscope use in operative practice (Ritter et al, 2019).
 
@@ -259,7 +258,7 @@ Conventional instruments block the field, so microdentistry needs its own armame
 - **Micro-mirrors:** front-surface (no double image), round 2-5 mm, oval or rectangular (Sikri, 2019); rhodium-plated mirrors lose little light (Baumann and Beer, 2010).
 - **Ultrasonic tips:** they do not obstruct the view like a handpiece head, de-roof and trough conservatively, and suit the lateral motion needed to find MB2 (Sikri, 2019). They were first designed for retrograde preparation (Baumann and Beer, 2010).
 - **Micro-openers and handpiece-driven fine files** for calcified orifices (Gopikrishna, 2021).
-- **Others:** mini-head handpieces, fine irrigating needles, micro-pluggers, MTA carriers, microsurgical blades and fine sutures.
+- **Others:** mini-head handpieces (Sikri, 2019); fine irrigating needles, pluggers with hand grips and MTA carriers (Baumann and Beer, 2010); microsurgical blades and fine sutures [RECALL].
 
 ## 11. Documentation, communication and practice
 
@@ -313,7 +312,7 @@ Advantages: higher variable magnification, shadow-free light, an apparent gain i
 **Selecting a microscope.** Baumann and Beer (2010) advise testing the planned use before buying. The purchaser should consider:
 - a stable, vibration-free mount, since cheap supports vibrate;
 - variable working distance, continuous zoom, magnetic brakes and controls on the handgrips;
-- for endodontics, a capacity of up to ×30 and a strong xenon or LED source;
+- for endodontics, a capacity of up to ×30 and a strong light source (Baumann and Beer specify a 180 W xenon lamp);
 - the running costs of maintenance and repair, not just the purchase price, which makes a maintenance contract worthwhile.
 
 ## 13. Recent advances

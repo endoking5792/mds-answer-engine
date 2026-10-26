@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** Oct 2023 (TN MGR PIII; listed under both the Endodontics addendum and Conservative Dentistry). Repeat absorbed: "Recent advances in illumination and magnification." 25m (Jun 2016, RACD 07-16).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1747 words, about 79 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). For the 25m version, write sections 1-5 and the conclusion. The digital imaging part is kept to the essentials (digital sensors and CBCT) as agreed; a fuller Imaging topic is pending.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1786 words, about 81 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). For the 25m version, write sections 1-5 and the conclusion. The digital imaging part is kept to the essentials (digital sensors and CBCT) as agreed; a fuller Imaging topic is pending.
 
 **Retrieval report.** Read in full: Sikri Ch.30; Grossman's Ch.9; Endodontology Ch.18; Current Therapy in Endodontics Ch.8 (Lins et al); Rubinstein Ch.7; Bharti and Bhasin Ch.8; Lam, Endodontic Radiology 2nd ed Ch.4 (Intraoral digital imaging) and Ch.20 (Introduction to CBCT). Read in part: Sturdevant's magnification section. Not read: the CBCT interpretation chapters (Endodontic Radiology Ch.21 and 23) and Cohen's Ch.2. Live search: none, so "recent" here means recent in these textbooks (2010-2021), not the current literature.
 
@@ -69,8 +69,8 @@ Saemisch introduced loupes in 1876 (Rubinstein, 2017) [SRC]. Bharti and Bhasin l
 Loupes date from Saemisch (1876) (Rubinstein, 2017), but their design has advanced:
 - **Optics:** from simple single lenses with spherical and chromatic aberration, to compound achromatic lenses giving colour-perfect images, to Galilean loupes (light, 2-4.5×), to prism (Keplerian) loupes with Pechan or Schmidt prisms. Prism loupes give better magnification, a larger field, more depth and a longer working distance, up to about 6× (Bharti and Bhasin, 2020; Gopikrishna, 2021; Rubinstein, 2017).
 - **Mounting:** through-the-lens (TTL) loupes are custom-made for one operator, light, and fixed in IPD and declination. Flip-up loupes are adjustable and shareable, but heavier (Gopikrishna, 2021).
-- **Selection:** magnification 2-4× for most dentists. Working distance is matched to the operator's height (about 13-14 in, 33-35 cm, for average height), with a declination angle chosen to keep the head within about 25° of upright (Ritter et al, 2019; Sikri, 2019).
-- **Integrated LED lights** and prescription lenses.
+- **Selection:** magnification 2-4× for most dentists. Working distance is matched to the operator's height (about 13-14 in, 33-35 cm, for average height), so that the head stays within about 25° of upright, as Sikri (2019) states loupes allow (Ritter et al, 2019; Sikri, 2019).
+- **Integrated LED lights** and prescription lenses (Ritter et al, 2019).
 - **Limits that remain:** practical power of about ×3.5-×4.5 (Rubinstein, 2017); heavier at higher power; fixed magnification; no documentation.
 - **Training trend:** learning with loupes is now standard practice in preclinical conservative dentistry. Students adapt to magnified vision on loupes before moving to the microscope (Bharti and Bhasin, 2020).
 
@@ -146,7 +146,7 @@ Lam (2012) recommends intraoral digital radiography as the primary radiographic 
 | Image | Immediate | After scanning |
 | Active area | Less than 80% of the sensor | Whole plate (sizes 0, 1, 2, 4) |
 | Resolution | About 11 lp/mm (newest more than 20) | About 8 lp/mm (newest about 13) |
-| Handling | Thick, rigid, wired | Thin and flexible like film; scratches with use |
+| Handling | Thick (4-7 mm), rigid, usually wired; hard to position in small mouths | Film sizes; surface damaged by scratches, so plates need replacing |
 | Cost | High | Low per plate |
 
 Data from Lam (2012).
@@ -154,8 +154,8 @@ Data from Lam (2012).
 **Advantages:**
 - Dose reduction, mean about 55% against D-speed film; rectangular collimation cuts skin dose by up to two-thirds.
 - Speed: CCD/CMOS users save about 36 minutes a day.
-- Processing, storage and transfer without chemicals.
-- Image enhancement and measurement.
+- Easier image management after exposure (Lam, 2012); no chemical processing [RECALL].
+- Software enhancement of contrast and density.
 
 **Limits:** sensors capture 16,384 grey shades, monitors show only 256, and the eye distinguishes about 64. Film still resolves more than 22 lp/mm, against the eye's 8 lp/mm. There is little evidence that software enhancement of an image has a biological correlate (Lam, 2012).
 
@@ -171,7 +171,7 @@ Lam: CBCT was first described for dentistry in 1998; it uses a cone beam with a 
 
 **Reading the volume.** An abnormality seen in one plane is colocalised in the other two planes using bony landmarks and adjacent teeth. 3D renderings can be rotated to show the spatial relationship of teeth and bone. Lam (2012) stresses that how a volume is manipulated and viewed can change what is seen, and so the diagnosis; CBCT interpretation therefore needs training.
 
-**Small vs large field:** small fields of view (under 8 cm) with voxels as low as 0.076 mm suit endodontics; large fields are above 8 cm (Lam, 2012).
+**Small vs large field:** small fields of view (under 8 cm) with pixel dimensions as low as 0.076 mm suit endodontics; large fields are above 8 cm (Lam, 2012).
 
 **Dose:**
 - small-field CBCT: about 5.3-38.3 µSv;
@@ -200,7 +200,7 @@ The learning curve is long early in training (Lins et al, 2016) [SRC]; purchase,
 
 - **Cost:** purchase, maintenance and repair, for microscopes and sensors alike (Baumann and Beer, 2010).
 - **Learning curve:** early on the microscope can slow the work (Lins et al, 2016).
-- **Dose:** CBCT must be justified, using the smallest field that answers the question.
+- **Dose:** CBCT must be justified, using the smallest field that answers the question [RECALL]; Lam (2012) notes dose varies widely with field size, kVp, mA and mode.
 - **Image quality:** monitor and software limits; data management and storage. [RECALL]
 
 ## 9. Conclusion

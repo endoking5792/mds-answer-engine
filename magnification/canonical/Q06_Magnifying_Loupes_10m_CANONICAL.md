@@ -56,7 +56,7 @@ Loupes were introduced to surgery by Saemisch in 1876 (Rubinstein, 2017) [SRC]. 
 
 A fibre-optic headlamp raises light up to four times that of the operatory light (Rubinstein, 2017).
 
-**Conclusion.** Loupes are the most common and most affordable magnification aid. Prism loupes at 3.5-4.5× with an LED headlamp suit most restorative and nonsurgical work. Work needing higher, variable magnification or documentation calls for the operating microscope.
+**Conclusion.** Loupes are the most common and most affordable magnification aid. Most dentists work at 2-4× (Ritter et al, 2019), with a headlamp for light. Work needing higher, variable magnification or documentation calls for the operating microscope.
 
 ## HIGH-YIELD POINTS
 - Galilean 2-4.5×; prism up to 6×; practical limit ×3.5-×4.5.

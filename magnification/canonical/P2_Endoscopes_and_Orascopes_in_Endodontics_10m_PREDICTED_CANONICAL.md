@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED (not in the repositories; wording is ours). Current Therapy Ch.8 sets questions on endoscope magnification, which makes a short note plausible.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 335 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 336 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Current Therapy in Endodontics Ch.8 (Lins et al); Rubinstein Ch.7; Sikri Ch.30. No live search; no critical synthesis (10 marks). The books disagree on the recommended rod lens for nonsurgical use, and both versions are shown.
 
@@ -36,7 +36,7 @@ Endoscopy means "to see inside"; endoscopes were introduced into endodontics in 
 **Uses:**
 - diagnosis of fractures and cracks;
 - locating canals;
-- checking cleaning, obturation and retreatment;
+- checking cleaning, obturation and retreatment [RECALL];
 - inspecting the resected root end, isthmus and portals of exit in surgery.
 
 **Advantages:** the lens sits close to the object, giving about ×30-×40; a non-fixed focus; viewing at many angles (Rubinstein, 2017).

@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED (not in the repositories; wording is ours). Ergonomics appears inside every magnification essay, so a short note is plausible.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 328 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 333 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Sikri Ch.30; Endodontology Ch.18; Rubinstein Ch.7; Grossman's Ch.9; Bharti and Bhasin Ch.8. No live search; no critical synthesis (10 marks).
 
@@ -24,7 +24,7 @@ Ergonomics comes from Greek *ergon* (work) and *nomoi* (natural laws). Working w
 | Aid | Head position |
 |---|---|
 | None | Marked forward flexion |
-| Loupes (fixed, TTL) | 20-40° forward (under 25° when well fitted) |
+| Loupes (fixed, TTL) | 20-40° forward in Sikri's table; Sikri's text says loupes allow under 25° |
 | Procedure scope | Near neutral |
 | Microscope | Near neutral |
 

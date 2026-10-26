@@ -3,7 +3,7 @@
 **Marks:** 75m, Single Essay
 **Sitting:** Nov 2016 (RG PIV RS-3). Repeats absorbed: "Microscopes in Endodontics" 75m (Apr 2015, Manipal PIV); "Magnification in Endodontics." 50m (Jul 2023, TN MGR PIII); "Magnification in endodontics." 5m (May 2019, PIII 16-21).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2641 words, about 120 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks). For a 50m sitting, write sections 1, 4-8 and 10-13 and shorten the tables.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2654 words, about 121 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks). For a 50m sitting, write sections 1, 4-8 and 10-13 and shorten the tables.
 
 **Retrieval report.** Read in full: Sikri Ch.30; Grossman's Ch.9 (Gopikrishna, editor); Endodontology Ch.18 (Baumann and Beer, editors); Current Therapy in Endodontics Ch.8 (Lins, Alves and de Resende); Rubinstein Ch.7 in Torabinejad and Rubinstein; Bharti and Bhasin Ch.8 in Singh. Read in part: Sturdevant's (magnification section). Not read: Cohen's and Ingle's microscope passages. Live search: none.
 
@@ -142,7 +142,7 @@ Procedure scope: camera above the mouth projecting up to 20× onto an LCD screen
 |---|---|---|---|
 | Magnification | Usually fixed, 2-6× | Variable, 2-20× | Variable, 2-20× |
 | Focusing | By moving the neck | By the camera | By the microscope |
-| Light | Separate headlamp | Standard | Coaxial |
+| Light | None built in (headlamp added) | Standard | Coaxial |
 | Head posture | 20-40° forward | Near neutral | Near neutral |
 | Image | 3D, convergent | 2D on a screen | 3D, binocular |
 | Cost | Low | Low | High |
@@ -234,7 +234,7 @@ Diagnosis: incipient caries, sinus tracts and cracks (Sikri, 2019) [SRC]; vertic
 - Aids under the microscope (Lins et al, 2016): Stropko's red or white line joining MB1 to MB2; NaOCl bubbling over an orifice; 1% methylene blue; 1% sodium fluorescein with a cobalt-blue filter (green orifices).
 - Calcified canals: ultrasonic troughing of the floor and micro-openers (Gopikrishna, 2021).
 
-**C. Cleaning, shaping and obturation:** removal of pulp remnants; assessment of canal dryness and sealer distribution (Sikri, 2019); control of the apical seal and down-pack.
+**C. Cleaning, shaping and obturation:** removal of pulp remnants; assessment of canal dryness and sealer distribution (Sikri, 2019); control of the apical seal and down-pack, shown at ×20-×30 in Baumann and Beer's (2010) clinical figures.
 
 **D. Retreatment and mishaps:**
 - Bypassing ledges, removing separated instruments and repairing perforations are now more predictable (Sikri, 2019).

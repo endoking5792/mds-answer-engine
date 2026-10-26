@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED (not in the repositories; wording is ours). It combines the three clinical uses the books stress most.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 334 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). For instrument-removal devices in detail see procedural_errors Q08.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 352 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). For instrument-removal devices in detail see procedural_errors Q08.
 
 **Retrieval report.** Sikri Ch.30; Grossman's Ch.9; Current Therapy in Endodontics Ch.8 (Lins et al); Endodontology Ch.18. No live search; no critical synthesis (10 marks).
 
@@ -29,7 +29,7 @@ MB2 detection rose from 73% before magnification to 93% with the microscope; mid
   - NaOCl bubbling over the orifice;
   - 1% methylene blue;
   - 1% sodium fluorescein with a cobalt-blue filter (green orifices).
-- **Technique:** modify the access towards mesial; remove the dentine shelf with ultrasonic tips, whose lateral motion and slim shank keep the view clear (Sikri, 2019).
+- **Technique:** modify the access outline from triangular to trapezoidal, rectangular or rhomboidal (Lins et al, 2016); remove the dentine shelf with ultrasonic tips, whose lateral motion and slim shank keep the view clear (Sikri, 2019).
 
 **2. Calcified canals:**
 - Ultrasonic troughing of the floor under vision; the white debris marks the orifice (Gopikrishna, 2021).
@@ -40,7 +40,7 @@ MB2 detection rose from 73% before magnification to 93% with the microscope; mid
 **3. Separated instruments:**
 - High magnification (12-20×) is used sparingly for retrieval (Gopikrishna, 2021). Work beyond the middle third needs capacity up to ×30 (Baumann and Beer, 2010).
 - **Sequence:**
-  1. Straight-line access and a staging platform.
+  1. Straight-line access and a staging platform [RECALL; see procedural_errors Q08 for the sourced technique].
   2. Thin non-diamond ultrasonic tips, touching only the fragment, loosen it.
   3. Irrigation flushes it out (Lins et al, 2016).
 - The fragment, the space around it and its mobility can be seen, so dentine loss and perforation are minimised.

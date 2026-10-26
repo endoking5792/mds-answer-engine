@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** 18-Jun-2022 (RG PIII-D RS-5). Repeats absorbed: none at this wording; the either-or listing in the Recent Advances repository is the same sitting.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1765 words, about 80 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The question names surgical endodontics, so about half the answer is on surgery.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1777 words, about 81 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The question names surgical endodontics, so about half the answer is on surgery.
 
 **Retrieval report.** Read in full: Rubinstein Ch.7 (Magnification and illumination in apical surgery); Sikri Ch.30; Grossman's Ch.9; Current Therapy in Endodontics Ch.8 (Lins et al); Endodontology Ch.18. Not read: Cohen's Ch.11 and Grossman's Ch.22 (surgery chapters; the microscope passages there were not opened this session). Live search: none.
 
@@ -99,7 +99,7 @@ Apical surgery aims to remove the part of the root that harbours uncleaned anato
 - 93% of canal ramifications occur in the apical 3 mm.
 - West found that 100% of failed specimens had at least one unfilled or underfilled portal of exit.
 
-Leaving these untreated leaves the cause of failure in place, so reinfection can recur even after the lesion is removed. Traditional surgery done without magnification and with amalgam retrofills fell to 57.7% success at 10 years (Frank et al, cited by Rubinstein, 2017).
+Leaving these untreated leaves the cause of failure in place, so reinfection can recur even after the lesion is removed. Apical surgery of that era, sealed with amalgam, fell to 57.7% success at 10 years (Frank et al, cited by Rubinstein, 2017); Rubinstein notes such surgery was often done with inadequate lighting and no magnification.
 
 **Milestones (Rubinstein, 2017):** Reuben and Apotheker first reported microscope-aided apical surgery in 1984. Pecora presented on it at the AAE in 1990, and Rubinstein and Carr began using medical-grade microscopes for apical surgery in the same year. The first symposium on microscopic endodontic surgery followed in March 1993, and training in microscopy became mandatory for US specialty programmes from January 1997. By 2008, 90% of endodontists used the microscope.
 

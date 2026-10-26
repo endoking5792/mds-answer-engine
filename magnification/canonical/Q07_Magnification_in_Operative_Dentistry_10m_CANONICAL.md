@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2010 (RG PII Cons RS-2). Repeat absorbed: "Use of magnification in restorative dentistry." (JunJul2020, Manipal addendum, marks not printed).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 354 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 362 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Sturdevant's 2nd South Asian ed Ch.3 (Ritter et al); Summitt's 4th ed (visualization and caries detection); Bharti and Bhasin Ch.8 in Singh; Sikri Ch.30 (posture and resolution). No live search; no critical synthesis (10 marks).
 
@@ -29,10 +29,10 @@ The eye resolves 0.2 mm, and forward-head working causes Tension Neck syndrome (
 
 **Uses in operative dentistry:**
 - **Caries diagnosis:** visual caries detection improves by 50% with a prism loupe or microscope (Hilton et al, 2013); incipient lesions are seen (Sikri, 2019).
-- Detecting enamel cracks and checking that caries removal is complete.
+- Detecting enamel cracks and checking that caries removal is complete [RECALL].
 - **Minimally invasive preparation:** minimal removal of sound tooth structure (Ritter et al, 2019).
-- **Restoration quality:** finishing porcelain margins, adaptation of margins, removal of excess cement and adhesive.
-- Inspection of old restorations for marginal gaps and secondary caries.
+- **Restoration quality:** finishing porcelain margins (Ritter et al, 2019); adaptation of margins and removal of excess cement and adhesive [RECALL].
+- Inspection of old restorations for marginal gaps and secondary caries [RECALL].
 - **Ergonomics:** upright posture, less fatigue; no prescription spectacles needed with the microscope (Bharti and Bhasin, 2020).
 - Documentation and patient communication; an internal marketing tool.
 

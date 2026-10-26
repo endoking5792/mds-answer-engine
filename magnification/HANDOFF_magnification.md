@@ -1,6 +1,6 @@
 # HANDOFF: magnification (Roseline, 2026-10-25)
 
-Status: FIRST DRAFT COMPLETE in canonical format. 7 repository answers + 3 predicted; every exam core inside its Section 7 range; 320 verbatim locators verified (`python3 locators.py` → missing 0). NOT second-reader checked, NOT published to the Answer Bank, vault copy not done.
+Status: FIRST DRAFT COMPLETE in canonical format; second-reader check done 2026-10-26. 7 repository answers + 3 predicted; every exam core inside its Section 7 range; 320 verbatim locators verified (`python3 locators.py` → missing 0). NOT published to the Answer Bank, vault copy not done.
 
 ## Files (`canonical/`)
 | File | Marks | Exam core (words) |
@@ -45,7 +45,7 @@ Question grouping and the defaults taken on the open points: `_QUESTIONS.md`.
 - Light source: xenon/metal halide/halogen (Sikri), LED (Grossman's), xenon 420 klx vs halogen 100 klx (Baumann and Beer).
 
 ## Open points
-1. Second-reader check of every cited sentence not done.
+1. Second-reader check DONE 2026-10-26 (single reader, 23 corrections; see `_AUDIT_2026-10-26.md`).
 2. Rubinstein chapter cited as 2017 (©2017 in the file's front matter); earlier topics cite the same book as 2019. Decide which to use.
 3. Sikri cited as 2019 (the 2nd ed eBook year used in cleaning_shaping); endodontic_failures used 2017.
 4. Cohen's and Ingle's microscope passages were not opened; adding them would strengthen Q01-Q03.
