@@ -1,5 +1,13 @@
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
+
+## 2026-10-27 — Inlay Wax: FINAL (3 answers), Answer Bank Version 64
+- Folder `inlay_wax/canonical/`: Q01 Inlay casting wax 100m (exam core 3320), Q02 Flow properties 10m (391), Q03 Technique for indirect wax pattern 100m (3338). Question set in `inlay_wax/_QUESTIONS.md`. MOD distortion and shrinkage compensation stay in casting_alloys_defects Q17 (cross-referenced).
+- Drafted by three parallel agents with separate `locators_Q1-3.py`, merged into `locators.py` (306 phrases, missing 0). Citations normalised to "Anusavice et al, 2013" and "Bhat et al, 2019".
+- Book conflicts shown side by side: Type I/II numbering reversed between Phillips/Bhat and revised ADA No. 4 (Craig, McCabe); spacer thickness, sprue gauge/angle, investing time. Book slips flagged: Bhat "more than 1% at 37 °C"; Advanced Operative Dentistry "25-30 mm" spacer.
+- Open: [RECALL] items (ISO 15854, PKT instruments, electric waxers, dipping technique, onlay/crown wax thicknesses); verify Phillips 12th year/chapter author, Marzouk and Sikri years, Advanced Operative Dentistry editors. No separate source/rules review pass run yet.
+- Published: Answer Bank Version 64 (publish_guard merge 487 -> 490 entries, 492 -> 495 files, 0 lost). Vault Answers + Consolidated copies, 00_INDEX/manifest merged (380 -> 383).
+
 ## Status (2026-10-24, cavity_prep topic): COMPLETE. 16 repository + 3 predicted canonical answers in `cavity_prep/canonical/` (Q01 recent advances in cavity preparation methods 75m; C-factor, Class II design and tooth-coloured preparation 50m; rest 25m-5m), drafted by six parallel agents and merged; 1529 locators verified, every exam core in range. Published to the Answer Bank (Version 57, manifest 418 -> 441, 0 lost) under Conservative Dentistry, Recent Advances (Q03, Q04, Q06) and Dental Materials (Q15); vault copies done. Read `cavity_prep/HANDOFF_cavity_prep.md`.
 
 ## Status (2026-10-23, dentin_hypersensitivity topic): COMPLETE. 7 repository + 3 predicted canonical answers in `dentin_hypersensitivity/canonical/` (Q1 umbrella at 100m, Q2 recent trends 25m, Q7 tooth wear + techniques 20m, rest 10m); primary source Gillam (ed.) Dentine Hypersensitivity 2nd ed 2024. 463 locators verified. Published to the Answer Bank (Version 56, manifest 405 -> 418, 0 lost) under Conservative Dentistry, Recent Advances (Q2) and Dental Materials (Q1, Q5); vault copies done. Read `dentin_hypersensitivity/HANDOFF_dentin_hypersensitivity.md`. Not committed.
