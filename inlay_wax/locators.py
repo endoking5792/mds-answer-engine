@@ -336,6 +336,10 @@ L = {
  'q3_ph_sets': ('ph', 'no distortion of the pattern will occur'),
  'q3_gg_unequal': ('gg', 'Due to unequal movement of walls of wax pattern while'),
  'q3_cr_compensate': ('cr', 'Die spacers should not be used to compensate for'),
+ 'q1_ph_contract': ('ph', 'contract as much as 0.35% when it is cooled from 37'),
+ 'q3_sk_pencil': ('sk', 'The preparation margins are outlined with a red pencil'),
+ 'q3_gg_pkt': ('gg', 'PKT3—designed by Peter K Thomas'),
+ 'q3_sk_onlay': ('sk', 'Gold alloys—1.5 mm (functional cusp) and 1.0 mm (non-functional cusp)'),
  'q3_st_excess': ('stu', 'Removing the excess die stone with a large crosscut carbide bur'),
 }
 def norm(s):

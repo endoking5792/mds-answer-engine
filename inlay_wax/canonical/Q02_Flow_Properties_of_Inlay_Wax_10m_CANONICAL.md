@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Note
 **Sitting:** Aug 2004 (DM 01-07); marks not stated on the paper, treated as 10m. No repeats absorbed.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 391 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q01 (100m, Inlay casting wax) covers composition, thermal behaviour and manipulation in full.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 373 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q01 (100m, Inlay casting wax) covers composition, thermal behaviour and manipulation in full.
 
 **Retrieval report.** Read: Phillips' Science of Dental Materials 12th ed Ch.10 (Anusavice), "Flow of dental wax", Types of inlay waxes and Table 10-1 (offset 16); Craig and Powers, Restorative Dental Materials 11th ed Ch.14, "Flow" and "Inlay casting wax" with Table 14-5 (offset 9); Powers and Wataha 10th ed Ch.10 "Flow" (offset 12); McCabe and Walls 9th ed Ch.4, flow test and Table 4.1 (offset 9); Bhat, Nandish and Jayaprakash 3rd ed Ch.14 (offset 56). Dental Material Science Exam Manual read (gives the same 1% / 70-90% figures) but not cited: no author line in the file. Craig's Table 14-5 lost its 45 °C maximum column in OCR. No live search; no critical synthesis (10 marks).
 
@@ -22,7 +22,7 @@ Phillips defines flow as the relative ability of wax to deform plastically when 
 
 **Definition.** Flow is the plastic deformation (change in shape) of wax under a small applied force at a given temperature (Anusavice et al, 2013; Powers and Wataha, 2013). It is due to slippage of wax molecules over one another (Craig and Powers, 2002).
 
-**Test (ADA Sp. No. 4 / ISO 1561).** Cylinder 10 mm × 6 mm, load 2 kg (19.6 N) for 10 minutes at the test temperature; flow = % reduction in length (McCabe and Walls, 2008; Craig and Powers, 2002).
+**Flow test.** Cylinder 10 mm × 6 mm, load 2 kg (19.6 N) for 10 minutes at the test temperature; flow = % reduction in length (McCabe and Walls, 2008; Craig and Powers, 2002).
 
 ## 2. Why flow matters
 
@@ -33,7 +33,7 @@ At 45 °C, the insertion temperature, the wax must flow enough to enter all part
 #### ✎ Exam core
 
 **Significance**
-- High flow just above mouth temperature (45 °C): wax fills the preparation and records margins and fine detail.
+- High flow just above mouth temperature (45 °C): wax fills the preparation and records margins and fine detail (Anusavice et al, 2013).
 - Minimal flow at 37 °C: pattern can be carved and withdrawn without distortion (Anusavice et al, 2013).
 - Underheated wax: poor detail and internal stress; overheated wax: no "body", cannot be compressed (Craig and Powers, 2002).
 - Flow after carving = permanent distortion, so an ill-fitting casting (Powers and Wataha, 2013).
@@ -42,9 +42,9 @@ At 45 °C, the insertion temperature, the wax must flow enough to enter all part
 
 ### Explanation
 
-Both books give the same numbers but with **opposite type numerals**. Phillips: Type I is the low-melting wax used in the mouth for direct patterns; Type II is the softer laboratory wax for indirect patterns (Anusavice et al, 2013) [SRC]; Type I maximum flow at 37 °C is 1%, and both types must flow 70-90% at 45 °C (Anusavice et al, 2013) [SRC]. Revised ANSI/ADA Specification No. 4 (ISO 1561), as given by Craig: Type 1 is soft and used indirectly; Type 2 is hard and used for direct patterns (Craig and Powers, 2002) [SRC]. McCabe uses the Craig numbering and notes that "in the past the opposite classification was used" (McCabe and Walls, 2008) [SRC]. Craig gives the soft wax about 9% flow at 37 °C (Craig and Powers, 2002) [SRC]. Bhat et al agree on 1% at 37 °C and 70-90% at 45 °C (Bhat et al, 2019) [SRC], but their list of desirable properties says "more than 1% at 37 °C" (Bhat et al, 2019) [SRC]. Their own next page sets 1% as the maximum, so this is plainly a slip for "not more than".
+Both books give the same numbers but with **opposite type numerals**. Phillips: Type I is the wax used in the mouth (called "medium" in its type description and "low-melting" in its overview) for direct patterns; Type II is the softer laboratory wax for indirect patterns (Anusavice et al, 2013) [SRC]; Type I maximum flow at 37 °C is 1%, and both types must flow 70-90% at 45 °C (Anusavice et al, 2013) [SRC]. Revised ANSI/ADA Specification No. 4 (ISO 1561), as given by Craig: Type 1 is soft and used indirectly; Type 2 is hard and used for direct patterns (Craig and Powers, 2002) [SRC]. McCabe uses the Craig numbering and notes that "in the past the opposite classification was used" (McCabe and Walls, 2008) [SRC]. Craig gives the soft wax about 9% flow at 37 °C (Craig and Powers, 2002) [SRC]. Bhat et al agree on 1% at 37 °C and 70-90% at 45 °C (Bhat et al, 2019) [SRC], but their list of desirable properties says "more than 1% at 37 °C" (Bhat et al, 2019) [SRC]. Their own next page sets 1% as the maximum, so this is plainly a slip for "not more than".
 
-| Temperature | Direct (hard) wax: Phillips Type I / ISO Type 2 | Indirect (soft) wax: Phillips Type II / ISO Type 1 |
+| Temperature | Direct wax: Phillips Type I (medium) / ISO Type 2 (hard) | Indirect (soft) wax: Phillips Type II / ISO Type 1 |
 |---|---|---|
 | 30 °C | – | max 1% |
 | 37 °C | max 1% | – |
@@ -57,7 +57,7 @@ Sources: Table 10-1 (Anusavice et al, 2013) [SRC]; Table 4.1 (McCabe and Walls, 
 
 **ADA Specification No. 4 (ISO 1561) flow requirements**
 
-| Temp. | Direct (hard) wax | Indirect (soft) wax |
+| Temp. | Direct (harder) wax | Indirect (soft) wax |
 |---|---|---|
 | 30 °C | – | max 1% |
 | 37 °C | max 1% | – |
@@ -76,17 +76,15 @@ Flow depends on wax temperature, the deforming force and the time it acts, and r
 
 **Factors affecting flow**
 1. **Temperature:** flow rises steeply near the melting range (Craig and Powers, 2002).
-2. **Force applied:** greater load, more flow.
-3. **Duration of load:** flow increases with time.
-4. **Composition:** paraffin raises flow; carnauba reduces it (Craig and Powers, 2002).
+2. **Force applied:** greater load, more flow (Craig and Powers, 2002).
+3. **Duration of load:** flow increases with time (Craig and Powers, 2002).
+4. **Composition:** more carnauba or higher-melting paraffin lowers flow (Craig and Powers, 2002).
 5. **Type:** soft wax loses plasticity at a lower temperature than hard wax (Anusavice et al, 2013).
 
 **Flow-temperature curve.** Flow stays near zero up to mouth temperature, then rises steeply over a few degrees to 70-90% at 45 °C; the curve for soft wax lies to the left of hard wax.
 
 **Clinical implications**
-- Heat evenly with dry heat to the working temperature, then apply sustained pressure while cooling.
-- Use cold instruments and avoid warming the pattern; invest promptly.
-- Choose hard (direct) wax for intraoral patterns.
+- Heat evenly, hold pressure while cooling; invest promptly [RECALL].
 
 ## HIGH-YIELD POINTS
 - 37 °C: max 1% (direct wax); 45 °C: 70-90% (both types).
