@@ -385,3 +385,9 @@ Folder: `single_multi_visit/canonical/`. Agreed set (repository §21): Q1 "Singl
 Format: canonical only (no separate Study/Exam drafts), audit block at the end of EACH answer. Q1 is the umbrella; later answers point back to it.
 Sources read for Q1: Sikri 2e Ch.21; Endodontology (Baumann & Beer) Ch.49; Siqueira & Rôças Treatment of Endodontic Infections 2e Ch.11 + Ch.20 (Gulabivala & Ng); Cohen 12e Ch.5/17/19; Harty 7e Ch.8; Weine 6e Ch.16. LIT (abstracts only): Mergoni 2022 Cochrane, Manfredi 2016, Schwendicke 2017, Moreira 2017, Olivieri 2024, Gill 2023. Not yet opened: Ingle Ch.11/34, Grossman.
 Off-topic §21 questions moved to new repository section §21A (vault edit, 2026-10-22).
+
+## 2026-10-30 — Root Canal Anatomy and Morphology: FINAL (12 answers), Answer Bank updated
+- Folder `root_canal_anatomy/`: A1-A9 (one answer per theme, all printed wordings absorbed) and P1-P3 (predicted). Questions and absorbed wordings: `root_canal_anatomy/_QUESTIONS.md`.
+- Disagreeing books are shown side by side with author and edition; no source is ranked. Ingle 7th is cited as `Ingle, year not printed`. Single-source items (e.g. Sikri's Lutein method and radix classifications) say 'one book'. Web items (Vertucci 1984, Briseno-Marroquin 2015, Ahmed 2017) are cited only at the level read (abstract or snippet).
+- Overlap to be aware of: A6 (curved and calcified canals) and A7 (MB2) overlap the Cleaning and Shaping 'biomechanical preparation of curved root canals' and Magnification 'MB2 and calcified canals' answers by other collaborators; not merged.
+- Not done: vault (`dental-study-notes`) and OneDrive .docx copies; dossiers and reader reports are kept local because they quote the textbooks.
