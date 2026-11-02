@@ -5,7 +5,7 @@
 
 **How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 331 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
-**Retrieval report.** Read in full: Sikri 2e Ch.36 opening (the triad statement) and Ch.14 (access). Searched: "endodontic triad" across the textbook repository; the only endodontic textbook sentence that names an "endodontic triad" as diagnosis, cleaning and shaping, and obturation is Sikri Ch.36 (one book). Other hits for "triad" were unrelated (sedation drugs, trauma, surgery). Not used: Schilder's three-part formulation is commonly taught but was not found by that name in the textbooks searched, so it appears only as [RECALL]. **The wording "Endodontic Triad" is ambiguous in Indian papers; this answer takes the diagnosis–cleaning and shaping–obturation meaning and flags the alternative at the end.** Live search: none.
+**Retrieval report.** Read in full: Sikri 2e Ch.36 opening (the triad statement) and Ch.14 (access). Searched: "endodontic triad" across the textbook repository; the only endodontic textbook sentence that names an "endodontic triad" as diagnosis, cleaning and shaping, and obturation is Sikri Ch.36 (one book). Other hits for "triad" were unrelated (sedation drugs, trauma, surgery). Not used: Schilder's three-part formulation is commonly taught but was not found by that name in the textbooks searched, so it appears only as [RECALL]. **The owner confirmed on 2026-11-02 that the intended meaning is diagnosis, cleaning and shaping, and three-dimensional obturation.** Live search: none.
 
 
 

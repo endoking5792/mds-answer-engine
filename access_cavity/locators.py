@@ -214,6 +214,7 @@ L = {
  'e_protect': ('end', 'to protect the tooth from overloading and possible fracture between endodontic appointments'),
  's_fastbreak': ('sik', 'Sudden disappearance or narrowing of radiolucency'),
  's_outline': ('sik', 'If the outline of root has unusual contour or not very clear, one should suspect extracanal'),
+ 'cg_surgplan': ('coh2', 'Surgical treatment planning with CBCT images have aided clinicians in identifying anatomical structures in the surgical area and increasing precision of the procedure'),
 }
 def norm(s):
     s = s.replace('­ ', '').replace('­', '').replace('‐', '-')

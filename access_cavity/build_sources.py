@@ -9,6 +9,12 @@ BOOK = {
  'Setzer2025': "Setzer FC, Walsch H. Molar access. In: Peters OA, editor. The Guidebook to Molar Endodontics. Cham: Springer Nature; 2025. Ch.6.",
  'Shabbir2021': "Shabbir J, Zehra T, Najmi N, Hasan A, Naz M, Piasecki L, Azim AA. Access cavity preparations: classification and literature review of traditional and minimally invasive endodontic access cavity designs. J Endod. 2021;47(8):1229-44. [Abstract seen only, as summarised in a web search result: https://researchconnect.buffalo.edu/en/publications/access-cavity-preparations-classification-and-literature-review-o/]",
  'Guided2025': "Guided Endodontics - Potential and Limitations (narrative review, 2025). PMC12747600. [Seen only as a web-search summary; the page itself could not be fetched. Authors and journal not verified.] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12747600/",
+ 'Jonaityte2022': "Jonaityte et al. Accuracy of dynamic navigation for non-surgical endodontic treatment: a systematic review. J Clin Med. 2022. PMC9225421. [Seen only as a web-search summary; page not fetched. First-author spelling and details not verified.] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9225421/",
+ 'Bradley2025': "Bradley. Dynamic navigation for endodontic access in calcified maxillary molars (MSc thesis with systematic review of pulp canal obliteration). University of Glasgow; 2025. [Seen only as a web-search summary.] https://theses.gla.ac.uk/85484",
+ 'DiSpirito2025': "Di Spirito et al. Dynamic navigation in endodontic surgery: a systematic review. Healthcare. 2025. PMC12428774. [Seen only as a web-search summary; this is a surgical, not an access, review.] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12428774/",
+ 'Case2025': "Effective management of calcified root canals using static-guided access: a case series (11 cases). Eur Endod J. 2025. PubMed 40145484. [Seen only as a web-search summary; authors not verified.] https://pubmed.ncbi.nlm.nih.gov/40145484/",
+ 'DentJ2023': "Influence of calcified canals localization on the accuracy of guided endodontic therapy: a case series study. Dent J (Basel). 2023;11:183. [Reference as listed in Setzer and Walsch, 2025; its content was seen only as a web-search summary, authors not verified.]",
+ 'Prospective2026': "Prospective study of 60 teeth with pulp canal obliteration comparing guided and conventional access (2026). [Seen only as a web-search summary; journal and authors not verified.]",
  'Umbrella2024': "Impact of Guided Endodontics on the Success of Endodontic Treatment: An Umbrella Review of Systematic Reviews and Meta-Analyses. PMC11459592. [Seen only as a web-search summary; the page itself could not be fetched. Authors and journal not verified.] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11459592/",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
@@ -26,7 +32,7 @@ def run(p):
     for k in dict.fromkeys(keys):
         f,ph = L[k]; path,off,cite = F[f]; lab = page_label(k); assert lab, k
         out.append(f"- {cite}, {os.path.basename(path)[:58]}, {lab}: \"{ph}\"")
-    lit = [k for k in refs if k in ('Shabbir2021','Guided2025','Umbrella2024')]
+    lit = [k for k in refs if 'Seen only' in BOOK[k] or 'Abstract seen' in BOOK[k] or 'seen only' in BOOK[k]]
     out.append('\n**[LIT]** ' + ('; '.join(lit) + ' (abstract/summary level only, see REFERENCES).' if lit else 'none: no live literature search was run for this answer.'))
     out.append('\n## REFERENCES (alphabetical)')
     for r in sorted(set(BOOK[k] for k in refs)): out.append('- '+r)

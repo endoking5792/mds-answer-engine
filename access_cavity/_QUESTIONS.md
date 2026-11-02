@@ -1,4 +1,4 @@
-# Access Cavity Preparation: question set (PROPOSED defaults, drafted 2026-11-01; not yet confirmed line by line with Medhinir)
+# Access Cavity Preparation: question set (defaults approved with "go" on 2026-11-01; C5 upgraded to 50m and C2 meaning confirmed by Medhinir on 2026-11-02)
 
 Sources: `Question Paper Bank/ENDODONTICS_MASTER_REPOSITORY.md` section 3 "Access cavity preparation" (16 printed wordings) plus the two "Access Cavity Preparation" lines of its Manipal addendum, and the TN MGR 50m "Discuss in detail about Guided Endodontics" (Jul 2023) filed under Recent Advances. Wordings are quoted as printed. One answer per theme, at the highest marks.
 
@@ -10,7 +10,7 @@ Not drafted (cross-reference only): "Resistance triad" (10m, Oct/Nov 2025 Manipa
 | C2 | 10 | "Endodontic Triad." (Short Note, Apr 2003 PIII 01-07) | "Importance of access cavity preparation in the Endodontic triad." (5m, Feb 2005 PIII 01-07) |
 | C3 | 10 | "Morphology of access cavities and its importance." (Short Essay, Apr 2022 NU PII) | "Guidelines for molar access cavity." (5m, Oct 2019 PIII 16-21) |
 | C4 | 25 | "Minimally invasive endodontic access cavities." (25m, Jun 2023 Manipal) | "Minimally invasive endodontic access cavity designs." (25m, Oct/Nov 2025 Manipal); "Modern concepts in access preparations." (10m, Short Essay, 29-Dec-2021 RG PII RS-5); "Modifications in access cavity preparation" (10m, Short Note, 15-03-2022 ABS PII) |
-| C5 | 25 | second half of "Write the principles of access cavity preparation. Describe the procedures involved in guided Endodontics." (25m, 24-9-2024 ABS PII): "Describe the procedures involved in guided Endodontics." | "Discuss in detail about Guided Endodontics." (50m, Jul 2023 TN MGR Paper III) is NOT absorbed at 50m in this default: C5 is sized at 25m (see open point 4 in the chat) |
+| C5 | 50 | "Discuss in detail about Guided Endodontics." (50m, Jul 2023 TN MGR Paper III) | the guided-endodontics half of "Write the principles of access cavity preparation. Describe the procedures involved in guided Endodontics." (25m, 24-9-2024 ABS PII); the principles half is answered in C1. UPGRADED from 25m to 50m on the owner's instruction (2026-11-02). |
 
 ## Predicted (labelled PREDICTED, not seen in your papers)
 | ID | Marks | Predicted question | Why predicted |

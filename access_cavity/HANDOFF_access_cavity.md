@@ -1,6 +1,6 @@
-# Access Cavity Preparation: handoff (drafted 2026-11-01, DRAFT, not pushed)
+# Access Cavity Preparation: handoff (drafted 2026-11-01, updated 2026-11-02; DRAFT)
 
-Status: 8 canonical drafts written locally in `access_cavity/canonical/` (C1-C5 from the printed questions, P1-P3 predicted). Not committed or pushed: the session was refused push access to `mds-answer-engine` (add_repo access:"push" denied). Question grouping in `_QUESTIONS.md` is a set of PROPOSED defaults that the owner approved with "go" without changing them.
+Status: 8 canonical drafts in `access_cavity/canonical/` (C1-C5 from the printed questions, P1-P3 predicted), pushed on branch `access-cavity-canonical-drafts`. Owner decisions (2026-11-02): C5 upgraded to 50m; C2 "Endodontic Triad" = diagnosis / cleaning and shaping / 3-D obturation is correct.
 
 | File | Marks | Exam-core words | Status |
 |---|---|---|---|
@@ -8,14 +8,13 @@ Status: 8 canonical drafts written locally in `access_cavity/canonical/` (C1-C5 
 | C2 Endodontic triad | 10 | 331 (320-400) | in range |
 | C3 Morphology and molar guidelines | 10 | 326 (320-400) | in range |
 | C4 Minimally invasive access | 25 | 851 (850-1000) | in range, at the floor |
-| C5 Guided endodontics | 25 | 571 (850-1000) | BELOW range, disclosed in the file |
+| C5 Guided endodontics | 50 | 1728 (1700-2000) | in range, but about half is [RECALL] or search-summary [LIT]; see open points |
 | P1 / P2 / P3 predicted | 10 each | 341 / 339 / 326 (320-400) | in range |
 
 Sources and offsets: `locators.py` (198 verbatim locators, 0 missing). Printed-page offsets confirmed for Sikri Ch.14 (21), Endodontology Ch.17 (17), Guidebook Ch.6 (17); Cohen Ch.2 and Ch.7, Grossman Ch.13 and Sikri Ch.36 cite PDF page only.
 
 Open points
-- C5: textbooks give guided endodontics only 4 paragraphs (Cohen Ch.2) plus one sentence each in Cohen Ch.7 and the Guidebook. Reaching 850 words needs journal full texts (Connert 2018/2019, Krastl 2016, Shabbir 2021 full text). `www.ncbi.nlm.nih.gov` is not in this session's network allow-list. 50m TN MGR wording not absorbed.
-- C2: "Endodontic Triad" taken as diagnosis / cleaning and shaping / obturation (Sikri Ch.36, one book). Confirm the intended meaning.
+- C5 (50m): textbooks give about four paragraphs on guided endodontics (Cohen Ch.2, one sentence each in Cohen Ch.7 and the Guidebook). The rest of the answer is [RECALL] or search-summary [LIT] (Case2025, DentJ2023, Jonaityte2022, Bradley2025, Prospective2026, Guided2025; none opened). Verify every number against the primary papers before the answer is published; hosts www.ncbi.nlm.nih.gov, www.mdpi.com, europepmc.org and bmcoralhealth.biomedcentral.com are not in the session allow-list. Exam-core length was reached by adding [RECALL] sections 9A-9C (accuracy factors, pitfalls, practical points).
 - C4: the 2.5x strength figure is one textbook statement; primary study not opened.
 - LIT items (Shabbir 2021, 2025 narrative review, umbrella review) are summary level only.
 - Resistance and retention triads not drafted.
