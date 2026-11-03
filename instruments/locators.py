@@ -21,6 +21,17 @@ F = {
  'ing20': (T+'Ingles_Endodontics_7th_Chapterwise/20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spaces.md', None, 'Ingle, year not printed'),
 }
 L = {
+ 'rc_gold': ('sik', 'WaveOne Gold replaces original WaveOne series, by improving upon its flexibility'),
+ 'rc_motor_s': ('sik', 'The WaveOne motor, as supplied by manufacturer is rechargeable; battery operated with a 6 : 1 reduction handpiece'),
+ 'rc_guide': ('sik', 'WaveOne files should be used with a progressive up and down movement with little pressure (not more than three to four times)'),
+ 'rc_irrig': ('sik', 'Irrigation is continually carried out during root canal preparation'),
+ 'rc_rsizes': ('coh8', 'Corresponding sizes for Reciproc are tips of #25, #40, and #50, with tapers of.08,.06, and.05, respectively'),
+ 'rc_vortex': ('coh8', 'Vortex instruments are recommended to be used at 500 rpm'),
+ 'rc_endoseq': ('coh8', 'a rotational speed of 600 rpm is recommended for EndoSequence'),
+ 'rc_trunat': ('coh8', 'TruNatomy is operated at 500 rpm and 1.5 Ncm'),
+ 'rc_blue': ('coh8', 'Vortex Blue, which showed greater resistance to cyclic fatigue and increased torque resistance'),
+ 'rc_hist': ('coh8', 'Engine-driven instruments for root canal preparation made of stainless steel have been in use for more than half a century'),
+ 'rc_giro': ('sik', 'M4 safety handpiece and Endo-grapper are modified versions of Giromatic handpiece'),
  'ds_e_wank': ('end10', 'The expanded triangle resembles the Wankel automotive engine, and is described as a convex triangle'),
  'ds_e_race': ('end10', 'is found today only in RaCe instruments'),
  'ds_e_prog': ('end10', 'Many instruments today have a progressive distance between cutting edges'),
