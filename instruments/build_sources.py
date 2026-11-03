@@ -7,6 +7,7 @@ BOOK = {
  'Roda2021': "Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.",
  'Terauchi2021': "Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.",
  'Nusstein2015': "Nusstein JM. Sonic and ultrasonic irrigation. In: Basrani B, editor. Endodontic Irrigation: Chemical Disinfection of the Root Canal System. Cham: Springer; 2015. Ch.10.",
+ 'Jain2016': "Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).",
  'Ingle7': "Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
