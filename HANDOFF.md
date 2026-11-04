@@ -398,3 +398,11 @@ Folder: `single_multi_visit/canonical/`. Agreed set (repository §21): Q1 "Singl
 Format: canonical only (no separate Study/Exam drafts), audit block at the end of EACH answer. Q1 is the umbrella; later answers point back to it.
 Sources read for Q1: Sikri 2e Ch.21; Endodontology (Baumann & Beer) Ch.49; Siqueira & Rôças Treatment of Endodontic Infections 2e Ch.11 + Ch.20 (Gulabivala & Ng); Cohen 12e Ch.5/17/19; Harty 7e Ch.8; Weine 6e Ch.16. LIT (abstracts only): Mergoni 2022 Cochrane, Manfredi 2016, Schwendicke 2017, Moreira 2017, Olivieri 2024, Gill 2023. Not yet opened: Ingle Ch.11/34, Grossman.
 Off-topic §21 questions moved to new repository section §21A (vault edit, 2026-10-22).
+
+## 2026-11-04 — Isolation and Moisture Control: FINAL (7 canonical answers), published to the Answer Bank site
+- Folder `isolation/` (`_QUESTIONS.md`, `locators.py` + `locators_base.py`, `build_sources.py`, `canonical/`). Conservative Dentistry repository §7.
+- Q1 25m importance and methods (umbrella); Q2 20m methods + rubber dam in detail; Q3 10m rubber dam; Q4 7m clamps (written to 320-400 words as agreed); Q5 10m placement methods (absorbs "Non framed rubber dams"); Q6 25m recent advances; Q7 10m exclusion of saliva.
+- Left out by agreement: infection control (4 Qs incl. 50m) and tooth separation (4 Qs incl. 25m); both still under §7, unclaimed.
+- Sources: Summitt Ch.8 (PDF pages, no printed folio), Sturdevant 2e South Asian Ch.8 (offset 19; chapter author not printed, cited as Ritter et al, 2019), Marzouk Ch.3 (offset 3; PDF pp.102-105 blank in the file), Pickard 9e §5.6 (offset 11), Kunzelmann in Advances in Operative Dentistry (printed = PDF + 2), Modern Operative Dentistry Ch.7 (offset 11). LIT (abstracts only): Cochrane 2016/2021 rubber dam, Cochrane 2020 aerosols, Isolite SR 2025, Mattar 2021/2022, Bagher 2024 DryShield, BaHammam 2025 OptraDam Plus, Naik 2026 OpalDam.
+- Gaps: no textbook prints a formal classification of isolation (scheme given as a synthesis); antisialagogues other than atropine not found in any textbook (left as [RECALL], no doses); no formal review pass yet.
+- Answer Bank site: add_answers.py "Added 7, updated 0, manifest 506 -> 513 entries, 0 lost" (commit 207b31d). Vault (dental-study-notes) 471b5d2: both copies, 00_INDEX.md and manifest.json (383 -> 390, additive).
