@@ -27,7 +27,7 @@ Working repo for the MDS (Master of Dental Surgery) exam-answer generation proje
 2. Finished/patched `.md` files land here, in the topic's folder.
 3. `HANDOFF.md` gets updated with the new status.
 4. This repo gets committed and pushed — normally automatically once a topic's work is finished, so GitHub always reflects current state.
-5. Separately (outside this repo), finished `.md` files are copied to the Obsidian vault, the topic `.docx` is rebuilt, and the pinned Answer Bank artifact is republished, per the skill's standing publish step.
+5. Separately (outside this repo), finished `.md` files are copied to the Obsidian vault, the topic `.docx` is rebuilt, and the answers are published to the private Answer Bank site (https://mds-answer-bank.pages.dev, repo `mds-answer-bank`, see WORKFLOW.md Rule 7). The old Answer Bank artifact is full and frozen.
 
 ## Using this from Claude Code cloud / another device
 

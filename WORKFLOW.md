@@ -2,13 +2,15 @@
 
 Read this before starting any topic work, alongside `HANDOFF.md`. Goal: three people, each driving their own Claude Code session, can work at the same time without silently overwriting each other.
 
-Collaborators: `rosyposy0406` (Roseline), `medhinirbhagwat` (Medhinir) — both have Write access on all four repos (`mds-answer-engine`, `dental-study-material`, `Vault`, `dental-study-notes`) and editor access on the Answer Bank artifact.
+Collaborators: `rosyposy0406` (Roseline), `medhinirbhagwat` (Medhinir) — both have Write access on all four repos (`mds-answer-engine`, `dental-study-material`, `Vault`, `dental-study-notes`) and write access on `mds-answer-bank` (the Answer Bank site repo).
+
+**Where answers are published (from 2026-11-04):** every finished answer by any of the three of us goes to the private **Answer Bank site**, https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, steps in its `PUBLISHING.md`, summarised in Rule 7 below). The old claude.ai Answer Bank artifact is full (511-file cap) and **frozen at Version 65: do not publish to it**.
 
 ## Why collisions are rare here
 
 Work is split by **topic folder** (`amalgam/`, `calcium_silicate/`, `impression/`, `irrigants/`, `medicaments/`, `post_core/`, plus the matching folders in the `dental-study-notes` vault). People working on *different* topics never touch the same files. The only real collision risks are:
 1. Two (or three) people working the **same topic** at once.
-2. Both editing a **shared file** the same day (`HANDOFF.md`, vault `00_INDEX.md`, Answer Bank `manifest.json`).
+2. Both editing a **shared file** the same day (`HANDOFF.md`, vault `00_INDEX.md`, the Answer Bank site's `manifest.json`).
 
 The rules below just manage those two cases.
 
@@ -62,7 +64,7 @@ git pull
 
 ## Rule 4 — Shared files: pull-edit-push quickly, don't sit on them
 
-`HANDOFF.md`, each vault's `00_INDEX.md`, and `manifest.json` get touched regardless of topic. The Answer Bank's `manifest.json` and `00_INDEX.md` are covered by the stricter **Rule 7** below. Keep edits to these **small and immediate** — append your status line, commit, push, don't leave them modified locally for hours. If you do hit a merge conflict on one of these (rare, and low-stakes — they're append-mostly logs), resolve it by keeping both sides' lines; don't discard either person's entry.
+`HANDOFF.md`, each vault's `00_INDEX.md`, and `manifest.json` get touched regardless of topic. The Answer Bank site's `manifest.json` is covered by the stricter **Rule 7** below. Keep edits to these **small and immediate** — append your status line, commit, push, don't leave them modified locally for hours. If you do hit a merge conflict on one of these (rare, and low-stakes — they're append-mostly logs), resolve it by keeping both sides' lines; don't discard either person's entry.
 
 ## Rule 5 — `Vault` repo is a passive backup only
 
@@ -72,27 +74,28 @@ Nobody edits `Vault` directly — it's a known-stale snapshot kept on purpose (s
 
 Don't split a single topic's audit across multiple people's sessions simultaneously — the per-question `.md` files are small enough that two agents touching the same file produces a real merge conflict, unlike the topic-folder split which avoids it structurally. If a topic is large, do it serially (one person finishes and pushes, then hands off) rather than in parallel.
 
-## Rule 7 — Publishing to the Answer Bank / vault index is ADDITIVE ONLY (nobody's changes may disappear)
+## Rule 7 — Publish to the Answer Bank SITE, additive only (nobody's changes may disappear)
 
-A publish to the Answer Bank artifact overwrites every path it lists, and `manifest.json` and `00_INDEX.md` are shared by everyone. Whoever publishes last wins unless you follow this rule. The artifact is owned by another organisation and several people have write access, so it has no safety net of its own.
+Every finished answer goes to the private site https://mds-answer-bank.pages.dev, built from the repo `endoking5792/mds-answer-bank`. A push to its `main` branch rebuilds the site in about 2 minutes. Full steps: `PUBLISHING.md` in that repo.
 
-**Never:**
-- regenerate `manifest.json` or `00_INDEX.md` from a local folder, a vault copy or the OneDrive folder;
-- publish an answer file from a copy that is older than the live one (check with `git pull` first and use the repo copy, not a vault/OneDrive copy);
-- remove or shorten an existing manifest entry or file. If something genuinely has to be removed, say so in `HANDOFF.md` first and get the owner's agreement.
+```bash
+cd ~/mds-answer-bank && git pull
+python3 scripts/add_answers.py "<Subject>" "<Topic>" <this repo's topic folder or files>
+git status            # only your topic, manifest.json and index pages
+git add -A && git commit -m "<Topic>: ..." && git push
+```
 
-**Always — use `publish_guard.py` (stdlib only, no network, never deletes anything):**
-1. `git pull` in this repo.
-2. Read the *live* `manifest.json`, `00_INDEX.md` and the file listing from the artifact into a scratch folder `LIVE/` (the file listing is the text the Artifact "list files" action prints; save it as `LIVE/files.txt`).
-3. Copy only the files you are adding or changing into `STAGE/<Subject>/<Topic>/`.
-4. `python3 publish_guard.py merge LIVE/manifest.json LIVE/00_INDEX.md STAGE OUT/` — keeps every live entry and adds or updates only yours.
-5. `python3 publish_guard.py stale LIVE/files.txt STAGE` — warns if a staged file is more than 25% smaller than the live copy (likely a stale overwrite). Fix and re-run before publishing.
-6. Publish `STAGE/*` plus `OUT/manifest.json` and `OUT/00_INDEX.md` (leave `index.html` alone unless the page itself is being changed).
-7. Re-list the live files, save the listing as `AFTER/files.txt` and the live manifest as `AFTER/manifest.json`, then run `python3 publish_guard.py verify LIVE/manifest.json AFTER/manifest.json LIVE/files.txt AFTER/files.txt`. It must print `VERIFY OK`. If it prints `VERIFY FAILED`, re-publish the missing entries immediately (the merged `OUT/` files contain them) and record it in `HANDOFF.md`.
+- Subject is one of `Conservative Dentistry`, `Dental Materials`, `Endodontics`, `Recent Advances`; Topic is the exact existing topic name when updating.
+- Publish the canonical file; the script drops `_CANONICAL` from the name so updates replace the same page.
+- `add_answers.py` never deletes anything, stops if any manifest entry would be lost, and refuses an update more than 25% shorter than the live copy (likely stale; `--allow-shrink` only if intended). It prints `manifest N -> M entries, 0 lost`: copy that into your `HANDOFF.md` line.
+- Never hand-edit or regenerate `manifest.json` from a local folder. On a rejected push or a manifest conflict: abort, `git fetch && git reset --hard origin/main`, re-run the script for your topic, push.
+- Never remove someone else's answer without a `HANDOFF.md` note and Niranjan's agreement.
+- Never put `mds-textbooks` content on the site.
+- Site access is an email allow-list (Cloudflare Access). Ask Niranjan to add a new reader.
 
-**Same principle in git:** when a rebase or merge conflicts on `HANDOFF.md`, `WORKFLOW.md`, a vault `00_INDEX.md` or this file, keep both sides' lines — never resolve by discarding someone else's entry (this restates Rule 4 for the artifact).
+**Retired (kept for history):** the claude.ai Answer Bank artifact (https://claude.ai/artifact/YRBFYrpgfh8aWhg9Qp1uvu) is frozen at Version 65, 506 answers, all of which are on the site. Do not publish to it. `publish_guard.py` was its safety tool and is no longer part of publishing.
 
-**If the guard script itself is unavailable** (for example on a phone): do steps 2 and 7 by hand — read the live manifest before publishing, and after publishing confirm the number of manifest entries is not lower than before and that your own entries and everyone else's still appear. When in doubt, don't publish `manifest.json` at all; add your file and tell the other collaborators to add the manifest line.
+**Same principle in git:** when a rebase or merge conflicts on `HANDOFF.md`, `WORKFLOW.md`, a vault `00_INDEX.md` or this file, keep both sides' lines; never resolve by discarding someone else's entry.
 
 ## Quick checklist for starting a session
 
@@ -100,4 +103,4 @@ A publish to the Answer Bank artifact overwrites every path it lists, and `manif
 2. Check the claim table above — claim your topic if unclaimed, push that change.
 3. Do the work, pushing after each finished question/pass.
 4. Update `HANDOFF.md`'s status line and the claim table when the topic is done.
-5. Before publishing to the Answer Bank, follow Rule 7 (merge, stale-check, publish, verify). A Q-entry that disappears from the manifest is a bug in the process, not an accident.
+5. Publish to the Answer Bank site with `add_answers.py` (Rule 7), push, and check your topic's page on https://mds-answer-bank.pages.dev. A Q-entry that disappears from the manifest is a bug in the process, not an accident.

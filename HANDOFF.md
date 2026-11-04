@@ -1,3 +1,9 @@
+> **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
+
+## 2026-11-04 — Answer Bank moved to a private site
+- All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.
+- New publish tool `scripts/add_answers.py` (additive, stale-copy guard). WORKFLOW.md Rule 7, ANSWER_GUIDE.md section 7 and the skill's standing publish step now point at the site.
+
 > **START HERE (2026-10-16): read `HANDOFF_NIRANJAN_2026-10-16.md` first.** It summarises the endodontic_sealers and obturation topics, what is finished, your checklist, and the tested Answer Bank publish procedure.
 
 
