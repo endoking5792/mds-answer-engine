@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Oct 2008 (RG PII RS-2). Also covers: "Non framed rubber dams." May 2019 (Manipal, marks not stated; write sections 3 and 4).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 358 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q2 gives the full rubber dam answer and Q4 the clamps.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 379 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q2 gives the full rubber dam answer and Q4 the clamps.
 
 **Retrieval report.** Summitt's 4th ed Ch.8, "Placement of the dam" (PDF pages); Sturdevant's 2nd South Asian ed Ch.8, "Alternative and additional methods" (offset 19); Kunzelmann in Advances in Operative Dentistry vol 1, "Application technique" (printed = PDF + 2); Modern Operative Dentistry Ch.7 §7.2.8.4-7.2.8.5 and §7.2.9 (offset 11); Marzouk Ch.3 (offset 3). The books name the methods differently; the names below follow Summitt's with the other books' names added. "Non-framed" dams are not a term any of these books uses; the answer treats it as dams held without a conventional external frame (strap holders, pre-framed and frameless systems) [Likely]. No live search; no critical synthesis.
 
@@ -26,13 +26,13 @@ The methods differ in the order in which clamp, dam and frame are placed (Kunzel
 
 ### Explanation
 
-**(a) Clamp first, dam over clamp.** A wingless clamp is seated first (Summitt, 2013) [SRC] and tested by pulling the bow occlusally (Summitt, 2013) [SRC]; the dam on its frame is then stretched over it (Borges et al, 2020) [SRC], which needs a dam that is not too thick and is well lubricated (Borges et al, 2020) [SRC]. Sturdevant's prefers this sequence because the operator sees the gingiva while placing the retainer (Ritter et al, 2019) [SRC].
+**(a) Clamp first, dam over clamp.** A wingless clamp is seated first (Summitt, 2013) [SRC] and tested by pulling the bow occlusally (Summitt, 2013) [SRC]; the dam on its frame is then stretched over it (Borges et al, 2020) [SRC], which needs a dam that is not too thick and is well lubricated (Borges et al, 2020) [SRC]. Sturdevant's uses this sequential method as its standard procedure because the operator sees the gingiva while placing the retainer (Ritter et al, 2019) [SRC].
 
 **(b) Winged clamp in dam, all as one unit.** The winged clamp is fitted into the hole, and clamp, dam and frame go in together (Summitt, 2013) [SRC]; winged clamps are required (Borges et al, 2020) [SRC]. This reduces the risk of swallowing or aspirating the clamp (Ritter et al, 2019) [SRC] and avoids passing the dam over a seated clamp whose bow presses on soft tissue (Ritter et al, 2019) [SRC]. Pickard's finds it useful when isolating a single tooth (Banerjee and Watson, 2011) [SRC].
 
 **(c) Wingless clamp in dam, frame afterwards.** The bow of a wingless clamp is passed through the distal hole (Summitt, 2013) [SRC]; clamp and gathered dam are seated, then the frame is attached (Borges et al, 2020) [SRC].
 
-**(d) Dam first, clamp afterwards.** The dam is stretched over the anchor tooth and then the clamp is placed (Ritter et al, 2019) [SRC]; this avoids manipulating dam over a clamp (Ritter et al, 2019) [SRC] but hides the gingiva, which may be pinched (Ritter et al, 2019) [SRC]. Summitt's calls it the most difficult method (Summitt, 2013) [SRC]; Kunzelmann prefers a version in which the dam on the frame goes over the tooth before the clamp (Kunzelmann, 2001) [SRC], placing the palatal jaw first (Kunzelmann, 2001) [SRC]. The Class V retractor (212) is always placed over the dam after it is on (Borges et al, 2020) [SRC], and a clamp can be added over the dam on an unpunched tooth (Summitt, 2013) [SRC].
+**(d) Dam first, clamp afterwards.** The dam is stretched over the anchor tooth and then the clamp is placed (Ritter et al, 2019) [SRC]; this avoids manipulating dam over a clamp (Ritter et al, 2019) [SRC] but hides the gingiva, which may be pinched (Ritter et al, 2019) [SRC]. Summitt's calls it the most difficult method (Summitt, 2013) [SRC]; Kunzelmann prefers a version in which the dam on the frame goes over the tooth before the clamp (Kunzelmann, 2001) [SRC], placing the palatal jaw first (Kunzelmann, 2001) [SRC]. The Class V retractor (212) is placed over the dam once the dam is on (Borges et al, 2020) [SRC], and a clamp can be added over the dam on an unpunched tooth (Summitt, 2013) [SRC].
 
 After any method, septa are taken through contacts in a single layer (Summitt, 2013) [SRC], anterior contacts often with a fingernail (Summitt, 2013) [SRC], posterior ones with floss worked from the tooth towards the hole edge (Borges et al, 2020) [SRC]; then the dam is inverted (Summitt, 2013) [SRC].
 
@@ -41,11 +41,11 @@ After any method, septa are taken through contacts in a single layer (Summitt, 2
 | Method | Steps | Advantage | Disadvantage |
 |---|---|---|---|
 | (a) Clamp first, dam over clamp | Seat wingless clamp, test; stretch framed dam over it | Clear view of gingiva (Ritter et al, 2019) | Needs well-lubricated, not-too-thick dam (Borges et al, 2020) |
-| (b) Winged clamp in dam, as one unit | Clamp wings in hole; clamp + dam + frame seated together | Clamp cannot be swallowed; quick; good for single tooth (Ritter et al, 2019; Banerjee and Watson, 2011) | Winged clamps only; dam must be teased off wings |
-| (c) Wingless clamp in dam, frame later | Bow through hole; seat clamp and gathered dam; then frame | Safe; wingless clamp less bulky (Summitt, 2013) | Dam obscures view somewhat |
+| (b) Winged clamp in dam, as one unit | Clamp wings in hole; clamp + dam + frame seated together | Clamp cannot be swallowed; quick; good for single tooth (Ritter et al, 2019; Banerjee and Watson, 2011) | Winged clamps only; dam must then be pulled off the wings (Summitt, 2013) |
+| (c) Wingless clamp in dam, frame later | Bow through hole; seat clamp and gathered dam; then frame | Clamp cannot be lost; wingless clamp less bulky (Summitt, 2013) | Dam must be gathered and held clear of the jaws while seating (Summitt, 2013) |
 | (d) Dam first, clamp after | Stretch dam over tooth, then clamp | No manipulation over clamp (Ritter et al, 2019) | Gingiva hidden, may be pinched; most difficult (Summitt, 2013) |
 
-**Then:** septa through contacts in a single layer with floss, invert into the sulcus, attach frame and napkin (Summitt, 2013). The No. 212 Class V retractor is always placed over the dam (Borges et al, 2020).
+**Then:** septa through contacts in a single layer with floss, invert into the sulcus, attach frame and napkin (Summitt, 2013). The No. 212 Class V retractor is placed over the dam after the dam is on (Borges et al, 2020).
 
 ## 3. Non-framed and frameless dams
 

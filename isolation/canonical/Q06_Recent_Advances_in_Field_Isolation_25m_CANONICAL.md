@@ -3,7 +3,7 @@
 **Marks:** 25m, Long Essay
 **Sitting:** Jul/Aug 2023 (NU PI). Also covers: "Recent advances in isolation of teeth during restorative procedures." 10m 16-Dec-2023 (write sections 2-6 of the exam core in short); "What are the recent advances in field isolation?" 20m Apr 2014 (Manipal); "Enumerate various isolation techniques including recent advancements." 5m Sep 2006 (write the Q1 classification table plus the list in section 1 here).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 881 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Conventional methods are in Q1; the conventional rubber dam in Q2-Q5.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 909 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Conventional methods are in Q1; the conventional rubber dam in Q2-Q5.
 
 **Retrieval report.** Textbooks: Summitt's 4th ed Ch.8 (2013; PDF pages); Sturdevant's 2nd South Asian ed Ch.8 (2019; offset 19); Kunzelmann in Advances in Operative Dentistry vol 1 (2001; printed = PDF + 2); Modern Operative Dentistry Ch.7 (2020; offset 11), the most current textbook source. PubMed (all abstracts only, full texts not read): Cochrane reviews of rubber dam (2016, 2021) and of aerosol control (2020); a 2025 systematic review of Isolite; RCTs on Isolite (2021, 2022), DryShield (2024), OptraDam Plus (2025) and OpalDam/OptraDam (2026). Brand names not described in any source read (for example Insti-Dam, OptiDam, Mr Thirsty) are left out or marked [RECALL]. Compressed critical synthesis on one claim (25 marks).
 
@@ -79,7 +79,7 @@ Retracting clamps 212R and 212L let two adjacent cervical lesions be restored to
 
 ### Explanation
 
-The sleeve (split) technique, with the dam cut in an arch rather than punched (Borges et al, 2020) [SRC], is now the easiest approach for bridges, orthodontic retainers and deep subgingival margins (Borges et al, 2020) [SRC]; saliva can still seep in (Borges et al, 2020) [SRC], so a light-cured gingival barrier at its margins helps (Borges et al, 2020) [SRC]. These barriers are pigmented flowable resins that stay slightly flexible after curing (Borges et al, 2020) [SRC]; they protect gingiva from in-office bleaching agents (Borges et al, 2020) [SRC] and seal small flaws in a dam (Borges et al, 2020) [SRC]. Cavit seals the gap over a root concavity (Summitt, 2013) [SRC]. In a 2026 RCT in 39 children receiving silver diamine fluoride, OpalDam (a light-cured barrier) gave less pain and better comfort ratings than OptraDam, and both than cotton rolls (Naik et al, 2026) [LIT].
+The sleeve (split) technique, with the dam cut in an arch rather than punched (Borges et al, 2020) [SRC], is now the easiest approach for bridges, orthodontic retainers and deep subgingival margins (Borges et al, 2020) [SRC]; saliva can still seep in (Borges et al, 2020) [SRC], so a light-cured gingival barrier at its margins helps (Borges et al, 2020) [SRC]. These barriers are pigmented flowable resins that stay slightly flexible after curing (Borges et al, 2020) [SRC]; they protect gingiva from in-office bleaching agents (Borges et al, 2020) [SRC] and seal small flaws in a dam (Borges et al, 2020) [SRC]. Cavit seals the gap over a root concavity (Summitt, 2013) [SRC]. In a 2026 RCT in 39 children receiving silver diamine fluoride, OpalDam (a light-cured resin barrier; this description is from memory, not from the abstract) [RECALL] gave less pain and better comfort ratings than OptraDam, and both than cotton rolls (Naik et al, 2026) [LIT].
 
 #### ✎ Exam core
 
@@ -93,12 +93,12 @@ The sleeve (split) technique, with the dam cut in an arch rather than punched (B
 
 ### Explanation
 
-The Isolite gives illumination, suction, tongue and cheek retraction and an integrated bite block (Summitt, 2013) [SRC], with single-use mouthpieces in six sizes (Summitt, 2013) [SRC]; Summitt's is clear that isolation is less complete than with a dam (Summitt, 2013) [SRC]. Sturdevant's reports shorter sealant placement time with it (Ritter et al, 2019) [SRC]. The Vac-Ejector combines bite block, tongue retractor and high-speed suction (Summitt, 2013) [SRC]; the Ez-Dam adds cheek retraction to suction, tongue retractor and bite block (Borges et al, 2020) [SRC]; the Nola dry field system is a cheek-tongue retractor with saliva ejector (Borges et al, 2020) [SRC]. Older devices in the same line are the Svedopter and the gentler Hygoformic ejector (Summitt, 2013) [SRC]. A 2025 systematic review of five RCTs (170 patients, low-quality evidence) found Isolite about as effective as dam or cotton rolls, with less chair time, less gagging and less taste perception than cotton rolls (Siddalingappa et al, 2025) [LIT]. DryShield, a similar device, shortened chair time and gave better behaviour and less behavioural pain than the dam in children in a 2024 RCT, but was noisier, pressed on soft tissue and provoked gagging (Bagher et al, 2024) [LIT].
+The Isolite gives illumination, suction, tongue and cheek retraction and an integrated bite block (Summitt, 2013) [SRC], with single-use mouthpieces in six sizes (Summitt, 2013) [SRC]; Summitt's is clear that isolation is less complete than with a dam (Summitt, 2013) [SRC]. Sturdevant's reports shorter sealant placement time with it (Ritter et al, 2019) [SRC]; the sources disagree here, because a 2021 RCT found no difference in sealant chair time among Isolite, dam and cotton rolls (Mattar et al, 2021) [LIT]. The Vac-Ejector combines bite block, tongue retractor and high-speed suction (Summitt, 2013) [SRC]; the Ez-Dam adds cheek retraction to suction, tongue retractor and bite block (Borges et al, 2020) [SRC]; the Nola dry field system is a cheek-tongue retractor with saliva ejector (Borges et al, 2020) [SRC]. Older devices in the same line are the Svedopter and the gentler Hygoformic ejector (Summitt, 2013) [SRC]. A 2025 systematic review of five RCTs (170 patients, low-quality evidence) found Isolite about as effective as dam or cotton rolls, with less chair time, less gagging and less taste perception than cotton rolls (Siddalingappa et al, 2025) [LIT]. DryShield (described from memory as a similar suction-retraction-bite-block device [RECALL]) shortened chair time and gave better behaviour and less behavioural pain than the dam in children in a 2024 RCT, but was noisier, pressed on soft tissue and provoked gagging (Bagher et al, 2024) [LIT].
 
 #### ✎ Exam core
 
 **5. Combined systems**
-- **Isolite:** illuminated mouthpiece with suction, tongue/cheek retraction and bite block; six sizes (Summitt, 2013). Shorter sealant time (Ritter et al, 2019); as effective as dam or rolls in a low-quality 2025 systematic review (Siddalingappa et al, 2025).
+- **Isolite:** illuminated mouthpiece with suction, tongue/cheek retraction and bite block; six sizes (Summitt, 2013). Shorter sealant time reported (Ritter et al, 2019), but no difference in chair time in a 2021 RCT (Mattar et al, 2021); as effective as dam or rolls in a low-quality 2025 systematic review (Siddalingappa et al, 2025).
 - **DryShield:** similar; faster and better tolerated than dam in children, but gag and soft-tissue pressure (Bagher et al, 2024).
 - **Vac-Ejector, Ez-Dam, Nola dry field:** suction with tongue and cheek retraction and bite block (Summitt, 2013; Borges et al, 2020).
 - Limitation: isolation is less complete than a rubber dam (Summitt, 2013).
@@ -109,7 +109,7 @@ The Isolite gives illumination, suction, tongue and cheek retraction and an inte
 | Airway protection | Yes | Partial (shield) | No; throat shield needed |
 | Illumination | No | Yes | No |
 | Bite block | No | Yes | No |
-| Chair time | Placement time | Shorter (Siddalingappa et al, 2025) | Short |
+| Chair time | Placement time | Shorter in a systematic review (Siddalingappa et al, 2025); no difference in one RCT (Mattar et al, 2021) | Short |
 | Main drawback | Time, comfort, latex | Gagging, soft-tissue pressure (Bagher et al, 2024) | Frequent changes, no protection |
 
 (Summitt, 2013; Ritter et al, 2019; Borges et al, 2020)
