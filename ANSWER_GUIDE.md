@@ -76,7 +76,7 @@ cd <topic> && python3 locators.py && python3 build_sources.py canonical/*.md
 
 ## 7. Publish (additive only)
 
-Follow **WORKFLOW.md Rule 7** exactly (`publish_guard.py merge`, then publish, then compare the live manifest before and after; entries may only go up and nothing may be lost). Stage the files without the `_CANONICAL` suffix under `<Subject>/<Topic>/`. Then copy them to your vault if you keep one. Do not build `.docx` files unless asked (skill Section 7.1 item 13).
+Publish to the **Answer Bank site** (https://mds-answer-bank.pages.dev) following **WORKFLOW.md Rule 7**: in `~/mds-answer-bank`, `git pull`, then `python3 scripts/add_answers.py "<Subject>" "<Topic>" <topic>/canonical/`, then commit and push (the script strips `_CANONICAL`, never deletes, and prints the manifest count before -> after). Do not publish to the old Answer Bank artifact (frozen at Version 65). Then copy the files to your vault if you keep one. Do not build `.docx` files unless asked (skill Section 7.1 item 13).
 
 ## 8. Record and push
 
