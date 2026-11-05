@@ -365,3 +365,62 @@ BOOK = {
     'd1_Okazaki2017': 'Okazaki K, Malek M, Chugal N, Lin LM. Diagnosis of pulpal and periradicular disease. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.3.',
 }
 LIT = {}
+
+# Second-reader additions (review pass 2026-11-05): Harty's Ch.2, 12, 13, 14 and further Ch.3 / Ingle's phrases
+F.update({
+    'd1_har2': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/02_2_General_and_Systemic_Aspects_of_Endodontics.md', 16, 'Escudier, 2017'),
+    'd1_har12': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/12_12_Endodontic_Aspects_of_Traumatic_Injuries.md', 16, 'Sigurdsson and Bourguignon, 2017'),
+    'd1_har13': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md', 16, 'Rotstein, 2017'),
+    'd1_har14': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/14_14_Problems_in_Endodontic_Treatment.md', 16, 'Hülsmann and Chong, 2017'),
+})
+L.update({
+    # Harty's Ch.3 (Chandler and Chong) further phrases
+    'd1_h_coldest': ('d1_har3', 'Being the coldest, carbon dioxide snow is particularly useful for assessing teeth that have been restored with full coverage restorations'),
+    'd1_h_coldwater': ('d1_har3', 'This test is particularly useful when a patient complains of poorly localized pain provoked by cold'),
+    'd1_h_prophy': ('d1_har3', 'this method is seldom used as a false positive response may be obtained because of the vibrations'),
+    'd1_h_vital90': ('d1_har3', 'These results would suggest in descending order of accuracy the cold test, followed by the electrical test and heat test'),
+    'd1_h_saliva': ('d1_har3', 'Saliva conduction through the periodontal ligament may result in a false positive reading'),
+    'd1_h_immature': ('d1_har3', 'these pulp tests can be unreliable, especially in the case of immature and concussed teeth'),
+    'd1_h_tertiary': ('d1_har3', 'the dentinal tubules being transected may not communi'),
+    'd1_h_historically': ('d1_har3', 'Historically, test cavity preparation has been suggested as a technique to assess the pulp status when all other tests are inconclusive'),
+    'd1_h_poorcorr': ('d1_har3', 'There is a poor correlation between signs and symptoms and pulpal and periapical his'),
+    'd1_h_irrcorr': ('d1_har3', 'This is especially true with irreversible pulpitis'),
+    'd1_h_ldfrest': ('d1_har3', 'it may be used on extensively restored or carious teeth'),
+    'd1_h_ldfdis': ('d1_har3', 'more time consuming to perform, its technique-sensitive use and its cost'),
+    'd1_h_rxalone': ('d1_har3', 'when used in isolation, they will not indicate the pulp condition or treatment needs'),
+    'd1_h_cbctdose': ('d1_har3', 'The key limitation of CBCT is the greater radiation dose compared with conventional dental radiography'),
+    'd1_h_aapneg': ('d1_har3', 'A negative response to sensitivity testing indicates an endodontic cause'),
+    'd1_h_restorability': ('d1_har3', 'The restorability of the tooth must be considered before providing treatment'),
+    'd1_h_tri': ('d1_har3', 'Tooth Restorability Index'),
+    'd1_h_mobcause': ('d1_har3', 'Common causes of increased mobility include periodontal disease, root fracture and acute apical periodontitis'),
+    # Ingle's Ch.8 (Abbott): refrigerant spray temperatures (prose, OCR renders the minus sign as "6")
+    'd1_i_propane': ('d1_ing8', 'Now typically tetrafluoroethane or a mixture of gases (e.g., propane/butane/isobutane) is used'),
+    # Harty's Ch.2 (Escudier)
+    'd1_h2_single': ('d1_har2', 'the history is the single most important factor in arriving at a diagnosis'),
+    'd1_h2_table': ('d1_har2', 'Certain core information should be elicited in all cases'),
+    'd1_h2_supplement': ('d1_har2', 'all these techniques must sup'),
+    'd1_h2_sinus': ('d1_har2', 'tender­ ness to pressure of a whole quadrant of teeth is char'),
+    'd1_h2_bon': ('d1_har2', 'Intravenous bisphosphonate therapy (pamidronate and zoledronate) confers a much higher risk of BON (up to 20%)'),
+    'd1_h2_diabetes': ('d1_har2', 'patients with diabetes mellitus have a higher prevalence of periradicular lesions'),
+    # Harty's Ch.12 (Sigurdsson and Bourguignon)
+    'd1_h12_3m': ('d1_har12', 'may remain unresponsive to sensibility testing for up to 3 months after trauma'),
+    'd1_h12_noRCT': ('d1_har12', 'should not be taken as an indication for immediate root canal treatment'),
+    'd1_h12_flow': ('d1_har12', 'intracanal blood flow can be detected quite some time before their pulps respond'),
+    'd1_h12_iadt': ('d1_har12', 'periapical radiograph with a 90-degree horizon'),
+    'd1_h12_cbct': ('d1_har12', 'its use is not considered routine'),
+    'd1_h12_metallic': ('d1_har12', 'it will emit a high pitched or metallic tone'),
+    # Harty's Ch.13 (Rotstein)
+    'd1_h13_narrow': ('d1_har13', 'When the sinus tract is probed, it is usually narrow and lacks width'),
+    'd1_h13_wide': ('d1_har13', 'a wide pocket can be probed, possibly becoming'),
+    'd1_h13_tubular': ('d1_har13', 'This pocket is usually tubular and isolated, as opposed to a more generalized periodontal condition'),
+    'd1_h13_retro': ('d1_har13', 'a valid retrospective confirmed diagnosis can then be made'),
+    # Harty's Ch.14 (Hülsmann and Chong)
+    'd1_h14_rx': ('d1_har14', 'acute lesions do not become radiologically visible until bone, including the cortical plates, has been resorbed'),
+    'd1_h14_adjacent': ('d1_har14', 'It is essen­ tial to carry out sensitivity testing of the adjacent teeth so that the correct tooth is identified and treated'),
+})
+BOOK.update({
+    'd1_Escudier2017': 'Escudier MP. General and systemic aspects of endodontics. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.2.',
+    'd1_Sigurdsson2017': 'Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.',
+    'd1_Rotstein2017': 'Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.',
+    'd1_Hulsmann2017': 'Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.',
+})

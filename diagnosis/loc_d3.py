@@ -12,6 +12,10 @@ F = {
  'd3_end47': (T+'Endodontology_Chapterwise/47_47_Immunopathogenesis_of_Periradicular_Disease.md', 17, 'Murray, 2010'),
  'd3_ee3a': (T+'Essential_Endodontology_Chapterwise/02_Pages_61_90.md', 13, 'Fouad and Khan, 2020'),
  'd3_ee3b': (T+'Essential_Endodontology_Chapterwise/03_Pages_91_120.md', 13, 'Fouad and Khan, 2020'),
+ 'd3_har1': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/01_1_Introduction_and_Overview.md', 16, 'Chong, 2017'),
+ 'd3_har3': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/03_3_Diagnosis.md', 16, 'Chandler and Chong, 2017'),
+ 'd3_har5': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/05_5_Maintaining_Dental_Pulp_Vitality.md', 16, 'Duncan, Smith and Cooper, 2017'),
+ 'd3_har13': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md', 16, 'Rotstein, 2017'),
  'd3_em5': (T+'Endodontic_Microbiology_2nd_ed_Chapterwise/05_Chapter_5_Molecular_Analysis_of_Endodontic_Infections.md', 9, 'Siqueira and Rôças, 2017'),
 }
 L = {
@@ -186,6 +190,31 @@ L = {
  'd3_c15qpcr': ('d3_coh15', 'Quantitative real-time PCR can also be applied to the study of the antibacterial effectiveness of treatment procedures'),
  'd3_c15400': ('d3_coh15', 'More than 400 different bacterial species have been detected in different types of endodontic infections'),
  'd3_c1523': ('d3_coh15', 'Twenty-three percent of the total bacterial species richness have been detected by application of both culture and molecular studies'),
+ # Second-reader additions (2026-11-05)
+ 'd3_eecystgene': ('d3_ee3a', 'in cysts the main genes expressed were TP53 (tumor protein p53) and EP300'),
+ 'd3_eegranGene': ('d3_ee3a', 'whereas periapical granulomas were associated with IL2R, CCL2, CCL4, CCL5'),
+ 'd3_salvpain': ('d3_vpt3', 'while it was also shown that 40% of cases with salvageable pulps were associated with pain'),
+ 'd3_c14viral': ('d3_coh14', 'the increase in viral microRNA in inflamed pulp, to correlate with levels of inflammatory mediators'),
+ 'd3_ee32': ('d3_ee3a', 'irreversibly inflamed (n=32), reversibly inflamed (n=59) and normal (n=4)'),
+ 'd3_ee156': ('d3_ee3a', 'a histological diagnosis consistent with reversible pulpitis'),
+ # Harty's 7th ed (2017)
+ 'd3_h1limit': ('d3_har1', 'It is recognized that current clinical methods of assessing pulpal and periradicular health have limitations'),
+ 'd3_h1attn': ('d3_har1', 'As a result, molecular assessment methods have received attention'),
+ 'd3_h1more': ('d3_har1', 'more research into molecular diagnostics in endodontics is needed before it becomes a clinical tool'),
+ 'd3_h1uncult': ('d3_har1', 'Findings have revealed new candidate endodontic pathogens, including as-yet-uncultivated bacteria and taxa'),
+ 'd3_h3neural': ('d3_har3', 'Currently available sensitivity tests assess the neural response and not the vascular supply of the pulp'),
+ 'd3_h3poor': ('d3_har3', 'There is a poor correlation between signs and symptoms and pulpal and periapical histopathology'),
+ 'd3_h3five': ('d3_har3', 'it was concluded that the results of these tests were more likely to be correct when teeth are healthy than diseased'),
+ 'd3_h3neg': ('d3_har3', 'the probability of a nonsensitive reaction representing a necrotic pulp was 89% with the cold test'),
+ 'd3_h3pos': ('d3_har3', 'representing a vital pulp was 90% with the cold test'),
+ 'd3_h3ept': ('d3_har3', 'the digital readout is relative rather than an accurate quantitative measurement of the health status of the pulp'),
+ 'd3_h3symless': ('d3_har3', 'which may progress from relatively symptom-free or symptomless to pulp necrosis and subsequent apical periodontitis'),
+ 'd3_h5markers': ('d3_har5', 'the lack of robust diagnostic markers'),
+ 'd3_h5mmp': ('d3_har5', 'the immune cells release degradative enzymes and molecules, such as MMPs and reactive oxygen species (ROS)'),
+ 'd3_h5arch': ('d3_har5', 'The archetypal proinflammatory cytokines/chemokines include interleukin-1α (IL-1α), interleukin-1β (IL-1β) and tumour necrosis factor-α (TNF-α)'),
+ 'd3_h5func': ('d3_har5', 'there still remains a lack of functional understanding of their complex interrelationships'),
+ 'd3_h13pcr': ('d3_har13', 'were studied by means of 16S RNA gene-directed polymerase chain reaction'),
+ 'd3_h13all': ('d3_har13', 'These pathogens were found in all endodontic samples'),
 }
 BOOK = {
  'd3_Galicia2024': 'Galicia JC, Khan AA. Pulpal diagnosis. In: Duncan HF, El-Karim IA, editors. Vital Pulp Treatment. 1st ed. Hoboken: John Wiley & Sons; 2024. Ch.3.',
@@ -198,6 +227,10 @@ BOOK = {
  'd3_Rocas2022': 'Rôças IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.4.',
  'd3_Murray2010': 'Murray C. Immunopathogenesis of periradicular disease. In: Baumann MA, Beer R, editors. Endodontology. Stuttgart: Thieme; 2010 (English translation of the 2nd German edition). Ch.47.',
  'd3_FouadKhan2020': 'Fouad AF, Khan AA. Etiology and pathogenesis of pulpitis and apical periodontitis. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: Wiley-Blackwell; 2020. Ch.3.',
+ 'd3_Chong2017': "Chong BS. Introduction and overview. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.1.",
+ 'd3_Chandler2017': "Chandler NP, Chong BS. Diagnosis. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.3.",
+ 'd3_Duncan2017': "Duncan HF, Smith AJ, Cooper PR. Maintaining dental pulp vitality. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.5.",
+ 'd3_Rotstein2017': "Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.",
  'd3_SiqueiraRocas2017': 'Siqueira JF Jr, Rôças IN. Molecular analysis of endodontic infections. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Hoboken: John Wiley & Sons; 2017. Ch.5.',
 }
 LIT = {}
