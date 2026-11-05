@@ -1,6 +1,14 @@
-# Diagnosis in Endodontics: question set (PROPOSED, NOT YET AGREED with Niranjan, 2026-11-05)
+# Diagnosis in Endodontics: question set (PARTLY AGREED with Niranjan, 2026-11-05: decisions below; Q-numbering final once open points close)
 
 Source: ENDODONTICS_MASTER_REPOSITORY.md §1 (39 wordings) + Endodontics Manipal/TN MGR addendum + RECENT_ADVANCES_MASTER_REPOSITORY.md §4 + CONSERVATIVE_DENTISTRY_MASTER_REPOSITORY.md (diagnostic-aids items). One canonical answer per distinct question, at its highest marks. Wordings as printed.
+
+## Decisions agreed 2026-11-05
+
+1. Q1 and Q2 merge into ONE 100m answer, "Diagnostic aids in endodontics", endodontics only (no caries-detection section). Q2's wordings are absorbed.
+2. Q3, Q4, Q5 and Q6 merge into ONE 100m answer on pulp testing, with separate subheadings.
+3. Endograms (Q10): draft from Blum et al. and flag the meaning.
+4. Part A first; Part B later.
+5. "Recent advances in molecular diagnostic aids in endodontics." (25m Oct 2011, RA) is drafted HERE, raised to 50m.
 
 ## Part A: Clinical diagnosis, pulp testing, treatment planning
 
