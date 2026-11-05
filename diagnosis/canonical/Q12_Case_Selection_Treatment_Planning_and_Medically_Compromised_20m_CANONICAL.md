@@ -3,11 +3,10 @@
 **Marks:** 20m, Long Essay
 **Sitting:** Apr 2019 (NU PIII). No repeats absorbed.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 545 words, about 25 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Q11 (50m) gives case selection, the AAE form and sequencing in full; this answer stands alone in short form and gives most of its weight to the medically compromised patient.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 740 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Q11 (50m) gives case selection, the AAE form and sequencing in full; this answer stands alone in short form and gives most of its weight to the medically compromised patient.
 
 **Retrieval report.** Read in full: Cohen's Ch.5 "Case assessment and treatment planning" (Rosenberg and Malek, 2021); Grossman's 14th ed Ch.8 (Gopikrishna, 2021); Endodontics: Principles and Practice 6th ed Ch.6 (Johnson, Abedi and Shabahang, 2021); Sikri Ch.10 (Sikri, 2019); Gulabivala and Ng Ch.5 (2014); Jain Ch.1 (2025). Read in part: Ingle's 7th ed Ch.31 "Management considerations for the medically complex endodontic patient" (Johnson and Epstein, 2019; author line OCR-garbled and decoded, verify), the history, risk assessment, hypertension, ischaemic heart disease, anticoagulant, diabetes, seizure, renal and steroid sections; Endodontics: Principles and Practice 6th ed Ch.2 "Systemic health considerations" (Aminoshariae and Fouad, 2021). Not used: Weine's Ch.2 "Importance of a medical history" (searched; overlaps the above). Live search: PubMed could not be reached from this session, so the answer is textbook-only.
 
-**FAILURE DISCLOSURE:** exam core is 545 words, below the Section 7 range of 680-800 for 20 marks.
 
 <!--LOC: tp_c5_begins, tp_c5_complete, tp_g8_factors, tp_j_four, tp_t6_unethical, tp_j_ferrule, tp_g8_class3, tp_gu_perio, tp_t6_dam, tp_s10_contra, tp_s10_vrf, tp_g8_terminal, tp_j_molar, tp_g8_aaecat, tp_g8_high, tp_c5_skills, tp_gu_three, tp_gu_relief, tp_gu_onhold, tp_t4_consent, tp_c5_notcontra, tp_t6_medical, tp_i31_osler, tp_i31_25, tp_i31_interview, tp_i31_herbs, tp_t4_vitals, tp_c5_asa, tp_i31_asa3, tp_i31_mdram, tp_c5_physician, tp_i31_letter, tp_i31_cortisol, tp_c5_mi, tp_c5_epi, tp_i31_bp160, tp_i31_bp180, tp_i31_bp210, tp_i31_ihd, tp_i31_ofp6, tp_c5_ie, tp_g8_ahahigh, tp_g8_amox, tp_g8_mvp, tp_c5_2h, tp_s10_penv, tp_c5_warfarin, tp_c5_inr, tp_i31_inr, tp_i31_warf2, tp_t2_anticoag, tp_t2_inr23, tp_c5_dabig, tp_c5_dmok, tp_c5_gluco, tp_i31_hypo, tp_i31_hba1c, tp_c5_dmabx, tp_s10_dmabx, tp_c5_dmout, tp_c5_dmnot, tp_t2_dm, tp_c5_pregfirst, tp_c5_preg2, tp_c5_lido, tp_c5_lead, tp_c5_ibupreg, tp_s10_hypo, tp_c5_mets, tp_c5_vital, tp_c5_radio, tp_c5_counts, tp_t2_ornret, tp_t2_orn91, tp_c5_mronj, tp_c5_mronjsurg, tp_c5_chx, tp_c5_novaso, tp_c5_patency, tp_t2_oralbp, tp_c5_cd4, tp_s10_cd4, tp_c5_hivheal, tp_t2_hiv, tp_c5_joint, tp_i31_dial, tp_s10_dialday, tp_i31_esrd, tp_i31_steroid, tp_i31_seizure, tp_s10_haemo, tp_c5_psychmed, tp_t2_allergy, tp_t2_nsaid, tp_t4_onj, tp_t2_bpclamp, tp_i31_surg-->
 
@@ -31,7 +30,7 @@ Case selection starts after diagnosis and needs assessment of medical, psychosoc
 - **Tooth:** curvature, calcification, resorption, open apex, previous treatment, fracture.
 - **Operator skill.**
 
-**Contraindications:** nonrestorable tooth, grade III mobility, vertical root fracture, no strategic value, inability to place a dental dam (Sikri, 2019; Johnson, Abedi and Shabahang, 2021).
+**Contraindications:** nonrestorable tooth, grade III mobility, vertical root fracture, no strategic value, inability to place a dental dam (Sikri, 2019; Johnson, Abedi and Shabahang, 2021). Treating an unrestorable tooth is as unethical as extracting a sound one. Loss of attachment alone is not a contraindication if the remaining periodontium is healthy (Gulabivala and Ng, 2014); class III mobility favours extraction (Gopikrishna, 2021).
 
 ## 2. Case difficulty and treatment planning
 
@@ -41,7 +40,7 @@ The AAE form grades patient, diagnostic and treatment, and additional considerat
 
 #### ✎ Exam core
 
-**AAE Case Difficulty Assessment Form:** three categories (patient; diagnostic and treatment; additional: trauma, previous treatment, perio) graded minimal, moderate or high; one high-difficulty factor makes the case high (Gopikrishna, 2021). Refer when complexity exceeds skill (Rosenberg and Malek, 2021).
+**AAE Case Difficulty Assessment Form:** three categories (patient; diagnostic and treatment; additional: trauma, previous treatment, perio) graded minimal, moderate or high; one high-difficulty factor makes the case high (Gopikrishna, 2021). Refer when complexity exceeds skill (Rosenberg and Malek, 2021); medically complex patients who cannot sit long, need sedation or close monitoring are often better treated by a specialist (Johnson, Abedi and Shabahang, 2021).
 
 **Plan in phases** (Gulabivala and Ng, 2014): (1) emergency relief of pain and swelling; (2) stabilisation: caries control, hygiene, dressed canals; (3) definitive RCT, retreatment or surgery, then restoration; (4) review. Consent covers diagnosis, risks, prognosis and alternatives including no treatment and extraction (Blicher, Walton and Torabinejad, 2021).
 
@@ -61,7 +60,7 @@ The AAE form grades patient, diagnostic and treatment, and additional considerat
 
 **Malignancy, radiation, MRONJ.** Metastases to the jaw (breast, lung, thyroid, prostate) mimic endodontic lesions; a vital tooth means a nonodontogenic lesion; treat symptomatic nonvital teeth at least 1 week before radiation; routine care if granulocytes over 2000/mm3 and platelets over 50,000/mm3 (Rosenberg and Malek, 2021) [SRC]. After radiation, teeth are kept by RCT to avoid osteoradionecrosis, with 91% success in one series (Aminoshariae and Fouad, 2021) [SRC]. High-risk MRONJ patients: RCT instead of extraction, avoid surgery, chlorhexidine rinse, no vasoconstrictor, no patency filing (Rosenberg and Malek, 2021) [SRC]; oral bisphosphonates do not change outcome, and with IV bisphosphonates clamps are placed carefully to avoid soft tissue and bone injury (Aminoshariae and Fouad, 2021) [SRC].
 
-**HIV.** CD4 over 350 cells/mm3: all treatment (Rosenberg and Malek, 2021) [SRC]; Sikri gives 400 (Sikri, 2019) [SRC]; healing is not altered (Rosenberg and Malek, 2021; Aminoshariae and Fouad, 2021) [SRC]. **Prosthetic joints:** prophylaxis not recommended routinely (Rosenberg and Malek, 2021) [SRC]. **Renal dialysis:** treat the day after dialysis, treat infections aggressively (Johnson and Epstein, 2019; Sikri, 2019) [SRC]. **Steroids:** nonsurgical RCT needs no supplementation (Johnson and Epstein, 2019) [SRC]. **Seizures:** most controlled patients receive routine care (Johnson and Epstein, 2019) [SRC]. **Haemophilia:** Sikri suggests gradual fixation and removal of pulp over several visits (Sikri, 2019) [SRC]. **Psychiatric drugs** interact with sedatives and vasoconstrictors (Rosenberg and Malek, 2021) [SRC]. **NSAIDs** are avoided in antithrombotic therapy, past MI, renal disease and severe asthma (Aminoshariae and Fouad, 2021) [SRC]. True allergy to endodontic materials warrants referral (Aminoshariae and Fouad, 2021) [SRC]. Medical conditions may also favour RCT over extraction (bisphosphonates, radiation) (Blicher, Walton and Torabinejad, 2021) [SRC].
+**HIV.** CD4 over 350 cells/mm3: all treatment (Rosenberg and Malek, 2021) [SRC]; Sikri gives 400 (Sikri, 2019) [SRC]; healing is not altered (Rosenberg and Malek, 2021; Aminoshariae and Fouad, 2021) [SRC]. **Prosthetic joints:** prophylaxis not recommended routinely (Rosenberg and Malek, 2021) [SRC]. **Renal dialysis:** treat the day after dialysis, treat infections aggressively (Johnson and Epstein, 2019; Sikri, 2019) [SRC]. **Steroids:** nonsurgical RCT needs no supplementation (Johnson and Epstein, 2019) [SRC]. **Seizures:** most controlled patients receive routine care (Johnson and Epstein, 2019) [SRC]. **Haemophilia:** Sikri warns of bleeding with inferior alveolar blocks, keeps clamps off the gingiva and suggests gradual fixation and removal of pulp over several visits (Sikri, 2019) [SRC]. **Psychiatric drugs** interact with sedatives and vasoconstrictors (Rosenberg and Malek, 2021) [SRC]. **NSAIDs** are avoided in antithrombotic therapy, past MI, renal disease and severe asthma (Aminoshariae and Fouad, 2021) [SRC]. True allergy to endodontic materials warrants referral (Aminoshariae and Fouad, 2021) [SRC]. Medical conditions may also favour RCT over extraction (bisphosphonates, radiation) (Blicher, Walton and Torabinejad, 2021) [SRC].
 
 #### ✎ Exam core
 
@@ -70,7 +69,10 @@ The AAE form grades patient, diagnostic and treatment, and additional considerat
 2. Vital signs; ASA class (ASA III and above need medical consultation), or the Multi-Dimension Risk Assessment Model: health status, procedural stress, anxiety (Johnson and Epstein, 2019).
 3. Written physician consultation, recorded.
 4. Stress reduction: short morning appointments, anxiolysis, profound anaesthesia.
-5. RCT is often preferred to extraction in these patients.
+5. RCT is often preferred to extraction in these patients (bleeding disorders, radiation, antiresorptives) because it avoids a surgical wound (Gopikrishna, 2021; Blicher, Walton and Torabinejad, 2021).
+6. Drugs: check interactions; avoid NSAIDs with antithrombotics, past MI, renal disease and severe asthma (Aminoshariae and Fouad, 2021); true allergy to endodontic materials needs referral.
+
+**Key controversies to state:** INR limit (Cohen's 3.5 or less; Torabinejad's 2 to 3); diabetic antibiotic prophylaxis (Sikri: routine; Cohen's and Ingle's: not required for controlled diabetics); HIV CD4 cut-off (350 versus 400).
 
 | Condition | Management |
 |---|---|
@@ -87,6 +89,9 @@ The AAE form grades patient, diagnostic and treatment, and additional considerat
 | Dialysis | Day after dialysis; adjust doses; treat infection aggressively |
 | Long-term steroids | No supplement for nonsurgical RCT |
 | Prosthetic joint | No routine prophylaxis |
+| Seizure disorder | Controlled patients: routine care; check drug interactions (Johnson and Epstein, 2019) |
+| Haemophilia | Physician consultation; nerve blocks carry bleeding risk; clamps kept off the gingiva; pulp removed over several visits (Sikri, 2019) |
+| Psychiatric drugs | Interactions of tricyclics and MAO inhibitors with sedatives and vasoconstrictors (Rosenberg and Malek, 2021) |
 
 **Conclusion.** With proper history, consultation and modification, medically compromised patients can be treated safely, and RCT is often safer for them than extraction.
 
