@@ -3,11 +3,10 @@
 **Marks:** 100m, Essay
 **Sitting:** Apr 2003 (raised to 100 marks by Niranjan as the merged pulp-testing answer). Repeats absorbed: "Describe the various diagnostic aids used to assess the status of the pulp." Mar 1992; "Enumerate clinical diagnostic methods [for pulp status] including recent advancements." 15m Apr 2004; "Pulp vitality testing." 10m 29-Dec-2021; "Vitality tests as diagnostic aids." 10m Apr 1998; "Write about Pulp vitality Tests" 10m Sep 2007 (Cons); "Pulp vitality tests" 7m May 2013; "Pulp sensibility test." 10m Jun 2016; "Compare and contrast between pulp sensibility and pulp vitality tests." 5m Mar 2018; "Discuss the new diagnostic methods of testing pulp vitality." 15m Mar 2007; "Recent developments in vitality testing of tooth." 10m Apr 2015; "Recent advances in pulp sensibility testing." 10m Jul 2023; "Recent advances in diagnostic aids in pulp vitality tests" 7m May 2019; "Recent advances in the assessment of pulp vitality." 7m Jun 2017 Manipal; "Discuss the various diagnostic tools for assessing the pulpal blood flow." 10m Oct 2012; "Pulp vascularity tests." 10m Oct 2024; "Laser doppler flowmetry." 10m Apr 2001; "Discuss the recent advances in pulp vitality testing. Add a note on non-odontogenic pain" 20m May 2009.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2729 words, about 124 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Each section heading names the short-note wordings it answers; each exam core is sized (about 320 to 450 words) so that it can be written alone as a 10-mark short note. For the 20m May 2009 question write sections 5, 6 and 8; for the 15m questions write sections 1, 2, 3 and 6 in short form.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3227 words, about 147 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Each section heading names the short-note wordings it answers; each exam core is sized (about 320 to 450 words) so that it can be written alone as a 10-mark short note. For the 20m May 2009 question write sections 5, 6 and 8; for the 15m questions write sections 1, 2, 3 and 6 in short form.
 
 **Retrieval report.** Read in full (pulp-testing sections): Cohen's Ch.1 "Diagnosis", pulp tests to test cavity (Berman and Rotstein, 2021); Ingle's Ch.8, pulp sensibility tests and test cavity (Abbott, 2019; author line OCR-garbled and decoded); Sikri Ch.9, pulp vitality tests and tests measuring tooth temperature (Sikri, 2019); Grossman's Ch.6 section VII "Assessment of pulp vitality" (Gopikrishna, 2021, cited under the editor); Endodontics: Principles and Practice 6th ed Ch.4 pulp sensitivity tests (Blicher, Walton and Torabinejad, 2021); Textbook and Color Atlas of Traumatic Injuries Ch.9, pulp testing after trauma (Andreasen, Andreasen and Tsukiboshi, 2007); Vital Pulp Treatment Ch.3 "Pulpal diagnosis" (Galicia and Khan, 2024); Seltzer and Bender's Ch.6 "Circulation of the pulp", section on detection of pulpal circulation (Ikeda and Suda, 2012); Endodontic Prognosis Ch.3 (Okazaki et al, 2017); Harty's Ch.3 (Chandler and Chong, 2017); Weine's 6th ed Ch.2, thermal, electric and test cavity (Weine, 2004); Problem Solving in Endodontics Ch.1 (Gutmann and Lovdahl, 2011); Endodontology Ch.4 (Baumann and Beer, 2010); Essential Endodontology Ch.7, sensibility and experimental tests (Sigurdsson, 2020). For section 8: Cohen's Ch.4 (Law, Nixdorf and Mattscheck, 2021) and Endodontics: Principles and Practice Ch.5 (Eli, Said-Al-Naief and Torabinejad, 2021). Searched and not used: Problem Solving Ch.6 (non-odontogenic pain; Cohen's Ch.4 covers it more fully); Ingle's Ch.9E and Endodontic Radiology Ch.19 (ultrasound Doppler, but only for periapical lesions, not pulp testing). Live search: PubMed was tried once and is blocked by the network proxy; the answer is textbook-only, and journal studies are named only as "cited by" the book that reports them.
 
-**FAILURE DISCLOSURE:** exam core is 2729 words, below the Section 7 range of 3200-3500 for 100 marks.
 
 <!--LOC: d2_i_incorrect, d2_i_sensdef, d2_i_vitdef, d2_i_blood, d2_i_sensitivity, d2_i_vitalterm, d2_i_twoaspects, d2_c_def, d2_c_histo, d2_c_vasc, d2_w_vasc, d2_e_vit, d2_h_assume, d2_s_neural, d2_s_blood, d2_s_ideal, d2_s_postop, d2_g_indirect, d2_g_true, d2_a_nerve, d2_v_nerve, d2_v_stage, d2_es_xenon, d2_g_others, d2_c_normal, d2_c_abn, d2_c_primary, d2_s_hydro, d2_s_vasocon, d2_s_heatmech, d2_g_vanhassel, d2_g_bran, d2_c_icedam, d2_i_ice, d2_c_spray, d2_c_262, d2_h_50, d2_es_ethyl, d2_s_ethyl, d2_s_agents, d2_h_785, d2_c_co2temp, d2_c_pellet, d2_i_dryice, d2_i_odontotest, d2_i_sprays, d2_t_spray, d2_t_pfm, d2_es_nodiff, d2_i_miller, d2_g_dachi, d2_a_ice, d2_h_colder, d2_t_linger, d2_t_calc, d2_t_recession, d2_c_heat, d2_c_10s, d2_g_heat655, d2_w_655, d2_s_heat65, d2_i_65, d2_g_coffee, d2_i_hotwater, d2_t_hotwater, d2_t_cup, d2_c_wheel, d2_i_cup, d2_h_vib, d2_w_wheel, d2_i_burnisher, d2_h_5s, d2_i_heatnorm, d2_es_heatinfo, d2_c_heatcold, d2_g_relief, d2_t_untreated, d2_gu_delay, d2_s_resp, d2_gu_1867, d2_i_raper, d2_t_ionic, d2_a_current, d2_c_gloves, d2_c_twice, d2_g_site, d2_e_cusp, d2_h_thick, d2_s_4ma, d2_s_twice, d2_w_four, d2_c_bridge, d2_c_eptnum, d2_g_early, d2_w_hyper, d2_e_eptlow, d2_i_level, d2_t_number, d2_h_relative, d2_a_lowhigh, d2_i_scale, d2_i_nopain, d2_c_eptacc, d2_es_seltzer, d2_s_pacemaker, d2_ed_pace, d2_gu_log, d2_gu_redund, d2_s_eptadv, d2_t_eptcalc, d2_t_eptadj, d2_h_cfib, d2_c_fp, d2_c_fn, d2_s_fp1, d2_s_fp2, d2_s_fn1, d2_s_fn2, d2_s_fn3, d2_g_gangrene, d2_g_fibrotic, d2_w_abscess, d2_gu_20, d2_a_sensdef, d2_a_utopian, d2_a_highspec, d2_e_ppvdef, d2_c_sensflaw, d2_c_sens, d2_c_spec, d2_c_acc, d2_g_acc, d2_a_gp, d2_a_ethyl, d2_a_ept, d2_e_cold88, d2_e_spec100, d2_e_heat, d2_e_combo, d2_h_ppv, d2_h_npv, d2_ed_pet, d2_v_cold, d2_v_ept, d2_v_mainkar, d2_v_dor, d2_es_acc75, d2_es_ppv58, d2_i_chen, d2_i_peters, d2_i_peters2, d2_i_heatleast, d2_i_weis, d2_i_weis2, d2_i_both, d2_c_both, d2_c_multi, d2_e_poor, d2_h_healthy, d2_t_noabs, d2_s_repro, d2_v_nonstd, d2_es_ibu, d2_c_ldf, d2_s_ldf10, d2_s_hene, d2_s_flux, d2_s_ldfdam, d2_i_stent, d2_se_ldf80, d2_se_perio, d2_se_dual, d2_se_633, d2_a_ldfpos, d2_se_supine, d2_c_ldfobj, d2_c_ldflux, d2_a_ldfbetter, d2_a_ldf34, d2_a_ldf97, d2_a_ldf100, d2_a_ldf63, d2_a_ldf80, d2_s_ldfadv, d2_h_fourier, d2_h_ldfprom, d2_s_ldfdis1, d2_s_ldfdis2, d2_s_ldfdis3, d2_a_pigment, d2_a_time, d2_g_ldfuse, d2_g_ldfsplint, d2_h_resto, d2_v_resto, d2_i_ldfchen, d2_v_ldf, d2_s_power, d2_c_po, d2_s_po800, d2_g_po940, d2_c_poresto, d2_c_pocustom, d2_s_poadv, d2_s_podis, d2_s_podis2, d2_i_po, d2_g_podev, d2_v_polic, d2_v_po97, d2_se_po, d2_c_pocumb, d2_s_dws, d2_s_dws2, d2_s_dwsadv, d2_s_orv, d2_s_ppg, d2_se_ppg, d2_se_565, d2_s_crystal, d2_s_crystal2, d2_s_thermo, d2_s_hughes, d2_s_thermodis, d2_h_physio, d2_s_usd, d2_t_horizon, d2_i_unsuit, d2_es_notcomm, d2_se_concern, d2_gu_nonew, d2_v_markers, d2_v_il8, d2_i_truly, d2_s_trauma, d2_a_reference, d2_a_return, d2_e_2m, d2_g_3m, d2_gu_36, d2_a_before, d2_g_concuss, d2_w_trauma, d2_a_1mm, d2_a_co2, d2_t_adelta, d2_w_young, d2_es_raschkow, d2_g_immature, d2_c_young, d2_i_hori, d2_s_aged, d2_a_ortho, d2_gu_ortho, d2_es_ortho, d2_i_pcc, d2_se_apical, d2_g_crown, d2_c_co2safe, d2_s_co2dis, d2_a_infraction, d2_a_notsub, d2_ed_crack, d2_es_co2safe, d2_c_tc, d2_c_tcbur, d2_c_tcsig, d2_w_tcbest, d2_w_tcdry, d2_g_tc, d2_g_tc2, d2_t_tc, d2_h_tc, d2_a_probe, d2_gu_calc, d2_ed_last, d2_g_anest, d2_i_tcfalse, d2_i_tcspec, d2_i_barbaric, d2_i_noplace, d2_ed_stages, d2_n_five, d2_n_hetero, d2_n_referred, d2_n_mfp, d2_n_trigger, d2_n_migraine, d2_n_cluster, d2_n_hemi, d2_n_tn, d2_n_carba, d2_n_ms, d2_n_zoster, d2_n_pdap, d2_n_central, d2_n_cardiac, d2_n_somato, d2_n_tumour, d2_t5_red, d2_t5_sleep, d2_t5_sinus, d2_t5_ao, d2_t5_cardiac, d2_t5_head-->
 
@@ -49,6 +48,8 @@
 | Cost, time | Cheap, quick, chairside | Expensive, slow, mostly research |
 
 Key point: neural regeneration after trauma is slower than vascular regeneration, so blood-flow tests are, in principle, more sensitive (Andreasen, Andreasen and Tsukiboshi, 2007); nerve fibres may also survive in a necrotic pulp (Galicia and Khan, 2024). Weine: "the vascularity rather than the innervation determines the vitality of pulp" (Weine, 2004).
+
+**Two questions a sensibility test answers (Abbott, 2019):** first, does the pulp respond (no response suggests necrosis or a pulpless canal); second, how does it respond (normal, exaggerated, lingering). Abbott also advises against "vital" and "nonvital" as diagnoses, because each covers many conditions with different treatments.
 
 **Classification of pulp tests (Gopikrishna, 2021; Sikri, 2019)**
 1. Tests of neural status (sensibility): thermal (cold, heat); electric pulp test; anaesthetic test; test cavity.
@@ -102,6 +103,8 @@ Harty's -50°C for tetrafluoroethane disagrees with the -26.2°C of Cohen's and 
 - Merits: reproduces heat pain; hot water bathes crowned teeth.
 - Demerits: least accurate test; risk of burns; normal pulps may not respond (Abbott, 2019); false responses in gangrenous or root-filled teeth (Andreasen, Andreasen and Tsukiboshi, 2007; Blicher, Walton and Torabinejad, 2021).
 - Rubber cup: "safe alternative" (Blicher, Walton and Torabinejad, 2021) versus not recommended because of vibration (Berman and Rotstein, 2021; Chandler and Chong, 2017).
+- Hot water: used under rubber dam by Berman and Rotstein (2021), Gopikrishna (2021) and Abbott (2019), but "should be avoided" as damaging in Torabinejad's book (Blicher, Walton and Torabinejad, 2021).
+- Heat value: Abbott (2019) says normal pulps do not respond to heat; Sigurdsson (2020) calls heat "probably a more clinically informative" test.
 
 **Interpretation (Gopikrishna, 2021; Sikri, 2019)**
 
@@ -142,6 +145,12 @@ Harty's -50°C for tetrafluoroethane disagrees with the -26.2°C of Cohen's and 
 6. Crowned tooth: bridge with an explorer to exposed tooth structure.
 
 **Interpretation.** Response = viable nerve fibres; no response = probable necrosis, the most accurate result (Berman and Rotstein, 2021). Whether the number matters is disputed: early response means diseased pulp (Gopikrishna, 2021; Weine, 2004) versus the number has no significance (Blicher, Walton and Torabinejad, 2021; Abbott, 2019).
+
+**Points of disagreement**
+- Repeats: at least twice (Berman and Rotstein, 2021); not more than twice (Sikri, 2019); not more than four times (Weine, 2004), because stimulation becomes additive.
+- Cold or EPT first: if a tooth responds to hot or cold, EPT "may be redundant" (Gutmann and Lovdahl, 2011).
+- Power rises on a logarithmic scale, so a response only at the highest setting is not normal (Gutmann and Lovdahl, 2011).
+- No response is strong evidence: Seltzer et al, cited by Sigurdsson, found complete or localised necrosis in 97.7% of non-responding teeth (Sigurdsson, 2020).
 
 **Merits:** quick; quantitative display; not painful; no reliance on fluid flow, so useful in calcified teeth (Blicher, Walton and Torabinejad, 2021); reliable when there is no response.
 
@@ -219,6 +228,8 @@ Cohen's labels sensitivity as "sensibility"; this is a slip. The books report di
 
 **Combination.** Cold plus EPT gives NPV 97% and PPV 90% (Okazaki et al, 2017); if a mature, non-traumatised tooth fails both, the pulp is necrotic (Berman and Rotstein, 2021). Peters et al, cited by Abbott: response to CO2 but not EPT means the EPT is probably false (Abbott, 2019).
 
+**Clinical studies (cited by Abbott, 2019):** CO2 was most likely to identify pulp disease (Chen and Abbott); 97% of teeth responding to cold, CO2 and EPT bled on access (Weisleder et al); heat was least accurate.
+
 **Common demerits:** subjective; poor correlation with histology; cannot stage pulpitis; non-standardised; ibuprofen alters results (Sigurdsson, 2020); multirooted teeth with partial necrosis; results more reliable in healthy than diseased teeth (Chandler and Chong, 2017).
 
 ## 5. Laser Doppler flowmetry -> answers "Laser doppler flowmetry" 10m Apr 2001; "Discuss the various diagnostic tools for assessing the pulpal blood flow" 10m Oct 2012; "Pulp vascularity tests" 10m Oct 2024 (with section 6)
@@ -257,6 +268,10 @@ Cohen's labels sensitivity as "sensibility"; this is a slip. The books report di
 - Motion artefact; systemic drugs alter flow; poor signal in molars; crown discoloration interferes.
 - Restored teeth disputed: usable (Chandler and Chong, 2017) versus not (Galicia and Khan, 2024; Ikeda and Suda, 2012).
 - Measures coronal flow only; not routine in practice (Berman and Rotstein, 2021).
+
+**Evidence in trauma (Andreasen, Andreasen and Tsukiboshi, 2007):** in 80 patients with luxated incisors, a blood-flow value of 2.9 at splint removal separated pulps that revascularised from those that became necrotic (sensitivity 70%, specificity 93%). Chen and Abbott, cited by Abbott (2019), found LDF suitable for unrestored teeth but less reliable than CO2 and EPT.
+
+**Variables:** perfusion is higher supine than sitting; only coronal flow is measured (Ikeda and Suda, 2012).
 
 **Advances:** dual-probe systems, Fourier analysis (Chandler and Chong, 2017), colour power Doppler (Sikri, 2019).
 
@@ -297,6 +312,10 @@ Cohen's labels sensitivity as "sensibility"; this is a slip. The books report di
 
 **7. Biomarkers:** IL-8 and IL-6 distinguish healthy pulp from irreversible pulpitis but not reversible from irreversible (Galicia and Khan, 2024).
 
+**Thermocouples and thermistors** also measure crown temperature; most of these methods are experimental (Chandler and Chong, 2017).
+
+**Merits of the group:** objective, independent of patient reporting, not painful, and they measure the real marker of vitality. **Demerits:** concerns about sensitivity, specificity and ease of use (Ikeda and Suda, 2012); no new method has been refined for clinical application (Gutmann and Lovdahl, 2011).
+
 **Appraisal.** These methods are objective and suit trauma and immature teeth, but remain experimental, costly and slow (Blicher, Walton and Torabinejad, 2021; Sigurdsson, 2020); thermal and electric tests remain the primary clinical methods (Berman and Rotstein, 2021).
 
 ## 7. Special situations: trauma, immature teeth, crowned and calcified teeth, test cavity -> answers "Pulp vitality testing" 10m Dec 2021 (clinical application); see sibling answer Q8 for "Test cavity" 10m
@@ -326,11 +345,11 @@ Cohen's labels sensitivity as "sensibility"; this is a slip. The books report di
 
 **2. Immature teeth:** A-delta fibres not fully developed (Blicher, Walton and Torabinejad, 2021); EPT unreliable; cold, especially CO2, more reliable (Berman and Rotstein, 2021; Andreasen, Andreasen and Tsukiboshi, 2007); monitor root development. Children can be tested (Hori et al, cited by Abbott, 2019), although Sikri (2019) finds tests inconclusive in children.
 
-**3. Older, calcified and orthodontic teeth:** weaker or absent response; a calcified tooth without periapical change needs no treatment (Abbott, 2019); CO2 more reliable than EPT during orthodontic movement (Sigurdsson, 2020).
+**3. Older, calcified and orthodontic teeth:** weaker or absent response because of reduced neural tissue and narrowed tubules (Sikri, 2019); higher thresholds during orthodontic movement (Andreasen, Andreasen and Tsukiboshi, 2007); after pulpotomy, neither thermal nor electric tests show the state of the apical pulp (Ikeda and Suda, 2012); a calcified tooth without periapical change needs no treatment (Abbott, 2019); CO2 more reliable than EPT during orthodontic movement (Sigurdsson, 2020).
 
 **4. Crowned teeth:** CO2 snow is the test of choice (Gopikrishna, 2021); cold penetrates PFM and ceramic crowns (Abbott, 2019); EPT by bridging with an explorer (Berman and Rotstein, 2021).
 
-**5. CO2 and enamel:** infraction lines possible (Sikri, 2019) versus no damage (Berman and Rotstein, 2021; Sigurdsson, 2020).
+**5. CO2 and enamel:** infraction lines possible (Sikri, 2019); cracks only after at least 2 minutes of application (Baumann and Beer, 2010); not substantiated in later studies (Andreasen, Andreasen and Tsukiboshi, 2007); no damage (Berman and Rotstein, 2021; Sigurdsson, 2020).
 
 **6. Test cavity (last resort)**
 - Technique: no anaesthetic; small class I cavity with a high-speed round bur; stop and restore when the patient feels pain (Berman and Rotstein, 2021).
@@ -366,7 +385,9 @@ Cohen's labels sensitivity as "sensibility"; this is a slip. The books report di
 - Paraesthesia or numbness.
 - Repeated failed treatment ("a red flag").
 
-**Management:** do not treat the tooth on symptoms alone; use diagnostic anaesthesia; refer to orofacial pain, medical or neurological specialists.
+**Investigations:** pulp tests, percussion and radiographs to exclude dental disease; palpation of the masticatory muscles and sinuses; diagnostic anaesthesia (trigger-point injection, nerve blocks); pain persisting after effective anaesthesia suggests a central component (Law, Nixdorf and Mattscheck, 2021); regional imaging (panoramic, CT, MRI) when a tumour or intracranial cause is suspected. Ask whether pain wakes the patient, which is typical of dental pain (Eli, Said-Al-Naief and Torabinejad, 2021).
+
+**Management:** do not treat the tooth on symptoms alone; refer to orofacial pain, medical or neurological specialists; avoid repeated dental procedures, which may worsen neuropathic pain.
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
