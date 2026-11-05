@@ -305,6 +305,14 @@ L = {
     # Endodontic Prognosis Ch.3
     'd1_p_provisional': ('d1_pro3', 'Diagnosis of pulpal-periapical disease made clinically is a provisional or clinical diagnosis'),
     'd1_p_844': ('d1_pro3', 'the correlation of clinical and histological diagnosis of irreversible pulpitis could be as high as 84.4%'),
+    'd1_c_craze': ('d1_coh1', 'or cause any significant enamel crazing'),
+    'd1_c_calcfn': ('d1_coh1', 'Calcific obliterations in the root canals'),
+    'd1_t_condensing': ('d1_tor4', 'Condensing osteitis resolves in approximately 50% of teeth after successful root canal treatment'),
+    'd1_i_sensq': ('d1_ing8', 'what do you mean by ‘sensitive’?'),
+    'd1_i_trismus': ('d1_ing8', 'jaw opening should also be assessed to determine if there is trismus'),
+    'd1_i_leading': ('d1_ing8', 'Leading questions should be avoided wherever possible'),
+    'd1_i_chennormal': ('d1_ing8', 'pulp sensibility testing of teeth with clinically normal pulps can be reliably performed with CO2, electric and the cold spray tests'),
+    'd1_i_chendisease': ('d1_ing8', 'the CO2 test was the most likely test to identify pulp disease'),
 }
 BOOK = {
     'd1_Berman2021': 'Berman LH, Rotstein I. Diagnosis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen\'s Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.1.',

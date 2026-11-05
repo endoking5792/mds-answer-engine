@@ -54,6 +54,7 @@ L = {
  'd3_reference': ('d3_vpt3', 'Level of biomarker compared with established reference standard'),
  'd3_direct': ('d3_vpt3', 'direct observation of the dental pulp using magnification is recommended'),
  'd3_esecbct': ('d3_vpt3', 'The routine use of Cone Beam Computed Tomography (CBCT) is not justified for assessing pulpitis'),
+ 'd3_ese': ('d3_vpt3', 'low-temperature cold testing in combination with EPT'),
  'd3_novel': ('d3_vpt3', 'should be utilized for the development of novel chairside tests'),
  'd3_il6n': ('d3_vpt3', 'IL-6: 4 studies'),
  # VPT Ch.4 (Fransson and Bjorndal) and Ch.5 (Dammaschke)
@@ -110,6 +111,8 @@ L = {
  'd3_c14mirna': ('d3_coh14', 'the differential expression of microRNAs (miRNAs) in healthy and diseased dental pulp'),
  'd3_c14chair': ('d3_coh14', 'Therefore more accurate chair-side diagnostic methods are potentially feasible to develop'),
  'd3_c14sample': ('d3_coh14', 'sampling can be made from crevicular fluid, dentinal fluid, or the pulp directly'),
+ 'd3_c14coronal': ('d3_coh14', 'the inflammation and bacterial infection was often localized to the coronal pulp'),
+ 'd3_c14asym': ('d3_coh14', 'Asymptomatic irreversible pulpitis was not included'),
  # Ingle's Ch.4 (Fouad and Huang)
  'd3_i4diff': ('d3_ing4', 'or correlate with certain histopathological diagnoses'),
  'd3_i4gran': ('d3_ing4', 'MMP-9 and MMP-13 were shown to be more prevalent in periapical granulomas than cysts'),
@@ -134,6 +137,8 @@ L = {
  'd3_eeblood': ('d3_ee3a', 'A limited number of clinical studies have examined molecular markers in pulpal blood at the protein levels'),
  'd3_eemmp9': ('d3_ee3a', 'The data show a clear increase in levels of MMP9 in the symptomatic teeth as compared to controls'),
  'd3_een19': ('d3_ee3a', 'pulpitis (n=19) as compared to normal'),
+ 'd3_ee966': ('d3_ee3a', 'In almost all (96.6%) the pulps diagnosed with reversible pulpitis'),
+ 'd3_ee844': ('d3_ee3a', 'A majority (84.4%) of pulps diagnosed as being irreversibly inflamed'),
  'd3_eeneut': ('d3_ee3a', 'MMP9 is a proteolytic enzyme secreted by neutrophils and may be a marker of tissue destruction'),
  'd3_eegenes': ('d3_ee3a', 'were expressed at relatively higher levels in the pulpitis group as compared to normal pulps'),
  'd3_eemir': ('d3_ee3a', '36 human miRs were dysregulated in inflamed pulps'),
@@ -191,7 +196,7 @@ BOOK = {
  'd3_SiqueiraRocas2021': "Siqueira JF Jr, Rôças IN. Microbiology of endodontic infections. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.15.",
  'd3_FouadHuang2019': "Fouad AF, Huang GT-J. Inflammation and immunological responses. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.4 (chapter authors decoded from a garbled author line in the extracted file; year not printed in the extract; verify against the printed book).",
  'd3_Rocas2022': 'Rôças IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessenz; 2022. Ch.4.',
- 'd3_Murray2010': 'Murray C. Immunopathogenesis of periradicular disease. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.47.',
+ 'd3_Murray2010': 'Murray C. Immunopathogenesis of periradicular disease. In: Baumann MA, Beer R, editors. Endodontology. Stuttgart: Thieme; 2010 (English translation of the 2nd German edition). Ch.47.',
  'd3_FouadKhan2020': 'Fouad AF, Khan AA. Etiology and pathogenesis of pulpitis and apical periodontitis. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: Wiley-Blackwell; 2020. Ch.3.',
  'd3_SiqueiraRocas2017': 'Siqueira JF Jr, Rôças IN. Molecular analysis of endodontic infections. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Hoboken: John Wiley & Sons; 2017. Ch.5.',
 }

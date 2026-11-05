@@ -268,6 +268,7 @@ L = {
     'tp_i31_esrd': ('tp_ing31', 'patients with ESRD require aggressive treatment of odontogenic infections'),
     'tp_i31_steroid': ('tp_ing31', 'Nonsurgical dental procedures, including nonsurgical root canal treatment, generally require no supplementation'),
     'tp_i31_seizure': ('tp_ing31', 'Most people who have seizures have good control and are capable of receiving routine dental care'),
+    'tp_i31_surg': ('tp_ing31', 'Periapical surgery may present a greater challenge for hemostasis even for patients well maintained within the therapeutic range'),
     # Sikri Ch.10
     'tp_s10_two': ('tp_sik10', 'whether the operator is competent enough to manage the case'),
     'tp_s10_seq': ('tp_sik10', 'Symptomatic relief of pain/swelling'),
