@@ -1,5 +1,7 @@
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
+## Status (2026-11-05, diagnosis topic, later): Part A REVIEWED. Six independent second readers checked every cited sentence and audited all 11 answers against Harty's 7th ed; about 66 corrections; 1600 locators verified; all exam cores in range. Republished to the Answer Bank site (updated 11, manifest 524 -> 524, 0 lost; site commit 82d3026). Ledgers in `diagnosis/audit/`; open points in `diagnosis/HANDOFF_diagnosis.md`.
+
 ## Status (2026-11-05, diagnosis topic): Part A FIRST DRAFT. 11 canonical answers in `diagnosis/canonical/` (Endodontics §1 + RA §4 + addenda). 1379 locators verified; all exam cores in range; textbook-only. Published to the Answer Bank site 2026-11-05 as Endodontics / Diagnosis in Endodontics (manifest 513 -> 524 entries, 0 lost; site commit b5998dd); not second-reader checked. Part B (pathology) not started. Read `diagnosis/HANDOFF_diagnosis.md`.
 
 ## 2026-11-04 — Answer Bank moved to a private site
