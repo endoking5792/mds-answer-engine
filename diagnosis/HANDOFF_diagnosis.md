@@ -32,9 +32,9 @@ Part A: 11 canonical answers in `diagnosis/canonical/`. Drafted by six parallel 
 3. Trauma atlas "high specificity" wording (p.261), which by its own definitions should be sensitivity.
 4. Endodontic Microbiology p.103 "33%" (probably 23%).
 5. Decoded Ingle's author lines (Abbott Ch.8, Bakland Ch.13, Rosenberg, Malek and Okazaki Ch.11, Johnson and Epstein Ch.31, Fouad and Huang Ch.4): consistent letter-substitution decode, worth one glance. Walton and Torabinejad 2002 Ch.4 author unconfirmed.
-6. Q14 cites PICO from Phillips' Science of Dental Materials and GRADE from a Vital Pulp Treatment table note: accept or revert to [RECALL]? Named cognitive biases remain [RECALL].
+6. Q14: PICO (Phillips' Science of Dental Materials, EBP section) and GRADE (Vital Pulp Treatment Ch.3, GRADE Working Group legend) accepted as [SRC] by Niranjan 2026-11-05; they support the definitions only. The ESE 2023 guideline's use of GRADE and the named cognitive biases remain [RECALL].
 7. Q10 Endograms meaning rests on the Blum et al 2001 paper title only [Likely].
 8. "Vital pulp therapy for irreversible pulpitis" needs a source if wanted back in Q11.
 9. Full headroom: Q13 394/400, Q14 1966/2000, D1 3441/3500; D2 section 7 is 423 words (short-note size about 400).
 10. With PubMed access, primary papers named only "as cited by" the books could be added as [LIT].
-11. Part B (pulpal and periapical pathology, 7 answers) not started.
+11. Part B (pulpal and periapical pathology, 7 answers) drafting started 2026-11-05.
