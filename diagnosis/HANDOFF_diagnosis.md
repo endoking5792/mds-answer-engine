@@ -1,6 +1,6 @@
 # Diagnosis in Endodontics: handoff (2026-11-05)
 
-Part A drafted: 11 canonical answers in `diagnosis/canonical/`, drafted by six parallel agents (one locator file each, `loc_<prefix>.py`, merged by `locators.py`). 1379 locators verified (`python3 locators.py` prints missing 0). Every exam core inside its Section 7 range. Textbook-only: PubMed is blocked by this cloud environment's network proxy, so no [LIT] items. NOT second-reader checked. NOT published to the Answer Bank (waiting for Niranjan to review). Vault copies not done.
+Part A drafted: 11 canonical answers in `diagnosis/canonical/`, drafted by six parallel agents (one locator file each, `loc_<prefix>.py`, merged by `locators.py`). 1379 locators verified (`python3 locators.py` prints missing 0). Every exam core inside its Section 7 range. Textbook-only: PubMed is blocked by this cloud environment's network proxy, so no [LIT] items. NOT second-reader checked. Published to the Answer Bank site 2026-11-05 under Endodontics / Diagnosis in Endodontics (add_answers.py: added 11, manifest 513 -> 524 entries, 0 lost; site commit b5998dd). Vault copies not done.
 
 | File | Marks | Exam core |
 |---|---|---|
