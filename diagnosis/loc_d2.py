@@ -59,6 +59,7 @@ L = {
  'd2_c_tc': ('d2_coh1', 'by definition, it is an invasive irreversible test'),
  'd2_c_tcbur': ('d2_coh1', 'a small class I cavity preparation is made through the occlusal surface of the crown'),
  'd2_c_tcsig': ('d2_coh1', 'This sensation signifies only that there is some viable nerve tissue remaining in the pulp'),
+ 'd2_c_sensflaw': ('d2_coh1', 'The sensibility, which is the ability of a test to identify teeth that are diseased'),
  'd2_c_fp': ('d2_coh1', 'Partial pulp necrosis'),
  'd2_c_fn': ('d2_coh1', 'Drugs that increase patient’s threshold for pain'),
  # Ingle's Ch.8 (Abbott)
@@ -163,6 +164,7 @@ L = {
  'd2_g_ehrmann': ('d2_gro6', 'The use of dry ice has been described by Ehrmann'),
  'd2_g_acc': ('d2_gro6', 'Hence, clinically, a combination of cold test followed by EPT is recommended'),
  'd2_g_site': ('d2_gro6', 'mid-third of the mesiobuccal cusp of'),
+ 'd2_g_relief': ('d2_gro6', 'would cause temporary relief of pain'),
  'd2_g_early': ('d2_gro6', 'This denotes a diseased state of pulp as the tooth'),
  'd2_g_gangrene': ('d2_gro6', 'When gangrenous necrotic pulp is present in a root canal'),
  'd2_g_fibrotic': ('d2_gro6', 'Fibrotic pulp'),
