@@ -399,7 +399,7 @@ L.update({
     'd1_h2_single': ('d1_har2', 'the history is the single most important factor in arriving at a diagnosis'),
     'd1_h2_table': ('d1_har2', 'Certain core information should be elicited in all cases'),
     'd1_h2_supplement': ('d1_har2', 'all these techniques must sup'),
-    'd1_h2_sinus': ('d1_har2', 'tender­ ness to pressure of a whole quadrant of teeth is char'),
+    'd1_h2_sinus': ('d1_har2', 'pressure of a whole quadrant of teeth is char'),
     'd1_h2_bon': ('d1_har2', 'Intravenous bisphosphonate therapy (pamidronate and zoledronate) confers a much higher risk of BON (up to 20%)'),
     'd1_h2_diabetes': ('d1_har2', 'patients with diabetes mellitus have a higher prevalence of periradicular lesions'),
     # Harty's Ch.12 (Sigurdsson and Bourguignon)
@@ -416,11 +416,19 @@ L.update({
     'd1_h13_retro': ('d1_har13', 'a valid retrospective confirmed diagnosis can then be made'),
     # Harty's Ch.14 (Hülsmann and Chong)
     'd1_h14_rx': ('d1_har14', 'acute lesions do not become radiologically visible until bone, including the cortical plates, has been resorbed'),
-    'd1_h14_adjacent': ('d1_har14', 'It is essen­ tial to carry out sensitivity testing of the adjacent teeth so that the correct tooth is identified and treated'),
+    'd1_h14_adjacent': ('d1_har14', 'sensitivity testing of the adjacent teeth so that the correct tooth is identified and treated'),
 })
 BOOK.update({
     'd1_Escudier2017': 'Escudier MP. General and systemic aspects of endodontics. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.2.',
     'd1_Sigurdsson2017': 'Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.',
     'd1_Rotstein2017': 'Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.',
     'd1_Hulsmann2017': 'Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.',
+})
+L.update({
+    'd1_s_tfe': ('d1_sik9', 'tetrafluoroethane (refrigerant spray) (–15°C to –26°C)'),
+    'd1_m_tfe26': ('d1_mol2', 'a pressurised refrigerant spray containing either 1,1,1,2 tetrafluorethane or dichlorodifluoromethane'),
+    'd1_m_small': ('d1_mol2', 'It is important that the cotton pellet is small enough to allow for stimulation of a single tooth at a time'),
+    'd1_t_prophy': ('d1_tor4', 'Use of a dry rubber prophy cup rotated on the surface of a tooth to create frictional heat is a safe alternative'),
+    'd1_i_ldfunrest': ('d1_ing8', 'Laser Doppler flowmetry was suitable for unrestored teeth but less reliable than CO2 and electric tests'),
+    'd1_c_ldfinfra': ('d1_coh1', 'The infrared light beam is scattered as it passes through the pulp tissue'),
 })
