@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** 21-Nov-2024 (RG PII RS-5). Repeats absorbed: none.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 359 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Fuller crack diagnosis is in `cracked_tooth/canonical/Q01` and `Q08`; this answer stands alone.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 383 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Fuller crack diagnosis is in `cracked_tooth/canonical/Q01` and `Q08`; this answer stands alone.
 
 **Retrieval report.** Grep "Tooth Slooth"/"FracFinder" (about 30 files) and "bite test". Read the bite-test passages in: Cohen's 12th Ch.1 (Berman and Rotstein, 2021) and Ch.22 (Berman and Tamse, 2021); Ingle's 7th Ch.8 (Abbott, 2019) and Ch.13 (Bakland, 2019) (author lines garbled in the files, decoded); Grossman's 14th Ch.7 (Gopikrishna, 2021); Harty's 7th Ch.3 (Chandler and Chong, 2017); Gulabivala and Ng 4th ed Ch.4 (2014); Gutmann and Lovdahl 5th ed Ch.1 (2011); Sikri 2nd ed Ch.9 (2019); Endodontology Ch.4 (Baumann and Beer, 2008); The Guidebook to Molar Endodontics Ch.2 (Witherspoon and Regan, 2025) and Ch.9 (Krishnan and Swain, 2025). Not used: Problems in Endodontics Ch.15 (OCR too damaged to quote). Sibling answers read for coverage only. Live search: none. No critical synthesis (10 marks).
 
-<!--LOC: sn_c1_ts, sn_c1_ff, sn_c22_pyr, sn_gr7_pyr, sn_gr7_conc, sn_i8_flat, sn_c1_cup, sn_c1_bitewhen, sn_h_ind, sn_c1_bitediff, sn_c1_bitecusp, sn_i8_onecusp, sn_h_sep, sn_i13_fluid, sn_c1_ctrl, sn_g1_opp, sn_gb2_aware, sn_gb2_seq, sn_c1_slow, sn_c1_release, sn_c1_phase, sn_i13_filling, sn_c1_relpain, sn_i13_rebound, sn_gr7_cof, sn_sk_rel, sn_c22_either, sn_c22_cc, sn_gu_nonvital, sn_e_ts, sn_c1_devices, sn_i13_wheels, sn_gu_burlew, sn_gr7_cotton, sn_g1_stop, sn_i8_useful, sn_gb9_rep, sn_c22_hist, sn_c1_ti, sn_c1_dye, sn_gb9_none, sn_gb9_micro-->
+<!--LOC: d1_i_leow, sn_c1_ts, sn_c1_ff, sn_c22_pyr, sn_gr7_pyr, sn_gr7_conc, sn_i8_flat, sn_c1_cup, sn_c1_bitewhen, sn_h_ind, sn_c1_bitediff, sn_c1_bitecusp, sn_i8_onecusp, sn_h_sep, sn_i13_fluid, sn_c1_ctrl, sn_g1_opp, sn_gb2_aware, sn_gb2_seq, sn_c1_slow, sn_c1_release, sn_c1_phase, sn_i13_filling, sn_c1_relpain, sn_i13_rebound, sn_gr7_cof, sn_sk_rel, sn_c22_either, sn_c22_cc, sn_gu_nonvital, sn_e_ts, sn_c1_devices, sn_i13_wheels, sn_gu_burlew, sn_gr7_cotton, sn_g1_stop, sn_i8_useful, sn_gb9_rep, sn_c22_hist, sn_c1_ti, sn_c1_dye, sn_gb9_none, sn_gb9_micro-->
 
 <!--REF: sn_Berman2021, sn_BermanTamse2021, sn_Abbott2019, sn_Bakland2019, sn_Gopikrishna2021, sn_Chandler2017, sn_Gulabivala2014, sn_Gutmann2011, sn_Sikri2019, sn_Baumann2008, sn_Witherspoon2025, sn_Krishnan2025-->
 
@@ -56,7 +56,7 @@ Test adjacent and contralateral teeth first as controls (Berman and Rotstein, 20
 
 ### Explanation
 
-Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2021) [SRC], called "rebound" or "relief" pain (Bakland, 2019) [SRC]; Grossman's calls it a strong indication of a crown-originating fracture (Gopikrishna, 2021) [SRC]; Sikri states sharp pain on release rather than biting indicates a crack (Sikri, 2019) [SRC]. Berman and Tamse are less strict: sharp pain may occur on pressure or release (Berman and Tamse, 2021) [SRC], and it reproduces the chief complaint (Berman and Tamse, 2021) [SRC]. A non-vital cracked tooth gives a periodontal rather than dentinal sensation (Gulabivala and Ng, 2014) [SRC].
+Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2021) [SRC], called "rebound" or "relief" pain (Bakland, 2019) [SRC]; Grossman's calls it a strong indication of a crown-originating fracture (Gopikrishna, 2021) [SRC]; Sikri states sharp pain on release rather than biting indicates a crack (Sikri, 2019) [SRC]. Berman and Tamse are less strict: sharp pain may occur on pressure or release (Berman and Tamse, 2021) [SRC], and it reproduces the chief complaint (Berman and Tamse, 2021) [SRC]. Abbott disagrees with the release rule on data: citing Abbott and Leow, 68% of patients with cracks in teeth with reversible pulpitis had pain on application of pressure, and only 8% on release (Abbott, 2019) [SRC]. Release pain therefore supports a crack but its absence does not exclude one [Likely]. A non-vital cracked tooth gives a periodontal rather than dentinal sensation (Gulabivala and Ng, 2014) [SRC].
 
 #### ✎ Exam core
 
@@ -67,7 +67,7 @@ Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2
 | Pain only on the restoration | Leaking restoration (Bakland, 2019) |
 | Dull periodontal ache, no dentinal pain | Crack in a non-vital tooth (Gulabivala and Ng, 2014) |
 
-Note: Berman and Tamse (2021) accept pain on pressure or on release.
+Note: Berman and Tamse (2021) accept pain on pressure or on release, and Abbott (2019) found 68% of cracked teeth hurt on pressure but only 8% on release; absent release pain does not exclude a crack.
 
 ## 5. Comparison with other bite tests and crack adjuncts
 
@@ -89,14 +89,14 @@ Alternatives: cotton-tip applicators, toothpicks, orangewood sticks, rubber poli
 ## HIGH-YIELD POINTS
 - Pyramid with concave tip on one cusp; flat side for opposing teeth.
 - Test controls first; load each cusp; hold, then release quickly.
-- Pain on release = crack; pain on every cusp = apical periodontitis.
+- Pain on release suggests a crack (most books), but Abbott found 68% hurt on pressure, only 8% on release; pain on every cusp = apical periodontitis.
 - Negative test does not rule out a crack.
 
 ## DIAGRAMS TO DRAW
 - [DIAGRAM: Tooth Slooth on a molar cusp | concave tip on buccal cusp, opposing molar on flat surface, crack line opening | arrows for load and release | shows principle in one sketch]
 
 ## COMMON EXAM MISTAKES
-- Writing that pain on biting (not release) is diagnostic of a crack.
+- Writing that release pain is essential for a crack diagnosis: most cracked teeth in Abbott's data hurt on pressure, not release.
 - Omitting the control tooth.
 - Not testing each cusp separately.
 - Presenting the bite test as conclusive.
@@ -107,6 +107,7 @@ Alternatives: cotton-tip applicators, toothpicks, orangewood sticks, rubber poli
 ## SOURCE LIST
 
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
+- Abbott, 2019, 08_Chapter_8_Examination_and_Diagnosis_of_Pulp_Root_Canal_, PDF p.232 (printed p.256): "68% of patients with cracks in teeth with reversible pulpitis had pain on application of pressure"
 - Berman and Rotstein, 2021, 01_1_Diagnosis.md, PDF p.229: "The Tooth Slooth (Professional Results, Laguna Niguel, CA)"
 - Berman and Rotstein, 2021, 01_1_Diagnosis.md, PDF p.229: "FracFinder (HuFriedy, Oakbrook, IL)"
 - Berman and Tamse, 2021, 22_22_Chronic_cracks_and_fractures.md, PDF p.2678: "The device is composed of a small pyramid with a flattened top that is placed on a selective cusp"
