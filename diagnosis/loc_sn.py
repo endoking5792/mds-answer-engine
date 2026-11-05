@@ -229,6 +229,8 @@ L = {
     'sn_g1_perioabs': ('sn_gut1', 'Usually periodontal abscesses can be distinguished by normal pulp sensibility tests and a lack of periapical bone loss'),
     'sn_s_cardsides': ('sn_sel19', 'the left mandible (45%), the right mandible (41%)'),
     'sn_w_splintswell': ('sn_wei2', 'an acute swelling of the mandible where teeth in the area are splinted together'),
+    'sn_gb2_rel': ('sn_gb2', 'Pain on release is frequently associated with a fracture in the tooth'),
+    'sn_e_rel': ('sn_edo4', 'pain typically occurs on release of bite pressure'),
     'sn_gu_either': ('sn_gul4', 'which may be felt on pressure application or release'),
 }
 

@@ -193,6 +193,8 @@ L = {
     'eb_largerct': ('eb_coh17', 'The issue may only be resolved by properly documented, large randomized controlled trials'),
     'eb_ing_values': ('eb_ing23', 'Yet, the decision to retreat is oftentimes'),
     # Q10 additions
+    'eb_har_dir': ('eb_har9', 'the direction of force should be apical with no lateral action'),
+    'eb_har_ref72': ('eb_har9', 'Blum J-Y, Machtou P, Micallef J-P. Analysis of forces developed'),
     'eb_en30_wedge': ('eb_en30', 'than with the cold lateral compaction technique (Blum et al., 1998)'),
     'eb_ing22_tf1': ('eb_ing22', 'studied the condensation forces that develop during'),
     'eb_ing22_tf2': ('eb_ing22', 'found that they were lower than those produced during lateral condensation, vertical condensation and System-B'),
