@@ -20,7 +20,7 @@ Source: ENDODONTICS_MASTER_REPOSITORY.md §1 (39 wordings) + Endodontics Manipal
 
 Agreed structure points: D1 has one compact pulp-testing section (about 500-600 exam words) and D2 holds the depth; D2 subheadings are each sized about 320-400 exam words and labelled with the short-note wordings they answer; D2 ends with a short (about 400 words) note on non-odontogenic pain, and Q7 stays separate; D3 covers host biomarkers of pulpal/periapical inflammation with a short section on molecular microbial detection so it stands alone; Q11's examination section is compact, D1 holds the depth.
 
-## Part B: Pulpal and periapical pathology (later batch)
+## Part B: Pulpal and periapical pathology (drafting started 2026-11-05)
 
 | # | Anchor wording | Marks | Absorbed |
 |---|---|---|---|
@@ -31,6 +31,8 @@ Agreed structure points: D1 has one compact pulp-testing section (about 500-600 
 | B5 | "Describe the pathophysiology of apical periodontitis." (24-9-2024, ABS PII) | 10 | — |
 | B6 | "Peri-apical cysts" (May 2009) | 10 | "Diagnosis of periapical cyst." 7m Apr 2015 Manipal |
 | B7 | "Sinuses of endodontic origin" (Oct 2010) | 10 | — |
+
+Part B structure points (coordinator defaults, 2026-11-05): marks as printed. B1 is the umbrella and must stand alone, so it covers classification, aetiology, pathogenesis, the lesions (abscess, granuloma, cyst, condensing osteitis), diagnosis and healing in compact form; B5 holds the depth on pathophysiology of apical periodontitis, B6 on cysts, B7 on sinus tracts. B2 (pulp diseases and aetiology) and B3 (classification of pulpal and periapical disease with etiopathology, differential diagnosis and management) overlap; each stands alone. B4 focuses on mediators in pulpal disease; Part A's D3 covers them as diagnostic biomarkers. Harty's 7th ed is read from the start. Existing related answers: surgical_endo Q11 (surgical management of cysts), Q13 (healing), Q14 (non-microbial causes); endodontic_microbiology; endo_perio.
 
 ## Already answered in other topics (absorbed, not redrafted)
 
