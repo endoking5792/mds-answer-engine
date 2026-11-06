@@ -3,11 +3,10 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2009 (RG PIII RS-old). Repeats absorbed: "Diagnosis of periapical cyst." 7m Apr 2015 (Manipal), answered by Section 4.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 441 words, about 20 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). For the 7m "Diagnosis of periapical cyst", write Section 4 in full with one line each from Sections 1 and 5. B1 (periapical pathosis) covers the cyst in brief; surgical_endo Q11 gives the surgical detail; this answer stands alone.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 393 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). For the 7m "Diagnosis of periapical cyst", write Section 4 in full with one line each from Sections 1 and 5. B1 (periapical pathosis) covers the cyst in brief; surgical_endo Q11 gives the surgical detail; this answer stands alone.
 
 **Retrieval report.** Grep "cyst" counts across `~/mds-textbooks`, then read in full the cyst passages of: Ingle's 7th Ch.6 (Ricucci, Rôças and Siqueira, 2019; author line garbled in the file, names from the contents page; offset -24 confirmed at PDF 143 and 159) and Ch.30 decompression section (Baumgartner and Rosenberg, 2019; offset -118 at PDF 847 and 852); Cohen's 12th Ch.16 (Lin and Huang, 2021) and Ch.3 periapical cyst section (Landwehr, 2021), no printed page numbers in the file so PDF pages only; Grossman's 14th Ch.5 (Gopikrishna, 2021; offset 25 at PDF 120 and 123); Endodontics: Principles and Practice 6th Ch.1 (Sedgley, Silva and Fouad, 2021; offset 7); Essential Endodontology 3rd Ch.3 (Fouad and Khan, 2020; offset 13); Sikri 2nd Ch.6 (2019; offset 21); Endodontic Radiology 2nd Ch.7 (Torneck), Ch.8 (Lam), Ch.16 (Ørstavik), Ch.19 (Cotti and Campisi), Ch.21 (Estrela, Bueno and Alencar), all 2012, offset 20; AAE Glossary 2012. Harty's 7th was read for this topic: Ch.3 (Chandler and Chong) has no cyst passage; the cyst points come from Ch.8 (Siqueira and Rôças, 2017) and Ch.10 (Gutmann, 2017), offset 16 confirmed. The sibling answer surgical_endo Q11 was read for coverage only and is not cited. Live search: none (PubMed blocked by the proxy); textbook-only. No critical synthesis (10 marks).
 
-**FAILURE DISCLOSURE:** exam core is 441 words, above the Section 7 range of 320-400 for 10 marks.
 
 <!--LOC: ps_gl_cyst, ps_gl_perirad, ps_gro_def, ps_c16_unique, ps_c16_nks, ps_c16_notsep, ps_c16_who, ps_c16_prev, ps_c3_inc, ps_gro_inc, ps_tor_inc, ps_tor_crit, ps_ing_bhask, ps_gro_2400, ps_ee_bhask, ps_ing_nair, ps_er21_9, ps_gro_patt, ps_ee_patt, ps_ee_koiv, ps_c3_serial, ps_gro_max, ps_c16_erm, ps_c16_quiet, ps_ing_hers, ps_er8_hers, ps_gro_nair, ps_tor_gran, ps_ing_late, ps_ing_52, ps_c16_nutr, ps_c16_absc, ps_ing_rats, ps_ing_immun, ps_c16_merge, ps_ing_stage1, ps_ing_stage3, ps_c16_osm, ps_c16_mmp, ps_c16_erm_bone, ps_ing_rankl, ps_gl_pocket, ps_gl_true, ps_c16_pocket, ps_c16_true, ps_gro_bay, ps_gro_pouch, ps_ing_serial, ps_c16_lumen, ps_ing_chol, ps_c16_cil, ps_ing_cil, ps_c16_noneo, ps_gro_actino, ps_sik_acute, ps_gro_nosym, ps_gro_spread, ps_tor_push, ps_gro_nopulp, ps_ing_indist, ps_gro_size, ps_c3_15cm, ps_c3_noway, ps_ee_suggest, ps_er7_larger, ps_er16_size, ps_ing30_200, ps_er16_rim, ps_er7_cort, ps_sik_hazy, ps_sik_band, ps_er19_ct, ps_er19_cbct, ps_c3_76, ps_er21_ros, ps_c3_msct, ps_c3_usmri, ps_er19_us, ps_ing_electro, ps_ing30_alb, ps_ing_gold, ps_c16_noclin, ps_ee_histo, ps_c3_pathol, ps_c3_curette, ps_gro_angle, ps_c3_multi, ps_c3_okc, ps_gro_globulo, ps_gro_tbc, ps_gro_lpc, ps_tor_ddx, ps_har10_other, ps_c3_ident, ps_gro_choice, ps_gro_8098, ps_c16_78, ps_ing_75, ps_er7_slow, ps_har8_weep, ps_ing_caoh, ps_gro_periph, ps_gro_immune, ps_c16_selfsus, ps_c16_apop, ps_c3_true, ps_er16_true, ps_tor_nodirect, ps_tor_equal, ps_ee_unproven, ps_ing_pocketprob, ps_ing_nonheal, ps_sik_least, ps_sik_marsup, ps_har10_hist, ps_har10_elim, ps_gro_surg, ps_gl_marsup, ps_ing30_interch, ps_ing30_disrupt, ps_ing30_conserv, ps_ing30_enis, ps_ing30_hoen, ps_gl_enuc, ps_er7_fract-->
 
@@ -41,9 +40,9 @@ About 75% of cysts are in the maxilla (Gopikrishna, 2021) [SRC].
 
 #### ✎ Exam core
 
-**Definition.** An inflammatory odontogenic cyst at the apex of a tooth with a necrotic pulp, arising within apical periodontitis, lined by nonkeratinised stratified squamous epithelium derived from the rests of Malassez (AAE, 2012; Lin and Huang, 2021). It is not a separate disease from chronic apical periodontitis.
+**Definition.** An inflammatory odontogenic cyst at the apex of a tooth with a necrotic pulp, arising within apical periodontitis, lined by nonkeratinised stratified squamous epithelium derived from the rests of Malassez (AAE, 2012; Lin and Huang, 2021).
 
-**Incidence** varies with criteria and serial sectioning: 6% to 55% (Landwehr, 2021); 15% to 20% (Lin and Huang, 2021); Bhaskar 42%, Nair 15% (9% true, 6% pocket) (Ricucci et al, 2019; Estrela et al, 2012). About 75% occur in the maxilla (Gopikrishna, 2021).
+**Incidence** varies with criteria and serial sectioning: 6% to 55% (Landwehr, 2021); 15% to 20% (Lin and Huang, 2021); Bhaskar 42%, Nair 15% (9% true, 6% pocket) (Ricucci et al, 2019; Estrela et al, 2012).
 
 ## 2. Pathogenesis
 
@@ -58,11 +57,11 @@ Theories of cavity formation: (1) nutritional deficiency or breakdown: central c
 #### ✎ Exam core
 
 **Pathogenesis (three stages)**
-1. Dormant rests of Malassez (remnants of Hertwig's sheath) proliferate under inflammatory cytokines and growth factors (Gopikrishna, 2021).
+1. Dormant rests of Malassez proliferate under inflammatory cytokines and growth factors (Gopikrishna, 2021).
 2. A cavity forms: nutritional deficiency (breakdown), abscess, immunologic or fusion theory (Ricucci et al, 2019; Lin and Huang, 2021).
 3. Cyst enlarges at the expense of bone: osmotic pressure (disputed), MMPs and bone resorption (Lin and Huang, 2021).
 
-Only a minority of epithelialised granulomas become cysts (52% epithelialised, 15% cysts) (Ricucci et al, 2019).
+Only 15% of lesions are cysts though 52% are epithelialised (Ricucci et al, 2019).
 
 ## 3. Types and histology
 
@@ -74,7 +73,7 @@ Pocket (bay) cyst: a sac-like, epithelium-lined cavity open to and continuous wi
 
 #### ✎ Exam core
 
-**Types (Nair; Simon's "bay" cyst)**
+**Types**
 | Pocket (bay) cyst | True cyst |
 |---|---|
 | Lumen open to the root canal | Lumen fully enclosed by epithelium |
@@ -82,7 +81,7 @@ Pocket (bay) cyst: a sac-like, epithelium-lined cavity open to and continuous wi
 
 Proved only by serial sections (Ricucci et al, 2019).
 
-**Histology:** nonkeratinised stratified squamous lining infiltrated by inflammatory cells, fibrous capsule; lumen with fluid, cholesterol clefts, foam cells; occasionally ciliated lining (about 8%) (Lin and Huang, 2021; Ricucci et al, 2019).
+**Histology:** nonkeratinised stratified squamous lining, fibrous capsule; lumen with fluid, cholesterol clefts, foam cells; occasionally ciliated lining (about 8%) (Lin and Huang, 2021; Ricucci et al, 2019).
 
 ## 4. Diagnosis (answers "Diagnosis of periapical cyst", 7m)
 
@@ -103,10 +102,9 @@ Proved only by serial sections (Ricucci et al, 2019).
 #### ✎ Exam core
 
 **Diagnosis**
-- Clinical: usually symptomless; non-vital tooth; large cysts displace roots, tilt crowns, cause swelling (Gopikrishna, 2021).
-- Radiograph: cannot separate cyst from granuloma (Landwehr, 2021). Suggestive only: size over 200 sq mm (Baumgartner and Rosenberg, 2019), corticated border, root displacement (Fouad and Khan, 2020). Sikri's "sclerotic band = cyst" is challenged (Ørstavik, 2012; Torneck, 2012).
+- Clinical: usually symptomless; non-vital tooth; large cysts displace roots and tilt crowns (Gopikrishna, 2021).
+- Radiograph: cannot separate cyst from granuloma (Landwehr, 2021). Suggestive only: size over 200 sq mm (Baumgartner and Rosenberg, 2019), corticated border, root displacement (Fouad and Khan, 2020). A sclerotic border is not diagnostic (Ørstavik, 2012).
 - CT: cyst darker than granuloma (Cotti and Campisi, 2012). CBCT inconsistent, 76% agreement (Landwehr, 2021). Ultrasound: transonic fluid cavity.
-- Aspirate: albumin and globulin high.
 - Definitive: histology with serial sections (Ricucci et al, 2019).
 - Differential: incisive canal, OKC, ameloblastoma, traumatic bone cyst, lateral periodontal cyst; vital pulp excludes radicular cyst.
 
@@ -125,9 +123,9 @@ Gutmann notes that "presence of a cyst" was a historical indication for surgery 
 #### ✎ Exam core
 
 **Management**
-1. Nonsurgical root canal treatment first, with recall; cysts and granulomas are treated alike (Landwehr, 2021). Healing 80 to 98% (Gopikrishna, 2021), slower in cysts (Torneck, 2012).
+1. Nonsurgical root canal treatment first; cysts and granulomas are treated alike (Landwehr, 2021). Healing 80 to 98% (Gopikrishna, 2021), slower in cysts (Torneck, 2012).
 2. Weeping canal (pocket cyst): calcium hydroxide (Ricucci et al, 2019).
-3. Large lesions: decompression (tube or drain, irrigation) or aspiration and irrigation (Baumgartner and Rosenberg, 2019).
+3. Large lesions: decompression or aspiration and irrigation (Baumgartner and Rosenberg, 2019).
 4. Failure or symptoms: enucleation with apical surgery and biopsy (Gopikrishna, 2021).
 
 **True cyst controversy:** may need surgery (Landwehr, 2021; Ørstavik, 2012) versus no direct evidence (Sedgley et al, 2021).
