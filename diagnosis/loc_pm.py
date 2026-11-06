@@ -10,6 +10,7 @@ F = {
  'pm_ee3': (T+'Essential_Endodontology_Chapterwise/02_Pages_61_90.md', 13, 'Fouad and Khan, 2020'),
  'pm_dyn30': (T+'Dynamic_Aspects_of_Dental_Pulp_Chapterwise/15_Pages_451_480.md', -3, 'Dohi, Okamoto and Tsujimoto, 1990'),
  'pm_sik7': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/07_7_Rationale_of_Endodontic_Treatment.md', 21, 'Sikri, 2019'),
+ 'pm_har3': (T+'Harty_s_Endodontics_in_Clinical_Practice_7th_ed_Chapterwise/03_3_Diagnosis.md', 16, 'Chandler and Chong, 2017'),
  'pm_sik3': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/03_3_Pathophysiology_of_Pain.md', 21, 'Sikri, 2019'),
 }
 L = {
@@ -233,6 +234,29 @@ L = {
  'pm_sk7phosph': ('pm_sik7', 'Phospholipase, a lysosomal enzyme produced by polymorphonuclear leukocytes'),
  'pm_sk3sens': ('pm_sik3', 'A-delta fibers and lower their threshold, thereby increasing their response to stimulants'),
  'pm_sk3prop': ('pm_sik3', 'released in the pulp in direct proportion to the insult'),
+ # Second-reader additions (pm audit, 2026-11-06)
+ 'pm_largenum': ('pm_sb11', 'The pulp is capable of expressing a large number of the known host mediators of inflammation'),
+ 'pm_ct133': ('pm_coh13', 'Effect of Inflammatory Mediators on Nociceptive Afferent Fibers'),
+ 'pm_ct133lt': ('pm_coh13', 'Leukotrienes27,234 Sensitize'),
+ 'pm_ct133src': ('pm_coh13', 'Modified from Fields H: Pain, New York, 1987'),
+ 'pm_ltconf': ('pm_sb11', 'However, LTB 4 increased pulpal nerve excitability under similar conditions in another study'),
+ 'pm_lymphout': ('pm_sb6', 'Third, increased lymph outflow will reduce both interstitial tissue fluid volume'),
+ 'pm_lymphyes': ('pm_sb6', 'Dental pulp contains lymphatic vessels'),
+ 'pm_lymphclose': ('pm_sb6', 'In prolonged inflammation, the lymphatic vessels are closed, resulting in persistently increased fluid and pulpal pressure'),
+ 'pm_gradnec': ('pm_sb6', 'total pulpal necrosis represents the gradual accumulation of local necrosis'),
+ 'pm_clymphno': ('pm_coh13', 'we can conclude that the pulp is not supplied with draining lymphatic vessels'),
+ 'pm_clymphcontra': ('pm_coh13', 'contradictory conclusions have been drawn'),
+ 'pm_il6ing': ('pm_ing4', 'modulating infection-stimulated bone destruction in vivo'),
+ 'pm_isodcontro': ('pm_ing4', 'levels of both isoforms of this enzyme has been controversial'),
+ 'pm_isodmrna': ('pm_ing4', 'the expression of mRNA for both enzymes does increase in pulpitis in patients'),
+ 'pm_gaba': ('pm_sb11', 'This may be explained by the actions of inhibitors of neurotransmitters'),
+ 'pm_ee156': ('pm_ee3', 'displayed localized accumulation of inflammatory cells with no tissue necrosis and no bacterial infections'),
+ 'pm_eer32': ('pm_ee3', 'clinically diagnosed as being irreversibly inflamed (n=32)'),
+ 'pm_h3lie': ('pm_har3', 'Symptoms may be made worse when the patient lies down or bends over, resulting in increased intrapulpal pressure'),
+ 'pm_h3prog': ('pm_har3', 'irreversible pulpitis, which may progress from relatively symptom-free'),
+ 'pm_h3cfib': ('pm_har3', 'a dull, throbbing C-fibre ache develops'),
+ 'pm_h5archetype': ('pm_har5', 'include interleukin-1α (IL-1α), interleukin-1β (IL-1β) and tumour necrosis factor-α (TNF-α)'),
+ 'pm_h5damp': ('pm_har5', 'it appears to involve dampening pulpal inflammation, which provides an environment conducive to repair'),
 }
 BOOK = {
  'pm_Fouad2012': "Fouad AF. Molecular mediators of pulpal inflammation. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.11 (editor names not verified from the file).",
@@ -243,6 +267,7 @@ BOOK = {
  'pm_FouadLevin2021': "Fouad AF, Levin LG. Pulp reactions to caries and dental procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.14.",
  'pm_FouadKhan2020': 'Fouad AF, Khan AA. Etiology and pathogenesis of pulpitis and apical periodontitis. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: Wiley-Blackwell; 2020. Ch.3.',
  'pm_Dohi1990': 'Dohi T, Okamoto H, Tsujimoto A. Arachidonic acid metabolism and antiseptics. In: Inoki R, Kudo T, Olgart L, editors. Dynamic Aspects of Dental Pulp: Molecular Biology, Pharmacology and Pathophysiology. London: Chapman and Hall; 1990. Ch.30.',
+ 'pm_Chandler2017': "Chandler NP, Chong BS. Diagnosis. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.3.",
  'pm_Sikri2019': 'Sikri VK. Essentials of Endodontics. 2nd ed (eBook). New Delhi: CBS Publishers; 2019. Ch.3 Pathophysiology of pain; Ch.7 Rationale of endodontic treatment.',
 }
 LIT = {}

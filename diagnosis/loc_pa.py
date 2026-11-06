@@ -17,6 +17,9 @@ F = {
     'pa_har10': (H + '10_10_Surgical_Endodontics.md', 16, 'Gutmann, 2017'),
     'pa_tei4': (T + 'Treatment_of_Endodontic_Infections_Chapterwise/04_Chapter_4_The_disease_clinical_manifestations_and_pathophysi.md', None, 'Rôças, Ricucci and Siqueira, 2022'),
     'pa_sel12': (T + 'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_12_Interrelationship_of_the_Pulp_and_Apical_Periodontitis.md', None, 'Sasaki and Stashenko, 2012'),
+    'pa_har13': (H + '13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md', 16, 'Rotstein, 2017'),
+    'pa_har14': (H + '14_14_Problems_in_Endodontic_Treatment.md', 16, 'Hülsmann and Chong, 2017'),
+    'pa_ee1': (T + 'Essential_Endodontology_Chapterwise/00_Pages_1_30.md', 13, 'Ørstavik, 2020'),
 }
 L = {
     # Cohen's Ch.16 (Lin and Huang)
@@ -332,6 +335,36 @@ L = {
     'pa_sel_c5': ('pa_sel12', 'suggesting that complement probably does not play a major role in pathogenesis'),
     'pa_sel_treg': ('pa_sel12', 'Treg cells are present in higher numbers in periapical granulomas from asymptomatic teeth than they are in symptomatic lesions or radicular cysts'),
     'pa_sel_opg': ('pa_sel12', 'significantly reduced the expression of osteoprotegerin'),
+    # Second-reader additions (review pass 2026-11-06)
+    'pa_c16_nodirect': ('pa_coh16', 'There is no direct evidence demonstrating whether chronic apical periodontitis with cyst formation'),
+    'pa_tei_truebay': ('pa_tei4', 'Of the specimens classified as cysts, 48% were true and 52% were bay cysts'),
+    'pa_tei_noself': ('pa_tei4', 'there is no reason to believe that true cysts are self-sustainable pathologic entities'),
+    'pa_ee1_k046': ('pa_ee1', 'K04.6 Periapical abscess with sinus'),
+    'pa_ee1_sub': ('pa_ee1', 'further subdivided in relation to sinus tract location on surfaces'),
+    'pa_ee1_trueimp': ('pa_ee1', 'true cysts separated from the root canal infection that initiated them may show impaired healing'),
+    'pa_ee1_aband': ('pa_ee1', 'diagnosis of a cyst versus a granuloma has been abandoned'),
+    'pa_s6_prinz': ('pa_sik6', 'Chronic proliferative pericementitis'),
+    'pa_s6_renamed': ('pa_sik6', 'Three main categories of periodontitis were recognized, viz. traumatic, chemical/iatrogenic and bacterial'),
+    'pa_s6_coolidge': ('pa_sik6', 'Traumatic and chemical periodontitis'),
+    'pa_s6_grossmod': ('pa_sik6', 'Later, the classification was modified as follows'),
+    'pa_s6_ingpain': ('pa_sik6', 'Advanced apical periodontitis'),
+    'pa_s6_ingnon': ('pa_sik6', 'Non-painful periradicular diseases'),
+    'pa_s6_positive': ('pa_sik6', 'positive differentiation between cyst and granuloma cannot be made from radiographs'),
+    'pa_g5_aaarad': ('pa_gro5', 'loss of the apical lamina dura of the involved pulpless tooth may be the only radiographic changes'),
+    'pa_g5_macdom': ('pa_gro5', 'histologically by the lesion dominated with macrophages, lymphocytes, and plasma cells'),
+    'pa_ee_cystcyt': ('pa_ee3a', 'especially that epithelia cells may secrete bone-resorptive cytokines'),
+    'pa_i6_mediators': ('pa_ing6', 'mediators in the periradicular tissues is the main cause of formation and growth of periradicular lesions'),
+    'pa_h3_aaarad': ('pa_har3', 'the periapical tissues may appear normal or there may be a periapical'),
+    'pa_h3_terms': ('pa_har3', 'In this chapter, the more conservative terms have been retained'),
+    'pa_h13_sulcus': ('pa_har13', 'In reality, it is a sinus tract resulting from pulpal disease'),
+    'pa_h14_aaaseq': ('pa_har14', 'may develop as a sequel to acute apical periodontitis or present as an acute phase of chronic apical periodontitis'),
+    'pa_h14_radio': ('pa_har14', 'acute lesions do not become radiologically visible until bone, including the cortical plates, has been resorbed'),
+    'pa_h14_noab': ('pa_har14', 'The practice of prescribing antibiotics without draining is incorrect'),
+    'pa_h14_fluct': ('pa_har14', 'incision and drainage or aspiration through a large bore needle into a syringe'),
+    'pa_h14_24h': ('pa_har14', 'leave the tooth on open drainage but for no longer than 24 hours'),
+    'pa_h14_flare': ('pa_har14', 'managed by prescribing analgesics and antibiotics'),
+    'pa_h14_flarelesion': ('pa_har14', 'Flare-ups are more likely to occur in teeth with a periapical lesion'),
+    'pa_h8_controv': ('pa_har8', 'whether asymptomatic apical periodontitis lesions can harbour bacteria for very long'),
 }
 BOOK = {
     'pa_Lin2021': 'Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen\'s Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.',
@@ -347,5 +380,8 @@ BOOK = {
     'pa_Gutmann2017': 'Gutmann JL. Surgical endodontics. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.10.',
     'pa_Rocas2022': 'Rôças IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.4 (editor line not verified from the file).',
     'pa_Sasaki2012': 'Sasaki H, Stashenko P. Interrelationship of the pulp and apical periodontitis. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender\'s Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.12 (editor names not verified from the file).',
+    'pa_Rotstein2017': 'Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.',
+    'pa_Hulsmann2017': 'Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty\'s Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.',
+    'pa_Orstavik2020': 'Ørstavik D. Apical periodontitis: microbial infection and host responses. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: Wiley-Blackwell; 2020. Ch.1 (edition and year not verified from the file).',
 }
 LIT = {}
