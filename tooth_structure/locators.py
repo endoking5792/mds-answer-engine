@@ -21,6 +21,7 @@ F = {
  'coh': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/13_13_Structure_and_functions_of_the_dentin_pulp_complex.md', None, 'Fristad and Berggreen, 2021'),
  'mou': (T+O+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount et al, 2016'),
  'stu15': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
+ 'sum6': (T+O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Hilton and Summitt, 2013'),
  'stu6': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
@@ -34,6 +35,7 @@ from loc_q02 import L2; L.update(L2)
 from loc_q03 import L3; L.update(L3)
 from loc_q07 import L7; L.update(L7)
 from loc_q08 import L8; L.update(L8)
+from loc_q04 import L4; L.update(L4)
 def norm(s):
     s = s.replace('\u00b5','\u03bc').replace('\u2013','-').replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
