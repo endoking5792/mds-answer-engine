@@ -9,6 +9,7 @@ BOOK = {
  'Smith2012': "Smith AJ. Formation and repair of dentin in the adult. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.2.",
  'Ritter2019c': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. Elsevier; 2019. Ch.10 Periodontology applied to operative dentistry.",
  'Rose2013': "Rose WF Jr, Haveman CW, Davis RD. Patient evaluation and problem-oriented treatment planning. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.2.",
+ 'Pashley2012': "Pashley DH, Tay FR. Pulpodentin complex. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.3.",
  'Fruits2013': "Fruits TJ, Khajotia SS, Nicholson JW. Biologic considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.1.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}

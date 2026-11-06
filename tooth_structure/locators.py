@@ -16,6 +16,7 @@ F = {
  'sel2': (T+'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_02_Formation_and_Repair_of_Dentin_in_the_Adult.md', None, 'Smith, 2012'),
  'stu10': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  'sum2': (T+O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Rose, Haveman and Davis, 2013'),
+ 'sel3': (T+'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_03_Pulpodentin_Complex.md', None, 'Pashley and Tay, 2012'),
  'stu6': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
@@ -25,6 +26,7 @@ from loc_q01 import L1; L.update(L1)
 from loc_q05 import L5; L.update(L5)
 from loc_q06 import L6; L.update(L6)
 from loc_q09 import L9; L.update(L9)
+from loc_q02 import L2; L.update(L2)
 def norm(s):
     s = s.replace('\u00b5','\u03bc').replace('\u2013','-').replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
