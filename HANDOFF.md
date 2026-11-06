@@ -13,7 +13,8 @@
 - Published to the Answer Bank site under Conservative Dentistry / "Tooth Structure — Enamel, Dentin and Pulp-Dentin Complex" (manifest 531 -> 539 entries, 0 lost). Vault copies not done (cloud session).
 - Q04 Pulp-dentin organ and its response to operative procedures 100m added (exam core 3239), main sources Summitt's Ch.6 (Hilton & Summitt), Marzouk's principles chapter, Sikri's Ch.31; disagreements kept side by side: laser heat (Hilton & Summitt minimal response with coolant vs Sikri more detrimental), speed vs pressure as the heat driver (Marzouk vs Hilton & Summitt), "aspiration" vs "displacement" of odontoblasts. Book slip flagged: Sikri smear layer "1.0-5.0 mm" (µm). 460 locators verified. Site manifest 539 -> 540, 0 lost.
 - Q10 "Biologic restorations" answered as biomimetic restorations (Roseline's choice; no textbook defines the term; exam core 396). Site manifest 540 -> 541, 0 lost. 477 locators verified in total.
-- OPEN: not second-reader checked; vault copies not made; Ingle's Ch.2 author line decoded from garbled OCR — verify.
+- Second-reader check 2026-11-06: (1) every number in all exam cores traced to the cited source pages — all matched; (2) manual review of statements without their own locator — 5 fixes: Q02 sclerotic-dentin bonding reworded to Sikri's modified etching; Q03 odontoblast shape sourced (Cohen: columnar/cuboidal/flattened); Q04 unsourced 'weak, soluble' for Ca(OH)2 removed; Q07 two age implications now cited to Sikri. 481 locators, all exam cores in range; republished (manifest unchanged at 541, 0 lost).
+- OPEN: vault copies not made; Ingle's Ch.2 author line decoded from garbled OCR — verify.
 
 ## 2026-11-04 — Answer Bank moved to a private site
 - All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.
