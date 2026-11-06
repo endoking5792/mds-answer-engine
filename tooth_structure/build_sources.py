@@ -2,6 +2,10 @@ import re, os, sys
 from locators import L, F, page_label
 BOOK = {
  'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. Elsevier; 2019. Ch.1 Clinical significance of dental anatomy, histology, physiology and occlusion.",
+ 'Ritter2019b': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. Elsevier; 2019. Ch.6 Dental biomaterials.",
+ 'Marzouk1985': "Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis: Ishiyaku EuroAmerica; 1985.",
+ 'Sikri2020': "Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020.",
+ 'Haug2019': "Haug SR, Kim S, Heyeraas KJ. Structure and function of the pulp-dentin complex. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.2.",
  'Fruits2013': "Fruits TJ, Khajotia SS, Nicholson JW. Biologic considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.1.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}

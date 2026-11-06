@@ -9,11 +9,17 @@ O = 'Operative_and_Dental_Materials_Textbooks/'
 F = {
  'stu': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  'sum': (T+O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Fruits, Khajotia and Nicholson, 2013'),
+ 'sik': (T+O+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
+ 'mzA': (T+O+'Operative_Dentistry_Marzouk.md', 4, 'Marzouk et al, 1985'),
+ 'mzB': (T+O+'Operative_Dentistry_Marzouk.md', 3, 'Marzouk et al, 1985'),
+ 'ing': (T+'Ingles_Endodontics_7th_Chapterwise/02_Chapter_2_Structure_and_Function_of_the_Pulp_Dentin_Complex.md', -12, 'Haug, Kim and Heyeraas, 2019'),
+ 'stu6': (T+O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
 #   Pick clean text: avoid OCR ligature damage ("0e", "!le"), hyphen breaks and figure captions.
 L = {}
 from loc_q01 import L1; L.update(L1)
+from loc_q05 import L5; L.update(L5)
 def norm(s):
     s = s.replace('\u00b5','\u03bc').replace('\u2013','-').replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
