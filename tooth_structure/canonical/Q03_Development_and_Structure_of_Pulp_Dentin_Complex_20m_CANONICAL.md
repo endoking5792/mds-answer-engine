@@ -3,12 +3,12 @@
 **Marks:** 20m, Long Essay
 **Sitting:** Jun 2016 (Manipal PI). Repeats absorbed (all Manipal PI): "Pulp-Dentin complex." 20m (Apr 2014); "The embryological development of pulp-dentin complex." (Apr 2009); "Development of pulp dentin organ." (Apr 2008); "Development of dental pulp." (Apr 2011); "Histology and cells of pulp." (Apr 2008); "Neural and vascular path of pulp." (Dec 2006). For "Pulp-Dentin complex" (Apr 2014) write sections 1, 3, 4 and 5; for the histology or nerve/vessel short notes, sections 3-4 alone.
 
-**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 690 words, about 31 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Dentin structure is in Q02; tertiary dentin in Q06; age changes in Q07.
+**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 694 words, about 32 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Dentin structure is in Q02; tertiary dentin in Q06; age changes in Q07.
 
 **Retrieval report.** Read in full: Seltzer and Bender's Ch.1 Development of the Pulpodentin Complex, morphological stages (D'Souza and Qin, 2012); Cohen's Pathways 12th ed Ch.13, morphologic zones, cells, innervation and vascular supply (Fristad and Berggreen, 2021); Sturdevant's 2nd South Asia ed Ch.1, pulp (Ritter et al, 2019). Read in part: Ingle's 7th ed Ch.2, introduction (Haug, Kim and Heyeraas, 2019). Not used: Seltzer Ch.1 molecular signalling detail (beyond 20-mark scope). Live search: none.
 
 
-<!--LOC: ds_origin, stu_mesod, ds_complex, ds_lamina, ds_bud, ds_transfer, ds_follicle, ds_crown, ds_knot, ds_apopt, ds_cloop, ds_reciprocal, ds_odonto, ds_pulp, ds_amelo, ds_active, ds_root, ds_eruption, stu_zones, co_columnar, co_weil, co_weil2, co_weilvar, co_richz, co_msc, co_replace, co_proper, co_fibro, co_collagen, co_2000, co_90ad, co_fluid, co_c38, co_raschkow, co_rasch_root, co_100um, co_neural, co_tcn, co_coronal2x, co_fenes, co_1400, co_venule, co_200, co_lymph, co_turnover, co_gags, ing_lowcomp, co_sharp, co_ept, co_young, co_hypoxia, co_horns, co_symp, stu_4fn-->
+<!--LOC: ds_origin, stu_mesod, ds_complex, ds_lamina, ds_bud, ds_transfer, ds_follicle, ds_crown, ds_knot, ds_apopt, ds_cloop, ds_reciprocal, ds_odonto, ds_pulp, ds_amelo, ds_active, ds_root, ds_eruption, stu_zones, co_columnar, co_weil, co_weil2, co_weilvar, co_richz, co_msc, co_replace, co_proper, co_fibro, co_collagen, co_2000, co_90ad, co_fluid, co_c38, co_raschkow, co_rasch_root, co_100um, co_neural, co_tcn, co_coronal2x, co_fenes, co_1400, co_venule, co_200, co_lymph, co_turnover, co_gags, ing_lowcomp, co_sharp, co_ept, co_young, co_hypoxia, co_horns, co_symp, stu_4fn, co_cuboid, co_flat-->
 
 <!--REF: DSouza2012, Fristad2021, Haug2019, Ritter2019-->
 
@@ -62,7 +62,7 @@ The pulp is circumscribed by the odontoblasts, cell-free and cell-rich zones (Ri
 3. **Cell-rich zone** — fibroblasts, stem cells, immune cells; source of replacement odontoblasts.
 4. **Pulp proper** — loose connective tissue, larger vessels and nerves.
 
-**Cells:** odontoblasts (tall columnar in the young coronal pulp, lower in the root); fibroblasts (most numerous; make type I and III collagen and also digest it, so they control collagen turnover); undifferentiated mesenchymal stem cells (replace dead odontoblasts); macrophages, dendritic cells, lymphocytes, mast cells (immune defence) (Fristad and Berggreen, 2021).
+**Cells:** odontoblasts (tall columnar in the coronal pulp, cuboidal in the mid-root, flattened near the apical foramen); fibroblasts (most numerous; make type I and III collagen and also digest it, so they control collagen turnover); undifferentiated mesenchymal stem cells (replace dead odontoblasts); macrophages, dendritic cells, lymphocytes, mast cells (immune defence) (Fristad and Berggreen, 2021).
 
 **Matrix:** collagen fibres (types I and III), ground substance of glycosaminoglycans such as hyaluronan, and interstitial fluid (Fristad and Berggreen, 2021); the pulp lies in a rigid, low-compliance dentin capsule, like brain or bone marrow, so a small inflammatory swelling has serious consequences (Haug, Kim and Heyeraas, 2019).
 
@@ -181,6 +181,8 @@ The pulp has four functions: formative, nutritive, sensory and defensive/reparat
 - Fristad and Berggreen, 2021, 13_13_Structure_and_functions_of_the_dentin_pulp_complex.m, PDF p.1754: "blood flow in the region of the pulp horns is greater than in all other areas of the pulp"
 - Fristad and Berggreen, 2021, 13_13_Structure_and_functions_of_the_dentin_pulp_complex.m, PDF p.1709: "NPY is synthesized in sympathetic neurons"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.25 (printed p.6): "is a unique, specialized organ of the human body that serves four functions"
+- Fristad and Berggreen, 2021, 13_13_Structure_and_functions_of_the_dentin_pulp_complex.m, PDF p.1685: "those in the midportion of the radicular pulp are more cuboidal"
+- Fristad and Berggreen, 2021, 13_13_Structure_and_functions_of_the_dentin_pulp_complex.m, PDF p.1685: "Near the apical foramen, the odontoblasts appear as a squamous layer of flattened cells"
 
 **[LIT]** none: no live literature search was run for this answer.
 

@@ -3,12 +3,12 @@
 **Marks:** 20m, Long Essay
 **Sitting:** May 2019 (Manipal PI). Repeats absorbed: "Structure of human dentine and its clinical significance." 10m (Apr 1995, TN MGR PI 95-00); "Ultra structure of dentin and its clinical significance." (Apr 2013, Manipal PI); "Dentinal tubules." and "Dentinal permeability." (Dec 2006, Manipal PI). For the 10m wordings write sections 1, 2 and 6.
 
-**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 757 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Tertiary dentin is detailed in Q06, RDT in Q05, operative changes in Q04, age changes of all tissues in Q07.
+**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 765 words, about 35 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Tertiary dentin is detailed in Q06, RDT in Q05, operative changes in Q04, age changes of all tissues in Q07.
 
 **Retrieval report.** Read in full: Sturdevant's 2nd South Asia ed Ch.1, dentin and pulp-dentin complex (Ritter et al, 2019); Seltzer and Bender's Ch.3 Pulpodentin Complex (Pashley and Tay, 2012); Summitt's Ch.1, dentin sections (Fruits, Khajotia and Nicholson, 2013). Read in part: Sikri's Textbook, histopathology of caries and carious dentin zones (Sikri, 2020). Live search: none.
 
 
-<!--LOC: stu_dlargest, pt_comp, stu_dcomp, stu_collagen, pt_density, stu_dcrys, stu_tomes, stu_living, stu_predentin, stu_peri, pt_95, pt_peri5, stu_scurve, stu_branch, stu_number, stu_diam, pt_15000, pt_mantle, pt_interglob, pt_types, stu_secondary, stu_secroof, stu_dhard, pt_micro, stu_modulus, stu_uts, pt_water, pt_deepbond, stu_hydro, stu_coronal, pt_barrier, pt_3pct, stu_dharderage, sum_perigrow, stu_physscl, pt_apical, stu_older, stu_scler, stu_sclerprop, stu_reactscl, pt_intralum, pt_sclerperm, pt_slows, sum_defence, sik_dead, sik_deadlight, sik_arnold, sik_cid, sum_infected, sum_entomb, stu_explorer-->
+<!--LOC: stu_dlargest, pt_comp, stu_dcomp, stu_collagen, pt_density, stu_dcrys, stu_tomes, stu_living, stu_predentin, stu_peri, pt_95, pt_peri5, stu_scurve, stu_branch, stu_number, stu_diam, pt_15000, pt_mantle, pt_interglob, pt_types, stu_secondary, stu_secroof, stu_dhard, pt_micro, stu_modulus, stu_uts, pt_water, pt_deepbond, stu_hydro, stu_coronal, pt_barrier, pt_3pct, stu_dharderage, sum_perigrow, stu_physscl, pt_apical, stu_older, stu_scler, stu_sclerprop, stu_reactscl, pt_intralum, pt_sclerperm, pt_slows, sum_defence, sik_dead, sik_deadlight, sik_arnold, sik_cid, sum_infected, sum_entomb, stu_explorer, sik_etchscl-->
 
 <!--REF: Ritter2019, Pashley2012, Fruits2013, Sikri2020-->
 
@@ -101,7 +101,7 @@ Under mild irritation (slow caries, attrition) peritubular dentin fills the tubu
 5. **Operative injury:** cut tubules open to the pulp, smear layer, odontoblast aspiration and heat damage; tubule blockage and tertiary dentin are the dentin's two defences (Fruits, Khajotia and Nicholson, 2013) (Q04).
 6. **Arrest:** even infected lesions may arrest when a bonded restoration seals and entombs the bacteria (Fruits, Khajotia and Nicholson, 2013).
 
-**Clinical significance:** remove infected, preserve affected dentin; deep dentin needs protection and is harder to bond; sclerotic dentin needs roughening before bonding; dentin distinguished from enamel by colour, dull surface and explorer yield (Ritter et al, 2019).
+**Clinical significance:** remove infected, preserve affected dentin; deep dentin needs protection and is harder to bond; sclerotic dentin reacts differently to acid etching, so etching time is modified (Sikri, 2020); dentin distinguished from enamel by colour, dull surface and explorer yield (Ritter et al, 2019).
 
 **Conclusion.** Dentin is a living, permeable tissue whose tubules record age and injury; its structure decides bonding, protection and caries removal.
 
@@ -184,6 +184,7 @@ Under mild irritation (slow caries, attrition) peritubular dentin fills the tubu
 - Fruits, Khajotia and Nicholson, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.54: "This amorphous lesion is referred to as infected dentin and histologically as the zone of destruction"
 - Fruits, Khajotia and Nicholson, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.54: "may be arrested in situ if the bonded materials successfully seal the lesion and entomb the bacteria"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.29 (printed p.10): "Dentin is softer than enamel and provides greater yield to the pressure of a sharp explorer tine"
+- Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.596 (printed p.577): "react differently to acid etching"
 
 **[LIT]** none: no live literature search was run for this answer.
 

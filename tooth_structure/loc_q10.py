@@ -18,3 +18,9 @@ L10 = {
  'sik_crosslink': ('sik', 'Cross-linking agents (glutaraldehyde, carbodiimides, etc.)'),
  'sik_hap': ('sik', 'Hydroxyapatite crystals bind to enamel and dentin, producing a biomimetic coating on enamel/dentin'),
 }
+L10.update({
+ 'co_cuboid': ('coh', 'those in the midportion of the radicular pulp are more cuboidal'),
+ 'co_flat': ('coh', 'Near the apical foramen, the odontoblasts appear as a squamous layer of flattened cells'),
+ 'sik_etchscl': ('sik', 'react differently to acid etching'),
+ 'sik_nerveage': ('sik', 'which explains the reduced sensitivity in older adults'),
+})

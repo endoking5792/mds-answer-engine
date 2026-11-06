@@ -3,12 +3,12 @@
 **Marks:** 20m, Long Essay
 **Sitting:** Feb 2020 Model (ABS PI). Repeats absorbed (Manipal PI): "Age changes in the pulp." (Apr 2008); "Age changes in enamel." (Jul 2005); "Age changes in teeth." (Jun/Jul 2020). For the single-tissue short notes, write that tissue's section and its implications.
 
-**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 714 words, about 32 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Normal structure is in Q01 (enamel), Q02 (dentin) and Q03 (pulp).
+**How to read this answer:** each section explains first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 741 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks). Normal structure is in Q01 (enamel), Q02 (dentin) and Q03 (pulp).
 
 **Retrieval report.** Read: Cohen's Pathways 12th ed Ch.13, "Age changes" and "Pulpal calcifications" (Fristad and Berggreen, 2021); Summitt's Ch.1, enamel permeability, colour and wear (Fruits, Khajotia and Nicholson, 2013); Sturdevant's 2nd South Asia ed Ch.1 (Ritter et al, 2019); Seltzer and Bender's Ch.3 (Pashley and Tay, 2012). Live search: none.
 
 
-<!--LOC: stu_maturation, sum_age, sum_basicperm, sum_hue, sum_yellow, sum_bleach, stu_smooth, sum_wear, sum_craze, stu_norepair, stu_dharderage, sum_perigrow, co_ag_dentin, pt_apical, co_ag_perm, co_ag_scl, stu_older, co_ag_sec, stu_secroof, stu_pulpsmaller, co_ag_cdj, co_ag_cell, co_ag_foci, co_ag_odon, co_ag_furc, co_ag_nerves, co_ag_enz, co_calc50, co_calcform, co_calcdiff, co_2types, co_calcpath, co_laminated, co_unlam, co_mineral, co_size, co_calcrct, sik_dead, sik_deadlight, stu_reactscl, co_young, stu_radio-->
+<!--LOC: stu_maturation, sum_age, sum_basicperm, sum_hue, sum_yellow, sum_bleach, stu_smooth, sum_wear, sum_craze, stu_norepair, stu_dharderage, sum_perigrow, co_ag_dentin, pt_apical, co_ag_perm, co_ag_scl, stu_older, co_ag_sec, stu_secroof, stu_pulpsmaller, co_ag_cdj, co_ag_cell, co_ag_foci, co_ag_odon, co_ag_furc, co_ag_nerves, co_ag_enz, co_calc50, co_calcform, co_calcdiff, co_2types, co_calcpath, co_laminated, co_unlam, co_mineral, co_size, co_calcrct, sik_dead, sik_deadlight, stu_reactscl, co_young, stu_radio, sik_nerveage, sk_age-->
 
 <!--REF: Fristad2021, Fruits2013, Ritter2019, Pashley2012, Sikri2020-->
 
@@ -87,7 +87,7 @@ These changes alter diagnosis, operative care and endodontics. Calcifications ma
 
 **Implications**
 *Diagnosis*
-- Reduced nerves and receded pulp mean weaker, slower response to sensibility tests; older patients feel less during cavity preparation and caries may progress with fewer symptoms.
+- Reduced nerves and receded pulp mean weaker, slower response to sensibility tests; older patients feel less during cavity preparation and caries may progress with fewer symptoms — fewer nerve fibres explain the reduced sensitivity in older adults (Sikri, 2020).
 - Radiographs are essential to judge the size of the pulp cavity (Ritter et al, 2019).
 
 *Restorative*
@@ -99,7 +99,7 @@ These changes alter diagnosis, operative care and endodontics. Calcifications ma
 *Endodontic*
 - Narrow chambers and calcified canals make access and negotiation difficult; pulp stones may block orifices (Fristad and Berggreen, 2021).
 - Pulp floor odontoblasts disappear over furcations, and the root apex changes with cementum apposition — working length must account for the increased constriction-to-apex distance (Fristad and Berggreen, 2021).
-- Reduced vascularity and cellularity lower the healing capacity, so vital pulp therapy is less predictable in old teeth [Likely].
+- Reduced vascularity and cellularity lower the healing capacity, so vital pulp therapy is less predictable in old teeth; older pulps are far less able to resolve a lesion and resist infection (Sikri, 2020).
 
 **Conclusion.** Aging makes the tooth harder, less permeable and less sensitive, but smaller in pulp and slower to heal; treatment planning must allow for both.
 
@@ -171,6 +171,8 @@ These changes alter diagnosis, operative care and endodontics. Calcifications ma
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.29 (printed p.10): "Sclerosis resulting from a mild irritation is called reactive dentin sclerosis"
 - Fristad and Berggreen, 2021, 13_13_Structure_and_functions_of_the_dentin_pulp_complex.m, PDF p.1715: "why the electric pulp test tends to be unreliable in young teeth"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.26 (printed p.7): "Radiographs are an invaluable aid in determining the size of the pulp cavity"
+- Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.596 (printed p.577): "which explains the reduced sensitivity in older adults"
+- Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.597 (printed p.578): "The older pulps are far less defensive in resolving a lesion and resisting infection"
 
 **[LIT]** none: no live literature search was run for this answer.
 
