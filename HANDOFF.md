@@ -1,5 +1,11 @@
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
+## Status (2026-11-06, diagnosis topic): Part B REVIEWED AND PUBLISHED. 7 pathology answers (B1 75m, B2 25m, B3 20m, B4 25m, B5-B7 10m) drafted, second-reader checked (about 66 corrections), published to the Answer Bank site (manifest 524 -> 531, 0 lost; site commit d51979a). Topic now 18 answers, 2709 locators, all in range. Vault copies not done. See `diagnosis/HANDOFF_diagnosis.md`.
+
+## Status (2026-11-05, diagnosis topic, later): Part A REVIEWED. Six independent second readers checked every cited sentence and audited all 11 answers against Harty's 7th ed; about 66 corrections; 1600 locators verified; all exam cores in range. Republished to the Answer Bank site (updated 11, manifest 524 -> 524, 0 lost; site commit 82d3026). Ledgers in `diagnosis/audit/`; open points in `diagnosis/HANDOFF_diagnosis.md`.
+
+## Status (2026-11-05, diagnosis topic): Part A FIRST DRAFT. 11 canonical answers in `diagnosis/canonical/` (Endodontics §1 + RA §4 + addenda). 1379 locators verified; all exam cores in range; textbook-only. Published to the Answer Bank site 2026-11-05 as Endodontics / Diagnosis in Endodontics (manifest 513 -> 524 entries, 0 lost; site commit b5998dd); not second-reader checked. Part B (pathology) not started. Read `diagnosis/HANDOFF_diagnosis.md`.
+
 ## 2026-11-04 — Answer Bank moved to a private site
 - All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.
 - New publish tool `scripts/add_answers.py` (additive, stale-copy guard). WORKFLOW.md Rule 7, ANSWER_GUIDE.md section 7 and the skill's standing publish step now point at the site.
