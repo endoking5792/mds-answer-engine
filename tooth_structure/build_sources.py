@@ -6,6 +6,7 @@ BOOK = {
  'Marzouk1985': "Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis: Ishiyaku EuroAmerica; 1985.",
  'Sikri2020': "Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020.",
  'Haug2019': "Haug SR, Kim S, Heyeraas KJ. Structure and function of the pulp-dentin complex. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.2.",
+ 'Smith2012': "Smith AJ. Formation and repair of dentin in the adult. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.2.",
  'Fruits2013': "Fruits TJ, Khajotia SS, Nicholson JW. Biologic considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.1.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
