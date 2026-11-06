@@ -1,5 +1,24 @@
 # Diagnosis in Endodontics: papers needed to settle disputes (for Niranjan, 2026-11-06)
 
+## RESOLUTION (PubMed, 2026-11-06)
+
+A PubMed tool became available later on 2026-11-06. All 14 papers were found in PubMed and every DOI below is now confirmed from the PubMed record (the Slutzky-Goldberg paper has a PMID, 19159019, but no DOI; the Blum 2001 DOI 10.1097/00004770-200111000-00002 is the one PubMed holds). Correct PMIDs: Patterson 14125029, Bhaskar 5218749, Blum 1998 9641122, Nair 1996 8850492, Abbott and Leow 20415928, Peters 7714424, Duncan 2019 30664240 (the others as listed). None has free full text in PubMed Central, so only abstracts were read. The references are in `loc_lit.py` and cited as [LIT] in the answers.
+
+| # | Dispute | Outcome | Answers changed |
+|---|---|---|---|
+| 1 | Patterson granulomas 84% vs 20% | **Not settled**: PubMed has no abstract | B6 (says so) |
+| 2 | Slutzky-Goldberg sites sum to 102% | **Settled**: the paper's own abstract prints 63.1% maxillary and 38.9% mandibular; Sikri copied it faithfully | B7 |
+| 3 | Bhaskar 2,308 vs 2400 | **Not settled**: no abstract | B6 (says so) |
+| 4 | Blum 1998 wedging significance | **Partly**: abstract confirms the means (0.65 vs 0.8 kg; Thermafil 0.03) but reports no significance test | Q10 |
+| 5 | Meaning of "endogram" | **Settled**: graphs of force application and wedging effect recorded by the Endographe force analyser during obturation; Endographe now sourced | Q10 |
+| 6 | Ricucci 96.6% / 84.4% and sample | **Settled**: 95 teeth collected; 57/59 and 27/32; "normal pulp/reversible pulpitis" grouped; authors call it good agreement | D3, B2, B3 |
+| 7 | Nair 15% cysts, two types | **Confirmed** (35% abscess, 50% granuloma, 15% cyst, 256 lesions); the 9%/6% split is not in the abstract | B1, B6 |
+| 8 | Nair's view on true cysts | **Confirmed**: true cysts "less likely to be resolved without surgical intervention" (not "never") | B1, B6 |
+| 9 | Abbott and Leow 68% / 8% | **Not settled**: abstract confirms 100 teeth and 80% managed conservatively, but not the bite percentages | D1, Q09 |
+| 10 | ESE S3 guideline used GRADE | **Settled**: yes, with 14 systematic reviews and a structured consensus | Q14 ([RECALL] removed) |
+| 11-13 | Petersson, Peters, Chen and Abbott | **New findings**: Petersson's PPVs (0.89/0.48/0.88) show Okazaki et al's "PPV 100% for all tests" is wrong; Chen and Abbott's abstract gives LDF accuracy 96.3%, not significantly different from CO2 and EPT, against Abbott's chapter saying LDF was "less reliable"; CO2 was significantly more accurate than a refrigerant spray (97.0% vs 90.7%) | D1, D2 |
+
+
 PubMed is blocked from the cloud session, so these disputes could not be settled from the textbooks alone. Each citation below is copied from a textbook's own reference list (book named), not from memory. DOI/PMID column filled 2026-11-06 from web search results (Scilit, publisher, repository and reference-list records; PubMed and doi.org themselves are blocked from this session, so none was resolved directly). Tags: [Likely] = listed by a bibliographic record matching title, journal, volume and pages; [Guessing] = inferred or unusual, verify before citing. Still needed from Niranjan: the abstract text or PDF, since the answers can only cite what is actually read. Once filled in, the answers will be corrected from the paper and the paper cited as [LIT].
 
 ## Priority 1: figures that conflict between books

@@ -11,6 +11,8 @@
 
 <!--REF: pd_Gopikrishna2021, pd_Sikri2019, pd_Sedgley2021, pd_Abbott2019, pd_Berman2021, pd_Fouad2021, pd_Chandler2017, pd_Duncan2017, pd_Okazaki2017, pd_FouadKhan2020, pd_Goodis2012, pd_Sigurdsson2017, pd_Rotstein2017, pd_Hulsmann2017-->
 
+<!--LIT: lit_Ricucci2014-->
+
 ## 1. Introduction: why the pulp is vulnerable
 
 ### Explanation
@@ -154,7 +156,7 @@ Degeneration is usually seen in older people (Gopikrishna, 2021) [SRC]; ageing b
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim: "There is no correlation between clinical symptoms and the histological state of the pulp."** Grossman's states this flatly (Gopikrishna, 2021) [SRC], citing the older position that Cohen's Ch.14 also summarises (Fouad and Levin, 2021) [SRC]. Ingle's cites Ricucci et al: 96.6% agreement for normal pulp or reversible pulpitis and 84.4% for irreversible pulpitis (Abbott, 2019) [SRC], and Torabinejad's speaks of "reasonably good agreement" (Sedgley, Silva and Fouad, 2021) [SRC]. Harty's keeps the older view: correlation is poor, "especially true with irreversible pulpitis" (Chandler and Chong, 2017) [SRC], which stands directly against the 84.4% figure. Cohen's Ch.14 reports the same figures but notes that the study was retrospective and used one dentist's subjective definitions (Fouad and Levin, 2021) [SRC]; it adds that inflammation and infection were often localized to the coronal pulp (Fouad and Levin, 2021) [SRC], and Essential Endodontology that in some teeth only one pulp horn was inflamed (Fouad and Khan, 2020) [SRC]. The study itself was not read. Conclusion: write that correlation is better than once taught for the reversible versus irreversible decision, but the evidence is a single retrospective series, so "irreversible" is a clinical label for a pulp whose coronal part may still be salvageable by pulpotomy [Likely].
+**Claim: "There is no correlation between clinical symptoms and the histological state of the pulp."** Grossman's states this flatly (Gopikrishna, 2021) [SRC], citing the older position that Cohen's Ch.14 also summarises (Fouad and Levin, 2021) [SRC]. Ingle's cites Ricucci et al: 96.6% agreement for normal pulp or reversible pulpitis and 84.4% for irreversible pulpitis (Abbott, 2019) [SRC], and Torabinejad's speaks of "reasonably good agreement" (Sedgley, Silva and Fouad, 2021) [SRC]. Harty's keeps the older view: correlation is poor, "especially true with irreversible pulpitis" (Chandler and Chong, 2017) [SRC], which stands directly against the 84.4% figure. Cohen's Ch.14 reports the same figures but notes that the study was retrospective and used one dentist's subjective definitions (Fouad and Levin, 2021) [SRC]; it adds that inflammation and infection were often localized to the coronal pulp (Fouad and Levin, 2021) [SRC], and Essential Endodontology that in some teeth only one pulp horn was inflamed (Fouad and Khan, 2020) [SRC]. The PubMed abstract of the study (Ricucci et al, 2014) [LIT]: 95 teeth collected consecutively in a general practice over 5 years and extracted for unrelated reasons; normal pulp and reversible pulpitis grouped together as savable; the clinical diagnosis of normal pulp/reversible pulpitis matched histology in 57 of 59 teeth (96.6%) and irreversible pulpitis in 27 of 32 (84.4%); infection advancing into the pulp was common in irreversible pulpitis and never seen in normal or reversibly inflamed pulps. The authors call this "a good agreement" but say refined means of pulp diagnosis are still needed. [Abstract only; full text not in PubMed Central] Conclusion: write that correlation is better than once taught for the reversible versus irreversible decision, but the evidence is a single retrospective series, so "irreversible" is a clinical label for a pulp whose coronal part may still be salvageable by pulpotomy [Likely].
 
 ## HIGH-YIELD POINTS
 - Causes: microbial (commonest), traumatic and mechanical, thermal, electrical, chemical, iatrogenic, idiopathic.
@@ -421,7 +423,8 @@ Degeneration is usually seen in older people (Gopikrishna, 2021) [SRC]; ageing b
 - Chandler and Chong, 2017, 03_3_Diagnosis.md, PDF p.51 (printed p.35): "This is especially true with irreversible pulpitis"
 - Fouad and Levin, 2021, 14_14_Pulp_reactions_to_caries_and_dental_procedures.md, PDF p.1845: "the inflammation and bacterial infection was often localized to the coronal pulp"
 
-**[LIT]** none: no live literature search was used for this answer.
+**[LIT]** opened this session (abstract or full text as stated):
+- Ricucci D, Loghin S, Siqueira JF Jr. Correlation between clinical and histologic pulp diagnoses. J Endod. 2014;40(12):1932-1939. https://doi.org/10.1016/j.joen.2014.08.010 PMID 25312886 (PubMed abstract read).
 
 ## REFERENCES (alphabetical)
 - Abbott PV. Examination and diagnosis of pulp, root canal, and periapical/periradicular conditions. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.8.
@@ -434,6 +437,7 @@ Degeneration is usually seen in older people (Gopikrishna, 2021) [SRC]; ageing b
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.4 Diseases of the dental pulp; Ch.5 Diseases of the periradicular tissues.
 - Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.
 - Okazaki K, Malek M, Chugal N, Lin LM. Diagnosis of pulpal and periradicular disease. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.3.
+- Ricucci D, Loghin S, Siqueira JF Jr. Correlation between clinical and histologic pulp diagnoses. J Endod. 2014;40(12):1932-1939. https://doi.org/10.1016/j.joen.2014.08.010 PMID 25312886 (PubMed abstract read).
 - Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.
 - Sedgley C, Silva R, Fouad AF. Pathogenesis of pulp and periapical diseases. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.1.
 - Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.

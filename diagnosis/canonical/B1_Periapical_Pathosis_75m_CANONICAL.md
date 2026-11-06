@@ -12,6 +12,8 @@
 
 <!--REF: pa_Lin2021, pa_Berman2021, pa_Landwehr2021, pa_Ricucci2019, pa_Gopikrishna2021, pa_Sikri2019, pa_Sedgley2021, pa_Fouad2020, pa_Chandler2017, pa_Siqueira2017, pa_Gutmann2017, pa_Rocas2022, pa_Sasaki2012, pa_Rotstein2017, pa_Hulsmann2017, pa_Orstavik2020-->
 
+<!--LIT: lit_Nair1996, lit_Nair1998-->
+
 ## 1. Definition and importance
 
 ### Explanation
@@ -386,7 +388,7 @@ Lin and Huang: treatment of the various types is basically the same, non-surgica
 ## CRITICAL EVIDENCE SYNTHESIS
 
 **Claim 1: "True apical cysts do not heal after non-surgical root canal treatment."**
-*Textbook:* Lin and Huang report, citing Nair, the view that true cysts are less likely to heal because they are self-sustaining and that surgery is needed (Lin and Huang, 2021) [SRC]; they report it in order to counter it (next paragraph), so it is Nair's position, not theirs. [Likely] Sikri advises surgery for cysts (Sikri, 2019) [SRC]. Ørstavik writes that true cysts separated from the infection "may show impaired healing" and need surgical removal (Ørstavik, 2020) [SRC]. Fouad and Khan record the argument that true cysts are few and resistant (Fouad and Khan, 2020) [SRC].
+*Textbook:* Lin and Huang report, citing Nair, the view that true cysts are less likely to heal because they are self-sustaining and that surgery is needed (Lin and Huang, 2021) [SRC]; they report it in order to counter it (next paragraph), so it is Nair's position, not theirs. [Likely] Nair's own abstracts confirm that position: cysts are only about 15% of periapical lesions, and "a periapical pocket cyst may heal after conventional root canal therapy whereas an apical true cyst is less likely to be resolved without surgical intervention" (Nair, 1998) [LIT]; the 1996 serial-section study of 256 lesions found 35% abscesses, 50% granulomas and 15% cysts in two categories (Nair, Pajarola and Schroeder, 1996) [LIT]. Note that Nair says "less likely", not "never". Sikri advises surgery for cysts (Sikri, 2019) [SRC]. Ørstavik writes that true cysts separated from the infection "may show impaired healing" and need surgical removal (Ørstavik, 2020) [SRC]. Fouad and Khan record the argument that true cysts are few and resistant (Fouad and Khan, 2020) [SRC].
 *Challenge:* Lin and Huang's own position, stated straight after ("Nonetheless") and again later in the chapter, is that true cysts, like pocket cysts, may regress by apoptosis once infection is controlled (Lin and Huang, 2021) [SRC], and that a true cyst is unlike the self-sustaining odontogenic keratocyst (Lin and Huang, 2021) [SRC]. Ingle's records the counter-argument (Ricucci, Rôças and Siqueira, 2019) [SRC]: a lesion that persists after its cause is removed is a neoplasm by definition (Ricucci, Rôças and Siqueira, 2019) [SRC], and the pocket cyst is the more likely to be recalcitrant (Ricucci, Rôças and Siqueira, 2019) [SRC]. Torabinejad's says there has never been direct evidence for the "true cysts need surgery" hypothesis (Sedgley, Silva and Fouad, 2021) [SRC] and that both lesion types heal equally (Sedgley, Silva and Fouad, 2021) [SRC].
 Ricucci and co-workers found bacteria in all true and bay cysts (48% and 52% of the cysts) and conclude there is no reason to think true cysts self-sustaining (Rôças, Ricucci and Siqueira, 2022) [SRC].
 *Strength:* Lin and Huang state there is no direct evidence either way (Lin and Huang, 2021) [SRC]; both positions rest on histology and reasoning, not on trials, because true cysts cannot be diagnosed before treatment (Lin and Huang, 2021) [SRC]; Fouad and Khan: "These hypotheses remain to be proven" (Fouad and Khan, 2020) [SRC]. [Certain]
@@ -738,7 +740,9 @@ Ricucci and co-workers found bacteria in all true and bay cysts (48% and 52% of 
 - Sikri, 2019, 06_6_Diseases_of_Periradicular_Tissues.md, PDF p.93 (printed p.72): "Periapical cyst is a chronic inflammatory response of periapex"
 - Sasaki and Stashenko, 2012, Chapter_12_Interrelationship_of_the_Pulp_and_Apical_Period, PDF p.509: "suggesting that complement probably does not play a major role in pathogenesis"
 
-**[LIT]** none: no live literature search was used for this answer.
+**[LIT]** opened this session (abstract or full text as stated):
+- Nair PNR, Pajarola G, Schroeder HE. Types and incidence of human periapical lesions obtained with extracted teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1996;81(1):93-102. https://doi.org/10.1016/s1079-2104(96)80156-9 PMID 8850492 (PubMed abstract read).
+- Nair PN. New perspectives on radicular cysts: do they heal? Int Endod J. 1998;31(3):155-160. https://doi.org/10.1046/j.1365-2591.1998.00146.x PMID 10321160 (PubMed abstract read).
 
 ## REFERENCES (alphabetical)
 - Berman LH, Rotstein I. Diagnosis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.1.
@@ -749,6 +753,8 @@ Ricucci and co-workers found bacteria in all true and bay cysts (48% and 52% of 
 - Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.
 - Landwehr DJ. Lesions that mimic endodontic pathosis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.3.
 - Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+- Nair PN. New perspectives on radicular cysts: do they heal? Int Endod J. 1998;31(3):155-160. https://doi.org/10.1046/j.1365-2591.1998.00146.x PMID 10321160 (PubMed abstract read).
+- Nair PNR, Pajarola G, Schroeder HE. Types and incidence of human periapical lesions obtained with extracted teeth. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1996;81(1):93-102. https://doi.org/10.1016/s1079-2104(96)80156-9 PMID 8850492 (PubMed abstract read).
 - Ricucci D, Rôças IN, Siqueira JF Jr. Periradicular disease. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.6 (chapter authors garbled in the chapter author line of the file; confirmed against the contents page of the book, printed p.167: Domenico Ricucci, Isabela N. Rôças, José F. Siqueira, Jr.; editors not verified from the file).
 - Rotstein I. Marginal periodontitis and the dental pulp. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.13.
 - Rôças IN, Ricucci D, Siqueira JF Jr. The disease: clinical manifestations and pathophysiology of apical periodontitis. In: Siqueira JF Jr. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.4 (editor line not verified from the file).

@@ -62,3 +62,7 @@ Part B open points:
 4. Sikri errors flagged: cyst called "acute"; marsupialisation called "surgical removal"; "Grossman's classification" not matching the 14th ed; radiographic cyst diagnosis contradicted on his own next page.
 5. Near ceilings: B2 994/1000, B4 999/1000, B6 398/400, B7 396/400, B1 2910/3000.
 6. Fouad wrote or co-wrote four of B4's eight sources; agreement among them is not independent.
+
+## PubMed check (2026-11-06)
+
+All 14 disputed or supporting papers found in PubMed (abstracts only; none in PubMed Central). 11 answers updated with [LIT] citations (`loc_lit.py`): D1, D2, D3, B1, B2, B3, B6, B7, Q09, Q10, Q14. Settled: endogram meaning (Q10), Slutzky-Goldberg 102% is in the original abstract (B7), Ricucci sample and figures (D3, B2, B3), Nair's figures and true-cyst position (B1, B6), ESE S3 used GRADE (Q14), Okazaki et al's PPVs wrong against Petersson 1999 (D2), Abbott's chapter overstates his own LDF result (D1, D2). Still open (need full text): Patterson 84% vs 20%, Bhaskar 2,308 vs 2400, Blum 1998 significance, Abbott and Leow 68%/8%. Details: `LITERATURE_REQUESTS.md`.

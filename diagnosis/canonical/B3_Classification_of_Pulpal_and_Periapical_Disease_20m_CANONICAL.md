@@ -11,6 +11,8 @@
 
 <!--REF: pd_Gopikrishna2021, pd_Sikri2019, pd_Sedgley2021, pd_Abbott2019, pd_Berman2021, pd_Fouad2021, pd_Okazaki2017, pd_Chandler2017, pd_Orstavik2020, pd_FouadKhan2020, pd_Sigurdsson2017, pd_Hulsmann2017-->
 
+<!--LIT: lit_Ricucci2014-->
+
 ## 1. Introduction: why so many classifications
 
 ### Explanation
@@ -119,7 +121,7 @@ Extraction is always an alternative (Abbott, 2019). Prognosis is best when irrev
 
 **Claim: "Clinical classification cannot tell us the histological state of the pulp, so reversible and irreversible pulpitis are guesses."**
 *Textbook:* Grossman's: no correlation exists between histopathology and symptoms (Gopikrishna, 2021) [SRC]; Cohen's calls correlation challenging (Berman and Rotstein, 2021) [SRC].
-*Refinement:* Ingle's cites Ricucci et al with 96.6% agreement for normal or reversible and 84.4% for irreversible pulpitis (Abbott, 2019) [SRC]; Torabinejad's reports "reasonably good agreement" in carious teeth (Sedgley, Silva and Fouad, 2021) [SRC]. Harty's disagrees: correlation is poor, "especially true with irreversible pulpitis" (Chandler and Chong, 2017) [SRC].
+*Refinement:* Ingle's cites Ricucci et al with 96.6% agreement for normal or reversible and 84.4% for irreversible pulpitis (Abbott, 2019) [SRC], confirmed by the study's PubMed abstract (57 of 59 and 27 of 32 teeth; Ricucci et al, 2014) [LIT]; Torabinejad's reports "reasonably good agreement" in carious teeth (Sedgley, Silva and Fouad, 2021) [SRC]. Harty's disagrees: correlation is poor, "especially true with irreversible pulpitis" (Chandler and Chong, 2017) [SRC].
 *Strength:* one retrospective series with one dentist's subjective definitions (Fouad and Levin, 2021) [SRC]; inflammation and infection were often localized to the coronal pulp (Fouad and Levin, 2021) [SRC], and in some teeth only one pulp horn was inflamed (Fouad and Khan, 2020) [SRC]. The study itself was not read.
 *Conclusion:* the old "no correlation" statement overstates the problem, but "irreversible" may not be truly irreversible (Fouad and Khan, 2020) [SRC]; the label decides between pulp preservation and removal rather than describing histology [Likely].
 
@@ -263,7 +265,8 @@ AAE periapical terms, **"No Sad Apex Ache Can Continue"**: **N**ormal, **S**ympt
 - Chandler and Chong, 2017, 03_3_Diagnosis.md, PDF p.51 (printed p.35): "This is especially true with irreversible pulpitis"
 - Fouad and Levin, 2021, 14_14_Pulp_reactions_to_caries_and_dental_procedures.md, PDF p.1845: "the inflammation and bacterial infection was often localized to the coronal pulp"
 
-**[LIT]** none: no live literature search was used for this answer.
+**[LIT]** opened this session (abstract or full text as stated):
+- Ricucci D, Loghin S, Siqueira JF Jr. Correlation between clinical and histologic pulp diagnoses. J Endod. 2014;40(12):1932-1939. https://doi.org/10.1016/j.joen.2014.08.010 PMID 25312886 (PubMed abstract read).
 
 ## REFERENCES (alphabetical)
 - Abbott PV. Examination and diagnosis of pulp, root canal, and periapical/periradicular conditions. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.8.
@@ -274,6 +277,7 @@ AAE periapical terms, **"No Sad Apex Ache Can Continue"**: **N**ormal, **S**ympt
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.4 Diseases of the dental pulp; Ch.5 Diseases of the periradicular tissues.
 - Hülsmann M, Chong BS. Problems in endodontic treatment. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.14.
 - Okazaki K, Malek M, Chugal N, Lin LM. Diagnosis of pulpal and periradicular disease. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.3.
+- Ricucci D, Loghin S, Siqueira JF Jr. Correlation between clinical and histologic pulp diagnoses. J Endod. 2014;40(12):1932-1939. https://doi.org/10.1016/j.joen.2014.08.010 PMID 25312886 (PubMed abstract read).
 - Sedgley C, Silva R, Fouad AF. Pathogenesis of pulp and periapical diseases. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.1.
 - Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.
 - Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS; 2019. Ch.5 Diseases of dental pulp; Ch.6 Diseases of periradicular tissues.
