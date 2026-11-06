@@ -37,4 +37,28 @@ Part A: 11 canonical answers in `diagnosis/canonical/`. Drafted by six parallel 
 8. "Vital pulp therapy for irreversible pulpitis" needs a source if wanted back in Q11.
 9. Full headroom: Q13 394/400, Q14 1966/2000, D1 3441/3500; D2 section 7 is 423 words (short-note size about 400).
 10. With PubMed access, primary papers named only "as cited by" the books could be added as [LIT].
-11. Part B (pulpal and periapical pathology, 7 answers) drafting started 2026-11-05.
+11. Part B done 2026-11-06: see the Part B section below.
+
+## Part B (pulpal and periapical pathology), 2026-11-06
+
+7 canonical answers, drafted by four agents (Harty's 7th read from the start), then checked by four independent second readers (ledgers `audit/pa.md`, `pd.md`, `pm.md`, `ps.md`). Published to the Answer Bank site under Endodontics / Diagnosis in Endodontics (added 7, manifest 524 -> 531, 0 lost; site commit d51979a). Whole topic: 18 answers, 2709 locators, missing 0; all exam cores in range.
+
+| File | Marks | Exam core | Second reader: checked / corrected |
+|---|---|---|---|
+| B1 Periapical pathosis | 75 | 2910 | 261 / 13 (classification section expanded) |
+| B2 Diseases of pulp and their etiology | 25 | 994 | ~200 / 17 (shared with B3) |
+| B3 Classification of pulpal and periapical disease | 20 | 789 | ~95 / (in B2 count) |
+| B4 Inflammatory mediators in pulpal disease | 25 | 999 | 209 / 16 |
+| B5 Pathophysiology of apical periodontitis | 10 | 346 | 34 / 3 |
+| B6 Periapical cysts | 10 | 398 | ~125 / 10 |
+| B7 Sinuses of endodontic origin | 10 | 396 | ~72 / 7 |
+
+Main Part B corrections: Lin and Huang (Cohen's Ch.16) report Nair's "true cysts need surgery" view and then counter it (placed on the "may heal" side, [Likely]); Grossman's 80-98% is resolution of periapical radiolucencies, not a cyst healing rate; Landwehr's 6-55% covers cysts and granulomas together; Ricucci et al argue against osmotic cyst growth; cat-pulp pressures (16.3 vs 7.0 mm Hg) labelled as animal data; Cohen's leukotriene table is a general pain table; IL-6, superoxide dismutase and AAE 2009/2016 "conflicts" were labelling or document differences, not data conflicts; Abbott says reversible pulpitis "will normally require" pulp therapy.
+
+Part B open points:
+1. Irreversible pulpitis: pulpectomy (Grossman's, Harty's) vs pulpotomy as definitive in selected cases (Essential Endodontology, Cohen's); B2/B3 give one line each.
+2. Phoenix abscess: Grossman's (drain) vs Sikri (no incision) vs Harty's flare-up management (drainage, analgesics, antibiotics; [Likely] same event).
+3. Patterson granulomas 84% (Grossman's) vs 20% (Fouad and Khan); Slutzky-Goldberg sinus sites sum to 102%: need the original papers.
+4. Sikri errors flagged: cyst called "acute"; marsupialisation called "surgical removal"; "Grossman's classification" not matching the 14th ed; radiographic cyst diagnosis contradicted on his own next page.
+5. Near ceilings: B2 994/1000, B4 999/1000, B6 398/400, B7 396/400, B1 2910/3000.
+6. Fouad wrote or co-wrote four of B4's eight sources; agreement among them is not independent.
