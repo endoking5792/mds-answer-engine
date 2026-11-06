@@ -243,7 +243,6 @@ L = {
     'ps_gut4_calc': ('ps_gut4', 'biofilm and calculus can form on the root surfaces'),
     'ps_wei_fist': ('ps_wei2', 'Chronic draining sinus tracts (fistulas) are important aids in'),
     'ps_wei_lat': ('ps_wei2', 'it probably indicates a lateral canal lesion, a root'),
-    'ps_wei_few': ('ps_wei2', 'the sinus tract heals within a few days'),
     'ps_wei_blow': ('ps_wei2', 'is also of importance during therapy because it is some insurance'),
     # ---------- added in second-reader pass (2026-11-06) ----------
     # B6

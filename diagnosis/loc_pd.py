@@ -344,6 +344,8 @@ L = {
     'pd_h14_pulpotomy': ('pd_har14', 'emergency pulpotomy, as a temporary measure, can usually achieve pain relief'),
     'pd_h14_antibiotics': ('pd_har14', 'antibiotics have no beneficial role in treating irreversible pulpitis'),
     'pd_h14_crack20': ('pd_har14', '20% of cracked teeth without spontaneous pain or short-term response to cold eventually became necrotic'),
+    'pd_i8_necrobiotable': ('pd_ing8', 'Pulp necrobiosis (part of pulp is necrotic and infected; the rest is irreversibly inflamed)'),
+    'pd_sb_systemic': ('pd_sel18', 'They could not find any significant relationship between pulp stones and gender, systemic diseases'),
     'pd_h14_drain': ('pd_har14', 'The practice of prescribing antibiotics without draining is incorrect'),
 }
 BOOK = {
