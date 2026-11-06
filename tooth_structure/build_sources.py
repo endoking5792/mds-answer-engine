@@ -15,6 +15,8 @@ BOOK = {
  'Ritter2019d': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. Elsevier; 2019. Ch.1, 2, 6, 9, 11 and 15.",
  'Mount2016': "Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley Blackwell; 2016.",
  'Hilton2013': "Hilton TJ, Summitt JB. Pulpal considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.6.",
+ 'Paravina2013': "Paravina RD. Color and shade matching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.4.",
+ 'Vargas2013': "Vargas MA, Bergeron C, Murchison DF, Roeters J, Chan DCN. Direct anterior restorations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.10.",
  'Fruits2013': "Fruits TJ, Khajotia SS, Nicholson JW. Biologic considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.1.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
