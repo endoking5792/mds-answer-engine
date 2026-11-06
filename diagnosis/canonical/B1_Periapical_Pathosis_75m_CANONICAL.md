@@ -3,13 +3,12 @@
 **Marks:** 75m, Single Essay
 **Sitting:** Jun 2018 (Manipal PIV). Repeats absorbed: none. Umbrella answer for Part B; B5 (pathophysiology of apical periodontitis, 10m), B6 (periapical cysts) and B7 (sinus tracts) hold more depth on their parts. For a 20-25m sitting, write sections 2, 4, 6, 7, 8 and 12 in short form.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2382 words, about 108 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2690 words, about 122 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks).
 
 **Retrieval report.** Read in full: Cohen's Ch.16 "Pathobiology of apical periodontitis" (Lin and Huang, 2021); Ingle's Ch.6 "Periradicular disease" (Ricucci, Rôças and Siqueira, 2019; author line garbled in the file and decoded); Grossman's Ch.5 "Diseases of the periradicular tissues" (Gopikrishna, 2021); Sikri's Ch.6 "Diseases of periradicular tissues" (Sikri, 2019); Endodontics: Principles and Practice 6th ed Ch.1 periapical sections (Sedgley, Silva and Fouad, 2021); Essential Endodontology Ch.3 periapical sections (Fouad and Khan, 2020); Treatment of Endodontic Infections 2nd ed Ch.4, apical periodontitis sections (Rôças, Ricucci and Siqueira, 2022). Read in part: Cohen's Ch.1 apical diagnoses (Berman and Rotstein, 2021) and Ch.3 differential diagnosis (Landwehr, 2021); Harty's 7th ed Ch.3 periapical conditions (Chandler and Chong, 2017), Ch.8 infection types (Siqueira and Rôças, 2017) and Ch.10 biopsy (Gutmann, 2017), offset 16 confirmed on all three; Seltzer and Bender's Dental Pulp Ch.12 (Sasaki and Stashenko, 2012). Scanned, not cited: Ingle's Ch.4, Cohen's Ch.15, Endodontology Ch.47, Endodontic Microbiology. The sibling answers in surgical_endo (cysts, healing, non-microbial causes) were not cited. Live search: none; PubMed is blocked by the network proxy, so this answer is textbook-only; studies named are "cited by" the textbook.
 
-**FAILURE DISCLOSURE:** exam core is 2382 words, below the Section 7 range of 2550-3000 for 75 marks.
 
-<!--LOC: pa_h3_noagree, pa_s6_def, pa_h8_def, pa_c16_marginal, pa_c16_prev, pa_c3_5pct, pa_ee_40, pa_c16_asympt, pa_c16_aae2008, pa_c1_aae, pa_i6_three, pa_c1_sap, pa_c1_aap, pa_c1_aaa, pa_c1_caa, pa_g5_basis, pa_g5_psap, pa_g5_primsec, pa_s6_who44, pa_s6_who45, pa_s6_who46, pa_s6_who47, pa_s6_who48, pa_c16_who, pa_s6_old, pa_s6_subacute, pa_s6_ingle, pa_c16_exo, pa_c16_kak, pa_t1_kak, pa_c16_trauma, pa_t1_sund, pa_c16_mix, pa_h8_species, pa_h8_biofilm, pa_ee_trep, pa_c16_efae, pa_g5_efae, pa_c16_phys, pa_t1_high, pa_c16_foreign, pa_c16_chol, pa_i6_chol, pa_g5_nair, pa_c16_inflinf, pa_c16_bactcanal, pa_c16_nair, pa_c16_beforenec, pa_s6_before, pa_i6_third, pa_ee_notnec, pa_sel_second, pa_tei_barrier, pa_ee_defend, pa_ee_two, pa_t1_pdl, pa_t1_hallmark, pa_c16_tlr4, pa_c16_tlr2, pa_c16_innate, pa_c16_mast, pa_c16_pmn, pa_c16_mac, pa_c16_enz, pa_tei_nets, pa_c16_neuro, pa_c16_cgrp, pa_c16_vip, pa_tei_chronic, pa_i6_lymph, pa_tei_cells, pa_sel_igg, pa_sel_disagree, pa_i6_th1, pa_i6_th17, pa_c16_bcell, pa_ee_scid, pa_sel_indirect, pa_c16_ilocl, pa_c16_opg, pa_i6_ratio, pa_tei_rankl, pa_t1_peak, pa_t1_feedback, pa_t1_limit, pa_tei_m1m2, pa_tei_periods, pa_i6_equil, pa_i6_rankgran, pa_c16_ruffle, pa_c16_1020, pa_t1_5to8, pa_i6_sword, pa_g5_psap, pa_s6_pressure, pa_tei_main, pa_i6_sappain, pa_c16_allod, pa_g5_perc, pa_i6_finger, pa_c16_nobone, pa_i6_sapexac, pa_c1_perc, pa_g5_aapdef, pa_g5_cellmed, pa_c16_hallmark, pa_c16_granterm, pa_c16_avasc, pa_i6_granpmn, pa_g5_granmost, pa_g5_grancap, pa_g5_erm, pa_i6_bhaskar, pa_i6_nair256, pa_tei_ricucci, pa_i6_serial, pa_c16_innerv, pa_i6_resorp, pa_tei_cementum, pa_c16_blunt, pa_c16_absdef, pa_c16_ph, pa_tei_extreme, pa_i6_aaaextra, pa_g5_aaadef, pa_g5_temp, pa_c1_febrile, pa_t1_serious, pa_i6_relief, pa_c16_cellul, pa_g5_100, pa_c16_out2, pa_g5_caadef, pa_g5_caasyn, pa_i6_caa, pa_i6_caaborder, pa_g5_least, pa_c16_pseudo, pa_t1_sinus, pa_g5_sinus, pa_g5_phdef, pa_g5_phinit, pa_s6_phoenix, pa_i6_phoenix, pa_h3_phoenix, pa_t1_exac, pa_g5_phtx, pa_s6_phtx, pa_s6_phnoinc, pa_g5_phnote, pa_c16_unique, pa_c16_cystdef, pa_g5_cystdef, pa_c16_notsep, pa_c16_erm52, pa_i6_52, pa_i6_egf, pa_c16_nutr, pa_c16_absth, pa_c16_merge, pa_g5_immun, pa_g5_stages, pa_ee_cystpress, pa_i6_marsup, pa_c16_osm, pa_c16_mmp, pa_c16_true, pa_i6_true, pa_i6_pocket, pa_g5_bay, pa_g5_pocketinit, pa_i6_hundreds, pa_c16_cystprev, pa_g5_cystinc, pa_t1_cyst754, pa_ee_pathol, pa_g5_maxilla, pa_i6_cilia, pa_s6_acutecyst, pa_c16_coanal, pa_g5_codef, pa_c16_colow, pa_i6_conarrow, pa_c16_comol, pa_i6_comand, pa_c3_cokids, pa_s6_coyoung, pa_c16_ld, pa_c3_copdl, pa_c16_coheal, pa_c3_co85, pa_g5_copers, pa_t1_noneed, pa_t1_enost, pa_g5_persist, pa_c16_extra, pa_i6_rare, pa_t1_extra, pa_h8_extra, pa_g5_scar, pa_s6_scar, pa_c16_nocorr, pa_c16_cancell, pa_c16_gold, pa_c16_cbct, pa_g5_hist, pa_c3_nodiff, pa_c3_15cm, pa_c3_cbct76, pa_ee_cbctfail, pa_s6_hazy, pa_g5_sizeshape, pa_c16_rim, pa_c16_biopsy, pa_c16_nonendo, pa_s6_nonendo, pa_g5_vital, pa_t1_ldintact, pa_c3_uniloc, pa_c3_multi, pa_c3_opac, pa_c3_ominous, pa_t1_numb, pa_g5_angle, pa_g5_globulo, pa_g5_perio, pa_h10_biopsy, pa_c16_txsame, pa_g5_alike, pa_c16_out1, pa_c16_absheal, pa_c16_capout, pa_c16_regen, pa_t1_regen, pa_c16_resolv, pa_c16_cementoid, pa_t1_pdllast, pa_ee_heal, pa_s6_6m, pa_c16_scar, pa_c16_surgfast, pa_c16_biodeb, pa_c16_dmheal, pa_t1_dm, pa_ee_healdm, pa_c16_hiv, pa_c16_il1, pa_t1_genes, pa_c16_dm, pa_c16_focus, pa_h8_1025, pa_c16_heal78, pa_g5_8098, pa_i6_75, pa_g5_choice, pa_g5_immunerem, pa_c16_trueless, pa_c16_trueregr, pa_i6_argued, pa_i6_neoplasm, pa_i6_pocketworse, pa_t1_noevid, pa_t1_equal, pa_ee_truesmall, pa_ee_remain, pa_ee_nodiffmol, pa_s6_cystsurg, pa_s6_least, pa_h10_indic, pa_c16_okc, pa_tei_drain, pa_g5_aaatx, pa_h3_id, pa_h3_aap, pa_h3_capa-->
+<!--LOC: pa_h3_noagree, pa_s6_def, pa_h8_def, pa_c16_marginal, pa_c16_prev, pa_c3_5pct, pa_ee_40, pa_c16_asympt, pa_c16_aae2008, pa_c1_aae, pa_i6_three, pa_c1_sap, pa_c1_aap, pa_c1_aaa, pa_c1_caa, pa_g5_basis, pa_g5_psap, pa_g5_primsec, pa_s6_who44, pa_s6_who45, pa_s6_who46, pa_s6_who47, pa_s6_who48, pa_c16_who, pa_s6_old, pa_s6_subacute, pa_s6_ingle, pa_c16_exo, pa_c16_kak, pa_t1_kak, pa_c16_trauma, pa_t1_sund, pa_c16_mix, pa_h8_species, pa_h8_biofilm, pa_ee_trep, pa_c16_efae, pa_g5_efae, pa_c16_phys, pa_t1_high, pa_c16_foreign, pa_c16_chol, pa_i6_chol, pa_g5_nair, pa_c16_inflinf, pa_c16_bactcanal, pa_c16_nair, pa_c16_beforenec, pa_s6_before, pa_i6_third, pa_ee_notnec, pa_sel_second, pa_tei_barrier, pa_ee_defend, pa_ee_two, pa_t1_pdl, pa_t1_hallmark, pa_c16_tlr4, pa_c16_tlr2, pa_c16_innate, pa_c16_mast, pa_c16_pmn, pa_c16_mac, pa_c16_enz, pa_tei_nets, pa_c16_neuro, pa_c16_cgrp, pa_c16_vip, pa_tei_chronic, pa_i6_lymph, pa_tei_cells, pa_sel_igg, pa_sel_disagree, pa_i6_th1, pa_i6_th17, pa_c16_bcell, pa_ee_scid, pa_sel_indirect, pa_c16_ilocl, pa_c16_opg, pa_i6_ratio, pa_tei_rankl, pa_t1_peak, pa_t1_feedback, pa_t1_limit, pa_tei_m1m2, pa_tei_periods, pa_i6_equil, pa_i6_rankgran, pa_c16_ruffle, pa_c16_1020, pa_t1_5to8, pa_i6_sword, pa_g5_psap, pa_s6_pressure, pa_tei_main, pa_i6_sappain, pa_c16_allod, pa_g5_perc, pa_i6_finger, pa_c16_nobone, pa_i6_sapexac, pa_c1_perc, pa_g5_aapdef, pa_g5_cellmed, pa_c16_hallmark, pa_c16_granterm, pa_c16_avasc, pa_i6_granpmn, pa_g5_granmost, pa_g5_grancap, pa_g5_erm, pa_i6_bhaskar, pa_i6_nair256, pa_tei_ricucci, pa_i6_serial, pa_c16_innerv, pa_i6_resorp, pa_tei_cementum, pa_c16_blunt, pa_c16_absdef, pa_c16_ph, pa_tei_extreme, pa_i6_aaaextra, pa_g5_aaadef, pa_g5_temp, pa_c1_febrile, pa_t1_serious, pa_i6_relief, pa_c16_cellul, pa_g5_100, pa_c16_out2, pa_g5_caadef, pa_g5_caasyn, pa_i6_caa, pa_i6_caaborder, pa_g5_least, pa_c16_pseudo, pa_t1_sinus, pa_g5_sinus, pa_g5_phdef, pa_g5_phinit, pa_s6_phoenix, pa_i6_phoenix, pa_h3_phoenix, pa_t1_exac, pa_g5_phtx, pa_s6_phtx, pa_s6_phnoinc, pa_g5_phnote, pa_c16_unique, pa_c16_cystdef, pa_g5_cystdef, pa_c16_notsep, pa_c16_erm52, pa_i6_52, pa_i6_egf, pa_c16_nutr, pa_c16_absth, pa_c16_merge, pa_g5_immun, pa_g5_stages, pa_ee_cystpress, pa_i6_marsup, pa_c16_osm, pa_c16_mmp, pa_c16_true, pa_i6_true, pa_i6_pocket, pa_g5_bay, pa_g5_pocketinit, pa_i6_hundreds, pa_c16_cystprev, pa_g5_cystinc, pa_t1_cyst754, pa_ee_pathol, pa_g5_maxilla, pa_i6_cilia, pa_s6_acutecyst, pa_c16_coanal, pa_g5_codef, pa_c16_colow, pa_i6_conarrow, pa_c16_comol, pa_i6_comand, pa_c3_cokids, pa_s6_coyoung, pa_c16_ld, pa_c3_copdl, pa_c16_coheal, pa_c3_co85, pa_g5_copers, pa_t1_noneed, pa_t1_enost, pa_g5_persist, pa_c16_extra, pa_i6_rare, pa_t1_extra, pa_h8_extra, pa_g5_scar, pa_s6_scar, pa_c16_nocorr, pa_c16_cancell, pa_c16_gold, pa_c16_cbct, pa_g5_hist, pa_c3_nodiff, pa_c3_15cm, pa_c3_cbct76, pa_ee_cbctfail, pa_s6_hazy, pa_g5_sizeshape, pa_c16_rim, pa_c16_biopsy, pa_c16_nonendo, pa_s6_nonendo, pa_g5_vital, pa_t1_ldintact, pa_c3_uniloc, pa_c3_multi, pa_c3_opac, pa_c3_ominous, pa_t1_numb, pa_g5_angle, pa_g5_globulo, pa_g5_perio, pa_h10_biopsy, pa_c16_txsame, pa_g5_alike, pa_c16_out1, pa_c16_absheal, pa_c16_capout, pa_c16_regen, pa_t1_regen, pa_c16_resolv, pa_c16_cementoid, pa_t1_pdllast, pa_ee_heal, pa_s6_6m, pa_c16_scar, pa_c16_surgfast, pa_c16_biodeb, pa_c16_dmheal, pa_t1_dm, pa_ee_healdm, pa_c16_hiv, pa_c16_il1, pa_t1_genes, pa_c16_dm, pa_c16_focus, pa_h8_1025, pa_c16_heal78, pa_g5_8098, pa_i6_75, pa_g5_choice, pa_g5_immunerem, pa_c16_trueless, pa_c16_trueregr, pa_i6_argued, pa_i6_neoplasm, pa_i6_pocketworse, pa_t1_noevid, pa_t1_equal, pa_ee_truesmall, pa_ee_remain, pa_ee_nodiffmol, pa_s6_cystsurg, pa_s6_least, pa_h10_indic, pa_c16_okc, pa_tei_drain, pa_g5_aaatx, pa_h3_id, pa_h3_aap, pa_h3_capa, pa_g5_onlyafter, pa_sel_13-->
 
 <!--REF: pa_Lin2021, pa_Berman2021, pa_Landwehr2021, pa_Ricucci2019, pa_Gopikrishna2021, pa_Sikri2019, pa_Sedgley2021, pa_Fouad2020, pa_Chandler2017, pa_Siqueira2017, pa_Gutmann2017, pa_Rocas2022, pa_Sasaki2012-->
 
@@ -89,6 +88,12 @@ Lin and Huang separate exogenous causes (microbes and their toxins, chemicals, m
 - Foreign bodies: sealer, paper points, cotton fibres.
 - Endogenous: cholesterol crystals (18-44% of lesions) (Lin and Huang, 2021); called a product, not a cause, by Ricucci, Rôças and Siqueira (2019).
 
+**C. Types of endodontic infection (Siqueira and Rôças, 2017)**
+- Primary intraradicular: organisms colonising the necrotic pulp; cause of primary apical periodontitis.
+- Secondary: organisms entering during or after treatment.
+- Persistent: survivors of the primary infection; main cause of post-treatment disease.
+- Extraradicular: bacteria invading the periapical tissues; seen in abscesses and actinomycosis.
+
 ## 4. Pathogenesis: host response and bone resorption
 
 ### Explanation
@@ -130,6 +135,10 @@ Lin and Huang stress the difference between apical inflammation and apical infec
 - M1 macrophages in active, M2 in stable lesions.
 - Equilibrium between aggression and defence gives a stable lesion (Ricucci, Rôças and Siqueira, 2019).
 
+**Time course (animal models):** PMNs and monocytes reach the periapex 1-3 days after pulp exposure (Sasaki and Stashenko, 2012); rapid bone destruction between days 10 and 20, then a stationary phase (Lin and Huang, 2021); RANKL peaks at 2-3 weeks; lesions become radiographically visible at 5-8 weeks in large animals (Sedgley, Silva and Fouad, 2021).
+
+**Double-edged sword:** the same response that confines infection causes pain, pus and bone loss (Ricucci, Rôças and Siqueira, 2019).
+
 ## 5. Symptomatic apical periodontitis
 
 ### Explanation
@@ -146,7 +155,7 @@ Grossman's defines primary symptomatic apical periodontitis as painful inflammat
 
 **Clinical:** localised pain on biting, "high" tooth, exquisite tenderness to percussion, the classical sign (Gopikrishna, 2021); percuss with a fingertip (Ricucci, Rôças and Siqueira, 2019). Pulp tests: normal in occlusal trauma, negative if necrotic.
 
-**Radiograph:** normal or widened PDL space; a radiolucency means an exacerbated chronic lesion (Ricucci, Rôças and Siqueira, 2019).
+**Radiograph:** normal or widened PDL space; a radiolucency means an exacerbated chronic lesion (Ricucci, Rôças and Siqueira, 2019). Grossman's uses this to separate primary (no radiolucency) from secondary symptomatic AP (radiolucency present) (Gopikrishna, 2021).
 
 **Histology:** dilated vessels, PMNs, serous exudate.
 
@@ -175,6 +184,8 @@ Chronic lesions are innervated (Lin and Huang, 2021) [SRC]. Apical root resorpti
 **Histopathology (periapical granuloma):** commonest form (48% Bhaskar; 50% Nair; Ricucci, Rôças and Siqueira, 2019). Lymphocytes, plasma cells, macrophages, some PMNs, foam cells, giant cells, cholesterol clefts, fibroblasts and new vessels; rests of Malassez; peripheral fibrous capsule continuous with the PDL (Gopikrishna, 2021).
 
 **Terminology note:** Lin and Huang (2021) say "granuloma" and chronic apical periodontitis should not be used interchangeably because a true granuloma is avascular and the apical lesion is very vascular; Grossman's (Gopikrishna, 2021) retains the term.
+
+**Other features:** bacteria are rarely seen inside the lesion (Nair, cited by Lin and Huang, 2021); the lesion is innervated, so an instrument passed beyond the apex without anaesthesia hurts (Lin and Huang, 2021). Apical root resorption was seen on radiographs in only 19% of teeth but histologically in 81% (Ricucci, Rôças and Siqueira, 2019); a blunted apex means working length must be adjusted.
 
 **Treatment:** RCT; healing with trabecular bone.
 
@@ -250,7 +261,9 @@ Lin and Huang call the radicular cyst unique in pathogenesis (Lin and Huang, 202
 
 **Prevalence:** 15-20% (Lin and Huang, 2021); 6-55% (Gopikrishna, 2021); 7-54% (Sedgley, Silva and Fouad, 2021); variation from differing criteria (Fouad and Khan, 2020). 75% in maxilla.
 
-**Clinical:** asymptomatic; large lesions displace roots; lumen may hold cholesterol crystals, fluid, bacteria.
+**Clinical:** asymptomatic; large lesions displace roots; lumen may hold cholesterol crystals, fluid, bacteria. About 8% contain ciliated (respiratory-type) epithelium, mostly near the maxillary sinus (Ricucci, Rôças and Siqueira, 2019).
+
+**Diagnosis:** only by biopsy or extraction (Lin and Huang, 2021); true and pocket cysts can be told apart only on serial sections of the lesion attached to the apex, since communication may appear hundreds of sections away (Ricucci, Rôças and Siqueira, 2019).
 
 **Error in one book:** Sikri (2019) calls the true cyst "an acute inflammatory cyst"; radicular cysts are chronic (Lin and Huang, 2021).
 
@@ -324,7 +337,9 @@ Teeth with apical periodontitis heal in 78% of cases (Lin and Huang, 2021) [SRC]
 - Scar if both cortical plates and periosteum are destroyed.
 - Time: about 6 months to 1 year (Sikri, 2019); surgical healing faster.
 
-**Prognosis:** 78% of teeth with lesions heal after RCT (Lin and Huang, 2021); 10-25% lower than teeth without lesions (Siqueira and Rôças, 2017). Reduced by diabetes and some gene polymorphisms (IL-1β); HIV patients heal normally (Lin and Huang, 2021).
+**Prognosis:** 78% of teeth with lesions heal after RCT (Lin and Huang, 2021); 10-25% lower than teeth without lesions (Siqueira and Rôças, 2017). Reduced by diabetes and some gene polymorphisms (IL-1β genotype in 70.6% of persistent versus 24.6% of healed cases); HIV patients heal normally (Lin and Huang, 2021).
+
+**Systemic links:** type 2 diabetes is associated with higher prevalence of apical periodontitis, but evidence that it acts as a focus of infection for systemic disease is insufficient (Lin and Huang, 2021).
 
 ## 12. Management principles
 
@@ -369,7 +384,7 @@ Lin and Huang: treatment of the various types is basically the same, non-surgica
 *Conclusion:* the large majority of sources reject radiographic diagnosis; biopsy with serial sections is required. Sikri's sentence should not be reproduced as fact. [Certain]
 
 **Claim 3: "Apical periodontitis follows total pulp necrosis."**
-*Textbook:* Grossman's says asymptomatic apical periodontitis develops only after the pulp has died (Gopikrishna, 2021) [SRC, read; locator not listed].
+*Textbook:* Grossman's says asymptomatic apical periodontitis develops only some time after the pulp has died (Gopikrishna, 2021) [SRC].
 *Refinement:* Lin and Huang, Ricucci and co-workers, Sikri, Fouad and Khan, and Sasaki and Stashenko all show periapical inflammation and bone loss starting before total necrosis (sections 4 and B5). The two views fit if Grossman's is read as referring to the radiographically visible chronic lesion. [Likely]
 *Implication:* a tooth with a periapical radiolucency may still have vital apical tissue and may need anaesthesia.
 
@@ -675,6 +690,8 @@ Lin and Huang: treatment of the various types is basically the same, non-surgica
 - Chandler and Chong, 2017, 03_3_Diagnosis.md, PDF p.52 (printed p.36): "incision and drainage will also be required for any fluctuant swelling"
 - Chandler and Chong, 2017, 03_3_Diagnosis.md, PDF p.51 (printed p.35): "The tooth in question will be exquisitely tender to touch, biting or percussion"
 - Chandler and Chong, 2017, 03_3_Diagnosis.md, PDF p.52 (printed p.36): "the former will usually be associated with a draining sinus tract"
+- Gopikrishna, 2021, 05_Chapter_5_Diseases_of_the_Periradicular_Tissues.md, PDF p.104 (printed p.79): "Asymptomatic apical periodontitis develops only some time after the pulp has died"
+- Sasaki and Stashenko, 2012, Chapter_12_Interrelationship_of_the_Pulp_and_Apical_Period, PDF p.502: "the earliest periapical response involves an influx of PMNs and monocytes 1 to 3 days after pulpal exposure"
 
 **[LIT]** none: no live literature search was used for this answer.
 

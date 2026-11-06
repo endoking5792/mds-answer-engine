@@ -216,6 +216,7 @@ L = {
     'pa_g5_immunerem': ('pa_gro5', 'the immune system gradually destroys and removes the proliferating epithelial cells'),
     'pa_g5_scar': ('pa_gro5', 'may be differentiated from a lesion of pulpal origin by a thorough history'),
     'pa_g5_vital': ('pa_gro5', 'in most lesions of nonendodontic origin, the pulp is vital'),
+    'pa_g5_onlyafter': ('pa_gro5', 'Asymptomatic apical periodontitis develops only some time after the pulp has died'),
     'pa_g5_erm': ('pa_gro5', 'Lying within the periodontal ligament near the cemental border may be clusters of epithelial cells called cell rests of Malassez'),
     # Sikri Ch.6
     'pa_s6_def': ('pa_sik6', 'the diseases occurring around the apex of a tooth, may be of endodontic'),
