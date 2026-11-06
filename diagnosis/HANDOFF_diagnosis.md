@@ -66,3 +66,7 @@ Part B open points:
 ## PubMed check (2026-11-06)
 
 All 14 disputed or supporting papers found in PubMed (abstracts only; none in PubMed Central). 11 answers updated with [LIT] citations (`loc_lit.py`): D1, D2, D3, B1, B2, B3, B6, B7, Q09, Q10, Q14. Settled: endogram meaning (Q10), Slutzky-Goldberg 102% is in the original abstract (B7), Ricucci sample and figures (D3, B2, B3), Nair's figures and true-cyst position (B1, B6), ESE S3 used GRADE (Q14), Okazaki et al's PPVs wrong against Petersson 1999 (D2), Abbott's chapter overstates his own LDF result (D1, D2). Still open (need full text): Patterson 84% vs 20%, Bhaskar 2,308 vs 2400, Blum 1998 significance, Abbott and Leow 68%/8%. Details: `LITERATURE_REQUESTS.md`. Republished to the Answer Bank site 2026-11-06 (updated 18, 11 changed; manifest 539 -> 539, 0 lost; site commit 10c16b9).
+
+## Full texts supplied by Niranjan (2026-11-06)
+
+Abbott and Leow 2009 (Aust Dent J) and the ESE 2019 position statement (Int Endod J) read in full. Abbott and Leow Table 5 settles the bite-test figures (68/8/15/9 of 100 teeth; the paper's own discussion misprints "both" as 25%): D1, Q09 updated. ESE 2019 gives the middle position on irreversible pulpitis (pulpectomy by default; full pulpotomy as an alternative for partial coronal irreversible pulpitis, pending better randomised data): B2, B3 updated, which closes Part B open point 1. Still open, need full text: Patterson 1964, Bhaskar 1966, Blum 1998.

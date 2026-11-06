@@ -14,8 +14,9 @@ A PubMed tool became available later on 2026-11-06. All 14 papers were found in 
 | 6 | Ricucci 96.6% / 84.4% and sample | **Settled**: 95 teeth collected; 57/59 and 27/32; "normal pulp/reversible pulpitis" grouped; authors call it good agreement | D3, B2, B3 |
 | 7 | Nair 15% cysts, two types | **Confirmed** (35% abscess, 50% granuloma, 15% cyst, 256 lesions); the 9%/6% split is not in the abstract | B1, B6 |
 | 8 | Nair's view on true cysts | **Confirmed**: true cysts "less likely to be resolved without surgical intervention" (not "never") | B1, B6 |
-| 9 | Abbott and Leow 68% / 8% | **Not settled**: abstract confirms 100 teeth and 80% managed conservatively, but not the bite percentages | D1, Q09 |
+| 9 | Abbott and Leow 68% / 8% | **Settled from the full text** (PDF supplied): Table 5, 100 teeth, Tooth Slooth: 68 application, 8 release, 15 both, 9 none. The paper's discussion misprints "both" as 25 per cent; the unit is teeth, not patients | D1, Q09 |
 | 10 | ESE S3 guideline used GRADE | **Settled**: yes, with 14 systematic reviews and a structured consensus | Q14 ([RECALL] removed) |
+| 14 | ESE 2019 position statement (full text supplied) | **New**: middle position on irreversible pulpitis: pulpectomy by default; full pulpotomy an alternative for partial coronal irreversible pulpitis, pending better randomised data | B2, B3 |
 | 11-13 | Petersson, Peters, Chen and Abbott | **New findings**: Petersson's PPVs (0.89/0.48/0.88) show Okazaki et al's "PPV 100% for all tests" is wrong; Chen and Abbott's abstract gives LDF accuracy 96.3%, not significantly different from CO2 and EPT, against Abbott's chapter saying LDF was "less reliable"; CO2 was significantly more accurate than a refrigerant spray (97.0% vs 90.7%) | D1, D2 |
 
 
