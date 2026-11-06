@@ -30,6 +30,7 @@ from loc_q06 import L6; L.update(L6)
 from loc_q09 import L9; L.update(L9)
 from loc_q02 import L2; L.update(L2)
 from loc_q03 import L3; L.update(L3)
+from loc_q07 import L7; L.update(L7)
 def norm(s):
     s = s.replace('\u00b5','\u03bc').replace('\u2013','-').replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
