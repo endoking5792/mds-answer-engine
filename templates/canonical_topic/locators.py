@@ -1,7 +1,7 @@
 import re, os
 # Verbatim-phrase locators for one topic. Every [SRC] fact in an answer has one entry in L.
 # Run `python3 locators.py`: it must print "missing 0" before you publish.
-T = os.path.expanduser('~/mds-textbooks/')   # clone of the private textbook repo
+T = os.environ.get('MDS_TEXTBOOKS', os.path.expanduser('~/mds-textbooks/'))   # clone of the private textbook repo
 # F: source key -> (chapter file, offset, in-text citation)
 #   offset int  : printed page = PDF marker - offset (check it at 2+ pages in THAT chapter)
 #   offset None : cite the PDF page marker only (use when no printed page number is visible)
@@ -14,7 +14,7 @@ L = {
  # 'g_ledgedef': ('gro', 'Ledge is an artificially created deviation of the root canal wall'),
 }
 def norm(s):
-    s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
+    s = re.sub(r'\u00ad\s*', '', s).replace('\u2010', '-')  # soft hyphen, also at a line end (Phillips' extraction)
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
     return s.strip()
 _cache = {}

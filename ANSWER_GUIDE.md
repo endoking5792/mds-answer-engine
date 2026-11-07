@@ -72,7 +72,7 @@ Rules that matter most:
 ```bash
 cd <topic> && python3 locators.py && python3 build_sources.py canonical/*.md
 ```
-`build_sources.py` fills the word count and writing time, adds the SOURCE LIST (file, PDF page, printed page, verbatim phrase for every locator) and the alphabetical REFERENCES from `BOOK`, and flags length failures. Re-run it after every edit. Add any new reference to `BOOK`.
+Then run `python3 check_answers.py canonical/*.md` (quotes verbatim in the books; exam-core numbers traced to locators). `build_sources.py` fills the word count and writing time, adds the SOURCE LIST (file, PDF page, printed page, verbatim phrase for every locator) and the alphabetical REFERENCES from `BOOK`, and flags length failures. Re-run it after every edit. Add any new reference to `BOOK`.
 
 ## 7. Publish (additive only)
 
