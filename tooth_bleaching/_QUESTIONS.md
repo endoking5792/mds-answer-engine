@@ -1,4 +1,4 @@
-# Tooth Bleaching & Management of Discoloured Teeth — question set (DRAFT for Roseline's OK, 2026-11-07)
+# Tooth Bleaching & Management of Discoloured Teeth — question set (agreed with Roseline, 2026-11-07)
 Source: CONSERVATIVE_DENTISTRY_MASTER_REPOSITORY.md §19 Tooth Bleaching (24 sittings) + Manipal addendum; DENTAL_MATERIALS_MASTER_REPOSITORY.md §17 Bleaching materials; ENDODONTICS_MASTER_REPOSITORY.md §31 "Bleaching" cluster + Manipal addendum; RECENT_ADVANCES_MASTER_REPOSITORY.md §21 and the Manipal/ABS Paper IV tables. One canonical answer per distinct question, at its highest marks.
 
 | # | Question (anchor wording, exactly as printed) | Marks | Sittings absorbed |
