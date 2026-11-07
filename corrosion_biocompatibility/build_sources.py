@@ -4,6 +4,9 @@ BOOK = {
  'Anusavice2013': "Anusavice KJ, Shen C, Rawls HR, editors. Phillips' Science of Dental Materials. 12th ed. St Louis: Elsevier Saunders; 2013 (year not printed in the extracted file; verify). Ch.3 Physical and chemical properties of solids (Electrochemical properties); Ch.7 Biocompatibility; Ch.15 Dental amalgams.",
  'Sakaguchi2019': "Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials; Ch.15 Dental and orofacial implants.",
  'Powers2013': "Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Mosby Elsevier; 2013. Ch.5 Dental amalgam; Ch.15 Dental implants.",
+ 'Craig2002': "Craig RG, Powers JM, editors. Restorative Dental Materials. 11th ed. St Louis: Mosby; 2002. Ch.5 Biocompatibility of dental materials.",
+ 'McCabe2008': "McCabe JF, Walls AWG. Applied Dental Materials. 9th ed. Oxford: Blackwell Publishing; 2008. Ch.2 Properties used to characterise materials (corrosion; testing of corrosion and tarnish; biological properties).",
+ 'Bhat2019': "Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors; 2019 (eBook edition date). Ch.7 Biocompatible aspects of dental materials; Ch.24 Tarnish and corrosion.",
  'vanNoort2013': "van Noort R. Introduction to Dental Materials. 4th ed. Edinburgh: Mosby Elsevier; 2013. Ch.1.8 Chemical properties.",
 }
 RANGE = {'100':(3200,3500),'75':(2550,3000),'50':(1700,2000),'25':(850,1000),'20':(680,800),'10':(320,400),'7':(230,280),'5':(160,200)}
