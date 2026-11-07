@@ -3,11 +3,11 @@
 **Marks:** 25m, Essay
 **Sitting:** Jun 2016, RACD 07-16, Recent Advances. Repeats absorbed: "Internal resorption." 5m Jun 2016 (PIII 16-21); "Internal resorption and its management." 10m Oct 2024 (PII 21-25); "Internal resorption." 10m 14-Jul-2021 (RG PII RS-5); "Management of internal root resorption" 7m May 2017 (NU PIII); "Internal resorption." 10m May 2022 (Manipal). For a 10m "Internal resorption (and its management)" write sections 2, 4 and 5 in short form with the classification table of section 2 only; for the 7m "Management of internal root resorption", section 5; for the 5m, the definition, pathogenesis, the three radiographic signs and one line of treatment.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 984 words, about 45 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Q01 (100m) gives the full classification and the external resorptions; P1 gives the full internal versus external cervical differential; Traumatic Dental Injuries P3 covers replacement resorption (ankylosis) after trauma.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 996 words, about 45 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Q01 (100m) gives the full classification and the external resorptions; P1 gives the full internal versus external cervical differential; Traumatic Dental Injuries P3 covers replacement resorption (ankylosis) after trauma.
 
 **Retrieval report.** Read in full: Gulabivala and Ng 4e Ch.11 (chapter authors Ng and Gulabivala; cited as Ng and Gulabivala, 2014); Endodontology Ch.42 (Baumann and Beer, 2010); Sikri 2e Ch.27 (Sikri, 2019). Read in the relevant parts, internal resorption in full: Cohen's 12e Ch.18 (introduction, general histology, whole internal root resorption section; Patel et al, 2021; cited by PDF page); Ingle's 7e Ch.15 (types synopsis, internal surface, infection-related internal and internal replacement sections, summary; Andreasen, Heithersay and Bakland, 2019; author line decoded from damaged OCR); Seltzer and Bender 2e Ch.17 (mechanisms, role of the pulp, external types by heading, internal inflammatory resorption, diagnostic features; Levin, 2012; cited by PDF page). Checked: Grossman 14e Ch.4 internal resorption section (Gopikrishna, 2021; offset 25 confirmed at three pages); AAE Glossary 2012 resorption entries. External resorption sections were used for the classification only. Named studies (Gartner, Gencoglu, Goldberg, Wedenberg and Zetterqvist) are cited as the textbooks report them; the original papers were not read. No live literature search was run: the books settle every point used, and the perforation-repair evidence they cite is case reports, animal and ex vivo work, which is stated as such.
 
-<!--LOC: q02_c_def, q02_k_def, q02_s_two, q02_c_extint, q02_e_distinct, q02_a_ext, q02_i_synopsis, q02_k_andr, q02_k_loc, q02_k_init, q02_k_sys, q02_k_extcat, q02_k_intcat, q02_g_class, q02_g_bact, q02_g_cyto, q02_g_repl, q02_g_idio, q02_s_extinj, q02_s_extinfl, q02_s_subepi, q02_a_int, q02_g_prev, q02_c_damage, q02_c_rgd, q02_c_aetiol, q02_c_45, q02_g_factors, q02_k_causes, q02_k_herpes, q02_c_selflim, q02_c_vital, q02_c_stim, q02_i_infect, q02_g_ceases, q02_c_untreated, q02_s_apopt, q02_c_types, q02_c_replace, q02_g_osteo, q02_i_metap, q02_i_arrest, q02_i_surface, q02_i_heal, q02_i_notx, q02_c_histo, q02_c_trap, q02_c_islands, q02_c_asym, q02_e_asym, q02_c_pulpitis, q02_c_sinus, q02_g_negpt, q02_e_pt, q02_k_bleed, q02_g_pink, q02_g_pinkcause, q02_r_late, q02_k_pinkusual, q02_s_pink, q02_s_pinksub, q02_e_pink, q02_c_pink, q02_c_pinkecr, q02_c_gartner, q02_c_balloon, q02_c_many, q02_c_mottled, q02_c_multi, q02_g_radio, q02_k_ovoid, q02_s_bone, q02_c_parallax, q02_c_ecrmove, q02_e_centred, q02_c_cbct, q02_s_misdx, q02_s_bleed, q02_s_fill, q02_c_prog, q02_c_adjunct, q02_s_apicalinstr, q02_s_dry, q02_c_bleed, q02_c_concave, q02_c_us, q02_g_naocl, q02_g_apex, q02_c_caoh, q02_s_caoh, q02_g_caoh, q02_c_flow, q02_c_gencoglu, q02_e_worst, q02_g_lat, q02_g_obtura, q02_c_mta, q02_c_extrusion, q02_c_mtaflow, q02_c_hybrid, q02_k_hybrid, q02_k_bio, q02_k_mta, q02_g_longterm, q02_g_delay, q02_c_surg, q02_c_spreader, q02_g_surg, q02_k_surg, q02_c_extract, q02_c_notcontra, q02_c_implant, q02_e_strength, q02_e_composite, q02_i_endoimp, q02_r_extirp, q02_e_conv, q02_k_prompt, q02_i_summary, q02_r_prog, q02_r_guard, q02_g_fract, q02_c_early, q02_s_recall-->
+<!--LOC: q02_c_def, q02_k_def, q02_s_two, q02_c_extint, q02_e_distinct, q02_a_ext, q02_i_synopsis, q02_k_andr, q02_k_loc, q02_k_init, q02_k_sys, q02_k_extcat, q02_k_intcat, q02_g_class, q02_g_bact, q02_g_cyto, q02_g_repl, q02_g_idio, q02_s_extinj, q02_s_extinfl, q02_s_subepi, q02_a_int, q02_g_prev, q02_c_damage, q02_c_rgd, q02_c_aetiol, q02_c_45, q02_g_factors, q02_k_causes, q02_k_herpes, q02_c_selflim, q02_c_vital, q02_c_stim, q02_i_infect, q02_g_ceases, q02_c_untreated, q02_s_apopt, q02_c_types, q02_c_replace, q02_g_osteo, q02_i_metap, q02_i_arrest, q02_i_surface, q02_i_heal, q02_i_notx, q02_c_histo, q02_c_trap, q02_c_islands, q02_c_asym, q02_e_asym, q02_c_pulpitis, q02_c_sinus, q02_g_negpt, q02_e_pt, q02_k_bleed, q02_g_pink, q02_g_pinkcause, q02_r_late, q02_k_pinkusual, q02_s_pink, q02_s_pinksub, q02_e_pink, q02_c_pink, q02_c_pinkecr, q02_c_gartner, q02_c_balloon, q02_c_many, q02_c_mottled, q02_c_multi, q02_g_radio, q02_k_ovoid, q02_s_bone, q02_c_parallax, q02_c_ecrmove, q02_e_centred, q02_c_cbct, q02_s_misdx, q02_s_bleed, q02_s_fill, q02_c_prog, q02_c_adjunct, q02_s_apicalinstr, q02_s_dry, q02_c_bleed, q02_c_concave, q02_c_us, q02_g_naocl, q02_g_apex, q02_c_caoh, q02_s_caoh, q02_g_caoh, q02_c_flow, q02_c_gencoglu, q02_e_worst, q02_g_lat, q02_g_obtura, q02_c_mta, q02_c_extrusion, q02_c_mtaflow, q02_c_hybrid, q02_k_hybrid, q02_k_bio, q02_k_mta, q02_g_longterm, q02_g_delay, q02_c_surg, q02_c_spreader, q02_g_surg, q02_k_surg, q02_c_extract, q02_c_notcontra, q02_c_implant, q02_e_strength, q02_e_composite, q02_i_endoimp, q02_r_extirp, q02_e_conv, q02_k_prompt, q02_i_summary, q02_r_prog, q02_r_guard, q02_g_fract, q02_c_early, q02_s_recall, q02_r_mta, q02_r_plast, q02_k_sealer, q02_c_ratio, q02_c_gpratio, q02_c_shrink, q02_c_gold, q02_e_goldberg, q02_k_nopink, q02_k_noperf, q02_c_mtaus, q02_c_micro, q02_g_extr, q02_g_nahyp, q02_e_iatro, q02_s_barrier-->
 
 <!--REF: Patel2021, Andreasen2019, Gulabivala2014, Baumann2010, Levin2012, Sikri2019, AAE2012, q02_Gopikrishna2021-->
 
@@ -41,7 +41,7 @@ The AAE defines internal resorption as an inflammatory process "initiated within
 
 **Why it needs two pulps.** It starts when loss of odontoblasts and predentine exposes mineralised dentine to odontoclasts (Patel et al, 2021) [SRC]. Cohen's lists trauma, caries, heat, calcium hydroxide procedures, vital root resection, anachoresis, orthodontics and cracks, with trauma behind 45% of one 25-tooth series (Patel et al, 2021) [SRC]. Without bacteria it is self-limiting (Patel et al, 2021) [SRC]. It progresses only while vital apical pulp supplies clastic cells and infected necrotic coronal pulp stimulates them (Patel et al, 2021) [SRC]. Ingle's puts resorbing granulation tissue between the two (Andreasen, Heithersay and Bakland, 2019) [SRC]. So total necrosis stops it (Ng and Gulabivala, 2014) [SRC], and untreated lesions end in apical periodontitis (Patel et al, 2021) [SRC]. Levin also proposes cytokines from apoptotic odontoblasts (Levin, 2012) [SRC].
 
-**Types.** In replacement resorption, mineralised tissue is deposited after dentine loss (Patel et al, 2021) [SRC]. Ingle's calls it bone-forming metaplasia that can arrest (Andreasen, Heithersay and Bakland, 2019) [SRC]. Transient internal surface resorption follows revascularisation, signals healing and needs only monitoring (Andreasen, Heithersay and Bakland, 2019) [SRC]. **Histology** (Wedenberg and Zetterqvist, as reported): lymphocytes and macrophages, TRAP-positive odontoclasts, and islands of mineralised tissue that define the replacement type (Patel et al, 2021) [SRC].
+**Types.** In replacement resorption, mineralised tissue is deposited after dentine loss (Patel et al, 2021) [SRC]. Ingle's calls it bone-forming metaplasia that can arrest (Andreasen, Heithersay and Bakland, 2019) [SRC]. Transient internal surface resorption follows revascularisation, signals healing and needs only monitoring (Andreasen, Heithersay and Bakland, 2019) [SRC]. **Histology.** Cohen's reports Wedenberg and Zetterqvist's small series: lymphocytes and macrophages, TRAP-positive odontoclasts and their precursors, and islands of calcified tissue in three teeth; Cohen's itself, citing another source, calls such islands the defining feature of the replacement type (Patel et al, 2021) [SRC].
 
 #### ✎ Exam core
 
@@ -56,7 +56,7 @@ The AAE defines internal resorption as an inflammatory process "initiated within
 **Types**
 1. Internal inflammatory (uniform radiolucency).
 2. Internal replacement (metaplastic): bone or osteo-dentine in the canal; may arrest.
-3. Internal surface (transient): after luxation or root fracture, monitor only.
+3. Internal surface (transient): after luxation or root fracture, monitor only (Andreasen, Heithersay and Bakland, 2019).
 4. Transient apical breakdown (Sikri, 2019).
 
 **Histology:** granulation tissue, lymphocytes and macrophages, multinucleated TRAP-positive odontoclasts in Howship lacunae; necrotic pulp coronally; islands of bone-like tissue in the replacement type (Patel et al, 2021).
@@ -69,7 +69,7 @@ The AAE defines internal resorption as an inflammatory process "initiated within
 
 Most cases are asymptomatic radiographic findings (Patel et al, 2021; Baumann and Beer, 2010) [SRC]. Pulpitis is seen in the active stage, then apical periodontitis, with a sinus that may open at a perforation (Patel et al, 2021) [SRC]. A negative pulp test does not exclude active resorption because only the coronal pulp may be necrotic (Ng and Gulabivala, 2014) [SRC].
 
-**The pink spot divides the books.** Grossman's calls it a late sign (Gopikrishna, 2021) [SRC] and Sikri's table "a usual sign" (Sikri, 2019) [SRC]. Levin notes it was once thought pathognomonic but is also seen in subepithelial external resorption (Levin, 2012) [SRC], and Endodontology agrees it occurs in both (Baumann and Beer, 2010) [SRC]. Cohen's calls it rare in internal resorption and relatively more frequent in ECR (Patel et al, 2021) [SRC].
+**The pink spot divides the books.** Ng and Gulabivala say it may be present when the lesion is in the pulp chamber, from vascular inflammatory tissue undermining the enamel (Ng and Gulabivala, 2014) [SRC]. Grossman's calls it a late sign, once crown integrity is compromised (Gopikrishna, 2021) [SRC]. Sikri's table calls it "a usual sign" of internal resorption and lists "no pink spot" for external resorption (Sikri, 2019) [SRC]. Levin notes it was once thought pathognomonic but is also seen in subepithelial external resorption (Levin, 2012) [SRC], and Endodontology says it occurs in both internal and invasive cervical resorption (Baumann and Beer, 2010) [SRC]. Cohen's calls it rare in internal resorption and relatively more frequent, though still not very common, in ECR (Patel et al, 2021) [SRC]. On external resorption, Sikri's table therefore stands against Levin, Baumann and Beer, and Cohen's [Certain].
 
 #### ✎ Exam core
 
@@ -77,7 +77,7 @@ Most cases are asymptomatic radiographic findings (Patel et al, 2021; Baumann an
 - Active stage: pulpitis symptoms; after necrosis: apical periodontitis, sinus tract (periapical or at a perforation).
 - Pulp tests: often positive, but a negative response does not exclude active resorption (Ng and Gulabivala, 2014).
 - Profuse bleeding on access/extirpation from granulation tissue (Sikri, 2019).
-- **Pink spot** (granulation tissue under thinned coronal dentine/enamel, chamber lesions): Grossman's calls it late, Sikri usual; Levin and Baumann and Beer note it also occurs in cervical (subepithelial) external resorption; Patel et al (2021) say it is rare in internal resorption. Not pathognomonic.
+- **Pink spot** (granulation tissue under thinned enamel; chamber lesions) (Ng and Gulabivala, 2014): late (Gopikrishna, 2021); usual, absent in external (Sikri, 2019); also in cervical external resorption (Levin, 2012; Baumann and Beer, 2010); rare in internal resorption (Patel et al, 2021). Not pathognomonic.
 - Late: fracture of the weakened crown or root.
 
 ## 4. Radiographic features and diagnosis
@@ -94,7 +94,7 @@ Cohen's reports Gartner's criteria (uniform density, smooth symmetrical outline,
 
 **CBCT:** confirms diagnosis, shows extent and any perforation, and guides prognosis and planning (Patel et al, 2021).
 
-**Confirmation during treatment:** bleeding stops after apical extirpation and the canal fills from within; otherwise suspect external resorption (Levin, 2012). (Full differential: P1.)
+**Confirmation during treatment:** bleeding stops after apical extirpation and the canal fills from within; otherwise suspect external resorption (Levin, 2012).
 
 ## 5. Management
 
@@ -102,9 +102,11 @@ Cohen's reports Gartner's criteria (uniform density, smooth symmetrical outline,
 
 **Logic.** Root canal treatment both disinfects the canal and removes the vital apical tissue feeding the clastic cells (Patel et al, 2021) [SRC]. Levin therefore instruments the apical canal first to cut the blood supply (Levin, 2012) [SRC]. Bleeding and the concave defect defeat instruments (Patel et al, 2021) [SRC], so Cohen's makes ultrasonic irrigant activation essential and adds calcium hydroxide (Patel et al, 2021) [SRC]. Ng and Gulabivala use 5% hypochlorite with ultrasonic agitation (Ng and Gulabivala, 2014) [SRC].
 
-**Obturation.** The filling must flow (Patel et al, 2021) [SRC]. Ex vivo, Obtura II and Microseal filled simulated defects better than carrier, soft-core and cold lateral techniques (Patel et al, 2021) [SRC], with lateral compaction worst (Baumann and Beer, 2010) [SRC]. These are laboratory data, not outcome data [Certain].
+**Obturation.** The filling must flow (Patel et al, 2021) [SRC]. Cohen's reports two ex vivo studies on simulated defects: Gencoglu et al found that Obtura II and Microseal filled better than Thermafil, soft-core systems and cold lateral condensation, and Goldberg et al found Obtura II better than cold lateral condensation, Thermafil and a hybrid technique; both found higher gutta-percha-to-sealer ratios with the thermoplastic systems (Patel et al, 2021) [SRC]. Endodontology's figure caption reports the same Goldberg study as showing lateral compaction the worst (Baumann and Beer, 2010) [SRC], so it is not independent support [Certain]. Grossman's asks for a plasticised gutta-percha method (Gopikrishna, 2021) [SRC]; Ng and Gulabivala fill the canal apical to the defect by lateral or vertical compaction, then the defect with Obtura II (Ng and Gulabivala, 2014) [SRC]. These are laboratory data, not outcome data [Certain].
 
-**Perforation: the books diverge.** Cohen's chooses MTA because extrusion is likely and MTA is tolerated, accepting its poor flow (Patel et al, 2021) [SRC]. Ng and Gulabivala instead use long-term calcium hydroxide to induce hard-tissue repair before obturation (Ng and Gulabivala, 2014) [SRC]. Surgery is for defects not amenable to orthograde repair (Patel et al, 2021) [SRC], though Sikri calls it the treatment of choice (Sikri, 2019) [SRC]. Endodontology reinforces the weakened tooth with adhesive composite (Baumann and Beer, 2010) [SRC].
+**Sealer.** The two books that mention it address different questions. Sikri prefers calcium hydroxide as the sealer with gutta-percha (Sikri, 2019) [SRC]; Cohen's favours fills with a high gutta-percha-to-sealer ratio, because sealers shrink on setting and degrade in moisture (Patel et al, 2021) [SRC]. Neither gives outcome data for its view [Likely].
+
+**Perforation: the books diverge.** Cohen's chooses MTA because extrusion is likely and MTA is tolerated, accepting its poor flow, which ultrasonic activation under the microscope must overcome (Patel et al, 2021) [SRC]. Grossman's also repairs the defect with MTA, then obturates with plasticised gutta-percha (Gopikrishna, 2021) [SRC], and Sikri calls MTA the material of choice (Sikri, 2019) [SRC]. Ng and Gulabivala do not mention MTA here; they use long-term calcium hydroxide to induce hard-tissue repair and may delay obturation until bone has healed (Ng and Gulabivala, 2014) [SRC]. Sikri, by contrast, says calcium hydroxide treatment succeeds only while there is no perforation (Sikri, 2019) [SRC]. Cohen's keeps surgery for defects not amenable to orthograde repair (Patel et al, 2021) [SRC], Ng and Gulabivala for a large perforation or extruded filling material (Ng and Gulabivala, 2014) [SRC], while Sikri, in the same paragraph as MTA, calls surgery the treatment of choice (Sikri, 2019) [SRC]. Endodontology treats a perforated defect much like an iatrogenic perforation and reinforces the weakened tooth with adhesive composite (Baumann and Beer, 2010) [SRC]; Levin adds MTA barriers for large apical defects (Levin, 2012) [SRC].
 
 #### ✎ Exam core
 
@@ -114,26 +116,26 @@ Cohen's reports Gartner's criteria (uniform density, smooth symmetrical outline,
 
 **A. Non-perforating defect**
 1. Rubber dam, access; expect profuse bleeding; extirpate apical pulp first, establish working length apical to the defect (Levin, 2012).
-2. Chemomechanical preparation; copious 5% NaOCl with ultrasonic activation, which is essential because instruments cannot reach the defect (Patel et al, 2021; Ng and Gulabivala, 2014).
+2. Chemomechanical preparation; copious 5% NaOCl with ultrasonic activation, essential because instruments cannot reach the defect; avoid extrusion through a perforation (Patel et al, 2021; Ng and Gulabivala, 2014).
 3. Check for perforation (curved file, apex locator, CBCT).
 4. Canal dry and blood-free on paper points after apical instrumentation; calcium hydroxide inter-appointment dressing: antibacterial, helps remove residual tissue from the defect (Levin, 2012; Patel et al, 2021).
-5. Obturation: apical segment by lateral/vertical compaction, defect by thermoplasticised GP (Obtura II, Microseal), the best fills ex vivo; lateral compaction alone is worst (Patel et al, 2021; Baumann and Beer, 2010).
+5. Obturation: apical segment by lateral/vertical compaction, defect by thermoplasticised GP (Ng and Gulabivala, 2014; Gopikrishna, 2021); Obtura II, Microseal best ex vivo, lateral compaction worst (Patel et al, 2021; Baumann and Beer, 2010).
 
 **B. Perforating defect**
-- *Orthograde repair:* MTA (or Biodentine) into the defect under the microscope with ultrasonic placement; hybrid: GP apically, MTA in the defect (Patel et al, 2021; Sikri, 2019).
+- *Orthograde repair:* MTA (or Biodentine) into the defect under the microscope with ultrasonic placement; hybrid: GP apically, MTA in the defect (Patel et al, 2021; Gopikrishna, 2021; Sikri, 2019).
 - *Alternative:* long-term calcium hydroxide to induce hard-tissue repair, obturate after bone healing (Ng and Gulabivala, 2014).
 - *Surgical:* large or inaccessible perforation or extruded material: GP point or spreader in canal as barrier, flap, MTA repair, then obturate (Patel et al, 2021; Ng and Gulabivala, 2014).
 - *Extraction:* unrestorable or fracture-prone tooth; implant planned from CBCT (Patel et al, 2021).
 
 **C. Restoration:** adhesive composite core to reinforce the weakened root and crown (Baumann and Beer, 2010).
 
-**D. Other types:** replacement type: root canal treatment worth attempting; transient type: monitor only (Andreasen, Heithersay and Bakland, 2019).
+**D. Other types:** replacement type: root canal treatment worth attempting despite poor prognosis; transient type: monitor only (Andreasen, Heithersay and Bakland, 2019).
 
 ## 6. Prognosis and follow-up
 
 ### Explanation
 
-Most infection-related resorption responds well (Andreasen, Heithersay and Bakland, 2019) [SRC]. Prognosis is best before perforation and guarded after, depending on surgical access (Gopikrishna, 2021) [SRC]. Surgically treated teeth are prone to fracture (Ng and Gulabivala, 2014) [SRC]. Radiographic recall matters because continued resorption reveals a missed external lesion (Levin, 2012) [SRC]. A review at about 6-12 months, then yearly, is common practice [RECALL] [Likely].
+Most infection-related resorption responds well (Andreasen, Heithersay and Bakland, 2019) [SRC]. Prognosis is best before perforation and guarded after, depending on surgical access (Gopikrishna, 2021) [SRC]. Surgically treated teeth are prone to fracture (Ng and Gulabivala, 2014) [SRC]. Radiographic recall matters because continued resorption reveals a missed external lesion (Levin, 2012) [SRC]. None of the internal resorption sections read gives a recall interval; periodic clinical and radiographic review is common practice [RECALL].
 
 #### ✎ Exam core
 
@@ -145,7 +147,7 @@ Most infection-related resorption responds well (Andreasen, Heithersay and Bakla
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim: how to manage a perforating internal resorption defect.** Cohen's makes orthograde MTA (with a GP apical barrier in the hybrid technique) the first choice and keeps surgery for defects not amenable to orthograde repair (Patel et al, 2021), Grossman's and Sikri also name MTA (Gopikrishna, 2021; Sikri, 2019), but Ng and Gulabivala prefer long-term calcium hydroxide to induce hard-tissue repair before obturation, and Sikri, in the same paragraph, calls surgery the treatment of choice (Ng and Gulabivala, 2014; Sikri, 2019). The support Cohen's gives is case reports, animal studies of lateral and furcal perforation repair and root-end filling data (Patel et al, 2021); the obturation comparisons are ex vivo on simulated defects. No book cites a comparative clinical study of these approaches, so none can be ranked on outcome [Likely]. What can be concluded is that perforation size, site and access, assessed by CBCT, decide the choice; the textbook preference for MTA rests on biocompatibility and tolerance of extrusion, not on outcome trials [Likely].
+**Claim: how to manage a perforating internal resorption defect.** Cohen's makes orthograde MTA (with a GP apical barrier in the hybrid technique) the first choice and keeps surgery for defects not amenable to orthograde repair (Patel et al, 2021), Grossman's and Sikri also name MTA (Gopikrishna, 2021; Sikri, 2019), but Ng and Gulabivala, who do not mention MTA, use long-term calcium hydroxide to induce hard-tissue repair before obturation, whereas Sikri limits calcium hydroxide treatment to unperforated defects and, in the same paragraph as MTA, calls surgery the treatment of choice (Ng and Gulabivala, 2014; Sikri, 2019). The support Cohen's gives is case reports, animal studies of lateral and furcal perforation repair and root-end filling data (Patel et al, 2021); the obturation comparisons (Gencoglu et al and Goldberg et al, as Cohen's reports them; Endodontology cites the same Goldberg study) are ex vivo on simulated defects. No book cites a comparative clinical study of these approaches, so none can be ranked on outcome [Likely]. What can be concluded is that perforation size, site and access, assessed by CBCT, decide the choice; the textbook preference for MTA rests on biocompatibility and tolerance of extrusion, not on outcome trials [Likely].
 
 ## HIGH-YIELD POINTS
 
@@ -301,6 +303,22 @@ Most infection-related resorption responds well (Andreasen, Heithersay and Bakla
 - Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.297 (printed p.288): "these cases have compromised prognosis and are prone to root fracture"
 - Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2350: "The earlier the detection of root resorption, the better the prognosis"
 - Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.745: "any continuation of the resorptive process on recall radiographs should alert the dentist"
+- Gopikrishna, 2021, 04_Chapter_4_Diseases_of_the_Dental_Pulp.md, PDF p.91 (printed p.66): "mineral trioxide aggregate (MTA) is recommended to repair the defect"
+- Gopikrishna, 2021, 04_Chapter_4_Diseases_of_the_Dental_Pulp.md, PDF p.91 (printed p.66): "obturation of the defect requires a special effort, preferably with a plasticized gutta-percha method"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.518 (printed p.497): "Calcium hydroxide is preferred as sealer along with guttapercha"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2347: "fillings with higher GP/sealer ratios reduce the risk of void formation"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2347: "produced fills with greater GP–to-sealer (GP/sealer) ratios than did the other techniques examined"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2347: "Because root canal sealers shrink on setting"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2347: "Goldberg et al.49 demonstrated that the Obtura II system filled simulated resorptive defects statistically better than CLC, Thermafill, and a hybrid technique"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.353 (printed p.336): "lateral compaction the worst, when comparing various methods of obturating experimental resorptive defects (Goldberg et al., 2000)"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.519 (printed p.498): "No pink spot • Pink spot is a usual sign"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.518 (printed p.497): "As long as no communication exists with oral fluids (no perforation of root canal wall)"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2348: "Its use as an effective filling material in IRR depends on adequate ultrasonic activation of the material"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2348: "Use of a dental operating microscope and the correct equipment to deliver the material are essential"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.297 (printed p.288): "excess root-filling material has been extruded into the periodontal tissue"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.296 (printed p.287): "Care should be taken to prevent extrusion of sodium hypochlorite irrigant"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.353 (printed p.336): "the treatment is not very different from that of repairing an iatrogenic perforation"
+- Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.741: "Barrier techniques utilizing mineral trioxide aggregate may be necessary in large apical resorptive defects"
 
 **[LIT]** none: no live literature search was run for this answer.
 

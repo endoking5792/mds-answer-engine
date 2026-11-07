@@ -199,4 +199,15 @@ L = {
  # --- AAE Glossary 2012 ---
  'q02_a_int': ('gl2', 'initiated within the pulp space with loss of dentin and possible invasion of the cementum'),
  'q02_a_ext': ('gl2', 'may be further classified as surface, inflammatory or replacement, or by location as cervical, lateral or apical'),
+ # --- added by second reader (audit q02) ---
+ 'q02_k_nopink': ('sik', 'No pink spot • Pink spot is a usual sign'),
+ 'q02_c_gold': ('coh', 'Goldberg et al.49 demonstrated that the Obtura II system filled simulated resorptive defects statistically better than CLC, Thermafill, and a hybrid technique'),
+ 'q02_c_gpratio': ('coh', 'produced fills with greater GP–to-sealer (GP/sealer) ratios than did the other techniques examined'),
+ 'q02_c_shrink': ('coh', 'Because root canal sealers shrink on setting'),
+ 'q02_e_goldberg': ('edl', 'lateral compaction the worst, when comparing various methods of obturating experimental resorptive defects (Goldberg et al., 2000)'),
+ 'q02_k_noperf': ('sik', 'As long as no communication exists with oral fluids (no perforation of root canal wall)'),
+ 'q02_c_mtaus': ('coh', 'Its use as an effective filling material in IRR depends on adequate ultrasonic activation of the material'),
+ 'q02_c_micro': ('coh', 'Use of a dental operating microscope and the correct equipment to deliver the material are essential'),
+ 'q02_g_extr': ('gul', 'excess root-filling material has been extruded into the periodontal tissue'),
+ 'q02_g_nahyp': ('gul', 'Care should be taken to prevent extrusion of sodium hypochlorite irrigant'),
 }
