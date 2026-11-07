@@ -3,13 +3,13 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Nov 2012 (RG PIII RS-2). Repeats absorbed: none.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 397 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q01 (100m) gives the full classification of root resorption; P2 covers external inflammatory resorption after trauma.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 398 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q01 (100m) gives the full classification of root resorption; P2 covers external inflammatory resorption after trauma.
 
 **Retrieval report.** Read in full: Cohen's 12e Ch.18 (Patel, Durack, Ricucci and Bakhsh); Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland; author line decoded from damaged OCR); Gulabivala and Ng 4e Ch.11; Endodontology Ch.42 (Baumann and Beer); Seltzer and Bender 2e Ch.17 (Levin); Sikri 2e Ch.27. Cross-checked: Grossman 14e Ch.5 (external resorption, causes, radiographs, prognosis) and the AAE Glossary (2012). Not used: Endodontic Radiology Ch.10 (adds nothing on apical resorption beyond the core books). Loss of the apical constriction is not stated in any book read; it is given here as an inference from the glossary's definition of the constriction and Levin's description of the resorbed root end, and tagged [Likely]. No live search; no critical synthesis (10 marks).
 
 
 
-<!--LOC: q04_def_coh, q04_def_sik, q04_sik_perm, q04_gl_ext, q04_gul_site, q04_gul_protect, q04_coh_stim, q04_gul_cdj, q04_sel_conc, q04_gul_873, q04_sel_invar, q04_sel_histo, q04_sik_all, q04_sik_cyst, q04_sel_apint, q04_sel_sem, q04_gul_impact, q04_gr5_cyst, q04_gul_bender, q04_gul_notrct, q04_ing_tab, q04_ing_tabimpl, q04_gl_tab, q04_sik_tab, q04_sik_tabyr, q04_gl_constr, q04_sel_scallop, q04_sel_granc, q04_sel_wl, q04_sel_eal, q04_sel_ortho, q04_sel_risk, q04_sel_intrus, q04_sel_short, q04_sel_il1, q04_edl_press, q04_gul_hpt, q04_gul_sysref, q04_gul_idio, q04_coh_fig, q04_sel_asympt, q04_sel_box, q04_gul_vital, q04_sel_radio, q04_gr5_blunt, q04_coh_2d, q04_coh_under, q04_coh_cbct, q04_sel_presup, q04_sel_shelf, q04_gul_cone, q04_sel_barrier, q04_gul_longca, q04_sel_tx, q04_sel_7d, q04_sel_surg, q04_sel_halt, q04_gul_cause, q04_sel_success, q04_ing_dentin, q04_ing_910-->
+<!--LOC: q04_def_coh, q04_def_sik, q04_sik_perm, q04_gl_ext, q04_gul_site, q04_gul_protect, q04_coh_stim, q04_gul_cdj, q04_sel_conc, q04_gul_873, q04_sel_invar, q04_sel_histo, q04_sik_all, q04_sik_cyst, q04_sel_apint, q04_sel_sem, q04_gul_impact, q04_gr5_cyst, q04_gul_bender, q04_gul_notrct, q04_ing_tab, q04_ing_tabimpl, q04_gl_tab, q04_sik_tab, q04_sik_tabyr, q04_gl_constr, q04_sel_scallop, q04_sel_granc, q04_sel_wl, q04_sel_eal, q04_sel_ortho, q04_sel_risk, q04_sel_intrus, q04_sel_short, q04_sel_il1, q04_edl_press, q04_gul_hpt, q04_gul_sysref, q04_gul_idio, q04_coh_fig, q04_sel_asympt, q04_sel_box, q04_gul_vital, q04_sel_radio, q04_gr5_blunt, q04_coh_2d, q04_coh_under, q04_coh_cbct, q04_sel_presup, q04_sel_shelf, q04_gul_cone, q04_sel_barrier, q04_gul_longca, q04_sel_tx, q04_sel_7d, q04_sel_surg, q04_sel_halt, q04_gul_cause, q04_sel_success, q04_ing_dentin, q04_ing_910, q04_gul_common, q04_gr5_press, q04_sik_displ, q04_gul_extr, q04_sel_rct-->
 
 <!--REF: Patel2021, Andreasen2019, Gulabivala2014, Baumann2010, Levin2012, Sikri2019, AAE2012, q04_Gopikrishna2021-->
 
@@ -19,13 +19,13 @@
 
 **Why the apex?** Either the cementum at the apical cemento-dentinal junction is too thin to protect (Ng and Gulabivala, 2014) [SRC], or inflammation confined to the small apical area concentrates the resorbing factors (Levin, 2012) [SRC]. Both are hypotheses [Likely].
 
-**How common: the books differ in emphasis.** Ng and Gulabivala report resorption around the apical or lateral foramina in 87.3% of teeth with periradicular periodontitis (2014) [SRC]. Levin says it is "invariably" present but usually visible only histologically (2012) [SRC]. Sikri says practically all such teeth show it, yet also that it is common with purulent inflammation and cysts and less common with granulomas (2019) [SRC]. Levin adds apical *internal* resorption, seen by scanning electron microscopy in most teeth with periapical pathosis (2012) [SRC], so the defect is not purely external [Likely].
+**How common: the books differ in emphasis.** Ng and Gulabivala call root-canal infection the most common sustaining factor (2014) [SRC] and report resorption around the apical or lateral foramina in 87.3% of teeth with periradicular periodontitis (2014) [SRC]. Levin says it is "invariably" present but usually visible only histologically (2012) [SRC]. Sikri says practically all such teeth show it (2019) [SRC]; her separate remark that apical resorption is common with purulent inflammation and cysts and less common with granulomas sits in her paragraph on displacement injuries (Sikri, 2019) [SRC], so it is not a statement about apical periodontitis alone [Likely]. Levin adds apical *internal* resorption, seen by scanning electron microscopy in most teeth with periapical pathosis (2012) [SRC], so the defect is not purely external [Likely].
 
-**Pressure.** Ng and Gulabivala list growing cysts with tumours and impacted teeth (2014) [SRC]; Grossman says cysts usually move roots instead of resorbing them (Gopikrishna, 2021) [SRC]. Orthodontic resorption was labelled "periapical replacement resorption" by Bender and colleagues, but it stops only when the force stops, not after root canal treatment (Ng and Gulabivala, 2014) [SRC].
+**Pressure.** **Cysts: resorb or displace? The books differ.** Ng and Gulabivala list growing cysts with tumours and impacted teeth as pressure causes (2014) [SRC], and Sikri finds apical resorption common with cysts (2019) [SRC]. Grossman accepts that a growing granuloma, cyst or tumour can resorb the adjacent root (Gopikrishna, 2021) [SRC], but says cysts, growing slowly, usually move roots instead of resorbing them (Gopikrishna, 2021) [SRC]. Both are shown in the exam core. Orthodontic resorption was labelled "periapical replacement resorption" by Bender and colleagues, but it stops only when the force stops, not after root canal treatment (Ng and Gulabivala, 2014) [SRC]. Levin's note that endodontically treated incisors resorb less often and less severely during orthodontics (2012) [SRC] concerns susceptibility, not treatment, so it does not contradict this [Likely].
 
 **Transient apical breakdown.** Ingle's and the AAE glossary describe it as a luxation-related healing event to be monitored (Andreasen, Heithersay and Bakland, 2019; American Association of Endodontists, 2012) [SRC]. Sikri attributes it to orthodontic force, resolving within a year (Sikri, 2019) [SRC]. Both positions are shown in the exam core.
 
-**Working length.** The constriction lies 0.5-1.0 mm short of the foramen (American Association of Endodontists, 2012) [SRC]. Where the root end is scalloped by resorption (Levin, 2012) [SRC], the constriction is probably lost and the foramen widened [Likely]. That fits Levin's warnings that resorption alters the canal when working length is set and causes errors in electronic length readings (2012) [SRC].
+**Working length.** The constriction lies 0.5-1.0 mm short of the foramen (American Association of Endodontists, 2012) [SRC]. Where the root end is scalloped by resorption (Levin, 2012) [SRC], the constriction is probably lost and the foramen widened [Likely]; Ng and Gulabivala name extrusion of root filling, when resorption involves the canal foramen, as the main problem (2014) [SRC]. That fits Levin's warnings that resorption alters the canal when working length is set and causes errors in electronic length readings (2012) [SRC].
 
 ## ✎ Exam core
 
@@ -35,8 +35,8 @@
 | Cause | Points |
 |---|---|
 | Infected necrotic pulp, apical periodontitis (commonest) | Present in 87.3% of teeth with periradicular periodontitis (Ng and Gulabivala, 2014) |
-| Orthodontic force | At the apex near the cementodentinal junction. Risks: long treatment, heavy force, intrusion, lingual root torque, short roots before treatment, IL1B allele 1 (5.6-fold risk of >2 mm loss) (Levin, 2012) |
-| Impacted teeth, cysts, tumours | Ceases once pressure is removed (Baumann and Beer, 2010); Grossman notes cysts often displace roots instead (Gopikrishna, 2021) |
+| Orthodontic force | At the apex near the cementodentinal junction. Risks: long treatment, heavy force, intrusion, lingual root torque, short roots before treatment, homozygous IL1B allele 1 (5.6-fold risk of >2 mm loss) (Levin, 2012) |
+| Impacted teeth, cysts, tumours | Ceases once pressure is removed (Baumann and Beer, 2010); Grossman notes cysts usually displace roots instead (Gopikrishna, 2021) |
 | Transient apical breakdown | Healing after luxation, monitor only (Andreasen, Heithersay and Bakland, 2019); Sikri links it to orthodontic force, normal within a year (Sikri, 2019) |
 | Systemic, idiopathic | e.g. hyperparathyroidism; refer, no local treatment (Ng and Gulabivala, 2014) |
 
@@ -44,7 +44,7 @@
 
 **Clinical features.** Asymptomatic apart from the apical periodontitis; pulp tests negative in the infective type (Levin, 2012), vital in orthodontic resorption (Ng and Gulabivala, 2014).
 
-**Radiographs.** Often invisible; otherwise blunting, irregular shortening or stumping of the root tip with periapical radiolucency (Levin, 2012; Gopikrishna, 2021). Two-dimensional films underestimate resorption; CBCT shows its true extent (Patel et al, 2021).
+**Radiographs.** Often invisible; otherwise blunting, irregular shortening or stumping of the root tip with periapical radiolucency (Levin, 2012; Gopikrishna, 2021). Two-dimensional films underestimate resorption; CBCT shows the extent better (Patel et al, 2021).
 
 **Endodontic implications**
 - Presume apical resorption with any periapical lesion (Levin, 2012); the constriction, normally 0.5-1 mm short of the foramen (American Association of Endodontists, 2012), may be lost, so apex-locator readings mislead (Levin, 2012).
@@ -139,6 +139,11 @@
 - Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.728: "an extremely high success rate can be expected"
 - Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.380 (printed p.428): "Dentin lost through resorption cannot be replaced with new dentin"
 - Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.378 (printed p.426): "If the root apex has been resorbed, increased mobility may become a problem if the root is shorter than 9–10 mm"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.298 (printed p.289): "the most common sustaining factor is thought to be root-canal infection"
+- Gopikrishna, 2021, 05_Chapter_5_Diseases_of_the_Periradicular_Tissues.md, PDF p.112 (printed p.87): "Areas of inflammatory resorption caused by the pressure of a growing granuloma, cyst, or tumor have an area of root resorption adjacent"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.512 (printed p.491): "in teeth that have suffered displacement injuries, external root resorption may become extensive"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.299 (printed p.290): "the only problem encountered may be prevention of root-filling material extrusion when resorption is present at the canal foramen"
+- Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.725: "apical resorption is significantly less frequent and less severe in endodontically treated incisors than in untreated teeth"
 
 **[LIT]** none: no live literature search was run for this answer.
 

@@ -99,4 +99,8 @@ L = {
  'q04_ing_dentin': ('ing', 'Dentin lost through resorption cannot be replaced with new dentin'),
  'q04_gr5_prog': ('q04_gr5', 'The prognosis of a tooth with external resorption is guarded'),
  'q04_gr5_weak': ('q04_gr5', 'it may leave a weak tooth unable to sustain functional forces'),
+ # second reader (audit/q04_p2.md)
+ 'q04_gul_common': ('gul', 'the most common sustaining factor is thought to be root-canal infection'),
+ 'q04_gr5_press': ('q04_gr5', 'Areas of inflammatory resorption caused by the pressure of a growing granuloma, cyst, or tumor have an area of root resorption adjacent'),
+ 'q04_sik_displ': ('sik', 'in teeth that have suffered displacement injuries, external root resorption may become extensive'),
 }

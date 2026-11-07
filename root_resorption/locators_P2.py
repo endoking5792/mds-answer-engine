@@ -108,4 +108,13 @@ L = {
  'p2_gul_replace': ('gul', 'Rootcanal debridement and dressing with calcium hydroxide may remove the inflammatory component, reducing the resorption to a replacement variety'),
  'p2_tor_good': ('p2_tor', 'Resorption usually subsides after removal of the necrotic, infected pulp, so the prognosis is good'),
  'p2_gr19_follow': ('p2_gr19', 'Follow-up at 2 weeks, 4 weeks, 3 months,'),
+ # second reader (audit/q04_p2.md)
+ 'p2_c21_12wk': ('p2_c21', 'over a relatively short period (1 to 2 weeks) is sufficient to ensure effective disinfection of the canal'),
+ 'p2_c21_after12': ('p2_c21', 'Initiate endodontic treatment after 1 to 2 weeks'),
+ 'p2_gr19_repl': ('p2_gr19', 'Initiate root canal treatment within 2 weeks of replantation'),
+ 'p2_gr19_ideal': ('p2_gr19', 'the ideal time to begin root canal treatment is within 2 weeks after the replantation'),
+ 'p2_gr19_4wk': ('p2_gr19', 'Calcium hydroxide intracanal medicament for 4 weeks followed by obturation'),
+ 'p2_gr19_box4': ('p2_gr19', 'Management of Avulsed Teeth with an Extraoral Dry Time of More Than 60 Minutes'),
+ 'p2_sel_6mo': ('sel', 'calcium hydroxide can be applied in a compliant patient for up to 6 months'),
+ 'p2_sel_710': ('sel', 'The clinician should ideally evaluate pulp space infection 7 to 10 days after the injury'),
 }

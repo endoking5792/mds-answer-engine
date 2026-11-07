@@ -3,27 +3,29 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED, no sitting. Repeats absorbed: none.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 399 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Traumatic Dental Injuries T03 (Root healing following traumatic injuries, 20m) gives the four periodontal healing modalities and P3 (Replacement resorption in a growing patient, 10m) covers ankylosis; neither is repeated here. Q04 covers apical resorption from apical periodontitis.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 397 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Traumatic Dental Injuries T03 (Root healing following traumatic injuries, 20m) gives the four periodontal healing modalities and P3 (Replacement resorption in a growing patient, 10m) covers ankylosis; neither is repeated here. Q04 covers apical resorption from apical periodontitis.
 
-**Retrieval report.** Read in full: Cohen's 12e Ch.18 (Patel, Durack, Ricucci and Bakhsh); Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland; author line decoded from damaged OCR); Gulabivala and Ng 4e Ch.11; Endodontology Ch.42 (Baumann and Beer); Seltzer and Bender 2e Ch.17 (Levin); Sikri 2e Ch.27. Cross-checked: Cohen's 12e Ch.21 (Kahler), the inflammatory-resorption, avulsion and replantation sections; Harty's 7e Ch.12 (Sigurdsson and Bourguignon); Torabinejad 6e Ch.11 (Paranjpe and Noblett); Grossman 14e Ch.19 (avulsion and intrusion charts; its table layout is garbled in the extract, so which apex column a line belongs to was not relied on). No live search; no critical synthesis (10 marks).
+**Retrieval report.** Read in full: Cohen's 12e Ch.18 (Patel, Durack, Ricucci and Bakhsh); Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland; author line decoded from damaged OCR); Gulabivala and Ng 4e Ch.11; Endodontology Ch.42 (Baumann and Beer); Seltzer and Bender 2e Ch.17 (Levin); Sikri 2e Ch.27. Cross-checked: Cohen's 12e Ch.21 (Kahler), the inflammatory-resorption, avulsion and replantation sections; Harty's 7e Ch.12 (Sigurdsson and Bourguignon); Torabinejad 6e Ch.11 (Paranjpe and Noblett); Grossman 14e Ch.19 (avulsion and intrusion sections; the closed-apex timing and the 4-week calcium hydroxide course are taken from its prose, PDF p.417-418; its chart layout is garbled in the extract, so which apex column a chart line belongs to was not relied on). No live search; no critical synthesis (10 marks).
 
 
 
-<!--LOC: p2_ing_combined, p2_coh_precem, p2_coh_macro, p2_coh_selflim, p2_coh_microb, p2_coh_tubules, p2_coh_toxins, p2_coh_gran, p2_sel_ic, p2_sel_3wk, p2_har_610, p2_har_tubwide, p2_c21_open, p2_coh_inc, p2_coh_30, p2_coh_concussion, p2_coh_avp, p2_coh_38, p2_coh_crona, p2_ing_24, p2_coh_2wk, p2_coh_34wk, p2_coh_1yr, p2_coh_bowl, p2_coh_ld, p2_edl_bone, p2_ing_clin, p2_ing_clin2, p2_coh_under, p2_coh_daddazio, p2_sel_vital, p2_coh_710, p2_c21_closed, p2_gr19_2wk, p2_gr19_2wkb, p2_c21_openavoid, p2_c21_recall, p2_c21_apexif, p2_sel_no_long, p2_ing_mature, p2_har_624, p2_ing_30d, p2_ing_6672, p2_ing_mta, p2_sel_dense, p2_sel_ph, p2_c21_1mo, p2_c21_3mo, p2_c21_change, p2_ing_dogs, p2_ing_ledermix, p2_c21_triam, p2_c21_dogs, p2_c21_firstvisit, p2_gr19_6wk, p2_coh_heal, p2_c21_bone, p2_tor_good, p2_ing_dentin, p2_ing_fill, p2_sel_replace, p2_coh_3mo-->
+<!--LOC: p2_ing_combined, p2_coh_precem, p2_coh_macro, p2_coh_selflim, p2_coh_microb, p2_coh_tubules, p2_coh_toxins, p2_coh_gran, p2_sel_ic, p2_sel_3wk, p2_har_610, p2_har_tubwide, p2_c21_open, p2_coh_inc, p2_coh_30, p2_coh_concussion, p2_coh_avp, p2_coh_38, p2_coh_crona, p2_ing_24, p2_coh_2wk, p2_coh_34wk, p2_coh_1yr, p2_coh_bowl, p2_coh_ld, p2_edl_bone, p2_ing_clin, p2_ing_clin2, p2_coh_under, p2_coh_daddazio, p2_sel_vital, p2_coh_710, p2_c21_closed, p2_gr19_2wk, p2_gr19_2wkb, p2_c21_openavoid, p2_c21_recall, p2_c21_apexif, p2_sel_no_long, p2_ing_mature, p2_har_624, p2_ing_30d, p2_ing_6672, p2_ing_mta, p2_sel_dense, p2_sel_ph, p2_c21_1mo, p2_c21_3mo, p2_c21_change, p2_ing_dogs, p2_ing_ledermix, p2_c21_triam, p2_c21_dogs, p2_c21_firstvisit, p2_gr19_6wk, p2_coh_heal, p2_c21_bone, p2_tor_good, p2_ing_dentin, p2_ing_fill, p2_sel_replace, p2_coh_3mo, p2_c21_after12, p2_c21_12wk, p2_c21_2wk, p2_sel_710, p2_sel_6mo, p2_gr19_repl, p2_gr19_ideal, p2_gr19_4wk, p2_gr19_box4, p2_ing_maturenp, p2_coh_judic-->
 
 <!--REF: Patel2021, Andreasen2019, Baumann2010, Levin2012, p2_Kahler2021, p2_Sigurdsson2017, p2_Paranjpe2021, p2_Gopikrishna2021-->
 
 ## Explanation
 
-**Two hits.** Ingle's calls this a combined injury to the pulp and the periodontal ligament (Andreasen, Heithersay and Bakland, 2019) [SRC]. A breach of the precementum starts every external resorption, but the clastic attack is self-limiting unless something keeps stimulating it (Patel et al, 2021) [SRC]. In EIR that stimulus is microbial, from the infected necrotic pulp (Patel et al, 2021) [SRC]. Once the attack exposes patent tubules, bacterial toxins diffuse through them to the resorbing cells (Patel et al, 2021) [SRC]; Levin places the protective barrier at the intermediate cementum (Levin, 2012) [SRC]. A mature necrotic pulp is usually infected within about 3 weeks (Levin, 2012) [SRC], which is the biological reason for starting root canal treatment at 7-10 days [Likely]. Young teeth resorb faster because the tubules are wide and the canal lies close to the root surface (Sigurdsson and Bourguignon, 2017; Kahler, 2021) [SRC].
+**Two hits.** Ingle's calls this a combined injury to the pulp and the periodontal ligament (Andreasen, Heithersay and Bakland, 2019) [SRC]. A breach of the precementum starts every external resorption, but the clastic attack is self-limiting unless something keeps stimulating it (Patel et al, 2021) [SRC]. In EIR that stimulus is microbial, from the infected necrotic pulp (Patel et al, 2021) [SRC]. Once the attack exposes patent tubules, bacterial toxins diffuse through them to the resorbing cells (Patel et al, 2021) [SRC]; Levin places the protective barrier at the intermediate cementum (Levin, 2012) [SRC]. A mature necrotic pulp is usually infected within about 3 weeks (Levin, 2012) [SRC], which is the biological reason for starting root canal treatment early [Likely]. Young teeth resorb faster because the tubules are wide and the canal lies close to the root surface (Sigurdsson and Bourguignon, 2017; Kahler, 2021) [SRC].
 
 **Incidence: two studies disagree.** Patel et al give 5% to 18% after luxation and 30% of replanted avulsed teeth (2021) [SRC]. They report Andreasen and Vestergaard Pedersen's figures (none after concussion, 6% after extrusion, 3% after lateral luxation, 38% after intrusion) next to Crona-Larsson et al's (60% after extrusion, 22% after intrusion) (Patel et al, 2021) [SRC]. The chapter does not reconcile them, so neither is "the" figure [Certain].
 
+**When to start root canal treatment in a replanted closed-apex tooth: the books differ by a few days.** Patel et al give 7-10 days after replantation, even without radiographic signs (2021) [SRC]. Kahler gives 7 to 10 days at the second visit but in the same section also writes "after 1 to 2 weeks" (Kahler, 2021) [SRC]; Levin evaluates pulp space infection 7 to 10 days after the injury (2012) [SRC]. Grossman gives within 2 weeks of replantation (Gopikrishna, 2021) [SRC], and for an intruded mature tooth 2 weeks or as soon as its position allows (Gopikrishna, 2021) [SRC]. The published Traumatic Dental Injuries answers T13 and T16 also give both a 2-week and a 7-10 day figure, so P2 does not contradict them. In an open apex none of this applies: revascularisation is awaited and treatment is avoided unless necrosis is definite (Kahler, 2021) [SRC].
+
 **Onset.** Ingle's gives 2-4 weeks (Andreasen, Heithersay and Bakland, 2019) [SRC]; Patel et al give as early as 2 weeks after replantation, often 3-4 weeks after injury, and always within a year (2021) [SRC].
 
-**How long to dress with calcium hydroxide: authors differ.** Levin sees no need for long-term dressing when treatment starts within 10 days (2012) [SRC]. Ingle's says a mature canal is disinfected in 2-3 weeks (Andreasen, Heithersay and Bakland, 2019) [SRC]. Harty's continues the dressing until a normal ligament width returns, 6 to 24 months (Sigurdsson and Bourguignon, 2017) [SRC]. Beyond 30 days in immature roots, cervical fracture reached 66%-72% (Andreasen, Heithersay and Bakland, 2019) [SRC], so an MTA barrier shortens exposure [Likely].
+**How long to dress with calcium hydroxide: the figures belong to different situations.** *Preventive dressing, treatment started early:* Kahler finds 1 to 2 weeks sufficient (2021) [SRC]; Ingle's says a mature canal is disinfected in 2-3 weeks (Andreasen, Heithersay and Bakland, 2019) [SRC]; Grossman gives 4 weeks, then obturation (Gopikrishna, 2021) [SRC]; Levin sees no need for long-term dressing when treatment starts within 10 days (2012) [SRC], though it may be kept up to 6 months in a compliant patient (Levin, 2012) [SRC]. *Established EIR or a late start:* Kahler advises long-term calcium hydroxide if more than 2 weeks have passed or resorption is visible (2021) [SRC], and Harty's continues it until a normal ligament width returns, 6 to 24 months (Sigurdsson and Bourguignon, 2017) [SRC]. Read this way the short and long figures are not a conflict [Likely]. The real tension is fracture: beyond 30 days in immature roots, cervical fracture reached 66%-72% in two clinical studies (Andreasen, Heithersay and Bakland, 2019) [SRC], a problem Ingle's says apparently does not exist in mature teeth (2019) [SRC]; Patel et al ask for judicious long-term use (2021) [SRC], while Harty's gives 6-24 months without separating immature roots [Likely]. An MTA barrier shortens exposure (Andreasen, Heithersay and Bakland, 2019) [SRC].
 
-**Corticosteroid-antibiotic paste.** In dogs the cortisone part of Ledermix was the most effective component (Andreasen, Heithersay and Bakland, 2019) [SRC]. Triamcinolone alone matched it, but both studies were on young dogs and need human replication (Kahler, 2021) [SRC]. Grossman gives corticosteroid for 6 weeks as an alternative to calcium hydroxide (Gopikrishna, 2021) [SRC]. Its clinical evidence is thinner than that for calcium hydroxide [Likely].
+**Corticosteroid-antibiotic paste.** In dogs the cortisone part of Ledermix was the most effective component (Andreasen, Heithersay and Bakland, 2019) [SRC]. Triamcinolone alone matched it, but both studies were on young dogs and need human replication (Kahler, 2021) [SRC]. Grossman gives corticosteroid for 6 weeks as an alternative to calcium hydroxide in its chart for teeth replanted after more than 60 minutes dry (Gopikrishna, 2021) [SRC]. Its clinical evidence is thinner than that for calcium hydroxide [Likely].
 
 ## ✎ Exam core
 
@@ -34,10 +36,10 @@
 2. Macrophages and osteoclasts clear the damage (Patel et al, 2021); alone, this stays surface resorption.
 3. The pulp necroses and becomes infected (Levin, 2012).
 4. Osteoclasts expose dentinal tubules; lipopolysaccharide and other toxins pass out and stimulate them (Patel et al, 2021).
-5. Resorption accelerates; granulation tissue replaces root and finally enters the canal.
+5. Resorption accelerates; granulation tissue replaces root, then enters the canal.
 Fastest at 6-10 years (wide tubules) (Sigurdsson and Bourguignon, 2017).
 
-**Incidence.** 5-18% of luxated and 30% of replanted avulsed teeth; intrusion 38% in one study, extrusion 60% in another (Patel et al, 2021).
+**Incidence.** 5-18% of luxated and 30% of replanted avulsed teeth; two studies rank injuries differently (intrusion 38%, extrusion 6%; extrusion 60%, intrusion 22%) (Patel et al, 2021).
 
 **Diagnosis**
 - Onset 2-4 weeks after injury (Andreasen, Heithersay and Bakland, 2019); always within a year (Patel et al, 2021).
@@ -49,19 +51,19 @@ Fastest at 6-10 years (wide tubules) (Sigurdsson and Bourguignon, 2017).
 **Management**
 | Situation | Treatment |
 |---|---|
-| Closed apex | Root canal treatment at 7-10 days after replantation, even without signs (Patel et al, 2021; Kahler, 2021); after intrusion, at 2 weeks (Gopikrishna, 2021) |
+| Closed apex | Root canal treatment at 7-10 days after replantation, even without signs (Patel et al, 2021; Kahler, 2021); Grossman: within 2 weeks of replantation, or of intrusion (Gopikrishna, 2021) |
 | Open apex | Await revascularisation, test every 3-4 weeks; at first sign of infection, disinfect and apexify (Kahler, 2021) |
-| Established EIR or late start | Debridement, then densely packed calcium hydroxide (alkaline, antibacterial, neutralises endotoxin) (Levin, 2012); refill at 1 month, review and change no more than 3-monthly (Kahler, 2021); 6-24 months (Sigurdsson and Bourguignon, 2017) |
-| Corticosteroid-antibiotic paste (Ledermix) | First-visit alternative; animal evidence only (Kahler, 2021) |
-| Immature root | Avoid calcium hydroxide beyond 30 days (cervical fracture 66-72%); MTA apical barrier (Andreasen, Heithersay and Bakland, 2019) |
+| Established EIR or late start | Debridement, then densely packed calcium hydroxide (alkaline, antibacterial, neutralises endotoxin) (Levin, 2012); refill at 1 month, change at most 3-monthly (Kahler, 2021); 6-24 months (Sigurdsson and Bourguignon, 2017) |
+| Corticosteroid-antibiotic paste (Ledermix) | First-visit alternative; mainly dog studies (Kahler, 2021) |
+| Immature root | Minimise calcium hydroxide beyond 30 days (cervical fracture 66-72%); MTA apical barrier (Andreasen, Heithersay and Bakland, 2019) |
 
-**Follow-up and prognosis.** Obturate once the bony radiolucency resolves and the ligament space reforms (Patel et al, 2021). Prognosis is good after infection is removed (Paranjpe and Noblett, 2021), but lost dentine is replaced only by cementum or bone, and a large defect may proceed to replacement resorption (Andreasen, Heithersay and Bakland, 2019; Levin, 2012).
+**Follow-up and prognosis.** Obturate once the adjacent bone has healed (Kahler, 2021). Prognosis is good after infection is removed (Paranjpe and Noblett, 2021), but lost dentine is replaced only by cementum or bone, and a large defect may proceed to replacement resorption (Andreasen, Heithersay and Bakland, 2019; Levin, 2012).
 
 ## HIGH-YIELD POINTS
 - Two hits: ligament/precementum injury + infected pulp through exposed tubules.
 - Seen at 2-4 weeks; always within 1 year; root can be lost in about 3 months.
 - Radiograph: bowl-shaped lucencies in root and bone.
-- Closed-apex replant: root canal treatment at 7-10 days, before the pulp is infected.
+- Closed-apex replant: root canal treatment at 7-10 days (Grossman: within 2 weeks), before the pulp is infected.
 - Open apex: wait for revascularisation, recall every 3-4 weeks.
 - Long-term calcium hydroxide in immature roots: cervical fracture risk 66-72%.
 
@@ -140,6 +142,17 @@ Fastest at 6-10 years (wide tubules) (Sigurdsson and Bourguignon, 2017).
 - Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.380 (printed p.428): "with either a replacement layer of new cementum or bone and establishment of new PDL"
 - Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.729: "if a large area of root is affected, osseous replacement may result by the mechanism already described"
 - Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2315: "complete resorption of an entire root can occur within 3 months"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2644: "Initiate endodontic treatment after 1 to 2 weeks"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2644: "over a relatively short period (1 to 2 weeks) is sufficient to ensure effective disinfection of the canal"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2644: "Long-term calcium hydroxide treatment should always be considered if the injury occurred more than 2 weeks before initiation of the endodontic treatment"
+- Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.729: "The clinician should ideally evaluate pulp space infection 7 to 10 days after the injury"
+- Levin, 2012, Chapter_17_Root_Resorption.md, PDF p.730: "calcium hydroxide can be applied in a compliant patient for up to 6 months"
+- Gopikrishna, 2021, 19_Chapter_19_Treatment_of_Traumatized_Teeth.md, PDF p.417 (printed p.392): "Initiate root canal treatment within 2 weeks of replantation"
+- Gopikrishna, 2021, 19_Chapter_19_Treatment_of_Traumatized_Teeth.md, PDF p.418 (printed p.393): "the ideal time to begin root canal treatment is within 2 weeks after the replantation"
+- Gopikrishna, 2021, 19_Chapter_19_Treatment_of_Traumatized_Teeth.md, PDF p.417 (printed p.392): "Calcium hydroxide intracanal medicament for 4 weeks followed by obturation"
+- Gopikrishna, 2021, 19_Chapter_19_Treatment_of_Traumatized_Teeth.md, PDF p.421 (printed p.396): "Management of Avulsed Teeth with an Extraoral Dry Time of More Than 60 Minutes"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.379 (printed p.427): "In mature teeth, the problem apparently does not exist"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2316: "this protocol should be used judiciously because of the associated risk of root fracture"
 
 **[LIT]** none: no live literature search was run for this answer.
 
