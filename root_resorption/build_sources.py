@@ -3,7 +3,7 @@ from locators import L, F, page_label, BOOK_EXTRA, LIT
 BOOK = {
  'Patel2021': "Patel S, Durack C, Ricucci D, Bakhsh AA. Root resorption. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.18.",
  'Andreasen2019': "Andreasen JO, Heithersay GS, Bakland LK. Pathologic tooth resorption. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH USA; 2019. Ch.15 (author line decoded from a damaged OCR heading; verify against the printed book).",
- 'Gulabivala2014': "Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.11 Management of tooth resorption (chapter author not named in the file, so the editors are cited).",
+ 'Gulabivala2014': "Ng Y-L, Gulabivala K. Management of tooth resorption. In: Gulabivala K, Ng Y-L, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.11.",
  'Baumann2010': "Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.42 Tooth resorption.",
  'Levin2012': "Levin LG. Root resorption. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.17.",
  'Sikri2019': "Sikri VK. Root resorption. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.27.",
@@ -20,7 +20,7 @@ def run(p):
     lits = [k.strip() for k in m.group(1).split(',') if k.strip()] if m else []
     cores = re.findall(r'#{2,4} ✎ Exam core\n(.*?)(?=\n## (?!✎))',s,re.S); wc = sum(len(c.split()) for c in cores)
     mk = re.search(r'\*\*Marks:\*\* (\d+)m',s).group(1); lo,hi = RANGE[mk]
-    s = re.sub(r'Exam core: (\S+) words, about (\S+) minutes', f'Exam core: {wc} words, about {round(wc/22)} minutes', s, 1)
+    s = re.sub(r'Exam core: (\S+) words, about (\S+) minutes', f'Exam core: {wc} words, about {round(wc/22)} minutes', s, count=1)
     if wc<lo or wc>hi:
         s = s.replace('\n<!--LOC:', f"\n**FAILURE DISCLOSURE:** exam core is {wc} words, {'below' if wc<lo else 'above'} the Section 7 range of {lo}-{hi} for {mk} marks.\n\n<!--LOC:",1)
     out = ['\n## SOURCE LIST', '\n**[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):']

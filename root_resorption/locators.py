@@ -10,7 +10,7 @@ T = os.path.expanduser('~/mds-textbooks/')   # clone of the private textbook rep
 F = {
  'coh': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/18_18_Root_resorption.md', None, 'Patel et al, 2021'),
  'ing': (T+'Ingles_Endodontics_7th_Chapterwise/15_Chapter_15_Pathologic_Tooth_Resorption.md', -48, 'Andreasen, Heithersay and Bakland, 2019'),
- 'gul': (T+'Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/11_11_Management_of_tooth_resorption.md', 9, 'Gulabivala and Ng, 2014'),
+ 'gul': (T+'Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/11_11_Management_of_tooth_resorption.md', 9, 'Ng and Gulabivala, 2014'),
  'edl': (T+'Endodontology_Chapterwise/42_42_Tooth_Resorption.md', 17, 'Baumann and Beer, 2010'),
  'sel': (T+'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_17_Root_Resorption.md', None, 'Levin, 2012'),
  'sik': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/27_27_Root_Resorption.md', 21, 'Sikri, 2019'),

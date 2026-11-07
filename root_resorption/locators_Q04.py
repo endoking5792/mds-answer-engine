@@ -1,0 +1,102 @@
+# Locators for Q04 "Apical resorption" (10m). Keys prefixed q04_.
+import os
+T = os.path.expanduser('~/mds-textbooks/')
+F_EXTRA = {
+ # Grossman 14e Ch.5; no chapter author named in the file, editor cited. Offset 25 confirmed at PDF 112 (printed 87) and PDF 113 (printed 88).
+ 'q04_gr5': (T+'Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/05_Chapter_5_Diseases_of_the_Periradicular_Tissues.md', 25, 'Gopikrishna, 2021'),
+}
+BOOK_EXTRA = {
+ 'q04_Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.5 Diseases of the periradicular tissues (no individual chapter author is named in the file, so the editor is cited).",
+}
+L = {
+ # definition / site
+ 'q04_def_coh': ('coh', 'Dental resorption is defined as the loss of dental hard tissues as a result of clastic activities'),
+ 'q04_def_sik': ('sik', 'the progressive loss of dentin and cementum through the continuous action of osteoclastic cells'),
+ 'q04_sik_perm': ('sik', 'in permanent dentition, it is pathological'),
+ 'q04_gl_ext': ('gl2', 'may be further classified as surface, inflammatory or replacement, or by location as cervical, lateral or apical'),
+ 'q04_gul_site': ('gul', 'The apical region is generally affected but lateral and cervical aspects of the root may also be involved'),
+ 'q04_gl_constr': ('gl1', 'usually 0.5–1.0 mm short of the center of the apical foramen'),
+ # protection / why the apex
+ 'q04_gul_protect': ('gul', 'Dentine and cementum are protected from resorption by their nonmineralized structural components (predentine and precementum)'),
+ 'q04_coh_stim': ('coh', 'progressive root resorption requires a source of'),
+ 'q04_coh_stimlist': ('coh', 'persistent impacted teeth; untreated cysts, granulomas, and tumors; endodontic inflammation and/or infection'),
+ # inflammatory (apical periodontitis)
+ 'q04_gul_873': ('gul', 'Resorption may be found around the apical or lateral root-canal foramina in 87.3% of teeth associated with'),
+ 'q04_gul_cdj': ('gul', 'the cementum at the cemento–dentinal junction apically may be too thin or even non-existent'),
+ 'q04_sel_invar': ('sel', 'Invariably, the periodontal inflammation is accompanied by slight resorption of the root at the cementodentin junction'),
+ 'q04_sel_histo': ('sel', 'This resorption is usually not apparent radiographically but is routinely visible upon histologic evaluation'),
+ 'q04_sel_conc': ('sel', 'inflammation is confined to a small area at the apex of the root so that the concentration of resorbing factors is so high'),
+ 'q04_sik_all': ('sik', 'Practically all teeth with apical periodontitis will exhibit apical resorption'),
+ 'q04_sik_cyst': ('sik', 'Apical root resorption is common in purulent inflammation and cysts and less common in granulomas'),
+ 'q04_coh_cpp': ('coh', 'It also affects teeth diagnosed with chronic periapical periodontitis'),
+ 'q04_coh_fig': ('coh', 'Note the ingrowth of granulation tissue into the foramen and the massive resorption of the apical profile'),
+ 'q04_sel_apint': ('sel', 'Apical internal inflammatory root resorption has been shown to be a common occurrence in teeth with periapical pathosis'),
+ 'q04_sel_sem': ('sel', 'The majority of teeth with periapical pathosis demonstrate some degree of apical internal resorption when analyzed with scanning electron microscopy'),
+ 'q04_sel_scallop': ('sel', 'resorption of the cementum and dentin results in a scalloped appearance of the root end'),
+ 'q04_sel_granc': ('sel', 'The histologic appearance of a periapical lesion may be either granulomatous or cystic'),
+ 'q04_sel_fig9': ('sel', 'Resorption of the external and internal aspects of the root can be seen'),
+ # pressure / orthodontic
+ 'q04_sel_ortho': ('sel', 'In orthodontics, for example, the process takes place at the apex of the tooth near the cementodentin junction'),
+ 'q04_sel_intap': ('sel', 'it is not unusual to see radiographic evidence of internal apical resorption in the active stage of the process'),
+ 'q04_sel_risk': ('sel', 'Treatment-related factors include the duration of treatment, the magnitude of force exerted, the direction of tooth movement'),
+ 'q04_sel_intrus': ('sel', 'Intrusive movements and lingual root torque tend to be associated with higher levels of root resorption because they concentrate forces at the apex'),
+ 'q04_sel_short': ('sel', 'Patients who have short roots prior to orthodontic treatment or who show signs of root resorption before treatment are at higher risk'),
+ 'q04_sel_il1': ('sel', 'Individuals homozygous for the IL1B (+3953) allele 1 have a 5.6-fold greater risk of root resorption greater than 2 mm'),
+ 'q04_sel_halt': ('sel', 'treatment be halted for 2 to 3 months with passive archwires and bite'),
+ 'q04_sel_rct': ('sel', 'apical resorption is significantly less frequent and less severe in endodontically treated incisors than in untreated teeth'),
+ 'q04_gul_bender': ('gul', 'Resorption associated with orthodontic treatment has also been classified as “periapical replacement resorption” by Bender et al. (1997)'),
+ 'q04_gul_notrct': ('gul', 'of pressure from orthodontic movement of teeth but not by root-canal treatment'),
+ 'q04_gul_vital': ('gul', 'Clinically, the involved tooth is usually asymptomatic and the pulp is vital. Increase in mobility may be associated with a severely shortened root'),
+ 'q04_gul_pdlnorm': ('gul', 'the periodontal ligaments and the surrounding bone adjacent to the resorptive defect appear normal'),
+ 'q04_ing_910': ('ing', 'If the root apex has been resorbed, increased mobility may become a problem if the root is shorter than 9–10 mm'),
+ 'q04_ing_repair': ('ing', 'If traumatic and/or pressure factors are eliminated, there is almost 100% repair'),
+ 'q04_gul_impact': ('gul', 'impacted teeth (Fig. 11.20), orthodontic treatment (Fig. 11.21), occlusal trauma, and growing cysts and tumours'),
+ 'q04_edl_press': ('edl', 'the resorption tends to cease as soon as the source of pressure is removed'),
+ 'q04_gr5_cyst': ('q04_gr5', 'move the roots instead of causing resorption'),
+ 'q04_ing_ectopic': ('ing', 'with the ectopic eruption of a canine, resorption of the permanent lateral incisor may take place'),
+ 'q04_ing_ectrct': ('ing', 'Consequently, root canal treatment of such teeth is not necessary'),
+ # transient apical breakdown
+ 'q04_ing_tab': ('ing', 'has been termed transient apical breakdown, transient marginal breakdown, transient ankylosis, and transient internal surface resorption'),
+ 'q04_ing_tabimpl': ('ing', 'may represent an actual healing process and therefore only requires monitoring'),
+ 'q04_gl_tab': ('gl2', 'A response to tooth luxation consisting of radiographic apical bone and root resorption that resolves spontaneously without intervening treatment'),
+ 'q04_sik_tab': ('sik', 'apex of a tooth exhibit evidence of resorption radiographically because of orthodontic forces'),
+ 'q04_sik_tabyr': ('sik', 'the root apex and the surrounding tissues returns to normal within one year after the removal of the forces applied'),
+ # systemic / idiopathic
+ 'q04_gul_sys': ('gul', 'Shortening of roots or dental resorption has been associated with some systemic diseases'),
+ 'q04_gul_hpt': ('gul', 'hyperparathyroidism root shortening'),
+ 'q04_gul_sysref': ('gul', 'the patient should be referred to a specialist for further management. No local dental treatment is indicated'),
+ 'q04_gul_idio': ('gul', 'Cases of resorption where no local or systemic factors can be identified are classified as “idiopathic resorption”'),
+ 'q04_sik_nondental': ('sik', 'Such lesions should be diagnosed prior to initiating any treatment for root resorption'),
+ # clinical / radiographic
+ 'q04_sel_asympt': ('sel', 'There are no clinical manifestations because apical root resorption is asymptomatic'),
+ 'q04_sel_radio': ('sel', 'Irregular shortening, stumping, or thinning of the root tip is sometimes observed'),
+ 'q04_sel_box': ('sel', 'Negative pulpal sensitivity test, with or without a history of trauma'),
+ 'q04_gul_radio': ('gul', 'may not be noticeable or may present as irregular shortening of the root with an associated radiolucent lesion'),
+ 'q04_gr5_blunt': ('q04_gr5', 'external resorption appears as concave or ragged areas on the root surface or as blunting of the apex'),
+ 'q04_sik_tabpdl': ('sik', 'radiographically blunting of root apices and widening of periodontal ligament may be seen'),
+ 'q04_coh_2d': ('coh', 'compression of three-dimensional (3D) structures onto a two-dimensional (2D) shadowgraph'),
+ 'q04_coh_under': ('coh', 'conventional radiography grossly underestimates the extent of inflammatory root resorption'),
+ 'q04_coh_cbct': ('coh', 'CBCT is superior to conventional radiography in diagnosing and determining the extent of nonspecific inflammatory resorption'),
+ # endodontic implications and management
+ 'q04_sel_wl': ('sel', 'the clinician should account for canal-altering pathologic processes when establishing a working length for canal debridement'),
+ 'q04_sel_eal': ('sel', 'most likely contribute to the observed inaccuracies of electronic length determination in teeth with large apical lesions'),
+ 'q04_sel_presup': ('sel', 'These lesions may not be apparent clinically; nevertheless, the clinician should presuppose their presence'),
+ 'q04_sel_shelf': ('sel', 'a dentin shelf is created to serve as a stop for the gutta-percha obturation'),
+ 'q04_sel_barrier': ('sel', 'Apical closure techniques with long-term calcium hydroxide treatment or short-term barriers (eg, mineral trioxide aggregate and collagen plugs)'),
+ 'q04_sel_tx': ('sel', 'should be directed at removing the stimulus for the underlying inflammatory process, the microbes in the root canal system'),
+ 'q04_sel_7d': ('sel', 'After the intracanal medicament has been in place for at least 7 days, the root canal system is sealed'),
+ 'q04_sel_surg': ('sel', 'apical surgery should be attempted, provided that a sufficient crown-root ratio will be'),
+ 'q04_gul_extr': ('gul', 'the only problem encountered may be prevention of root-filling material extrusion when resorption is present at the canal foramen'),
+ 'q04_gul_cone': ('gul', 'This could be minimised by customizing the master gutta-percha cone (see Chapter 8) or delaying root filling until complete bone healing has been achieved'),
+ 'q04_gul_longca': ('gul', 'Long-term dressing with calcium hydroxide is indicated in case of extensive resorption'),
+ 'q04_gul_cause': ('gul', 'Management consists of removal of the cause which arrests the resorption'),
+ 'q04_ing_suspect': ('ing', 'infection-related root resorption caused by necrotic and infected pulp tissue should be suspected'),
+ 'q04_gr5_tx': ('q04_gr5', 'If external resorption is caused by extension of pulpal disease into the supporting tissues, root canal therapy will usually stop the resorptive process'),
+ 'q04_gr5_ortho': ('q04_gr5', 'External resorption produced by excessive forces from orthodontic appliances can be stopped by reducing those forces'),
+ # prognosis
+ 'q04_sel_success': ('sel', 'an extremely high success rate can be expected'),
+ 'q04_sik_resolve': ('sik', 'after the root canal treatment the resorption gets resolved or do not progress'),
+ 'q04_ing_dentin': ('ing', 'Dentin lost through resorption cannot be replaced with new dentin'),
+ 'q04_gr5_prog': ('q04_gr5', 'The prognosis of a tooth with external resorption is guarded'),
+ 'q04_gr5_weak': ('q04_gr5', 'it may leave a weak tooth unable to sustain functional forces'),
+}
