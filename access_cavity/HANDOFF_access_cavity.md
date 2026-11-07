@@ -20,3 +20,6 @@ Open points
 - Resistance and retention triads not drafted.
 - Root canal anatomy: already FINAL (12 answers, 30 Oct); not redone.
 - Not done: Answer Bank publish (WORKFLOW Rule 7), vault and OneDrive copies, WORKFLOW.md claim row.
+
+
+UPDATE 2026-11-07: C3 and P1-P3 published to the Answer Bank site (manifest 547 -> 551, 0 lost). All 8 answers are now on https://mds-answer-bank.pages.dev under Endodontics / Access Cavity Preparation.
