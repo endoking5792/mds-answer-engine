@@ -3,27 +3,30 @@
 **Marks:** 10m, Short Essay
 **Sitting:** 24-9-2024 (ABS PII). Repeats absorbed: "Cervical Root Resorption." 5m Oct 2016 and "Cervical root resorption." 5m Oct 2017 (PIII 16-21); "External cervical resorption." 10m Oct 2012 (PIII 07-15); "Diagnosis and the management of Invasive cervical resorption." 10m Jun 2016 (PIII 07-15); "Management of cervical resorption" 7m Jul 2016 (RG PIII RS-3); "Invasive cervical root resorption" 10m Jul/Aug 2023 (NU PII); "Invasive cervical root resorption." 10m Jun 2023 and 7m Jun 2017 (Manipal); "Invasive Cervical Resorption." 7m Jun 2018 (Manipal).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 380 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Because several repeats ask for diagnosis, the exam core carries a short diagnosis block; the full internal-versus-cervical comparison is in P1. Q01 (100m) places ECR in the overall classification of root resorption.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 398 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Because several repeats ask for diagnosis, the exam core carries a short diagnosis block; the full internal-versus-cervical comparison is in P1. Q01 (100m) places ECR in the overall classification of root resorption.
 
-**Retrieval report.** I read these chapters in full: Cohen's 12e Ch.18 (Patel, Durack, Ricucci and Bakhsh; cited as Patel et al, 2021); Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland, 2019; Heithersay is a co-author, and the classification figure and the treatment cases are his); Gulabivala and Ng 4e Ch.11 (2014); Endodontology Ch.42 (Baumann and Beer, 2010); Seltzer and Bender 2e Ch.17 (Levin, 2012); Sikri 2e Ch.27 (2019). Cohen's Table 18.1 (Patel's 3D classification) has only its title in the extracted file, so its grades are not given here. Intentional replantation for ECR is not described in any chapter read, so it is [RECALL]. I tried a live search for Patel's 3D classification paper, but the full-text hosts would not open, so no [LIT] is cited. No critical synthesis (10 marks).
+**Retrieval report.** I read these chapters in full: Cohen's 12e Ch.18 (Patel, Durack, Ricucci and Bakhsh; cited as Patel et al, 2021); Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland, 2019; Heithersay is a co-author, and the classification figure is reproduced from his 1999 papers); Gulabivala and Ng 4e Ch.11 (2014); Endodontology Ch.42 (Baumann and Beer, 2010); Seltzer and Bender 2e Ch.17 (Levin, 2012); Sikri 2e Ch.27 (2019). Cohen's Table 18.1 (Patel's 3D classification) has only its title in the extracted file, so its grades are not given here. Intentional replantation for ECR is not described in any chapter read, so it is [RECALL]. I tried a live search for Patel's 3D classification paper, but the full-text hosts would not open, so no [LIT] is cited. No critical synthesis (10 marks).
 
 
-<!--LOC: q03_c_term, q03_c_prefer, q03_c_site, q03_c_cej, q03_c_multi, q03_c_ortho, q03_c_trauma, q03_c_three, q03_c_prrs, q03_c_chance, q03_c_pink_rare, q03_c_bleed, q03_c_mottled, q03_c_cbct, q03_c_3d, q03_c_aims, q03_c_tca, q03_c_undermined, q03_c_biodentine, q03_c_gp, q03_c_internal, q03_c_internal_ind, q03_c_heith, q03_c_101, q03_c_success, q03_c_limit, q03_i_etiol, q03_i_257, q03_i_ortho, q03_i_bleach, q03_i_hyper, q03_i_channels, q03_i_pulp, q03_i_line, q03_i_cbct, q03_i_1999, q03_i_endo, q03_i_tca, q03_i_class3, q03_i_extr, q03_i_class4, q03_i_implant, q03_i_radicular, q03_g_plaque, q03_g_terms, q03_g_init, q03_g_factors, q03_g_sustain, q03_g_circ, q03_g_probe, q03_g_vital, q03_g_outline, q03_g_spare, q03_g_pulpectomy, q03_g_poor, q03_e_icr, q03_e_factors, q03_e_tca, q03_e_approach, q03_e_pocket, q03_e_extrude, q03_e_classIV, q03_e_untreated, q03_s_sub, q03_s_confusion, q03_s_fibro, q03_s_factors, q03_s_sulcus, q03_s_bleach4, q03_s_heat, q03_k_factors, q03_k_c1, q03_k_c2, q03_k_c3, q03_k_c4, q03_k_proximal, q03_k_transient, q03_k_ledermix, q03_k_class4, q03_k_caries, q03_k_burnout-->
+<!--LOC: q03_c_term, q03_c_prefer, q03_c_site, q03_c_cej, q03_c_multi, q03_c_ortho, q03_c_trauma, q03_c_three, q03_c_prrs, q03_c_chance, q03_c_pink_rare, q03_c_bleed, q03_c_mottled, q03_c_cbct, q03_c_3d, q03_c_aims, q03_c_tca, q03_c_undermined, q03_c_biodentine, q03_c_gp, q03_c_internal, q03_c_internal_ind, q03_c_heith, q03_c_101, q03_c_success, q03_c_limit, q03_i_etiol, q03_i_257, q03_i_ortho, q03_i_bleach, q03_i_hyper, q03_i_channels, q03_i_pulp, q03_i_line, q03_i_cbct, q03_i_1999, q03_i_endo, q03_i_tca, q03_i_class3, q03_i_extr, q03_i_class4, q03_i_implant, q03_i_radicular, q03_g_plaque, q03_g_terms, q03_g_init, q03_g_factors, q03_g_sustain, q03_g_circ, q03_g_probe, q03_g_vital, q03_g_outline, q03_g_spare, q03_g_pulpectomy, q03_g_poor, q03_e_icr, q03_e_factors, q03_e_tca, q03_e_approach, q03_e_pocket, q03_e_extrude, q03_e_classIV, q03_e_untreated, q03_s_sub, q03_s_confusion, q03_s_fibro, q03_s_factors, q03_s_sulcus, q03_s_bleach4, q03_s_heat, q03_k_factors, q03_k_c1, q03_k_c2, q03_k_c3, q03_k_c4, q03_k_proximal, q03_k_transient, q03_k_ledermix, q03_k_class4, q03_k_caries, q03_k_burnout, q03_k_precem, q03_k_colon, q03_g_cej10, q03_c_mavridou, q03_k_hard, q03_c_shift, q03_e_class3, q03_e_class3_tca, q03_k_c12, q03_c_small, q03_c_tca_after, q03_i_tca_then, q03_k_tca_after, q03_g_tca-->
 
 <!--REF: Patel2021, Andreasen2019, Gulabivala2014, Baumann2010, Levin2012, Sikri2019-->
 
 ## Explanation
 
-**One lesion, several names.** Cohen's authors prefer "external cervical resorption" (ECR) because the term says what the lesion is and where it sits. They list invasive cervical resorption as an older name (Patel et al, 2021) [SRC]. Ingle's and Endodontology keep "invasive cervical resorption" (Andreasen, Heithersay and Bakland, 2019; Baumann and Beer, 2010) [SRC]. Seltzer's uses "subepithelial inflammatory root resorption" and argues that the word "cervical" has caused misdiagnosis (Levin, 2012) [SRC]. Gulabivala files it as progressive external resorption sustained by subgingival plaque (Ng and Gulabivala, 2014) [SRC]. It starts just apical to the epithelial attachment, so after attachment loss it begins lower (Patel et al, 2021) [SRC]; Ingle's calls that form invasive radicular resorption (Andreasen, Heithersay and Bakland, 2019) [SRC]. The names describe one condition [Certain].
+**One lesion, several names.** Cohen's authors prefer "external cervical resorption" (ECR) because the term says what the lesion is and where it sits. They list invasive cervical resorption as an alternative name (Patel et al, 2021) [SRC]. Ingle's and Endodontology keep "invasive cervical resorption" (Andreasen, Heithersay and Bakland, 2019; Baumann and Beer, 2010) [SRC]. Seltzer's uses "subepithelial inflammatory root resorption" and argues that the word "cervical" has caused misdiagnosis (Levin, 2012) [SRC]. Gulabivala files it as progressive external resorption sustained by subgingival plaque (Ng and Gulabivala, 2014) [SRC]. It starts just apical to the epithelial attachment, so after attachment loss it begins lower (Patel et al, 2021) [SRC]; Ingle's calls that form invasive radicular resorption (Andreasen, Heithersay and Bakland, 2019) [SRC]. The names describe one condition [Certain].
 
-**The cause is disputed.** Gulabivala and Seltzer's treat ECR as inflammation kept going by bacteria in the sulcus (Ng and Gulabivala, 2014; Levin, 2012) [SRC]. Ingle's describes hyperplastic tissue from PDL precursor cells invading like a fibro-osseous lesion, a view Seltzer's records as the alternative (Andreasen, Heithersay and Bakland, 2019; Levin, 2012) [SRC]. Bacteria acting only in later stages would fit both [Guessing]. Cohen's describes three stages and a pericanalar resorption-resistant sheet shielding the pulp (Patel et al, 2021) [SRC], which explains normal sensibility until late [Likely].
+**The cause is disputed.** Gulabivala and Seltzer's treat ECR as inflammation kept going by bacteria in the sulcus (Ng and Gulabivala, 2014; Levin, 2012) [SRC]. Ingle's describes hyperplastic tissue from PDL precursor cells invading like a fibro-osseous lesion, a view Seltzer's records as the alternative (Andreasen, Heithersay and Bakland, 2019; Levin, 2012) [SRC]. Sikri describes injury to the precementum below the epithelial attachment, followed by colonisation of the damaged surface by hard tissue-resorbing cells (Sikri, 2019) [SRC]; Gulabivala adds that in 10% of the population dentine is not covered by cementum at the CEJ (Ng and Gulabivala, 2014) [SRC]. Bacteria acting only in later stages would fit both [Guessing]. Cohen's describes three stages and a pericanalar resorption-resistant sheet shielding the pulp (Patel et al, 2021) [SRC], which explains normal sensibility until late [Likely].
 
-**Aetiology figures differ by sample.** Ingle's 257-tooth series: orthodontics 21.2%, trauma 14%, bleaching alone 4.5% (Andreasen, Heithersay and Bakland, 2019) [SRC]; Cohen's 347-tooth CBCT series: orthodontics 45.7%, trauma 28.5%, 59% multifactorial (Patel et al, 2021) [SRC]. Do not combine them [Likely].
+**Aetiology figures differ by sample.** Ingle's reports a clinical study of 222 patients (257 teeth): orthodontics was the commonest single factor at 21.2%, then trauma 14%, and bleaching alone 4.5% (Andreasen, Heithersay and Bakland, 2019) [SRC]. Ingle's does not name the study's author in the text and its reference list is cut off in the file; it is commonly attributed to Heithersay, unverified [RECALL]. Cohen's reports Mavridou et al.'s study of 347 teeth, assessed by history, clinical examination, periapical radiographs and CBCT: 59% multifactorial, orthodontics the commonest factor at 45.7%, trauma 28.5% (Patel et al, 2021) [SRC]. Neither figure is the chapter authors' own series, and they should not be combined [Likely].
+
+**Diagnostic signs.** Sikri's comparison with subgingival caries gives a hard base on probing and profuse bleeding (Sikri, 2019) [SRC]. On a horizontally shifted (parallax) view the ECR defect moves relative to the canal (Patel et al, 2021) [SRC].
 
 **Limits.** Heithersay's classes, judged on 2D radiographs, hold only for proximal lesions (Patel et al, 2021; Sikri, 2019) [SRC]; Patel's 3D classification adds lesion height, circumferential spread and proximity to the canal (Patel et al, 2021) [SRC].
 
 **Where the books disagree on treatment.**
-- **TCA:** good results in classes I-II (Baumann and Beer, 2010); also class 3 with elective endodontics (Andreasen, Heithersay and Bakland, 2019) [SRC].
+- **TCA, which classes:** all the books that give a concentration give 90%. Endodontology quotes Heithersay's good results with TCA in classes I and II (Baumann and Beer, 2010) [SRC], but it also illustrates TCA in a class III lesion treated by an internal approach with elective endodontics (Baumann and Beer, 2010) [SRC], so this is a difference of emphasis, not a conflict. Ingle's uses TCA in class 3 followed by prophylactic endodontics (Andreasen, Heithersay and Bakland, 2019) [SRC]; Sikri's protocol table gives TCA for classes 1-2 and for class 3 with a Ledermix dressing (Sikri, 2019) [SRC]; Cohen's describes TCA within the flap approach for small class 1-2 lesions (Patel et al, 2021) [SRC].
+- **TCA, in what order:** Ingle's applies TCA first and then curettes (Andreasen, Heithersay and Bakland, 2019) [SRC]; Cohen's and Sikri apply it after the resorptive tissue has been removed (Patel et al, 2021; Sikri, 2019) [SRC]; Gulabivala uses it to make removal easier (Ng and Gulabivala, 2014) [SRC].
 - **Margins:** undermined enamel/dentine removed with a bur (Patel et al, 2021) versus spared for retention (Ng and Gulabivala, 2014) [SRC].
 - **Class 4:** no treatment (Ingle's, Gulabivala); review or extraction (Endodontology); MTA or Biodentine and monitoring (Sikri) [SRC].
 - **"Mostly transient"** (Sikri, 2019) [SRC] fits surface resorption, not the progressive lesion other books describe [Likely].
@@ -35,14 +38,14 @@
 
 **Predisposing factors:** orthodontics (commonest), trauma, intracoronal bleaching, dentoalveolar surgery, periodontal treatment, bare dentine at the CEJ, bruxism (Andreasen, Heithersay and Bakland, 2019; Levin, 2012; Sikri, 2019).
 
-**Pathogenesis.** Damaged precementum below the attachment → clastic colonisation → fibrovascular, later fibro-osseous, tissue encircling the canal via channels; predentine protects the pulp (Andreasen, Heithersay and Bakland, 2019).
+**Pathogenesis.** Damaged precementum below the attachment → clastic colonisation → fibrovascular, later fibro-osseous, tissue encircling the canal via channels; predentine protects the pulp (Andreasen, Heithersay and Bakland, 2019; Sikri, 2019).
 
 **Diagnosis**
 - Usually an asymptomatic chance radiographic finding; pulp vital.
 - Pink spot at the gingival margin (uncommon). A probe finds a cavity with a hard base that bleeds profusely.
 - Radiograph: irregular or mottled cervical radiolucency; canal outline intact through it; radiopaque line separating it from the pulp; shifts on an angled view.
 - CBCT shows the portal of entry and the true extent.
-- Differentiate from subgingival caries, internal resorption and cervical burnout (Sikri, 2019).
+- Differentiate from subgingival caries, internal resorption and cervical burnout (Patel et al, 2021; Ng and Gulabivala, 2014; Sikri, 2019).
 
 **Heithersay's classification (1999)**
 
@@ -58,10 +61,10 @@
 **Management.** Aims: excavate, inactivate, restore, monitor (Patel et al, 2021).
 1. **External repair:** raise a flap, curette under the microscope, restore with GIC, composite or Biodentine.
 2. **90% aqueous trichloroacetic acid:** coagulation necrosis; reaches channels instruments cannot.
-3. **Orthodontic extrusion:** supragingival margin, no persistent pocket.
+3. **Orthodontic extrusion:** supragingival margin, no persistent pocket (Baumann and Beer, 2010).
 4. **Internal approach** for a small, intraosseous entry point close to the pulp.
 5. **RCT** if the pulp is exposed; a GP point protects the canal during repair.
-6. **Class 4:** inform the patient and review, or extract and place an implant.
+6. **Class 4:** inform the patient and review, or extract and place an implant (Baumann and Beer, 2010).
 
 **Prognosis** (Heithersay, 101 teeth): classes 1-2 100%, class 3 77.8%, class 4 12.5% (Patel et al, 2021).
 
@@ -80,7 +83,7 @@
 - [DIAGRAM: Cross-section of the root at the lesion | lesion wrapping around the canal with the predentine layer intact | portal of entry, channels to the PDL, resorption-resistant sheet | explains why the pulp stays vital]
 
 ## COMMON EXAM MISTAKES
-- Calling the pink spot pathognomonic of internal resorption. In Cohen's it is rare in both conditions, and in Seltzer's it is a possible sign of either.
+- Calling the pink spot pathognomonic of internal resorption. In Cohen's it is rare in internal resorption and not very common in ECR either, and in Seltzer's it is a possible sign of either.
 - Starting RCT routinely in class 1-2 lesions; the pulp is usually not involved.
 - Classifying a buccal or lingual lesion on a periapical radiograph alone.
 - Mixing the two aetiology series (21.2% and 45.7% orthodontics) as if they were one figure.
@@ -172,6 +175,20 @@
 - Sikri, 2019, 27_27_Root_Resorption.md, PDF p.519 (printed p.498): "Class 4: Resorptive area filled with MTA/Biodentine and monitor; extraction and implant placement, if not responding"
 - Sikri, 2019, 27_27_Root_Resorption.md, PDF p.514 (printed p.493): "It is important to differentiate external cervical resorption and subgingival caries"
 - Sikri, 2019, 27_27_Root_Resorption.md, PDF p.515 (printed p.494): "should also be differentiated from cervical burnout"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "most importantly to an area of the cervical root surface (precementum) below the epithelial attachment"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "The damaged area of the root surface is then colonized by hard tissue-resorbing cells"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "In 10% of the population, dentine is not covered by cementum"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2317: "Mavridou et al.69 investigated the potential predisposing factors using a two-step approach"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.514 (printed p.493): "The base will feel hard"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2332: "In cases of ECR, the position of the resorptive defect moves relative to the root canal"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.355 (printed p.338): "resorptive lesion using an internal approach"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.355 (printed p.338): "After cleaning and shaping the root canal and applying TCA to inactivate the granulomatous tissue"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.519 (printed p.498): "Classes 1, 2: Topical application of 90% trichloracetic acid, curettage and glass ionomer cement restoration"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2334: "Small lesions have the most favorable outcome where typically the pulp is not involved"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2334: "Once the resorptive tissue has been removed, the cavity may be treated with a 90% aqueous solution of trichloroacetic acid"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.383 (printed p.431): "followed by curettage, endodontic treatment, if indicated, and restoration"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.514 (printed p.493): "Heithersay recommended use of topical application of 90% trichloroacetic acid after curettage of chronic resorptive defect"
+- Ng and Gulabivala, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.303 (printed p.294): "Its removal could be facilitated by topical application of 90% trichloracetic acid solution"
 
 **[LIT]** none: no live literature search was run for this answer.
 

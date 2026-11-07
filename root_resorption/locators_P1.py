@@ -81,4 +81,14 @@ L = {
  'p1_r_sens': ('p1_erd', 'sensitivity tests are normal, except in very advanced cases where the root canal is perforated'),
  'p1_r_misdx': ('p1_erd', 'Cervical root resorptions are often misdiagnosed as internal root resorption, especially if they are accessible by probing'),
  'p1_r_borders': ('p1_erd', 'have borders that are ill-defined and asymmetrical, with radiodensity variations within the lesion'),
+ # Added by second reader (2026-11-07)
+ 'p1_c_pink_more': ('coh', 'They may occur relatively more frequently in cases of ECR, but they are not very common with that resorption type, either'),
+ 'p1_k_nopink': ('sik', 'No pink spot'),
+ 'p1_k_ecrpink': ('sik', 'Present with pink spot'),
+ 'p1_c_irr_trace': ('coh', 'In cases of IRR, it should be possible to trace the outline of the root canal through the resorptive defect'),
+ 'p1_r_notrace': ('p1_erd', 'Therefore, the pulp chamber or root canal outline cannot be followed through the lesion'),
+ 'p1_r_coronal': ('p1_erd', 'In the coronal third of the root canal, internal resorption extending into dentin can exhibit the appearance of pink spot discoloration'),
+ 'p1_c_caoh': ('coh', 'the authors advocate the use of calcium hydroxide as an intracanal, antibacterial medicament'),
+ 'p1_e_coronal': ('edl', 'In the initial stage, the coronal portion of the pulp is totally or partially necrotic'),
+ 'p1_c_vaz_name': ('coh', 'In an ex vivo study, Vaz de Souza et al.113 compared the diagnostic efficacy'),
 }

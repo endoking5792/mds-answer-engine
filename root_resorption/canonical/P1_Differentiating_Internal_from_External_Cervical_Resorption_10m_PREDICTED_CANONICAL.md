@@ -3,12 +3,12 @@
 **Marks:** 10m, Short Essay
 **Sitting:** predicted; not set in any sitting in the repositories. Repeats absorbed: none.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 396 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The command word is DIFFERENTIATE, so the core is a comparison table followed by a short interpretive paragraph. Q03 covers Heithersay's classification and ECR treatment, and Q02 covers the management of internal resorption.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 394 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The command word is DIFFERENTIATE, so the core is a comparison table followed by a short interpretive paragraph. Q03 covers Heithersay's classification and ECR treatment, and Q02 covers the management of internal resorption.
 
 **Retrieval report.** I read these chapters in full: Cohen's 12e Ch.18 (Patel et al, 2021), mainly its ECR and IRR radiographic sections; Ingle's 7e Ch.15 (Andreasen, Heithersay and Bakland, 2019); Gulabivala and Ng 4e Ch.11 (2014); Endodontology Ch.42 (Baumann and Beer, 2010); Seltzer and Bender 2e Ch.17 (Levin, 2012), including its Box 17-1 of diagnostic features; Sikri 2e Ch.27 (2019), Tables 27.4-27.6; Endodontic Radiology 2e Ch.10 (Azarpazhooh, 2012; offset checked at three pages). Ch.10 has no CBCT content. All CBCT accuracy figures come from Cohen's, which reports the primary studies; I did not open those studies. No live search was run. No critical synthesis (10 marks).
 
 
-<!--LOC: p1_c_irr_def, p1_c_confused, p1_c_site, p1_c_vital_apical, p1_c_prrs, p1_c_pink_irr, p1_c_pink_ecr, p1_c_bleed, p1_c_gartner, p1_c_balloon, p1_c_many, p1_c_mottled_irr, p1_c_ecr_trace, p1_c_obscured, p1_c_multiple, p1_c_slob, p1_c_irr_stay, p1_c_vaz, p1_c_vaz1, p1_c_vaz2, p1_c_patel100, p1_c_perf, p1_c_irr_cbct, p1_c_irr_rct, p1_c_us, p1_c_thermo, p1_c_mta, p1_c_ecr_aims, p1_g_pink, p1_g_vital, p1_g_neg, p1_g_radio, p1_g_same, p1_g_ecr_outline, p1_g_probe, p1_g_ecr_vital, p1_e_only, p1_e_misdx, p1_e_centered, p1_e_moves, p1_e_pink, p1_e_sens, p1_s_pathog, p1_s_box_ecr, p1_s_crestal, p1_s_box_irr, p1_s_nobone, p1_s_bor, p1_s_running, p1_s_portal, p1_s_majority, p1_s_bleed, p1_s_fill, p1_k_pinkusual, p1_k_bleedpulp, p1_k_moves, p1_k_sharp, p1_r_oval, p1_r_origin, p1_r_pinkmore, p1_r_sens, p1_r_misdx, p1_r_borders-->
+<!--LOC: p1_c_irr_def, p1_c_confused, p1_c_site, p1_c_vital_apical, p1_c_prrs, p1_c_pink_irr, p1_c_pink_ecr, p1_c_bleed, p1_c_gartner, p1_c_balloon, p1_c_many, p1_c_mottled_irr, p1_c_ecr_trace, p1_c_obscured, p1_c_multiple, p1_c_slob, p1_c_irr_stay, p1_c_vaz, p1_c_vaz1, p1_c_vaz2, p1_c_patel100, p1_c_perf, p1_c_irr_cbct, p1_c_irr_rct, p1_c_us, p1_c_thermo, p1_c_mta, p1_c_ecr_aims, p1_g_pink, p1_g_vital, p1_g_neg, p1_g_radio, p1_g_same, p1_g_ecr_outline, p1_g_probe, p1_g_ecr_vital, p1_e_only, p1_e_misdx, p1_e_centered, p1_e_moves, p1_e_pink, p1_e_sens, p1_s_pathog, p1_s_box_ecr, p1_s_crestal, p1_s_box_irr, p1_s_nobone, p1_s_bor, p1_s_running, p1_s_portal, p1_s_majority, p1_s_bleed, p1_s_fill, p1_k_pinkusual, p1_k_bleedpulp, p1_k_moves, p1_k_sharp, p1_r_oval, p1_r_origin, p1_r_pinkmore, p1_r_sens, p1_r_misdx, p1_r_borders, p1_c_pink_more, p1_k_nopink, p1_k_ecrpink, p1_c_irr_trace, p1_r_notrace, p1_r_coronal, p1_c_caoh, p1_e_coronal, p1_c_vaz_name-->
 
 <!--REF: Patel2021, Gulabivala2014, Baumann2010, Levin2012, Sikri2019, p1_Azarpazhooh2012-->
 
@@ -17,18 +17,21 @@
 **Why the two are confused.** Seltzer's says that most misdiagnoses of resorption are between these two lesions (Levin, 2012) [SRC]. Cohen's notes that IRR is often confused with ECR (Patel et al, 2021) [SRC]. Both lesions can occupy the cervical third and can sit over the canal on a periapical film.
 
 **Sensibility and the pink spot do not settle it.** IRR progresses only while the pulp apical to it is vital (Patel et al, 2021) [SRC]. So it usually tests positive, but the necrotic coronal pulp means a negative result does not exclude it (Ng and Gulabivala, 2014) [SRC]. ECR also tests normal until late (Azarpazhooh, 2012) [SRC]. Endodontology therefore expects a positive test in both (Baumann and Beer, 2010) [SRC]. The books disagree on the pink spot:
-- Cohen's: rare in IRR and not common in ECR (Patel et al, 2021) [SRC].
-- Azarpazhooh: more common in ECR (Azarpazhooh, 2012) [SRC].
+- Cohen's: rare in IRR; relatively more frequent in ECR, though not very common there either (Patel et al, 2021) [SRC].
+- Azarpazhooh: can appear with coronal-third IRR, but more common in ECR (Azarpazhooh, 2012) [SRC]. On relative frequency Cohen's and Azarpazhooh agree.
+- Endodontology: a feature of both (Baumann and Beer, 2010) [SRC]. Gulabivala: in IRR when the lesion is in the pulp chamber (Ng and Gulabivala, 2014) [SRC].
 - Seltzer's: the old "pathognomonic of IRR" view is wrong, because the spot can occur with either (Levin, 2012) [SRC].
 - Sikri: a "usual sign" of internal resorption (Sikri, 2019) [SRC].
 
-Sikri's position is the outlier [Likely].
+Sikri's Table 27.6 is the outlier: it gives a pink spot as usual in internal resorption and "No pink spot" for external resorption (Sikri, 2019) [SRC], yet Sikri's own ECR tables list a pink spot as a sign of ECR (Sikri, 2019) [SRC]. Sikri is therefore inconsistent within the chapter [Certain]; Table 27.6 probably refers to external resorption in general rather than to ECR [Guessing].
 
-**Radiographic signs and their limits.** Gartner's description (uniform, smooth, symmetrical, ballooned canal) is the classic picture, but many IRR lesions do not show it (Patel et al, 2021) [SRC]. Tracing the canal wall can fail in three ways: calcified tissue hides it, a perforating ECR joins the canal, or a second canal is superimposed on the defect (Patel et al, 2021) [SRC]. The parallax shift is the strongest 2D test [Likely]. An internal lesion stays centred on the canal. An external one moves, and the buccal object rule then tells buccal from palatal (Levin, 2012) [SRC].
+**Radiographic signs and their limits.** Gartner's description (uniform, smooth, symmetrical, ballooned canal) is the classic picture, but many IRR lesions do not show it (Patel et al, 2021) [SRC]. Cohen's is inconsistent on tracing: one passage says the IRR canal outline should be traceable through the defect (Patel et al, 2021) [SRC], while its later IRR section, Gulabivala and Azarpazhooh say it cannot be followed through the lesion (Patel et al, 2021; Ng and Gulabivala, 2014; Azarpazhooh, 2012) [SRC]. The second reading fits the ballooned, distorted canal the other books describe, so the exam core uses it [Likely]. Tracing the canal wall can fail in three ways: calcified tissue hides it, a perforating ECR joins the canal, or a second canal is superimposed on the defect (Patel et al, 2021) [SRC]. The parallax shift is the strongest 2D test [Likely]. An internal lesion stays centred on the canal. An external one moves, and the buccal object rule then tells buccal from palatal (Levin, 2012) [SRC].
 
 **CBCT evidence.** Two kinds of study are reported, and they should be quoted separately [Likely]:
-- **Ex vivo, simulated ECR:** CBCT located the affected surface in 88-89% of cases against 49% for periapicals, and Heithersay class was correct in 70-71% against 32% (Patel et al, 2021) [SRC].
-- **Clinical:** a single study found CBCT 100% accurate in telling IRR from ECR (Patel et al, 2021) [SRC].
+- **Ex vivo, simulated ECR** (Vaz de Souza et al., as reported in Cohen's): CBCT located the affected surface in 88-89% of cases against 49% for periapicals, and Heithersay class was correct in 70-71% against 32% (Patel et al, 2021) [SRC].
+- **Clinical** (Patel et al., as reported in Cohen's): a single study found CBCT 100% accurate in telling IRR from ECR (Patel et al, 2021) [SRC].
+
+**Probing.** Azarpazhooh notes that ECR is often misdiagnosed as IRR, especially when it can be probed (Azarpazhooh, 2012) [SRC]; no book read states the IRR probing finding directly, so "no defect" in the exam table is an inference from its intracanal origin [Likely].
 
 **Checks during treatment.** If bleeding persists to the second visit, or the canal cannot be filled from inside, the lesion is external (Levin, 2012) [SRC]. Mistaking ECR for IRR leads to RCT, which does not treat the external portal of entry [Likely].
 
@@ -38,7 +41,7 @@ Sikri's position is the outlier [Likely].
 
 | Feature | Internal root resorption | External cervical resorption |
 |---|---|---|
-| Origin | Pulpal clastic cells; vital pulp apical to the lesion, necrotic pulp coronal to it | PDL-derived tissue entering below the attachment |
+| Origin | Pulpal clastic cells; vital pulp apical to the lesion, coronal pulp often necrotic | PDL-derived tissue entering below the attachment |
 | Site | Anywhere along the canal | At the attachment level, usually cervical |
 | Sensibility | Usually positive; a negative result does not exclude IRR | Normal until advanced |
 | Pink spot | Possible (pulp chamber lesions) | Possible; commoner (Azarpazhooh, 2012) |
@@ -47,7 +50,7 @@ Sikri's position is the outlier [Likely].
 | Canal wall | Balloons out; the canal cannot be traced through the lesion | Intact canal outline "runs through" the lesion |
 | Bone | No bony defect unless perforated | Crestal or angular bone defect |
 | Parallax (SLOB) | Stays centred on the canal | Moves: same direction if lingual, opposite if buccal |
-| CBCT | Lesion continuous with the canal; shows any perforation | Shows the portal of entry, the circumferential spread and the intact predentine layer |
+| CBCT | Lesion continuous with the canal; shows any perforation | Shows the portal of entry, the circumferential spread and any canal perforation |
 
 (Patel et al, 2021; Ng and Gulabivala, 2014; Levin, 2012; Sikri, 2019)
 
@@ -150,6 +153,15 @@ Sikri's position is the outlier [Likely].
 - Azarpazhooh, 2012, 10_10_Radiographic_Analysis_of_Acquired_Pathological_Denta, PDF p.181 (printed p.161): "sensitivity tests are normal, except in very advanced cases where the root canal is perforated"
 - Azarpazhooh, 2012, 10_10_Radiographic_Analysis_of_Acquired_Pathological_Denta, PDF p.181 (printed p.161): "Cervical root resorptions are often misdiagnosed as internal root resorption, especially if they are accessible by probing"
 - Azarpazhooh, 2012, 10_10_Radiographic_Analysis_of_Acquired_Pathological_Denta, PDF p.181 (printed p.161): "have borders that are ill-defined and asymmetrical, with radiodensity variations within the lesion"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2339: "They may occur relatively more frequently in cases of ECR, but they are not very common with that resorption type, either"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.519 (printed p.498): "No pink spot"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.514 (printed p.493): "Present with pink spot"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2332: "In cases of IRR, it should be possible to trace the outline of the root canal through the resorptive defect"
+- Azarpazhooh, 2012, 10_10_Radiographic_Analysis_of_Acquired_Pathological_Denta, PDF p.178 (printed p.158): "Therefore, the pulp chamber or root canal outline cannot be followed through the lesion"
+- Azarpazhooh, 2012, 10_10_Radiographic_Analysis_of_Acquired_Pathological_Denta, PDF p.178 (printed p.158): "In the coronal third of the root canal, internal resorption extending into dentin can exhibit the appearance of pink spot discoloration"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2347: "the authors advocate the use of calcium hydroxide as an intracanal, antibacterial medicament"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.350 (printed p.333): "In the initial stage, the coronal portion of the pulp is totally or partially necrotic"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2332: "In an ex vivo study, Vaz de Souza et al.113 compared the diagnostic efficacy"
 
 **[LIT]** none: no live literature search was run for this answer.
 
