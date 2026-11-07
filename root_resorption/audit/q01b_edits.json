@@ -1,0 +1,198 @@
+{
+ "edits": [
+  {
+   "old": "Ng and Gulabivala note that in 10% of people dentine is not covered by cementum at the CEJ (Ng and Gulabivala, 2014) [SRC].",
+   "new": "Ng and Gulabivala note that in 10% of people dentine is not covered by cementum at the CEJ (Ng and Gulabivala, 2014) [SRC], and add subgingival scaling and root planing, orthognathic and dentoalveolar surgery and internal bleaching (Ng and Gulabivala, 2014) [SRC]; Levin lists trauma, orthodontics, intracoronal bleaching, dentoalveolar surgery and periodontal disease or treatment (Levin, 2012) [SRC]. Cohen's list (Mavridou) does not include bleaching or periodontal treatment.",
+   "why": "#1 (explanation only, 0 exam-core words)"
+  },
+  {
+   "old": "poor oral hygiene, CEJ gap (Patel et al, 2021; Andreasen, Heithersay and Bakland, 2019).",
+   "new": "poor oral hygiene, CEJ gap (Patel et al, 2021; Andreasen, Heithersay and Bakland, 2019; Levin, 2012; Ng and Gulabivala, 2014).",
+   "why": "#1 (exam core +6 words)"
+  },
+  {
+   "old": "Endodontology suggests leaving class IV untreated with informed consent, as progress without infection seems slow (Baumann and Beer, 2010) [SRC].",
+   "new": "Endodontology records Trope's recommendation of extraction and implant or bridge for class IV and offers, as an alternative, leaving it untreated with the patient informed, as progress without infection seems slow (Baumann and Beer, 2010) [SRC]; it also suggests orthodontic extrusion before treatment to give a supragingival margin (Baumann and Beer, 2010) [SRC]. Ingle's says no treatment can be generally recommended for class 4 (Andreasen, Heithersay and Bakland, 2019) [SRC].",
+   "why": "#2 (explanation only)"
+  },
+  {
+   "old": "class 4: monitor or extract and replace. Success:",
+   "new": "class 4: monitor or extract and replace (Baumann and Beer, 2010; Andreasen, Heithersay and Bakland, 2019). Success:",
+   "why": "#2 (exam core +9 words)"
+  },
+  {
+   "old": "Bender et al (1997) called orthodontic resorption \"periapical replacement resorption\" and suggested pulpal neuropeptides are involved (Ng and Gulabivala, 2014) [SRC];",
+   "new": "Bender et al (1997) called orthodontic resorption \"periapical replacement resorption\"; Ng and Gulabivala report that they suggested pulpal inflammation might be involved (Ng and Gulabivala, 2014) [SRC], Levin that pulp neuropeptides may be (Levin, 2012) [SRC];",
+   "why": "#3 (explanation only)"
+  },
+  {
+   "old": "Removing the cause arrests it (Ng and Gulabivala, 2014; Baumann and Beer, 2010) [SRC].",
+   "new": "Removing the cause arrests it (Ng and Gulabivala, 2014; Baumann and Beer, 2010) [SRC]. Ingle's gives the ectopic canine resorbing the lateral incisor, which needs no root canal treatment once the cause is removed (Andreasen, Heithersay and Bakland, 2019) [SRC]; Endodontology illustrates a second molar resorbed \"probably due to longstanding pressure from a third molar\" (Baumann and Beer, 2010) [SRC].",
+   "why": "#4 (explanation only)"
+  },
+  {
+   "old": "IL1B gene polymorphism (5.6-fold risk), maxillary incisors.",
+   "new": "IL1B gene polymorphism (5.6-fold risk); maxillary anterior teeth most affected (Sikri, 2019).",
+   "why": "#5 (exam core +4 words)"
+  },
+  {
+   "old": "IL1B allele 1 homozygotes have a 5.6-fold risk (Levin, 2012) [SRC].",
+   "new": "IL1B allele 1 homozygotes have a 5.6-fold risk (Levin, 2012) [SRC]. Sikri notes that orthodontic resorption frequently occurs in maxillary anterior teeth (Sikri, 2019) [SRC].",
+   "why": "#5 (explanation only)"
+  },
+  {
+   "old": "carbamide peroxide is suggested as an alternative and follow-up is mandatory (Levin, 2012) [SRC].",
+   "new": "a recall of 95 previously traumatised teeth bleached with sodium perborate in water showed none (Levin, 2012) [SRC]; because of complications with hydrogen peroxide \"and occasionally sodium perborate\", 10-37% carbamide peroxide is suggested as an alternative, though without clinical efficacy data, and follow-up is mandatory (Levin, 2012) [SRC]. A cervical barrier over the root filling before bleaching is commonly advised [RECALL]; none of the chapters read gives it.",
+   "why": "#6 (explanation only)"
+  },
+  {
+   "old": "prefer sodium perborate or carbamide peroxide, place a cervical barrier, avoid heat, review for years (Levin, 2012).",
+   "new": "avoid heat; carbamide peroxide is a suggested alternative (sodium perborate in water caused none in one follow-up); review for years (Levin, 2012); place a cervical barrier.",
+   "why": "#6 (exam core +9 words)"
+  },
+  {
+   "old": "Sikri defines multiple idiopathic cervical resorption as at least three teeth and calls the feline virus link undocumented (Sikri, 2019) [SRC].",
+   "new": "Sikri defines multiple idiopathic cervical resorption as at least three teeth and calls the feline virus link undocumented (Sikri, 2019) [SRC]. Ingle's gives the prognosis of multiple invasive cervical resorption as poor because of the aggressive cells (Andreasen, Heithersay and Bakland, 2019) [SRC].",
+   "why": "#7 (explanation only)"
+  },
+  {
+   "old": "Uniform density, smooth outline, symmetrical (Gartner et al, cited by Patel et al, 2021) [SRC];",
+   "new": "Uniform density, smooth outline, symmetrical (Gartner et al, cited by Patel et al, 2021) [SRC], though Cohen's adds that many cases do not show these features (Patel et al, 2021) [SRC];",
+   "why": "#8 (explanation only)"
+  },
+  {
+   "old": "in Patel et al's clinical study CBCT was 100% accurate in diagnosing presence and type, better than periapicals (Patel et al, 2021) [SRC].",
+   "new": "in Patel et al's clinical study CBCT was 100% accurate in diagnosing presence and type, better than periapicals (Patel et al, 2021) [SRC]. A small (limited) field of view is usually chosen to keep the dose down [RECALL].",
+   "why": "#9 (explanation only)"
+  },
+  {
+   "old": "EIR has a good prognosis if treated early (Ng and Gulabivala, 2014) [SRC];",
+   "new": "EIR's prognosis is \"generally good\" (Ng and Gulabivala, 2014) [SRC] and better the earlier it is diagnosed and treated (Patel et al, 2021) [SRC];",
+   "why": "#10 (explanation only)"
+  },
+  {
+   "old": "ECR repairs need monitoring for recurrence (Patel et al, 2021). Persistence of resorption on recall after internal treatment should prompt the thought that an external lesion was misdiagnosed (Levin, 2012). [Certain]",
+   "new": "ECR repairs need monitoring for recurrence (Patel et al, 2021) [SRC]. Persistence of resorption on recall after internal treatment should prompt the thought that an external lesion was misdiagnosed (Levin, 2012) [SRC].",
+   "why": "#11 (explanation only)"
+  },
+  {
+   "old": "Do not present any one scheme as the accepted standard.",
+   "new": "Do not present any one scheme as the accepted standard. [Likely]",
+   "why": "#12 (synthesis, not exam core)"
+  },
+  {
+   "old": "Ng and Gulabivala: present in internal resorption of the pulp chamber and in cervical resorption (Ng and Gulabivala, 2014) [SRC].",
+   "new": "Ng and Gulabivala: present in internal resorption of the pulp chamber and in cervical resorption (Ng and Gulabivala, 2014) [SRC]. Ingle's describes pink discoloration as an early sign of invasive cervical resorption and does not discuss it for internal resorption (Andreasen, Heithersay and Bakland, 2019) [SRC].",
+   "why": "#13 (synthesis)"
+  },
+  {
+   "old": "All agree that inflammatory (apical/lateral) EIR does not cause it, because the pulp is non-vital (Levin, 2012) [SRC].",
+   "new": "Levin states that apical and lateral EIR does not cause it, because the pulp is non-vital (Levin, 2012) [SRC]; no book says otherwise.",
+   "why": "#13 (synthesis)"
+  },
+  {
+   "old": "*Evidence vs interpretation:* the books give no prevalence figures; Cohen's statement is based on the authors' review series, Sikri's table on traditional teaching. [Likely]",
+   "new": "*Evidence vs interpretation:* the books give no prevalence figures, and neither Cohen's nor Sikri states what its position rests on. [Certain]",
+   "why": "#14 (synthesis)"
+  },
+  {
+   "old": "Sikri adds calcitonin and acetazolamide without supporting data (Sikri, 2019) [SRC].",
+   "new": "Sikri says Ledermix has been effective in controlling external inflammatory resorption and lists \"Ledermix paste or calcium hydroxide\" as alternatives in its management table (Sikri, 2019) [SRC], and adds calcitonin and acetazolamide without supporting data (Sikri, 2019) [SRC]. Cohen's, Levin, Ng and Gulabivala and Endodontology do not mention corticosteroid dressings in these chapters; Cohen's says long-term calcium hydroxide \"may be beneficial\" in established EIR and that the specific canal protocol is irrelevant as long as the biologic objectives are met (Patel et al, 2021) [SRC].",
+   "why": "#15 (synthesis)"
+  },
+  {
+   "old": "Ingle's reports that a corticosteroid-tetracycline paste (Ledermix) was the most promising medicament in an experimental dog study, its corticosteroid part having the most effect,",
+   "new": "Ingle's calls a tetracycline-cortisone paste (Ledermix) \"the most promising medication\" topically, and in an experimental dog study its cortisone part had the most effect on osteoclast attack,",
+   "why": "#16 (synthesis)"
+  },
+  {
+   "old": "Ledermix is a reasonable first dressing after trauma, especially where its anti-inflammatory action is wanted, but it is not proven better than calcium hydroxide in patients.",
+   "new": "Ledermix is a reasonable first dressing after trauma (supported by Ingle's and Sikri), but none of the books shows it is better than calcium hydroxide in patients. [Likely]",
+   "why": "#15 (synthesis)"
+  },
+  {
+   "old": "On arrest, Ingle's and Endodontology say nothing arrests it and calcium hydroxide may slow or even accelerate it (Andreasen, Heithersay and Bakland, 2019; Baumann and Beer, 2010) [SRC]; Sikri reports fluoride solutions as effective in decreasing it (Sikri, 2019) [SRC];",
+   "new": "On arrest, Ingle's, Endodontology, Ng and Gulabivala and Sikri all say it cannot be arrested or treated (Andreasen, Heithersay and Bakland, 2019; Baumann and Beer, 2010; Ng and Gulabivala, 2014; Sikri, 2019) [SRC]; only Ingle's adds that endodontic intervention and calcium hydroxide may slow it but risk accelerating it (Andreasen, Heithersay and Bakland, 2019) [SRC]; Sikri nonetheless reports fluoride solutions as effective in decreasing it (Sikri, 2019) [SRC];",
+   "why": "#17 (synthesis)"
+  },
+  {
+   "old": "*Strength:* the thresholds come from animal replantation experiments reported second-hand; the books do not reconcile a percentage with an area.",
+   "new": "*Strength:* the books give the thresholds without the underlying study designs (Endodontology cites Tronstad, 1988) (Baumann and Beer, 2010) [SRC], and they do not reconcile a percentage with an area.",
+   "why": "#18 (synthesis)"
+  },
+  {
+   "old": "- Pink spot occurs in both internal and cervical resorption and is rare in each.",
+   "new": "- Pink spot can occur in both internal and cervical resorption; Cohen's calls it rare in each, Sikri \"a usual sign\" of internal resorption.",
+   "why": "#19 (high-yield, not exam core)"
+  },
+  {
+   "old": "it occurs in cervical resorption too and is uncommon in both.",
+   "new": "it occurs in cervical resorption too, and Cohen's finds it uncommon in both.",
+   "why": "#19 (mistakes, not exam core)"
+  },
+  {
+   "old": "q01_a_nonrigid-->",
+   "new": "q01_a_nonrigid, q01_b_gulecr, q01_b_selecrfac, q01_b_neuro, q01_b_maxant, q01_b_3rdmolar, q01_b_perborate, q01_b_mpoor, q01_b_gulpinkecr, q01_b_irrelevant, q01_b_sikarrest, q01_b_eirearly, q01_b_manydonot, q01_b_siktab, q01_b_protoc-->",
+   "why": "adds new q01_b_ locators"
+  }
+ ],
+ "new_locators": {
+  "q01_b_gulecr": [
+   "gul",
+   "subgingival scaling and root planing, orthognathic and dentoalveolar surgery"
+  ],
+  "q01_b_selecrfac": [
+   "sel",
+   "trauma, orthodontics, intracoronal bleaching, dentoalveolar surgery, and periodontal disease or treatment"
+  ],
+  "q01_b_neuro": [
+   "sel",
+   "suggesting that pulp neuropeptides may be involved in periapical replacement resorption"
+  ],
+  "q01_b_maxant": [
+   "sik",
+   "Root resorption associated with orthodontic movement pressure frequently occur in maxillary anterior teeth"
+  ],
+  "q01_b_3rdmolar": [
+   "edl",
+   "probably due to longstanding pressure from a third molar"
+  ],
+  "q01_b_perborate": [
+   "sel",
+   "did not reveal any evidence of cervical root resorption with the use of sodium perborate in water"
+  ],
+  "q01_b_mpoor": [
+   "ing",
+   "the prognosis for successful management is poor"
+  ],
+  "q01_b_gulpinkecr": [
+   "gul",
+   "A pink spot will be present when the inflammatory tissue undermines the enamel of the crown"
+  ],
+  "q01_b_irrelevant": [
+   "coh",
+   "the specific root canal protocol used is irrelevant, as long as the biologic objectives are met"
+  ],
+  "q01_b_sikarrest": [
+   "sik",
+   "replacement resorption cannot be arrested or repaired"
+  ],
+  "q01_b_eirearly": [
+   "coh",
+   "The earlier the resorption is diagnosed and treated, the better the prognosis is for the affected tooth"
+  ],
+  "q01_b_manydonot": [
+   "coh",
+   "Although certain cases of IRR may have some or all of these radiographic features, many do not"
+  ],
+  "q01_b_siktab": [
+   "sik",
+   "Root canal treatment with intracanal medication with Ledermix paste or calcium hydroxide"
+  ],
+  "q01_b_protoc": [
+   "coh",
+   "Long-term dressing of the root canal with calcium hydroxide may be beneficial in the treatment of established EIR"
+  ]
+ },
+ "remove_locators": []
+}
