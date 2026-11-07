@@ -12,6 +12,8 @@
 
 <!--REF: ps_AAE2012, ps_Berman2021, ps_Lin2021, ps_Gopikrishna2021, ps_Ricucci2019, ps_Sedgley2021, ps_Sikri2019, ps_Chandler2017, ps_Rotstein2017, ps_Gutmann2011, ps_Weine2004, ps_Sigurdsson2017, ps_Lai2012, ps_Sikri2019b, ps_Blicher2021, ps_Kishen2012, ps_Landwehr2021, ps_Chandler2017b, ps_RotsteinSimon2012-->
 
+<!--LIT: lit_SlutzkyGoldberg2009-->
+
 ## 1. Definition and terminology
 
 ### Explanation
@@ -38,7 +40,7 @@ The sinus tract is the defining sign of the chronic apical abscess: gradual onse
 
 ### Explanation
 
-The opening is usually opposite the root apex on the labial or buccal mucosa (Gopikrishna, 2021) [SRC]. Intraoral stomata open in the alveolar mucosa, attached gingiva, furcation or gingival crevice (Berman and Rotstein, 2021) [SRC], facially or lingually according to the nearest cortical plate (Berman and Rotstein, 2021) [SRC]: labially in the maxilla because the plate is thinner (Gopikrishna, 2021) [SRC], palatally from upper lateral incisors and palatal roots (Gopikrishna, 2021) [SRC]. Drainage via an isolated pocket also occurs (Sedgley, Silva and Fouad, 2021) [SRC], producing a narrow pseudopocket that mimics a periodontal pocket or a vertical root fracture (Lin and Huang, 2021) [SRC]. The stoma may be adjacent to or distant from the source (Berman and Rotstein, 2021) [SRC], even several teeth away (Gopikrishna, 2021) [SRC]. In the series of Slutzky-Goldberg et al, as reported by Sikri, orifices were buccal in 82.4% and lingual or palatal in 12.0% (Sikri, 2019) [SRC]; the same passage gives 63.1% maxillary and 38.9% mandibular origin (Sikri, 2019) [SRC], which sums to 102%, so one figure is probably misprinted [Likely].
+The opening is usually opposite the root apex on the labial or buccal mucosa (Gopikrishna, 2021) [SRC]. Intraoral stomata open in the alveolar mucosa, attached gingiva, furcation or gingival crevice (Berman and Rotstein, 2021) [SRC], facially or lingually according to the nearest cortical plate (Berman and Rotstein, 2021) [SRC]: labially in the maxilla because the plate is thinner (Gopikrishna, 2021) [SRC], palatally from upper lateral incisors and palatal roots (Gopikrishna, 2021) [SRC]. Drainage via an isolated pocket also occurs (Sedgley, Silva and Fouad, 2021) [SRC], producing a narrow pseudopocket that mimics a periodontal pocket or a vertical root fracture (Lin and Huang, 2021) [SRC]. The stoma may be adjacent to or distant from the source (Berman and Rotstein, 2021) [SRC], even several teeth away (Gopikrishna, 2021) [SRC]. In the series of Slutzky-Goldberg et al, as reported by Sikri, orifices were buccal in 82.4% and lingual or palatal in 12.0% (Sikri, 2019) [SRC]; the same passage gives 63.1% maxillary and 38.9% mandibular origin (Sikri, 2019) [SRC], which sums to 102%. The PubMed abstract of the original cohort (1,119 referred patients, 108 with sinus tracts) prints the same 63.1% and 38.9%, so the 102% is in the source itself and Sikri copied it faithfully; the abstract confirms buccal 82.4% and lingual or palatal 12.0%, chronic periapical abscess as the commonest origin (71.0%), broken restorations in 53.0%, and lingual orifices in mandibular molars (Slutzky-Goldberg et al, 2009) [LIT]. Which of the two jaw figures is wrong cannot be told from the abstract. [Certain that the abstract sums to 102%]
 
 Extraoral (cutaneous) tracts open on the skin of the face (Berman and Rotstein, 2021) [SRC]: near the symphysis from lower anteriors (Gopikrishna, 2021) [SRC] and along the inferior border of the mandible from molars (Gopikrishna, 2021) [SRC]; Sikri gives chin and cheek, with 80% from mandibular teeth (Sikri, 2019) [SRC]. Sedgley, Silva and Fouad call this rare, occurring when the tract passes beyond the insertion of the facial muscles (Sedgley, Silva and Fouad, 2021) [SRC].
 
@@ -225,7 +227,8 @@ The tract usually disappears once the cause is removed (American Association of 
 - Sikri, 2019, 07_7_Rationale_of_Endodontic_Treatment.md, PDF p.108 (printed p.87): "require no special therapy because they heal after appropriate endodontic therapy"
 - Sikri, 2019, 07_7_Rationale_of_Endodontic_Treatment.md, PDF p.108 (printed p.87): "A fibrosis of the sinus tract trajectory is not uncommon, mainly in the older sinus tract"
 
-**[LIT]** none: no live literature search was used for this answer.
+**[LIT]** opened this session (abstract or full text as stated):
+- Slutzky-Goldberg I, Tsesis I, Slutzky H, Heling I. Odontogenic sinus tracts: a cohort study. Quintessence Int. 2009;40(1):13-18. PMID 19159019 (PubMed abstract read; no DOI in PubMed).
 
 ## REFERENCES (alphabetical)
 - American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012 (the file is the 2012 edition).
@@ -246,4 +249,5 @@ The tract usually disappears once the cause is removed (American Association of 
 - Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.
 - Sikri VK. Diseases of periradicular tissues. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.6 (CBS Publishers; second eBook edition 2019, confirmed from the front matter).
 - Sikri VK. Rationale of endodontic treatment. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.7.
+- Slutzky-Goldberg I, Tsesis I, Slutzky H, Heling I. Odontogenic sinus tracts: a cohort study. Quintessence Int. 2009;40(1):13-18. PMID 19159019 (PubMed abstract read; no DOI in PubMed).
 - Weine FS. Diagnosis and treatment planning. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.2.

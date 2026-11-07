@@ -3,13 +3,15 @@
 **Marks:** 10m, Short Essay
 **Sitting:** 21-Nov-2024 (RG PII RS-5). Repeats absorbed: none.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 387 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Fuller crack diagnosis is in `cracked_tooth/canonical/Q01` and `Q08`; this answer stands alone.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 386 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Fuller crack diagnosis is in `cracked_tooth/canonical/Q01` and `Q08`; this answer stands alone.
 
 **Retrieval report.** Grep "Tooth Slooth"/"FracFinder" (about 30 files) and "bite test". Read the bite-test passages in: Cohen's 12th Ch.1 (Berman and Rotstein, 2021) and Ch.22 (Berman and Tamse, 2021); Ingle's 7th Ch.8 (Abbott, 2019) and Ch.13 (Bakland, 2019) (author lines garbled in the files, decoded); Grossman's 14th Ch.7 (Gopikrishna, 2021); Harty's 7th Ch.3 (Chandler and Chong, 2017); Gulabivala and Ng 4th ed Ch.4 (2014); Gutmann and Lovdahl 5th ed Ch.1 (2011); Sikri 2nd ed Ch.9 (2019); Endodontology Ch.4 (Baumann and Beer, 2008); The Guidebook to Molar Endodontics Ch.2 (Witherspoon and Regan, 2025) and Ch.9 (Krishnan and Swain, 2025). Not used: Problems in Endodontics Ch.15 (OCR too damaged to quote). Sibling answers read for coverage only. Second-reader pass (2026-11-05): all bite-test passages re-read in context, including the Abbott and Leow figures; Harty's Ch.3 read in full (Chandler and Chong, 2017), Ch.5 cracked-teeth section (Duncan, Smith and Cooper, 2017) and Ch.14 checked (one line on cracked teeth, nothing on bite tests); offsets 16 confirmed. Ingle's author lines are letter-substituted in the files and decode consistently to Paul V. Abbott (Ch.8) and Leif K. Bakland (Ch.13). Live search: none. No critical synthesis (10 marks).
 
 <!--LOC: d1_i_leow, sn_c1_ts, sn_c1_ff, sn_c22_pyr, sn_gr7_pyr, sn_gr7_conc, sn_i8_flat, sn_c1_cup, sn_c1_bitewhen, sn_h_ind, sn_c1_bitediff, sn_c1_bitecusp, sn_i8_onecusp, sn_h_sep, sn_i13_fluid, sn_c1_ctrl, sn_g1_opp, sn_gb2_aware, sn_gb2_seq, sn_c1_slow, sn_c1_release, sn_c1_phase, sn_i13_filling, sn_c1_relpain, sn_i13_rebound, sn_gr7_cof, sn_sk_rel, sn_c22_either, sn_c22_cc, sn_gu_nonvital, sn_e_ts, sn_c1_devices, sn_i13_wheels, sn_gu_burlew, sn_gr7_cotton, sn_g1_stop, sn_i8_useful, sn_gb9_rep, sn_c22_hist, sn_c1_ti, sn_c1_dye, sn_gb9_none, sn_gb9_micro, sn_h_ff, sn_i13_denbur, sn_h5_wedge, sn_i8_opparch, sn_i8_notspec, sn_gu_either, sn_gb2_rel, sn_e_rel-->
 
 <!--REF: sn_Berman2021, sn_BermanTamse2021, sn_Abbott2019, sn_Bakland2019, sn_Gopikrishna2021, sn_Chandler2017, sn_Gulabivala2014, sn_Gutmann2011, sn_Sikri2019, sn_Baumann2008, sn_Witherspoon2025, sn_Krishnan2025, sn_Duncan2017-->
+
+<!--LIT: lit_AbbottLeow2009-->
 
 ## 1. Definition and design
 
@@ -56,7 +58,7 @@ Test adjacent and contralateral teeth first as controls (Berman and Rotstein, 20
 
 ### Explanation
 
-Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2021) [SRC], called "rebound" or "relief" pain (Bakland, 2019) [SRC]; Grossman's calls it a strong indication of a crown-originating fracture (Gopikrishna, 2021) [SRC]; Sikri states sharp pain on release rather than biting indicates a crack (Sikri, 2019) [SRC]. Witherspoon and Regan also link release pain with a fracture (Witherspoon and Regan, 2025) [SRC], as do Baumann and Beer (Baumann and Beer, 2008) [SRC]. Berman and Tamse are less strict: sharp pain may occur on pressure or release (Berman and Tamse, 2021) [SRC], and it reproduces the chief complaint (Berman and Tamse, 2021) [SRC]; Gulabivala and Ng agree it may be felt on pressure or release (Gulabivala and Ng, 2014) [SRC]. Abbott disagrees with the release rule on data: citing Abbott and Leow, among patients with cracks in teeth with reversible pulpitis 68% had pain on application of pressure, 8% on release, 15% on both and 9% no pain on biting (Abbott, 2019) [SRC], so biting pain is not specific enough as a test on its own (Abbott, 2019) [SRC]. Release pain therefore supports a crack but its absence does not exclude one [Likely]. A non-vital cracked tooth gives a periodontal rather than dentinal sensation (Gulabivala and Ng, 2014) [SRC].
+Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2021) [SRC], called "rebound" or "relief" pain (Bakland, 2019) [SRC]; Grossman's calls it a strong indication of a crown-originating fracture (Gopikrishna, 2021) [SRC]; Sikri states sharp pain on release rather than biting indicates a crack (Sikri, 2019) [SRC]. Witherspoon and Regan also link release pain with a fracture (Witherspoon and Regan, 2025) [SRC], as do Baumann and Beer (Baumann and Beer, 2008) [SRC]. Berman and Tamse are less strict: sharp pain may occur on pressure or release (Berman and Tamse, 2021) [SRC], and it reproduces the chief complaint (Berman and Tamse, 2021) [SRC]; Gulabivala and Ng agree it may be felt on pressure or release (Gulabivala and Ng, 2014) [SRC]. Abbott disagrees with the release rule on data: citing Abbott and Leow, among patients with cracks in teeth with reversible pulpitis 68% had pain on application of pressure, 8% on release, 15% on both and 9% no pain on biting (Abbott, 2019) [SRC], so biting pain is not specific enough as a test on its own (Abbott, 2019) [SRC]. The full paper confirms the figures: 100 consecutive teeth with reversible pulpitis from cracks, bite-tested with the Tooth Slooth; pain on application of pressure 68, on release 8, on both 15, no pain on biting 9 (Table 5), and the authors conclude that "the so-called classic sign of pain on release of pressure cannot be relied upon to identify a crack" (Abbott and Leow, 2009) [LIT]. The paper's own discussion gives the "both" group as "25 per cent", contradicting its Table 5 (15, with the four rows summing to 100), so 15% is the consistent figure [Certain on the arithmetic]. Note the unit is teeth, not patients. Release pain therefore supports a crack but its absence does not exclude one [Likely]. A non-vital cracked tooth gives a periodontal rather than dentinal sensation (Gulabivala and Ng, 2014) [SRC].
 
 #### ✎ Exam core
 
@@ -67,7 +69,7 @@ Pain on release is a common finding with a cracked tooth (Berman and Rotstein, 2
 | Pain only on the restoration | Leaking restoration (Bakland, 2019) |
 | Periodontal, not sharp dentinal, sensation | Crack in a non-vital tooth (Gulabivala and Ng, 2014) |
 
-Note: Berman and Tamse (2021) accept pain on pressure or release; Abbott and Leow, cited by Abbott (2019), found in cracked teeth with reversible pulpitis 68% pain on pressure, 8% on release, 15% both; absent release pain does not exclude a crack.
+Note: Berman and Tamse (2021) accept pain on pressure or release; Abbott and Leow (2009), Tooth Slooth on 100 cracked teeth with reversible pulpitis: 68% pain on pressure, 8% on release, 15% both; absent release pain does not exclude a crack.
 
 ## 5. Comparison with other bite tests and crack adjuncts
 
@@ -159,9 +161,11 @@ Alternatives: cotton-tip applicators, toothpicks, orangewood sticks, rubber poli
 - Witherspoon and Regan, 2025, 02_2_Diagnosis_in_Molar_Endodontics.md, PDF p.62 (printed p.48): "Pain on release is frequently associated with a fracture in the tooth"
 - Baumann and Beer, 2008, 04_4_Endodontic_Diagnosis.md, PDF p.51 (printed p.34): "pain typically occurs on release of bite pressure"
 
-**[LIT]** none: no live literature search was used for this answer.
+**[LIT]** opened this session (abstract or full text as stated):
+- Abbott P, Leow N. Predictable management of cracked teeth with reversible pulpitis. Aust Dent J. 2009;54(4):306-315. https://doi.org/10.1111/j.1834-7819.2009.01155.x PMID 20415928 (full text read, PDF supplied by Niranjan).
 
 ## REFERENCES (alphabetical)
+- Abbott P, Leow N. Predictable management of cracked teeth with reversible pulpitis. Aust Dent J. 2009;54(4):306-315. https://doi.org/10.1111/j.1834-7819.2009.01155.x PMID 20415928 (full text read, PDF supplied by Niranjan).
 - Abbott PV. Examination and diagnosis of pulp, root canal, and periapical/periradicular conditions. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.8 (author line in the extracted file is letter-substituted; decodes consistently to Paul V. Abbott, checked against the decoded book title).
 - Bakland LK. Crown-originating dental fractures. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.13 (author line letter-substituted in the extracted file; decodes consistently to Leif K. Bakland, checked against the decoded word Chapter).
 - Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2008 (edition not verified from the file). Ch.4 Endodontic diagnosis.
