@@ -25,4 +25,4 @@ Open points
 - **Book disagreements shown side by side, not ranked:** Racer date (1950s vs 1958), K-file date (1904 vs 1915), K3 passive vs active, whether torque-controlled motors reduce fracture, the cutting direction of reciprocating files (Sikri: counterclockwise; Cohen's sentence says clockwise), the reversible NiTi strain (about 7% vs 8%), whether NiTi is "not heat treatable", and which files are more susceptible to torsion (Jain vs Terauchi and Renton).
 - **Overlap by design:** I1 repeats text of I3-I6, I11 and I2 so that it stands alone; edit all together if a fact is corrected.
 - "Gauging and tuning" was answered inside I7 as an apical-size concept (Sikri Ch.16); confirm this is wanted.
-- Not done: second-reader check; Answer Bank publish (the artifact was at its 511-file cap after the access cavity publish, so 14 more files need a layout decision); vault and OneDrive copies.
+- Not done: second-reader check; vault and OneDrive copies. PUBLISHED 2026-11-07 to the Answer Bank site (https://mds-answer-bank.pages.dev), Endodontics / Instruments and Instrumentation, 14 answers, manifest 551 -> 565 entries, 0 lost.
