@@ -427,4 +427,5 @@ Off-topic §21 questions moved to new repository section §21A (vault edit, 2026
 - Citation years harmonised: Phillips' 12e cited as "Anusavice et al, undated" (no copyright page in the file); Sikri 2e as 2017 (first eBook edition date).
 - LIT (abstracts only): Q1 Alghauli 2022/23, Baader 2016, Shetty 2012; P1/P3 Alvarenga 2024, Scholz 2021, Pfister 2023 and 2025, Brondani 2017.
 - To check in print: Craig 11e polycarboxylate strength ranges look reversed; Sikri zinc phosphate modulus "136 Mpa" (misprint?); Q5 wording "[Inlay]" reconstructed from a garbled scan; Super EBA acid named ortho-ethoxy (materials books) vs o-methoxy (Cohen's, Parirokh); Parirokh year 2017 here vs 2019 in earlier topics.
-- Not done: review pass, vault copies, Answer Bank site publish.
+- Published 2026-11-08 without a review pass (Niranjan's choice): Answer Bank site add_answers.py "Added 11, updated 0, manifest 571 -> 582 entries, 0 lost" (site commit ec11705, new topic Dental Materials / Luting and Cementation Materials). Vault 27e2f5d: both copies, 00_INDEX.md, manifest.json 390 -> 401 (additive).
+- Not done: review pass (claims against sources).
