@@ -4,7 +4,7 @@ F = {
  'a4_sum': (OD+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Haywood, da Costa and Berry, 2013'),
  'a4_stu': (OD+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  'a4_gol': (OD+'Esthetics_in_Dentistry_Goldstein.md', 14, 'Kwon and Goldstein, 2018'),
- 'a4_las16': (OD+'Lasers_in_Dentistry_Current_Concepts.md', 5, 'Anagnostaki, 2023'),
+ 'a4_las16': (OD+'Lasers_in_Dentistry_Current_Concepts.md', 5, 'Luk and Anagnostaki, 2023'),
  'a4_las9': (OD+'Lasers_in_Dentistry_Current_Concepts.md', 8, 'George and Walsh, 2023'),
  'a4_bon': (OD+'A_Clinical_Guide_to_Applied_Dental_Materials.md', None, 'Bonsor and Pearson, 2013'),
  'a4_sik': (OD+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
@@ -241,7 +241,7 @@ L = {
  'a4_gol_kor': ('a4_gol', 'The Kor whitening system follows a very specific protocol, with both an in‐office and an at‐home whitening component'),
  'a4_gol_shadeguide': ('a4_gol', 'introduced a new linear bleached shade guide for the purpose of monitoring color change during bleaching'),
  'a4_gol_resin': ('a4_gol', 'Several studies have suggested in‐office and matrix bleaching products cause degradation of resin composite surfaces'),
- # ---- Lasers in Dentistry Ch.16.3 (Anagnostaki, 2023)
+ # ---- Lasers in Dentistry Ch.16.3 (Luk and Anagnostaki, 2023)
  'a4_las_hist': ('a4_las16', 'night guard vital bleaching in 1989 by Haywood and Heymann [50], and laser-assisted tooth bleaching in 1998 by Reyto'),
  'a4_las_fda': ('a4_las16', 'the term “bleaching” should only be used when the teeth can be whitened beyond their natural color'),
  'a4_las_home': ('a4_las16', 'may contain carbamide peroxide as an active substance, in concentrations from 5% up to 20%, or hydrogen peroxide, in concentrations of maximal 10%'),
@@ -475,12 +475,12 @@ L = {
 }
 BOOK = {
  'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.",
- 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed (adaptation of 7th ed). Elsevier; 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
+ 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors (South Asia adaptation editor Gopikrishna V). Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adaptation of the 7th ed, copyright 2019 Elsevier; South Asia edition copyright 2018 RELX India). New Delhi: RELX India (Elsevier); 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
  'Kwon2018': "Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.",
- 'Anagnostaki2023': 'Anagnostaki E. Laser-assisted dental bleaching (section 16.3). In: Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.16.',
+ 'Luk2023': 'Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2023. Ch.16.',
  'George2023': 'George R, Walsh LJ. Laser-assisted endodontics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.9 (section 9.7 Laser-enhanced bleaching).',
  'Bonsor2013': 'Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.',
- 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching; Ch.28 Minimal intervention dentistry (resin infiltration).',
+ 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.23 Finishing and polishing (microabrasion); Ch.28 Minimal intervention dentistry; Ch.32 Tooth discoloration and bleaching.',
  'Setzer2021': "Setzer FC. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26.",
  'Sakaguchi2019': "Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials.",
  'Powers2013': 'Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 Finishing, polishing, and cleansing materials (Whitening).',

@@ -4,7 +4,7 @@ F = {
  'a3_g12': (O+'Esthetics_in_Dentistry_Goldstein.md', 14, 'Kwon and Goldstein, 2018'),
  'a3_g14': (O+'Esthetics_in_Dentistry_Goldstein.md', 12, 'Goldstein and Vargas, 2018'),
  'a3_g15': (O+'Esthetics_in_Dentistry_Goldstein.md', 11, 'Stappert et al, 2018'),
- 'a3_g21': (O+'Esthetics_in_Dentistry_Goldstein.md', 36, 'Goldstein et al, 2018'),
+ 'a3_g21': (O+'Esthetics_in_Dentistry_Goldstein.md', 36, 'Goldstein et al, 2018a'),
  'a3_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  'a3_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Haywood, da Costa and Berry, 2013'),
  'a3_sik': (O+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
@@ -316,6 +316,7 @@ sum|sum_urea8|raising the pH in the oral cavity above 8 for a number of hours
 sum|sum_sens2wk|the greatest sensitivity seems to occur in the first 2 weeks of treatment
 sum|sum_reversible|the pulp remains healthy and the sensitivity is completely reversible
 sum|sum_2570|Double-blind studies have reported sensitivity in 25% to 70% of patients.
+sum|sum_kno3tp|for 2 weeks prior to initiating bleaching
 sum|sum_kno3|A more direct treatment is the application of 3% to 5% potassium nitrate gel in the tray.
 sum|sum_25um|a slight loss in surface hardness to a depth of approximately 25 μm
 sum|sum_gras|The Food and Drug Administration recognizes 3% hydrogen peroxide and 10% to 15% carbamide peroxide as GRAS
@@ -436,9 +437,9 @@ BOOK = {
  'Goldstein2018a': "Goldstein RE, Siranli S, Haywood VB, Caughman WF. Management of stained and discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.21.",
  'GoldsteinVargas2018': "Goldstein RE, Vargas M. Composite resin bonding. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.14.",
  'Stappert2018': "Stappert CFJ, Goldstein RE, Tjiptowidjojo FA, Chu SJ. Ceramic veneers and partial-coverage restorations. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.15.",
- 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed (adaptation of 7th ed). Elsevier; 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
+ 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors (South Asia adaptation editor Gopikrishna V). Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adaptation of the 7th ed, copyright 2019 Elsevier; South Asia edition copyright 2018 RELX India). New Delhi: RELX India (Elsevier); 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
  'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.",
- 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching; Ch.28 Minimal intervention dentistry (resin infiltration).',
+ 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.23 Finishing and polishing (microabrasion); Ch.28 Minimal intervention dentistry; Ch.32 Tooth discoloration and bleaching.',
  'Bartlett2011': "Bartlett D. Aesthetic problems. In: Ricketts D, Bartlett D, editors. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Churchill Livingstone (Elsevier); 2011. Ch.5.",
  'Fahl_nd': "Fahl N Jr, Ritter AV. Composite Veneers: The Direct-Indirect Technique. Quintessence Publishing (publication year not printed in the extracted front matter; verify). Ch.2 (tints and opaquers) and Ch.4 Veneers with preparation: discolored teeth.",
 }

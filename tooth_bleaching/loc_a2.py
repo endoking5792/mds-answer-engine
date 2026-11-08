@@ -4,7 +4,7 @@ F = {
  # Summitt 4th ed Ch.16 Natural Tooth Bleaching (Haywood, da Costa, Berry). ebook: no printed page numbers -> PDF page only.
  'a2_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Haywood, da Costa and Berry, 2013'),
  # Sturdevant 2nd South Asia ed Ch.21; printed = PDF - 19 (PDF 592 = p.573, 594 = p.575, 595 = p.576)
- 'a2_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter, Boushell and Walter, 2019'),
+ 'a2_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  # Cohen 12th Ch.26 (Setzer); no printed page numbers in the extract
  'a2_coh': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/26_26_Bleaching_procedures.md', None, 'Setzer, 2021'),
  # Grossman 14th Ch.23; printed = PDF - 25 (PDF 481 = p.456, 484 = p.459)
@@ -337,10 +337,10 @@ BOOK = {
  'Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.23 Bleaching of discolored teeth (no individual chapter author is named in the file, so the editor is cited).",
  'Rotstein2019': "Rotstein I. Tooth discoloration and bleaching of non-vital teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.40 (author line decoded from a damaged OCR heading; verify against the printed book).",
  'Rotstein2021': 'Rotstein I, Silvestrin T. Bleaching discolored nonvital teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.17 (editor names and year not printed in the extracted file; verify).',
- 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching; Ch.28 Minimal intervention dentistry (resin infiltration).',
+ 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.23 Finishing and polishing (microabrasion); Ch.28 Minimal intervention dentistry; Ch.32 Tooth discoloration and bleaching.',
  'Kwon2018': "Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.",
  'Luk2023': 'Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2023. Ch.16.',
  'Sakaguchi2019': "Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials.",
  'Powers2013': 'Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 Finishing, polishing, and cleansing materials (Whitening).',
- 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed (adaptation of 7th ed). Elsevier; 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
+ 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors (South Asia adaptation editor Gopikrishna V). Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adaptation of the 7th ed, copyright 2019 Elsevier; South Asia edition copyright 2018 RELX India). New Delhi: RELX India (Elsevier); 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
 }
