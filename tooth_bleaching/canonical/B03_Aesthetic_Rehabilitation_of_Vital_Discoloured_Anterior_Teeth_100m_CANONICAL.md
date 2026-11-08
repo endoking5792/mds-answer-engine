@@ -3,13 +3,14 @@
 **Marks:** 100m, Essay
 **Sitting:** Oct 1996 (EWE 90-00). Repeats absorbed: "Describe the treatment options for vital discoloured anterior teeth." 50m, 16-Jul-2021 (RG PIII-D RS-5); "Discuss the various treatment modalities available for management of discolored vital anterior teeth." 20m, Jun/Jul 2020 (Manipal); "Discuss the various bleaching agents. Discuss management of vital discoloured teeth." 20m, Mar 2008 (Endo PIII 07-15) — its bleaching-agents half is Section 10. Non-vital (intracoronal) bleaching is outside this question (see B01, B06, B07); B13 is the short answer on microabrasion.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 4591 words, about 209 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3002 words, about 136 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
 
 **Retrieval report.** Read in full: Goldstein's *Esthetics in Dentistry* 3rd ed Ch.12 "Bleaching discolored teeth" (Kwon and Goldstein, 2018; vital-tooth sections read in full, non-vital part read in part) and Ch.21 "Management of stained and discolored teeth" (Goldstein, Siranli, Haywood and Caughman, 2018); Sturdevant's 2nd South Asian ed Ch.21 "Additional conservative esthetic procedures" (no chapter author printed; cited by the editors, Ritter et al, 2019) — discolouration, bleaching, micro/macro-abrasion and veneer sections; Summitt's 4th ed Ch.16 "Natural tooth bleaching" (Haywood, da Costa and Berry, 2013); Sikri's *Textbook of Conservative and Restorative Dentistry* Ch.32 "Tooth discoloration and bleaching" (vital part) and the resin-infiltration section of Ch.28 (Sikri, 2020); *Advanced Operative Dentistry* Ch.5 "Aesthetic problems" (Bartlett, 2011). Read in part: Goldstein Ch.14 "Composite resin bonding" (Goldstein and Vargas, 2018; labial veneer and opaquer passages), Ch.15 "Ceramic veneers and partial-coverage restorations" (Stappert, Goldstein, Tjiptowidjojo and Chu, 2018; advantages, indications, contraindications); Fahl and Ritter *Composite Veneers* Ch.4 "Veneers with preparation: discolored teeth" and the opaquer section of Ch.2 (publication year not printed in the file); Sikri Ch.23 (microabrasion paragraph). Page offsets confirmed at two pages in each chapter: Goldstein Ch.12 = 14 (PDF 340/printed 326, 342/328), Ch.14 = 12 (390/378, 398/386), Ch.15 = 11 (451/440, 452/441), Ch.21 = 36 (706/670, 718/682); Sturdevant = 19 (578/559, 592/573); Sikri = 19 (608/589, 611/592; also 473/454, 568/549); Bartlett = 6 (62/56, 63/57); Fahl and Ritter Ch.4 = 9 (136/127, 137/128); Summitt Ch.16 and Fahl and Ritter Ch.2: no printed page numbers visible, PDF pages only. Not used: endodontic textbooks (their chapters concern non-vital bleaching), Fundamentals of Color Shade Matching (Goldstein's and Sturdevant's shade passages were sufficient). Live search: none.
 
-**FAILURE DISCLOSURE:** exam core is 4591 words, above the Section 7 range of 3200-3500 for 100 marks.
 
-<!--LOC: a3_g12_oxid, a3_g12_workup, a3_g12_extr, a3_g12_nicotine, a3_g12_drugs, a3_g12_flcommon, a3_g12_hypomin, a3_g12_flbrown, a3_g12_whitespots, a3_g12_adjunct, a3_g12_1g, a3_g12_window, a3_g12_chelation, a3_g12_sunlight, a3_g12_2000, a3_g12_jordan, a3_g12_deg1, a3_g12_deg1b, a3_g12_deg2, a3_g12_deg2b, a3_g12_deg3, a3_g12_opaquers, a3_g12_deg4, a3_g12_mino, a3_g12_minoiron, a3_g12_metal, a3_g12_amalgam, a3_g12_hypoplasia, a3_g12_ageing, a3_g12_elderly, a3_g12_pulps, a3_g12_gic, a3_g12_perfect, a3_g12_incisal, a3_g12_first, a3_g12_onearch, a3_g12_delay1, a3_g12_delay2, a3_g12_lightershade, a3_g12_ortho, a3_g12_children, a3_g12_vita, a3_g12_b1, a3_g12_3d, a3_g12_paravina, a3_g12_devices, a3_g12_barrier, a3_g12_retractors, a3_g12_saran, a3_g12_naf, a3_g12_3035, a3_g12_visits, a3_g12_chalky, a3_g12_4060, a3_g12_touchup, a3_g12_rosenstiel, a3_g12_microab, a3_g12_prema, a3_g12_airabr, a3_g12_macro, a3_g12_9of10, a3_g12_combined, a3_g12_predictable, a3_g12_three, a3_g12_indmatrix, a3_g12_wear13, a3_g12_tray09, a3_g12_regimen, a3_g12_1015, a3_g12_threetier, a3_g12_viscous, a3_g12_fda1991, a3_g12_sensprev, a3_g12_kno3, a3_g12_kno3mech, a3_g12_fluortub, a3_g12_3yr, a3_g12_contour, a3_g21_order, a3_g21_nathoo1, a3_g21_nathoo2, a3_g21_nathoo3, a3_g21_poorOH, a3_g21_prophy, a3_g21_tio2, a3_g21_peroxtp, a3_g21_hypopl, a3_g21_ai, a3_g21_hypocal, a3_g21_flmild, a3_g21_flsev, a3_g21_fltreat, a3_g21_opac, a3_g21_single, a3_g21_brownmicro, a3_g21_80, a3_g21_7yr, a3_g21_fluorrich, a3_g21_whitefirst, a3_g21_splotchy, a3_g21_tc40, a3_g21_tcfluor, a3_g21_tcinoffice, a3_g21_tc2m1y, a3_g21_tcgingival, a3_g21_min2m, a3_g21_20cp, a3_g21_aging, a3_g21_nic3m, a3_g21_tc212, a3_g21_stepping, a3_g21_masking, a3_g21_darker, a3_g21_lidi, a3_g21_opaqueresin, a3_g21_stump, a3_g21_conservative, a3_g21_firststep, a3_g21_sclera, a3_g21_veneerdarken, a3_g14_fastest, a3_g14_mask, a3_g14_tc, a3_g14_economic, a3_g14_mono, a3_g15_type1, a3_g15_moderate, a3_g15_stain, a3_g15_color, a3_g15_irrev, a3_g15_opaqueceram, a3_g15_enamel, a3_g15_brux, a3_g15_fluoridated, a3_stu_options, a3_stu_cutdown, a3_stu_youngstain, a3_stu_oldstain, a3_stu_prophy, a3_stu_causes, a3_stu_tcseverity, a3_stu_tcbluegrey, a3_stu_mino, a3_stu_flgen, a3_stu_whitespot, a3_stu_ageing, a3_stu_calcific, a3_stu_normal, a3_stu_mild, a3_stu_longevity, a3_stu_def, a3_stu_first, a3_stu_1868, a3_stu_1968, a3_stu_bond, a3_stu_bondmech, a3_stu_yellow, a3_stu_brownfl, a3_stu_pmma, a3_stu_lowmw, a3_stu_dam, a3_stu_paint, a3_stu_etch, a3_stu_3035, a3_stu_light, a3_stu_dehyd, a3_stu_co2, a3_stu_weekly, a3_stu_nofluor, a3_stu_sag, a3_stu_scallop, a3_stu_1015cp, a3_stu_degrade, a3_stu_carbopol, a3_stu_12wk, a3_stu_onearch, a3_stu_compliance, a3_stu_tcmonths, a3_stu_tcnever, a3_stu_intentional, a3_stu_combo, a3_stu_fewtenths, a3_stu_mccloskey, a3_stu_croll86, a3_stu_11, a3_stu_sic, a3_stu_nobleach, a3_stu_idio, a3_stu_0203, a3_stu_flremoval, a3_stu_cej, a3_stu_10x, a3_stu_fluoride, a3_stu_12flute, a3_stu_30flute, a3_stu_hydr, a3_stu_control, a3_stu_catastrophic, a3_stu_children, a3_stu_rubbercup, a3_stu_pumicefinish, a3_stu_vendef, a3_stu_partial, a3_stu_direct, a3_stu_indirectlast, a3_stu_intraenamel, a3_stu_window, a3_stu_depth, a3_stu_subging, a3_stu_mandib, a3_stu_microfill, a3_stu_opaquefill, a3_stu_feld, a3_stu_dentinavoid, a3_stu_06, a3_stu_incisal, a3_stu_opaque515, a3_stu_exceed15, a3_stu_deeper, a3_stu_diespacer, a3_stu_informed, a3_stu_crowns, a3_stu_pressed, a3_stu_vitality, a3_stu_violet, a3_stu_metamerism, a3_stu_fatigue, a3_stu_shadeall, a3_sum_whitening, a3_sum_extrinsic, a3_sum_intrinsic, a3_sum_aging, a3_sum_tcslow, a3_sum_fastest, a3_sum_whitespots, a3_sum_banded, a3_sum_fluoride12, a3_sum_secdentin, a3_sum_calcific, a3_sum_radio, a3_sum_primary, a3_sum_lighterveneers, a3_sum_age1080, a3_sum_sclera, a3_sum_unreal, a3_sum_preg, a3_sum_guarded, a3_sum_translucent, a3_sum_finger, a3_sum_roots, a3_sum_2550, a3_sum_710, a3_sum_2wk, a3_sum_cp, a3_sum_3to1, a3_sum_penetr, a3_sum_bleachfirst, a3_sum_mask, a3_sum_1to20, a3_sum_onearch, a3_sum_three, a3_sum_35, a3_sum_combono, a3_sum_avg3, a3_sum_lights, a3_sum_rehyd, a3_sum_noanaes, a3_sum_1week, a3_sum_noetch, a3_sum_followhome, a3_sum_laser, a3_sum_10cp, a3_sum_90, a3_sum_hpday, a3_sum_active, a3_sum_hp3060, a3_sum_3538, a3_sum_scallop, a3_sum_reservoir, a3_sum_times, a3_sum_otcproblem, a3_sum_strips, a3_sum_30min, a3_sum_sixshade, a3_sum_overnight, a3_sum_tcwindow, a3_sum_tcanalogs, a3_sum_tc212, a3_sum_8in10, a3_sum_75, a3_sum_gingival, a3_sum_65strips, a3_sum_lingual, a3_sum_delayprophy, a3_sum_conc, a3_sum_1550, a3_sum_10c, a3_sum_ph, a3_sum_urea8, a3_sum_sens2wk, a3_sum_reversible, a3_sum_2570, a3_sum_kno3, a3_sum_25um, a3_sum_gras, a3_sum_6pct, a3_sum_porc, a3_sum_mercury, a3_sum_acetone, a3_sum_alternatives, a3_sum_2227, a3_sum_2030, a3_sum_bleachfirstabr, a3_sum_80brown, a3_sum_lineangle, a3_sum_airabr, a3_sum_notoverall, a3_sum_thicker, a3_sum_restdelay, a3_sum_b1, a3_sum_pink, a3_sum_safest, a3_sum_otcrisk, a3_sum_softsel, a3_sik_def, a3_sik_whitening, a3_sik_three, a3_sik_fl4, a3_sik_flmild, a3_sik_flsev, a3_sik_tcdose, a3_sik_doxy, a3_sik_internalized, a3_sik_degrad, a3_sik_contra1, a3_sik_contra2, a3_sik_clo2, a3_sik_cp, a3_sik_hcl, a3_sik_mcinnes, a3_sik_15, a3_sik_tio2, a3_sik_carbopol, a3_sik_kno3, a3_sik_temp, a3_sik_24wk, a3_sik_min3, a3_sik_coffee, a3_sik_microdef, a3_sik_yellow, a3_sik_microind, a3_sik_microortho, a3_sik_microcontra, a3_sik_hypoplastic, a3_sik_60s, a3_sik_topf, a3_sik_petroleum, a3_sik_daynight, a3_sik_strip525, a3_sik_smart, a3_sik_532, a3_sik_co2, a3_sik_ridef, a3_sik_icon, a3_sik_optical, a3_sik_rifl, a3_sik_mih, a3_sik_ri15, a3_sik_ethanol, a3_sik_tegdma, a3_sik_ri90, a3_sik_kiel, a3_sik_micro0203, a3_sik_microdesc, a3_sik_unrecog, a3_sik_whitepatch, a3_bar_age, a3_bar_canine, a3_bar_uv, a3_bar_di, a3_bar_crownsai, a3_bar_dentine, a3_bar_fewdays, a3_bar_23h, a3_bar_same, a3_bar_stable, a3_bar_lowph, a3_bar_crowns, a3_bar_micro, a3_bar_dentinedef, a3_bar_360, a3_bar_dam, a3_bar_failed, a3_bar_otc, a3_bar_agitator, a3_cv_ind, a3_cv_darker, a3_cv_lifeless, a3_cv_thicker, a3_cv_intraenamel, a3_cv_dentin, a3_cv2_opq, a3_cv2_misc, a3_cv2_dull, a3_g21_cpchx, a3_g21_maint, a3_g21_crown, a3_g21_fig18, a3_sum_liquiddam, a3_sum_tubule, a3_sum_trayext, a3_bar_table-->
+**FAILURE DISCLOSURE:** exam core is 3002 words, below the Section 7 range of 3200-3500 for 100 marks.
+
+<!--LOC: a3_g12_oxid, a3_g12_workup, a3_g12_extr, a3_g12_nicotine, a3_g12_drugs, a3_g12_flcommon, a3_g12_hypomin, a3_g12_flbrown, a3_g12_whitespots, a3_g12_adjunct, a3_g12_1g, a3_g12_window, a3_g12_chelation, a3_g12_sunlight, a3_g12_2000, a3_g12_jordan, a3_g12_deg1, a3_g12_deg1b, a3_g12_deg2, a3_g12_deg2b, a3_g12_deg3, a3_g12_opaquers, a3_g12_deg4, a3_g12_mino, a3_g12_minoiron, a3_g12_metal, a3_g12_amalgam, a3_g12_hypoplasia, a3_g12_ageing, a3_g12_elderly, a3_g12_pulps, a3_g12_gic, a3_g12_perfect, a3_g12_incisal, a3_g12_first, a3_g12_onearch, a3_g12_delay1, a3_g12_delay2, a3_g12_lightershade, a3_g12_ortho, a3_g12_children, a3_g12_vita, a3_g12_b1, a3_g12_3d, a3_g12_paravina, a3_g12_devices, a3_g12_barrier, a3_g12_retractors, a3_g12_saran, a3_g12_naf, a3_g12_3035, a3_g12_visits, a3_g12_chalky, a3_g12_4060, a3_g12_touchup, a3_g12_rosenstiel, a3_g12_microab, a3_g12_prema, a3_g12_airabr, a3_g12_macro, a3_g12_9of10, a3_g12_combined, a3_g12_predictable, a3_g12_three, a3_g12_indmatrix, a3_g12_wear13, a3_g12_tray09, a3_g12_regimen, a3_g12_1015, a3_g12_threetier, a3_g12_viscous, a3_g12_fda1991, a3_g12_sensprev, a3_g12_kno3, a3_g12_kno3mech, a3_g12_fluortub, a3_g12_3yr, a3_g12_contour, a3_g21_order, a3_g21_nathoo1, a3_g21_nathoo2, a3_g21_nathoo3, a3_g21_poorOH, a3_g21_prophy, a3_g21_tio2, a3_g21_peroxtp, a3_g21_hypopl, a3_g21_ai, a3_g21_hypocal, a3_g21_flmild, a3_g21_flsev, a3_g21_fltreat, a3_g21_opac, a3_g21_single, a3_g21_brownmicro, a3_g21_80, a3_g21_7yr, a3_g21_fluorrich, a3_g21_whitefirst, a3_g21_splotchy, a3_g21_tc40, a3_g21_tcfluor, a3_g21_tcinoffice, a3_g21_tc2m1y, a3_g21_tcgingival, a3_g21_min2m, a3_g21_20cp, a3_g21_aging, a3_g21_nic3m, a3_g21_tc212, a3_g21_stepping, a3_g21_masking, a3_g21_darker, a3_g21_lidi, a3_g21_opaqueresin, a3_g21_stump, a3_g21_conservative, a3_g21_firststep, a3_g21_sclera, a3_g21_veneerdarken, a3_g14_fastest, a3_g14_mask, a3_g14_tc, a3_g14_economic, a3_g14_mono, a3_g15_type1, a3_g15_moderate, a3_g15_stain, a3_g15_color, a3_g15_irrev, a3_g15_opaqueceram, a3_g15_enamel, a3_g15_brux, a3_g15_fluoridated, a3_stu_options, a3_stu_cutdown, a3_stu_youngstain, a3_stu_oldstain, a3_stu_prophy, a3_stu_causes, a3_stu_tcseverity, a3_stu_tcbluegrey, a3_stu_mino, a3_stu_flgen, a3_stu_whitespot, a3_stu_ageing, a3_stu_calcific, a3_stu_normal, a3_stu_mild, a3_stu_longevity, a3_stu_def, a3_stu_first, a3_stu_1868, a3_stu_1968, a3_stu_bond, a3_stu_bondmech, a3_stu_yellow, a3_stu_brownfl, a3_stu_pmma, a3_stu_lowmw, a3_stu_dam, a3_stu_paint, a3_stu_etch, a3_stu_3035, a3_stu_light, a3_stu_dehyd, a3_stu_co2, a3_stu_weekly, a3_stu_nofluor, a3_stu_sag, a3_stu_scallop, a3_stu_1015cp, a3_stu_degrade, a3_stu_carbopol, a3_stu_12wk, a3_stu_onearch, a3_stu_compliance, a3_stu_tcmonths, a3_stu_tcnever, a3_stu_intentional, a3_stu_combo, a3_stu_fewtenths, a3_stu_mccloskey, a3_stu_croll86, a3_stu_11, a3_stu_sic, a3_stu_nobleach, a3_stu_idio, a3_stu_0203, a3_stu_flremoval, a3_stu_cej, a3_stu_10x, a3_stu_fluoride, a3_stu_12flute, a3_stu_30flute, a3_stu_hydr, a3_stu_control, a3_stu_catastrophic, a3_stu_children, a3_stu_rubbercup, a3_stu_pumicefinish, a3_stu_vendef, a3_stu_partial, a3_stu_direct, a3_stu_indirectlast, a3_stu_intraenamel, a3_stu_window, a3_stu_depth, a3_stu_subging, a3_stu_mandib, a3_stu_microfill, a3_stu_opaquefill, a3_stu_feld, a3_stu_dentinavoid, a3_stu_diamond, a3_stu_06, a3_stu_incisal, a3_stu_opaque515, a3_stu_exceed15, a3_stu_deeper, a3_stu_diespacer, a3_stu_informed, a3_stu_crowns, a3_stu_pressed, a3_stu_vitality, a3_stu_violet, a3_stu_metamerism, a3_stu_fatigue, a3_stu_shadeall, a3_sum_whitening, a3_sum_extrinsic, a3_sum_intrinsic, a3_sum_aging, a3_sum_tcslow, a3_sum_fastest, a3_sum_whitespots, a3_sum_banded, a3_sum_fluoride12, a3_sum_secdentin, a3_sum_calcific, a3_sum_radio, a3_sum_primary, a3_sum_lighterveneers, a3_sum_age1080, a3_sum_sclera, a3_sum_unreal, a3_sum_preg, a3_sum_guarded, a3_sum_translucent, a3_sum_finger, a3_sum_roots, a3_sum_2550, a3_sum_710, a3_sum_2wk, a3_sum_cp, a3_sum_3to1, a3_sum_penetr, a3_sum_bleachfirst, a3_sum_mask, a3_sum_1to20, a3_sum_onearch, a3_sum_three, a3_sum_35, a3_sum_combono, a3_sum_avg3, a3_sum_lights, a3_sum_rehyd, a3_sum_noanaes, a3_sum_1week, a3_sum_noetch, a3_sum_followhome, a3_sum_laser, a3_sum_10cp, a3_sum_90, a3_sum_hpday, a3_sum_active, a3_sum_hp3060, a3_sum_3538, a3_sum_scallop, a3_sum_reservoir, a3_sum_times, a3_sum_otcproblem, a3_sum_strips, a3_sum_30min, a3_sum_sixshade, a3_sum_overnight, a3_sum_tcwindow, a3_sum_tcanalogs, a3_sum_tc212, a3_sum_8in10, a3_sum_75, a3_sum_gingival, a3_sum_65strips, a3_sum_lingual, a3_sum_delayprophy, a3_sum_conc, a3_sum_1550, a3_sum_10c, a3_sum_ph, a3_sum_urea8, a3_sum_sens2wk, a3_sum_reversible, a3_sum_2570, a3_sum_kno3, a3_sum_25um, a3_sum_gras, a3_sum_6pct, a3_sum_porc, a3_sum_mercury, a3_sum_acetone, a3_sum_alternatives, a3_sum_2227, a3_sum_2030, a3_sum_bleachfirstabr, a3_sum_80brown, a3_sum_lineangle, a3_sum_airabr, a3_sum_notoverall, a3_sum_thicker, a3_sum_restdelay, a3_sum_b1, a3_sum_pink, a3_sum_safest, a3_sum_otcrisk, a3_sum_softsel, a3_sik_def, a3_sik_whitening, a3_sik_three, a3_sik_fl4, a3_sik_flmild, a3_sik_flsev, a3_sik_tcdose, a3_sik_doxy, a3_sik_internalized, a3_sik_degrad, a3_sik_contra1, a3_sik_contra2, a3_sik_clo2, a3_sik_cp, a3_sik_hcl, a3_sik_mcinnes, a3_sik_15, a3_sik_tio2, a3_sik_carbopol, a3_sik_kno3, a3_sik_temp, a3_sik_24wk, a3_sik_min3, a3_sik_coffee, a3_sik_microdef, a3_sik_yellow, a3_sik_microind, a3_sik_microortho, a3_sik_microcontra, a3_sik_hypoplastic, a3_sik_60s, a3_sik_topf, a3_sik_petroleum, a3_sik_daynight, a3_sik_strip525, a3_sik_smart, a3_sik_532, a3_sik_co2, a3_sik_ridef, a3_sik_icon, a3_sik_optical, a3_sik_rifl, a3_sik_mih, a3_sik_ri15, a3_sik_ethanol, a3_sik_tegdma, a3_sik_ri90, a3_sik_kiel, a3_sik_micro0203, a3_sik_microdesc, a3_sik_unrecog, a3_sik_whitepatch, a3_bar_age, a3_bar_canine, a3_bar_uv, a3_bar_di, a3_bar_crownsai, a3_bar_dentine, a3_bar_fewdays, a3_bar_23h, a3_bar_same, a3_bar_stable, a3_bar_lowph, a3_bar_crowns, a3_bar_micro, a3_bar_dentinedef, a3_bar_360, a3_bar_dam, a3_bar_failed, a3_bar_otc, a3_bar_agitator, a3_cv_ind, a3_cv_darker, a3_cv_lifeless, a3_cv_thicker, a3_cv_intraenamel, a3_cv_dentin, a3_cv2_opq, a3_cv2_misc, a3_cv2_dull, a3_g21_cpchx, a3_g21_maint, a3_g21_crown, a3_g21_fig18, a3_sum_liquiddam, a3_sum_tubule, a3_sum_trayext, a3_bar_table-->
 
 <!--REF: Kwon2018, Goldstein2018a, GoldsteinVargas2018, Stappert2018, Ritter2019, Haywood2013, Sikri2020, Bartlett2011, Fahl_nd-->
 
@@ -17,20 +18,19 @@
 
 ### Explanation
 
-Sturdevant's defines bleaching as "The lightening of the colour of a tooth through the application of a chemical agent to oxidize the organic pigmentation in the tooth is referred to as bleaching." (Ritter et al, 2019) [SRC]; Sikri gives the formal definition "the treatment, usually involving an oxidative chemical that alters the light absorbing and/or light reflecting nature of the material structure, thereby increasing its value (whiteness)" and separates the terms: "Whitening restores teeth to their natural tooth color" by removing surface stains, while bleaching makes teeth lighter than their natural colour (Sikri, 2020) [SRC]. Summitt's notes that the distinction is loose: "cosmetic products typically use the word whitening for the removal of surface stains" (Haywood, da Costa and Berry, 2013) [SRC]. Sturdevant's lists the options for discoloured anterior teeth: "Treatment options include removal of surface stains, bleaching, micro-abrasion or macro-abrasion, veneering and placement of porcelain crowns." and observes that "increasing numbers of patients do not want their teeth" cut down for crowns (Ritter et al, 2019) [SRC]. Its governing principle is that "Mild discolourations are best left untreated, are bleached or are treated conservatively with micro-abrasion or macro-abrasion because no restorative material is as good as the healthy, natural tooth structure." (Ritter et al, 2019) [SRC]. Goldstein's chapter summary puts the same rule as a duty to "select the most conservative treatment option for the specific stain", after "the first step in the treatment of a patient whose chief complaint is stains or discolorations is the diagnosis of the cause" (Goldstein et al, 2018) [SRC]. "Aesthetic rehabilitation" is therefore read here as the whole diagnostic and treatment sequence, not only restorations. [Certain]
+Sturdevant's defines bleaching as "The lightening of the colour of a tooth through the application of a chemical agent to oxidize the organic pigmentation in the tooth is referred to as bleaching." (Ritter et al, 2019) [SRC]; Sikri gives the formal definition "the treatment, usually involving an oxidative chemical that alters the light absorbing and/or light reflecting nature of the material structure, thereby increasing its value (whiteness)" and separates the terms: "Whitening restores teeth to their natural tooth color" by removing surface stains, while bleaching makes teeth lighter than their natural colour (Sikri, 2020) [SRC]. Summitt's notes that the distinction is loose: "cosmetic products typically use the word whitening for the removal of surface stains" (Haywood, da Costa and Berry, 2013) [SRC]. Sturdevant's lists the options for discoloured anterior teeth: "Treatment options include removal of surface stains, bleaching, micro-abrasion or macro-abrasion, veneering and placement of porcelain crowns." and observes that "increasing numbers of patients do not want their teeth" cut down for crowns (Ritter et al, 2019) [SRC]. Its governing principle is that "Mild discolourations are best left untreated, are bleached or are treated conservatively with micro-abrasion or macro-abrasion because no restorative material is as good as the healthy, natural tooth structure." (Ritter et al, 2019) [SRC]. Goldstein's chapter summary puts the same rule as a duty to "select the most conservative treatment option for the specific stain", after "the first step in the treatment of a patient whose chief complaint is stains or discolorations is the diagnosis of the cause" (Goldstein et al, 2018) [SRC]. Aesthetic rehabilitation is therefore read here as the whole diagnostic and treatment sequence, not only restorations. [Certain]
 
 #### ✎ Exam core
 
-**Introduction.** Discoloured anterior teeth are one of the commonest reasons patients seek aesthetic care. In a vital tooth the pulp is healthy, so treatment must improve colour without harming the pulp, while preserving as much enamel as possible.
+**Introduction.** Discoloured anterior teeth are among the commonest reasons for seeking aesthetic care. In a vital tooth colour must be improved without harming the pulp and with maximum preservation of enamel.
 
 **Definitions**
-- **Bleaching:** lightening of tooth colour by a chemical agent that oxidizes the organic pigments in the tooth (Ritter et al, 2019); an oxidative treatment that alters the light-absorbing/reflecting nature of the tooth and increases its value (Sikri, 2020).
-- **Whitening:** restores the natural colour by removing surface stains; bleaching makes the tooth lighter than its natural colour (Sikri, 2020).
-- **Aesthetic rehabilitation** of vital discoloured teeth = diagnosis of the cause, then the least invasive procedure that meets the patient's expectation, escalating only when needed.
+- **Bleaching:** lightening of tooth colour by a chemical agent that oxidizes organic pigments in the tooth (Ritter et al, 2019); it increases the value (whiteness) of the tooth (Sikri, 2020).
+- **Whitening:** restores natural colour by removing surface stain; bleaching makes teeth lighter than their natural colour (Sikri, 2020).
 
-**Guiding principle.** The first step is diagnosis of the cause; then the most conservative option for that stain is chosen, while preparing the patient for further treatment if it fails (Goldstein et al, 2018). Mild discolourations are best left untreated, bleached, or treated by micro/macro-abrasion, because no restorative material is as good as healthy natural tooth structure (Ritter et al, 2019).
+**Guiding principle.** First diagnose the cause, then choose the most conservative option for that stain, preparing the patient for further treatment if it fails (Goldstein et al, 2018). Mild discolourations are left untreated, bleached or abraded, because no restorative material is as good as natural tooth structure (Ritter et al, 2019).
 
-**Options (conservative → invasive):** prophylaxis and stain removal → microabrasion / macroabrasion → resin infiltration → vital bleaching (in-office, nightguard, OTC, combined) → direct composite bonding/veneers → porcelain laminate veneers → crowns (Ritter et al, 2019; Goldstein et al, 2018).
+**Options (conservative → invasive):** prophylaxis → microabrasion/macroabrasion → resin infiltration → vital bleaching → direct composite → porcelain veneers → crowns (Ritter et al, 2019; Goldstein et al, 2018).
 
 ## 2. Classification and causes of discoloration in vital teeth
 
@@ -41,17 +41,13 @@ Goldstein's Ch.12: "Extrinsic discoloration is caused by the accumulation of sta
 #### ✎ Exam core
 
 **Classification**
-1. **Extrinsic** — on the enamel surface (Kwon and Goldstein, 2018). Nathoo classification (Goldstein et al, 2018):
-   - N1: coloured chromogen binds to the tooth (tea, coffee, wine, chromogenic bacteria, metals).
-   - N2: chromogen changes colour after binding (food stains darkening with time).
-   - N3: colourless pre-chromogen binds and reacts to form a stain (chlorhexidine, stannous fluoride, carbohydrates).
-   - Commonest cause: poor oral hygiene. In children, stains are cervical (Nasmyth membrane, green/orange stains); in older patients brown, black or grey (Ritter et al, 2019).
-2. **Intrinsic** — within enamel or dentin; reachable only by bleaching or by removing/covering the tissue (Haywood, da Costa and Berry, 2013).
-3. **Internalized** — extrinsic stain incorporated into enamel defects, worn or exposed dentin (Sikri, 2020). Nicotine stain starts extrinsic and becomes intrinsic (Kwon and Goldstein, 2018).
+1. **Extrinsic** — on the enamel surface (Kwon and Goldstein, 2018). Nathoo (Goldstein et al, 2018): N1 coloured chromogen binds (tea, coffee, wine, bacteria, metals); N2 chromogen darkens after binding; N3 colourless pre-chromogen reacts to form stain (chlorhexidine, stannous fluoride). Commonest cause: poor oral hygiene. Children: cervical stains; older patients: brown, black, grey (Ritter et al, 2019).
+2. **Intrinsic** — within enamel/dentin; reachable only by bleaching or removal/covering (Haywood, da Costa and Berry, 2013).
+3. **Internalized** — extrinsic stain entering enamel defects or exposed dentin (Sikri, 2020); e.g. nicotine (Kwon and Goldstein, 2018).
 
-**Causes of intrinsic discoloration in vital anterior teeth**
-- *Developmental (pre-eruptive):* fluorosis, tetracycline/minocycline, enamel hypoplasia and hypocalcification, amelogenesis and dentinogenesis imperfecta, high fever, systemic pigments (bilirubin, erythroblastosis fetalis, porphyria) (Ritter et al, 2019; Sikri, 2020).
-- *Acquired (post-eruptive):* ageing (enamel thinning plus darker secondary dentin) (Kwon and Goldstein, 2018; Bartlett, 2011); trauma with blood pigment or calcific metamorphosis (darker yellow secondary dentin in the pulp chamber) (Haywood, da Costa and Berry, 2013); caries, leaking or corroding restorations, amalgam shine-through (Kwon and Goldstein, 2018); microcracks.
+**Intrinsic causes in vital teeth**
+- *Developmental:* fluorosis, tetracycline, hypoplasia, hypocalcification, amelogenesis/dentinogenesis imperfecta, fever, bilirubin, porphyria (Ritter et al, 2019; Sikri, 2020).
+- *Acquired:* ageing — thin enamel plus darker secondary dentin (Kwon and Goldstein, 2018; Bartlett, 2011); trauma with calcific metamorphosis (Haywood, da Costa and Berry, 2013); caries, leaking restorations, amalgam shine-through.
 
 ## 3. Fluorosis, tetracycline and other developmental discolorations
 
@@ -67,28 +63,24 @@ Goldstein's Ch.12: "Extrinsic discoloration is caused by the accumulation of sta
 
 #### ✎ Exam core
 
-**Dental fluorosis** — the commonest intrinsic cause (Kwon and Goldstein, 2018). Hypomineralized porous subsurface enamel under a well-mineralized surface layer. Fluoride opacities are poorly demarcated (non-fluoride opacities: round, well demarcated) (Goldstein et al, 2018).
+**Fluorosis** — commonest intrinsic cause; porous subsurface enamel under a well-mineralized surface (Kwon and Goldstein, 2018). Fluoride opacities are poorly demarcated (Goldstein et al, 2018).
+- Mild: grey/white flecks (Goldstein et al, 2018) or brown pigment on smooth enamel (Sikri, 2020) → bleaching, microabrasion.
+- Moderate: chalky enamel ± pits → bleach + microabrasion ± bonding.
+- Severe: pitting, deformity; may not respond to bleaching (Sikri, 2020) → veneers/crowns.
+Threshold: >1 to 2 ppm (Haywood, da Costa and Berry, 2013) versus >4.0 ppm for moderate-severe staining (Sikri, 2020).
 
-| Grade | Appearance | Usual approach |
+**Tetracycline** — chelates calcium as tetracycline orthophosphate in dentin; sunlight darkens labial surfaces (Kwon and Goldstein, 2018). Window: second trimester to about 8 years (Kwon and Goldstein, 2018) versus third trimester to 7–8 years (Haywood, da Costa and Berry, 2013). Severity depends on dose, duration, analogue (Ritter et al, 2019); yellow UV fluorescence (Bartlett, 2011). Minocycline stains adult teeth (Kwon and Goldstein, 2018).
+
+**Jordan and Boksman grading** (Kwon and Goldstein, 2018)
+
+| Degree | Appearance | Bleaching prognosis |
 |---|---|---|
-| Mild | Flat grey/white flecks (Goldstein et al, 2018); brown pigment on smooth surface (Sikri, 2020) | Bleaching; microabrasion |
-| Moderate | Chalky, dull enamel ± pitting and stain | Bleach + microabrasion ± bonding |
-| Severe | Pitting, deformity, staining; may not respond to bleaching (Sikri, 2020) | Bleach as adjunct, then veneers/crowns |
+| I | Light yellow/grey, no banding | Fewer than four office sessions |
+| II | Darker, no banding | Five or more visits; combined best; home alone 2–6 months |
+| III | Dark grey/blue, banded | Partial; veneers with opaquers |
+| IV | Very dark | Veneers; try bleaching unless blue-grey at gingivae |
 
-Threshold quoted: >1 to 2 ppm (Haywood, da Costa and Berry, 2013) versus >4.0 ppm for moderate-severe staining (Sikri, 2020).
-
-**Tetracycline** — chelates calcium to form tetracycline orthophosphate in dentin; sunlight darkens labial surfaces to grey/brown (Kwon and Goldstein, 2018). Window: second trimester in utero to about 8 years (Kwon and Goldstein, 2018) versus third trimester to 7–8 years (Haywood, da Costa and Berry, 2013). Severity depends on dose, duration and analogue (Ritter et al, 2019). Yellow fluorescence under ultraviolet light aids diagnosis (Bartlett, 2011). Minocycline stains adult teeth (iron chelation) (Kwon and Goldstein, 2018).
-
-**Jordan and Boksman grading (1984)** (Kwon and Goldstein, 2018)
-
-| Degree | Appearance | Prognosis with bleaching |
-|---|---|---|
-| First | Light yellow/grey, uniform, no banding | Excellent: fewer than four office sessions or one home series |
-| Second | Darker yellow/grey, no banding | Five or more office visits; combined office/home best; home alone 2–6 months |
-| Third | Dark grey/blue with banding | Partial; veneers with opaquers often needed |
-| Fourth | Very dark | Usually veneers; try bleaching unless blue-grey at gingivae |
-
-**Other developmental defects:** hypoplasia and hypocalcification — contouring, microabrasion, bonding, veneers; amelogenesis imperfecta — bleaching difficult and painful, so bonding or crowns (Goldstein et al, 2018); dentinogenesis imperfecta — crowns to prevent wear (Bartlett, 2011).
+**Other defects:** hypoplasia/hypocalcification — contouring, microabrasion, bonding; amelogenesis imperfecta — bleaching difficult, painful (Goldstein et al, 2018); dentinogenesis imperfecta — crowns (Bartlett, 2011).
 
 ## 4. Diagnosis and case assessment
 
@@ -98,19 +90,16 @@ Goldstein's Ch.12: "The diagnostic workup should include pretreatment photograph
 
 #### ✎ Exam core
 
-**History:** chief complaint and expectation; onset (since eruption = developmental; later = acquired); childhood fluoride and tetracycline/minocycline exposure; trauma; diet, tobacco, chlorhexidine; sensitivity; pregnancy (Kwon and Goldstein, 2018; Haywood, da Costa and Berry, 2013).
+**History:** complaint and expectation; onset; childhood fluoride, tetracycline/minocycline; trauma; diet, tobacco, chlorhexidine; sensitivity; pregnancy.
 
-**Examination:**
-- Thorough prophylaxis first, to separate extrinsic from intrinsic stain (Kwon and Goldstein, 2018).
-- Distribution: generalized (age, tetracycline, fluorosis, genetics) versus single tooth (trauma, calcific metamorphosis, resorption, restoration) versus spots (fluorosis, hypocalcification, demineralization).
-- Colour and pattern: yellow/brown (responsive) versus grey/blue, banding, dark cervical third (resistant).
-- Enamel thickness, cracks, wear, exposed roots, translucent incisal edges (finger test behind the tooth); roots do not bleach (Haywood, da Costa and Berry, 2013).
-- Existing restorations, which will not bleach.
-- UV fluorescence for tetracycline (Bartlett, 2011).
+**Examination**
+- Prophylaxis first, to separate extrinsic from intrinsic stain (Kwon and Goldstein, 2018).
+- Distribution: generalized, single tooth, or spots; colour — yellow/brown respond, grey/blue, banded, dark cervical third resist.
+- Enamel thickness, cracks, wear, exposed roots (do not bleach), translucent incisal edges (finger test) (Haywood, da Costa and Berry, 2013); restorations, which will not bleach.
 
-**Investigations:** radiograph and pulp test of any single dark tooth — bleaching may mask pathology such as necrosis or resorption (Goldstein et al, 2018; Haywood, da Costa and Berry, 2013).
+**Investigations:** radiograph and pulp test of any single dark tooth — bleaching may mask necrosis or resorption (Goldstein et al, 2018; Haywood, da Costa and Berry, 2013).
 
-**Contraindications / guarded cases:** unrealistic expectations, non-compliance, pregnancy or lactation, extensive restorations not to be replaced (Haywood, da Costa and Berry, 2013); very large pulps, cracks, severe enamel loss, severe banded tetracycline stain, perfectionists (Kwon and Goldstein, 2018). Many patients have teeth within the normal shade range; a shade tab beside the teeth shows this (Ritter et al, 2019). A natural end point is teeth matching the white of the sclera (Haywood, da Costa and Berry, 2013).
+**Contraindications/guarded:** unrealistic expectations, non-compliance, pregnancy, restorations not to be replaced (Haywood, da Costa and Berry, 2013); large pulps, cracks, severe enamel loss, severe banded tetracycline stain, perfectionists (Kwon and Goldstein, 2018). A shade tab often shows the teeth are normal (Ritter et al, 2019); a natural end point matches the sclera (Haywood, da Costa and Berry, 2013).
 
 ## 5. Shade assessment and records
 
@@ -120,18 +109,14 @@ Goldstein's: "The VITA classical introduced to the dental profession in 1956 is 
 
 #### ✎ Exam core
 
-**Why record shade:** bleaching changes colour gradually and patients forget the starting shade; a baseline justifies treatment and guides later restorations (Kwon and Goldstein, 2018).
+**Methods** (Kwon and Goldstein, 2018)
+- VITA Classical (1956): most used; uneven spacing, nothing lighter than B1 — bleached teeth often go lighter (Haywood, da Costa and Berry, 2013).
+- 3D-Master: value, chroma, hue separately.
+- Bleached shade guide (Paravina, 2007): linear, very light tabs, for monitoring bleaching.
+- Spectrophotometers/colorimeters: objective but costly and slow.
+- Photographs with the tab beside the teeth, before, during and after.
 
-**Methods**
-- **VITA Classical** (1956): most widely used, but uneven spacing and nothing lighter than B1 (Kwon and Goldstein, 2018); bleached teeth often go lighter than B1 (Haywood, da Costa and Berry, 2013).
-- **VITA 3D-Master:** value, chroma and hue assessed separately.
-- **Bleached shade guide** (Paravina, 2007): linear, evenly spaced, very light tabs — designed for monitoring bleaching.
-- **Instruments:** spot spectrophotometers/colorimeters and whole-tooth devices — objective, independent of eye and light, but costly and slow (Kwon and Goldstein, 2018).
-- **Photographs** with the shade tab beside the teeth, before, during and after treatment.
-
-**Precautions:** daylight-corrected light (metamerism); short looks and glance at a blue background to avoid yellow fatigue; involve assistant and patient (Ritter et al, 2019); record shade before rubber dam, as dehydration lightens teeth.
-
-**One arch at a time** (usually maxillary first) leaves the other as a visible control (Haywood, da Costa and Berry, 2013; Ritter et al, 2019).
+**Precautions:** correct light (metamerism); short looks, glance at blue against yellow fatigue; involve assistant and patient (Ritter et al, 2019); record shade before dam isolation dehydrates teeth. Bleach one arch at a time so the other is a control (Haywood, da Costa and Berry, 2013).
 
 ## 6. Treatment sequence: from conservative to invasive
 
@@ -141,23 +126,17 @@ Goldstein's Ch.21 orders the options "in order of increasing aggressiveness" (Ta
 
 #### ✎ Exam core
 
-**Order of treatment (increasing aggressiveness)** (Goldstein et al, 2018; Ritter et al, 2019):
+**Order (increasing aggressiveness)** (Goldstein et al, 2018; Ritter et al, 2019)
+1. Hygiene, prophylaxis, air polishing.
+2. Replace leaking restorations; treat caries.
+3. Microabrasion/macroabrasion.
+4. Resin infiltration (Sikri, 2020).
+5. Vital bleaching — in-office, nightguard, OTC, combined.
+6. Direct composite bonding/veneers.
+7. Indirect veneers.
+8. Crowns.
 
-1. Oral hygiene, prophylaxis, air polishing, whitening dentifrice — extrinsic stain.
-2. Replace leaking or discoloured restorations; treat caries.
-3. Microabrasion / macroabrasion — superficial enamel stain or defect.
-4. Resin infiltration — non-cavitated white spots (Sikri, 2020).
-5. Vital bleaching — in-office, nightguard, OTC, or combined — intrinsic generalized stain.
-6. Direct composite bonding: partial or full veneers.
-7. Indirect veneers: composite, feldspathic porcelain, pressed ceramic.
-8. All-ceramic or metal-ceramic crowns.
-
-**Rules**
-- Bleach before any other treatment except soft-tissue (periodontal) management (Kwon and Goldstein, 2018); bleaching is the first choice for intrinsic discoloration (Ritter et al, 2019).
-- Even when veneers are the goal, bleach first: it lightens the substrate, so thinner, more translucent veneers with less reduction are possible (Goldstein et al, 2018; Haywood, da Costa and Berry, 2013).
-- Each step is evaluated before the next; the patient knows in advance that further treatment may be needed (Goldstein et al, 2018).
-
-[DIAGRAM: Staircase from "prophylaxis" at the bottom to "crown" at the top; arrow beside it "increasing tooth removal, cost, irreversibility".]
+**Rules:** bleach before any other treatment except soft-tissue management (Kwon and Goldstein, 2018). Even when veneers are planned, bleach first: the lighter substrate allows thinner, more translucent veneers (Goldstein et al, 2018; Haywood, da Costa and Berry, 2013).
 
 ## 7. Prophylaxis and removal of extrinsic stains
 
@@ -167,16 +146,11 @@ Sturdevant's: "Most surface stains can be removed by routine prophylactic proced
 
 #### ✎ Exam core
 
-**Indication:** extrinsic stains (tea, coffee, tobacco, chlorhexidine, chromogenic bacteria, metallic dusts).
+**Methods:** scaling, rubber-cup prophylaxis, air polisher for pits; light rotary polishing; cosmetic contouring for stain in the outermost enamel (Ritter et al, 2019; Kwon and Goldstein, 2018); hygiene and diet advice.
 
-**Methods**
-- Scaling and rubber-cup prophylaxis with pumice or prophy paste; air-polisher (sodium bicarbonate) for stained pits and grooves (Ritter et al, 2019; Goldstein et al, 2018). Avoid air-polishing on composite and porcelain surfaces.
-- Light rotary polishing (Haywood, da Costa and Berry, 2013); cosmetic contouring for stain confined to the outermost enamel (Kwon and Goldstein, 2018).
-- Oral hygiene instruction; reduce chromogenic foods and tobacco.
+**Whitening dentifrices:** abrasive (thin enamel with overuse), peroxide (too short a contact to bleach, useful for maintenance), titanium dioxide (temporary coating) (Goldstein et al, 2018).
 
-**Whitening dentifrices** (Goldstein et al, 2018): abrasive (remove stain but thin enamel with overuse); chemical (anti-tartar, peroxide — contact time too short to bleach, but useful to maintain bleached colour); cosmetic (titanium dioxide coating, temporary).
-
-**Role in rehabilitation:** prophylaxis is both treatment and diagnosis — it shows how much discoloration is intrinsic and must precede shade recording and bleaching. Delay bleaching for a few days after prophylaxis to avoid sensitivity (Haywood, da Costa and Berry, 2013).
+Prophylaxis also reveals the intrinsic component and precedes shade recording; delay bleaching a few days afterwards (Haywood, da Costa and Berry, 2013).
 
 ## 8. Enamel microabrasion and macroabrasion
 
@@ -184,24 +158,23 @@ Sturdevant's: "Most surface stains can be removed by routine prophylactic proced
 
 Sturdevant's: these techniques are "indicated only for stains or enamel defects that do not extend beyond a few tenths of a millimetre in depth". History: "In 1984, McCloskey reported the use of 18% hydrochloric acid swabbed on teeth for the removal of superficial fluorosis stains."; "in 1986, Croll and Cavanaugh modified the technique to include the use of pumice with 18% hydrochloric acid"; Croll later went on "reducing the concentration of the hydrochloric acid to approximately 11%" with "silicon carbide particles (in a water-soluble gel paste) instead of pumice" (Prema, Opalustre). The technique "does not remove stains or defects through any bleaching phenomena". For idiopathic spots, "an accurate prognosis for microabrasion cannot be given"; failure follows "the depth of the defect exceeding 0.2–0.3 mm". Fluorosis responds "if the discolouration is within the 0.2–0.3-mm removal depth limit"; near the CEJ "enamel is too thin to permit micro-abrasion or macro-abrasion". Technique: rubber dam, glasses, compound applied with a "special rubber cup that has fluted edges" in "A 10× gear reduction, low-speed handpiece", checked often, then "The treated areas are polished with a fluoride-containing prophy paste to restore surface lustre" and "a topical fluoride is applied to teeth to enhance remineralization". Macroabrasion uses "a 12-fluted composite finishing bur or a fine-grit finishing diamond in a high-speed handpiece" with water spray, because "Dehydration exaggerates the appearance of white spots", then "a 30-fluted finishing bur is used to remove any facets or striations". Comparison: "Micro-abrasion has the advantage of ensuring better control of the removal of tooth structure.", macroabrasion "can have catastrophic results if the clinician fails to use extreme caution" but is faster and needs no dam, and "micro-abrasion is recommended over macro-abrasion for the treatment of superficial defects in children" (Ritter et al, 2019) [SRC].
 
-The books disagree markedly on enamel loss. Summitt's: the acid leaves "the outer 22 to 27 μm weakened enough so that the abrasive, with which the acid is mixed, quickly removes the stained outer surface", applied "is applied to the enamel with a rubber cup or stiff bristle brush for 20 to 30 seconds" (Haywood, da Costa and Berry, 2013) [SRC]. Bartlett, quoting Tong et al (1993): with 18% HCl and pumice "for approximately 100 seconds, about 360" ± 130 μm of enamel is lost (the extracted text has lost the ± and μ signs), so "rubber dam is therefore mandatory" and "it should not be used for defects in dentine" (Bartlett, 2011) [SRC]. Sikri's procedure applies the agent "for 60 seconds, followed by rinsing", repeated, and describes "clinically unrecognizable enamel loss" when the defect is "confined to the superficial 0.2–0.3 mm of enamel" (Sikri, 2020) [SRC]. Reading them together: 22–27 μm is the depth weakened per application, 360 μm the cumulative loss after about 100 s, and 0.2–0.3 mm the depth limit of a treatable defect — consistent in substance, but a student quoting a single figure for "depth removed" will be wrong unless the time is stated. [Likely] Sikri contraindicates it for "Stains of amelogenesis imperfecta, dentinogenesis imperfecta and tetracycline stains" and notes "teeth sometimes appear more yellow after treatment" (Sikri, 2020) [SRC]. Goldstein's treats brown fluorosis spots: "Usually, microabrasion is considered the primary treatment." yet bleaching first is preferred because "attempting bleaching first avoids the removal of the fluoride-rich enamel layer" (Goldstein et al, 2018) [SRC]; Summitt's: "It is best to bleach first unless the tooth enamel is of a chalky texture." (Haywood, da Costa and Berry, 2013) [SRC]. Goldstein's Ch.12 describes the slurry as "a combination of hydrochloric acid (muriatic acid) and pumice with mechanical abrasion, which will etch the enamel slightly to facilitate stain removal" and macroabrasion "with friction grip diamonds or carbides with Soflex disk polishing" (Kwon and Goldstein, 2018) [SRC].
+The books disagree markedly on enamel loss. Summitt's: the acid leaves "the outer 22 to 27 μm weakened enough so that the abrasive, with which the acid is mixed, quickly removes the stained outer surface", applied "is applied to the enamel with a rubber cup or stiff bristle brush for 20 to 30 seconds" (Haywood, da Costa and Berry, 2013) [SRC]. Bartlett, quoting Tong et al (1993): with 18% HCl and pumice "for approximately 100 seconds, about 360" ± 130 μm of enamel is lost (the extracted text has lost the ± and μ signs), so "rubber dam is therefore mandatory" and "it should not be used for defects in dentine" (Bartlett, 2011) [SRC]. Sikri's procedure applies the agent "for 60 seconds, followed by rinsing", repeated, and describes "clinically unrecognizable enamel loss" when the defect is "confined to the superficial 0.2–0.3 mm of enamel" (Sikri, 2020) [SRC]. Reading them together: 22–27 μm is the depth weakened per application, 360 μm the cumulative loss after about 100 s, and 0.2–0.3 mm the depth limit of a treatable defect — consistent in substance, but a student quoting a single figure for depth removed will be wrong unless the time is stated. [Likely] Sikri contraindicates it for "Stains of amelogenesis imperfecta, dentinogenesis imperfecta and tetracycline stains" and notes "teeth sometimes appear more yellow after treatment" (Sikri, 2020) [SRC]. Goldstein's treats brown fluorosis spots: "Usually, microabrasion is considered the primary treatment." yet bleaching first is preferred because "attempting bleaching first avoids the removal of the fluoride-rich enamel layer" (Goldstein et al, 2018) [SRC]; Summitt's: "It is best to bleach first unless the tooth enamel is of a chalky texture." (Haywood, da Costa and Berry, 2013) [SRC]. Goldstein's Ch.12 describes the slurry as "a combination of hydrochloric acid (muriatic acid) and pumice with mechanical abrasion, which will etch the enamel slightly to facilitate stain removal" and macroabrasion "with friction grip diamonds or carbides with Soflex disk polishing" (Kwon and Goldstein, 2018) [SRC].
 
 #### ✎ Exam core
 
-**Microabrasion:** simultaneous erosion (acid) and abrasion (abrasive) that removes a thin layer of discoloured or defective surface enamel (Bartlett, 2011). It removes tissue; it does not bleach (Ritter et al, 2019).
+**Microabrasion:** simultaneous acid erosion and abrasion removing a thin layer of stained enamel (Bartlett, 2011); it does not bleach (Ritter et al, 2019).
 
-**Agents:** 18% HCl + pumice (McCloskey 1984; Croll and Cavanaugh 1986); about 11% HCl + silicon carbide in water-soluble gel (Prema, Opalustre) (Ritter et al, 2019).
+**Agents:** 18% HCl + pumice (McCloskey 1984; Croll and Cavanaugh 1986); about 11% HCl + silicon carbide gel (Prema, Opalustre) (Ritter et al, 2019).
 
-**Indications:** defects within 0.2–0.3 mm of enamel — mild fluorosis (brown or white), idiopathic white/brown spots, post-orthodontic decalcification, hypocalcification (Ritter et al, 2019; Sikri, 2020).
-**Contraindications:** deep defects, dentin involvement, AI, DI, tetracycline stain, hypoplastic pits, thin cervical enamel (Sikri, 2020; Bartlett, 2011).
+**Indications:** defects within 0.2–0.3 mm — mild fluorosis, idiopathic spots, decalcification, hypocalcification. **Contraindications:** dentin involvement, AI, DI, tetracycline, hypoplastic pits, thin cervical enamel (Sikri, 2020; Bartlett, 2011).
 
-**Technique:** shade and photograph → rubber dam (mandatory), protective glasses → apply with fluted rubber cup at about 10:1 gear-reduced slow speed, moderate pressure, short applications (20–30 s, Haywood, da Costa and Berry, 2013; 60 s, Sikri, 2020) → rinse and inspect wet, repeat → polish with fluoride prophy paste → topical fluoride (Ritter et al, 2019).
+**Technique:** rubber dam, glasses → fluted rubber cup at 10:1 gear-reduced slow speed, short applications (20–30 s, Haywood, da Costa and Berry, 2013; 60 s, Sikri, 2020) → rinse, inspect wet, repeat → fluoride prophy paste → topical fluoride (Ritter et al, 2019).
 
-**Enamel removed — books differ:** about 22–27 μm per application (Haywood, da Costa and Berry, 2013); about 360 μm after about 100 s of 18% HCl-pumice (Bartlett, 2011); treatable limit 0.2–0.3 mm (Ritter et al, 2019).
+**Enamel loss — books differ:** 22–27 μm per application (Haywood, da Costa and Berry, 2013); about 360 μm after about 100 s (Bartlett, 2011).
 
-**Macroabrasion:** 12-fluted finishing bur or fine diamond, high speed, light intermittent pressure, water spray to keep enamel hydrated, then 30-fluted bur and rubber points. Faster, no dam, but less controlled (Ritter et al, 2019).
+**Macroabrasion:** 12-fluted bur or fine diamond, high speed, water spray, then 30-fluted bur; faster but less controlled (Ritter et al, 2019).
 
-**Sequence:** bleach first (preserves fluoride-rich enamel), microabrade residual spots, then bond what remains (Goldstein et al, 2018).
+Bleach first to spare fluoride-rich enamel (Goldstein et al, 2018).
 
 ## 9. Resin infiltration
 
@@ -211,17 +184,13 @@ Sikri describes it under minimal intervention: "Resin infiltration is a microinv
 
 #### ✎ Exam core
 
-**Definition:** a micro-invasive technique in which a low-viscosity resin infiltrates the porous body of a non-cavitated enamel lesion; developed at Kiel, marketed as ICON (Sikri, 2020).
+**Definition:** micro-invasive infiltration of a porous non-cavitated enamel lesion with low-viscosity resin (ICON, Kiel) (Sikri, 2020).
 
-**Aesthetic principle:** the porous lesion scatters light (looks white); filling the pores with resin of similar refractive index blends it optically with sound enamel, and also arrests the lesion (Sikri, 2020).
+**Principle:** resin fills the light-scattering pores so the white lesion blends optically with sound enamel and is arrested.
 
-**Indications:** post-orthodontic and early carious white spots, non-pitted fluorosis, mild hypomineralization (MIH), some amelogenesis imperfecta (Sikri, 2020).
+**Indications:** white spot lesions, non-pitted fluorosis, mild MIH (Sikri, 2020).
 
-**Kit and steps:** rubber dam → ICON Etch (15% HCl gel) for 90–120 s, which removes the hypermineralized surface layer better than 37% phosphoric acid → rinse → ICON Dry (ethanol) to remove water from the pores → ICON Infiltrant (TEGDMA resin) applied, allowed to penetrate, light-cured, repeated → polish (Sikri, 2020).
-
-**Advantages:** no drilling, no sensitivity, preserves tissue, arrests lesion. **Limit:** pitted or deep defects need composite.
-
-**Place in sequence:** after bleaching of the whole tooth — whitening followed by infiltration for white patches (Sikri, 2020).
+**Steps:** rubber dam → 15% HCl gel 90–120 s (better than 37% phosphoric acid at removing the surface layer) → ethanol drying → TEGDMA infiltrant, light-cure, repeat → polish (Sikri, 2020). Whitening first, then infiltration.
 
 ## 10. Bleaching agents and mechanism of action
 
@@ -233,24 +202,18 @@ Carbamide peroxide (CP) breakdown — three books, three figures: Summitt's "a s
 
 #### ✎ Exam core
 
-**Mechanism:** hydrogen peroxide, of low molecular weight, diffuses through enamel into dentin (reaching the pulp in 5–15 min) and releases free radicals (hydroxyl, perhydroxyl) that oxidize large, coloured organic pigment molecules into smaller, less coloured ones (Kwon and Goldstein, 2018; Sikri, 2020; Haywood, da Costa and Berry, 2013). Most of the effect is on dentin (Bartlett, 2011).
+**Mechanism:** low-molecular-weight hydrogen peroxide diffuses through enamel into dentin (to the pulp in 5–15 min) and releases free radicals that oxidize large pigment molecules into smaller, less coloured ones (Kwon and Goldstein, 2018; Sikri, 2020; Haywood, da Costa and Berry, 2013).
 
 **Agents**
+- Hydrogen peroxide: 30–35% in-office (range 15–50%); 7.5–9.5% day gels, active 30–60 min; 6–14% OTC strips.
+- Carbamide peroxide (urea peroxide): 10–15% (up to 35–38%) nightguard; active up to 10 h, half used in 2 h.
+- HCl 18–36%; 0.5% chlorine dioxide; N-doped TiO2 with low HP (Sikri, 2020).
 
-| Agent | Concentration / use |
-|---|---|
-| Hydrogen peroxide (HP) | 30–35% in-office (range 15% to 50%); 7.5–9.5% day-wear tray gels, active 30–60 min; 6–14% OTC strips |
-| Carbamide peroxide (CP, urea peroxide) | 10–15% (up to 35–38%) nightguard; active up to 10 h, 50% used in 2 h |
-| HCl | 18–36% (McInnes); 18% or about 11% for microabrasion |
-| Others | 0.5% chlorine dioxide (roughens enamel); N-doped TiO2 with 3–10% HP (Sikri, 2020) |
+**10% CP conversion — books differ:** 3.5% HP + 6.5% urea (Haywood, da Costa and Berry, 2013); 3% HP + 7% urea (Ritter et al, 2019); 3.0% HP (Sikri, 2020). Urea raises pH above 8.
 
-**CP conversion — books differ:** 10% CP → 3.5% HP + 6.5% urea (Haywood, da Costa and Berry, 2013); 3% HP + 7% urea (Ritter et al, 2019); 3.0% HP, and 22% CP = 7.5% HP (Sikri, 2020). Rule: CP is about three times the equivalent HP. Urea raises pH above 8.
+**Additives:** carbopol (prolongs release), glycerine, surfactants, preservatives, flavours, potassium nitrate and fluoride (Sikri, 2020).
 
-**Additives:** carbopol 0.5–1.5% (thickens, prolongs oxygen release); glycerine/propylene glycol carriers; surfactants; preservatives; flavours; potassium nitrate, fluoride, ACP/CPP-ACP against sensitivity (Ritter et al, 2019; Sikri, 2020).
-
-**Concentration:** higher concentration speeds bleaching only up to a point and increases sensitivity — 20% is not twice as fast as 10% (Haywood, da Costa and Berry, 2013); Sikri says HP above 15% adds no effectiveness.
-
-**Safety limits:** FDA GRAS 3% HP and 10–15% CP; EU maximum 6% HP (about 17% CP) for consumer products (Haywood, da Costa and Berry, 2013).
+**Concentration:** effect is not linear — 20% is not twice as fast as 10% (Haywood, da Costa and Berry, 2013). Limits: FDA GRAS 3% HP, 10–15% CP; EU maximum 6% HP for consumer products.
 
 ## 11. In-office (power) vital bleaching
 
@@ -264,24 +227,21 @@ Light and heat: Sturdevant's — "the addition of light during the bleaching pro
 
 #### ✎ Exam core
 
-**Indications:** fast result wanted, poor compliance with trays, single dark vital tooth or selected teeth, jump-start before home bleaching (Haywood, da Costa and Berry, 2013; Kwon and Goldstein, 2018).
-
-**Agent:** 30–35% hydrogen peroxide gel (Ritter et al, 2019; Kwon and Goldstein, 2018).
+**Indications:** quick result, poor tray compliance, selected or single teeth, jump-start (Haywood, da Costa and Berry, 2013).
 
 **Technique**
-1. Prophylaxis (pumice/Prophy-Jet), shade and photograph with tab.
-2. No local anaesthesia — the patient's sensation warns of leakage or overheating (Haywood, da Costa and Berry, 2013).
-3. Protect eyes, lips (petroleum jelly), soft tissues.
-4. **Isolation — books differ:** heavy rubber dam ligated and sealed (Ritter et al, 2019) versus cheek retractors and a light-cured resin barrier covering 0.5 mm of cervical enamel and 2–3 mm of gingiva (Kwon and Goldstein, 2018).
-5. No acid etching (Ritter et al, 2019).
-6. Apply gel uniformly, cover with plastic wrap, activate per manufacturer; leave 40–60 min in total, renewing gel (Kwon and Goldstein, 2018) — or 30–45 min sessions (Ritter et al, 2019).
-7. Remove gel with high suction, rinse copiously, remove barrier.
-8. Fluoride: 2% neutral NaF 5–10 min (Kwon and Goldstein, 2018) versus not essential (Ritter et al, 2019).
-9. Review after 1–2 weeks (rehydration). Repeat: weekly, 2–6 sessions (average three) (Ritter et al, 2019; Haywood, da Costa and Berry, 2013); Sikri spaces thermocatalytic sessions 2–4 weeks apart at 46–60°C.
+1. Prophylaxis, shade, photographs; no anaesthesia (Haywood, da Costa and Berry, 2013).
+2. Protect eyes, lips, soft tissue.
+3. **Isolation — books differ:** heavy rubber dam (Ritter et al, 2019) versus cheek retractors and light-cured resin barrier over 0.5 mm of cervical enamel and 2–3 mm of gingiva (Kwon and Goldstein, 2018).
+4. No etching (Ritter et al, 2019).
+5. 30–35% HP gel, covered with plastic wrap, 40–60 min with renewals (Kwon and Goldstein, 2018) or 30–45 min sessions (Ritter et al, 2019).
+6. Suction, rinse, remove barrier.
+7. Fluoride: 2% NaF 5–10 min (Kwon and Goldstein, 2018) versus not essential (Ritter et al, 2019).
+8. Repeat weekly, 2–6 sessions (average three) (Ritter et al, 2019; Haywood, da Costa and Berry, 2013); Sikri: 46–60°C, 2–4 weeks apart. Judge shade after 1–2 weeks of rehydration.
 
-**Heat, lights and lasers:** they add dehydration and sensitivity rather than whitening; the peroxide does the bleaching (Ritter et al, 2019; Haywood, da Costa and Berry, 2013); CO2 laser not recommended. Sikri favours KTP (532 nm) for tetracycline. No heat in children; higher heat tolerated in the elderly (Kwon and Goldstein, 2018).
+**Lights and lasers** add dehydration and sensitivity, not whitening; CO2 laser not recommended (Ritter et al, 2019; Haywood, da Costa and Berry, 2013); Sikri favours KTP for tetracycline. No heat in children (Kwon and Goldstein, 2018).
 
-**Advantages:** dentist control, quick visible result. **Disadvantages:** cost, chair time, tissue burns, more sensitivity, unpredictable duration, false early lightening from dehydration (Ritter et al, 2019).
+**Disadvantages:** cost, burns, sensitivity, unpredictable duration (Ritter et al, 2019).
 
 ## 12. Dentist-supervised nightguard (matrix) vital bleaching
 
@@ -291,21 +251,19 @@ History: Sturdevant's says the home technique "began around 1968, although it wa
 
 #### ✎ Exam core
 
-**Principle:** a low concentration of peroxide held against the teeth for long periods in a custom tray, worn by the patient at home under the dentist's supervision.
-
-**Agent:** 10–15% carbamide peroxide with carbopol (Ritter et al, 2019; Kwon and Goldstein, 2018); 10% CP gives the best balance of safety and speed and is used by 90% of dentists surveyed (Haywood, da Costa and Berry, 2013). Alternatives: 7.5–9.5% HP day gels for 30–60 min; tiered 5–6% → 10–12% → 15–17% CP to limit sensitivity (Kwon and Goldstein, 2018).
+**Agent:** 10–15% carbamide peroxide with carbopol (Ritter et al, 2019; Kwon and Goldstein, 2018); 10% gives the best balance of safety and speed (Haywood, da Costa and Berry, 2013). Day alternative: 7.5–9.5% HP for 30–60 min.
 
 **Steps**
-1. Examination, radiographs, prophylaxis, shade and photographs.
-2. Alginate impression; thin, trimmed stone cast; optional reservoir (0.5 mm spacer ending 1 mm short of the gingiva).
-3. Vacuum-form a soft 0.9 mm sheet (Kwon and Goldstein, 2018) or 0.75–1.5 mm vinyl sagging about 25 mm (Ritter et al, 2019); trim scalloped just short of the gingiva — or unscalloped for 10% CP (Haywood, da Costa and Berry, 2013).
-4. Try-in: check fit, blanching, occlusion.
-5. Instruct: a small drop per tooth, facial surface; wipe off excess; overnight (one application) or 2–4 h by day; remove for meals; one arch at a time, maxillary first.
-6. Recall after 1–2 weeks: shade, sensitivity, gingiva, compliance.
+1. Examination, radiographs, prophylaxis, shade, photographs.
+2. Alginate impression, thin cast, optional 0.5 mm reservoir.
+3. Vacuum-form soft 0.9 mm sheet (Kwon and Goldstein, 2018); trim scalloped short of the gingiva (Ritter et al, 2019) — scalloping unnecessary with 10% CP (Haywood, da Costa and Berry, 2013).
+4. Try-in: fit, blanching, occlusion.
+5. Instruct: small drop per tooth facially, wipe excess, wear overnight or 2–4 h by day; one arch at a time, maxillary first.
+6. Recall at 1–2 weeks.
 
-**Treatment time:** normal teeth 3 days–6 weeks (average 2 weeks); nicotine 1–3 months; tetracycline 1–12 months (average 3–4 months) (Haywood, da Costa and Berry, 2013); 9 of 10 patients lighten in 2–6 weeks (Kwon and Goldstein, 2018).
+**Duration:** normal teeth 3 days–6 weeks (average 2 weeks); nicotine 1–3 months; tetracycline 1–12 months (Haywood, da Costa and Berry, 2013); 9 of 10 lighten in 2–6 weeks (Kwon and Goldstein, 2018).
 
-**Advantages:** low concentration, few side effects, low cost and chair time, easy touch-up with the same tray. **Disadvantages:** compliance needed, longer time, PMMA temporaries turn yellow-orange (Ritter et al, 2019).
+**Advantages:** low concentration, few side effects, low cost, tray reusable for touch-up. **Disadvantages:** compliance, time, PMMA temporaries yellow (Ritter et al, 2019).
 
 ## 13. Over-the-counter products and combination bleaching
 
@@ -317,23 +275,19 @@ On combination therapy the books conflict directly. Goldstein's: one in-office s
 
 #### ✎ Exam core
 
-**OTC products:** strips (6–14% HP, 30 min twice daily), paint-ons, trays, toothpastes (Haywood, da Costa and Berry, 2013); Sikri lists 5.25% HP strips.
-- *Problems:* no examination or diagnosis — may mask necrosis, resorption or caries; restorations not identified; ill-fitting trays; unknown quality and concentration; strips may not reach beyond canines (Haywood, da Costa and Berry, 2013; Bartlett, 2011).
-- *Efficacy:* a six-shade change needed 7 nights of 10% CP tray, 16 days of 6% HP strips, or 3 in-office 38% HP visits. Risk-benefit unfavourable without a dental examination.
+**OTC products:** strips (6–14% HP, 30 min twice daily), paint-ons, trays (Haywood, da Costa and Berry, 2013).
+- Problem: no diagnosis — may mask necrosis, resorption or caries; restorations ignored; strips may not reach past canines (Haywood, da Costa and Berry, 2013; Bartlett, 2011).
+- Efficacy: a six-shade change took 7 nights of 10% CP tray, 16 days of 6% HP strips, or 3 office visits.
 
-**Combination (power + matrix) bleaching:** one in-office session followed by home tray bleaching.
-- Goldstein: most effective and most predictable technique; immediate result, then continued home bleaching prevents regression (Kwon and Goldstein, 2018). Sturdevant: better than either alone (Ritter et al, 2019).
-- Summitt and Bartlett: final outcome the same as tray bleaching alone; the office session is a quicker start at extra cost (Haywood, da Costa and Berry, 2013; Bartlett, 2011).
-- Conclusion: combined bleaching suits second-degree tetracycline, impatient patients and those needing motivation; tray bleaching alone is equally effective given time.
-
-**Comparison**
+**Combination (power + matrix) bleaching:** one in-office session then home trays.
+- Most effective and predictable (Kwon and Goldstein, 2018); better than either alone (Ritter et al, 2019).
+- Same end point as trays alone; office session is only a faster start (Haywood, da Costa and Berry, 2013; Bartlett, 2011).
+- Conclusion: it buys speed and motivation (useful in second-degree tetracycline), not a whiter end point.
 
 | | In-office | Nightguard | OTC |
 |---|---|---|---|
 | Agent | 30–35% HP | 10–15% CP | 6–14% HP |
 | Control | Dentist | Shared | Patient |
-| Speed | Fast | Weeks | Variable |
-| Cost | High | Moderate | Low |
 | Diagnosis | Yes | Yes | No |
 
 ## 14. Side effects of vital bleaching and their management
@@ -344,17 +298,16 @@ On combination therapy the books conflict directly. Goldstein's: one in-office s
 
 #### ✎ Exam core
 
-| Side effect | Cause / features | Management |
-|---|---|---|
-| Tooth sensitivity (commonest) | Peroxide reaches pulp; 25–70% of patients; worst in first 2 weeks; reversible (Haywood, da Costa and Berry, 2013) | Reduce wear time or skip days; 3–5% potassium nitrate in tray (nerve depolarization); neutral fluoride (tubule blocker); desensitizing toothpaste 2 weeks before; analgesics (Kwon and Goldstein, 2018) |
-| Gingival irritation / chemical burn | Ill-fitting tray; HP leakage in-office | Trim tray; stop and rinse; water and baking soda, ZOE or antiseptic ointment |
-| Enamel surface change | Slight softening about 25 μm deep with low-pH gels | Remineralizes; neutral gels, fluoride |
-| Restorations | No effect on porcelain; slight composite roughening; PMMA yellows; mercury release from amalgam (Haywood, da Costa and Berry, 2013; Ritter et al, 2019) | Replace mismatching restorations after bleaching |
-| Reduced bond strength | Residual oxygen | Delay bonding (Section 19) |
-| Colour relapse | Regression | Touch-up |
-| TMJ discomfort | Tray wear | Day wear, tray adjustment |
+| Side effect | Management |
+|---|---|
+| Tooth sensitivity — commonest, 25–70%, worst in first 2 weeks, reversible (Haywood, da Costa and Berry, 2013) | Shorter/skipped wear; 3–5% potassium nitrate in tray; neutral fluoride; analgesics (Kwon and Goldstein, 2018) |
+| Gingival irritation, chemical burn | Trim tray; stop, rinse; baking soda or ZOE |
+| Enamel softening about 25 μm | Remineralizes; neutral gels |
+| Restorations: none on porcelain; PMMA yellows; mercury release from amalgam | Replace mismatching restorations later (Haywood, da Costa and Berry, 2013; Ritter et al, 2019) |
+| Reduced bond strength | Delay bonding (Section 19) |
+| Relapse | Touch-up |
 
-**Systemic safety:** low concentrations are safe; FDA GRAS 3% HP and 10–15% CP (Haywood, da Costa and Berry, 2013).
+Low peroxide concentrations are systemically safe (Haywood, da Costa and Berry, 2013).
 
 ## 15. Direct composite bonding and composite veneers
 
@@ -364,57 +317,54 @@ Goldstein's: "bonding remains the single fastest transformation of the mouth ava
 
 #### ✎ Exam core
 
-**Indications:** localized defects or stain (white/brown spots, hypoplasia, hypocalcification) — partial veneers; generalized mild–moderate discoloration, single discoloured tooth, young patients, limited budget — full direct veneers (Ritter et al, 2019; Goldstein and Vargas, 2018).
+**Indications:** localized spots and hypoplasia (partial veneers); mild–moderate generalized stain, single discoloured tooth, young patients, limited budget (full direct veneers) (Ritter et al, 2019; Goldstein and Vargas, 2018).
 
-**Types:** partial veneer; full veneer — window, butt-joint incisal, incisal-lapping (Ritter et al, 2019).
+**Preparation:** intra-enamel to avoid overcontour, remove fluoride-rich enamel, roughen and give a finish line; window design; 0.5–0.75 mm midfacially, 0.3–0.5 mm cervically; supragingival unless the cervical area is dark (Ritter et al, 2019). The darker the tooth, the deeper the preparation (Fahl and Ritter, n.d.).
 
-**Preparation:** intra-enamel to make space (avoid overcontour), remove fluoride-rich etch-resistant enamel, roughen surface and create a finish line; window preparation for direct veneers; 0.5–0.75 mm midfacially tapering to 0.3–0.5 mm cervically; margins supragingival unless the cervical area is dark or carious; stop facial to the contact (Ritter et al, 2019). The darker the tooth, the more preparation is needed (Fahl and Ritter, n.d.).
+**Technique:** shade on hydrated teeth, isolate, etch, bond → opaquer in thin layers → tints (violet against yellow, pink against grey) → dentin and enamel shades → finish, polish (Goldstein and Vargas, 2018; Ritter et al, 2019; Haywood, da Costa and Berry, 2013).
 
-**Technique:** clean, shade with hydrated teeth, isolate, prepare with water spray → etch, bond → mask with opaquer in thin layers → tints (violet against yellow; pink/red against grey) → dentin and enamel shades in increments → finish, polish (Goldstein and Vargas, 2018; Ritter et al, 2019; Haywood, da Costa and Berry, 2013).
+**Opaquers** need not be 100% opaque; excess opacity gives a lifeless restoration (Fahl and Ritter, n.d.).
 
-**Opaquers:** low-viscosity resins with metal oxides; need not be 100% opaque — excess opacity gives a lifeless, dull, high-value restoration (Fahl and Ritter, n.d.; Ritter et al, 2019).
-
-**Advantages:** single visit, minimal or no reduction, reversible, repairable, inexpensive. **Disadvantages:** technique sensitive, staining, wear, loss of lustre, shorter life than porcelain; very dark tetracycline teeth are the hardest to mask (Goldstein and Vargas, 2018).
+**Advantages:** one visit, little reduction, repairable, cheap. **Disadvantages:** staining, wear, shorter life; very dark tetracycline teeth are hardest to mask (Goldstein and Vargas, 2018).
 
 ## 16. Porcelain laminate veneers
 
 ### Explanation
 
-Goldstein's Ch.15 places discoloration first in its indications — "Type I: moderate tooth discolorations/color corrections" (tetracycline, fluorosis, amelogenesis imperfecta) — and lists "Moderate discolorations, such as tetracycline staining, fluorosis, devitalized teeth, and teeth darkened by age which are not conducive to vital bleaching"; advantages include that "the highly glazed porcelain surface is very resistant to stain accumulation"; disadvantages "The color cannot be easily modified once bonded in position." and "Irreversibility of preparation versus little or no preparation for direct composite resin bonding."; contraindications include "Patients with certain tooth-to-tooth habits such as bruxism", insufficient enamel ("Ideally, enamel should be around the whole periphery of the veneer"), edge-to-edge bites, and "teeth that have been excessively fluoridated may not etch effectively"; for deep tetracycline or amalgam staining "the use of more opaque high-strength ceramics such as lithium disilicate" is indicated (Stappert et al, 2018) [SRC]. Sturdevant's: "The preferred type of indirect veneer is the etched porcelain (i.e. feldspathic) veneer."; "Preparations into dentin should be avoided"; facial reduction in three zones "until the desired depth of approximately 0.6 mm is attained", incisal reduction "a minimum reduction of 1 mm or, more desirably, 1.5 mm". For darkly discoloured teeth: "Typically, 5%–15% opaque porcelain is required to achieve optimal masking.", but "Exceeding 15% opaque porcelain dramatically reduces light penetration"; "a slightly deeper tooth preparation can be used to allow greater veneer thickness" (still in enamel); "several coats of a die-spacing medium" for thicker resin cement; patients are told veneers "they may not entirely eliminate or mask extremely dark stains" (Ritter et al, 2019) [SRC].
+Goldstein's Ch.15 places discoloration first in its indications — "Type I: moderate tooth discolorations/color corrections" (tetracycline, fluorosis, amelogenesis imperfecta) — and lists "Moderate discolorations, such as tetracycline staining, fluorosis, devitalized teeth, and teeth darkened by age which are not conducive to vital bleaching"; advantages include that "the highly glazed porcelain surface is very resistant to stain accumulation"; disadvantages "The color cannot be easily modified once bonded in position." and "Irreversibility of preparation versus little or no preparation for direct composite resin bonding."; contraindications include "Patients with certain tooth-to-tooth habits such as bruxism", insufficient enamel ("Ideally, enamel should be around the whole periphery of the veneer"), edge-to-edge bites, and "teeth that have been excessively fluoridated may not etch effectively"; for deep tetracycline or amalgam staining "the use of more opaque high-strength ceramics such as lithium disilicate" is indicated (Stappert et al, 2018) [SRC]. Sturdevant's: "The preferred type of indirect veneer is the etched porcelain (i.e. feldspathic) veneer."; "Preparations into dentin should be avoided"; the depth gauge is a round-ended diamond — "A diamond with a tip diameter of 1–1.2 mm is recommended." — facial reduction in three zones "until the desired depth of approximately 0.6 mm is attained", incisal reduction "a minimum reduction of 1 mm or, more desirably, 1.5 mm". For darkly discoloured teeth: "Typically, 5%–15% opaque porcelain is required to achieve optimal masking.", but "Exceeding 15% opaque porcelain dramatically reduces light penetration"; "a slightly deeper tooth preparation can be used to allow greater veneer thickness" (still in enamel); "several coats of a die-spacing medium" for thicker resin cement; patients are told veneers "they may not entirely eliminate or mask extremely dark stains" (Ritter et al, 2019) [SRC].
 
 Conflict on pressed ceramics: Sturdevant's — "Because of the more translucent nature of pressed ceramic veneers, however, dark discolourations are best treated with etched porcelain veneers." (Ritter et al, 2019) [SRC]; Goldstein's — lithium disilicate is indicated for severe staining, and "masking can be achieved with less amount of tooth structure removal" than feldspathic, provided one records the stump shade ("it is still essential to take the stump shade of the prepared teeth") (Stappert et al, 2018; Goldstein et al, 2018) [SRC]. The difference partly reflects material generation: Sturdevant's discusses translucent pressed glass ceramics (IPS Empress) and notes newer pressed ceramics can be made thinner; Goldstein's discusses opaque high-strength lithium disilicate ingots. [Likely] Goldstein's Ch.21 also mentions "Some suggest the use of an opaque resin to mask the discolorations prior to the cementation of the porcelain veneers." (Goldstein et al, 2018) [SRC]. Longevity: "an etched porcelain veneer should last 10–15 years or longer" (Ritter et al, 2019) [SRC]. Darkening under veneers can be corrected: "Both vital and endodontically treated teeth under veneers may darken over time." (Goldstein et al, 2018) [SRC]; "the natural teeth can be bleached under the veneers from the lingual" (Haywood, da Costa and Berry, 2013) [SRC].
 
 #### ✎ Exam core
 
-**Indications:** moderate discoloration not responding to bleaching — second/third-degree tetracycline, fluorosis with defects, AI, aged and worn teeth, amalgam shine-through, single discoloured tooth; with shape or spacing problems (Stappert et al, 2018).
+**Indications:** moderate discoloration not responding to bleaching — tetracycline, fluorosis with defects, AI, aged teeth, amalgam shine-through (Stappert et al, 2018).
+**Contraindications:** bruxism, insufficient enamel, edge-to-edge bite; heavily fluorosed enamel etches poorly (Stappert et al, 2018).
 
-**Contraindications:** bruxism and parafunction, insufficient enamel, edge-to-edge or Class III bite, poor hygiene; heavily fluorosed or primary enamel etches poorly (Stappert et al, 2018).
+**Preparation (intra-enamel):** 1–1.2 mm round-ended diamond as depth gauge; facial reduction in three zones to about 0.6 mm (0.3–0.5 mm cervically); incisal 1–1.5 mm (butt-joint or lapping) or window; avoid dentin (Ritter et al, 2019).
 
-**Preparation (intra-enamel):** depth-orientation with a 1–1.2 mm round-ended diamond; facial reduction in three zones to about 0.6 mm (0.5–0.75 mm midfacial, 0.3–0.5 mm cervical); incisal reduction 1–1.5 mm (butt-joint or incisal lapping) or window design; margins just facial to contacts; avoid dentin (Ritter et al, 2019).
+**Dark teeth:** 5–15% opaque porcelain (above 15% loses vitality); slightly deeper enamel preparation; die spacer for thicker opaque cement; bleach first (Ritter et al, 2019; Goldstein et al, 2018).
 
-**Modifications for dark teeth** (Ritter et al, 2019): 5–15% opaque porcelain (above 15% kills vitality); slightly deeper preparation within enamel; die spacer for a thicker opaque resin cement; subgingival margin only if the cervical area is dark; bleach first to lighten the substrate (Goldstein et al, 2018).
+**Material — books differ:** feldspathic preferred, pressed ceramic too translucent for dark stain (Ritter et al, 2019); opaque lithium disilicate masks with less reduction, stump shade to the laboratory (Stappert et al, 2018; Goldstein et al, 2018).
 
-**Material choice — books differ:** feldspathic preferred, pressed ceramics too translucent for dark stains (Ritter et al, 2019); opaque lithium disilicate masks tetracycline with less reduction, with stump shade sent to the lab (Stappert et al, 2018; Goldstein et al, 2018).
+**Bonding:** HF-etched, silanated porcelain; etched enamel; light-cured resin cement.
 
-**Bonding:** HF etch and silane on porcelain; phosphoric acid etch of enamel; light-cured resin cement (colour stable).
-
-**Advantages:** best aesthetics, stain resistance, durability (10–15 years), conservative versus crowns. **Disadvantages:** irreversible, colour cannot be changed after cementation, two visits, cost, fragile before bonding (Stappert et al, 2018). Teeth that darken under veneers can be bleached from the lingual (Haywood, da Costa and Berry, 2013).
+**Pros:** best aesthetics, stain resistance, 10–15 years. **Cons:** irreversible, colour fixed after cementation, cost (Stappert et al, 2018). Teeth darkening under veneers can be bleached from the lingual (Haywood, da Costa and Berry, 2013).
 
 ## 17. Crowns
 
 ### Explanation
 
-Sturdevant's: "Full porcelain coverage with all-ceramic crowns may be indicated in some patients with severe discolouration" because of greater capacity to restore vitality, though many patients refuse "cutting down" (Ritter et al, 2019) [SRC]. Bartlett: "Extensively restored teeth or severely discoloured teeth (Figure 5.21) are more appropriately treated with crowns" — here phrased "are more appropriately treated with crowns" — and in AI/DI "early intervention with multiple crowns is often required" (Bartlett, 2011) [SRC]. Goldstein's: for severe drug-induced and congenital defects "full crown coverage may be necessary to improve the appearance of the teeth" (Goldstein et al, 2018) [SRC]; "Bleaching is usually a less appropriate treatment than bonding, veneering, or crowning for these problems involving the structure of enamel." (Kwon and Goldstein, 2018) [SRC]. When crowns are placed on bleached teeth Goldstein's advises: if the shade must be taken early, "choose a lighter shade, and be prepared to darken the crown if necessary" (Kwon and Goldstein, 2018) [SRC].
+Sturdevant's: "Full porcelain coverage with all-ceramic crowns may be indicated in some patients with severe discolouration" because of greater capacity to restore vitality, though many patients refuse cutting down (Ritter et al, 2019) [SRC]. Bartlett: "Extensively restored teeth or severely discoloured teeth (Figure 5.21) are more appropriately treated with crowns" — here phrased "are more appropriately treated with crowns" — and in AI/DI "early intervention with multiple crowns is often required" (Bartlett, 2011) [SRC]. Goldstein's: for severe drug-induced and congenital defects "full crown coverage may be necessary to improve the appearance of the teeth" (Goldstein et al, 2018) [SRC]; "Bleaching is usually a less appropriate treatment than bonding, veneering, or crowning for these problems involving the structure of enamel." (Kwon and Goldstein, 2018) [SRC]. When crowns are placed on bleached teeth Goldstein's advises: if the shade must be taken early, "choose a lighter shade, and be prepared to darken the crown if necessary" (Kwon and Goldstein, 2018) [SRC].
 
 #### ✎ Exam core
 
-**Indications:** severe discoloration that veneers cannot mask (fourth-degree tetracycline, very dark gingival thirds); extensively restored, fractured or weakened teeth; severe AI or DI with wear; severe fluorosis with gross deformity; malposition needing major change of form (Ritter et al, 2019; Bartlett, 2011).
+**Indications:** severe discoloration veneers cannot mask; extensively restored or weakened teeth; severe AI/DI with wear; gross fluorotic deformity (Ritter et al, 2019; Bartlett, 2011).
 
-**Choice:** all-ceramic crowns (lithium disilicate, zirconia with layered porcelain) give better translucency and vitality than veneers on very dark teeth; metal-ceramic where strength is needed but opaque layers reduce vitality (Ritter et al, 2019).
+**Choice:** all-ceramic crowns restore vitality better on very dark teeth (Ritter et al, 2019).
 
-**Disadvantages:** most tooth removal, pulpal risk in young teeth, gingival response to margins, cost — the last resort for vital teeth.
+**Drawbacks:** most tooth removal, pulpal risk, cost — last resort for vital teeth.
 
-**Shade matching:** bleach the remaining teeth first and wait for the shade to stabilize; if the shade must be taken early, choose a lighter shade and darken later; warn that adjacent teeth may need periodic touch-up bleaching to keep matching the crown (Kwon and Goldstein, 2018).
+**Shade:** bleach adjacent teeth first; if the shade must be taken early, choose lighter and darken later (Kwon and Goldstein, 2018).
 
 ## 18. Selection of treatment by cause and severity
 
@@ -426,22 +376,22 @@ Response to bleaching depends on colour: "Teeth exhibiting yellow or orange intr
 
 | Condition | First line | If inadequate |
 |---|---|---|
-| Extrinsic stain | Prophylaxis, polishing, hygiene | Bleaching for internalized nicotine stain (1–3 months) |
-| Ageing / yellow / genetic | Nightguard bleaching (fast responders) | Composite or porcelain veneers if enamel thin and worn |
-| Mild fluorosis, brown | Bleaching (about 80% respond; stable at seven years) (Goldstein et al, 2018) | Microabrasion |
-| Fluorosis, white spots | Bleach to lessen contrast → microabrasion → resin infiltration | Composite (opaque A2 under enamel shade) |
-| Moderate–severe fluorosis with pitting | Bleach as adjunct + microabrasion | Composite/porcelain veneers; crowns if deformed |
-| Tetracycline 1st degree | Nightguard or in-office bleaching | — |
-| Tetracycline 2nd degree | Combined or long nightguard (2–12 months; at least 2 months trial) | Veneers |
-| Tetracycline 3rd/4th degree, blue-grey, banded, dark gingival third | Bleach to lighten substrate | Porcelain veneers with opaque porcelain/opaque resin, lithium disilicate, or crowns |
-| Hypoplasia / hypocalcification (localized) | Microabrasion, contouring | Partial composite veneer |
-| Amelogenesis / dentinogenesis imperfecta | (Bleaching difficult, painful) | Veneers or crowns |
-| Single dark vital tooth (trauma, calcific metamorphosis) | Radiograph, pulp test → single-tooth tray bleaching | Composite veneer with violet modifier; veneer/crown |
-| Leaking restorations, amalgam shine-through | Replace restoration | Veneer or crown |
+| Extrinsic stain | Prophylaxis, hygiene | Bleach internalized nicotine stain (1–3 months) |
+| Ageing, yellow | Nightguard bleaching | Veneers if enamel worn |
+| Brown fluorosis | Bleaching (80% respond; stable at seven years) (Goldstein et al, 2018) | Microabrasion |
+| White spots | Bleach to reduce contrast → microabrasion → resin infiltration | Composite |
+| Pitted fluorosis | Bleach + microabrasion | Veneers; crowns |
+| Tetracycline I | Bleaching | — |
+| Tetracycline II | Combined or nightguard 2–12 months (trial at least 2 months) | Veneers |
+| Tetracycline III/IV, banded, dark cervical | Bleach substrate | Porcelain veneers with opaquers; crowns |
+| Localized hypoplasia | Microabrasion, contouring | Partial composite veneer |
+| AI, DI | — | Veneers, crowns |
+| Single dark vital tooth | Radiograph, pulp test, single-tooth tray | Composite veneer, veneer, crown |
+| Leaking restoration | Replace | Veneer, crown |
 
-(Ritter et al, 2019; Haywood, da Costa and Berry, 2013; Goldstein et al, 2018; Kwon and Goldstein, 2018; Sikri, 2020)
+(Ritter et al, 2019; Haywood, da Costa and Berry, 2013; Goldstein et al, 2018; Kwon and Goldstein, 2018)
 
-**Prognostic rule:** yellow/orange/brown respond best; grey/blue, banded and cervical stains worst (Ritter et al, 2019; Haywood, da Costa and Berry, 2013). With dark tetracycline most lightening occurs in the incisal half (Kwon and Goldstein, 2018). Intentional root canal treatment for internal bleaching of tetracycline teeth works but adds endodontic risk (Ritter et al, 2019).
+**Prognostic rule:** yellow, orange, brown respond best; grey-blue, banded and gingival-third stains worst; in dark tetracycline most lightening occurs in the incisal half (Ritter et al, 2019; Kwon and Goldstein, 2018).
 
 ## 19. Combination therapy: timing and sequencing
 
@@ -451,25 +401,13 @@ Bond strength after bleaching: Sturdevant's — "This reduction in bond strength
 
 #### ✎ Exam core
 
-**Sequence for a combined plan**
-1. Disease control: caries, periodontal therapy (bleach after gingival swelling resolves); temporary GIC in deep cavities (Kwon and Goldstein, 2018).
-2. Orthodontics: bleach before brackets, or after debonding and thorough resin removal (Kwon and Goldstein, 2018).
-3. Bleaching (one arch at a time) → evaluate.
-4. Microabrasion / resin infiltration of residual spots.
-5. Wait, then restorations: composite, veneers, crowns — matched to the final bleached shade (Haywood, da Costa and Berry, 2013).
+**Sequence:** disease control and periodontal therapy → bleach before orthodontic brackets (or after resin removal) (Kwon and Goldstein, 2018) → bleaching → microabrasion/infiltration → wait → restorations matched to the final shade (Haywood, da Costa and Berry, 2013).
 
-**Delay before bonding — books differ:**
+**Delay before bonding — books differ:** a few days (Bartlett, 2011); at least 1 week (Ritter et al, 2019); 7–10 days, 2 weeks for maximum bond (Haywood, da Costa and Berry, 2013); 2–3 weeks, about 2 weeks after in-office plus 4 weeks if home bleaching (Kwon and Goldstein, 2018).
 
-| Source | Delay |
-|---|---|
-| Bartlett, 2011 | A few days |
-| Ritter et al, 2019 | At least 1 week (no bond loss) |
-| Haywood, da Costa and Berry, 2013 | 7–10 days; 2 weeks for maximum bond; 1–2 weeks for shade |
-| Kwon and Goldstein, 2018 | 2–3 weeks; about 2 weeks after in-office, add 4 weeks if home bleaching (about 8 weeks from start) |
+**Reasons:** residual oxygen inhibits resin polymerization (25–50% loss of enamel bond) and the shade must stabilize (Ritter et al, 2019; Haywood, da Costa and Berry, 2013).
 
-**Reasons:** residual oxygen inhibits resin polymerization (25–50% loss of enamel bond strength), and the shade must rehydrate and stabilize (Ritter et al, 2019; Haywood, da Costa and Berry, 2013). Acetone-based drying agents can reduce surface oxygen.
-
-**Patient warning:** existing restorations will not lighten and look darker; plan their replacement and its cost before bleaching (Goldstein et al, 2018).
+Warn that existing restorations will look darker and may need replacing (Goldstein et al, 2018).
 
 ## 20. Prognosis, maintenance and conclusion
 
@@ -479,20 +417,13 @@ Longevity differs between books: Sturdevant's — "Vital bleaching usually resul
 
 #### ✎ Exam core
 
-**Prognosis**
-- Best: extrinsic, ageing, yellow/brown, mild fluorosis, first-degree tetracycline.
-- Fair: second-degree tetracycline, nicotine, brown fluorosis spots (need long treatment).
-- Poor for bleaching alone: blue-grey, banded or gingivally concentrated tetracycline, white spots, deep defects, AI/DI, metallic stains — these need adjunctive restorations (Ritter et al, 2019; Kwon and Goldstein, 2018).
+**Prognosis:** best for extrinsic, ageing, yellow/brown, mild fluorosis, first-degree tetracycline; poor for bleaching alone in banded or cervical tetracycline, white spots, deep defects, AI/DI and metallic stains (Ritter et al, 2019; Kwon and Goldstein, 2018).
 
-**Longevity — books differ:** bleaching lasts 1–3 years (Ritter et al, 2019), 2–3 years (Bartlett, 2011), about 3 years before retreatment (Kwon and Goldstein, 2018); 8 in 10 tetracycline patients retain lightening at least 1 year, satisfaction high at 7.5 years (Haywood, da Costa and Berry, 2013). Porcelain veneers last 10–15 years or longer (Ritter et al, 2019).
+**Longevity — books differ:** bleaching 1–3 years (Ritter et al, 2019), 2–3 years (Bartlett, 2011), about 3 years before retreatment (Kwon and Goldstein, 2018); 8 in 10 tetracycline patients keep the result at least 1 year (Haywood, da Costa and Berry, 2013). Porcelain veneers 10–15 years (Ritter et al, 2019).
 
-**Maintenance**
-- Keep the custom tray; touch-up bleaching as needed (annually to every few years) (Kwon and Goldstein, 2018).
-- Peroxide or low-abrasive whitening toothpaste; limit tea, coffee, tobacco; regular prophylaxis.
-- Veneers and composites: polish margins, avoid air-polishing and stannous fluoride on porcelain, night guard for bruxists; bleach teeth darkening under veneers from the lingual (Stappert et al, 2018; Haywood, da Costa and Berry, 2013).
-- Recall radiograph of any traumatized tooth.
+**Maintenance:** keep the tray for touch-ups; peroxide or low-abrasive toothpaste; limit tea, coffee, tobacco; polish veneer margins, no air-polishing or stannous fluoride on porcelain; night guard for bruxists; recall radiographs of traumatized teeth (Kwon and Goldstein, 2018; Stappert et al, 2018).
 
-**Conclusion.** Aesthetic rehabilitation of vital discoloured anterior teeth begins with diagnosis of the cause and the patient's expectation, and proceeds from prophylaxis, microabrasion, resin infiltration and bleaching to bonding, veneers and crowns only as required. Bleaching is almost always the first step, either as the definitive treatment or to lighten the substrate for thinner, more natural restorations. Combined, staged treatment with adequate delay before bonding gives the most conservative and durable result (Goldstein et al, 2018; Ritter et al, 2019).
+**Conclusion.** Rehabilitation begins with diagnosis and the patient's expectation and proceeds from prophylaxis, microabrasion, infiltration and bleaching to bonding, veneers and crowns only as required. Bleaching is almost always first, either as definitive treatment or to lighten the substrate for thinner restorations (Goldstein et al, 2018; Ritter et al, 2019).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -766,6 +697,7 @@ Longevity differs between books: Sturdevant's — "Vital bleaching usually resul
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.608 (printed p.589): "an intrinsically less translucent composite can be used rather than extending the preparation into dentin"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.611 (printed p.592): "The preferred type of indirect veneer is the etched porcelain (i.e. feldspathic) veneer."
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.611 (printed p.592): "Preparations into dentin should be avoided"
+- Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.611 (printed p.592): "A diamond with a tip diameter of 1–1.2 mm is recommended."
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.611 (printed p.592): "until the desired depth of approximately 0.6 mm is attained"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.612 (printed p.593): "a minimum reduction of 1 mm or, more desirably, 1.5 mm"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.621 (printed p.602): "Typically, 5%–15% opaque porcelain is required to achieve optimal masking."

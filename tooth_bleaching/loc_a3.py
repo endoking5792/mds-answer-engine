@@ -227,6 +227,7 @@ stu|stu_microfill|Microfills are excellent
 stu|stu_opaquefill|an intrinsically less translucent composite can be used rather than extending the preparation into dentin
 stu|stu_feld|The preferred type of indirect veneer is the etched porcelain (i.e. feldspathic) veneer.
 stu|stu_dentinavoid|Preparations into dentin should be avoided
+stu|stu_diamond|A diamond with a tip diameter of 1–1.2 mm is recommended.
 stu|stu_06|until the desired depth of approximately 0.6 mm is attained
 stu|stu_incisal|a minimum reduction of 1 mm or, more desirably, 1.5 mm
 stu|stu_opaque515|Typically, 5%–15% opaque porcelain is required to achieve optimal masking.
