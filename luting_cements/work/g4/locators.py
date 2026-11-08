@@ -164,6 +164,10 @@ L = {
  'c14_rmgi': ('c14', 'RMGI liners are a better choice for general lining of cavities'),
  'c14_mta': ('c14', 'studies have shown that it produces a more ideal outcome as a pulp-capping agent than calcium hydroxide'),
  'c14_indirect': ('c14', 'The antibacterial action of calcium hydroxide makes these cements useful in indirect pulp-capping procedures involving carious dentin'),
+ 'c11_solnec': ('c11', 'Some solubility of the calcium hydroxide is necessary to achieve its therapeutic properties'),
+ 'vpt_box': ('vpt', 'must be provided with a subbase (e.g. phosphate cement and glass ionomer cement) before application of a definitive restorative material'),
+ 'coh24_cover': ('coh24', 'covered with a cement (for the CH suspension)'),
+ 'phi_overlay': ('phi', 'liner of calcium hydroxide or ZOE cement on the cavity floor is desired the liner should be overlaid with a strong base cement'),
  # ---- Q8 Super EBA
  'c11_eba7030': ('c11', 'A typical EBA-alumina-reinforced ZOE cement contains 70% zinc oxide and 30% alumina by weight in the powder'),
  'c11_eba625': ('c11', 'contains 62.5% ortho-EBA by weight and 37.5% eugenol by weight'),
@@ -201,6 +205,9 @@ L = {
  'cas_props': ('cas', 'They are easy to manipulate, have adequate working time, dimensionally stable, biocompatible, unaffected by moisture, bacteriostatic, radiopaque'),
  'gro_alt': ('gro', 'IRM and SuperEBA are other commonly recommended'),
  'pw_22': ('pw', 'The working time of the EBA-alumina cements is long (about 22 minutes), unless moisture is present on the slab'),
+ 'c11_ebaname': ('c11', 'alumina (A1,03) is added to the powder and ethoxybenzoic acid (EBA) to the liquid'),
+ 'mcc_ebaname': ('mcc', 'The ratio of o-ethoxybenzoic acid to eugenol in the liquid'),
+ 'bp_ebaname': ('bp', 'Ortho-ethoxybenzoic acid (EBA) is added to zinc oxide eugenol cements to increase their mechanical properties'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

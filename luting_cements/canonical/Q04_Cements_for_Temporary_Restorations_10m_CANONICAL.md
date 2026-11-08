@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Note
 **Sitting:** Apr 2000 (DM 90-00; Dental Materials §5). No other wording is absorbed.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 336 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The wording is read as covering both temporary (provisional) luting cements and temporary/intermediate filling materials. Q1 gives the full classification of luting cements, Q7 covers calcium hydroxide cement and Q8 Super EBA; fabrication of provisional crowns is in ceramics/conservative_dentistry/Q19 (Provisional restorations) and is not repeated here.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 369 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The wording is read as covering both temporary (provisional) luting cements and temporary/intermediate filling materials. Q1 gives the full classification of luting cements, Q7 covers calcium hydroxide cement and Q8 Super EBA; fabrication of provisional crowns is in ceramics/conservative_dentistry/Q19 (Provisional restorations) and is not repeated here.
 
 **Retrieval report.** Craig and Powers, Restorative Dental Materials 11th ed, Ch.20 Cements (offset 9, confirmed at PDF 614, 615, 617, 618); Craig's 14th ed, Ch.13 Materials for adhesion and luting (offset 11, confirmed at PDF 294, 296, 297, 303); Phillips' 12th ed, Ch.14 Dental cements (offset 16, confirmed at PDF 323, 347, 348); McCabe and Walls 9th ed, Ch.29 (offset 9, confirmed at PDF 287, 289, 291); Powers and Wataha 10th ed, Ch.7 (offset 12, confirmed at PDF 94, 98); Bonsor and Pearson, Ch.12 Other dental cements and Ch.14 Materials used in temporization (PDF pages only); Sikri, Indirect Restorations, interim restorations chapter (PDF pages only; no printed numbers in the file); Flake and Johnson in Torabinejad's Endodontics 6th ed, Ch.15 (offset 7, confirmed at PDF 334, 353, 354); Baba et al in Endodontic Prognosis, Ch.10 (offset 7, confirmed at PDF 169, 170); Johnson et al in Cohen's 12th ed, Ch.11 (PDF pages only). Searches: "temporary cement", "provisional cement", "noneugenol/non-eugenol", "Cavit", "calcium sulphate/sulfate", "IRM", "EBA", "temporary resin", "eugenol" with "polymerization". No live literature. No critical synthesis (10 marks).
 
-<!--LOC: c14_provdef, c14_lowstr, c14_pulp, bp_soft, bp_strong, bp_notrely, sk_seal, sk_occl, c11_spec35, c11_film40, c11_disint, c11_clinical, phi_types, phi_types2, c11_typeIV, c14_examples, pw_resin, bp_nonhard, bp_putty, c11_compo, c11_setting, c11_moist, phi_seal, c14_neutral, mcc_zoe20, mcc_hydro, mcc_templute, phi_fewweeks, phi_year, pw_cotton, coh11_irm, coh11_irmliq, bp_irm, bp_irmwear, phi_never, bp_tempbond, bp_modifier, bp_trial, c11_neoil, c14_nearyl, phi_carbox, bp_neEBA, c11_nesens, c11_neacrylic, c11_neadhere, pw_resincomp, c14_resinprov, bp_clear, c14_resinstr, fj_cavit, fj_hygro, fj_35, bp_puttywear, baba_caso4, sk_cavitfilm, fj_term, bp_lcmonth, pw_longer, baba_longer, sk_ch, baba_leak, c14_scavenger, c14_debond, c14_100, c14_clean, mcc_adhesive, bp_silicone, bp_allergy, bp_neuse, baba_zoe, pw_4to8-->
+<!--LOC: c14_provdef, c14_lowstr, c14_pulp, bp_soft, bp_strong, bp_notrely, sk_seal, sk_occl, c11_spec35, c11_film40, c11_disint, c11_clinical, phi_types, phi_types2, c11_typeIV, c14_examples, pw_resin, bp_nonhard, bp_putty, c11_compo, c11_setting, c11_moist, phi_seal, c14_neutral, mcc_zoe20, mcc_hydro, mcc_templute, phi_fewweeks, phi_year, pw_cotton, coh11_irm, coh11_irmliq, bp_irm, bp_irmwear, c11_provdisint, phi_never, bp_tempbond, bp_modifier, bp_trial, c11_neoil, c14_nearyl, phi_carbox, bp_neEBA, c11_nesens, c11_neacrylic, c11_neadhere, pw_resincomp, c14_resinprov, bp_clear, c14_resinstr, fj_cavit, fj_hygro, fj_35, bp_puttywear, baba_caso4, sk_cavitfilm, fj_term, bp_lcmonth, pw_longer, baba_longer, sk_ch, baba_leak, c14_scavenger, c14_debond, c14_100, c14_clean, mcc_adhesive, bp_silicone, bp_allergy, bp_neuse, baba_zoe, pw_4to8-->
 
 <!--REF: Craig2002_20, Sakaguchi2019_13, Anusavice2013, McCabe2008, Powers2013, Bonsor2013, Sikri_ind, Flake2021, Baba2017, Johnson2021-->
 
@@ -59,17 +59,17 @@ The material's value lies in its seal and its effect on the pulp rather than its
 
 Service life depends on the mix. Phillips' says temporary ZOE restorations last a few weeks at most (Anusavice et al, undated) [SRC], while a stiff putty-like mix serves as an intermediate restoration for at least a year (Anusavice et al, undated) [SRC]. Powers and Wataha note that cotton fibres may be added to a short-term filling mix (Powers and Wataha, 2013) [SRC].
 
-**Reinforced ZOE.** IRM powder is more than 75% zinc oxide and about 20% polymethacrylate; the liquid is more than 99% eugenol with less than 1% acetic acid (Johnson et al, 2021) [SRC]. Bonsor and Pearson recommend it for longer-term temporization (Bonsor and Pearson, 2013) [SRC] because its wear resistance keeps temporized teeth in occlusion (Bonsor and Pearson, 2013) [SRC]. The EBA-alumina type is covered in Q8.
+**Reinforced ZOE.** IRM powder is more than 75% zinc oxide and about 20% polymethacrylate; the liquid is more than 99% eugenol with less than 1% acetic acid (Johnson et al, 2021) [SRC]. Bonsor and Pearson recommend it for longer-term temporization (Bonsor and Pearson, 2013) [SRC] because its wear resistance keeps temporized teeth in occlusion (Bonsor and Pearson, 2013) [SRC]. The EBA-alumina type is not a good provisional filling: tried as provisional restorations, these cements disintegrated and wore excessively in the mouth (Craig and Powers, 2002) [SRC]. It is covered in Q8.
 
 **Two-paste luting form.** The two-paste form is the usual temporary luting cement, e.g. TempBond (Bonsor and Pearson, 2013) [SRC]. A third "modifier" paste further softens it so that the provisional is easier to remove (Bonsor and Pearson, 2013) [SRC]. Phillips' warns that ZOE should never be used for temporary cementation of final fixed prostheses (Anusavice et al, undated) [SRC], because removal is difficult and risks the preparation; Bonsor and Pearson, by contrast, describe ZOE temporary cements for trial cementation of definitive indirect restorations (Bonsor and Pearson, 2013) [SRC]. The two books disagree here.
 
 #### ✎ Exam core
 
 **1. Zinc oxide-eugenol**
-- Powder ZnO, rosin, zinc acetate; liquid eugenol, olive oil; two-paste form (TempBond) for luting (Craig and Powers, 2002).
+- Powder ZnO, rosin, zinc acetate; liquid eugenol, olive oil; two-paste form (TempBond) for luting (Craig and Powers, 2002; Bonsor and Pearson, 2013).
 - Sets by chelation to zinc eugenolate; needs moisture.
 - Seals well, sedative, antibacterial; but weak (about 20 MPa) and hydrolyses (McCabe and Walls, 2008).
-- **IRM** (ZnO with 20% polymethacrylate) and EBA-alumina: stronger, for longer temporization (Johnson et al, 2021).
+- **IRM** (ZnO with about 20% polymethacrylate): stronger and wear-resistant, for longer temporization (Johnson et al, 2021; Bonsor and Pearson, 2013). EBA-alumina ZOE disintegrated and wore excessively as a provisional filling (Craig and Powers, 2002).
 
 ## 4. Non-eugenol, resin and other temporary materials
 
@@ -94,7 +94,7 @@ They are recorded side by side. These cements suit patients sensitive to eugenol
 
 #### ✎ Exam core
 
-**2. Zinc oxide non-eugenol:** ZnO with oils and an organic acid; does not soften acrylic or inhibit resins; sets slower (Craig and Powers, 2002).
+**2. Zinc oxide non-eugenol:** ZnO with oils and an organic acid; does not soften acrylic or inhibit resins; sets slower (Craig and Powers, 2002; Bonsor and Pearson, 2013).
 
 **3. Temporary resin cements:** dimethacrylate with filler; tooth-coloured; low strength, 25-70 MPa (Sakaguchi et al, 2019).
 
@@ -106,11 +106,11 @@ They are recorded side by side. These cements suit patients sensitive to eugenol
 
 ### Explanation
 
-Eugenol is a free-radical scavenger (Sakaguchi et al, 2019) [SRC]. Eugenol-containing temporary cement can therefore inhibit the adhesive and resin cement of a later bonded restoration. This raises the risk of debonding, or even fracture of low-strength silica-based ceramics (Sakaguchi et al, 2019) [SRC]. At ZOE-composite interfaces, composite properties fell up to 100 µm from the interface (Sakaguchi et al, 2019) [SRC]. McCabe and Walls flag the same problem when a provisional is luted with ZOE before resin adhesive luting (McCabe and Walls, 2008) [SRC]. Against this, several in vitro studies found dentine bond strength unaffected if the surface was thoroughly cleaned before the adhesive was applied (Sakaguchi et al, 2019) [SRC]. The evidence is laboratory-based. The practical reading is that cleaning may be enough, but avoiding eugenol removes the doubt when bonding is planned [Likely]. Bonsor and Pearson add that eugenol also interacts with addition silicone impression material (Bonsor and Pearson, 2013) [SRC].
+Eugenol is a free-radical scavenger (Sakaguchi et al, 2019) [SRC]. Eugenol-containing temporary cement can therefore inhibit the adhesive and resin cement of a later bonded restoration. This raises the risk of debonding, or even fracture of low-strength silica-based ceramics (Sakaguchi et al, 2019) [SRC]. At ZOE-composite interfaces, composite properties fell up to 100 µm from the interface (Sakaguchi et al, 2019) [SRC]. McCabe and Walls flag the same problem when a provisional is luted with ZOE before resin adhesive luting (McCabe and Walls, 2008) [SRC]. Against this, several in vitro studies found dentine bond strength unaffected if the surface was thoroughly cleaned before the adhesive was applied (Sakaguchi et al, 2019) [SRC]. The evidence is laboratory-based. The practical reading is that cleaning may be enough, but avoiding eugenol removes the doubt when bonding is planned [Likely]. Bonsor and Pearson also advise non-eugenol cement when an addition silicone impression is to follow (Bonsor and Pearson, 2013) [SRC].
 
 #### ✎ Exam core
 
-**Eugenol and bonding.** Eugenol, a free-radical scavenger, inhibits adhesives, resin cements and acrylic provisionals, risking debonding (Sakaguchi et al, 2019). Thorough cleaning restores bond strength in vitro, but non-eugenol cement is safer.
+**Eugenol and bonding.** Eugenol, a free-radical scavenger, inhibits adhesives and resin cements, risking debonding (Sakaguchi et al, 2019), and softens acrylic provisionals (Craig and Powers, 2002). Thorough cleaning restores bond strength in vitro, but non-eugenol cement is safer.
 
 ## 6. Selection
 
@@ -118,7 +118,7 @@ Eugenol is a free-radical scavenger (Sakaguchi et al, 2019) [SRC]. Eugenol-conta
 
 Bonsor and Pearson list when non-eugenol cement should be used:
 - eugenol allergy (Bonsor and Pearson, 2013) [SRC];
-- acrylic temporaries;
+- acrylic temporaries (Bonsor and Pearson, 2013) [SRC];
 - addition silicone impressions to follow (Bonsor and Pearson, 2013) [SRC];
 - resin composite or resin-containing cement planned for the definitive restoration (Bonsor and Pearson, 2013) [SRC].
 
@@ -204,6 +204,7 @@ Choosing non-eugenol: **"AAAR"**: **A**llergy, **A**crylic provisional, **A**ddi
 - Johnson et al, 2021, 11_11_Periradicular_surgery.md, PDF p.1465: "a liquid that contains greater than 99% eugenol and less than 1% acetic acid"
 - Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.456: "IRM (Intermediate Restorative Material) (Dentsply) is indicated for longer-term temporization"
 - Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.456: "It also has high wear resistance and so temporized teeth can be maintained in the correct occlusal relationship"
+- Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.617 (printed p.608): "despite their low solubility in water, disintegrated and wore excessively in the mouth"
 - Anusavice et al, undated, Phillips_Science_of_Dental_Materials.md, PDF p.347 (printed p.331): "ZOE cements should never be used for temporary cementation of final fixed prostheses"
 - Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.448: "A zinc oxide eugenol-containing temporary cement (TempBond, Kerr Hawe)"
 - Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.606: "The purpose of this paste is to further soften the cement to facilitate removal of the temporary restoration"

@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Calcium hydroxide — formulations and mechanism of action." 10m, Feb 2005 (DM 01-07). Also covers "Calcium hydroxide cement." 5m, Oct 2003 (DM 01-07); for 5 marks write sections 1, 2, 4 and 6 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 364 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). This answer covers calcium hydroxide as a cement, liner and pulp-capping agent. Intracanal use is in medicaments/Q05_Calcium_Hydroxide_Role.md and is not repeated; Q4 mentions calcium hydroxide paste as a temporary material.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 374 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). This answer covers calcium hydroxide as a cement, liner and pulp-capping agent. Intracanal use is in medicaments/Q05_Calcium_Hydroxide_Role.md and is not repeated; Q4 mentions calcium hydroxide paste as a temporary material.
 
-**Retrieval report.** Craig and Powers, Restorative Dental Materials 11th ed: Ch.20 Cements (offset 9, confirmed at PDF 614, 615, 633, 634, 635) and Ch.5 Biocompatibility (offset 10, confirmed at PDF 162, 163, 164); Craig's 14th ed Ch.8 Preventive and intermediary materials (offset 11, confirmed at PDF 141, 142); Phillips' 12th ed Ch.14 (offset 16); McCabe and Walls 9th ed Ch.29 (offset 9, confirmed at PDF 287, 289, 291); Powers and Wataha 10th ed Ch.7 (offset 12, confirmed at PDF 94, 98); Marzouk Ch.1 (PDF page only; printed page not confirmed at two pages); Cohen's 12th ed Ch.14 (Fouad and Levin) and Ch.24 (Bogen et al) (PDF pages only); Duncan and El-Karim, Vital Pulp Treatment, Ch.5 (Dammaschke; offset 19, confirmed at PDF 103, 112). Searches: "calcium hydroxide", "disalicylate", "salicylate", "Dycal", "light-cured calcium hydroxide", "tunnel", "TGF", "growth factor", "hydroxyl ions". No live literature. No critical synthesis (10 marks).
+**Retrieval report.** Craig and Powers, Restorative Dental Materials 11th ed: Ch.20 Cements (offset 9, confirmed at PDF 614, 615, 633, 634, 635) and Ch.5 Biocompatibility (offset 10, confirmed at PDF 162, 163, 164); Craig's 14th ed Ch.8 Preventive and intermediary materials (offset 11, confirmed at PDF 141, 142); Phillips' 12th ed Ch.14 (offset 16); McCabe and Walls 9th ed Ch.29 (offset 9, confirmed at PDF 287, 289, 291); Powers and Wataha 10th ed Ch.7 (offset 12, confirmed at PDF 94, 98); Marzouk Ch.1 (PDF page only; printed page not confirmed at two pages); Cohen's 12th ed Ch.14 (Fouad and Levin) and Ch.24 (Bogen et al) (PDF pages only); Duncan and El-Karim, Vital Pulp Treatment, Ch.5 (Dammaschke; offset 19, confirmed at PDF 103, 112). Searches: "calcium hydroxide", "disalicylate", "salicylate", "Dycal", "light-cured calcium hydroxide", "tunnel", "TGF", "growth factor", "hydroxyl ions"; review pass added "cover", "overlaid", "subbase" (Cohen's Ch.24 PDF 2837; Vital Pulp Treatment Box 5.3, PDF 115; Phillips' PDF 331). No live literature. No critical synthesis (10 marks).
 
-<!--LOC: vpt_hermann, c11_liner, c11_nostr, mcc_friable, mcc_8, c14_base, c14_catalyst, mcc_ca50, mcc_gs40, c14_lc, mcc_hema, c14_disal, mcc_zinc, mcc_moist, c14_settime, pw_set, c14_cs, mcc_ch20, c11_amalgam, c14_pH, pw_pH, c11_lcpH, c11_lcab, c11_sol, c11_disappear, c11_05, phi_margin, pw_noint, mcc_leach, c14_free, c14_indirect, c11b_necrosis, c11b_dystrophic, mcc_calcium, mz_ca45, mz_basic, mcc_tgf, coh14_liberate, coh14_tgf, c11b_lessirr, c11b_resinbest, vpt_lowOH, coh24_notrec, vpt_notrec, coh24_lc, vpt_seal, c14_notgeneral, c14_rmgi, phi_pulpotomy, mcc_overlaid, coh24_drawbacks, vpt_dissolve, coh24_tunnel, vpt_tunnel, c11b_gap, mcc_pull, phi_carbonate, coh24_rates, c14_mta-->
+<!--LOC: vpt_hermann, c11_liner, c11_nostr, mcc_friable, mcc_8, c14_base, c14_catalyst, mcc_ca50, mcc_gs40, c14_lc, mcc_hema, c14_disal, mcc_zinc, mcc_moist, c14_settime, pw_set, c14_cs, mcc_ch20, c11_amalgam, c14_pH, pw_pH, c11_lcpH, c11_lcab, c11_sol, c11_solnec, c11_disappear, c11_05, phi_margin, pw_noint, mcc_leach, c14_free, c14_indirect, c11b_necrosis, c11b_dystrophic, mcc_calcium, mz_ca45, mz_basic, mcc_tgf, coh14_liberate, coh14_tgf, c11b_lessirr, c11b_resinbest, vpt_lowOH, coh24_notrec, vpt_notrec, coh24_lc, vpt_seal, c14_notgeneral, c14_rmgi, phi_pulpotomy, mcc_overlaid, phi_overlay, vpt_box, coh24_cover, coh24_drawbacks, vpt_dissolve, coh24_tunnel, vpt_tunnel, c11b_gap, mcc_pull, phi_carbonate, coh24_rates, c14_mta-->
 
 <!--REF: Craig2002_5_20, Sakaguchi2019_8, Anusavice2013, McCabe2008, Powers2013, Marzouk, Fouad2021, Bogen2021, Dammaschke2024-->
 
@@ -66,7 +66,7 @@ Moisture speeds the set dramatically (McCabe and Walls, 2008) [SRC], so the ceme
 
 One light-cured product has a surface pH of 11.9 and 80 MPa strength (Craig and Powers, 2002) [SRC], but unlike the two-paste cements it showed no antibacterial activity (Craig and Powers, 2002) [SRC].
 
-**Solubility.** Water solubility over 24 hours ranged from 0.4% to 7.8% (Craig and Powers, 2002) [SRC], and some products seem to disappear from the cavity over the long term (Craig and Powers, 2002) [SRC]. Phillips' warns the material must not be left at the cavity margin (Anusavice et al, undated) [SRC]. Some solubility is needed for the therapeutic effect, so solubility is both the mechanism and the weakness [Likely].
+**Solubility.** Water solubility over 24 hours ranged from 0.4% to 7.8% (Craig and Powers, 2002) [SRC], and some products seem to disappear from the cavity over the long term (Craig and Powers, 2002) [SRC]. Phillips' warns the material must not be left at the cavity margin (Anusavice et al, undated) [SRC]. Craig and Powers add that some solubility is necessary for its therapeutic properties, although the optimum is not known (Craig and Powers, 2002) [SRC], so solubility is both the mechanism and the weakness [Likely].
 
 **Other properties.** A layer thicker than 0.5 mm is not suggested (Craig and Powers, 2002) [SRC], so it gives little thermal insulation. It does not interfere with composite polymerisation (Powers and Wataha, 2013) [SRC].
 
@@ -95,13 +95,13 @@ The bridge is the pulp's own product. Calcium from the cement does not end up in
 
 **Setting versus non-setting forms.** The books disagree on which form works best, and the two views are recorded side by side:
 - **Resin-containing setting cements better.** Craig and Powers say resin-containing calcium hydroxide is less irritating, forms a bridge faster without a necrotic zone (Craig and Powers, 2002) [SRC], and is the most effective liner for pulp exposures (Craig and Powers, 2002) [SRC].
-- **Aqueous suspensions better.** Dammaschke says setting salicylate cements release fewer hydroxyl ions, so pH is lower and the antimicrobial effect weaker (Dammaschke, 2024) [SRC]. Bogen et al and Dammaschke both say salicylate-based hard-setting cements cannot be recommended for direct pulp capping (Bogen et al, 2021; Dammaschke, 2024) [SRC], and Bogen et al find little specific calcium hydroxide effect in light-cured liners (Bogen et al, 2021) [SRC].
+- **Aqueous suspensions better.** Dammaschke says setting salicylate cements release fewer hydroxyl ions, so pH is lower and the antimicrobial effect weaker (Dammaschke, 2024) [SRC]. Bogen et al say salicylate-based hard-setting cements cannot be recommended for direct capping or pulpotomy (Bogen et al, 2021) [SRC], and Dammaschke that they cannot be recommended as a first-choice agent for direct pulp capping (Dammaschke, 2024) [SRC], and Bogen et al find little specific calcium hydroxide effect in light-cured liners (Bogen et al, 2021) [SRC].
 
 #### ✎ Exam core
 
 **Mechanism of action**
 1. **Antibacterial:** released OH- ions raise the pH and kill residual bacteria (McCabe and Walls, 2008).
-2. **Hard-tissue induction:** superficial coagulation necrosis (about 1 mm with aqueous paste) calcifies; new odontoblast-like cells form a dentine bridge (Craig and Powers, 2002). Bridge calcium comes from the pulp, not the cement.
+2. **Hard-tissue induction:** superficial necrosis (1 mm or more with aqueous paste) calcifies; new odontoblast-like cells form a dentine bridge (Craig and Powers, 2002). Bridge calcium comes from the pulp, not the cement.
 3. **Growth factors:** alkaline pH liberates TGF-β1 from dentine, signalling repair (Fouad and Levin, 2021).
 4. Setting cements release fewer OH- ions than aqueous suspensions (Dammaschke, 2024).
 
@@ -109,11 +109,11 @@ The bridge is the pulp's own product. Calcium from the cement does not end up in
 
 ### Explanation
 
-Craig's 14th edition limits calcium hydroxide liners to direct pulp capping and the deepest parts of a cavity, not general lining of the whole floor (Sakaguchi et al, 2019) [SRC]; it prefers RMGI for general lining (Sakaguchi et al, 2019) [SRC]. Phillips' adds its use as a dressing after vital pulpotomy in primary teeth (Anusavice et al, undated) [SRC]. In pulp capping the cement is overlaid with a stronger base (McCabe and Walls, 2008) [SRC]. Dammaschke's finding that hard-setting cements give a better seal than aqueous suspensions (Dammaschke, 2024) [SRC] is the usual reason for placing a setting cement over an aqueous paste [Guessing: none of the books read prescribes this layering explicitly].
+Craig's 14th edition limits calcium hydroxide liners to direct pulp capping and the deepest parts of a cavity, not general lining of the whole floor (Sakaguchi et al, 2019) [SRC]; it prefers RMGI for general lining (Sakaguchi et al, 2019) [SRC]. Phillips' adds its use as a dressing after vital pulpotomy in primary teeth (Anusavice et al, undated) [SRC]. In pulp capping the cement is generally overlaid with a strong base such as zinc phosphate (McCabe and Walls, 2008) [SRC], and Phillips' says any calcium hydroxide liner on the cavity floor should be overlaid with a strong base cement (Anusavice et al, undated) [SRC]. For an aqueous suspension the books prescribe the covering explicitly: Dammaschke's direct pulp capping protocol applies the suspension only over the exposure and says it must be provided with a subbase (e.g. phosphate cement and glass ionomer cement) before the definitive restoration (Dammaschke, 2024) [SRC], and Bogen et al cover a calcium hydroxide suspension with a cement in partial pulpotomy (Bogen et al, 2021) [SRC]. Neither names a setting calcium hydroxide cement as that covering layer, although Dammaschke notes that hard-setting cements seal the dentine-pulp complex better than aqueous suspensions (Dammaschke, 2024) [SRC].
 
 #### ✎ Exam core
 
-**Uses:** indirect pulp capping; direct pulp capping (aqueous paste preferred); spot lining of the deepest dentine under composite, amalgam or GIC, always covered by a stronger base; dressing after pulpotomy in primary teeth (Sakaguchi et al, 2019; Anusavice et al, undated).
+**Uses:** indirect pulp capping; direct pulp capping (aqueous paste, covered by a subbase such as zinc phosphate or GIC); spot lining of the deepest dentine under composite, amalgam or GIC, overlaid with a stronger base; dressing after pulpotomy in primary teeth (Sakaguchi et al, 2019; Anusavice et al, undated; Dammaschke, 2024).
 
 ## 6. Limitations
 
@@ -175,6 +175,7 @@ Clinically, direct capping with calcium hydroxide succeeded in 80.1% of teeth at
 - Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.635 (printed p.626): "One light-cured calcium hydroxide base is reported to have a surface pH of 11.9"
 - Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.635 (printed p.626): "Whereas two-paste calcium hydroxide bases show antibacterial activity, a light-cured type did not"
 - Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.634 (printed p.625): "values ranged from 0.4% to 7.8% in distilled water"
+- Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.634 (printed p.625): "Some solubility of the calcium hydroxide is necessary to achieve its therapeutic properties"
 - Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.634 (printed p.625): "Over a long term, some calcium hydroxide products seem to"
 - Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.634 (printed p.625): "A thickness greater than 0.5 mm is not suggested"
 - Anusavice et al, undated, Phillips_Science_of_Dental_Materials.md, PDF p.330 (printed p.314): "Calcium hydroxide is soluble in water and must not be left on the margin of the prepared cavity"
@@ -201,6 +202,9 @@ Clinically, direct capping with calcium hydroxide succeeded in 80.1% of teeth at
 - Sakaguchi et al, 2019, Craigs_Restorative_Dental_Materials.md, PDF p.142 (printed p.131): "RMGI liners are a better choice for general lining of cavities"
 - Anusavice et al, undated, Phillips_Science_of_Dental_Materials.md, PDF p.331 (printed p.315): "as a dressing after vital pulp"
 - McCabe and Walls, 2008, Applied_Dental_Materials_McCabe_Walls_9th.md, PDF p.291 (printed p.282): "In pulp capping procedures the calcium hydroxide material is generally overlaid with a strong cement base material"
+- Anusavice et al, undated, Phillips_Science_of_Dental_Materials.md, PDF p.331 (printed p.315): "liner of calcium hydroxide or ZOE cement on the cavity floor is desired the liner should be overlaid with a strong base cement"
+- Dammaschke, 2024, 03_Pages_91_120.md, PDF p.115 (printed p.96): "must be provided with a subbase (e.g. phosphate cement and glass ionomer cement) before application of a definitive restorative material"
+- Bogen et al, 2021, 24_24_Vital_pulp_therapy.md, PDF p.2837: "covered with a cement (for the CH suspension)"
 - Bogen et al, 2021, 24_24_Vital_pulp_therapy.md, PDF p.2840: "weak marginal adaptation to dentin, degradation and dissolution over time, and resorption in primary teeth"
 - Dammaschke, 2024, 03_Pages_91_120.md, PDF p.112 (printed p.93): "hard-setting calcium salicylate ester cement dissolves under the overlaying restoration in the long term"
 - Bogen et al, 2021, 24_24_Vital_pulp_therapy.md, PDF p.2841: "Tunnel defects have also been demonstrated in hard tissue barriers generated over pulp wounds"

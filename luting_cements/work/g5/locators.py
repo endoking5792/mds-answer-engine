@@ -143,6 +143,7 @@ L = {
  'r_carat': ('crm', 'The number did not describe the actual carat of the solder, but rather the carat of the gold alloy on which the solder was to be used.'),
  'r_finedesc': ('crm', 'the degree of fineness has been used to describe the various solders'),
  'r_56': ('crm', 'the fusion temperature of the solder should be at least 56" C below that of the parts being joined to prevent distortion'),
+ 'r_capillary': ('crm', 'control the capillary action, which causes the melted solder to penetrate into fine openings between the parts being assembled'),
  'r_lowfine': ('crm', 'lower-fineness solders are more fluid in the molten state than higher-fineness solders'),
  'r_lowfine2': ('crm', 'solders are used extensively for the assembly of dental appliances without serious tendencies to discolor'),
  'r_easyflow': ('crm', 'An easy-flowing solder is one that has a relatively low fusion temperature'),
@@ -152,6 +153,7 @@ L = {
  'r_diffuse': ('crm', 'Studies indicate that diffusion in the soldered joint reduces the strength and quality of the joint.'),
  'r_fluxdef': ('crm', 'dissolves surface oxides and allows the melted solder to wet and flow onto the adjoining alloy surfaces'),
  'r_borax': ('crm', 'The fluxes used for soldering gold alloys are combinations of borax and boric acid, with potassium fluoride added to some.'),
+ 'r_burnoff': ('crm', 'When too little flux is applied, it tends to burn off and be ineffective'),
  'r_toomuch': ('crm', 'Too much flux is as undesirable as not enough flux.'),
  'r_flame': ('crm', 'Once the flame has been applied to the spot to be soldered, it should not be withdrawn until soldering is completed.'),
  'r_reducing': ('crm', 'A protective envelope should be created around the spot to be soldered with the reducing portion of the flame.'),
@@ -199,6 +201,7 @@ L = {
  'w_50100': ('mcc', 'the fusion temperature of the solder is generally 50–100ºC below that of the casting gold alloys'),
  'w_fluoride': ('mcc', 'Fluoride salts are particularly useful in breaking down the tenacious oxide'),
  # ---- Bhat et al 3e Ch.23 Brazing and welding
+ 'b_quick': ('bhat', 'Soldering must be performed quickly, by withdrawing the flame to avoid overheating and adsorption of gases'),
  'b_def': ('bhat', 'filling the gap between them with a molten filler of suitable alloy having lower fusion temperatures'),
  'b_5010': ('bhat', 'Solidus temperature should be 50–100oC lower'),
  'b_cote': ('bhat', 'Same COTE as the basis metal, to avoid detachment during thermal cycling'),

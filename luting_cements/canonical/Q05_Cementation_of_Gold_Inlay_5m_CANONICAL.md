@@ -7,7 +7,7 @@
 
 **Retrieval report.** Read in full: Sturdevant's 2nd South Asian ed Ch.23 "Class II cast metal restorations", try-in to cementation (offset 19, confirmed at PDF 684/686); Summitt's 4th ed Ch.20 "Cast gold restorations" (Fan, Stevenson and Berry), try-in, marginal finishing, cementation, selection of a luting agent, preparing the tooth and casting, seating (PDF pages; no printed folio in the file); Marzouk Ch.25 "Casting pre-cementation, cementation, and post-cementation adjustments" (printed = PDF + 3, confirmed at PDF 386/387/388; two-column OCR, so phrases were taken within one column line); Sikri, Indirect Restorations 2nd ed, Ch.12 "Luting agents" (PDF pages; no printed folio in the file); Craig's 14th ed Ch.13 "Bonding to other substrates: cast alloys" and Ch.14 RMGI (offset 11, confirmed at PDF 193 and 279/280). Searches: "cementation", "seating", "luting", "die spacer", "venting", "metal primer", "tin plat", "sandblast" across the operative and materials books. No live literature search. No critical synthesis (5 marks); the two places where books disagree are shown side by side in sections 3 and 4.
 
-<!--LOC: s_throat, s_noforce, s_overcontour, s_floss, s_artic, s_burnish, s_explorer, f_spacer, f_shiny, f_disclose, f_passive, f_disk, m_floss, m_tempremove, f_failure, f_fills, f_tooth, m_desic, m_varnish, f_varnish, f_gicprep, f_airabr, f_margins, f_zpfric, f_resinrmgi, f_nocomp, f_gicmoist, f_chem, k_panavia, k_dualnot, f_tin, f_primer, c_sand, c_tin, c_mdp, c_incons, c_rmgiprimer, m_zpirr, m_pcc, m_zoe, s_isolate, f_slab, f_string, f_90, f_half, s_mix, f_stick, f_dynamic, f_mallet, s_ball, s_disk, s_fewsec, k_3min, k_fast, k_zphyd, k_venting, k_spacer, f_spacer2, m_perforate, m_hydraulic, f_resinfilm, k_tilt, s_burnsoft, f_burnishcem, m_burnzp, m_burnzp2, m_cemline, m_cemline2, m_burndir, f_strands, f_bead, f_gic5, k_partset, k_probe, s_excess, f_knot, f_subg, m_curette, s_line, f_finishcem, f_postsens, m_sens, m_postvisit-->
+<!--LOC: s_throat, s_noforce, s_overcontour, s_floss, s_artic, s_burnish, s_explorer, f_spacer, f_shiny, f_disclose, f_passive, f_disk, m_floss, m_tempremove, f_failure, f_fills, f_tooth, m_desic, m_varnish, f_varnish, f_gicprep, f_airabr, f_margins, f_zpfric, f_resinrmgi, f_nocomp, f_gicmoist, f_chem, k_panavia, k_dualnot, f_tin, f_primer, c_sand, c_tin, c_mdp, c_incons, c_rmgiprimer, m_zpirr, m_pcc, m_zoe, s_isolate, f_slab, f_string, f_90, f_half, s_mix, f_stick, f_dynamic, f_mallet, m_vibr, m_seaters, s_ball, s_disk, s_fewsec, k_3min, k_fast, k_zphyd, k_venting, k_spacer, f_spacer2, m_perforate, m_hydraulic, f_resinfilm, k_tilt, s_burnsoft, f_burnishcem, m_burnzp, m_burnzp2, m_cemline, m_cemline2, m_burndir, f_strands, f_bead, f_gic5, k_partset, k_probe, s_excess, f_knot, f_subg, m_curette, s_line, f_finishcem, f_postsens, m_sens, m_postvisit-->
 
 <!--REF: Ritter2019, Fan2013, Marzouk, Sikri2017, Sakaguchi2019-->
 
@@ -83,7 +83,7 @@ Summitt's warns that no cement will compensate for inadequate resistance and ret
 
 #### ✎ Exam core
 
-**4. Seating:** mix to luting consistency (zinc phosphate: chilled slab, finished within about 90 s); half-fill the inlay; seat quickly with finger pressure, then the patient bites on an orangewood stick moved about (dynamic seating) (Fan et al, 2013). Die spacer or venting reduces hydraulic pressure. Burnish accessible margins, metal to tooth, while the cement is soft.
+**4. Seating:** mix to luting consistency (zinc phosphate: chilled slab, finished within about 90 s); half-fill the inlay; seat quickly with finger pressure, then the patient bites on an orangewood stick moved about (dynamic seating) (Fan et al, 2013). Die spacer or venting reduces hydraulic pressure. Burnish accessible margins, metal to tooth, while zinc phosphate is soft.
 
 ## 4. Removing excess, finishing and review
 
@@ -111,8 +111,8 @@ Summitt's directs the explorer parallel to or away from margins and passes floss
 - Air-abraded fitting surface: binding spots show as shiny marks.
 - Dynamic seating (biting on an orangewood stick, moved about) seats the casting more completely.
 - Zinc phosphate retains by friction only and gives the highest hydraulic pressure; die spacer and venting help.
-- Resin to gold needs alumina sandblasting plus tin plating or an alloy primer; chemically cured, not dual-cure.
-- Burnish while zinc phosphate is soft, from metal to tooth.
+- Resin to gold: alumina sandblasting, with tin plating or an alloy primer to improve retention (primer research inconsistent); chemically cured, not dual-cure.
+- Burnish while zinc phosphate is soft (not polycarboxylate, per Marzouk), from metal to tooth.
 - Remove excess only after set; leave GIC alone for at least 5 minutes.
 
 ## Diagrams to draw
@@ -177,6 +177,8 @@ Summitt's directs the explorer parallel to or away from margins and passes floss
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1081: "the patient is instructed to bite on an orangewood stick or other seating instrument"
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1081: "This technique, called dynamic seating, results in more complete seating of the casting."
 - Fan et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.1082: "a sharpened stick may be placed with heavy force on the casting, along the line of draw of the preparation, with light mallet tapping"
+- Marzouk et al, undated, Operative_Dentistry_Marzouk.md, PDF p.387 (printed p.390): "metallic or metallic-based castings, vibrating condenser with"
+- Marzouk et al, undated, Operative_Dentistry_Marzouk.md, PDF p.387 (printed p.390): "available devices are used, ranging from orange wood sticks"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.687 (printed p.668): "exerting firm pressure to seat the casting"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.687 (printed p.668): "places a small flexible rubber polishing disk over the casting"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.688 (printed p.669): "A few seconds of this pressure is sufficient."

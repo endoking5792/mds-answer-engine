@@ -304,6 +304,8 @@ L = {
  'cm_pcmix': ('cm', 'Mix polyacrylate cements within 30 to 60 seconds'),
  'c14_rmgifilm': ('c14', '9 and 25 μm'),
  'p_rmgitab': ('ph', 'Resin-modified glass ionomer 4.25 11–22 85–185'),
+ 's_zp90': ('stu', 'Powder: 90% zinc oxide powder with 10% magnesium oxide'),
+ 'k_pcuse': ('sik', 'is best suited for cementation of single metal units in low'),
 }
 def find(key):
     f,ph = L[key]; path,off,cite = F[f]

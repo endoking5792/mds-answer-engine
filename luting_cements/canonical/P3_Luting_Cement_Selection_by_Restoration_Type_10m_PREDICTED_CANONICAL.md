@@ -3,9 +3,9 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted (P3 in the agreed set). Resin-bonded bridges are added because the same choice logic applies. Would also serve for "Choice of luting agent" or "Criteria for selecting a cement" (use sections 1 and 7 with the table).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 357 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The step-by-step all-ceramic cementation protocol is in ceramics/conservative_dentistry Q11 and ceramics/dental_materials P3; post selection and post types are in post_core Q04 and Q05; resin cement chemistry is in Q3 and self-adhesive cements in P1 of this topic; Q1 (25m) is the umbrella.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 362 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The step-by-step all-ceramic cementation protocol is in ceramics/conservative_dentistry Q11 and ceramics/dental_materials P3; post selection and post types are in post_core Q04 and Q05; resin cement chemistry is in Q3 and self-adhesive cements in P1 of this topic; Q1 (25m) is the umbrella.
 
-**Retrieval report.** Powers and Wataha 10th ed Ch.7 Table "Summary of uses of cements" (offset 12, confirmed at PDF 92 and 96); Alani and Patel 2025 Ch.2 Table 2.10 (offset 20, confirmed at PDF 61-74), Ch.6 (offset 23, PDF 207 and 222) and Ch.9 (offset 24, PDF 298-300); Craig's 14th ed Ch.13 (Braga; offset 11); Phillips' 12th ed Ch.12, 14 (offset 16); van Noort 4th ed Ch.3.8 (offset 15); Craig and Powers 11th ed Ch.20 (offset 9); Sikri 2nd ed Ch.12 (PDF pages only); Sturdevant's 2nd South Asian ed Ch.15 (offset 19); Summitt's 4th ed Ch.17, 18, 19, 20 and 21 (PDF pages only). Searches: "selection", "zirconia", "resin-bonded bridge", "metal post", "fibre post", "Table 2.10". Live search: one RCT-level PubMed abstract reused from P1 for metal-ceramic crowns.
+**Retrieval report.** Powers and Wataha 10th ed Ch.7 Table "Summary of uses of cements" (offset 12, confirmed at PDF 92 and 96); Alani and Patel 2025 Ch.2 Table 2.10 (offset 20, confirmed at PDF 61-74), Ch.6 (offset 23, PDF 207 and 222) and Ch.9 (offset 24, PDF 298-300); Craig's 14th ed Ch.13 (Braga; offset 11); Phillips' 12th ed Ch.12, 14 (offset 16); van Noort 4th ed Ch.3.8 (offset 15); Craig and Powers 11th ed Ch.20 (offset 9); Sikri 2nd ed Ch.12 (PDF pages only); Sturdevant's 2nd South Asian ed Ch.15 (offset 19); Summitt's 4th ed Ch.17, 18, 19, 20 and 21 (PDF pages only). Searches: "selection", "zirconia", "resin-bonded bridge", "metal post", "fibre post", "Table 2.10". Live search: one prospective clinical study abstract (PubMed) reused from P1 for metal-ceramic crowns.
 
 <!--LOC: cr_nosingle, sik_clin, sik_highTS, pw_cast, s18_znp, s18_alt, s18_dynamic, cr_extraret, s20_ret, cr_sandblast, cr_basemetal, cr_tin, ph_basemetal, ap2_gold, sik_metal, cr_mandatory, ph_ceramicchoice, ph_choice, pw_inlay, cr_hfsilane, cr_hfglass, stu_glassHF, ap2_glass, ap2_silane, vn_rmgiccontra, vn_hygro, pw_veneer, s17_light, ph_saveneer, s19_dual, s18_dualcure, stu_saglass, cr_zrnohf, ph_zrnoetch, stu_zrHF, ap2_zr, cr_zrmdp, cr_zrop, stu_zrmdp, pw_zr, stu_oxide, s21_metal, s21_friction, vn_rmgicpost, s21_trend, s21_cojet, cr_fibremoist, cr_fibrese, ap2_fibre, ap6_post, ap6_tip, stu_cfactor, s21_ER, s21_SAless, stu_postsr, pw_rbb, cm_rbb, ap2_chrome, ap9_50, ap9_opaque, ap9_cure, pw_adh-->
 
@@ -19,7 +19,7 @@
 
 Craig's is explicit that different situations need different luting agents and no one material suits every case (Braga, 2019) [SRC]. Sikri ties clinical performance to restoration type, with glass ionomers effective for base metals and resin cements promising for composite and ceramic restorations (Sikri, 2017) [SRC], and advises high-tensile-strength cement for crowns and long-span bridges (Sikri, 2017) [SRC].
 
-The decision turns on four questions [Certain]: (1) Is the restoration retentive by its own preparation geometry, or does it depend on bonding? (2) Is the restoration strong enough to survive without being bonded (metal, zirconia) or weak and needing support (glass-ceramic, composite)? (3) Can its fit surface be etched (glass-ceramic) or only primed (metal oxide, zirconia)? (4) Are aesthetics and moisture control demanding? Weak, non-retentive and translucent restorations push towards adhesive resin; strong, retentive, opaque restorations allow conventional cements.
+The decision turns on four questions [Likely]: (1) Is the restoration retentive by its own preparation geometry, or does it depend on bonding? (2) Is the restoration strong enough to survive without being bonded (metal, zirconia) or weak and needing support (glass-ceramic, composite)? (3) Can its fit surface be etched (glass-ceramic) or only primed (metal oxide, zirconia)? (4) Are aesthetics and moisture control demanding? Weak, non-retentive and translucent restorations push towards adhesive resin; strong, retentive, opaque restorations allow conventional cements.
 
 #### ✎ Exam core
 
@@ -54,7 +54,7 @@ RMGIC appears contraindicated for all-ceramics (van Noort, 2013) [SRC] because i
 #### ✎ Exam core
 
 **Glass-ceramics** (Braga, 2019; Anusavice et al, undated)
-- Adhesive resin cement mandatory: bonding strengthens the weak ceramic.
+- Adhesive resin cement: mandatory for low-strength ceramics, material of choice for all-ceramics (reduces fracture).
 - HF etch (5-9.5%) + silane (Alani and Patel, 2025); tooth etched and bonded.
 - Veneers: light-cure aesthetic resin; inlays, onlays, crowns: dual-cure resin.
 - Avoid RMGIC (hygroscopic expansion cracks ceramic) (van Noort, 2013).
@@ -78,7 +78,7 @@ Zirconia has no glass phase, so HF and silane do not work (Braga, 2019; Anusavic
 
 Metal posts are traditionally cemented with zinc phosphate or glass ionomer for ease and track record (Broome and Robbins, 2013) [SRC], retention being mainly frictional (Broome and Robbins, 2013) [SRC]; RMGIC makes later post removal very difficult (van Noort, 2013) [SRC]. The trend is to resin cement for metal and fibre posts (Broome and Robbins, 2013) [SRC], with air abrasion or tribochemical coating of metal posts (Broome and Robbins, 2013) [SRC].
 
-Fibre posts need resin cement, but root canals are hard to keep dry (Braga, 2019) [SRC] and the canal C-factor may exceed 200 (Ritter et al, 2019) [SRC]. Self-etch adhesives are not indicated with self-cured cement because their acidity impedes chemical activation (Braga, 2019) [SRC]. The post is silanated (Alani and Patel, 2025) [SRC], the canal coated with dual-cure adhesive (Alani and Patel, 2025) [SRC], and cement injected from the apical end with an elongated tip (Alani and Patel, 2025) [SRC]. Etch-and-rinse has most clinical support (Broome and Robbins, 2013) [SRC]; self-adhesive cement is contested: less effective in Summitt's (Broome and Robbins, 2013) [SRC], possibly better retention in Sturdevant's in vitro review (Ritter et al, 2019) [SRC]. Details: post_core Q04, Q05.
+Fibre posts need resin cement, but root canals are hard to keep dry (Braga, 2019) [SRC] and the canal C-factor may exceed 200 (Ritter et al, 2019) [SRC]. Self-etch adhesives are not indicated because their acidity impedes chemical activation of the resin cement (Braga, 2019) [SRC]. The post is silanated (Alani and Patel, 2025) [SRC], the canal coated with dual-cure adhesive (Alani and Patel, 2025) [SRC], and cement injected from the apical end with an elongated tip (Alani and Patel, 2025) [SRC]. Etch-and-rinse has most clinical support (Broome and Robbins, 2013) [SRC]; self-adhesive cement is contested: less effective in Summitt's (Broome and Robbins, 2013) [SRC], possibly better retention in Sturdevant's in vitro review (Ritter et al, 2019) [SRC]. Details: post_core Q04, Q05.
 
 #### ✎ Exam core
 
@@ -115,7 +115,7 @@ The table condenses Powers and Wataha's summary of uses (Powers and Wataha, 2013
 
 ## High-yield points
 - No universal cement: decide by retention, restoration strength, fit-surface chemistry, aesthetics.
-- Glass-ceramic: HF + silane + resin, always.
+- Glass-ceramic: HF + silane + resin (mandatory for low-strength ceramics).
 - Zirconia: no HF/silane; alumina blast + 10-MDP; conventional cements acceptable for retentive crowns.
 - Metal: conventional cements if retentive; MDP/4-META resin when retention is poor.
 - RMGIC: avoid under glass-ceramics and on posts you may need to remove.
@@ -129,7 +129,7 @@ The table condenses Powers and Wataha's summary of uses (Powers and Wataha, 2013
 - Writing "HF etch and silane" for zirconia.
 - Recommending RMGIC under glass-ceramic crowns.
 - Using self-adhesive or dual-cure cement for porcelain veneers.
-- Pairing self-etch adhesive with self-cured cement in a post space.
+- Using a self-etch adhesive under resin cement in a post space.
 - Giving one cement for all restorations without the reasoning.
 
 ## SOURCE LIST

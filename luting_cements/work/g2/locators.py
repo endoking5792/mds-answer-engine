@@ -251,6 +251,8 @@ L = {
  'w_hybexp': ('pw', 'because of their water sorption, which leads to expansion and can cause cracking of the ceramic restoration'),
  'w_hyblactic': ('pw', 'Hybrid ionomer cements have no measurable solubility when tested by lactic acid erosion'),
  'w_hyb14': ('pw', 'The bond strength to moist dentin is 14 MPa'),
+ 'p_t_var': ('phi', 'they were compiled from a variety of sources and a wide variation occurs among brands'),
+ 'c_alliso': ('cr14', 'all currently available materials are able to reach a thickness below that required by the ISO standards'),
  'w_gicret': ('pw', 'Retention of glass ionomer cements is primarily micromechanical, although some chemical bonding occurs'),
  'w_delay': ('pw', 'delays can result in larger film thicknesses and insufficient seating of restorations'),
  'w_ortho': ('pw', 'Demineralization of the tooth surface, which occurs with zinc phosphate cements, is minimized with the fluoride-releasing glass ionomer cements'),

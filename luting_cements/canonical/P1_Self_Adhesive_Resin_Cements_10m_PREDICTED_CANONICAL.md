@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the Answer Bank question set (P1). Would also serve for "Self-etch / self-adhesive luting agents" or "Recent advances in resin luting cements" (use sections 1-4 and 6).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 391 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q3 covers conventional resin cements; Q1 (25m) the umbrella classification of luting cements.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 399 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q3 covers conventional resin cements; Q1 (25m) the umbrella classification of luting cements.
 
 **Retrieval report.** Craig's 14th ed Ch.13 (Braga; offset 11, confirmed at PDF 300-302); Phillips' 12th ed Ch.12 and glossary of Ch.14 (offset 16, confirmed at PDF 285-286, 324-325); van Noort 4th ed Ch.3.8 (offset 15, confirmed at PDF 237-238); Powers and Wataha 10th ed Ch.7 (offset 12, confirmed at PDF 95-96); Sturdevant's 2nd South Asian ed Ch.6 and Ch.15 (offset 19, confirmed at PDF 161 and 441-443); Summitt's 4th ed Ch.9, 18 and 21 (PDF pages only); Sikri 2nd ed Ch.12 (PDF pages only). Searches: "self-adhesive", "Unicem", "phosphate monomer", "pH", "enamel". Live search: PubMed, "self-adhesive resin cement[Title]" limited to systematic reviews, meta-analyses and clinical trials (11 hits; 5 abstracts opened and cited).
 
@@ -23,7 +23,7 @@ The aim is simplicity: one step, like a water-based cement, but with resin stren
 
 #### ✎ Exam core
 
-**Definition.** Resin luting cements that incorporate the etching, priming and bonding chemistry in one material, so they bond to tooth without separate etchant or adhesive (Braga, 2019; Anusavice et al, undated). Developed to simplify adhesive cementation and reduce operative errors (Alvarenga et al, 2024). Supplied first as powder-liquid capsules, now as automix paste-paste (e.g. RelyX Unicem, Maxcem Elite, SpeedCEM, Panavia SA).
+**Definition.** Resin luting cements that incorporate the etching, priming and bonding chemistry in one material, so they bond to tooth without separate etchant or adhesive (Braga, 2019; Anusavice et al, undated). Developed to simplify adhesive cementation and reduce operative errors (Alvarenga et al, 2024). Supplied first as powder-liquid capsules, now as automix paste-paste (e.g. RelyX Unicem, MaxCem Elite, SmartCem2) (van Noort, 2013).
 
 ## 2. Composition: the acidic functional monomers
 
@@ -36,7 +36,7 @@ The other paste holds non-acidic monomers and a small amount of acid-neutralisin
 #### ✎ Exam core
 
 **Composition** (Braga, 2019; van Noort, 2013)
-- Paste 1: acidic functional monomers: phosphate/phosphonate (10-MDP, Phenyl-P, Penta-P, GPDM) or carboxylic (4-META); plus Bis-GMA, UDMA, HEMA, photoinitiator.
+- Paste 1: acidic functional monomers: phosphate/phosphonate (10-MDP, Phenyl-P, Penta-P, GPDM) or carboxylic (4-META); plus dimethacrylate co-monomers.
 - Paste 2: non-acidic dimethacrylates; basic fluoroaluminosilicate glass (neutraliser); inert filler.
 - Filler about 70 wt% (about 50 vol%), lower than composites.
 - Acid-resistant initiator system (amines fail in acid).
@@ -104,11 +104,11 @@ Indications: cast alloy crowns and bridges, metal-ceramic, ceramic (except venee
 - Weak enamel bond: selectively etch enamel margins with phosphoric acid (Braga, 2019).
 - Lower bond to etched glass-ceramics; not for veneers (aesthetics) or orthodontic brackets (van Noort, 2013).
 - Product variation; some lose strength over months (Rouse, 2013).
-- Partial ceramic crowns: lower long-term survival than adhesive + resin cement in RCTs (Scholz et al, 2021; Pfister et al, 2025).
+- Partial ceramic crowns: lower survival than adhesive + resin cement in one split-mouth RCT at 39 months and 12 years (Scholz et al, 2021; Pfister et al, 2025).
 
 **Uses:** metal and metal-ceramic crowns and bridges, zirconia and alumina restorations, indirect composites, posts (fibre-post use is contested in textbooks) (Braga, 2019; Ritter et al, 2019).
 
-**Conclusion:** a meta-analysis of RCTs shows failure rates similar to conventional cements for single crowns (Alvarenga et al, 2024); for bonded partial restorations conventional adhesive luting remains preferable.
+**Conclusion:** a meta-analysis of RCTs shows failure rates similar to conventional cements for single crowns (Alvarenga et al, 2024); for partial ceramic crowns, one long-term RCT favours conventional adhesive luting.
 
 ## High-yield points
 - All-in-one: etch + prime + bond inside the cement; no tooth pretreatment.

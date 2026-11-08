@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Resin luting cements." 10m, 13-Dec-2022 (RG PI RS-5). Also covers: "Composition and properties of resin cements." Short Note, Aug 2004 (DM 01-07) (write sections 2 and 3 in full, with the classification from section 1 as a two-line opener).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 388 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (25m) gives the umbrella classification of all luting cements; P1 covers self-adhesive resin cements in depth; P3 covers choosing a cement for each restoration type.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 391 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (25m) gives the umbrella classification of all luting cements; P1 covers self-adhesive resin cements in depth; P3 covers choosing a cement for each restoration type.
 
 **Retrieval report.** Craig's 14th ed Ch.13 (Braga; offset 11, confirmed at PDF 300-302 = printed 289-291); Phillips' 12th ed Ch.12 and Ch.14 (offset 16, confirmed at PDF 285-286 and 345-347); van Noort 4th ed Ch.3.8 (offset 15, confirmed at PDF 237-238); Powers and Wataha 10th ed Ch.7 (offset 12, confirmed at PDF 92 and 96); Craig and Powers 11th ed Ch.20 (offset 9, confirmed at PDF 628-630); Sikri 2nd ed Ch.12 (no printed page numbers visible; PDF pages only); Sturdevant's 2nd South Asian ed Ch.6 (offset 19); Summitt's 4th ed Ch.17 and 18 (PDF pages only). Searches: "resin cement", "self-adhesive", "dual-cure", "ISO 4049", "film thickness" across all listed books. No live search; no critical synthesis (10 marks).
 
@@ -76,7 +76,7 @@ Shrinkage is 2% to 5% (Braga, 2019) [SRC]. Immediate shear bond strength to dent
 #### ✎ Exam core
 
 **Properties** (Braga, 2019; Anusavice et al, undated)
-- Highest strength of luting cements: compressive 180-300 MPa (Craig's 14e) vs 70-172 MPa (Phillips' 12e).
+- Compressive strength 180-300 MPa, superior to acid-base cements (Craig's 14e) vs 70-172 MPa (Phillips' 12e).
 - Elastic modulus 4-10 GPa (Craig's) vs 2.1-3.1 GPa (Phillips').
 - Film thickness 13-20 µm (Craig's), <25 µm (Phillips').
 - Solubility near zero (0-0.01%), lowest of all cements.
@@ -104,7 +104,7 @@ Uses range from inlays to bridges, posts and orthodontic appliances (Braga, 2019
 
 ### Explanation
 
-Choose the curing mode by light access. Chemically cured cement suits all restorations (Anusavice et al, undated) [SRC]; dual-cure is for inaccessible margins where light cannot reach (Sikri, 2017) [SRC], but Phillips' says light-transmitting restorations thicker than 2.5 mm need chemical-cure cement (Anusavice et al, undated) [SRC]. Dual-cure cement should always be light cured, because light raises conversion (Rouse, 2013) [SRC]; Sikri records lower microhardness in the first 24 hours when the light step was omitted (Sikri, 2017) [SRC], and Sturdevant's warns some "dual-cure" products barely polymerise without light (Ritter et al, 2019) [SRC]. For veneers and translucent crowns avoid auto- and dual-cure cements (Sikri, 2017) [SRC] because amine accelerators such as para-toluidine discolour (Sikri, 2017) [SRC]; Summitt's agrees light-cure is more colour stable (Rouse and Robbins, 2013) [SRC]. Water-soluble try-in pastes guide shade (Braga, 2019) [SRC]. Eugenol temporary cement must be avoided beforehand because residual eugenol inhibits setting (Anusavice et al, undated) [SRC]. Excess must be removed before full set (Braga, 2019) [SRC]; Panavia's oxygen sensitivity eases this (Sikri, 2017) [SRC], and such cements need an oxygen-barrier gel at the margins to set completely (Powers and Wataha, 2013) [SRC].
+Choose the curing mode by light access. Chemically cured cement suits all restorations (Anusavice et al, undated) [SRC]; dual-cure is for inaccessible margins where light cannot reach (Sikri, 2017) [SRC], but Phillips' says light-transmitting restorations thicker than 2.5 mm need chemical-cure cement (Anusavice et al, undated) [SRC]. Dual-cure cement should always be light cured, because light raises conversion (Rouse, 2013) [SRC]; Sikri records lower microhardness in the first 24 hours when the light step was omitted (Sikri, 2017) [SRC], and Sturdevant's warns some "dual-cure" products barely polymerise without light (Ritter et al, 2019) [SRC]. For veneers and translucent crowns avoid auto- and dual-cure cements (Sikri, 2017) [SRC] because amine accelerators such as para-toluidine discolour (Sikri, 2017) [SRC]; Summitt's agrees light-cure is more colour stable (Rouse and Robbins, 2013) [SRC]. Water-soluble try-in pastes guide shade (Braga, 2019) [SRC]. Eugenol temporary cement must be avoided beforehand because residual eugenol inhibits setting (Anusavice et al, undated) [SRC]. Excess must be removed before full set (Braga, 2019) [SRC]; Panavia's oxygen sensitivity eases this (Sikri, 2017) [SRC], and some adhesive resin cements need a gel barrier to exclude oxygen for complete setting (Powers and Wataha, 2013) [SRC].
 
 #### ✎ Exam core
 
@@ -113,7 +113,7 @@ Choose the curing mode by light access. Chemically cured cement suits all restor
 2. Treat tooth (etch/bond) and restoration (HF + silane, sandblast + MDP primer).
 3. Shade with try-in paste.
 4. Dual-cure for thick or opaque restorations, always light-cured; chemical cure beyond 2.5 mm; light-cure for veneers (amine discolours) (Anusavice et al, undated; Sikri, 2017).
-5. Remove excess at gel stage; oxygen-barrier gel at margins; final cure.
+5. Remove excess at gel stage; oxygen-barrier gel where the product requires it; final cure.
 
 ## High-yield points
 - ISO 4049: class 1 self-cure, class 2 light-cure, class 3 dual-cure; most products dual-cure.
