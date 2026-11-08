@@ -24,6 +24,8 @@ L = {
  # Grossman's (a2_gro, offset 25)
  'u2_gro_cp35': ('a2_gro', 'Carbamide peroxide → Urea + ammonia + carbon dioxide + 3.5% hydrogen peroxide'),
  'u2_gro_sevh': ('a2_gro', 'Carbamide peroxide is more stable than hydrogen peroxide and can be active up to several hours'),
+ 'u2_gro_pbtext': ('a2_gro', 'this paste decomposes into sodium metaborate, water, and oxygen'),
+ 'u2_gro_pbeq': ('a2_gro', 'Sodium perborate → Sodium metaborate + hydrogen peroxide + O2'),
  'u2_gro_reduc': ('a2_gro', 'Tooth (reducing agent takes up electrons)'),
  'u2_gro_oxid': ('a2_gro', 'Bleaching agent (oxidizing agent gives free electrons)'),
  # Cohen's (a2_coh, PDF page only)
