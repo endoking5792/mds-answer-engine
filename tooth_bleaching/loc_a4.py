@@ -135,7 +135,7 @@ L = {
  'a4_sum_12bond': ('a4_sum', 'A delay of 1 to 2 weeks or more following the bleaching process allows this effect to dissipate'),
  'a4_sum_acetone': ('a4_sum', 'A drying agent, such as acetone, can be used to diminish the oxygen in the outer layers of the tooth'),
  'a4_sum_safest': ('a4_sum', 'Low concentrations of peroxide, especially 10% carbamide peroxide in a custom- fitted tray, are generally the safest'),
- # ---- Sturdevant Ch.21 (Ritter, Boushell and Walter, 2018)
+ # ---- Sturdevant Ch.21 (Ritter et al, 2019; no chapter author printed)
  'a4_stu_def': ('a4_stu', 'The lightening of the colour of a tooth through the application of a chemical agent to oxidize the organic pigmentation in the tooth is referred to as bleaching'),
  'a4_stu_1868': ('a4_stu', 'in-office bleaching of vital teeth was first reported in 1868'),
  'a4_stu_1968': ('a4_stu', 'for bleaching vital teeth outside the office began around 1968, although it was not commonly known until the late 1980s'),
