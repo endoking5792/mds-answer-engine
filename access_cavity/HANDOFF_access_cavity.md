@@ -23,3 +23,5 @@ Open points
 
 
 UPDATE 2026-11-07: C3 and P1-P3 published to the Answer Bank site (manifest 547 -> 551, 0 lost). All 8 answers are now on https://mds-answer-bank.pages.dev under Endodontics / Access Cavity Preparation.
+
+Vault: copies of these answers written 2026-11-08 to `dental-study-notes` (Question Paper Bank/Answers/Endodontics/<Topic>/ and All Answers (Consolidated)/Endodontics/<Topic>/), consolidated manifest 390 -> 412 entries, 0 lost. OneDrive .docx not made (standing no-.docx instruction); the Obsidian vault on the Mac gets them from the repository.

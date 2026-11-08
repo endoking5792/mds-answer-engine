@@ -41,3 +41,5 @@ Five independent readers (read-only) checked every cited sentence of the 14 answ
 - I1 was rebuilt from the corrected sections; the speed-and-torque section was dropped to stay inside 3500 words.
 
 Tango-Endo (named in the Mock 2025 wording): added to I4 section 6 from two web-search summaries only (a 2017 fatigue study calling the files conventional NiTi, and a clinical article calling the shaper stainless steel). Neither page could be opened because the hosts are blocked in the cloud session. The note says the premise "heat-treated Tango-Endo" is not supported by these sources. Verify against the papers before relying on it.
+
+Vault: copies of these answers written 2026-11-08 to `dental-study-notes` (Question Paper Bank/Answers/Endodontics/<Topic>/ and All Answers (Consolidated)/Endodontics/<Topic>/), consolidated manifest 390 -> 412 entries, 0 lost. OneDrive .docx not made (standing no-.docx instruction); the Obsidian vault on the Mac gets them from the repository.
