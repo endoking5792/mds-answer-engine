@@ -54,6 +54,7 @@ L = {
  'u2_pw_hour': ('a2_pw', 'The gel is replenished each hour'),
  'u2_pw_05': ('a2_pw', 'Peroxide whitening agents are readily diffused through 0.5 mm of dentin in concentration to produce cytotoxicity'),
  # Craig's 14th (a4_cr, offset 11) -- reused key a4_cr_enamel for "a few minutes"
+ 'u2_cr_14cp': ('a2_cr', 'generally carbamide or hydrogen peroxide'),
  # Craig's 11th
  'u2_c11_sec': ('u2_c11a', 'Peroxides in bleaching agents have been shown to permeate intact enamel in just a few seconds'),
  'u2_c11_cp': ('u2_c11a', 'These agents usually contain some form of peroxide (generally carbamide peroxide) in a gel'),

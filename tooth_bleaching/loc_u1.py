@@ -55,6 +55,7 @@ L = {
  'u1_pp_perm': ('u1_pp', 'The acid-pumice abrasion technique is relatively permanent if initial lightening is achieved.'),
  'u1_pp_mcinnes': ('u1_pp', 'The acid-pumice method does not actually bleach the stain as in the McInnes technique'),
  'u1_pp_boskman': ('u1_pp', 'Jordan R, Boskman L: Conservative vital bleaching treatment of discolored dentition'),
+ 'u1_edo_devital': ('a5_edo', 'should only be undertaken after proper consideration of the possible risks'),
  # --- Andreasen Ch.29 (Zachrisson and Toreskog)
  'u1_and29_10hp': ('u1_and29', 'Nocturnal use of 10% hydrogen peroxide gel in a tray is a convenient way of bleaching teeth'),
  'u1_and29_ref14': ('u1_and29', 'Clinical study of tooth shade lightening from dentist-supervised patient-applied treatment with two 10% carbamide peroxide gels'),
