@@ -3,13 +3,15 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** PREDICTED — not yet asked; it underlies B06, B07 and B09, where resorption is one section.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 356 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 394 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
-**Retrieval report.** Read in full: Cohen's Pathways of the Pulp 12th ed Ch.26 cervical root resorption section (Setzer, 2021) and Ch.18 external cervical resorption (Patel et al, 2021; Ch.18 has no bleaching-specific text); Ingle's 7th ed Ch.40 (Rotstein, 2019); Grossman's 14th ed Ch.23 (Gopikrishna, 2021); Torabinejad Ch.17 (Rotstein and Silvestrin, 2021); Endodontology Ch.44 (Baumann and Beer, 2010); Sikri Ch.24 (Sikri, 2019); Andreasen's 4th ed Ch.33 (Dahl and Pallesen, 2007). Read in part: Summitt's Ch.16 (Haywood, da Costa and Berry, 2013); Sturdevant's Ch.21 (Ritter et al, 2019); Goldstein's Ch.12 (Kwon and Goldstein, 2018) and Ch.24 (West et al, 2018); Alani and Patel Ch.3 (Alani and Patel, 2025). Live search: none. No critical synthesis (10 marks); conflicts are shown side by side.
+**Retrieval report.** Read in full: Cohen's Pathways of the Pulp 12th ed Ch.26 cervical root resorption section (Setzer, 2021) and Ch.18 external cervical resorption (Patel et al, 2021; Ch.18 has no bleaching-specific text); Ingle's 7th ed Ch.40 (Rotstein, 2019); Grossman's 14th ed Ch.23 (Gopikrishna, 2021); Torabinejad Ch.17 (Rotstein and Silvestrin, 2021); Endodontology Ch.44 (Baumann and Beer, 2010); Sikri Ch.24 (Sikri, 2019); Andreasen's 4th ed Ch.33 (Dahl and Pallesen, 2007). Read in part: Summitt's Ch.16 (Haywood, da Costa and Berry, 2013); Sturdevant's Ch.21 (Ritter et al, 2019); Goldstein's Ch.12 (Kwon and Goldstein, 2018) and Ch.24 (West et al, 2018); Alani and Patel Ch.3 (Alani and Patel, 2025). Audit (u3, 2026-11-08) added: Cohen's Ch.18 Heithersay classification, success rates and management (Patel et al, 2021); Gulabivala and Ng 4th ed Ch.11 (Gulabivala and Ng, 2014); Ingle's 7th ed Ch.15 (Andreasen, Heithersay and Bakland, 2019); Endodontology Ch.42 (Baumann and Beer, 2010, Ch.42); Sikri Essentials Ch.27 (Sikri, 2019, Ch.27); Bonsor and Pearson Ch.18 (Bonsor and Pearson, 2013). Live search: none. No critical synthesis (10 marks); conflicts are shown side by side.
 
-<!--LOC: a5_coh_ecr, a5_c18_epi, a5_c18_cej, a5_g12_1979, a5_coh_inc, a5_coh_inc2, a5_sum_7pc, a5_sum_animal, a5_sum_06, a5_sik_0to7, a5_edo_7pc, a5_stu_1pc, a5_and_28, a5_and_58, a5_and_204, a5_and_95, a5_and_250, a5_and_112, a5_g12_heith, a5_g12_heith2, a5_coh_10pc, a5_g24_10pc, a5_sum_10pop, a5_sik_10ant, a5_g24_68, a5_g24_510, a5_coh_82pc, a5_tor_mech, a5_ing_mech, a5_and_perm, a5_coh_heattub, a5_g12_widen, a5_coh_lowph, a5_g12_ph, a5_coh_hocl, a5_coh_rankl, a5_coh_collagen, a5_coh_denat, a5_and_foreign, a5_tor_bact, a5_coh_predisp, a5_coh_young, a5_sum_25yr, a5_and_trauma, a5_g12_combo, a5_ala_trauma, a5_ala_immature, a5_sik_proximal, a5_sik_coronal, a5_edo_assoc, a5_sum_factors, a5_ing_nobar, a5_sum_mostnobar, a5_sum_barrier, a5_g24_never, a5_coh_sp1yr, a5_coh_pdltox, a5_edo_reduces, a5_sum_ph, a5_coh_2mm, a5_coh_1mmcej, a5_coh_labcej, a5_sik_1mm, a5_g24_1mm, a5_gro_mandatory, a5_tor_nobarrier, a5_tor_heatcontra, a5_ing_heat, a5_g24_etch, a5_tor_etch, a5_g24_safest, a5_g24_least, a5_gro_caoh, a5_stu_caoh2wk, a5_tor_caoh, a5_ing_caoh, a5_coh_caoh, a5_gro_onset, a5_edo_7yr, a5_edo_3mo, a5_and_years, a5_g12_swell, a5_ing_recall, a5_coh_treat, a5_coh_cbct, a5_c18_obj, a5_coh_tca, a5_coh_caohtx, a5_coh_extru, a5_g12_mgmt-->
 
-<!--REF: Setzer2021, Patel2021, Rotstein2019, Gopikrishna2021, Rotstein2021, Baumann2010, Sikri2019, Dahl2007, Haywood2013, Ritter2019, Kwon2018, West2018, Alani2025-->
+
+<!--LOC: a5_coh_ecr, a5_c18_epi, a5_c18_cej, a5_g12_1979, a5_coh_inc, a5_coh_inc2, a5_sum_7pc, a5_sum_animal, a5_sum_06, a5_sik_0to7, a5_edo_7pc, a5_stu_1pc, a5_and_28, a5_and_58, a5_and_204, a5_and_95, a5_and_250, a5_and_112, a5_g12_heith, a5_g12_heith2, a5_coh_10pc, a5_g24_10pc, a5_sum_10pop, a5_sik_10ant, a5_g24_68, a5_g24_510, a5_coh_82pc, a5_tor_mech, a5_ing_mech, a5_and_perm, a5_coh_heattub, a5_g12_widen, a5_coh_lowph, a5_g12_ph, a5_coh_hocl, a5_coh_rankl, a5_coh_collagen, a5_coh_denat, a5_and_foreign, a5_tor_bact, a5_coh_predisp, a5_coh_young, a5_sum_25yr, a5_and_trauma, a5_g12_combo, a5_ala_trauma, a5_ala_immature, a5_sik_proximal, a5_sik_coronal, a5_edo_assoc, a5_sum_factors, a5_ing_nobar, a5_sum_mostnobar, a5_sum_barrier, a5_g24_never, a5_coh_sp1yr, a5_coh_pdltox, a5_edo_reduces, a5_sum_ph, a5_coh_2mm, a5_coh_1mmcej, a5_coh_labcej, a5_sik_1mm, a5_g24_1mm, a5_gro_mandatory, a5_tor_nobarrier, a5_tor_heatcontra, a5_ing_heat, a5_g24_etch, a5_tor_etch, a5_g24_safest, a5_g24_least, a5_gro_caoh, a5_stu_caoh2wk, a5_tor_caoh, a5_ing_caoh, a5_coh_caoh, a5_gro_onset, a5_edo_7yr, a5_edo_3mo, a5_and_years, a5_g12_swell, a5_ing_recall, a5_coh_treat, a5_coh_cbct, a5_c18_obj, a5_coh_tca, a5_coh_caohtx, a5_coh_extru, a5_g12_mgmt, u3_coh_friedman, u3_coh_heith, u3_sum_animal, u3_sum_madison, u3_bon_68, u3_bon_30, u3_bon_warn, u3_i15_sole, u3_i15_combo, u3_i15_ortho, u3_i15_222, u3_c18_ortho, u3_gul_cause, u3_gul_10pc, u3_gul_plaque, u3_i15_cemento, u3_e42_pred, u3_s27_pred, u3_gul_pink, u3_c18_pink, u3_gul_outline, u3_gul_heith, u3_e42_c1, u3_s27_c2, u3_s27_c3, u3_e42_c4, u3_c18_limit, u3_c18_101, u3_c18_succ, u3_e42_fail, u3_i15_class4, u3_c18_tca, u3_i15_tca, u3_e42_tca, u3_s27_after, u3_s27_table, u3_e42_extru, u3_s27_transient-->
+
+<!--REF: Setzer2021, Patel2021, Rotstein2019, Gopikrishna2021, Rotstein2021, Baumann2010, Sikri2019, Dahl2007, Haywood2013, Ritter2019, Kwon2018, West2018, Alani2025, Gulabivala2014, Andreasen2019, Baumann2010res, Sikri2019res, Bonsor2013-->
 
 ## 1. Definition and incidence
 
@@ -26,19 +28,21 @@
 | Baumann and Beer, 2010 | "Experimental studies have reported a rate of up to 7%" [SRC] | experimental |
 | Ritter et al, 2019 | "a slight potential (i.e. 1%) exists" [SRC] | bleached teeth |
 | Dahl and Pallesen, 2007 | "28 such cases" in published case reports; "Fifty-eight bleached pulpless teeth (30% H2O2 and heating) were followed for 1–8 years, and 4 cases (7%) of external root resorption were observed"; 204 thermocatalytic + walking bleach teeth "revealed 4 teeth with cervical resorption and all these had a history of trauma"; 0 in 95 teeth with perborate-water, 0 in 250, 0 in 112 [SRC] | clinical series |
+| Bonsor and Pearson, 2013 | "The prevalence is between 6% and 8% and it usually only affects non-vital teeth or those which have a history of trauma"; "The risk increases as the concentration of hydrogen peroxide rise above 30%" [SRC] | bleached teeth; study type not stated |
+| Andreasen, Heithersay and Bakland, 2019 | Heithersay's series "In a large clinical study of 222 patients (total of" 257 teeth): "orthodontic treatment (21.2%), followed by trauma (14%)", "for example, trauma and bleaching (7.7%)", and "bleaching as a sole factor was found in 4.5% of the patients studied" [SRC] | share of ECR patients with bleaching as a factor — not an incidence |
 | Kwon and Goldstein, 2018 | Heithersay: "reported that 24.1% were caused by orthodontic treatment, 15.1% by dental trauma, 5.1% by surgery" "and 3.9% by intracoronal bleaching" [SRC] | proportion of all ECR cases due to bleaching — not an incidence |
 
-Summitt shows the 18–25% figure is from animals, while Setzer presents it without saying so — so "18–25%" should not be quoted as a human clinical rate [Likely]. The human series converge near 7% for 30–35% H2O2 with heat and near 0% for perborate-water (Dahl and Pallesen, 2007) [Certain from the cited series]. Goldstein's 3.9% answers a different question (what fraction of ECR is bleaching-related).
+**Where the 18–25% comes from (checked on the pages).** Setzer gives "Cervical root resorptions were seen in 6% to 8% of cases when 35% hydrogen peroxide was used" and "18% to 25% if the hydrogen peroxide was heat activated" without saying whether these are human or animal data (Setzer, 2021) [SRC]; the references he attaches are mainly clinical reports, e.g. "Incidence of external root resorption and esthetic results in 58 bleached pulpless teeth" and "Incidence of invasive cervical resorption in bleached root-filled teeth" (Setzer, 2021) [SRC]. Summitt gives the same 18–25% and places it in animals: "Animal studies have shown a cause-and-effect relationship between internal bleaching with 30%" hydrogen peroxide and resorption, 18–25% with heat and 0–6% without, citing "Madison S, Walton R. Cervical root resorption following bleaching of endodontically treated teeth" (Haywood, da Costa and Berry, 2013) [SRC]. Setzer does not cite the Madison and Walton study for this sentence. So "18–25%" should not be quoted as a human clinical rate; the human series give about 7% [Likely]. Heithersay's own share for bleaching is 4.5% of patients (bleaching alone) and 7.7% (with trauma) in Ingle's, against 3.9% in Goldstein's; Goldstein does not say whether it counts patients or teeth, and Ingle's specifies patients, so the two figures probably use different denominators (patients vs teeth) [Likely]. Goldstein also writes "caused by", whereas Ingle's calls them potential predisposing factors. The human series converge near 7% for 30–35% H2O2 with heat and near 0% for perborate-water (Dahl and Pallesen, 2007) [Certain from the cited series]. Goldstein's 3.9% answers a different question (what fraction of ECR is bleaching-related).
 
 #### ✎ Exam core
 
-**Definition:** inflammatory resorption beginning at the cervical root just apical to the epithelial attachment after intracoronal bleaching; first linked by Harrington and Natkin in 1979 (Kwon and Goldstein, 2018).
+**Definition:** progressive inflammatory resorption starting apical to the epithelial attachment after intracoronal bleaching (Patel et al, 2021); first reported by Harrington and Natkin, 1979 (Kwon and Goldstein, 2018).
 
 **Incidence (books differ):**
-- 6–8% with 35% H2O2; 18–25% with heat (Setzer, 2021) — Summitt places 18–25% (heat) and 0–6% (no heat) in animal studies, about 7% in humans.
-- 0–7% (Sikri, 2019); up to 7% (Baumann and Beer, 2010); about 1% (Ritter et al, 2019).
-- Clinical series: 4 cases (7%) with 30% H2O2 and heating over 1–8 years; none with perborate-water (Dahl and Pallesen, 2007).
-- Bleaching causes 3.9% of all ECR cases (Heithersay, in Kwon and Goldstein, 2018).
+- 6–8% with 35% H2O2, 18–25% if heat-activated (Setzer, 2021, study type not stated); Summitt puts 18–25% (heat) and 0–6% (no heat) in animals, about 7% in humans.
+- 6–8% (Bonsor and Pearson, 2013); 0–7% (Sikri, 2019); up to 7% (Baumann and Beer, 2010); about 1% (Ritter et al, 2019).
+- Series: 4 of 58 teeth (7%) with 30% H2O2 and heat over 1–8 years; none with perborate-water (Dahl and Pallesen, 2007).
+- ECR patients: bleaching alone 4.5%, with trauma 7.7% (Andreasen, Heithersay and Bakland, 2019); 3.9% (Kwon and Goldstein, 2018).
 
 ## 2. Mechanism
 
@@ -48,14 +52,14 @@ Summitt shows the 18–25% figure is from animals, while Setzer presents it with
 
 **Diffusion.** The irritant "reaches the periodontium through defects in the cementoenamel junction" (Rotstein and Silvestrin, 2021) [SRC]; "Heat and cervical defects of the cementum increased the penetration" (Dahl and Pallesen, 2007) [SRC]; heat "may result in widening of the dentinal tubules, allowing for a diffusion of free radicals into the dentin" (Setzer, 2021) [SRC]; "Application of heat leads to widening of dentinal tubules and facilitates the diffusion of hydrogen peroxide into dentin" (Kwon and Goldstein, 2018) [SRC].
 
-**Tissue reaction.** pH: "the acidic environment induced by the low pH value of hydrogen peroxide at high concentrations may facilitate osteoclastic activity" (Setzer, 2021) [SRC]; Kwon and Goldstein list diffusion and inflammation, protein denaturation "or a decrease in pH, thereby activating osteoclastic activity leading to resorption" (Kwon and Goldstein, 2018) [SRC]. Radicals: "This may allow the formation of hypochlorous acid, N-chloramines, and reactive hydroxyl ions, and cause a resorptive process"; "Free oxygen radicals are also able to break down constituents of connective tissue, in particular collagen and hyaluronic acid"; "Significant increases in the levels of the bone resorption markers RANK-L and IL-1"β were found in crevicular fluid (Setzer, 2021) [SRC]. Denatured dentine: "The oxidizing agents were shown to induce dentin protein denaturation" (Setzer, 2021) [SRC], so "the dentin becomes an immunologically different tissue and is attacked as a foreign body by the periodontal tissue" (Dahl and Pallesen, 2007) [SRC]. Bacteria: "The process is liable to be enhanced in the presence of bacteria" (Rotstein and Silvestrin, 2021) [SRC].
+**Tissue reaction.** pH: "the acidic environment induced by the low pH value of hydrogen peroxide at high concentrations may facilitate osteoclastic activity" (Setzer, 2021) [SRC]; Kwon and Goldstein list diffusion and inflammation, protein denaturation "or a decrease in pH, thereby activating osteoclastic activity leading to resorption" (Kwon and Goldstein, 2018) [SRC]. Radicals: "This may allow the formation of hypochlorous acid, N-chloramines, and reactive hydroxyl ions, and cause a resorptive process"; "Free oxygen radicals are also able to break down constituents of connective tissue, in particular collagen and hyaluronic acid"; "Significant increases in the levels of the bone resorption markers RANK-L and IL-1"β were found in crevicular fluid (Setzer, 2021) [SRC]. Denatured dentine: "The oxidizing agents were shown to induce dentin protein denaturation" (Setzer, 2021) [SRC], so "the dentin becomes an immunologically different tissue and is attacked as a foreign body by the periodontal tissue" (Dahl and Pallesen, 2007) [SRC]. Bacteria: "The process is liable to be enhanced in the presence of bacteria" (Rotstein and Silvestrin, 2021) [SRC]. The resorption chapters agree: "internal bleaching agents may damage the cementum and initiate resorption"; "10% of the population, dentine is not covered by cementum"; "The resorptive process is then sustained by subgingival plaque" (Gulabivala and Ng, 2014) [SRC]; "a defect in the cementoblast layer seems to be a prerequisite" (Andreasen, Heithersay and Bakland, 2019) [SRC]. Bleaching is a listed predisposing factor in Endodontology — "intracoronal bleaching, trauma, orthodontics, dentoalveolar surgery, and periodontal treatment have been cited as potential predisposing factors" (Baumann and Beer, 2010, Ch.42) [SRC] — and in Sikri: "Predisposing factors may include trauma, periodontal treatment, intracoronal bleaching" (Sikri, 2019, Ch.27) [SRC]. Cohen's Ch.18, by contrast, reports a recent series where "Orthodontics was the most common appearing factor (45.7%)" and bleaching does not appear among the factors listed (Patel et al, 2021) [SRC] — bleaching is now a minor cause [Likely].
 
 #### ✎ Exam core
 
-**Mechanism (causal chain):**
-1. **CEJ defect** — in about 10% of teeth enamel and cementum do not meet, leaving dentine bare (Setzer, 2021; Sikri, 2019).
-2. **Diffusion** — H2O2 passes through the tubules to the PDL; heat widens tubules and increases penetration (Kwon and Goldstein, 2018).
-3. **Injury** — low pH favours osteoclasts; hydroxyl radicals degrade collagen; dentine proteins denature and become antigenic (Dahl and Pallesen, 2007); bacteria sustain inflammation (Rotstein and Silvestrin, 2021).
+**Mechanism:**
+1. **CEJ defect** — bare dentine at the CEJ in about 10% of teeth (Setzer, 2021; Sikri, 2019).
+2. **Diffusion** — H2O2 reaches the PDL via the tubules; heat widens them (Kwon and Goldstein, 2018).
+3. **Injury** — low pH favours osteoclasts; radicals degrade collagen; denatured dentine becomes antigenic (Dahl and Pallesen, 2007); bacteria/plaque sustain it (Rotstein and Silvestrin, 2021; Gulabivala and Ng, 2014).
 
 ## 3. Risk factors
 
@@ -65,7 +69,7 @@ Predisposing factors: "a cementum deficiency exposing dentin, a periodontal liga
 
 #### ✎ Exam core
 
-**Risk factors:** 30–35% H2O2; heat (thermocatalytic); no cervical barrier; acid etching; history of trauma (luxation, avulsion); young patient (under 25, wide tubules); CEJ defects; infection (Haywood, da Costa and Berry, 2013; Baumann and Beer, 2010; West et al, 2018).
+**Risk factors:** 30–35% H2O2; heat; no barrier; acid etching; trauma; patient under 25 (wide tubules); CEJ defects; infection (Haywood, da Costa and Berry, 2013; West et al, 2018).
 
 ## 4. Prevention
 
@@ -84,10 +88,10 @@ Heat: "Therefore the application of heat during internal bleaching is contraindi
 #### ✎ Exam core
 
 **Prevention:**
-- Sodium perborate + water (or 10% CP); no 30–35% H2O2 (Setzer, 2021).
-- **Barrier** at least 2 mm over gutta-percha, 1 mm incisal to the probed attachment (labial, mesial, distal), covering proximal tubules (Setzer, 2021; Sikri, 2019; West et al, 2018). Rotstein and Silvestrin (2021) think it unnecessary with perborate-water; Summitt notes it reduces but does not stop diffusion.
+- Sodium perborate + water (Setzer, 2021) or 10% CP (Haywood, da Costa and Berry, 2013); no 30–35% H2O2; warn the patient (Bonsor and Pearson, 2013).
+- **Barrier** at least 2 mm over gutta-percha, 1 mm incisal to the probed attachment (labial, mesial, distal) (Setzer, 2021; West et al, 2018); optional with perborate-water (Rotstein and Silvestrin, 2021); it only reduces diffusion (Summitt).
 - No heat (contraindicated — Rotstein and Silvestrin; "limit" — Rotstein, 2019); no acid etch.
-- Calcium hydroxide dressing: advised (Gopikrishna, 2021; Ritter et al, 2019) versus unnecessary (Rotstein and Silvestrin, 2021).
+- Calcium hydroxide dressing: advised (Gopikrishna, 2021) versus unnecessary (Rotstein and Silvestrin, 2021).
 - Radiographic recall for 1–7 years.
 
 ## 5. Diagnosis and management
@@ -96,13 +100,26 @@ Heat: "Therefore the application of heat during internal bleaching is contraindi
 
 Often silent; "may present clinical symptoms as gingival swelling and sensitivity to percussion" (Kwon and Goldstein, 2018) [SRC]. "Treatment of cervical resorption may range from simple fillings to extraction, depending on the severity of the resorptive defect"; "Evaluation by means of a CBCT may greatly enhance the ability for correct treatment planning"; "the placement of calcium hydroxide into the root canal space has been suggested"; surgical repair with "the application of 90% trichloroacetic acid to remove remnant tissues prior to adhesive restorations"; "Rapid orthodontic extrusion in combination with fiberotomy and restoration was suggested for resorptions with a substantial subcrestal component" (Setzer, 2021) [SRC]. Aims: "The fundamental treatment objectives in ECR are to excavate the resorptive defect, halt the resorptive process, restore the hard tissue defect" (Patel et al, 2021) [SRC]. Goldstein: advanced lesions need "exposure of the lesion with a crown lengthening procedure or forced eruption followed by an appropriate filling is required" (Kwon and Goldstein, 2018) [SRC].
 
+**Diagnosis.** "A pink spot will be present when the inflammatory tissue undermines the enamel of the crown"; unlike internal resorption, "Nevertheless, the outline of the pulp and root canal can be distinguished through the resorptive lesion" (Gulabivala and Ng, 2014) [SRC]; the pink spot is uncommon — "However, it is a relatively rare feature of ECR" (Patel et al, 2021) [SRC].
+
+**Heithersay classification** ("A classification of invasive cervical resorption is given by Heithersay (1999)" — Gulabivala and Ng, 2014) [SRC]: "Class I: A small resorptive lesion near the cervical area with shallow penetration into dentin" (Baumann and Beer, 2010, Ch.42) [SRC]; "Class 2: A well-defined invasive resorptive lesion that has penetrated close to the coronal pulp chamber", with little or no radicular extension; "Class 3: A deeper invasion of dentin by resorbing tissue, not only involving the coronal dentin, but also extending into the coronal third of the root" (Sikri, 2019, Ch.27) [SRC]; "Class IV: A large invasive resorptive process that has extended beyond the coronal third of the root" (Baumann and Beer, 2010, Ch.42) [SRC]. Limitation: "A major limitation of the Heithersay classification is that it is valid only if the ECR lesion is confined to the proximal aspect of the tooth"; Cohen's adds Patel's 3D CBCT classification (Patel et al, 2021) [SRC]. Prognosis in "He examined the prognosis of treatment in 101 cases of ECR in 94 patients": "He reported a 100% success rate for class I and class II lesions, a 77.8% success rate for class III lesions, and a 12.5% success rate for class IV lesions" (Patel et al, 2021) [SRC]; "The treatment of class IV lesions has a high failure rate" (Baumann and Beer, 2010, Ch.42) [SRC]; "as there was a low success rate for class 4 resorptions, no treatment can be generally recommended" (Andreasen, Heithersay and Bakland, 2019) [SRC].
+
+**TCA — the books order the steps differently.** Heithersay's method in Ingle's is TCA first, "followed by curettage, endodontic treatment, if indicated, and restoration" (Andreasen, Heithersay and Bakland, 2019) [SRC], and Sikri's table agrees ("Classes 1, 2: Topical application of 90% trichloracetic acid, curettage and glass ionomer cement restoration"), but Sikri's text says "Heithersay recommended use of topical application of 90% trichloroacetic acid after curettage of chronic resorptive defect" (Sikri, 2019, Ch.27) [SRC], and Cohen's Ch.18 also excavates first: "Once the resorptive tissue has been removed, the cavity may be treated with a 90% aqueous solution of trichloroacetic acid" (Patel et al, 2021) [SRC]. Endodontology applies "topical application of a 90% aqueous solution of trichloroacetic acid (TCA) in the treatment of class I and II cases" and suggests "This problem may be overcome by orthodontic extrusion of the tooth before treatment" (Baumann and Beer, 2010, Ch.42) [SRC]. Heithersay's own sequence (TCA, then curettage) is the original [Likely]; in practice TCA may be used both before and after curettage.
+
+**Textbook slip.** Sikri writes "Mostly the cervical resorption defects are transient, which means, the cementum repair may occur within two to three weeks without any treatment" (Sikri, 2019, Ch.27) [SRC]. This describes transient surface resorption, not ECR, which the other resorption chapters call progressive and invasive (Gulabivala and Ng, 2014; Baumann and Beer, 2010, Ch.42) [Likely a slip].
+
 #### ✎ Exam core
 
-**Management:** detect by radiograph/CBCT (gingival swelling, percussion tenderness); calcium hydroxide in the canal; flap, curettage, 90% trichloroacetic acid, composite/GIC repair; orthodontic extrusion for subcrestal lesions; extraction if unrestorable (Setzer, 2021; Kwon and Goldstein, 2018).
+**Diagnosis:** often silent; pink spot (rare); canal outline visible through the lesion; CBCT (Gulabivala and Ng, 2014; Setzer, 2021).
+
+**Heithersay classes:** 1 shallow cervical lesion; 2 near the coronal pulp, little radicular spread; 3 into the coronal third of the root; 4 beyond it. Success 100% (1–2), 77.8% (3), 12.5% (4) (Patel et al, 2021).
+
+**Management:** flap, curettage, 90% trichloroacetic acid, GIC/composite (Andreasen, Heithersay and Bakland, 2019); root canal treatment in class 3; orthodontic extrusion if subcrestal (Setzer, 2021); class 4: extraction/implant.
 
 ## HIGH-YIELD POINTS
 - Cause = H2O2 diffusing through a CEJ defect (about 10% of teeth) + heat + trauma history.
 - Human figures cluster near 7% for 30% H2O2 + heat, near 0% for perborate-water; 18–25% (heat) is animal data.
+- Heithersay classes 1–4: success 100%, 100%, 77.8%, 12.5%.
 - Barrier: 2 mm thick, 1 mm incisal to the epithelial attachment, higher proximally.
 - No heat, no Superoxol, no acid etching.
 - Recall 1–7 years; lesions are often painless.
@@ -111,7 +128,8 @@ Often silent; "may present clinical symptoms as gingival swelling and sensitivit
 - [DIAGRAM: "Bermuda triangle" of the cervical region | CEJ with a gap, open tubules from chamber to PDL, H2O2 arrows, barrier blocking them | labels: CEJ defect, tubules, barrier 1 mm incisal to attachment | shows mechanism and prevention together]
 
 ## COMMON EXAM MISTAKES
-- Quoting 18–25% as the clinical incidence without saying it comes from heat-activated (animal) data.
+- Quoting 18–25% as the clinical incidence: Cohen's gives it without a study type; Summitt shows it is animal data (heat).
+- Writing Heithersay class 4 lesions as routinely treatable (12.5% success).
 - Confusing Heithersay's 3.9% (share of ECR caused by bleaching) with an incidence.
 - Placing the barrier flat at the labial CEJ.
 - Presenting calcium hydroxide as universally recommended.
@@ -212,14 +230,56 @@ Often silent; "may present clinical symptoms as gingival swelling and sensitivit
 - Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.3007: "the placement of calcium hydroxide into the root canal space has been suggested"
 - Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.3007: "Rapid orthodontic extrusion in combination with fiberotomy and restoration was suggested for resorptions with a substantial subcrestal component"
 - Kwon and Goldstein, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.364 (printed p.350): "exposure of the lesion with a crown lengthening procedure or forced eruption followed by an appropriate filling is required"
+- Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.3019: "Incidence of external root resorption and esthetic results in 58 bleached pulpless teeth"
+- Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.3022: "Incidence of invasive cervical resorption in bleached root-filled teeth"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.836: "Animal studies have shown a cause-and-effect relationship between internal bleaching with 30%"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.875: "Madison S, Walton R. Cervical root resorption following bleaching of endodontically treated teeth"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.817: "The prevalence is between 6% and 8% and it usually only affects non-vital teeth or those which have a history of trauma"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.817: "The risk increases as the concentration of hydrogen peroxide rise above 30%"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.817: "Patients should be warned of the possibility of external cervical resorption prior to starting treatment"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.382 (printed p.430): "bleaching as a sole factor was found in 4.5% of the patients studied"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.382 (printed p.430): "for example, trauma and bleaching (7.7%)"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.382 (printed p.430): "orthodontic treatment (21.2%), followed by trauma (14%)"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.382 (printed p.430): "In a large clinical study of 222 patients (total of"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2317: "Orthodontics was the most common appearing factor (45.7%)"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "internal bleaching agents may damage the cementum and initiate resorption"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "10% of the population, dentine is not covered by cementum"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "The resorptive process is then sustained by subgingival plaque"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.382 (printed p.430): "a defect in the cementoblast layer seems to be a prerequisite"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.350 (printed p.333): "intracoronal bleaching, trauma, orthodontics, dentoalveolar surgery, and periodontal treatment have been cited as potential predisposing factors"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "Predisposing factors may include trauma, periodontal treatment, intracoronal bleaching"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "A pink spot will be present when the inflammatory tissue undermines the enamel of the crown"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2322: "However, it is a relatively rare feature of ECR"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "Nevertheless, the outline of the pulp and root canal can be distinguished through the resorptive lesion"
+- Gulabivala and Ng, 2014, 11_11_Management_of_tooth_resorption.md, PDF p.301 (printed p.292): "A classification of invasive cervical resorption is given by Heithersay (1999)"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.354 (printed p.337): "Class I: A small resorptive lesion near the cervical area with shallow penetration into dentin"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "Class 2: A well-defined invasive resorptive lesion that has penetrated close to the coronal pulp chamber"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "Class 3: A deeper invasion of dentin by resorbing tissue, not only involving the coronal dentin, but also extending into the coronal third of the root"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.354 (printed p.337): "Class IV: A large invasive resorptive process that has extended beyond the coronal third of the root"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2335: "A major limitation of the Heithersay classification is that it is valid only if the ECR lesion is confined to the proximal aspect of the tooth"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2335: "He examined the prognosis of treatment in 101 cases of ECR in 94 patients"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2335: "He reported a 100% success rate for class I and class II lesions, a 77.8% success rate for class III lesions, and a 12.5% success rate for class IV lesions"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.355 (printed p.338): "The treatment of class IV lesions has a high failure rate"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.384 (printed p.432): "as there was a low success rate for class 4 resorptions, no treatment can be generally recommended"
+- Patel et al, 2021, 18_18_Root_resorption.md, PDF p.2334: "Once the resorptive tissue has been removed, the cavity may be treated with a 90% aqueous solution of trichloroacetic acid"
+- Andreasen, Heithersay and Bakland, 2019, 15_Chapter_15_Pathologic_Tooth_Resorption.md, PDF p.383 (printed p.431): "followed by curettage, endodontic treatment, if indicated, and restoration"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.354 (printed p.337): "topical application of a 90% aqueous solution of trichloroacetic acid (TCA) in the treatment of class I and II cases"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.514 (printed p.493): "Heithersay recommended use of topical application of 90% trichloroacetic acid after curettage of chronic resorptive defect"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.519 (printed p.498): "Classes 1, 2: Topical application of 90% trichloracetic acid, curettage and glass ionomer cement restoration"
+- Baumann and Beer, 2010, 42_42_Tooth_Resorption.md, PDF p.355 (printed p.338): "This problem may be overcome by orthodontic extrusion of the tooth before treatment"
+- Sikri, 2019, 27_27_Root_Resorption.md, PDF p.513 (printed p.492): "Mostly the cervical resorption defects are transient, which means, the cementum repair may occur within two to three weeks without any treatment"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
 - Alani A, Patel M. Adhesive Techniques in Restorative Dentistry (BDJ Clinician's Guides). Cham: Springer Nature; 2025. Ch.3 Management of discoloured teeth.
+- Andreasen JO, Heithersay GS, Bakland LK. Pathologic tooth resorption. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.15 (author line decoded from a damaged OCR heading; verify against the printed book).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.42 Tooth resorption (chapter author not stated in the extracted file; cited under the editors).
 - Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.44 Bleaching discolored teeth (chapter author not stated in the extracted file; cited under the editors).
+- Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.
 - Dahl JE, Pallesen U. Bleaching of the discolored traumatized tooth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.33.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.23 Bleaching of discolored teeth (no individual chapter author is named in the file, so the editor is cited).
+- Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.11 Management of tooth resorption (chapter author not printed in the extracted file; cited under the editors).
 - Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.
 - Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.
 - Patel S, Durack C, Ricucci D, Bakhsh AA. Root resorption. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.18.
@@ -228,4 +288,5 @@ Often silent; "may present clinical symptoms as gingival swelling and sensitivit
 - Rotstein I. Tooth discoloration and bleaching of non-vital teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.40 (author line decoded from a damaged OCR heading; verify against the printed book).
 - Setzer FC. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26.
 - Sikri VK. Bleaching of discolored teeth. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.24.
+- Sikri VK. Root resorption. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.27.
 - West J, Chivian N, Arens DE, Sigurdsson A. Endodontics and esthetic dentistry. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.24.
