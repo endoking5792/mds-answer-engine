@@ -3,14 +3,14 @@
 **Marks:** 5m, Short Note
 **Sitting:** Jun 2017 (PII 16-21). Repeats absorbed: none. Lasers in general belong to the Lasers topic; in-office bleaching is in B04 and gel photocatalysts in B08.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 176 words, about 8 minutes at 22 words a minute (Section 7 range 160-200 words for 5 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 191 words, about 9 minutes at 22 words a minute (Section 7 range 160-200 words for 5 marks).
 
-**Retrieval report.** Read in full: Lasers in Dentistry: Current Concepts 2nd ed, section 16.3 "Laser-assisted dental bleaching" (Luk and Anagnostaki, 2023) and section 9.7 "Laser-enhanced bleaching" (George and Walsh, 2023); Summitt's 4th ed Ch.16, "Laser- or light-assisted in-office bleaching" (Haywood, da Costa and Berry, 2013); Sikri Ch.32, "Laser-assisted tooth whitening" (Sikri, 2020). Read in part: Cohen's 12th ed Ch.26, light sources (Setzer, 2021); Sturdevant's Ch.21, in-office technique (Ritter et al, 2019); Bonsor and Pearson Ch.18, power bleaching (2013). Offsets: Lasers Ch.16 offset 5 (PDF 522 = p.517, 526 = p.521), Ch.9 offset 8 (PDF 312 = p.304, 313 = p.305); Sikri 19; Sturdevant 19; Summitt, Cohen, Bonsor and Pearson PDF page only. Live search: none.
+**Retrieval report.** Read in full: Lasers in Dentistry: Current Concepts 2nd ed, section 16.3 "Laser-assisted dental bleaching" (Luk and Anagnostaki, 2023) and section 9.7 "Laser-enhanced bleaching" (George and Walsh, 2023); Summitt's 4th ed Ch.16, "Laser- or light-assisted in-office bleaching" (Haywood, da Costa and Berry, 2013); Sikri Ch.32, "Laser-assisted tooth whitening" (Sikri, 2020). Read in part: Cohen's 12th ed Ch.26, light sources (Setzer, 2021); Sturdevant's Ch.21, in-office technique (Ritter et al, 2019); Bonsor and Pearson Ch.18, power bleaching (2013). Offsets: Lasers Ch.16 offset 5 (PDF 522 = p.517, 526 = p.521), Ch.9 offset 8 (PDF 312 = p.304, 313 = p.305); Sikri 19; Sturdevant 19; Summitt, Cohen, Bonsor and Pearson PDF page only. Audit (u2, 2026-11-08) added: Lasers in Dentistry Ch.2 Table 2.1 (Coluzzi, 2023; offset 11, PDF 37 = p.26, 38 = p.27) and Ch.7 photobiomodulation (Cronshaw and Mylona, 2023; offset 9, PDF 199 = p.190, 234 = p.225); other bleaching hits in that book (Ch.1 and the dosimetry and safety chapters) are passing mentions only; Bhat et al list bleaching among laser uses without detail. Live search: none.
 
 
-<!--LOC: a4_las_hist, a4_stu_lightdehyd, a4_las_office, a4_las_sb, a4_sik_co2nm, a4_sum_lasclaim, a4_sum_hpbleach, a4_sum_heatsrc, a4_las9_modes, a4_las9_photod, a4_sik_heatgel, a4_las_photocat, a4_las_dyes, a4_las_filter, a4_las_ktp, a4_sum_488, a4_sik_argon, a4_sik_argon488, a4_sik_argondark, a4_sum_argon, a4_sum_co2, a4_sik_co2pen, a4_sum_co2nec, a4_sum_ada, a4_stu_co2, a4_las_co2, a4_sik_co2disc, a4_sik_980, a4_coh_lasers, a4_coh_lasers2, a4_coh_12W, a4_sum_diode, a4_sik_diodetemp, a4_las_photolytic, a4_las_tetra, a4_sik_512, a4_sik_ktp, a4_las9_78, a4_las_ndyag, a4_las_erb, a4_las_water, a4_sik_notrec, a4_las_445, a4_las_pulp, a4_coh_eyewear, a4_las_time, a4_las_deeper, a4_sum_lasdis, a4_sum_lasnobetter, a4_stu_light, a4_las_strobl, a4_las_gurgan, a4_las_surm, a4_las_rct, a4_las_unclear, a4_sik_longterm, a4_coh_lasres, a4_las_55, a4_las_42, a4_las_baldis, a4_bon_3c, a4_las_pbm, a4_las9_key-->
+<!--LOC: a4_las_hist, a4_stu_lightdehyd, a4_las_office, a4_las_sb, a4_sik_co2nm, a4_sum_lasclaim, a4_sum_hpbleach, a4_sum_heatsrc, a4_las9_modes, a4_las9_photod, a4_sik_heatgel, a4_las_photocat, a4_las_dyes, a4_las_filter, a4_las_ktp, a4_sum_488, a4_sik_argon, a4_sik_argon488, a4_sik_argondark, a4_sum_argon, a4_sum_co2, a4_sik_co2pen, a4_sum_co2nec, a4_sum_ada, a4_stu_co2, a4_las_co2, a4_sik_co2disc, a4_sik_980, a4_coh_lasers, a4_coh_lasers2, a4_coh_12W, a4_sum_diode, a4_sik_diodetemp, a4_las_photolytic, a4_las_tetra, a4_sik_512, a4_sik_ktp, a4_las9_78, a4_las_ndyag, a4_las_erb, a4_las_water, a4_sik_notrec, a4_las_445, a4_las_pulp, a4_coh_eyewear, a4_las_time, a4_las_deeper, a4_sum_lasdis, a4_sum_lasnobetter, a4_stu_light, a4_las_strobl, a4_las_gurgan, a4_las_surm, a4_las_rct, a4_las_unclear, a4_sik_longterm, a4_coh_lasres, a4_las_55, a4_las_42, a4_las_baldis, a4_bon_3c, a4_las_pbm, a4_las9_key, u2_las2_445, u2_las2_532, u2_las7_area, u2_las7_irr, u2_las7_six, u2_las7_660, u2_las7_insuff-->
 
-<!--REF: Luk2023, George2023, Haywood2013, Sikri2020, Setzer2021, Ritter2019, Bonsor2013-->
+<!--REF: Luk2023, George2023, Haywood2013, Sikri2020, Setzer2021, Ritter2019, Bonsor2013, Coluzzi2023, Cronshaw2023-->
 
 ## 1. Principle and mechanism
 
@@ -31,6 +31,8 @@ Laser-assisted bleaching was first described "in 1998 by Reyto" (Luk and Anagnos
 - **Diode:** Cohen — "around 810 to 830 nm and" 970-980 nm with 30-35% gel, "1 to 2 W of laser energy for 30 seconds per tooth" (Setzer, 2021) [SRC]; Sikri — 980 nm, pulpal temperature rise "from 4.3°C to 16°C" (Sikri, 2020) [SRC]; Summitt — "the diode laser can generate high temperatures that are detrimental to the pulpal tissue" (Haywood, da Costa and Berry, 2013) [SRC]. A 445-nm diode is new and unproven (Luk and Anagnostaki, 2023) [SRC].
 - **KTP (532 nm):** argon/KTP action is "not only photo-thermal and photochemical but photolytic as well", effective "even in teeth not responding to other techniques (tetracycline-stained teeth)" (Luk and Anagnostaki, 2023) [SRC]; green light in "a particular narrow spectral range (512 to 540 nm)" photo-oxidizes the tetracycline quinone (Sikri, 2020) [SRC]; KTP photodynamic bleaching lightened "78% of the teeth treated" with tetracycline staining (George and Walsh, 2023) [SRC].
 - **Nd:YAG, Er:YAG, Er,Cr:YSGG:** Nd:YAG "possibly cause overheating due to their high peak power"; erbium use "is still under investigation" (Luk and Anagnostaki, 2023) [SRC]; Sikri does not recommend Nd:YAG, Er:YAG or CO₂ (Sikri, 2020) [SRC].
+- **Device note:** Coluzzi's table of current visible lasers lists tooth whitening for a blue "Indium Gallium Nitride 445" nm diode and a green "Gallium Nitride 532" nm diode (Coluzzi, 2023) [SRC] — so a 532-nm whitening laser today may be a semiconductor diode rather than a KTP crystal laser; the wavelength, not the medium, matches the rhodamine gel [Likely].
+- **Delivery:** whitening handpieces have an optic window that "typically falls into the range of 2.8" to 4.0 cm², and output is set to give an "average irradiance in close proximity to the surface of the target of 250–500 mW/cm2" (Cronshaw and Mylona, 2023) [SRC].
 
 #### ✎ Exam core
 
@@ -39,7 +41,7 @@ Laser-assisted bleaching was first described "in 1998 by Reyto" (Luk and Anagnos
 - CO₂ 10,600 nm — pulpal damage; not recommended (ADA).
 - Diode 810-980 nm, 1-2 W, 30 seconds/tooth — risk of pulpal heating (Setzer, 2021).
 - KTP 532 nm with rhodamine — photodynamic; useful for tetracycline stains (Luk and Anagnostaki, 2023).
-- Nd:YAG, erbium — overheating or still investigational (Sikri, 2020).
+- Nd:YAG, erbium — overheating or still investigational (Luk and Anagnostaki, 2023).
 
 ## 3. Advantages, disadvantages and the efficacy controversy
 
@@ -51,12 +53,13 @@ Possible advantages: shorter chair time ("the treatment time was significantly l
 
 **Pulpal heat threshold — books differ:** "the pulp can only tolerate a temperature rise up to 5.5 °C" (Zach and Cohen) and 42 °C sustained for 1 min may be critical, yet Baldissara et al found rises of 8.9–14.7 °C did not induce pathology (Luk and Anagnostaki, 2023) [SRC]; Bonsor and Pearson: "an increase of intrapulpal temperature of 3°C will cause irreversible pulpal damage" (Bonsor and Pearson, 2013) [SRC]. The 3 °C figure is stricter than the widely quoted 5.5 °C and is unreferenced in that book. [Likely]
 
-A separate use: photobiomodulation with an infrared diode "could be recommended as a suitable strategy to reduce the intensity of tooth sensitivity" after in-office bleaching (Luk and Anagnostaki, 2023) [SRC].
+A separate use: photobiomodulation with an infrared diode "could be recommended as a suitable strategy to reduce the intensity of tooth sensitivity" after in-office bleaching (Luk and Anagnostaki, 2023) [SRC]. Cronshaw and Mylona, in the same book, are more cautious: a systematic review "identified six studies investigating the potential benefits of PBMT to post-bleaching sensitivity"; all reported success, but "The wavelengths employed ranged from 660 to 810 nm with a fluence in the range of 12–60 J/cm2", no meta-analysis was possible, and "The weight of current available evidence is insufficient to offer guidelines on the prophylaxis of post-bleaching sensitivity" (Cronshaw and Mylona, 2023) [SRC]. The two chapters disagree on strength of recommendation, not on direction [Certain that both are printed].
 
 #### ✎ Exam core
 
 **Advantages:** shorter treatment time; deeper peroxide penetration; KTP for tetracycline stains (Luk and Anagnostaki, 2023).
 **Disadvantages:** cost, pulpal heating (pulp tolerates about 5.5 °C), sensitivity, eye protection (Haywood, da Costa and Berry, 2013).
+Photobiomodulation (660-810 nm) may ease post-bleaching sensitivity; evidence insufficient (Cronshaw and Mylona, 2023).
 **Controversy:** most studies show no better or more stable colour than non-activated bleaching, and dehydration exaggerates the immediate result; evidence remains inconclusive (Haywood, da Costa and Berry, 2013; Ritter et al, 2019; Luk and Anagnostaki, 2023).
 
 ## HIGH-YIELD POINTS
@@ -143,11 +146,20 @@ A separate use: photobiomodulation with an infrared diode "could be recommended 
 - Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.833: "an increase of intrapulpal temperature of 3°C will cause irreversible pulpal damage"
 - Luk and Anagnostaki, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.528 (printed p.523): "photobiomodulation therapy with an infrared diode laser could be recommended as a suitable strategy to reduce the intensity of tooth sensitivity"
 - George and Walsh, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.314 (printed p.306): "Photothermal laser bleaching requires careful control of the irradiation protocol to limit heat stress to the dental pulp"
+- Coluzzi, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.38 (printed p.27): "tooth whitening Indium Gallium Nitride 445"
+- Coluzzi, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.38 (printed p.27): "Semiconductor diode, visible green Soft tissue procedures, tooth whitening Gallium Nitride 532"
+- Cronshaw and Mylona, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.199 (printed p.190): "The surface area of these tools varies between manufacturers and typically falls into the range of 2.8"
+- Cronshaw and Mylona, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.199 (printed p.190): "average irradiance in close proximity to the surface of the target of 250–500 mW/cm2"
+- Cronshaw and Mylona, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.234 (printed p.225): "identified six studies investigating the potential benefits of PBMT to post-bleaching sensitivity"
+- Cronshaw and Mylona, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.234 (printed p.225): "The wavelengths employed ranged from 660 to 810 nm with a fluence in the range of 12–60 J/cm2"
+- Cronshaw and Mylona, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.234 (printed p.225): "The weight of current available evidence is insufficient to offer guidelines on the prophylaxis of post-bleaching sensitivity"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
 - Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.
+- Coluzzi DJ. Laser and light fundamentals. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.2.
+- Cronshaw M, Mylona V. Photobiomodulation therapy within clinical dentistry: theoretical and applied concepts. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.7.
 - George R, Walsh LJ. Laser-assisted endodontics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.9 (section 9.7 Laser-enhanced bleaching).
 - Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.
 - Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2023. Ch.16.
