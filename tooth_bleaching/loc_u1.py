@@ -60,6 +60,7 @@ L = {
  'u1_and29_10hp': ('u1_and29', 'Nocturnal use of 10% hydrogen peroxide gel in a tray is a convenient way of bleaching teeth'),
  'u1_and29_ref14': ('u1_and29', 'Clinical study of tooth shade lightening from dentist-supervised patient-applied treatment with two 10% carbamide peroxide gels'),
  'u1_and29_yellow': ('u1_and29', 'It is generally agreed in esthetic dentistry that yellow discolorations are the easiest to improve.'),
+ 'u1_and29_light': ('u1_and29', 'does not make teeth lighter than with bleach alone'),
  # --- Andreasen Ch.33 (Dahl and Pallesen)
  'u1_and_choice': ('u1_and', 'must be regarded as the treatment of choice, alone or preceding a prosthetic restoration'),
  'u1_and_2025': ('u1_and', '20–25% after 3–5 years'),
