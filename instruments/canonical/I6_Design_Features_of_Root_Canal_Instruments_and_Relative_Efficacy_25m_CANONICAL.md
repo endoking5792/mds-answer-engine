@@ -3,7 +3,7 @@
 **Marks:** 25m, Essay
 **Sitting:** Nov 2001 (PIII 01-07). Repeats absorbed: "Rake angle in endodontics." (10m, Oct 2012 PIII 07-15); "Flexible files." (10m, Apr 2003 PIII 01-07); "Flexible instruments in canal preparation" (10m, Nov 2012 RG PIII RS-2); "Profile 29 series." (10m, Apr 2001 PIII 01-07; 10m, May 2011 RG PIII RS-2); "Protaper instruments" (7m, 18-Jul-2020 and Nov 2018 RG PIII RS-3); "Light Speed Simplyfill" (10m, May 2010 RG PIII RS-2); "Recent advances in file designs" (7m, Nov 2017 RG PIII RS-3); "Newer rotary root canal preparation system." (5m, Apr 2004 PIII 01-07).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 879 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 901 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
 
 **Retrieval report.** Read in full or in the relevant sections: Peters et al, Cohen's 12e Ch.8 (design characteristics, groups I–III, ProFile, K3, ProTaper, HERO, RaCe, EndoSequence); Baumann and Beer, *Endodontology* Ch.9 and Ch.10 (hand instrument forms, NiTi cross-sections, chip space, taper); Sikri 2e Ch.11 (active and passive instruments, Profile 29, LightSpeed, manufacturing methods) and Ch.20 (SimpliFill). Not read: primary studies of individual systems; the product details are therefore those the books give. Live search: none.
 
@@ -39,15 +39,15 @@ Peters et al define the helical angle as the angle the leading edge forms with t
 #### ✎ Exam core
 
 **Design variables** (Peters et al, 2021; Baumann and Beer, 2010)
-- *Tip*: rounded, non-cutting tip guides the file and prevents ledges.
-- *Taper*: none (LightSpeed), 2, 4 and 6%, up to 12% or more; reverse taper (thicker at the tip) in some designs.
+- *Tip*: rounded, non-cutting tips on NiTi rotary files help prevent preparation errors (Peters et al, 2021).
+- *Taper*: none (LightSpeed), 2, 4 and 6% and up to 19% (Baumann and Beer, 2010); reverse taper (thicker at the tip) in some designs.
 - *Cross-section*: U-shape, triangular, convex triangle, S-shape, with or without radial lands.
 - *Helical angle and pitch*: smaller pitch gives more spirals; variable pitch is common.
 - *Rake angle*: positive (cutting), neutral (90 degrees) or negative (scraping); positive rake cuts more efficiently, negative gives reaming.
 - *Chip space*: determines how much debris is removed before the file binds.
-- *Core*: the central mass that gives strength.
+- *Core*: the central part of the file seen in longitudinal section; the outer diameter increases from the tip toward the handle (Peters et al, 2021).
 
-**Cross-section trends** (Baumann and Beer, 2010): the convex (expanded) triangle of FlexMaster and ProTaper; the square section, still common in steel, survives in NiTi only in RaCe; many instruments have a progressive distance between cutting edges (ProTaper, Mtwo), which increases chip space toward the shank.
+**Cross-section trends** (Baumann and Beer, 2010): the convex (expanded) triangle of FlexMaster and ProTaper; the square section, still common in steel, survives in NiTi only in RaCe; many instruments have a progressive distance between cutting edges (ProTaper, Mtwo).
 
 **Recent strategies** (Peters et al, 2021): "conforming" shaping, with an adaptable, larger envelope of motion but a limited maximum flute diameter (TRUShape, XP-Shaper). TRUShape sizes 20, 25, 30 and 40 have a maximum fluted diameter of 0.8 mm, which limits coronal dentin removal.
 
@@ -63,7 +63,7 @@ Peters et al divide rotary instruments into group I (designed for passive prepar
 
 | | Group I: passive (radial lands) | Group II: active (no radial lands) |
 |---|---|---|
-| Examples | ProFile, LightSpeed, GT; K3 per Cohen | ProTaper, HERO, RaCe, Flexmaster |
+| Examples | ProFile, LightSpeed, GT; K3 per Cohen | ProTaper, HERO, RaCe; Flexmaster in Sikri's list |
 | Action | Reaming, not cutting | Cutting |
 | Efficacy | Less efficient | More efficient; faster |
 | Safety | Fairly safe against preparation errors | More potential for errors, e.g. ledges and straightening |
@@ -75,7 +75,7 @@ Sikri places K3 with active files; Cohen describes it with radial lands (disagre
 
 ### Explanation
 
-ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle, constant pitch, bullet-shaped non-cutting tips and a slightly negative rake angle that gives reaming (Peters et al, 2021) [SRC]. LightSpeed has a thin non-cutting shaft and a short cutting head, with three radial lands and three U-shaped grooves; it is the only rotary system whose cutting heads have three different geometric shapes (Peters et al, 2021; Sikri, 2019) [SRC]. K3 has a slightly positive rake angle, wide radial lands, a peripheral blade relief, and a third land to help prevent threading-in (Peters et al, 2021) [SRC]. ProTaper has a convex triangle cross-section with sharp edges and no radial lands; the shaping files have tapers that increase coronally and the finishing files the reverse (Peters et al, 2021) [SRC]. RaCe has alternating cutting edges and EndoSequence alternating wall contact points to reduce torque (Peters et al, 2021) [SRC]. Profile 29: Schilder proposed a constant 29% increase in diameter between sizes, which gives constant increase and fewer instruments than ISO, but works well only in small sizes (Sikri, 2019) [SRC]; Baumann and Beer note that a constant 29% remains under discussion (Baumann and Beer, 2010) [SRC]. SimpliFill is a gutta-percha apical plug system made to be compatible with LightSpeed instrumentation (Sikri, 2019) [SRC].
+ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle, constant pitch, bullet-shaped non-cutting tips and a slightly negative rake angle that gives reaming (Peters et al, 2021) [SRC]. LightSpeed has a thin non-cutting shaft and a short cutting head, with three radial lands and three U-shaped grooves; it is the only rotary system whose cutting heads have three different geometric shapes (Peters et al, 2021; Sikri, 2019) [SRC]. K3 has a slightly positive rake angle, wide radial lands, a peripheral blade relief, and a third land to help prevent threading-in (Peters et al, 2021) [SRC]. ProTaper has a convex triangle cross-section with sharp edges and no radial lands; the shaping files have tapers that increase coronally and the finishing files the reverse (Peters et al, 2021) [SRC]. RaCe has alternating cutting edges and EndoSequence alternating wall contact points to reduce torque (Peters et al, 2021) [SRC]. Profile 29: Sikri says that, in a scheme in which each size is increased by 29% rather than by 0.05 mm, Schilder named it the Profile 29 series, which gives constant increase and fewer instruments than ISO, but works well only in small sizes (Sikri, 2019) [SRC]; Baumann and Beer note that a constant 29% remains under discussion (Baumann and Beer, 2010) [SRC]. SimpliFill is a gutta-percha apical plug system made to be compatible with LightSpeed instrumentation (Sikri, 2019) [SRC].
 
 #### ✎ Exam core
 
@@ -83,7 +83,7 @@ ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle,
 - **LightSpeed** (Peters et al, 2021; Sikri, 2019): thin non-cutting shaft, short cutting head, three radial lands and U-grooves.
 - **K3** (Peters et al, 2021): positive rake, wide radial lands, third land against threading-in.
 - **ProTaper** (Peters et al, 2021): convex triangle, no radial lands; shaping files taper increasing coronally, finishing files reverse.
-- **ProTaper detail** (Peters et al, 2021): shaping files 1 and 2 have tip diameters of 0.185 and 0.2 mm, 14 mm blades and partially active tips; finishing files F1–F5 have tip diameters of 0.2, 0.25, 0.3, 0.4 and 0.5 mm. Use a laterally directed brushing stroke away from the furcation. It shaped canals faster than GT, ProFile and Quantec in plastic blocks but with somewhat more aberrations; wide canals may be insufficiently prepared. ProTaper Next, made of M-Wire, has better mechanical properties.
+- **ProTaper detail** (Peters et al, 2021): shaping files 1 and 2 have tip diameters of 0.185 and 0.2 mm, 14 mm blades and partially active tips; finishing files F1–F5 have tip diameters of 0.2, 0.25, 0.3, 0.4 and 0.5 mm. Use a laterally directed brushing stroke away from the furcation. It shaped canals faster than GT, ProFile and Quantec in plastic blocks but with somewhat more aberrations; wide canals may be insufficiently prepared. Current research suggests that the mechanical properties of ProTaper Next, made of M-Wire, are better than those of ProTaper Universal.
 - **RaCe** (Peters et al, 2021): alternating cutting edges. **EndoSequence**: alternating wall contact points to reduce torque.
 - **Profile 29** (Sikri, 2019): constant 29% size increase; gives constant diameter steps and fewer instruments, but works only in small sizes; under discussion (Baumann and Beer, 2010).
 - **LightSpeed SimpliFill** (Sikri, 2019): gutta-percha apical plug made to suit LightSpeed shaping.
@@ -92,7 +92,7 @@ ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle,
 
 ### Explanation
 
-Sikri compares the alloys: NiTi is softer, shows super-elasticity and shape memory, is two to three times more flexible, resists fracture better under bending, and cuts less (stainless steel cuts about 60% more) and gives no indication before fracture, whereas stainless steel gives warning (Sikri, 2019) [SRC]. The statement that NiTi "resists fracture" in Sikri's table sits beside his statement that NiTi gives no warning; the two are consistent only if resistance to bending is meant, and the books on separation (see I11) show that fatigue fracture is a real problem.
+Sikri compares the alloys: NiTi is softer, shows super-elasticity and shape memory, is two to three times more flexible, "resists fracture", and cuts less (stainless steel cuts about 60% more) and gives no indication of fracture, whereas stainless steel fractures easily but gives an indication (Sikri, 2019) [SRC]. Sikri contradicts himself on fracture: his table lists NiTi as resisting fracture, yet elsewhere he says the low tensile and yield strength of NiTi makes it more susceptible to fracture (Sikri, 2019) [SRC]. The books on separation (see I11) show that fatigue fracture is a real problem.
 
 #### ✎ Exam core
 
@@ -102,7 +102,6 @@ Sikri compares the alloys: NiTi is softer, shows super-elasticity and shape memo
 | Flexibility | two to three times more flexible; super-elastic with shape memory | not flexible |
 | Cutting efficiency | less | more (about 60% more) |
 | Warning before fracture | none | gives indication |
-| Use | continuous rotation in curved canals | hand instrumentation |
 
 (Sikri, 2019.) **Benefit and cost of rotary NiTi.** The most important advantage is the excellent instrumentation of severely curved canals with savings in preparation time; the problem, compared with hand stainless-steel files, is the high risk of fracture, which makes torque-limited power necessary (Baumann and Beer, 2010). Sikri adds that NiTi has low tensile and yield strength compared with stainless steel, which makes it more susceptible to fracture (Sikri, 2019).
 
@@ -206,6 +205,6 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

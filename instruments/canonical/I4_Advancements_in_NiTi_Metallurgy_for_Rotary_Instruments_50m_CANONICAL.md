@@ -3,9 +3,9 @@
 **Marks:** 50m, Essay
 **Sitting:** 16-Jul-2021 (RG PIII-D RS-5). Repeats absorbed: "Metallurgy of NiTi files." (10m, Short Essay, Oct 2022 PII 21-25); "Critically evaluate the impact of heat treated NiTi alloys on instrument fatigue resistance and canal shaping ability in severely curved canal system. Add a note on Tango endo system." (10m, Short Essay, Mock 2025 ABS PII); "Nickel-Titanium instruments." (5m, Short Note, Feb 2005 PIII 01-07); "Nickel-Titanium endodontic instruments" (10m, Short Essay, May 2009 RG PIII RS-old); "Ni-Ti alloys in Endodontics." (7m, Apr 2011 Manipal).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1711 words, about 78 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1864 words, about 85 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
 
-**Retrieval report.** Read in full or in the relevant sections: Baumann and Beer, *Endodontology* Ch.10 (NiTi materials science) and the fracture passages of Ch.22; Jain (ed.), *Current Therapy in Endodontics* Ch.3 (properties, thermomechanical treatment, M-wire, R-phase, CM wire); Peters et al, Cohen's 12e Ch.8 (alloys, heat-treated alloys, corrosion, sterilization, manufacture); Sikri 2e Ch.11 (composition, generations). **The Tango-Endo system named in the Mock 2025 wording is not described in any of these books, so it is not answered here; it should be added from the manufacturer's literature or a paper.** Where the books conflict (NiTi "not heat treatable" against thermomechanical treatment) the conflict is stated. Live search: none.
+**Retrieval report.** Read in full or in the relevant sections: Baumann and Beer, *Endodontology* Ch.10 (NiTi materials science) and the fracture passages of Ch.22; Jain (ed.), *Current Therapy in Endodontics* Ch.3 (properties, thermomechanical treatment, M-wire, R-phase, CM wire); Peters et al, Cohen's 12e Ch.8 (alloys, heat-treated alloys, corrosion, sterilization, manufacture); Sikri 2e Ch.11 (composition, generations). **The Tango-Endo system named in the Mock 2025 wording is not described in any of these books; the note on it below rests on two web-search summaries only (pages not opened) and is tagged [LIT, summary].** Where the books conflict (NiTi "not heat treatable" against thermomechanical treatment) the conflict is stated. Live search: none.
 
 
 
@@ -14,7 +14,7 @@
 
 <!--LOC: mt_first, mt_55, mt_pseudo, mt_hyst, mt_martens, mt_novol, mt_bio, mt_nickel, mt_outw, mt_pvd, mt_oneway, mt_c_soft, mt_c_two, mt_c_trans, mt_c_heat, mt_c_mart, mt_c_prop, mt_c_mw, mt_c_next, mt_c_gtx, mt_c_mwsys, mt_c_rph, mt_c_rph08, mt_c_tf, mt_c_cm, mt_c_hf, mt_c_fat, mt_c_pol, mt_h_two, mt_h_prop, mt_h_7, mt_h_mart, mt_h_mod, mt_h_fat, mt_h_ex, mt_h_edm, mt_h_corr, mt_h_ster, mt_h_ep, mt_h_work, mt_s_ratio, mt_s_later, mt_s_trace, mt_s_al, mt_s_nol, mt_s_3, mt_s_nht, sep_e_8, sep_e_7, sep_e_nowarn, sep_e_surf, mt_c_recover, mt_c_center, mt_c_lim, mt_e_exp, mt_s_ep, mt_h_soak, mt_h_2h, mt_h_tf, mt_h_tf2, mt_h_edge, mt_h_xp, mt_h_phase, mt_h_blue, mt_e_ss, mt_s_corr, mt_c_gen, mt_e_commercial, sep_c_small, sep_e_glide, mt_g1, mt_g2, mt_g4, mt_g5, mt_gs1, mt_gs2, mt_gs4, mt_gs_wo, mt_manuf, mt_12, mt_hard, mt_hyst2, mt_steel2-->
 
-<!--REF: Baumann2010, Jain2016, Peters2021, Sikri2019-->
+<!--REF: Baumann2010, Jain2016, Peters2021, Sikri2019, Tango2017, TangoClin-->
 
 ## 1. Composition and history of the alloy
 
@@ -42,7 +42,7 @@ The textbooks conflict on one point. Jain's early paragraph and Sikri's comparis
 - *Superelasticity (pseudoelasticity)*: the file returns to its shape after loading; stress-induced austenite-to-martensite change, reversible on unloading (Baumann and Beer, 2010; Jain, 2016).
 - *Shape memory*: recovers shape on heating (martensitic files above their transformation temperature) (Jain, 2016).
 - *Hysteresis* in the phase change, unlike ordinary elastic recovery (Baumann and Beer, 2010).
-- *Elastic range*: about 7% reversible strain (Baumann and Beer, 2010; Peters et al, 2021), up to 8% in one book's caption (Baumann and Beer, 2010). Martensitic files have a smaller elastic range (Peters et al, 2021).
+- *Elastic range*: about 7% reversible strain (Baumann and Beer, 2010; Peters et al, 2021), and up to 8% according to a caption in Baumann and Beer (2010) and to the text of Jain (2016). Martensitic files have a smaller elastic range (Peters et al, 2021).
 - *Fatigue resistance*: high (Jain, 2016).
 - *Biocompatibility*: very good; nickel is bound to titanium (Baumann and Beer, 2010).
 - *Volume*: no change in phase transformation (Baumann and Beer, 2010).
@@ -68,7 +68,7 @@ The textbooks conflict on one point. Jain's early paragraph and Sikri's comparis
 - NiTi is soft (HV 300–360) against stainless steel (HV 520–540), so cutting efficiency is low; its use with rotary motion outweighs this.
 - Manufacture of the alloy is difficult and expensive, and earlier led to inconsistencies.
 
-**Disadvantages of the alloy.** Low hardness and cutting efficiency compared with stainless steel, outweighed by use with rotary motion (Baumann and Beer, 2010); softer, lower tensile and yield strength than steel (Jain, 2016; Sikri, 2019). Conflict: some books call NiTi not heat treatable (Jain, 2016; Sikri, 2019); thermomechanical treatment is the later development.
+**Disadvantages of the alloy.** Low hardness and cutting efficiency compared with stainless steel, outweighed by use with rotary motion (Baumann and Beer, 2010); softer than steel (Jain, 2016; Sikri, 2019). The books differ on strength: Sikri says NiTi has lower tensile and yield strength than stainless steel (Sikri, 2019), whereas Jain says it has a greater strength and is tougher and more resilient (Jain, 2016). Conflict: some books call NiTi not heat treatable (Jain, 2016; Sikri, 2019); thermomechanical treatment is the later development.
 
 ## 3. Weaknesses to be improved: fracture, surface and corrosion
 
@@ -98,7 +98,7 @@ Baumann and Beer note that surface coatings (nitrides, nitrogen ion implantation
 | Method | Aim | Source |
 |---|---|---|
 | Titanium nitride coating (PVD) | harder surface, better cutting efficiency | Baumann and Beer, 2010 |
-| Electropolishing | fewer surface defects; better resistance to corrosion and fatigue | Jain, 2016; Peters et al, 2021 |
+| Electropolishing | removes surface irregularities; claimed to improve resistance to corrosion and fatigue, but one study found longer fatigue life and others no improvement | Jain, 2016; Peters et al, 2021 |
 | Electric discharge machining | apparently no defects | Peters et al, 2021 |
 | Twisting of R-phase wire | overcomes limits of ground-file technology | Jain, 2016 |
 
@@ -112,16 +112,16 @@ Attempts to enhance surface stability with coatings have so far often been only 
 
 Jain explains that heating the alloy during manufacture has created new forms of NiTi, and that the martensitic form has remarkable fatigue resistance; a proprietary thermomechanical process integrates hardening and heat treatment (Jain, 2016) [SRC]. Sikri places this in the third generation of files, which used heating and cooling methods to reduce cyclic fatigue and improve safety (Sikri, 2019) [SRC].
 
-M-wire: Jain reports that M-wire technology improves the resistance to cyclic fatigue by almost 400% compared with commercial NiTi files and that GT Series X (GTX, 2008) was the first commercial system using it; ProFile Vortex, Vortex Blue, GTX and ProTaper Next are M-wire systems (Jain, 2016) [SRC]. R-phase: an intermediate rhombohedral phase; in 2008 instruments were made by transforming raw wire from austenite into R-phase by heat, which allowed twisting; the Twisted File and K3XF are R-phase files (Jain, 2016) [SRC]. Controlled memory (CM) wire, introduced in 2010, makes files extremely flexible but without the shape memory of conventional NiTi; HyFlex and Typhoon use it (Jain, 2016) [SRC]. Peters et al add the "gold" and "blue" alloys of Dentsply Sirona and the controlled memory alloy of HyFlex as heat-treated alloys, which are typically more flexible and have higher fatigue resistance (Peters et al, 2021) [SRC].
+M-wire: Jain reports that M-wire technology improves the resistance to cyclic fatigue by almost 400% compared with commercial NiTi files and that M-wire was introduced in 2007, and GT Series X (GTX, 2008) was the first commercial system using it; ProFile Vortex, Vortex Blue, GTX and ProTaper Next are M-wire systems (Jain, 2016) [SRC]. R-phase: an intermediate rhombohedral phase; in 2008 instruments were made by transforming raw wire from austenite into R-phase by heat, which allowed twisting; the Twisted File and K3XF are R-phase files (Jain, 2016) [SRC]. Controlled memory (CM) wire, introduced in 2010, makes files extremely flexible but without the shape memory of conventional NiTi; HyFlex and Typhoon use it (Jain, 2016) [SRC]. Peters et al add the "gold" and "blue" alloys of Dentsply Sirona and the controlled memory alloy of HyFlex as heat-treated alloys, which are typically more flexible and have higher fatigue resistance (Peters et al, 2021) [SRC].
 
-Two cautions. The 400% figure is the manufacturer's claim as reported by Jain and the primary studies were not read here. And the same literature notes that more martensitic instruments plastically deform more easily (Peters et al, 2021) [SRC], so flexibility and fatigue resistance gain comes with a different failure behaviour: the file may be visibly bent before it fails.
+Two cautions. The 400% figure is Jain's report of a study result, and the primary study was not read here; Peters et al do not give it. And the same literature notes that more martensitic instruments plastically deform more easily (Peters et al, 2021) [SRC], so flexibility and fatigue resistance gain comes with a different failure behaviour: the file may be visibly bent before it fails.
 
 #### ✎ Exam core
 
 | Alloy | Process | Property claimed | Examples (Jain, 2016; Peters et al, 2021) |
 |---|---|---|---|
 | Conventional austenitic NiTi | not heat treated | superelastic; stiffer | most early systems [RECALL] |
-| M-wire | thermomechanical processing | cyclic fatigue resistance increased by almost 400% (manufacturer's claim) | GTX (2008), ProFile Vortex, Vortex Blue, ProTaper Next |
+| M-wire (introduced 2007) | thermomechanical processing | cyclic fatigue resistance increased by almost 400% (Jain, 2016, reporting a study; not given by Peters et al) | GTX (2008), ProFile Vortex, Vortex Blue, ProTaper Next |
 | R-phase | wire heat-treated into R-phase before twisting (2008) | reduced stiffness; more fracture resistance | Twisted File, K3XF |
 | CM wire | controlled-memory process (2010) | very flexible; no shape memory | HyFlex, Typhoon |
 | Gold and blue alloys | heat treatment after manufacture | more flexible; higher fatigue resistance | Dentsply Sirona files (Peters et al, 2021) |
@@ -139,24 +139,24 @@ Two cautions. The 400% figure is the manufacturer's claim as reported by Jain an
 |---|---|
 | 1988 | first NiTi endodontic instruments (Walia et al) |
 | 1990s | LightSpeed, Mity Roto, ProFile, Power-R |
-| 2007–2008 | M-wire; GTX the first commercial M-wire system; R-phase wire |
+| 2007–2008 | M-wire introduced (2007); GTX, the first commercial M-wire system, and R-phase wire (2008) |
 | 2010 | controlled-memory (CM) wire (HyFlex, Typhoon) |
 
-**Why it matters.** Thermomechanically treated files are more flexible and more fatigue resistant, which suits curved canals, and M-wire files show better centring and less transportation (Jain, 2016). Martensitic instruments plastically deform more easily and so may show bending before they fail (Peters et al, 2021).
+**Why it matters.** Thermomechanically treated files are more flexible and more fatigue resistant, which suits curved canals, and M-wire files show better centring and less transportation (Jain, 2016). Martensitic instruments plastically deform more easily (Peters et al, 2021), and so may show bending before they fail [Likely].
 
 ## 6. Impact on fatigue resistance and shaping in curved canals
 
 ### Explanation
 
-Jain reports that M-wire files showed improved centring ability and reduced transportation (Jain, 2016) [SRC]. Peters et al report that heat-treated alloys are typically more flexible and present higher fatigue resistance (Peters et al, 2021) [SRC], and that Vortex Blue, a blue-treated wire, showed greater cyclic fatigue and torque resistance (Peters et al, 2021) [SRC]. The books do not give numbers for the shaping ability of heat-treated files in severely curved canals, so a statement about canal shaping beyond centring and transportation is not supported here.
+Jain reports that the centring ability is improved and transportation reduced with the new-generation files, meaning M-wire and R-phase files (Jain, 2016) [SRC]. Peters et al report that heat-treated alloys are typically more flexible and present higher fatigue resistance (Peters et al, 2021) [SRC], and that Vortex Blue, a blue-treated wire, showed greater cyclic fatigue and torque resistance (Peters et al, 2021) [SRC]. The books do not give numbers for the shaping ability of heat-treated files in severely curved canals, so a statement about canal shaping beyond centring and transportation is not supported here.
 
 #### ✎ Exam core
 
 **Critical evaluation (the Mock 2025 wording).**
-- *Fatigue resistance*: heat-treated alloys are more flexible and more resistant to cyclic fatigue; M-wire by almost 400% as claimed by the manufacturer (Jain, 2016; Peters et al, 2021).
-- *Shaping in curved canals*: improved centring and reduced transportation reported for M-wire files (Jain, 2016).
-- *Limits*: martensitic files deform plastically more easily (Peters et al, 2021); the claims are largely laboratory-based and manufacturer reported; no clinical outcome data are given in these books.
-- *Tango-Endo*: not covered in the sources used; to be added.
+- *Fatigue resistance*: heat-treated alloys are more flexible and more resistant to cyclic fatigue (Peters et al, 2021); M-wire by almost 400% according to a study reported by Jain (2016).
+- *Shaping in curved canals*: improved centring and reduced transportation reported for the new-generation (M-wire and R-phase) files (Jain, 2016).
+- *Limits*: martensitic files deform plastically more easily (Peters et al, 2021); the claims are largely laboratory-based; no clinical outcome data are given in these books [Likely].
+- *Tango-Endo* [LIT, summary only; pages not opened]: a two-instrument reciprocating system, a 30/.02 and a 30/.04 file. A 2017 fatigue study (Tango2017) describes both files as conventional NiTi and reports a significantly longer fatigue life than WaveOne Gold and Reciproc at 45, 60 and 90 degree curvatures in artificial canals. A clinical article (TangoClin) describes the 30/.02 shaper as stainless steel and the 30/.04 finisher as NiTi, so the sources conflict on the alloy. No shaping-ability or debris-extrusion data were found. On these sources Tango-Endo is not an example of a heat-treated alloy, so the premise of the Mock 2025 wording should be challenged, not accepted.
 - *Practical consequence*: choose smaller, less tapered files where cyclic fatigue is expected and larger, more tapered files where torsion is the risk (Terauchi and Renton, 2021, cited in I11); a glide path and torque control are needed whatever the alloy (Baumann and Beer, 2010).
 - *Inspection*: visible bending of a martensitic file is a warning that austenitic files do not give (Peters et al, 2021; Baumann and Beer, 2010).
 
@@ -188,27 +188,26 @@ Sikri (2019) gives first-generation files passive radial lands with 4% and 6% ta
 | Stiffness in curved canals | martensitic, controlled-memory files with greater flexibility | Jain, 2016 |
 | Low hardness and cutting efficiency | titanium nitride coating (PVD) | Baumann and Beer, 2010 |
 | Surface defects from grinding | electropolishing; electric discharge machining; twisting of R-phase wire | Jain, 2016; Peters et al, 2021 |
-| Corrosion from disinfectants | avoid prolonged soaking | Peters et al, 2021 |
-| Variable quality of the raw alloy | controlled thermomechanical processing | Baumann and Beer, 2010; Jain, 2016 |
-| Work hardening and hidden fatigue with use | limit the number of uses and inspect files before reuse | Peters et al, 2021; Baumann and Beer, 2010 |
+| Corrosion from disinfectants | prolonged soaking caused corrosion in studies; avoiding it follows [Likely] | Peters et al, 2021 |
+| Work hardening and hidden fatigue with use | inspect files before reuse (Baumann and Beer, 2010); limiting uses is [RECALL] | Peters et al, 2021 |
 
 **Limits of the advances.** The fatigue gains are laboratory findings, partly manufacturer claims; martensitic files deform plastically and so differ in behaviour at failure (Peters et al, 2021); and no book provides clinical outcome data.
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim 1: heat-treated NiTi resists fracture better.** *Textbooks:* M-wire by almost 400% in cyclic fatigue (Jain, 2016); heat-treated alloys more flexible with higher fatigue resistance (Peters et al, 2021). *Assessment:* the direction is consistent between books, but the 400% figure is a manufacturer's claim and the supporting studies are laboratory fatigue tests, so the clinical significance is unknown. Both books also note that more martensitic files deform plastically, so their behaviour at failure differs. [Likely]
+**Claim 1: heat-treated NiTi resists fracture better.** *Textbooks:* M-wire by almost 400% in cyclic fatigue (Jain, 2016); heat-treated alloys more flexible with higher fatigue resistance (Peters et al, 2021). *Assessment:* the direction is consistent between books, but the 400% figure is Jain's report of one study and the supporting studies are laboratory fatigue tests, so the clinical significance is unknown. Both books also note that more martensitic files deform plastically, so their behaviour at failure differs. [Likely]
 
-**Claim 2: surface treatment reduces fracture.** Electropolishing and nitride coatings were introduced to improve surface and cutting efficiency; Baumann and Beer say the attempts were mostly experimental (Baumann and Beer, 2010) [SRC], while Sikri notes that electropolishing may blunt the edges (Sikri, 2019). *Conclusion:* the benefit is plausible but the books do not show a clinical effect. [Guessing]
+**Claim 2: surface treatment reduces fracture.** Electropolishing and nitride coatings were introduced to improve surface and cutting efficiency; Baumann and Beer say the attempts were mostly experimental (Baumann and Beer, 2010) [SRC]. Peters et al report that one study found a longer fatigue life for electropolished instruments while others found no improvement, and that electropolishing may increase torsional load (Peters et al, 2021) [SRC]; Sikri notes that electropolishing may blunt the edges (Sikri, 2019) [SRC]. The evidence is therefore contradictory. *Conclusion:* the benefit is plausible but the books do not show a clinical effect. [Guessing]
 
 **Overall.** Metallurgy has reduced the main weakness of rotary NiTi, fatigue, but the books present no clinical evidence that heat-treated files separate less often in patients.
 
 ## HIGH-YIELD POINTS
 - 55-Nitinol: about 55% Ni and 45% Ti; superelastic with shape memory.
 - Phases: austenite and martensite; R-phase intermediate; hysteresis.
-- Reversible strain about 7% (8% in one caption).
-- M-wire (2008, GTX) by almost 400% more fatigue resistance (manufacturer claim); R-phase 2008; CM wire 2010; gold and blue alloys.
+- Reversible strain about 7% (8% in a caption of Baumann and Beer and in Jain's text).
+- M-wire (introduced 2007; GTX 2008) with almost 400% more fatigue resistance in a study reported by Jain; R-phase 2008; CM wire 2010; gold and blue alloys.
 - Electropolishing and TiN coating address surface defects and cutting efficiency.
-- Martensitic files deform visibly; austenitic files do not.
+- Martensitic files are more likely to deform plastically (Peters et al); whether this gives visible warning is [Likely].
 
 ## DIAGRAMS TO DRAW
 - Stress–strain curve showing the superelastic plateau for NiTi against the plastic yield of stainless steel. Labels: austenite, martensite, plateau, permanent deformation, fracture limit.
@@ -217,7 +216,7 @@ Sikri (2019) gives first-generation files passive radial lands with 4% and 6% ta
 ## COMMON EXAM MISTAKES
 - Writing "NiTi is not heat treatable" without distinguishing conventional from thermomechanically treated alloys.
 - Saying M-wire is a different alloy; it is the same alloy processed differently.
-- Quoting 400% as a clinical result.
+- Quoting 400% as a clinical result (it is a laboratory figure).
 - Confusing shape memory (heat recovery) with superelasticity (recovery on unloading).
 
 ## MNEMONIC
@@ -313,7 +312,9 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.
+- Tango-Endo instrumentation system (clinical article). Inside Dentistry. 2015. [Seen only as a web-search summary; author not verified; page not opened.] https://www.aegisdentalnetwork.com/id/2015/04/tango-endo-instrumentation-system
+- Yilmaz and Ozyurek. Cyclic fatigue life of Tango-Endo, WaveOne GOLD, and Reciproc NiTi instruments. Restor Dent Endod. 2017. [Seen only as a web-search summary; author names and details not verified; page not opened.] https://doaj.org/article/c16167f10d6c46309b1e85c50a8299c9

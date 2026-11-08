@@ -3,13 +3,13 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED. Not seen in the papers. Why predicted: the repository note on Instruments says "see also Sterilization", and file reuse is a standing examiner topic beside fracture.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 324 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 379 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Read in the relevant sections: Sikri 2e Ch.12 (processing and sterilization of endodontic instruments); Peters et al, Cohen's 12e Ch.8 (corrosion and sterilization of NiTi); Baumann and Beer, *Endodontology* Ch.22 (inspection of rotary files before reuse); Terauchi and Renton, Cohen's 12e Ch.20 (discarding files used in severe curves); Sikri Ch.11 (single-use SAF and WaveOne). Not read: guidelines of dental associations. Live search: none.
 
 
 
-<!--LOC: st12_debris, st12_cplx, st12_remove, st12_us, st12_enz, st12_cdc, st12_auto, st12_dry, st12_bead, st12_salt, mt_h_ster, mt_h_soak, mt_h_2h, mt_h_corr, mt_h_work, sep_e_insp, sep_e_nowarn, sep_c_disc, sa_single, rc_s_single, st12_proc, st12_salt2, st12_pack-->
+<!--LOC: st12_debris, st12_cplx, st12_remove, st12_us, st12_enz, st12_cdc, st12_auto, st12_dry, st12_bead, st12_salt, mt_h_ster, mt_h_soak, mt_h_2h, mt_h_corr, mt_h_work, sep_e_insp, sep_e_nowarn, sep_c_disc, sa_single, rc_s_single, st12_proc, st12_salt2, st12_pack, p1_smd-->
 
 <!--REF: Sikri2019, Peters2021, Baumann2010, Terauchi2021-->
 
@@ -50,25 +50,25 @@ Sikri describes the autoclave as one of the most rapid and effective methods; dr
 
 ### Explanation
 
-Sikri reports that because files are hard to clean, their cutting surfaces deteriorate during cleaning and sterilization and they wear in use, the Centre for Disease Control and Prevention suggests treating endodontic files as single-use devices (Sikri, 2019) [SRC]. Baumann and Beer add that fatigue in NiTi gives no warning, so rotary files should be inspected visually before reuse after sterilization (Baumann and Beer, 2010) [SRC]. Terauchi and Renton recommend discarding files used in severely curved canals (Terauchi and Renton, 2021) [SRC]. Some systems are designed as single use: the SAF, and WaveOne, where a single-use file reduces instrument fatigue (Sikri, 2019) [SRC]. Clinical use also changes the alloy through work hardening (Peters et al, 2021) [SRC].
+Sikri reports that because files are hard to clean, their cutting surfaces deteriorate during cleaning and sterilization and they wear in use, the Centre for Disease Control and Prevention suggests considering endodontic files as single-use devices (Sikri, 2019) [SRC]. Baumann and Beer add that fatigue in NiTi gives no warning, so rotary files should be inspected visually before reuse after sterilization (Baumann and Beer, 2010) [SRC]. Terauchi and Renton recommend discarding files used in severely curved canals (Terauchi and Renton, 2021) [SRC]. Some systems are designed as single use: the SAF, and WaveOne, where a single-use file reduces instrument fatigue (Sikri, 2019) [SRC]. Clinical use also changes the alloy through work hardening (Peters et al, 2021) [SRC].
 
 #### ✎ Exam core
 
 **Case for single use**
-- Difficult to clean; cutting surface deteriorates with cleaning, sterilization and wear; CDC suggests single-use (Sikri, 2019).
-- Fatigue is cumulative and invisible (Baumann and Beer, 2010); clinical use causes work hardening (Peters et al, 2021).
+- Difficult to clean; cutting surface deteriorates with cleaning, sterilization and wear; CDC suggests considering files as single-use (Sikri, 2019).
+- Rotary NiTi can break without warning from cyclic fatigue, whereas torsional loading may leave visible deformation, so every rotary file is inspected before reuse after sterilization (Baumann and Beer, 2010); clinical use most likely changes the alloy, potentially through work hardening (Peters et al, 2021).
 
 **If reused**
-- Inspect every file before use; discard any that is deformed (Baumann and Beer, 2010).
-- Discard files used in severely curved canals (Terauchi and Renton, 2021).
-- Limit the number of uses and avoid prolonged soaking in disinfectants (Peters et al, 2021); the permitted number of uses is not stated in the books and is [RECALL].
+- Inspect every file before use (Baumann and Beer, 2010); discard any deformed file [Likely].
+- Terauchi and Renton advise discarding after use the reciprocating instruments used in severely curved canals (Terauchi and Renton, 2021).
+- Avoid prolonged soaking in disinfectants (Peters et al, 2021). Jain notes that the fatigue and number of uses of each RaCe instrument can be controlled with the Safety MemoDisc (Jain, 2016); a fixed permitted number of uses is not stated in the books and is [RECALL].
 - Keep sterilized files in their sealed sterile pack until the moment of use, and record how often each file has been used [RECALL].
 
 **Designed single use.** SAF (Sikri, 2019); WaveOne, a single-use file that reduces fatigue (Sikri, 2019).
 
 ## HIGH-YIELD POINTS
 - Clean debris first; flutes trap it.
-- CDC: treat files as single use.
+- CDC: consider files as single use.
 - Sterilization did not generally weaken NiTi in most studies; prolonged soaking in disinfectants does.
 - Inspect before reuse; discard after use in severe curves.
 
@@ -109,11 +109,12 @@ None from the books.
 - Sikri, 2019, 12_12_Sterilization_of_Endodontic_Instruments.md, PDF p.208 (printed p.187): "This includes pre-soaking and cleaning, rinsing, drying and packaging before the instruments are being sterilized"
 - Sikri, 2019, 12_12_Sterilization_of_Endodontic_Instruments.md, PDF p.212 (printed p.191): "It is considered superior to molten metal sterilizer and glass bead sterilizer because the metal or the glass beads occasionally cling to the wet instrument and tend to clog the root canals"
 - Sikri, 2019, 12_12_Sterilization_of_Endodontic_Instruments.md, PDF p.209 (printed p.188): "they are to be packed in functional sets before sterilization"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.71 (printed p.45): "The fatigue and number of uses of each instrument can be controlled according to the complexity of the canal with SMD (Safety MemoDisc)"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.
 - Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.

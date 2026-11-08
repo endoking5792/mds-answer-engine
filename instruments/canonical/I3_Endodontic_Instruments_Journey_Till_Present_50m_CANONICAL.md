@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** 01-Jan-2022 (RG PIII-D RS-5). Repeats absorbed: "Development of root canal instruments and instrumentation." (15m, Essay, Aug 2004 PIII 01-07); "Discuss recent advances in instruments used during root canal treatment." (25m, Oct 1996 PIII 90-00); "Discuss Root canal instruments in the light of recent research." (25m, Apr 2000 PIII 90-00); "Discuss the recent trends in instrumentation procedures in root canal treatment." (25m, Mar 2002 PIII 01-07); "Discuss the Current developments in rotary root canal instrument technology." (25m, May 2022 Manipal); "Recent developments in Endodontic instruments and instrumentation techniques." (20m, 23-Nov-2020 RG PIII RS-3); "Discuss the recent advances in endodontic instruments" (20m, Jun 2018 RG PIII RS-3); "Discuss recent advances in endodontic Instruments." (20m, May 2013 RG PIII RS-3); "Describe the recent advances in rotary endodontics" (20m, Nov 2013 RG PIII RS-2); "Discuss in detail instruments and instrumentation in today's endodontic practice" (20m, Oct 2009 RG PIII RS-2); "Advances in root canal instruments and instrumentation" (10m, Apr 2008 RG PIII RS-2); "Explain Recent advances in Endodontic Instruments" (10m, May 2009 RG PIII RS-2); "Recent advances in endodontic file system." (10m, Mock 2023 ABS PII); "Endodontic instruments-recent developments" (10m, Apr 2022 NU PII); "Recent advances in file designs" (7m, Nov 2017 RG PIII RS-3); "Discuss recent advances in root canal instrumentation." (Sep 1991 PIII 90-00, marks not printed); "Newer trends in rotary NiTi instruments in Endodontics." (50m, Jul 2021 TN MGR Paper III) and "Evolution of rotary files systems and its current trends." (50m, Dec 2025 TN MGR Paper III) are answered here at the same 50 marks and are cross-referred to I1 (rotary endodontics).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1705 words, about 78 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1739 words, about 79 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks).
 
 **Retrieval report.** Read in the relevant sections: Ingle 7e Ch.20 (the historical paragraph; OCR-damaged, so only clean phrases are located); Baumann and Beer, *Endodontology* Ch.9, 10, 12, 20, 21; Sikri 2e Ch.11; Jain (ed.), *Current Therapy in Endodontics* Ch.3 (generations table); Peters et al, Cohen's 12e Ch.8. The book dates differ in places and are shown side by side. Developments after about 2016 (for example newer conforming and single-length systems) are covered only as far as Cohen's 12th edition describes them. Live search: none.
 
@@ -40,12 +40,12 @@ Ingle records that the Gates Glidden drill was introduced in 1885 and the K-file
 
 ### Explanation
 
-Ingle notes that Oltramare described the first rotary system for root canal preparation in 1892 and that Rollins's handpiece rotated at about 100 rpm, like the motors used today with NiTi (Ingle, year not printed) [SRC]; Baumann and Beer date Rollins's handpiece to 1899 (Baumann and Beer, 2010) [SRC]. The 1928 Cursor filing contra-angle combined rotational and vertical motion; the Racer followed in 1958 and the Giromatic in 1964, both with reciprocal motion (Ingle, year not printed) [SRC]. Baumann and Beer give the Racer date as the 1950s and the Giromatic as 1964, and record frequent wedging and fracture with the Racer (Baumann and Beer, 2010) [SRC]. Stainless-steel engine-driven systems very often led to ledges, perforation or fracture and are of virtually no role today (Baumann and Beer, 2010) [SRC]; see I2 for detail.
+Ingle notes that Oltramare described the first rotary system for root canal preparation in 1892 and that Rollins's handpiece rotated at about 100 rpm, like the motors used today with NiTi, dating it to 1889 (Ingle, year not printed) [SRC]; Baumann and Beer date Rollins's handpiece to 1899 (Baumann and Beer, 2010) [SRC]. The two dates differ by ten years and may be a misprint in one book; both are shown. The 1928 Cursor filing contra-angle combined rotational and vertical motion; the Racer followed in 1958 and the Giromatic in 1964 (Ingle, year not printed) [SRC]; Ingle describes the Giromatic as reciprocal, whereas Baumann and Beer describe the Racer as allowing a purely vertical motion. Baumann and Beer give the Racer date as the 1950s and the Giromatic as 1964, and record frequent wedging and fracture with the Racer (Baumann and Beer, 2010) [SRC]. Stainless-steel engine-driven systems very often led to ledges, perforation or fracture and are of virtually no role today (Baumann and Beer, 2010) [SRC]; see I2 for detail.
 
 #### ✎ Exam core
 
 - 1892: Oltramare described the first rotary system (Ingle, year not printed).
-- 1899: Rollins's engine-driven handpiece, about 100 rpm, 360-degree rotation (Baumann and Beer, 2010; Ingle, year not printed).
+- 1899 (Baumann and Beer, 2010) or 1889 (Ingle, year not printed): Rollins's engine-driven handpiece, about 100 rpm, 360-degree rotation.
 - 1928: Cursor filing contra-angle, combining rotation and vertical motion (Ingle, year not printed).
 - 1950s: Racer (vertical motion; 1958 in Ingle's account), with wedging and fracture of instruments (Baumann and Beer, 2010).
 - 1964: Giromatic, reciprocal 90-degree rotary motion (Baumann and Beer, 2010; Ingle, year not printed).
@@ -96,7 +96,7 @@ Baumann and Beer date the first NiTi endodontic instruments to the late 1980s (B
 
 **Trend in design.** Radial-landed files were safe but reamed rather than cut; later active designs cut better but carried more risk of preparation errors (Peters et al, 2021).
 
-Sikri's list places WaveOne among heat-treated third-generation files, and Jain places it in the fourth (reciprocating) generation; the examples differ between books.
+Sikri lists WaveOne among the heat-treated third-generation files and also in his fourth, reciprocating generation, whereas Jain places it only in the fourth generation; the examples differ between books.
 
 ## 5. Alloy and surface advances
 
@@ -106,7 +106,7 @@ Heat treatment changed the alloy: R-phase wire in 2008, M-wire with GTX in 2008,
 
 #### ✎ Exam core
 
-- 2008: GTX, the first commercial M-wire system; R-phase wire (Twisted File, K3XF) (Jain, 2016).
+- 2007: M-wire introduced; 2008: GTX, the first commercial M-wire system, and R-phase wire (Twisted File, K3XF) (Jain, 2016).
 - 2010: controlled-memory wire (HyFlex, Typhoon) (Jain, 2016).
 - Result: more flexible, more fatigue-resistant files; ProTaper Next (M-wire) better than ProTaper Universal (Peters et al, 2021).
 
@@ -192,7 +192,7 @@ The journey also includes instruments that serve the main files. Cohen describes
 | to 1960s | hand files, carbon then stainless steel | manual | standardization (1958 proposal; ISO 1974) (Baumann and Beer, 2010; Ingle, year not printed) |
 | 1899–1980s | stainless-steel files in engine handpieces | vertical, quarter-turn reciprocation | ledges, perforation, fracture; abandoned (Baumann and Beer, 2010) |
 | 1957 onward | ultrasonic and sonic tips | oscillation | irrigation activation, access, retreatment (Baumann and Beer, 2010) |
-| from 1988 | NiTi rotary files | 360-degree rotation | curved canals shaped with fewer errors, but fatigue fracture (Peters et al, 2021; Baumann and Beer, 2010) |
+| 1988; early 1990s | NiTi first made into hand files (1988, Walia et al); NiTi rotary files from the early 1990s | 360-degree rotation | curved canals shaped with fewer errors than earlier engine-driven techniques (Peters et al, 2021), but a high fracture risk (Baumann and Beer, 2010) |
 | 1990s | first commercial rotary NiTi: LightSpeed, ProFile, GT, Mity Roto, Power-R | passive, radial-landed, fixed taper; several files per canal | safe but slow reaming; led to active designs (Peters et al, 2021; Jain, 2016) |
 | 2000s | heat-treated NiTi (M-wire, R-phase, CM) | rotation | more flexible; claimed greater fatigue resistance (Jain, 2016) |
 | 2010 onward | SAF, reciprocating single files, conforming shapes | vibration, reciprocation | simplification, more wall contact; outcome benefit not shown (Peters et al, 2021) |
@@ -201,7 +201,7 @@ The journey also includes instruments that serve the main files. Cohen describes
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim:** each generation of instruments has improved treatment. The books document clear technical gains: stainless-steel engine-driven systems gave ledges and fractures and were abandoned, whereas NiTi reduced preparation errors and fracture compared with them (Baumann and Beer, 2010; Peters et al, 2021) [SRC]. Beyond that comparison, Peters et al state that clinical outcome differences among designs have yet to be shown (Peters et al, 2021) [SRC]. **Conclusion:** the large step was from rigid stainless-steel automation to flexible NiTi; the later refinements are supported by laboratory data, not by outcome studies in these books. [Likely]
+**Claim:** each generation of instruments has improved treatment. The books document clear technical gains: stainless-steel engine-driven systems gave ledges and fractures and were abandoned, whereas Peters et al say NiTi reduced preparation errors and fracture compared with those earlier techniques (Peters et al, 2021) [SRC]. Baumann and Beer, by contrast, report fracture of rotary NiTi as somewhat more common than that of stainless-steel K files (5.1% against 3.3%) (Baumann and Beer, 2010) [SRC]; the two comparisons are against different instruments. Beyond that comparison, Peters et al state that clinical outcome differences among designs have yet to be shown (Peters et al, 2021) [SRC]. **Conclusion:** the large step was from rigid stainless-steel automation to flexible NiTi; the later refinements are supported by laboratory data, not by outcome studies in these books. [Likely]
 
 ## What the journey means for practice
 
@@ -339,8 +339,8 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
-- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces, and Ch.23 Endodontic orthograde retreatment and management of mishaps (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
 - Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.

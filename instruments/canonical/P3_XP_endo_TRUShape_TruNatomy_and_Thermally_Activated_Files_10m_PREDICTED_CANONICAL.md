@@ -3,11 +3,13 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED. Not seen in the papers. Why predicted: "Recent advances in endodontic file system" (10m, Mock 2023) and the Tango-Endo wording (Mock 2025) point to newer files as examinable.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 327 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 400 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
-**Retrieval report.** Read in the relevant sections: Peters et al, Cohen's 12e Ch.8 (TRUShape, TruNatomy, XP-Shaper and XP-Finisher, Edge files, SAF) and Jain (ed.), *Current Therapy in Endodontics* Ch.3 (CM wire). Cohen is the only book here that describes these systems, and only at the level of a few paragraphs; evidence is in vitro or early reports. Tango-Endo is not described in any book used. Live search: none.
+**Retrieval report.** Read in the relevant sections: Peters et al, Cohen's 12e Ch.8 (TRUShape, TruNatomy, XP-Shaper and XP-Finisher, Edge files, SAF) and Jain (ed.), *Current Therapy in Endodontics* Ch.3 (CM wire). Cohen describes TRUShape, TruNatomy and the XP files in a few paragraphs, and Jain (Ch.3) describes TRUShape 3D Conforming files in one section with manufacturer-style claims; evidence is in vitro or early reports. Tango-Endo is not described in any book used. Live search: none.
 
-<!--LOC: xp_tru_s, xp_tru_sizes, au_tru300, xp_tru_ret, xp_tn, rc_trunat, xp_xp1, mt_h_xp, xp_fin, xp_init, xp_find, xp_edge, mt_h_edge, ds_conf, sa_c_wall, sa_c_shape, xp_mean, xp_iso, mt_c_cm, mt_c_hf, rc_blue-->
+
+
+<!--LOC: xp_tru_s, xp_tru_sizes, au_tru300, xp_tru_ret, xp_tn, rc_trunat, xp_xp1, mt_h_xp, xp_fin, xp_init, xp_find, xp_edge, mt_h_edge, ds_conf, sa_c_wall, sa_c_shape, xp_mean, xp_iso, mt_c_cm, mt_c_hf, rc_blue, p3_j_36, p3_j_32, p3_j_75, p3_j_sizes, p3_j_orif, p3_j_blue-->
 
 <!--REF: Peters2021, Jain2016-->
 
@@ -34,13 +36,15 @@ Peters et al state that the strong S-shaped longitudinal design allows TRUShape 
 | | TRUShape | TruNatomy |
 |---|---|---|
 | Design | S-shaped longitudinal design; expands and contracts during rotation | system: orifice modifier, glide-path file, three shaping files |
-| Size | #20, 25, 30, 40; maximum fluted diameter 0.8 mm | special irrigation needle and conforming gutta-percha |
+| Size and extras | #20, 25, 30, 40; maximum fluted diameter 0.8 mm | special irrigation needle and conforming gutta-percha in the system |
 | Operation | continuous rotation, 300 rpm | 500 rpm, 1.5 Ncm, gentle stroking |
 | Notes | more wall contact; attracts interest in retreatment | |
 
-(Peters et al, 2021.) Both seek to limit coronal dentin removal while increasing wall contact.
+**Jain's account of TRUShape** (Jain, 2016): an S-shaped design conforming to canal areas larger than the nominal file size; claims of 36% less dentin removed, up to 32% less apical transportation and contact with up to 75% of canal walls (claims reported in the chapter, not independent data); .06 taper; orifice modifier with a 0.75 mm maximum fluted diameter.
 
-## 3. XP-endo Shaper and Finisher (thermally activated)
+(Peters et al, 2021.) TRUShape's limited flute diameter restricts coronal dentin removal (Peters et al, 2021).
+
+## 3. XP-endo Shaper and Finisher (temperature-dependent alloy)
 
 ### Explanation
 
@@ -50,9 +54,9 @@ Peters et al describe the XP-Shaper and XP-Finisher as having strong curves in t
 
 **XP-Shaper and XP-Finisher** (Peters et al, 2021)
 - Strong longitudinal curves and a small taper limit the maximum fluted diameter.
-- The alloy changes conformation between room and body temperature, giving some stiffening: a thermally activated file.
+- The alloy changes conformation between room and body temperature, giving some stiffening (Peters et al, 2021); "thermally activated" is the usual trade description [RECALL].
 - The finisher is considered an irrigation enhancement device, run at about 800 rpm.
-- Early reports: acceptable canal preparation (shaper); débridement similar or better than other shaping and cleaning strategies (finisher).
+- Early reports: acceptable preparation (shaper); débridement similar or better than other strategies (finisher).
 
 ## 4. Other heat-treated alloys
 
@@ -76,7 +80,7 @@ For the SAF, Peters et al report more wall contact than rotary files in vitro an
 
 **Cautions**
 - Data are largely in vitro or initial reports (Peters et al, 2021).
-- More wall contact is a laboratory surrogate, not a proven clinical benefit (Peters et al, 2021).
+- More wall contact is a laboratory surrogate, not a proven clinical benefit [Likely] (Peters et al, 2021 on clinical outcomes).
 - Thermally activated files behave differently at room and body temperature; follow the manufacturer's protocol [RECALL].
 - Tango-Endo and other newer files are not described in the books used.
 
@@ -121,6 +125,12 @@ None from the books.
 - Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.80 (printed p.54): "Introduced in 2010, CM NiTi files are manufactured using a special thermomechanical process that controls the memory of the material, making the files extremely flexible but without the shape memory of other, conventional NiTi files"
 - Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.80 (printed p.54): "are made from CM wire"
 - Peters et al, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.907: "Vortex Blue, which showed greater resistance to cyclic fatigue and increased torque resistance"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "removes 36% less dentin"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "up to 32% less apical transportation"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "by contacting up to 75% of canal walls"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "They are available in lengths of 21 mm, 25 mm, and 31 mm in tapers of .06 and in tip sizes of 20, 25, 30, and 40"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "TRU Shape Orifice modifiers are also available as 20/.08 in 16-mm length"
+- Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.96 (printed p.70): "blue wire NiTi for strength and flexibility"
 
 **[LIT]** none: no live literature search was run for this answer.
 

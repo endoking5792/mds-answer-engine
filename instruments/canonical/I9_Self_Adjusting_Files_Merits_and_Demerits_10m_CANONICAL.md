@@ -3,9 +3,9 @@
 **Marks:** 10m, Short Essay
 **Sitting:** May 2025 (PII 21-25). Repeats absorbed: "Self-Adjusting files." (5m, Short Note, Oct 2017 PIII 16-21).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 334 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 369 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
-**Retrieval report.** Read in full: Sikri 2e Ch.11, section "Self-Adjusting File (SAF)" (design, procedure, advantages); Peters et al, Cohen's 12e Ch.8, "Self-adjusting File" paragraph; Ingle 7e Ch.20, the two SAF statements (introduction in 2010; isthmus cleaning). Not read: primary studies on SAF (Metzger and colleagues). Sikri lists only advantages; **the demerits below come from Cohen, Ingle and [RECALL]**, and are tagged. Live search: none.
+**Retrieval report.** Read in full: Sikri 2e Ch.11, section "Self-Adjusting File (SAF)" (design, procedure, advantages); Peters et al, Cohen's 12e Ch.8, "Self-adjusting File" paragraph; Ingle 7e Ch.20, the SAF section (design, 5,000 Hz vibration, obturation, need for further studies) and two statements on dating and isthmus cleaning. Not read: primary studies on SAF (Metzger and colleagues). Sikri lists only advantages; **the demerits below come from Cohen and Ingle, with cost and learning curve as [RECALL]**. Live search: none.
 
 
 <!--LOC: sa_def, sa_lattice, sa_tip, sa_flow, sa_compress, sa_regain, sa_adapt, sa_abrasive, sa_vib, sa_cycles, sa_single, sa_uniform, sa_transport, sa_durab, sa_retrieve, sa_smear, sa_irrig, sa_c_wall, sa_c_shape, sa_c_glide, sa_i_isthmi, sa_i_2010, sa_core, sa_widest-->
@@ -48,7 +48,7 @@ Sikri lists these advantages. The file adapts to the three-dimensional canal and
 | Feature | Rotary NiTi file | Self-adjusting file |
 |---|---|---|
 | Core | Solid metal core | No solid metal shaft; hollow lattice (Sikri, 2019) |
-| Motion | Continuous or reciprocating rotation | In-and-out vibration (Sikri, 2019) |
+| Motion | Rotation (continuous or reciprocating) [RECALL] | In-and-out vibration (Sikri, 2019) |
 | Canal shape | Follows the widest part of the canal and machines it (Sikri, 2019) | Adapts to the cross-section (Sikri, 2019) |
 | Irrigation | Between instrument passes [RECALL] | Continuous through the tube (Sikri, 2019) |
 
@@ -56,23 +56,22 @@ Sikri lists these advantages. The file adapts to the three-dimensional canal and
 
 ### Explanation
 
-Sikri does not list limitations. Ingle states that no NiTi system, SAF among them, was able to clean and prepare all the isthmi (Ingle, year not printed) [SRC]. Cohen's data are in vitro (Peters et al, 2021) [SRC], and Sikri's clinical support is described as initial studies only (Sikri, 2019) [SRC]. The other limitations below are [RECALL].
+Sikri does not list limitations. Ingle states that the SAF shows a new conceptual approach to instrument design and that further studies are still necessary; that lateral compaction does not seem suitable after SAF preparation because the prepared canal does not have a specific geometry; and that thermoplastic obturation may be difficult because the apical taper is not clearly defined (Ingle, year not printed) [SRC]. Ingle also states that no NiTi system, SAF among them, was able to clean and prepare all the isthmi (Ingle, year not printed) [SRC]. Cohen's data are in vitro (Peters et al, 2021) [SRC], and Sikri reports only initial clinical studies, which observed better preparation and few separations (Sikri, 2019) [SRC]; the weak-evidence reading comes from Ingle's call for further studies and from Cohen's in vitro data, not from Sikri. The books also give the vibration differently: 3,000 to 5,000 vibrations a minute in Sikri, about 4,000 a minute in Cohen, and a frequency of 5,000 Hz in Ingle (Sikri, 2019; Peters et al, 2021; Ingle, year not printed) [SRC]; the units are not reconciled in the books. Cost and a learning curve for the set-up are [RECALL].
 
 #### ✎ Exam core
 
 **Demerits**
-- Evidence is largely in vitro; clinical studies are initial (Sikri, 2019; Peters et al, 2021).
-- Needs a glide path to #20 before use (Peters et al, 2021), so it cannot be used in tight canals without prior enlargement.
-- Needs a special handpiece and an irrigation pump (Sikri, 2019).
+- Evidence: Cohen's data are in vitro (Peters et al, 2021); Sikri's clinical studies are initial (Sikri, 2019); Ingle says further studies are still necessary (Ingle, year not printed).
+- A glide path to #20 is needed before use (Peters et al, 2021); in tight canals this may be an extra step [Likely].
+- Obturation: lateral compaction seems unsuitable because the prepared canal has no specific geometry, and the apical taper is not clearly defined for thermoplastic obturation (Ingle, year not printed).
 - Does not clean all isthmi (Ingle, year not printed).
-- Single use only (Sikri, 2019): cost [RECALL].
-- Prepared shape follows the canal and gives little apical taper for obturation; a learning curve for the irrigation set-up [RECALL].
+- Single use only (Sikri, 2019), so cost is a factor [RECALL]; irrigation can use any pump that delivers a controlled flow (Sikri, 2019), but the set-up has a learning curve [RECALL].
 
 ## HIGH-YIELD POINTS
 - Hollow NiTi lattice, 1.5 or 2.0 mm, vibrating 3,000–5,000 per minute, 0.4 mm amplitude.
 - Glide path #20 first; 4 minutes per canal; single use.
 - Merit: uniform dentin removal, adapts to oval canals, continuous irrigation.
-- Demerit: in vitro evidence, special equipment, isthmi not cleaned.
+- Demerit: in vitro evidence and need for further studies, obturation difficulty, isthmi not cleaned.
 
 ## DIAGRAMS TO DRAW
 - A hollow lattice tube in a flat (oval) canal, compressed, with irrigant entering the lumen. Labels: lattice, lumen, irrigant, canal wall.
@@ -116,6 +115,6 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
+- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces, and Ch.23 Endodontic orthograde retreatment and management of mishaps (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

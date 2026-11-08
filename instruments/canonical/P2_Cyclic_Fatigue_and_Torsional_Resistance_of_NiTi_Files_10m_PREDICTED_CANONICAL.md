@@ -3,11 +3,13 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED. Not seen in the papers. Why predicted: fracture of rotary instruments is asked as a 20m essay, and heat-treated NiTi questions ask about "fatigue resistance" directly (Mock 2025).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 360 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 398 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Read in the relevant sections: Baumann and Beer, *Endodontology* Ch.22 (mechanisms, torque, fatigue experiments); Jain (ed.), *Current Therapy in Endodontics* Ch.3; Terauchi and Renton, Cohen's 12e Ch.20; Peters et al, Cohen's 12e Ch.8 (testing platforms). The books do not describe laboratory test protocols (such as artificial canals with a defined radius and angle) in detail, so the account of testing is limited to what they state. **The books disagree about which files are more susceptible to which mode, and both views are shown.** Live search: none.
 
-<!--LOC: sep_e_two, sep_e_nowarn, sep_e_vv, sep_e_relax, sep_e_over, sep_e_7, ft_steel, ft_osc, ft_iso, ft_hl, ft_bend, ft_c_bend, ft_c_tq, ft_c_plat, ft_c_ccw, ft_c_acute, ft_j_taper, ft_j_taper2, ft_j_axial, ft_j_two, sep_c_cyc, sep_c_tors, sep_c_curve, sep_c_small, sep_c_less, sep_e_time, mt_c_fat-->
+
+
+<!--LOC: sep_e_two, sep_e_nowarn, sep_e_vv, sep_e_relax, sep_e_over, sep_e_7, ft_steel, ft_osc, ft_iso, ft_hl, ft_bend, ft_c_bend, ft_c_tq, ft_c_plat, ft_c_ccw, ft_c_acute, ft_j_taper, ft_j_taper2, ft_j_axial, ft_j_two, sep_c_cyc, sep_c_tors, sep_c_curve, sep_c_small, sep_c_less, sep_e_time, mt_c_fat, p2_larger, p2_300-->
 
 <!--REF: Baumann2010, Jain2016, Peters2021, Terauchi2021-->
 
@@ -26,13 +28,13 @@ Jain gives two distinct fracture mechanisms, torsional load and flexural cyclic 
 | Warning | none | deformation may be visible |
 | Source | Baumann and Beer, 2010; Jain, 2016; Terauchi and Renton, 2021 | same |
 
-**Interaction.** Fatigue reduces torsional resistance and the reverse (Baumann and Beer, 2010; Terauchi and Renton, 2021). Relaxation: when the tip locks, the coronal end can often turn about two more times with reduced torque, and then torsional overload follows (Baumann and Beer, 2010).
+**Interaction.** Fatigue reduces torsional resistance and the reverse (Baumann and Beer, 2010); this applies more to larger-diameter or higher-taper files (Baumann and Beer, 2010). Terauchi and Renton report that cyclic-fatigued instruments become less resistant to torsional failure (Terauchi and Renton, 2021). Relaxation: when the tip locks, the coronal end can often turn about two more times with reduced torque, and then torsional overload follows (Baumann and Beer, 2010).
 
 ## 2. Factors that raise or lower each mode
 
 ### Explanation
 
-The books disagree on size and taper. Jain states that, as a general rule, flexible instruments are not very susceptible to torsional load but resist cyclic fatigue, so a file with greater taper and larger diameter is more susceptible to fatigue failure (Jain, 2016) [SRC]. Terauchi and Renton state that smaller files with smaller tapers resist cyclic fatigue better but are more susceptible to torsional fatigue, and that larger, more tapered files show the opposite (Terauchi and Renton, 2021) [SRC]. The two statements agree on cyclic fatigue and size, and differ on the torsional behaviour of small files; the source texts do not reconcile them. Cohen adds that acute apical curves limit the use of higher-taper instruments because of cyclic fatigue risk (Peters et al, 2021) [SRC]. Fatigue is also reported to rise with torque (Terauchi and Renton, 2021) [SRC].
+The books disagree on size and taper. Jain states that, as a general rule, flexible instruments are not very susceptible to torsional load but resist cyclic fatigue, so a file with greater taper and larger diameter is more susceptible to fatigue failure (Jain, 2016) [SRC]. Terauchi and Renton state that smaller files with smaller tapers resist cyclic fatigue better but are more susceptible to torsional fatigue, and that larger, more tapered files show the opposite (Terauchi and Renton, 2021) [SRC]. The two statements agree on cyclic fatigue and size, and differ on the torsional behaviour of small files; the source texts do not reconcile them. Cohen adds that acute apical curves limit the use of higher-taper instruments because of cyclic fatigue risk (Peters et al, 2021) [SRC]. A high torque setting is reported to increase the risk of cyclic fatigue failure (Terauchi and Renton, 2021) [SRC].
 
 #### ✎ Exam core
 
@@ -53,13 +55,13 @@ Baumann and Beer describe fatigue experiments in which the instrument life was m
 #### ✎ Exam core
 
 **Tests described in the books**
-- *Cyclic fatigue*: rotate the file in a steel model with a fixed radius of curvature and count rotations or time to fracture; results are expressed against curvature and amplitude; high-cycle against low-cycle fatigue (Baumann and Beer, 2010).
+- *Cyclic fatigue*: rotate the file in a steel model with a fixed radius of curvature and count rotations or time to fracture; results are expressed against the amplitude of oscillating movement; high-cycle fatigue (more than 10,000 cycles) is distinguished from low-cycle fatigue (fewer than 10,000) (Baumann and Beer, 2010).
 - *Torsional strength*: torque to failure measured 3 mm from the tip (D3) under the ISO norm; compare with the working torque (Baumann and Beer, 2010; Peters et al, 2021).
-- *Bending*: flexibility tested to ISO 3630-1 (Peters et al, 2021).
+- *Bending*: flexibility tested according to ISO 3630-1, the norm for hand instruments (Peters et al, 2021).
 - *Platform tests*: torque, axial force and insertion depth recorded during instrumentation (Peters et al, 2021).
 - *Direction*: hand K-files fail in the counterclockwise direction at half the rotations needed clockwise (Peters et al, 2021).
 
-**Limit of such tests.** They are laboratory models; the books present no clinical test of fatigue [Likely].
+**Limit.** These are laboratory models; the books give no clinical test [Likely].
 
 ## HIGH-YIELD POINTS
 - Two modes: cyclic fatigue (curves, no warning) and torsional overload (tip locks).
@@ -73,7 +75,7 @@ Baumann and Beer describe fatigue experiments in which the instrument life was m
 ## COMMON EXAM MISTAKES
 - Calling NiTi fracture always visible.
 - Treating the modes as independent.
-- Quoting a fixed number of rotations to failure, which depends on the model.
+- Quoting rotations to failure without naming the model; Baumann and Beer quote about 300 to 600 rotations in a severe curve.
 
 ## MNEMONIC
 None from the books.
@@ -108,11 +110,13 @@ None from the books.
 - Terauchi and Renton, 2021, 20_20_Managing_iatrogenic_events.md, PDF p.2429: "Cyclic-fatigued instruments are reported to become less resistant to torsional fatigue failure"
 - Baumann and Beer, 2010, 22_22_Fracture_of_Endodontic_Instruments_Torque_and_Fatigu, PDF p.166: "In the clinical situation it is important to minimize the time the instrument is actually in the canal"
 - Jain, 2016, 03_4_pdf_p_53_112.md, PDF p.55 (printed p.29): "Repeated bending of instruments in curved canals causes metal fatigue, leading to instrument fracture"
+- Baumann and Beer, 2010, 22_22_Fracture_of_Endodontic_Instruments_Torque_and_Fatigu, PDF p.166: "This applies more to instruments with larger diameters and/or higher taper than to instruments with smaller dimensions"
+- Baumann and Beer, 2010, 22_22_Fracture_of_Endodontic_Instruments_Torque_and_Fatigu, PDF p.166: "breakage will occur after 300"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.

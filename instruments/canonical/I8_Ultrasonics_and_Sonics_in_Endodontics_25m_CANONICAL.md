@@ -3,7 +3,7 @@
 **Marks:** 25m, Essay ("Critically discuss")
 **Sitting:** Sep 2002 (PIII 01-07). Repeats absorbed: "Write in detail about ultrasonics in endodontics." (25m, 29-Dec-2021 RG PII RS-5, filed under Recent Advances); "Role of ultrasonics in endodontics." (20m, Nov 2016 RG PIII RS-3); "Ultrasonics in endodontics" (10m, Sep 2010 PIII 07-15; 10m, Nov 2013 RG PIII RS-2; 10m, Mock 2023 ABS PII); "Ultrasonic and its uses in endodontics" (10m, 18-Dec-2023 RG PII RS-5); "Endosonics." (10m, Mar 2002 PIII 01-07); "Ultrasonics in Endodontics" (7m, 16-Jul-2021 RG PIII RS-3); "Role of Ultrasonics" (7m, Nov 2013 RG PIII RS-3); "Uses of Ultrasonics." (5m, Oct 2017 PIII 16-21). Cross-references, not repeated: "Ultrasonic synergistic system is efficient bio-mechanical preparation of root canal" (`cleaning_shaping` Q08); "Passive ultrasonic irrigation" (irrigation topic); "Ultrasonic root end preparation" (5m, Aug 2004; surgical endodontics Q07).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 876 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 943 words, about 43 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
 
 **Retrieval report.** Read in full: Baumann and Beer, *Endodontology* Ch.12 (sonic and ultrasonic treatment); Sikri 2e Ch.11, ultrasonic and sonic section; Nusstein, *Endodontic Irrigation* Ch.10 (the paragraph defining cavitation and acoustic streaming). Not read: the primary studies; the retreatment and separated-instrument chapters of Cohen and Ingle, which discuss ultrasonic technique in detail. **The two textbooks disagree** about the value of ultrasonic canal preparation and about cavitation, and both positions are shown. Live search: none.
 
@@ -19,7 +19,7 @@
 
 Baumann and Beer define sonic waves as 16 Hz to 20 kHz and ultrasonic waves as 20 kHz to 1 GHz, and note that ultrasound was first described in endodontic treatment and root tip resection by Richman in 1957 (Baumann and Beer, 2010) [SRC]. Ultrasonic units are mostly piezoelectric, with a quartz crystal set into vibration by an electric current; they replaced the earlier electromagnetic devices, and heat development is lower, so the handpiece needs no extra cooling (Baumann and Beer, 2010) [SRC]. Sikri describes the two energy sources differently: magnetostrictive transducers produce an elliptical motion at the tip, and piezoelectric transducers produce linear longitudinal or transverse motion (Sikri, 2019) [SRC]. The file oscillates in a wave pattern with nodes and antinodes, and the action is strongest at the tip where amplitude is greatest (Baumann and Beer, 2010) [SRC].
 
-The mechanism is where the books differ. Sikri says cavitation, produced by alternating compression and rarefaction around a vibrating file, breaks cells, so pulp tissue and bacteria are destroyed and washed out (Sikri, 2019) [SRC]. Nusstein gives the primary effects of ultrasound as cavitation and acoustic streaming, with transient cavitation as a bubble that grows and collapses; the implosion is said to produce temperatures above 5,000 degrees (Nusstein, 2015) [SRC]. Baumann and Beer accept that cavitation and acoustic microstreaming are recognised as effective in principle, yet note that dental devices are too weak to create large cavitation effects, which several authors considered too mild to be effective (Baumann and Beer, 2010) [SRC]. The three sources therefore do not agree on how much cavitation contributes clinically, and none can be ranked here.
+The mechanism is where the books differ, and the difference concerns cavitation, not streaming. Sikri says cavitation, produced by alternating compression and rarefaction around a vibrating file, breaks cells, so pulp tissue and bacteria are destroyed and washed out (Sikri, 2019) [SRC]. Nusstein gives the primary effects of ultrasound as cavitation and acoustic streaming; transient cavitation is a bubble that grows and collapses, and acoustic streaming purportedly enhances cleansing and disinfection (Nusstein, 2015) [SRC]. The temperature and pressure figures Nusstein quotes for the implosion are taken from commercial websites cited in his chapter, and are not used in the exam core. Baumann and Beer accept that cavitation and acoustic microstreaming are in principle effective, yet note that dental devices are too weak to create large cavitation effects, which several authors considered too mild to be effective (Baumann and Beer, 2010) [SRC]. Only Sikri therefore places the main killing action on cavitation, and the three books use the terms stable and transient cavitation in slightly different ways; I have not ranked them.
 
 #### ✎ Exam core
 
@@ -32,10 +32,10 @@ The mechanism is where the books differ. Sikri says cavitation, produced by alte
 
 **Mechanisms**
 1. *Oscillation of the file*, strongest at the tip (Baumann and Beer, 2010).
-2. *Cavitation*: alternate compression and rarefaction in a liquid; transient cavitation is a bubble that grows and collapses (Nusstein, 2015).
+2. *Cavitation*: alternate compression and rarefaction in a liquid (Sikri, 2019); transient cavitation is a bubble that grows and collapses (Nusstein, 2015).
 3. *Acoustic streaming*, with shear stress on the canal wall (Nusstein, 2015; Baumann and Beer, 2010).
 
-Controversy: Sikri attributes cell destruction to cavitation (Sikri, 2019); Baumann and Beer state that dental units are too weak to create large cavitation effects (Baumann and Beer, 2010).
+Controversy: Sikri attributes cell destruction to cavitation (Sikri, 2019); Baumann and Beer state that dental units are too weak to create large cavitation effects (Baumann and Beer, 2010). Nusstein lists cavitation and acoustic streaming as the primary effects (Nusstein, 2015).
 
 **Acoustic streaming in detail.** Between the file and the irrigant a flow ("eddy current") runs from the coronal end toward the apex and is strongest at the tip, producing hydrodynamic shear stresses on the canal wall (Baumann and Beer, 2010). Contact of the file with the wall reduces the microstreaming but does not abolish it (Baumann and Beer, 2010). Cavitation can be stable (resonant, from vigorous agitation of the irrigant) or transient (a bubble that grows and collapses) (Nusstein, 2015).
 
@@ -52,10 +52,10 @@ Baumann and Beer list the sonic units (Endostar, Megasonic 1400, Sonic Air MM 15
 | | Sonic | Ultrasonic |
 |---|---|---|
 | Frequency | 16 Hz–20 kHz | above 20 kHz |
-| Drive | compressed air [RECALL] | electric (piezoelectric or magnetostrictive) |
+| Drive | compressed air (Sikri, 2019) | electric (piezoelectric or magnetostrictive) (Sikri, 2019) |
 | Fractures and steps | fewer (Baumann and Beer, 2010) | more (Baumann and Beer, 2010) |
 | Removal of hard material | better (Baumann and Beer, 2010) | less |
-| Acceptance | not widely accepted (Baumann and Beer, 2010) | widely used for other tasks |
+| Acceptance | not widely accepted for canal preparation (Baumann and Beer, 2010) | used today for irrigation activation, access, retreatment (Baumann and Beer, 2010) |
 
 **Notes on sonic devices.** Smaller files are more effective; the amplitude at the tip is higher than in ultrasonics but dentin transport is harder to control and tactile sensitivity is partly lost (Baumann and Beer, 2010). Examples: Endostar, Megasonic 1400 and Sonic Air MM 1500 (Baumann and Beer, 2010); Micromega 1500 with Heliosonic, Shaper and Rispisonic files, all with safe-ended tips (Sikri, 2019).
 
@@ -63,9 +63,9 @@ Baumann and Beer list the sonic units (Endostar, Megasonic 1400, Sonic Air MM 15
 
 ### Explanation
 
-Baumann and Beer record a paradigm shift in the last decade: research of the previous 30 years aimed at replacing manual instrumentation and at synergy with irrigants, whereas the primary uses today are disengaging and loosening intracanal obstructions, retreatment, and retrograde approaches (Baumann and Beer, 2010) [SRC]. Ultrasonic canal preparation is not recommended because shaping is difficult to control and perforations, steps and ledges occur frequently, and there is no direct antibacterial effect (Baumann and Beer, 2010) [SRC]. Sikri, by contrast, says that dentin removal and removal of unwanted intracanal material are faster and more efficient than with hand files, particularly in larger and interconnected canals (Sikri, 2019) [SRC]. These accounts conflict, and the later and more critical one is shown first in the exam core. Sikri also warns that a new smear layer is produced where the tip touches the wall, and advises using the device after hand preparation, with the file kept in the centre of the canal, away from the walls (Sikri, 2019) [SRC].
+Baumann and Beer record a paradigm shift in the last decade: research of the previous 30 years aimed at replacing manual instrumentation and at synergy with irrigants, whereas the primary uses today are disengaging and loosening intracanal obstructions, retreatment, and retrograde approaches (Baumann and Beer, 2010) [SRC]. Ultrasonic canal preparation is not recommended because shaping is difficult to control and perforations, steps and ledges occur frequently, and there is no direct antibacterial effect (Baumann and Beer, 2010) [SRC]. Sikri, by contrast, says that dentin removal and removal of unwanted intracanal material are faster and more efficient than with hand files, particularly in larger and interconnected canals (Sikri, 2019) [SRC]. These accounts conflict; the more critical one (Baumann and Beer, 2010, the earlier of the two books) is shown first in the exam core, and Sikri (2019) is the later book. Sikri also warns that a new smear layer is produced where the tip touches the wall, and advises using the device after hand preparation, with the file kept in the centre of the canal, away from the walls (Sikri, 2019) [SRC].
 
-Passive ultrasonic irrigation (PUI) is the application that has stood the test of time (Baumann and Beer, 2010) [SRC]. It removes more debris, bacteria and pulpal tissue than manual injection, needs sodium hypochlorite to remove smear layer and bacteria effectively, and cleans niches and isthmi (Baumann and Beer, 2010) [SRC]. The trend is toward a smooth wire that does not alter the canal wall (Baumann and Beer, 2010) [SRC].
+Passive ultrasonic irrigation (PUI) is the application that has stood the test of time (Baumann and Beer, 2010) [SRC]. It removes more debris, bacteria and pulpal tissue than manual injection, removes smear layer and bacteria more effectively with sodium hypochlorite than with water, and cleans niches and isthmi (Baumann and Beer, 2010) [SRC]. The trend is toward a smooth wire that does not alter the canal wall (Baumann and Beer, 2010) [SRC].
 
 Finally, ultrasonic tips are used to find and open canal orifices and for retreatment. Diamond- or zirconium nitride-coated tips are indispensable for reinstrumentation of treated canals and removal of broken instruments or points (Baumann and Beer, 2010) [SRC]. The success rate of removing fractured instruments rose from 68% to 87% in the studies quoted (Baumann and Beer, 2010) [SRC]. Sikri classifies tips as access refinement, vibratory (post and core removal), bulk removal, troughing (instrument retrieval) and surgical retro-tips (Sikri, 2019) [SRC]. Ultrasonic root-end preparation and microsurgery depend on ultrasonics and the microscope (Baumann and Beer, 2010) [SRC].
 
@@ -73,8 +73,8 @@ Finally, ultrasonic tips are used to find and open canal orifices and for retrea
 
 **Uses today** (Baumann and Beer, 2010; Sikri, 2019)
 1. **Passive ultrasonic irrigation**: a smooth wire or file activates sodium hypochlorite after shaping; better removal of debris, bacteria and tissue from isthmi and niches than syringe irrigation (Baumann and Beer, 2010).
-2. **Access refinement**: locating and opening calcified orifices, removing pulp stones (Baumann and Beer, 2010; Sikri, 2019).
-3. **Retreatment**: removal of old fillings, silver points, posts and pins; coated tips are indispensable (Baumann and Beer, 2010).
+2. **Access refinement**: locating and opening canal orifices and calcifications or obstructions (Baumann and Beer, 2010; Sikri, 2019).
+3. **Retreatment**: removal of old fillings, posts and pins; coated tips are indispensable for reinstrumentation (Baumann and Beer, 2010); Sikri adds the removal of silver points and posts with piezoelectric units (Sikri, 2019).
 4. **Separated instruments**: troughing tips; success of removal 68% rising to 87% in the studies quoted (Baumann and Beer, 2010).
 5. **Root-end preparation** in apical microsurgery (Sikri, 2019; Baumann and Beer, 2010).
 6. **Canal preparation**: now considered unjustified because of perforations, steps and ledges, and no direct antibacterial effect (Baumann and Beer, 2010). Sikri (2019) says it is faster and more efficient than hand files, especially in large canals, and advises using it after hand preparation, keeping the file centred.
@@ -85,19 +85,19 @@ Finally, ultrasonic tips are used to find and open canal orifices and for retrea
 - Described as early as 1985 by Weller and colleagues; "passive" means that the file does not instrument the canal (Baumann and Beer, 2010).
 - Performed after shaping, in keeping with the principle of shaping first and then cleaning and disinfecting (Baumann and Beer, 2010).
 - A smooth wire or a thin file must be free to oscillate in the canal; pre-bending helps in curved canals (Baumann and Beer, 2010).
-- Sodium hypochlorite is the irrigant of importance; it removes smear layer, debris and bacteria better than water (Baumann and Beer, 2010).
+- Sodium hypochlorite is the irrigant of importance: smear layer, debris and bacteria are removed more effectively with it than with water alone (Baumann and Beer, 2010).
 - Reaches niches and isthmi that conventional instrumentation misses (Baumann and Beer, 2010).
 
 | Use | Tip or instrument | Source |
 |---|---|---|
-| Access refinement, pulp stones, calcified orifices | access refinement tips | Sikri, 2019 |
+| Access refinement, calcified orifices | access refinement tips | Sikri, 2019 |
 | Post and core removal | vibratory tips | Sikri, 2019 |
 | Bulk removal of dentin or core | bulk removal tips | Sikri, 2019 |
 | Separated instruments | troughing tips; diamond- or zirconium nitride-coated tips | Sikri, 2019; Baumann and Beer, 2010 |
 | Root-end preparation | surgical retro-tips | Sikri, 2019 |
 | Irrigant activation (PUI) | smooth wire or thin file | Baumann and Beer, 2010 |
 
-**Microsurgery.** Apical microsurgery with ultrasonic tips and the microscope reaches success rates above 90% in the studies quoted (Baumann and Beer, 2010).
+**Microsurgery.** Apical microsurgery, performed with ultrasonic tips and the microscope, reaches success rates above 90% in the studies quoted; the figure belongs to the microsurgical technique as a whole (Baumann and Beer, 2010).
 
 ## 4. Limitations and precautions
 
@@ -112,12 +112,12 @@ The limitations follow from the sources above: shaping is hard to control, with 
 - No direct antibacterial effect; sodium hypochlorite is needed (Baumann and Beer, 2010).
 - New smear layer where the tip touches the wall (Sikri, 2019).
 - Contact with the wall damps streaming; keep the file free in the canal (Baumann and Beer, 2010; Sikri, 2019).
-- Heat in pin and post removal; use air or water cooling (Baumann and Beer, 2010).
+- Heat in pin and post removal: air cooling gave some relief in the study quoted, and water cooling was often avoided for visibility (Baumann and Beer, 2010).
 - Use small, loose files in curved canals (Sikri, 2019).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim:** ultrasonics improves root canal preparation. Sikri says dentin removal is faster and more efficient than with hand files (Sikri, 2019); Baumann and Beer conclude, from the research of three decades, that this approach was not correct and that only PUI has stood the test of time (Baumann and Beer, 2010) [SRC]. The more recent source is therefore more cautious, and its reasons (poor control, ledges, no direct antibacterial effect) are clinical and technical rather than laboratory efficiency. The studies behind both positions were not read. **Conclusion:** use ultrasonics for irrigation activation, access, retreatment and retrieval rather than for shaping. [Likely]
+**Claim:** ultrasonics improves root canal preparation. Sikri says dentin removal is faster and more efficient than with hand files (Sikri, 2019); Baumann and Beer conclude, from the research of three decades, that this approach was not correct and that only PUI has stood the test of time (Baumann and Beer, 2010) [SRC]. Baumann and Beer (2010), the earlier of the two books, is the more cautious, and its reasons (poor control, ledges, no direct antibacterial effect) are clinical and technical rather than laboratory efficiency. The studies behind both positions were not read. **Conclusion:** use ultrasonics for irrigation activation, access, retreatment and retrieval rather than for shaping. [Likely]
 
 ## HIGH-YIELD POINTS
 - Sonic 16 Hz–20 kHz; ultrasonic above 20 kHz; piezoelectric units now standard.
@@ -197,6 +197,6 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Nusstein JM. Sonic and ultrasonic irrigation. In: Basrani B, editor. Endodontic Irrigation: Chemical Disinfection of the Root Canal System. Cham: Springer; 2015. Ch.10.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

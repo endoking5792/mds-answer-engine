@@ -3,9 +3,9 @@
 **Marks:** 75m, Single Essay
 **Sitting:** Apr 2015 (NU PIV). Repeats absorbed: "Discuss the uses of a gyromatic handpiece in endodontics" (10m, date not printed on scan, RG PIII RS-old); "Speed and Torque in endodontics." (10m, Apr 2013 PIII 07-15).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2568 words, about 117 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2701 words, about 123 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks).
 
-**Retrieval report.** Read in full or in the relevant sections: Baumann and Beer, *Endodontology* Ch.20 (history of engine-driven systems), Ch.21 (torque, motors, apex-locator integration) and Ch.22 (torque and fatigue); Sikri 2e Ch.11 (automated devices, handpieces, Giromatic, Canal Finder, Endo-Eze); Jain (ed.), *Current Therapy in Endodontics* Ch.3 (torque, motors, preparation techniques); Peters et al, Cohen's 12e Ch.8 (motors, speeds). Not read: Ingle's chapter on engine-driven instrumentation, because of OCR damage. Ultrasonic and sonic automation is answered in I8, and reciprocating and rotary files in I5; they are summarised here with cross-references. **The books disagree on whether torque-controlled motors reduce fracture, and both views are shown.** Live search: none.
+**Retrieval report.** Read in full or in the relevant sections: Baumann and Beer, *Endodontology* Ch.20 (history of engine-driven systems), Ch.21 (torque, motors, apex-locator integration) and Ch.22 (torque and fatigue); Sikri 2e Ch.11 (automated devices, handpieces, Giromatic, Canal Finder, Endo-Eze); Jain (ed.), *Current Therapy in Endodontics* Ch.3 (torque, motors, preparation techniques); Peters et al, Cohen's 12e Ch.8 (motors, speeds). Ingle's history paragraph is legible and is used only for dates (it gives Rollins as 1889); the rest of his chapter on engine-driven instrumentation is damaged by OCR and was not used. Ultrasonic and sonic automation is answered in I8, and reciprocating and rotary files in I5; they are summarised here with cross-references. **The books disagree on whether torque-controlled motors reduce fracture, and both views are shown.** Live search: none.
 
 
 
@@ -49,10 +49,10 @@ NiTi changed the picture. Jain notes that the discovery of NiTi allowed a steadi
 **Timeline** (Baumann and Beer, 2010; Jain, 2016; Peters et al, 2021)
 | Date | Development |
 |---|---|
-| 1899 | Rollins: first engine-driven endodontic handpiece |
+| 1899 or 1889 | Rollins: first engine-driven endodontic handpiece (1899 in Baumann and Beer, 2010; 1889 in Ingle, year not printed) |
 | 1950s | Racer: purely vertical motion; wedging and fracture of instruments |
 | 1964 | Giromatic: reciprocal 90-degree rotary motion, widely accepted |
-| 1970s–1980s | Endolift (vertical plus reciprocal rotation); Excalibur (aleatoric oscillation with variable vertical motion); Endoplaner (filing plus rotation); Canal-Finder (vertical stroke with free rotation as friction rises); Canal-Leader; IMD 9X (360-degree rotation, slower with friction) |
+| after the Giromatic (dates not given by Baumann and Beer) | Endolift (vertical plus reciprocal rotation); Excalibur (aleatoric oscillation with variable vertical motion); Endoplaner (filing plus rotation); Canal-Finder (vertical stroke with free rotation as friction rises); Canal-Leader; IMD 9X (360-degree rotation, slower with friction); Jain places the Canal Finder and Canal Leader in the 1980s (Jain, 2016) |
 | ENDOflash | torque-dependent speed controlled in the handpiece |
 | 1988 | NiTi instruments; 360-degree rotation with a slow, torque-controlled motor |
 | Early 1990s | first-generation electric motors for rotary NiTi |
@@ -82,7 +82,7 @@ Sikri describes three contra-angle handpiece types: a full rotary one (latch or 
 
 **Uses of the Giromatic handpiece** (Sikri, 2019)
 - Rotates the instrument a quarter-turn in alternate directions, up to 3,000 cycles a minute.
-- Used with Girofiles and Girobroaches (and with H-type files in reciprocation).
+- Used with Girofiles and Girobroaches.
 - Claimed to be quicker, but studies found little difference from hand files.
 - Limitations: loss of tactile sensation, with zipping, over-instrumentation and instrument breakage.
 - Modified versions: M4 Safety handpiece (300 reciprocating motions) and the Endo-grapper (10:1 gear ratio).
@@ -121,11 +121,11 @@ NiTi rotary: excellent shaping of severely curved canals and considerable saving
 
 ### Explanation
 
-Baumann and Beer state that NiTi must be run at a low constant speed, usually about 300 rpm, and that torque, as well as speed, affects the risk of fracture (Baumann and Beer, 2010) [SRC]. They define torque as force times lever arm, in N·cm, and report that the breakage torque of the instrument tip is measured 3 mm from the tip (D3), and that in many cases the working torque exceeds this limit (Baumann and Beer, 2010) [SRC]. Torque rises with instrument diameter and with the dentin contact area, and crown-down instrumentation reduces contact and so torque (Baumann and Beer, 2010) [SRC]. Jain agrees that the torque generated depends on factors, especially the contact area, and concludes that slow-speed, high-torque NiTi rotation leads to many iatrogenic errors, with the ideal being slow speed and low torque or, preferably, "right" torque, because each instrument has a specific ideal torque (Jain, 2016) [SRC]. Peters et al report that torque-controlled motors are thought by some authors to increase operational safety but by others to benefit mainly inexperienced clinicians; they probably do not reduce cyclic fatigue fracture, and fracture at D2 remains possible even if torque is below the D3 limit (Peters et al, 2021) [SRC]. Baumann and Beer, in contrast, report that torque limitation leads to less loading and better longevity of NiTi files (Baumann and Beer, 2010) [SRC]. These two accounts are not reconciled: the one concerns the torsional overload that torque control can limit, and the other the cyclic fatigue that it cannot.
+Baumann and Beer state that NiTi must be run at a low constant speed, usually about 300 rpm, and that torque, as well as speed, affects the risk of fracture (Baumann and Beer, 2010) [SRC]. They define torque as force times lever arm, in N·cm, and report that the breakage torque of the instrument tip is measured 3 mm from the tip (D3), and that in many cases the working torque exceeds this limit (Baumann and Beer, 2010) [SRC]. Torque rises with instrument diameter and with the dentin contact area, and crown-down instrumentation reduces contact and so torque (Baumann and Beer, 2010) [SRC]. Jain agrees that the torque generated depends on factors, especially the contact area, and concludes that slow-speed, high-torque NiTi rotation leads to many iatrogenic errors, with the ideal being slow speed and low torque or, preferably, "right" torque, because each instrument has a specific ideal torque (Jain, 2016) [SRC]. Peters et al report that torque-controlled motors are thought by some authors to increase operational safety but by others to benefit mainly inexperienced clinicians; they probably do not reduce cyclic fatigue fracture, and fracture at D2 remains possible even if torque is below the D3 limit (Peters et al, 2021) [SRC]. Baumann and Beer, in contrast, report that torque limitation leads to less loading and better longevity of NiTi files (Baumann and Beer, 2010) [SRC], and Jain states that motors that stop and reverse at the set torque mean that instrument failure could be avoided (Jain, 2016) [SRC]. The accounts therefore differ: Baumann and Beer and Jain credit torque control with fewer fractures, whereas Peters et al doubt it. A possible reconciliation is that torque control limits torsional overload but not cyclic fatigue [Likely]; no book states this as a conclusion.
 
 #### ✎ Exam core
 
-**Speed.** Low constant speed, usually about 300 rpm, for NiTi (Baumann and Beer, 2010).
+**Speed.** A low constant speed, usually about 300 rpm, is advised for NiTi (Baumann and Beer, 2010); Peters et al give system-specific speeds of 300 to 600 rpm and note for Vortex that a higher rotational speed results in less torque generated (Peters et al, 2021).
 
 **Torque.** Rotational force, force times lever arm (N·cm). Torque needed rises with the instrument diameter and the contact area between file and dentin (Baumann and Beer, 2010; Jain, 2016). Crown-down instrumentation reduces contact and so torque (Baumann and Beer, 2010).
 
@@ -136,7 +136,7 @@ Baumann and Beer state that NiTi must be run at a low constant speed, usually ab
 **Breakage torque** is measured 3 mm from the tip (D3) and often lower than the working torque (Baumann and Beer, 2010).
 
 **Value of torque control: opinions differ**
-- Torque limitation reduces loading and improves file life (Baumann and Beer, 2010).
+- Torque limitation reduces loading and improves file life (Baumann and Beer, 2010); motors that stop and reverse at the set torque mean that instrument failure could be avoided (Jain, 2016).
 - Some authors say torque-controlled motors increase operational safety; others that they mainly benefit inexperienced clinicians, and probably do not reduce cyclic fatigue fracture; fracture at D2 is still possible (Peters et al, 2021).
 
 ## 6. Motors and torque control
@@ -202,7 +202,7 @@ Reciprocation: Peters et al say that replacing continuous rotation by reciprocat
 #### ✎ Exam core
 
 - **Reciprocation**: alternating arcs (about 150–170 degrees and 30–50 degrees) by dedicated motors; reduces taper lock and threading-in; WaveOne and Reciproc (Peters et al, 2021; Sikri, 2019). See I5.
-- **Vibration**: ultrasonic and sonic units; today for irrigation activation, access and retreatment rather than shaping (Baumann and Beer, 2010). SAF vibrates in and out (Sikri, 2019). See I8 and I9.
+- **Vibration**: ultrasonic and sonic units, used today for irrigation activation, access and retreatment rather than shaping (Baumann and Beer, 2010); the SAF is a shaping file that vibrates in and out (Sikri, 2019). See I8 and I9.
 - **Integration**: motor with built-in apex locator and file-specific settings (Baumann and Beer, 2010; Jain, 2016).
 
 **Comparison of the motion types** (Sikri, 2019; Peters et al, 2021; Baumann and Beer, 2010)
@@ -211,7 +211,7 @@ Reciprocation: Peters et al say that replacing continuous rotation by reciprocat
 | Vertical or quarter-turn reciprocation, stainless steel | Giromatic, Canal Finder, M4, Endo-grapper | cycles up to 3,000 a minute; little gain over hand files; loss of tactile sense; largely abandoned (Sikri, 2019; Baumann and Beer, 2010) |
 | Continuous rotation, NiTi | ProFile, LightSpeed, RaCe | 360-degree rotation at about 300 rpm with torque control; less straightening; fracture risk (Jain, 2016; Baumann and Beer, 2010) |
 | Reciprocation, NiTi | WaveOne, Reciproc | alternating arcs by a programmed motor; less taper lock (Peters et al, 2021) |
-| Vibration | Ultrasonic, sonic, SAF | irrigation activation, retreatment, access (Baumann and Beer, 2010) |
+| Vibration | Ultrasonic and sonic units; SAF | ultrasonics: irrigation activation, retreatment, access (Baumann and Beer, 2010); the SAF is a shaping file driven by in-and-out vibration (Sikri, 2019) |
 
 **Operating speeds quoted for individual systems** (Peters et al, 2021): about 500 rpm for Vortex, 600 rpm for EndoSequence, 300 rpm for TRUShape, and 500 rpm at 1.5 Ncm for TruNatomy. The speed is therefore set to the system, not fixed for all files.
 
@@ -226,7 +226,7 @@ Sikri's disadvantages (loss of tactile sensation, perforations, file breakage) a
 - Loss of tactile sensation: zipping, ledges, perforation, breakage (Sikri, 2019).
 - Fracture without warning (see I11).
 - Rigid-motion handpieces with stainless steel: ledges and perforation (Baumann and Beer, 2010).
-- Motors cannot prevent cyclic fatigue failure (Peters et al, 2021).
+- Motors probably do not reduce fracture caused by cyclic fatigue (Peters et al, 2021).
 - Needs a glide path, pre-flaring and operator judgement (Jain, 2016; Baumann and Beer, 2010).
 
 ## 10. Automation beyond canal shaping
@@ -251,7 +251,7 @@ The protocol below is a synthesis of statements in the books above, not a quotat
 
 #### ✎ Exam core
 
-1. Access to give straight-line entry (Baumann and Beer, 2010).
+1. Access to give straight-line entry (Jain, 2016).
 2. Pre-flare the coronal third (Jain, 2016): this gives straighter access to the apex, better tactile control and better irrigant penetration (Jain, 2016).
 3. Make a glide path with ISO 10–20 hand files (Baumann and Beer, 2010).
 4. Choose a motor with torque control and the correct settings for the file; run NiTi at a low constant speed (Baumann and Beer, 2010; Jain, 2016).
@@ -270,15 +270,15 @@ The conclusion draws the books together: automation succeeded when the instrumen
 
 #### ✎ Exam core
 
-Automation of root canal preparation has passed through three stages. The first, from Rollins's handpiece of 1899 to the Giromatic of 1964 and its relatives, used stainless-steel files in rigid reciprocating or vertical motions; it produced ledges, perforations and fractures, gave little advantage over hand files and is no longer recommended (Baumann and Beer, 2010; Sikri, 2019). The second began in 1988 with NiTi, whose flexibility allowed continuous 360-degree rotation at low speed; it gave excellent shaping of severely curved canals in less time, but with a high fracture risk that made torque-limited motors necessary (Baumann and Beer, 2010; Jain, 2016). The third stage adds motors with torque control, auto-reverse, file-specific programming and integrated apex locators (Baumann and Beer, 2010; Jain, 2016), reciprocating motion designed for single NiTi files (Peters et al, 2021), and vibration for irrigation, access and retreatment (Baumann and Beer, 2010).
+Automation of root canal preparation has passed through three stages. The first, from Rollins's handpiece of 1899 to the Giromatic of 1964 and its relatives, used stainless-steel files in rigid reciprocating or vertical motions; it produced ledges, perforations and fractures, was judged inadequate by Baumann and Beer; for the Giromatic Sikri found little difference from hand files; rigid-motion systems are no longer recommended (Baumann and Beer, 2010; Sikri, 2019). The second began in 1988 with NiTi, whose flexibility allowed continuous 360-degree rotation at low speed; it gave excellent shaping of severely curved canals in less time, but with a high fracture risk that made torque-limited motors necessary (Baumann and Beer, 2010; Jain, 2016). The third stage adds motors with torque control, auto-reverse, file-specific programming and integrated apex locators (Baumann and Beer, 2010; Jain, 2016), reciprocating motion designed for single NiTi files (Peters et al, 2021), and vibration for irrigation, access and retreatment (Baumann and Beer, 2010).
 
-The value of torque control is disputed: it limits torsional overload, but it probably does not prevent cyclic fatigue fracture, and it may benefit mainly inexperienced operators (Peters et al, 2021). Automation therefore supports but does not replace a glide path, pre-flaring, a crown-down sequence, a low constant speed, short use and inspection of files, and the clinician's judgement (Baumann and Beer, 2010; Jain, 2016).
+The value of torque control is disputed: Baumann and Beer and Jain credit it with fewer fractures, whereas Peters et al say it probably does not reduce fracture caused by cyclic fatigue and may mainly benefit inexperienced operators (Baumann and Beer, 2010; Jain, 2016; Peters et al, 2021). Automation therefore supports but does not replace a glide path, pre-flaring, a crown-down sequence, a low constant speed, short use and inspection of files, and the clinician's judgement (Baumann and Beer, 2010; Jain, 2016).
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim 1: torque-controlled motors reduce instrument fracture.** *Baumann and Beer:* torque limitation reduces loading and improves longevity (Baumann and Beer, 2010). *Peters et al:* some believe it increases safety, others that it mainly benefits inexperienced operators; it probably does not reduce cyclic fatigue fracture (Peters et al, 2021). *Jain:* the ideal is right-torque motors (Jain, 2016). *Assessment:* torque control addresses torsional overload, not cyclic fatigue; the supporting studies were not read. *Conclusion:* use it as one safeguard, not a guarantee. [Likely]
+**Claim 1: torque-controlled motors reduce instrument fracture.** *Baumann and Beer:* torque limitation reduces loading and improves longevity (Baumann and Beer, 2010). *Peters et al:* some believe it increases safety, others that it mainly benefits inexperienced operators; it probably does not reduce cyclic fatigue fracture (Peters et al, 2021). *Jain:* motors that stop and reverse at the set torque mean instrument failure could be avoided, and right-torque motors are ideal (Jain, 2016). *Assessment:* the books split, Baumann and Beer and Jain for torque control and Peters et al doubtful; a plausible reading is that torque control limits torsional overload but not cyclic fatigue [Likely]. The supporting studies were not read. *Conclusion:* use it as one safeguard, not a guarantee. [Likely]
 
-**Claim 2: automation speeds preparation and improves shape.** Sikri lists faster, better-centred preparation with less apical debris (Sikri, 2019), and Baumann and Beer note time savings in curved canals (Baumann and Beer, 2010), but also that older automated systems gave no great advantage over hand files (Sikri, 2019). *Conclusion:* the gain belongs to NiTi rotary systems, not to automation in general. [Likely]
+**Claim 2: automation speeds preparation and improves shape.** Sikri lists faster, better-centred preparation with less apical debris (Sikri, 2019), and Baumann and Beer note time savings in curved canals (Baumann and Beer, 2010); Sikri found little difference between the Giromatic and hand files (Sikri, 2019), and Baumann and Beer judge the early engine-driven systems inadequate (Baumann and Beer, 2010). *Conclusion:* the gain belongs to NiTi rotary systems, not to automation in general. [Likely]
 
 ## HIGH-YIELD POINTS
 - Three types: reciprocating, vibratory, rotary.
@@ -286,7 +286,7 @@ The value of torque control is disputed: it limits torsional overload, but it pr
 - NiTi 1988: 360-degree rotation at low constant speed (about 300 rpm) with torque control.
 - Torque rises with diameter and contact area; crown-down lowers it.
 - Four generations of motors; the fourth has an apex locator.
-- Torque control addresses torsion, not cyclic fatigue.
+- Torque control: Baumann and Beer and Jain support it; Peters et al doubt it for cyclic fatigue.
 
 ## DIAGRAMS TO DRAW
 - Timeline from Rollins 1899 to apex-locator motors.
@@ -413,7 +413,7 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

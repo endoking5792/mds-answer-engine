@@ -3,7 +3,7 @@
 **Marks:** 20m, Essay
 **Sitting:** May 2019 (PIII 16-21). Repeats absorbed: none. Management and retrieval of separated instruments are answered in `procedural_errors` Q07 and Q08; this answer deals with the instrument-side causes and prevention, and points there for management.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 717 words, about 33 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 748 words, about 34 minutes at 22 words a minute (Section 7 range 680-800 words for 20 marks).
 
 **Retrieval report.** Read in full: Baumann and Beer, *Endodontology* Ch.22 (fracture, torque and fatigue), Ch.21 (power-driven systems, torque control) and the NiTi properties passages of Ch.10; Terauchi and Renton, Cohen's 12e Ch.20, "Causes of instrument separation". Not read: the primary fatigue studies cited by the books. Live search: none.
 
@@ -30,7 +30,7 @@ The two interact: fatigue reduces torsional resistance and vice versa (Baumann a
 | Warning | None; no plastic deformation | Deformation may be seen |
 | Favoured by | Larger size and taper | Smaller size and taper |
 
-The two interact: fatigue lowers torsional resistance and the reverse (Baumann and Beer, 2010). Rotary NiTi breaks without warning and more often than steel K files (5.1% against 3.3%) (Baumann and Beer, 2010).
+The two interact: fatigue lowers torsional resistance and the reverse (Baumann and Beer, 2010). In certain situations rotary NiTi can break without warning, and fracture of rotary NiTi is somewhat more common than of steel K files (5.1% against 3.3%) (Baumann and Beer, 2010).
 
 **Cyclic fatigue.** In a curved canal each turn of the file puts one side of the bend in tension and the opposite side in compression, so the metal is loaded once per rotation. Damage accumulates and the file fractures without warning (Terauchi and Renton, 2021; Baumann and Beer, 2010). In a severe curve rotary files break after a limited number of rotations, and manufacturing defects or microcracks help start the fracture (Baumann and Beer, 2010).
 
@@ -42,16 +42,16 @@ The two interact: fatigue lowers torsional resistance and the reverse (Baumann a
 
 ### Explanation
 
-Terauchi and Renton state that a common cause is improper use: inadequate access, overuse of the instrument, too much apical pressure, and continuous use of a large instrument in a curved canal. They list further factors: operator experience, rotational speed, canal curvature (radius), instrument design and technique, torque setting, manufacturing process, alloy type, continuous rotation versus reciprocating motion, type of tooth, and the absence of a glide path. The reported incidence ranges from 0.4% to 23%, and separation is more frequent in molars, especially mandibular molars (Terauchi and Renton, 2021) [SRC]. Smaller instruments with smaller tapers resist cyclic fatigue better but are more susceptible to torsional fatigue, and larger, more tapered ones show the reverse (Terauchi and Renton, 2021) [SRC]. High torque settings are reported to increase the risk of cyclic fatigue failure (Terauchi and Renton, 2021) [SRC].
+Terauchi and Renton state that a common cause is improper use: inadequate access, overuse of the instrument, too much radicular pressure during instrumentation, and continuous use of a large instrument in a curved canal. They list further factors: operator experience, rotational speed, canal curvature (radius), instrument design and technique, torque setting, manufacturing process, alloy type, continuous rotation versus reciprocating motion, type of tooth, and the absence of a glide path. The reported incidence ranges from 0.4% to 23%, and separation is more frequent in molars, especially mandibular molars (Terauchi and Renton, 2021) [SRC]. Smaller instruments with smaller tapers resist cyclic fatigue better but are more susceptible to torsional fatigue, and larger, more tapered ones show the reverse (Terauchi and Renton, 2021) [SRC]. High torque settings are reported to increase the risk of cyclic fatigue failure (Terauchi and Renton, 2021) [SRC].
 
 Baumann and Beer add that, in a curved canal, rotary files break after a limited number of rotations, that manufacturing score marks on the surface can start cracks, and that the number of uses matters; the instrument should be removed after a short period of use and inspected before reuse after sterilization (Baumann and Beer, 2010) [SRC]. They give about 7% as the reversible deformation of the alloy, while a caption in their NiTi chapter says up to 8% (Baumann and Beer, 2010) [SRC]. Both figures come from the same book and are not reconciled there; both are quoted.
 
 #### ✎ Exam core
 
-**Factors** (Terauchi and Renton, 2021, unless stated)
-1. **Instrument**: design and flute geometry; size and taper; alloy type; manufacturing process and surface score marks (Baumann and Beer, 2010); number of uses.
-2. **Canal**: curvature and radius; type of tooth (more in mandibular molars); lack of a glide path; narrow or calcified canals.
-3. **Operator**: improper use, inadequate access, excess apical pressure, overuse, experience, technique.
+**Factors** (Terauchi and Renton, 2021, unless stated; items marked [RECALL] are not in that chapter)
+1. **Instrument**: design (Terauchi and Renton, 2021); size and taper; alloy type; manufacturing process, including surface score marks (Baumann and Beer, 2010); flute geometry and number of uses [RECALL].
+2. **Canal**: curvature and radius; type of tooth (more in mandibular molars); lack of a glide path; narrow or calcified canals [RECALL].
+3. **Operator**: improper use, inadequate access, excess radicular pressure, overuse, experience, technique.
 4. **Machine**: rotational speed; torque setting; continuous rotation versus reciprocation.
 5. **Reuse**: fatigue accumulates and gives no warning (Baumann and Beer, 2010).
 
@@ -59,7 +59,7 @@ Incidence 0.4–23%; separation is commoner in molars (Terauchi and Renton, 2021
 
 **Explanation of the main factors**
 - *Size and taper*: smaller, less tapered files resist cyclic fatigue better but fail more easily in torsion; larger, more tapered files show the opposite. Use smaller files where cyclic fatigue is expected (Terauchi and Renton, 2021).
-- *Curvature*: the sharper the curve, the earlier the fatigue; molars are most affected because of canal accessibility, diameter and curvature (Terauchi and Renton, 2021).
+- *Curvature*: fatigue occurs earlier in sharper curves (Baumann and Beer, 2010; Jain, 2016); separation is commoner in molars, which may relate to accessibility, canal diameter and curvature (Terauchi and Renton, 2021).
 - *Torque*: in many cases the working torque exceeds the fracture limit measured 3 mm from the tip (D3) (Baumann and Beer, 2010); high torque settings increase the risk of cyclic fatigue failure (Terauchi and Renton, 2021).
 - *Speed*: use a low constant speed, about 300 rpm (Baumann and Beer, 2010).
 - *Glide path*: a patent canal reduces the danger of fracture in curved canals (Baumann and Beer, 2010).
@@ -78,7 +78,7 @@ Baumann and Beer recommend torque-controlled motors and careful handling, a glid
 - Glide path with hand files before rotary files (Baumann and Beer, 2010).
 - Crown-down sequence: less contact, less torque (Baumann and Beer, 2010).
 - Torque-controlled motor with auto-reverse; low constant speed, about 300 rpm (Baumann and Beer, 2010).
-- Keep time in the canal short; do not apply apical pressure (Baumann and Beer, 2010; Terauchi and Renton, 2021).
+- Keep time in the canal short (Baumann and Beer, 2010); avoid excess radicular pressure (Terauchi and Renton, 2021).
 - Inspect before use and discard after use in severe curves (Baumann and Beer, 2010; Terauchi and Renton, 2021).
 - Consider reciprocating motion in severely curved canals (Terauchi and Renton, 2021).
 - Adequate access and straight-line entry (Terauchi and Renton, 2021).
@@ -89,11 +89,11 @@ Baumann and Beer recommend torque-controlled motors and careful handling, a glid
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim:** reciprocating motion reduces separation. Terauchi and Renton report that reciprocation extends file life and improves cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]; Baumann and Beer, whose chapter predates reciprocation, do not discuss it. The supporting evidence is the laboratory fatigue studies the book cites; none was read here. **Conclusion:** reciprocation is favoured for severe curves but there is no clinical-outcome evidence in these sources that it reduces separation in patients. [Likely]
+**Claim:** reciprocating motion reduces separation. Terauchi and Renton report that reciprocation extends file life and improves cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]; Baumann and Beer do not discuss reciprocating files as such, although their chapter reports in-vitro data on the effect of an oscillating movement on file life. The supporting evidence is the laboratory fatigue studies the book cites; none was read here. **Conclusion:** reciprocation is favoured for severe curves but there is no clinical-outcome evidence in these sources that it reduces separation in patients. [Likely]
 
 ## HIGH-YIELD POINTS
 - Two modes: cyclic fatigue (no warning) and torsional overload.
-- Fatigue and torsion interact; smaller files resist fatigue less well in torque, larger tapers the reverse.
+- Fatigue and torsion interact. Smaller, less tapered files resist cyclic fatigue better but torsion less well; larger, more tapered files show the opposite (Terauchi and Renton, 2021); Jain states that greater taper and diameter make fatigue failure more likely.
 - Incidence 0.4–23%; molars, especially mandibular.
 - Prevent: glide path, crown-down, torque control, low speed, short time, inspect and discard.
 
@@ -152,5 +152,5 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.

@@ -3,14 +3,14 @@
 **Marks:** 25m, Long Essay
 **Sitting:** 21-Nov-2024 (RG PII RS-5). Repeats absorbed: "Reciprocating files." (10m, 16-Jun-2022 RG PII RS-5; 7m, 16-Nov-2019 and Jul 2017 RG PIII RS-3); "Kinematics of reciprocation with necessary illustrations." (10m, Oct 2024 PII 21-25); "Merits and demerits of Rotary Endodontics." (10m, Oct 2015 PIII 07-15); "Limitations of Rotary Endodontic instruments." (10m, Apr 2015 PIII 07-15); "Advantages and disadvantages of Ni-Ti rotary system" (7m, May 2017 NU PIII).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 880 words, about 40 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 931 words, about 42 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks).
 
 **Retrieval report.** Read in the relevant sections: Peters et al, Cohen's 12e Ch.8 (reciprocation, WaveOne, Reciproc, shaping ability); Sikri 2e Ch.11 (WaveOne, vertical reciprocation handpieces, NiTi properties); Baumann and Beer, *Endodontology* Ch.21 and Ch.22 (rotary advantages, fracture); Terauchi and Renton, Cohen's 12e Ch.20 (reciprocation and fatigue); Ingle 7e Ch.20 (two clean phrases on cleaning and shaping). Merits and demerits of reciprocation beyond these are [RECALL]. **The books label the cutting direction of reciprocating files differently, and both are shown.** Live search: none.
 
 
 
 
-<!--LOC: rc_e_adv, rc_e_frac, rc_s_low, rc_i_curv, rc_i_clean, rc_fix, rc_prev, rc_two, rc_wsizes, rc_xsec, rc_motor, rc_left, rc_shape, rc_s_single, rc_s_mwire, rc_s_back, rc_s_three, rc_s_ccw, rc_s_sel, rc_s_sizes, rc_s_vert, rc_s_dis, sep_c_recip, sep_c_disc, sep_c_cyc, sep_c_tors, sep_c_small, sep_e_300, sep_e_ctl, sep_e_rev, sep_e_tcm, rc_rsizes, rc_vortex, rc_endoseq, rc_trunat, rc_blue, rc_hist, rc_giro, rc_gold, rc_motor_s, rc_guide, rc_irrig, sep_e_glide-->
+<!--LOC: rc_e_adv, rc_e_frac, rc_s_low, rc_i_curv, rc_i_clean, rc_fix, rc_prev, rc_two, rc_wsizes, rc_xsec, rc_motor, rc_left, rc_shape, rc_s_single, rc_s_mwire, rc_s_back, rc_s_three, rc_s_ccw, rc_s_sel, rc_s_sizes, rc_s_vert, rc_s_dis, sep_c_recip, sep_c_disc, sep_c_cyc, sep_c_tors, sep_c_small, sep_e_300, sep_e_ctl, sep_e_rev, sep_e_tcm, rc_rsizes, rc_vortex, rc_endoseq, rc_trunat, rc_blue, rc_hist, rc_giro, rc_gold, rc_motor_s, rc_guide, rc_irrig, sep_e_glide, rc_t_extr, rc_s_sepl, rc_i_ctrov, rc_i_gp, rc_i_fast, rc_s_equal, rc_s_auger, rc_s_adv1, rc_s_cost-->
 
 <!--REF: Peters2021, Sikri2019, Baumann2010, Terauchi2021, Ingle7-->
 
@@ -28,11 +28,11 @@ Baumann and Beer name the most significant advantage of fully rotating NiTi inst
 - Super-elasticity gives flexibility (Sikri, 2019).
 
 **Demerits and limitations**
-- High risk of fracture, mostly cyclic fatigue and torsional overload (Baumann and Beer, 2010); low tensile and yield strength of the alloy (Sikri, 2019).
+- High risk of fracture, which occurs by cyclic fatigue and torsional overload (Baumann and Beer, 2010); low tensile and yield strength of the alloy (Sikri, 2019).
 - Taper lock and threading-in with continuous rotation (Peters et al, 2021).
 - Most systems leave canal walls uninstrumented, including isthmi (Ingle, year not printed).
 - Needs a glide path, torque-controlled motor and a low constant speed, about 300 rpm (Baumann and Beer, 2010).
-- No warning before fracture (Baumann and Beer, 2010); cost and learning curve [RECALL].
+- Fracture can occur without warning in certain situations (Baumann and Beer, 2010); cost and learning curve [RECALL].
 
 **Operating parameters of rotary systems** (Peters et al, 2021; Baumann and Beer, 2010): speeds are system-specific, for example 500 rpm for Vortex, 600 rpm for EndoSequence, and 500 rpm with 1.5 Ncm for TruNatomy; a low constant speed of about 300 rpm is advised for NiTi generally, with torque-controlled motors (Baumann and Beer, 2010). Heat-treated alloys help: Vortex Blue showed greater resistance to cyclic fatigue and higher torque resistance (Peters et al, 2021).
 
@@ -75,15 +75,15 @@ Peters et al give the motion for both systems as alternating counterclockwise an
 - Three cycles make one full reverse rotation (Sikri, 2019), so the file progresses apically.
 - Preset motors control the angles and torque (Peters et al, 2021).
 
-**Why reciprocation helps.** The file is never rotated through a full turn at the same stress point, so cyclic fatigue is reduced and life span extended (Terauchi and Renton, 2021); and the release stroke prevents taper lock and threading-in (Peters et al, 2021).
+**Why reciprocation helps.** Terauchi and Renton report longer life span and higher cyclic fatigue resistance (Terauchi and Renton, 2021); that the file does not turn fully round at the same stress point is a likely explanation [Likely]. Peters et al state that reciprocation mitigates taper lock, fatigue fracture and threading-in (Peters et al, 2021).
 
 ## 4. Merits and demerits of reciprocating files
 
 ### Explanation
 
-Merits supported by the books: single-file systems simplify preparation; the file works in one motion that reduces threading-in and fracture (Peters et al, 2021); life span is longer and cyclic fatigue resistance higher (Terauchi and Renton, 2021); single-use files avoid fatigue accumulating over cases (Sikri, 2019); and shaping ability appears similar to continuous-rotation systems in current in vitro data (Peters et al, 2021) [SRC]. Terauchi and Renton recommend using reciprocation in severely curved canals when fatigue or torsion is expected, and discarding the instruments after use (Terauchi and Renton, 2021) [SRC]. Demerits are largely [RECALL]: the cost of single-use files and dedicated motors, a larger apical file than a hand-prepared glide path would suggest, debris extrusion, and the fact that no NiTi system, including reciprocating single files, cleans all the canal walls and isthmi (Ingle, year not printed) [SRC].
+Merits supported by the books: Sikri lists one file per canal, a single-use file that overcomes sterilization and cross-contamination, less instrument separation (the reciprocating movement prevents the instrument advancing to its plastic limit), fewer procedural errors and a cost-effective system (Sikri, 2019) [SRC]; Ingle finds single-file systems faster than full-sequence rotary instruments (Ingle, year not printed) [SRC]; the file works in one motion that reduces threading-in and fracture (Peters et al, 2021); life span is longer and cyclic fatigue resistance higher (Terauchi and Renton, 2021); and shaping ability appears similar to continuous-rotation systems in current in vitro data (Peters et al, 2021) [SRC]. Terauchi and Renton recommend using reciprocation in severely curved canals when fatigue or torsion is expected, and discarding the instruments used there after use (Terauchi and Renton, 2021) [SRC]. Sikri adds that a reciprocating file with equal clockwise and counterclockwise movement may not cut as efficiently as a rotary file of the same size, whereas unequal movement allows efficient cutting with augering of debris (Sikri, 2019) [SRC]. Demerits: Terauchi and Renton state that the literature shows more debris extrusion with reciprocating than with continuous rotary movement (Terauchi and Renton, 2021) [SRC]; Ingle calls it controversial whether reciprocating single-file systems carry an increased risk of apical debris extrusion and dentinal cracks, and says all single-file systems except Reciproc require a glide path (Ingle, year not printed) [SRC]; and no NiTi system cleans all canal walls and isthmi (Ingle, year not printed) [SRC]. Sikri's list of advantages for automated devices includes less debris extruded apically (Sikri, 2019) [SRC], which conflicts with Terauchi and Renton on extrusion; the two books are not reconciled. The books also disagree on the glide path: Sikri describes it as optional for some single-file systems, and Ingle says Reciproc does not require one, whereas Baumann and Beer require a glide path before rotary files with thin tips.
 
-Older reciprocating handpieces used stainless steel. Sikri lists the advantages of vertical reciprocation (less file separation, no NiTi needed, no torque strain) and the disadvantages (lack of tactile sensation, risk of perforation and ledges, risk of file breakage) (Sikri, 2019) [SRC].
+Older reciprocating handpieces used stainless steel. Sikri lists the advantages of vertical reciprocation (less file separation, no NiTi needed, no torque strain) (Sikri, 2019) [SRC]; the disadvantages he lists (lack of tactile sensation, risk of perforation and ledges, risk of file breakage) are given for automated devices in general, not for vertical reciprocation alone (Sikri, 2019) [SRC].
 
 #### ✎ Exam core
 
@@ -95,21 +95,21 @@ Older reciprocating handpieces used stainless steel. Sikri lists the advantages 
 | Taper lock and threading-in | possible | reduced (Peters et al, 2021) |
 | Shaping | good in curved canals | similar in vitro (Peters et al, 2021) |
 | Cleaning of walls and isthmi | incomplete (Ingle, year not printed) | incomplete (Ingle, year not printed) |
-| Cost | lower per file [RECALL] | single-use files and special motor [RECALL] |
+| Cost | lower per file [RECALL] | single-use files; Sikri calls WaveOne cost-effective (Sikri, 2019); special motor [RECALL] |
 
 **Merits of reciprocation.** Fewer files; less fatigue; reduced taper lock and threading-in; similar shaping; suitable for severe curves (Peters et al, 2021; Terauchi and Renton, 2021; Sikri, 2019).
 
-**Demerits.** Cost of single-use files and a dedicated motor [RECALL]; large apical size and possible debris extrusion [RECALL]; not shown to clean all walls (Ingle, year not printed); a lack of tactile feedback and ledging risk with the older vertical-reciprocation handpieces (Sikri, 2019).
+**Demerits.** More debris extrusion than with continuous rotation (Terauchi and Renton, 2021), though Ingle calls this controversial (Ingle, year not printed); cost of a dedicated motor [RECALL]; no NiTi system cleans all walls (Ingle, year not printed); loss of tactile sensation and risk of perforation, ledges and breakage with automated devices in general, including the older handpieces (Sikri, 2019).
 
 **Choosing between them** (Terauchi and Renton, 2021; Baumann and Beer, 2010)
-- Establish a glide path first with hand files, whichever system is used (Baumann and Beer, 2010).
+- Establish a glide path first with hand files before rotary files with thin tips (Baumann and Beer, 2010); all single-file systems except Reciproc require one (Ingle, year not printed).
 - In severely curved canals, where cyclic or torsional fatigue is expected, prefer reciprocation and discard the files after use (Terauchi and Renton, 2021).
 - Smaller files with smaller tapers resist cyclic fatigue better but are weaker in torsion, so size is matched to the canal (Terauchi and Renton, 2021).
 - Because no system cleans all walls and isthmi (Ingle, year not printed), supplement either with irrigation activation [RECALL].
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim:** reciprocation is safer than continuous rotation. Peters et al say the change has been generally successful in preventing threading-in and fracture (Peters et al, 2021), and Terauchi and Renton report longer life and higher cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]. These are laboratory fatigue findings; neither book shows that fewer files separate in patients, and in vitro shaping is described as similar to rotation. **Conclusion:** reciprocation is a reasonable choice for severe curves, but its clinical advantage is not established by these sources. [Likely]
+**Claim:** reciprocation is safer than continuous rotation. Peters et al say the change has been generally successful in preventing threading-in and fracture (Peters et al, 2021), and Terauchi and Renton report longer life and higher cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]. These are laboratory fatigue findings. Sikri lists less instrument separation for WaveOne as an advantage (Sikri, 2019) [SRC], whereas Ingle says the choice of system is not clearly decisive and that debris extrusion with reciprocation is controversial (Ingle, year not printed); in vitro shaping is described as similar to rotation (Peters et al, 2021). **Conclusion:** reciprocation is a reasonable choice for severe curves, but its clinical advantage is not established by these sources. [Likely]
 
 ## HIGH-YIELD POINTS
 - Rotary: curved-canal shaping, speed; but fracture, taper lock, threading-in.
@@ -177,12 +177,21 @@ None from the books.
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.203 (printed p.182): "WaveOne files should be used with a progressive up and down movement with little pressure (not more than three to four times)"
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.203 (printed p.182): "Irrigation is continually carried out during root canal preparation"
 - Baumann and Beer, 2010, 22_22_Fracture_of_Endodontic_Instruments_Torque_and_Fatigu, PDF p.164: "with thin tips permits the subsequent use of tapered instruments with reduced danger of fracture in curved canals"
+- Terauchi and Renton, 2021, 20_20_Managing_iatrogenic_events.md, PDF p.2483: "The literature shows more debris extrusion produced by instruments used with a reciprocating movement than instruments used with a continuous rotary movement"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "Less instrument separation (reciprocating movement prevents the instrument advancing to its plastic limit)"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "systems is associated with increased risk of apical debris extrusion and dentinal damages (cracks)"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "systems, except Reciproc, require a glide path preparation"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "are faster than full-sequence rotary NiTi instruments"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.173 (printed p.152): "A reciprocating file that utilizes an equal clockwise and counter clockwise movement may not cut as efficiently as a same-size rotary file"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.173 (printed p.152): "This reciprocating movement allows a file to efficiently cut along with augering the debris effectively"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "One Ni-Ti file is required per root canal/per tooth"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "Cost-effective"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
-- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces, and Ch.23 Endodontic orthograde retreatment and management of mishaps (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.
 - Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.

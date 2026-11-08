@@ -3,9 +3,10 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Nov 2021 (PII 21-25). Repeats absorbed: "Pro Taper Retreatment files." (10m, Oct 2016 PIII 07-15).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 346 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 389 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Read in the relevant sections: Roda et al, Cohen's 12e Ch.10 (mechanical removal of gutta-percha); Ingle 7e Ch.23 (rotary instruments for gutta-percha removal; the ProTaper Retreatment Kit); Sikri 2e Ch.11 (Mtwo R, ProTaper in retreatment); Baumann and Beer, *Endodontology* Ch.15 (R-Endo, ProTaper Universal D1-D3); Peters et al, Cohen's 12e Ch.8 (tip design of retreatment rotaries). Ingle's extracted text has OCR damage, so only clean phrases are located. Not read: primary studies of the systems. Live search: none.
+
 
 
 <!--LOC: rf_c_list, rf_c_frac, rf_c_nosep, rf_c_tip, rf_c_saf, rf_c8_tip, rf_i_kit, rf_i_dims, rf_i_caution, rf_i_thirds, rf_i_speed, rf_i_pilot, rf_i_rem, rf_e_rendo, rf_e_d1d3, rf_s_mtwo, rf_s_pt, rf_c_gc-->
@@ -28,7 +29,7 @@ Cohen lists the mechanical systems available for gutta-percha removal: ordinary 
 - R-Endo (integrated-gear handpiece).
 - GPX (a dedicated gutta-percha removal instrument).
 
-**Notes.** The Mtwo R pair has an active tip that penetrates better in obturating material (Sikri, 2019). In the R-Endo system the handpiece gear is integrated with the engaging head of the file (Baumann and Beer, 2010). Carrier-based fillings such as GuttaCore can be removed with a variety of hand, rotary and retreatment instruments (Roda et al, 2021).
+**Notes.** Mtwo R has an active tip that penetrates better in obturating material (Sikri, 2019). In R-Endo the handpiece gear is integrated with the file's engaging head (Baumann and Beer, 2010). GuttaCore can be removed with hand, rotary and retreatment instruments (Roda et al, 2021).
 
 ## 2. ProTaper retreatment files and technique
 
@@ -38,16 +39,16 @@ Ingle describes the ProTaper Retreatment Kit as three NiTi instruments of differ
 
 #### ✎ Exam core
 
-| File | Length | Size/taper | Use (Ingle, year not printed) |
+| File | Length | Size/taper | Use (manufacturer's sequence, [RECALL]) |
 |---|---|---|---|
-| D1 | 16 mm | 30/09 | coronal third, pilot hole |
+| D1 | 16 mm | 30/09 | coronal third |
 | D2 | 18 mm | 25/08 | middle third |
 | D3 | 22 mm | 20/07 | apical third |
 
 **Technique**
 1. Assess the level of the previous filling radiographically (Ingle, year not printed).
-2. Pilot hole in the coronal third with D1 or a heat carrier (Ingle, year not printed).
-3. Work in thirds: D1, then D2, then D3 to working length, passively and with light pressure; speed 800–1200 rpm (Ingle, year not printed).
+2. Ingle's file-and-chemical technique makes a pilot hole in the coronal canal with a heat carrier or the D1 file; for the rotary technique he advises choosing instruments that fit passively in each third of the root (Ingle, year not printed).
+3. Work in thirds, with D1, then D2, then D3 [RECALL for this sequence], choosing instruments that fit passively; rotary speed of 800 to 1200 rpm softens and engages the gutta-percha (Ingle, year not printed).
 4. Finish with ProTaper finishing files (Sikri, 2019) and remove residues with other means (below).
 
 ## 3. Merits and demerits
@@ -59,13 +60,13 @@ Ingle calls rotary instrumentation an efficient way to remove gutta-percha, but 
 #### ✎ Exam core
 
 **Merits**
-- Fast removal of gutta-percha; active tip penetrates the filling (Roda et al, 2021).
+- Active tip penetrates the filling (Roda et al, 2021); rotary instrumentation is efficient for removing gutta-percha (Ingle, year not printed).
 - Dedicated files showed no separation in one study (Roda et al, 2021).
 
 **Demerits**
 - Fracture of instruments or root is reported with mechanical removal (Roda et al, 2021).
-- Unsafe in underprepared canals or if the canal does not accept the file passively (Ingle, year not printed).
-- Leaves residue; supplementary files, such as the SAF, reduced residue by 66%, 68% and 81% in the coronal, apical and middle thirds (Roda et al, 2021).
+- Rotary instruments should be used with caution in underprepared canals and are generally not chosen when the canal does not accept them passively (Ingle, year not printed).
+- Leaves residue; SAF used after ProTaper Universal retreatment files reduced canal residue by 66%, 68% and 81% in the coronal, apical and middle thirds compared with the retreatment files alone (Roda et al, 2021).
 - Cutting tip can gouge a curved canal [RECALL].
 
 ## HIGH-YIELD POINTS
@@ -110,8 +111,8 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
-- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces, and Ch.23 Endodontic orthograde retreatment and management of mishaps (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Oct 2008 (RG PIII RS-2). Repeats absorbed: "Classify endodontic instruments. Write in detail about standardization of endodontic instruments." (7m, Short Essay, May 2019 RG PIII RS-3); "Files." (5m, Short Note, Sep 2006 / Mar 2007 PIII 01-07; duplicate-page note in Pass 1 not checked); "Gauging and Tuning." (10m, Apr 2013 PIII 07-15).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 322 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 351 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Read in full: Sikri 2e Ch.11 (introduction, classification, standardization, make of instruments) and Sikri Ch.16 (apical gauging and tuning); Baumann and Beer, *Endodontology* Ch.9 and Ch.10 (ISO dimensions, colour code, 29% increase, calls for simplification). "Gauging and tuning" is defined in Sikri Ch.16 as an apical-size concept, not a file-standard concept; it is answered here in section 4 because it depends on standardized sizes, and cross-refers to `root_canal_anatomy` A4 (apical width). Ingle's chapter was not used because of OCR damage. Live search: none.
 
@@ -34,7 +34,7 @@ Grossman: exploring, debriding, shaping, obturating. Harty: by phase of treatmen
 
 ### Explanation
 
-Sikri records that early instruments were made without any pre-established criteria, with differences in configuration among instruments of the same size (Sikri, 2019) [SRC]. The design of the basic hand instrument was patented by Kerr in 1915 with 2% taper and 16 mm cutting surfaces (Sikri, 2019) [SRC]. Standardization followed Ingle's proposal: each number represents the diameter at the tip in hundredths of a millimetre; the flutes begin at the tip (D1) and extend 16 mm up the shaft (D2); D2 is 0.32 mm greater than D1, which gives a constant taper of 0.02 mm per mm; size increases by 0.05 mm at D1 between nos. 10 and 60; and handles are colour coded (Sikri, 2019) [SRC]. The shaft comes in 21, 25 and 31 mm lengths (Sikri, 2019) [SRC]. The ISO covers instruments for preparation (3630-1) and obturation (3630-3); ANSI numbers K-type files and reamers 28 (Sikri, 2019) [SRC]. Baumann and Beer add that the dimensions follow ISO standards with a colour code for rapid recognition of diameter (Baumann and Beer, 2010) [SRC].
+Sikri records that early instruments were made without any pre-established criteria, with differences in configuration among instruments of the same size (Sikri, 2019) [SRC]. The design of the basic hand instrument was patented by Kerr in 1915 with 2% taper and 16 mm cutting surfaces (Sikri, 2019) [SRC]. Standardization followed Ingle's proposal, as Sikri records it: each number represents the diameter at the tip in hundredths of a millimetre; the flutes begin at the tip (D1) and extend 16 mm up the shaft (D2); D2 is 0.32 mm greater than D1, which gives a constant taper of 0.02 mm per mm; size increases by 0.05 mm at D1 between nos. 10 and 60; and handles are colour coded (Sikri, 2019) [SRC]. The shaft comes in 21, 25 and 31 mm lengths (Sikri, 2019) [SRC]. Separately, Sikri notes that ISO covers instruments for preparation (3630-1) and obturation (3630-3), and ANSI numbers K-type files and reamers 28 (Sikri, 2019) [SRC]. Baumann and Beer add that the dimensions follow ISO standards with a colour code for rapid recognition of diameter (Baumann and Beer, 2010) [SRC].
 
 #### ✎ Exam core
 
@@ -63,7 +63,7 @@ Sikri describes the later variations: greater-taper instruments (4%, 6%, 8%, 10%
 
 **Limitations of the ISO system** (Baumann and Beer, 2010)
 - Size numbers rise linearly but diameters rise unevenly.
-- Colour code follows tip diameter only; taper (0–19%, sometimes inverse) is not coded.
+- The colour code is still determined by the tip diameter, whereas the taper (0 to 19%, often inverse or multiple) is hard to comprehend (Baumann and Beer, 2010).
 - Calls for simplified coding (Ehrmann, 2002).
 
 ## 4. Apical gauging and tuning
@@ -74,14 +74,14 @@ Sikri defines apical gauging as measuring the apical diameter of the canal, wher
 
 #### ✎ Exam core
 
-**Apical gauging.** Assess the apical diameter by the file that fits snugly and resists further apical movement; use a flexible NiTi file, straight in and out, without rotation (Sikri, 2019).
+**Apical gauging.** Assess the apical diameter by the file that fits snugly and resists further apical movement; NiTi files are preferred because of their flexibility, inserted straight in and straight out, without rotation, with 17% EDTA used to remove the smear layer (Sikri, 2019).
 
 **Apical tuning.** Confirm that the master apical file shows the true apical diameter; the file that goes full length represents the true apical diameter (Sikri, 2019).
 
 ## HIGH-YIELD POINTS
 - Ingle standard: number = tip diameter in 1/100 mm; 16 mm blade; D2 = D1 + 0.32 mm; taper 0.02.
 - ISO 3630-1 for preparation instruments, 3630-3 for obturation; ANSI no. 28 K-type.
-- Colour code follows tip diameter only.
+- The ISO colour code follows tip diameter.
 - Gauging and tuning = apical size concepts.
 
 ## DIAGRAMS TO DRAW
@@ -132,5 +132,5 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.

@@ -3,14 +3,15 @@
 **Marks:** 100m, Single Essay
 **Sitting:** May 2012 (RG PIV RS-2). Repeats absorbed (answered once, here, at the highest marks): "Newer trends in rotary NiTi instruments in Endodontics." (50m, Jul 2021 TN MGR Paper III); "Evolution of rotary files systems and its current trends." (50m, Dec 2025 TN MGR Paper III); "Discuss the Current developments in rotary root canal instrument technology." (25m, May 2022 Manipal); "Describe the recent advances in rotary endodontics" (20m, Nov 2013 RG PIII RS-2); "Merits and demerits of Rotary Endodontics." (10m, Oct 2015 PIII 07-15); "Limitations of Rotary Endodontic instruments." (10m, Apr 2015 PIII 07-15); "Newer rotary root canal preparation system." (5m, Apr 2004 PIII 01-07); "Advantages and disadvantages of Ni-Ti rotary system" (7m, May 2017 NU PIII). The history, the metallurgy, the design features and the reciprocating files are answered separately in I3, I4, I6 and I5, and some of that text is repeated here so that this answer stands alone.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3487 words, about 158 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3367 words, about 153 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
 
 **Retrieval report.** This answer is assembled from sections of answers I3, I4, I5, I6, I11 and I2, each of which was drafted from: Baumann and Beer, *Endodontology* (Ch.9, 10, 20, 21, 22); Jain (ed.), *Current Therapy in Endodontics* Ch.3; Peters et al, Cohen's 12e Ch.8; Terauchi and Renton, Cohen's 12e Ch.20; Roda et al, Cohen's 12e Ch.10; Sikri 2e Ch.11, 16 and 20; Ingle 7e Ch.20 and 23 (clean phrases only). The locator list below therefore contains every phrase used by those answers, including some that are not quoted in this particular answer. Developments after the 12th edition of Cohen are not covered. Live search: none. **The books disagree in several places (K3 as passive or active; the value of torque-controlled motors; the cutting direction of reciprocating files; whether NiTi is heat treatable); each is stated with both positions, never ranked.**
 
 
-<!--LOC: au_def, au_adv1, au_adv2, au_dis, au_three, au_recip, au_vib, au_rot, au_hp3, au_m4, au_grapp, au_giros, au_girosp, au_giros2, au_zip, au_cfm, au_cfa, au_endoeze, au_rollins, au_clutch, au_ssfail, au_classic, au_racer, au_racer2, au_wedge, au_giro, au_giro90, au_endolift, au_excal, au_planer, au_cfinder, au_imd, au_flash, au_inadeq, au_norec, au_flexmot, au_newera, au_save, au_tqspeed, au_hand, au_anth, au_siron, au_stepm, au_tcm, au_prog, au_apex, au_smart, au_crowndn, au_impinge, au_j_cd, au_j_slow, au_j_contact, au_j_first, au_j_motors, au_j_stop, au_j_gear, au_j_preflare, au_j_crown, au_j_360, au_j_straight, au_j_hybrid, au_c_elec, au_c_prog, au_c_high, au_c_safe, au_c_inexp, au_c_cycl, au_c_d2, au_c_gen1, sep_e_300, sep_e_ctl, sep_e_rev, sep_e_tcm, sep_e_glide, sep_e_crown, sep_e_grp, rc_hist, rc_fix, rc_prev, rc_motor, rc_s_three, rc_s_ccw, rc_s_back, us_primary, us_pui, sa_def, sa_vib, au_vstroke, au_m4chuck, au_j_stepback, au_j_preenl, au_j_peeso, au_j_tors, au_j_straightlow, au_j_hyb2, au_grpcut, au_apexhp, au_newfile, au_vatea, au_cfother, au_tru300, rc_vortex, rc_endoseq, rc_trunat, hx_gates, hx_treb, hx_olt, hx_roll, hx_cursor, hx_racer, hx_rich, hx_martin, hx_c90, hx_ss60, hx_hyb, hx_flexr85, hx_short, st_kerr, st_before, st_iso, st_greater, st_half, ds_s_p29, ds_s_mfg, mt_first, mt_c_next, mt_c_rph08, mt_c_cm, mt_c_gtx, mt_g1, mt_g2, mt_g4, mt_g5, mt_gs1, mt_gs2, mt_gs_wo, us_def, us_micro, sa_i_2010, sa_c_wall, rc_two, rc_xsec, rc_shape, ds_conf, ds_trus, mt_h_xp, ds_n100, ds_n_vary, ds_groups, sep_e_dread, hx_first, hx_mtwo, hx_pt6, mt_e_commercial, ds_ls, ds_k3, ds_race, ds_acp, mt_h_tf, mt_h_blue, ds_hero, ds_pfneg, ds_g1land, ds_g2, ds_pttaper, rc_wsizes, rc_rsizes, ds_e_sqr, ds_e_tri, ds_e_h, hx_gg, hx_gg2, ds_pt_fast, rf_c_list, rf_c_tip, rc_s_single, sep_c_cyc, sep_c_tors, rc_i_clean, ds_helix, ds_pitch, ds_rake, ds_e_chip, ds_tips, us_s_acc, us_s_trough, us_s_vib, us_s_bulk, mt_55, mt_pseudo, mt_hyst, mt_martens, mt_novol, mt_bio, mt_nickel, mt_outw, mt_pvd, mt_oneway, mt_c_soft, mt_c_two, mt_c_trans, mt_c_heat, mt_c_mart, mt_c_prop, mt_c_mw, mt_c_mwsys, mt_c_rph, mt_c_tf, mt_c_hf, mt_c_fat, mt_c_pol, mt_h_two, mt_h_prop, mt_h_7, mt_h_mart, mt_h_mod, mt_h_fat, mt_h_ex, mt_h_edm, mt_h_corr, mt_h_ster, mt_h_ep, mt_h_work, mt_s_ratio, mt_s_later, mt_s_trace, mt_s_al, mt_s_nol, mt_s_3, mt_s_nht, sep_e_8, sep_e_7, sep_e_nowarn, sep_e_surf, mt_c_recover, mt_c_center, mt_c_lim, mt_e_exp, mt_s_ep, mt_h_soak, mt_h_2h, mt_h_tf2, mt_h_edge, mt_h_phase, mt_e_ss, mt_s_corr, mt_c_gen, sep_c_small, mt_gs4, mt_manuf, mt_12, mt_hard, mt_hyst2, mt_steel2, rc_e_adv, rc_e_frac, rc_s_low, rc_i_curv, rc_left, rc_s_mwire, rc_s_sel, rc_s_sizes, rc_s_vert, rc_s_dis, sep_c_recip, sep_c_disc, rc_blue, rc_giro, rc_gold, rc_motor_s, rc_guide, rc_irrig, ds_e_flexr, ds_s_flexr, ds_smallpitch, ds_varpitch, ds_rakeneu, ds_rakeneg, ds_cutting, ds_e_taper, ds_e_thick, ds_g1safe, ds_g1ream, ds_g2err, ds_pf, ds_pfhelix, ds_k3third, ds_ptcross, ds_s_act, ds_s_cut, ds_s_pass, ds_s_cmp, ds_s_p29b, ds_s_p29c, ds_s_ls, ds_s_ls2, ds_s_simp, ds_s_simp2, ds_s_flex, ds_s_mem, ds_s_soft, ds_pt_tips, ds_pt_ff, ds_pt_brush, ds_pt_aber, ds_pt_wide, ds_pt_next, ds_n_manuf, ds_e_wank, ds_e_race, ds_e_prog, sep_e_ss, sep_e_rates, sep_e_two, sep_e_insp, sep_e_vv, sep_e_relax, sep_e_over, sep_e_curve, sep_e_time, sep_c_imp, sep_c_ex, sep_c_fact, sep_c_inc, sep_c_molar, sep_c_curve, sep_c_torque, sep_c_less, sep_e_prog, sep_e_d3-->
 
-<!--REF: Baumann2010, Sikri2019, Jain2016, Peters2021, Ingle7, Roda2021, Terauchi2021-->
+<!--LOC: au_def, au_adv1, au_adv2, au_dis, au_three, au_recip, au_vib, au_rot, au_hp3, au_m4, au_grapp, au_giros, au_girosp, au_giros2, au_zip, au_cfm, au_cfa, au_endoeze, au_rollins, au_clutch, au_ssfail, au_classic, au_racer, au_racer2, au_wedge, au_giro, au_giro90, au_endolift, au_excal, au_planer, au_cfinder, au_imd, au_flash, au_inadeq, au_norec, au_flexmot, au_newera, au_save, au_tqspeed, au_hand, au_anth, au_siron, au_stepm, au_tcm, au_prog, au_apex, au_smart, au_crowndn, au_impinge, au_j_cd, au_j_slow, au_j_contact, au_j_first, au_j_motors, au_j_stop, au_j_gear, au_j_preflare, au_j_crown, au_j_360, au_j_straight, au_j_hybrid, au_c_elec, au_c_prog, au_c_high, au_c_safe, au_c_inexp, au_c_cycl, au_c_d2, au_c_gen1, sep_e_300, sep_e_ctl, sep_e_rev, sep_e_tcm, sep_e_glide, sep_e_crown, sep_e_grp, rc_hist, rc_fix, rc_prev, rc_motor, rc_s_three, rc_s_ccw, rc_s_back, us_primary, us_pui, sa_def, sa_vib, au_vstroke, au_m4chuck, au_j_stepback, au_j_preenl, au_j_peeso, au_j_tors, au_j_straightlow, au_j_hyb2, au_grpcut, au_apexhp, au_newfile, au_vatea, au_cfother, au_tru300, rc_vortex, rc_endoseq, rc_trunat, hx_gates, hx_treb, hx_olt, hx_roll, hx_cursor, hx_racer, hx_rich, hx_martin, hx_c90, hx_ss60, hx_hyb, hx_flexr85, hx_short, st_kerr, st_before, st_iso, st_greater, st_half, ds_s_p29, ds_s_mfg, mt_first, mt_c_next, mt_c_rph08, mt_c_cm, mt_c_gtx, mt_g1, mt_g2, mt_g4, mt_g5, mt_gs1, mt_gs2, mt_gs_wo, us_def, us_micro, sa_i_2010, sa_c_wall, rc_two, rc_xsec, rc_shape, ds_conf, ds_trus, mt_h_xp, ds_n100, ds_n_vary, ds_groups, sep_e_dread, hx_first, hx_mtwo, hx_pt6, mt_e_commercial, ds_ls, ds_k3, ds_race, ds_acp, mt_h_tf, mt_h_blue, ds_hero, ds_pfneg, ds_g1land, ds_g2, ds_pttaper, rc_wsizes, rc_rsizes, ds_e_sqr, ds_e_tri, ds_e_h, hx_gg, hx_gg2, ds_pt_fast, rf_c_list, rf_c_tip, rc_s_single, sep_c_cyc, sep_c_tors, rc_i_clean, ds_helix, ds_pitch, ds_rake, ds_e_chip, ds_tips, us_s_acc, us_s_trough, us_s_vib, us_s_bulk, mt_55, mt_pseudo, mt_hyst, mt_martens, mt_novol, mt_bio, mt_nickel, mt_outw, mt_pvd, mt_oneway, mt_c_soft, mt_c_two, mt_c_trans, mt_c_heat, mt_c_mart, mt_c_prop, mt_c_mw, mt_c_mwsys, mt_c_rph, mt_c_tf, mt_c_hf, mt_c_fat, mt_c_pol, mt_h_two, mt_h_prop, mt_h_7, mt_h_mart, mt_h_mod, mt_h_fat, mt_h_ex, mt_h_edm, mt_h_corr, mt_h_ster, mt_h_ep, mt_h_work, mt_s_ratio, mt_s_later, mt_s_trace, mt_s_al, mt_s_nol, mt_s_3, mt_s_nht, sep_e_8, sep_e_7, sep_e_nowarn, sep_e_surf, mt_c_recover, mt_c_center, mt_c_lim, mt_e_exp, mt_s_ep, mt_h_soak, mt_h_2h, mt_h_tf2, mt_h_edge, mt_h_phase, mt_e_ss, mt_s_corr, mt_c_gen, sep_c_small, mt_gs4, mt_manuf, mt_12, mt_hard, mt_hyst2, mt_steel2, rc_e_adv, rc_e_frac, rc_s_low, rc_i_curv, rc_left, rc_s_mwire, rc_s_sel, rc_s_sizes, rc_s_vert, rc_s_dis, sep_c_recip, sep_c_disc, rc_blue, rc_giro, rc_gold, rc_motor_s, rc_guide, rc_irrig, rc_t_extr, rc_s_sepl, rc_i_ctrov, rc_i_gp, rc_i_fast, rc_s_equal, rc_s_auger, rc_s_adv1, rc_s_cost, ds_e_flexr, ds_s_flexr, ds_smallpitch, ds_varpitch, ds_rakeneu, ds_rakeneg, ds_cutting, ds_e_taper, ds_e_thick, ds_g1safe, ds_g1ream, ds_g2err, ds_pf, ds_pfhelix, ds_k3third, ds_ptcross, ds_s_act, ds_s_cut, ds_s_pass, ds_s_cmp, ds_s_p29b, ds_s_p29c, ds_s_ls, ds_s_ls2, ds_s_simp, ds_s_simp2, ds_s_flex, ds_s_mem, ds_s_soft, ds_pt_tips, ds_pt_ff, ds_pt_brush, ds_pt_aber, ds_pt_wide, ds_pt_next, ds_n_manuf, ds_e_wank, ds_e_race, ds_e_prog, sep_e_ss, sep_e_rates, sep_e_two, sep_e_insp, sep_e_vv, sep_e_relax, sep_e_over, sep_e_curve, sep_e_time, sep_c_imp, sep_c_ex, sep_c_fact, sep_c_inc, sep_c_molar, sep_c_curve, sep_c_torque, sep_c_less, sep_e_prog, sep_e_d3-->
+
+<!--REF: Baumann2010, Sikri2019, Jain2016, Peters2021, Ingle7, Roda2021, Terauchi2021, Tango2017, TangoClin-->
 
 ## 1. Definition, scope and place of rotary endodontics
 
@@ -54,7 +55,7 @@ Baumann and Beer date the first NiTi endodontic instruments to the late 1980s (B
 
 **Trend in design.** Radial-landed files were safe but reamed rather than cut; later active designs cut better but carried more risk of preparation errors (Peters et al, 2021).
 
-Sikri's list places WaveOne among heat-treated third-generation files, and Jain places it in the fourth (reciprocating) generation; the examples differ between books.
+Sikri lists WaveOne among the heat-treated third-generation files and also in his fourth, reciprocating generation, whereas Jain places it only in the fourth generation; the examples differ between books.
 
 ## 3. Composition and history of the alloy
 
@@ -82,7 +83,7 @@ The textbooks conflict on one point. Jain's early paragraph and Sikri's comparis
 - *Superelasticity (pseudoelasticity)*: the file returns to its shape after loading; stress-induced austenite-to-martensite change, reversible on unloading (Baumann and Beer, 2010; Jain, 2016).
 - *Shape memory*: recovers shape on heating (martensitic files above their transformation temperature) (Jain, 2016).
 - *Hysteresis* in the phase change, unlike ordinary elastic recovery (Baumann and Beer, 2010).
-- *Elastic range*: about 7% reversible strain (Baumann and Beer, 2010; Peters et al, 2021), up to 8% in one book's caption (Baumann and Beer, 2010). Martensitic files have a smaller elastic range (Peters et al, 2021).
+- *Elastic range*: about 7% reversible strain (Baumann and Beer, 2010; Peters et al, 2021), and up to 8% according to a caption in Baumann and Beer (2010) and to the text of Jain (2016). Martensitic files have a smaller elastic range (Peters et al, 2021).
 - *Fatigue resistance*: high (Jain, 2016).
 - *Biocompatibility*: very good; nickel is bound to titanium (Baumann and Beer, 2010).
 - *Volume*: no change in phase transformation (Baumann and Beer, 2010).
@@ -108,7 +109,7 @@ The textbooks conflict on one point. Jain's early paragraph and Sikri's comparis
 - NiTi is soft (HV 300–360) against stainless steel (HV 520–540), so cutting efficiency is low; its use with rotary motion outweighs this.
 - Manufacture of the alloy is difficult and expensive, and earlier led to inconsistencies.
 
-**Disadvantages of the alloy.** Low hardness and cutting efficiency compared with stainless steel, outweighed by use with rotary motion (Baumann and Beer, 2010); softer, lower tensile and yield strength than steel (Jain, 2016; Sikri, 2019). Conflict: some books call NiTi not heat treatable (Jain, 2016; Sikri, 2019); thermomechanical treatment is the later development.
+**Disadvantages of the alloy.** Low hardness and cutting efficiency compared with stainless steel, outweighed by use with rotary motion (Baumann and Beer, 2010); softer than steel (Jain, 2016; Sikri, 2019). The books differ on strength: Sikri says NiTi has lower tensile and yield strength than stainless steel (Sikri, 2019), whereas Jain says it has a greater strength and is tougher and more resilient (Jain, 2016). Conflict: some books call NiTi not heat treatable (Jain, 2016; Sikri, 2019); thermomechanical treatment is the later development.
 
 ## 5. Thermomechanical treatment: M-wire, R-phase, CM wire, gold and blue
 
@@ -116,16 +117,16 @@ The textbooks conflict on one point. Jain's early paragraph and Sikri's comparis
 
 Jain explains that heating the alloy during manufacture has created new forms of NiTi, and that the martensitic form has remarkable fatigue resistance; a proprietary thermomechanical process integrates hardening and heat treatment (Jain, 2016) [SRC]. Sikri places this in the third generation of files, which used heating and cooling methods to reduce cyclic fatigue and improve safety (Sikri, 2019) [SRC].
 
-M-wire: Jain reports that M-wire technology improves the resistance to cyclic fatigue by almost 400% compared with commercial NiTi files and that GT Series X (GTX, 2008) was the first commercial system using it; ProFile Vortex, Vortex Blue, GTX and ProTaper Next are M-wire systems (Jain, 2016) [SRC]. R-phase: an intermediate rhombohedral phase; in 2008 instruments were made by transforming raw wire from austenite into R-phase by heat, which allowed twisting; the Twisted File and K3XF are R-phase files (Jain, 2016) [SRC]. Controlled memory (CM) wire, introduced in 2010, makes files extremely flexible but without the shape memory of conventional NiTi; HyFlex and Typhoon use it (Jain, 2016) [SRC]. Peters et al add the "gold" and "blue" alloys of Dentsply Sirona and the controlled memory alloy of HyFlex as heat-treated alloys, which are typically more flexible and have higher fatigue resistance (Peters et al, 2021) [SRC].
+M-wire: Jain reports that M-wire technology improves the resistance to cyclic fatigue by almost 400% compared with commercial NiTi files and that M-wire was introduced in 2007, and GT Series X (GTX, 2008) was the first commercial system using it; ProFile Vortex, Vortex Blue, GTX and ProTaper Next are M-wire systems (Jain, 2016) [SRC]. R-phase: an intermediate rhombohedral phase; in 2008 instruments were made by transforming raw wire from austenite into R-phase by heat, which allowed twisting; the Twisted File and K3XF are R-phase files (Jain, 2016) [SRC]. Controlled memory (CM) wire, introduced in 2010, makes files extremely flexible but without the shape memory of conventional NiTi; HyFlex and Typhoon use it (Jain, 2016) [SRC]. Peters et al add the "gold" and "blue" alloys of Dentsply Sirona and the controlled memory alloy of HyFlex as heat-treated alloys, which are typically more flexible and have higher fatigue resistance (Peters et al, 2021) [SRC].
 
-Two cautions. The 400% figure is the manufacturer's claim as reported by Jain and the primary studies were not read here. And the same literature notes that more martensitic instruments plastically deform more easily (Peters et al, 2021) [SRC], so flexibility and fatigue resistance gain comes with a different failure behaviour: the file may be visibly bent before it fails.
+Two cautions. The 400% figure is Jain's report of a study result, and the primary study was not read here; Peters et al do not give it. And the same literature notes that more martensitic instruments plastically deform more easily (Peters et al, 2021) [SRC], so flexibility and fatigue resistance gain comes with a different failure behaviour: the file may be visibly bent before it fails.
 
 #### ✎ Exam core
 
 | Alloy | Process | Property claimed | Examples (Jain, 2016; Peters et al, 2021) |
 |---|---|---|---|
 | Conventional austenitic NiTi | not heat treated | superelastic; stiffer | most early systems [RECALL] |
-| M-wire | thermomechanical processing | cyclic fatigue resistance increased by almost 400% (manufacturer's claim) | GTX (2008), ProFile Vortex, Vortex Blue, ProTaper Next |
+| M-wire (introduced 2007) | thermomechanical processing | cyclic fatigue resistance increased by almost 400% (Jain, 2016, reporting a study; not given by Peters et al) | GTX (2008), ProFile Vortex, Vortex Blue, ProTaper Next |
 | R-phase | wire heat-treated into R-phase before twisting (2008) | reduced stiffness; more fracture resistance | Twisted File, K3XF |
 | CM wire | controlled-memory process (2010) | very flexible; no shape memory | HyFlex, Typhoon |
 | Gold and blue alloys | heat treatment after manufacture | more flexible; higher fatigue resistance | Dentsply Sirona files (Peters et al, 2021) |
@@ -143,10 +144,10 @@ Two cautions. The 400% figure is the manufacturer's claim as reported by Jain an
 |---|---|
 | 1988 | first NiTi endodontic instruments (Walia et al) |
 | 1990s | LightSpeed, Mity Roto, ProFile, Power-R |
-| 2007–2008 | M-wire; GTX the first commercial M-wire system; R-phase wire |
+| 2007–2008 | M-wire introduced (2007); GTX, the first commercial M-wire system, and R-phase wire (2008) |
 | 2010 | controlled-memory (CM) wire (HyFlex, Typhoon) |
 
-**Why it matters.** Thermomechanically treated files are more flexible and more fatigue resistant, which suits curved canals, and M-wire files show better centring and less transportation (Jain, 2016). Martensitic instruments plastically deform more easily and so may show bending before they fail (Peters et al, 2021).
+**Why it matters.** Thermomechanically treated files are more flexible and more fatigue resistant, which suits curved canals, and M-wire files show better centring and less transportation (Jain, 2016). Martensitic instruments plastically deform more easily (Peters et al, 2021), and so may show bending before they fail [Likely].
 
 ## 6. Design characteristics and their effects
 
@@ -157,15 +158,15 @@ Peters et al define the helical angle as the angle the leading edge forms with t
 #### ✎ Exam core
 
 **Design variables** (Peters et al, 2021; Baumann and Beer, 2010)
-- *Tip*: rounded, non-cutting tip guides the file and prevents ledges.
-- *Taper*: none (LightSpeed), 2, 4 and 6%, up to 12% or more; reverse taper (thicker at the tip) in some designs.
+- *Tip*: rounded, non-cutting tips on NiTi rotary files help prevent preparation errors (Peters et al, 2021).
+- *Taper*: none (LightSpeed), 2, 4 and 6% and up to 19% (Baumann and Beer, 2010); reverse taper (thicker at the tip) in some designs.
 - *Cross-section*: U-shape, triangular, convex triangle, S-shape, with or without radial lands.
 - *Helical angle and pitch*: smaller pitch gives more spirals; variable pitch is common.
 - *Rake angle*: positive (cutting), neutral (90 degrees) or negative (scraping); positive rake cuts more efficiently, negative gives reaming.
 - *Chip space*: determines how much debris is removed before the file binds.
-- *Core*: the central mass that gives strength.
+- *Core*: the central part of the file seen in longitudinal section; the outer diameter increases from the tip toward the handle (Peters et al, 2021).
 
-**Cross-section trends** (Baumann and Beer, 2010): the convex (expanded) triangle of FlexMaster and ProTaper; the square section, still common in steel, survives in NiTi only in RaCe; many instruments have a progressive distance between cutting edges (ProTaper, Mtwo), which increases chip space toward the shank.
+**Cross-section trends** (Baumann and Beer, 2010): the convex (expanded) triangle of FlexMaster and ProTaper; the square section, still common in steel, survives in NiTi only in RaCe; many instruments have a progressive distance between cutting edges (ProTaper, Mtwo).
 
 **Recent strategies** (Peters et al, 2021): "conforming" shaping, with an adaptable, larger envelope of motion but a limited maximum flute diameter (TRUShape, XP-Shaper). TRUShape sizes 20, 25, 30 and 40 have a maximum fluted diameter of 0.8 mm, which limits coronal dentin removal.
 
@@ -181,7 +182,7 @@ Peters et al divide rotary instruments into group I (designed for passive prepar
 
 | | Group I: passive (radial lands) | Group II: active (no radial lands) |
 |---|---|---|
-| Examples | ProFile, LightSpeed, GT; K3 per Cohen | ProTaper, HERO, RaCe, Flexmaster |
+| Examples | ProFile, LightSpeed, GT; K3 per Cohen | ProTaper, HERO, RaCe; Flexmaster in Sikri's list |
 | Action | Reaming, not cutting | Cutting |
 | Efficacy | Less efficient | More efficient; faster |
 | Safety | Fairly safe against preparation errors | More potential for errors, e.g. ledges and straightening |
@@ -193,7 +194,7 @@ Sikri places K3 with active files; Cohen describes it with radial lands (disagre
 
 ### Explanation
 
-ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle, constant pitch, bullet-shaped non-cutting tips and a slightly negative rake angle that gives reaming (Peters et al, 2021) [SRC]. LightSpeed has a thin non-cutting shaft and a short cutting head, with three radial lands and three U-shaped grooves; it is the only rotary system whose cutting heads have three different geometric shapes (Peters et al, 2021; Sikri, 2019) [SRC]. K3 has a slightly positive rake angle, wide radial lands, a peripheral blade relief, and a third land to help prevent threading-in (Peters et al, 2021) [SRC]. ProTaper has a convex triangle cross-section with sharp edges and no radial lands; the shaping files have tapers that increase coronally and the finishing files the reverse (Peters et al, 2021) [SRC]. RaCe has alternating cutting edges and EndoSequence alternating wall contact points to reduce torque (Peters et al, 2021) [SRC]. Profile 29: Schilder proposed a constant 29% increase in diameter between sizes, which gives constant increase and fewer instruments than ISO, but works well only in small sizes (Sikri, 2019) [SRC]; Baumann and Beer note that a constant 29% remains under discussion (Baumann and Beer, 2010) [SRC]. SimpliFill is a gutta-percha apical plug system made to be compatible with LightSpeed instrumentation (Sikri, 2019) [SRC].
+ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle, constant pitch, bullet-shaped non-cutting tips and a slightly negative rake angle that gives reaming (Peters et al, 2021) [SRC]. LightSpeed has a thin non-cutting shaft and a short cutting head, with three radial lands and three U-shaped grooves; it is the only rotary system whose cutting heads have three different geometric shapes (Peters et al, 2021; Sikri, 2019) [SRC]. K3 has a slightly positive rake angle, wide radial lands, a peripheral blade relief, and a third land to help prevent threading-in (Peters et al, 2021) [SRC]. ProTaper has a convex triangle cross-section with sharp edges and no radial lands; the shaping files have tapers that increase coronally and the finishing files the reverse (Peters et al, 2021) [SRC]. RaCe has alternating cutting edges and EndoSequence alternating wall contact points to reduce torque (Peters et al, 2021) [SRC]. Profile 29: Sikri says that, in a scheme in which each size is increased by 29% rather than by 0.05 mm, Schilder named it the Profile 29 series, which gives constant increase and fewer instruments than ISO, but works well only in small sizes (Sikri, 2019) [SRC]; Baumann and Beer note that a constant 29% remains under discussion (Baumann and Beer, 2010) [SRC]. SimpliFill is a gutta-percha apical plug system made to be compatible with LightSpeed instrumentation (Sikri, 2019) [SRC].
 
 #### ✎ Exam core
 
@@ -201,7 +202,7 @@ ProFile has a U-shaped cross-section with radial lands, a 20-degree helix angle,
 - **LightSpeed** (Peters et al, 2021; Sikri, 2019): thin non-cutting shaft, short cutting head, three radial lands and U-grooves.
 - **K3** (Peters et al, 2021): positive rake, wide radial lands, third land against threading-in.
 - **ProTaper** (Peters et al, 2021): convex triangle, no radial lands; shaping files taper increasing coronally, finishing files reverse.
-- **ProTaper detail** (Peters et al, 2021): shaping files 1 and 2 have tip diameters of 0.185 and 0.2 mm, 14 mm blades and partially active tips; finishing files F1–F5 have tip diameters of 0.2, 0.25, 0.3, 0.4 and 0.5 mm. Use a laterally directed brushing stroke away from the furcation. It shaped canals faster than GT, ProFile and Quantec in plastic blocks but with somewhat more aberrations; wide canals may be insufficiently prepared. ProTaper Next, made of M-Wire, has better mechanical properties.
+- **ProTaper detail** (Peters et al, 2021): shaping files 1 and 2 have tip diameters of 0.185 and 0.2 mm, 14 mm blades and partially active tips; finishing files F1–F5 have tip diameters of 0.2, 0.25, 0.3, 0.4 and 0.5 mm. Use a laterally directed brushing stroke away from the furcation. It shaped canals faster than GT, ProFile and Quantec in plastic blocks but with somewhat more aberrations; wide canals may be insufficiently prepared. Current research suggests that the mechanical properties of ProTaper Next, made of M-Wire, are better than those of ProTaper Universal.
 - **RaCe** (Peters et al, 2021): alternating cutting edges. **EndoSequence**: alternating wall contact points to reduce torque.
 - **Profile 29** (Sikri, 2019): constant 29% size increase; gives constant diameter steps and fewer instruments, but works only in small sizes; under discussion (Baumann and Beer, 2010).
 - **LightSpeed SimpliFill** (Sikri, 2019): gutta-percha apical plug made to suit LightSpeed shaping.
@@ -220,11 +221,11 @@ Baumann and Beer name the most significant advantage of fully rotating NiTi inst
 - Super-elasticity gives flexibility (Sikri, 2019).
 
 **Demerits and limitations**
-- High risk of fracture, mostly cyclic fatigue and torsional overload (Baumann and Beer, 2010); low tensile and yield strength of the alloy (Sikri, 2019).
+- High risk of fracture, which occurs by cyclic fatigue and torsional overload (Baumann and Beer, 2010); low tensile and yield strength of the alloy (Sikri, 2019).
 - Taper lock and threading-in with continuous rotation (Peters et al, 2021).
 - Most systems leave canal walls uninstrumented, including isthmi (Ingle, year not printed).
 - Needs a glide path, torque-controlled motor and a low constant speed, about 300 rpm (Baumann and Beer, 2010).
-- No warning before fracture (Baumann and Beer, 2010); cost and learning curve [RECALL].
+- Fracture can occur without warning in certain situations (Baumann and Beer, 2010); cost and learning curve [RECALL].
 
 **Operating parameters of rotary systems** (Peters et al, 2021; Baumann and Beer, 2010): speeds are system-specific, for example 500 rpm for Vortex, 600 rpm for EndoSequence, and 500 rpm with 1.5 Ncm for TruNatomy; a low constant speed of about 300 rpm is advised for NiTi generally, with torque-controlled motors (Baumann and Beer, 2010). Heat-treated alloys help: Vortex Blue showed greater resistance to cyclic fatigue and higher torque resistance (Peters et al, 2021).
 
@@ -257,9 +258,9 @@ Selection of WaveOne by the first hand file: a size 10 K-file that feels resista
 
 ### Explanation
 
-Merits supported by the books: single-file systems simplify preparation; the file works in one motion that reduces threading-in and fracture (Peters et al, 2021); life span is longer and cyclic fatigue resistance higher (Terauchi and Renton, 2021); single-use files avoid fatigue accumulating over cases (Sikri, 2019); and shaping ability appears similar to continuous-rotation systems in current in vitro data (Peters et al, 2021) [SRC]. Terauchi and Renton recommend using reciprocation in severely curved canals when fatigue or torsion is expected, and discarding the instruments after use (Terauchi and Renton, 2021) [SRC]. Demerits are largely [RECALL]: the cost of single-use files and dedicated motors, a larger apical file than a hand-prepared glide path would suggest, debris extrusion, and the fact that no NiTi system, including reciprocating single files, cleans all the canal walls and isthmi (Ingle, year not printed) [SRC].
+Merits supported by the books: Sikri lists one file per canal, a single-use file that overcomes sterilization and cross-contamination, less instrument separation (the reciprocating movement prevents the instrument advancing to its plastic limit), fewer procedural errors and a cost-effective system (Sikri, 2019) [SRC]; Ingle finds single-file systems faster than full-sequence rotary instruments (Ingle, year not printed) [SRC]; the file works in one motion that reduces threading-in and fracture (Peters et al, 2021); life span is longer and cyclic fatigue resistance higher (Terauchi and Renton, 2021); and shaping ability appears similar to continuous-rotation systems in current in vitro data (Peters et al, 2021) [SRC]. Terauchi and Renton recommend using reciprocation in severely curved canals when fatigue or torsion is expected, and discarding the instruments used there after use (Terauchi and Renton, 2021) [SRC]. Sikri adds that a reciprocating file with equal clockwise and counterclockwise movement may not cut as efficiently as a rotary file of the same size, whereas unequal movement allows efficient cutting with augering of debris (Sikri, 2019) [SRC]. Demerits: Terauchi and Renton state that the literature shows more debris extrusion with reciprocating than with continuous rotary movement (Terauchi and Renton, 2021) [SRC]; Ingle calls it controversial whether reciprocating single-file systems carry an increased risk of apical debris extrusion and dentinal cracks, and says all single-file systems except Reciproc require a glide path (Ingle, year not printed) [SRC]; and no NiTi system cleans all canal walls and isthmi (Ingle, year not printed) [SRC]. Sikri's list of advantages for automated devices includes less debris extruded apically (Sikri, 2019) [SRC], which conflicts with Terauchi and Renton on extrusion; the two books are not reconciled. The books also disagree on the glide path: Sikri describes it as optional for some single-file systems, and Ingle says Reciproc does not require one, whereas Baumann and Beer require a glide path before rotary files with thin tips.
 
-Older reciprocating handpieces used stainless steel. Sikri lists the advantages of vertical reciprocation (less file separation, no NiTi needed, no torque strain) and the disadvantages (lack of tactile sensation, risk of perforation and ledges, risk of file breakage) (Sikri, 2019) [SRC].
+Older reciprocating handpieces used stainless steel. Sikri lists the advantages of vertical reciprocation (less file separation, no NiTi needed, no torque strain) (Sikri, 2019) [SRC]; the disadvantages he lists (lack of tactile sensation, risk of perforation and ledges, risk of file breakage) are given for automated devices in general, not for vertical reciprocation alone (Sikri, 2019) [SRC].
 
 #### ✎ Exam core
 
@@ -271,14 +272,14 @@ Older reciprocating handpieces used stainless steel. Sikri lists the advantages 
 | Taper lock and threading-in | possible | reduced (Peters et al, 2021) |
 | Shaping | good in curved canals | similar in vitro (Peters et al, 2021) |
 | Cleaning of walls and isthmi | incomplete (Ingle, year not printed) | incomplete (Ingle, year not printed) |
-| Cost | lower per file [RECALL] | single-use files and special motor [RECALL] |
+| Cost | lower per file [RECALL] | single-use files; Sikri calls WaveOne cost-effective (Sikri, 2019); special motor [RECALL] |
 
 **Merits of reciprocation.** Fewer files; less fatigue; reduced taper lock and threading-in; similar shaping; suitable for severe curves (Peters et al, 2021; Terauchi and Renton, 2021; Sikri, 2019).
 
-**Demerits.** Cost of single-use files and a dedicated motor [RECALL]; large apical size and possible debris extrusion [RECALL]; not shown to clean all walls (Ingle, year not printed); a lack of tactile feedback and ledging risk with the older vertical-reciprocation handpieces (Sikri, 2019).
+**Demerits.** More debris extrusion than with continuous rotation (Terauchi and Renton, 2021), though Ingle calls this controversial (Ingle, year not printed); cost of a dedicated motor [RECALL]; no NiTi system cleans all walls (Ingle, year not printed); loss of tactile sensation and risk of perforation, ledges and breakage with automated devices in general, including the older handpieces (Sikri, 2019).
 
 **Choosing between them** (Terauchi and Renton, 2021; Baumann and Beer, 2010)
-- Establish a glide path first with hand files, whichever system is used (Baumann and Beer, 2010).
+- Establish a glide path first with hand files before rotary files with thin tips (Baumann and Beer, 2010); all single-file systems except Reciproc require one (Ingle, year not printed).
 - In severely curved canals, where cyclic or torsional fatigue is expected, prefer reciprocation and discard the files after use (Terauchi and Renton, 2021).
 - Smaller files with smaller tapers resist cyclic fatigue better but are weaker in torsion, so size is matched to the canal (Terauchi and Renton, 2021).
 - Because no system cleans all walls and isthmi (Ingle, year not printed), supplement either with irrigation activation [RECALL].
@@ -301,7 +302,7 @@ The two interact: fatigue reduces torsional resistance and vice versa (Baumann a
 | Warning | None; no plastic deformation | Deformation may be seen |
 | Favoured by | Larger size and taper | Smaller size and taper |
 
-The two interact: fatigue lowers torsional resistance and the reverse (Baumann and Beer, 2010). Rotary NiTi breaks without warning and more often than steel K files (5.1% against 3.3%) (Baumann and Beer, 2010).
+The two interact: fatigue lowers torsional resistance and the reverse (Baumann and Beer, 2010). In certain situations rotary NiTi can break without warning, and fracture of rotary NiTi is somewhat more common than of steel K files (5.1% against 3.3%) (Baumann and Beer, 2010).
 
 **Cyclic fatigue.** In a curved canal each turn of the file puts one side of the bend in tension and the opposite side in compression, so the metal is loaded once per rotation. Damage accumulates and the file fractures without warning (Terauchi and Renton, 2021; Baumann and Beer, 2010). In a severe curve rotary files break after a limited number of rotations, and manufacturing defects or microcracks help start the fracture (Baumann and Beer, 2010).
 
@@ -321,7 +322,7 @@ Baumann and Beer recommend torque-controlled motors and careful handling, a glid
 - Glide path with hand files before rotary files (Baumann and Beer, 2010).
 - Crown-down sequence: less contact, less torque (Baumann and Beer, 2010).
 - Torque-controlled motor with auto-reverse; low constant speed, about 300 rpm (Baumann and Beer, 2010).
-- Keep time in the canal short; do not apply apical pressure (Baumann and Beer, 2010; Terauchi and Renton, 2021).
+- Keep time in the canal short (Baumann and Beer, 2010); avoid excess radicular pressure (Terauchi and Renton, 2021).
 - Inspect before use and discard after use in severe curves (Baumann and Beer, 2010; Terauchi and Renton, 2021).
 - Consider reciprocating motion in severely curved canals (Terauchi and Renton, 2021).
 - Adequate access and straight-line entry (Terauchi and Renton, 2021).
@@ -330,29 +331,7 @@ Baumann and Beer recommend torque-controlled motors and careful handling, a glid
 
 **Patient and record.** Inform the patient if a fragment is left; fracture is not in itself a professional error, but inadequate disinfection before fracture affects prognosis (Baumann and Beer, 2010). For retrieval see procedural errors Q07 and Q08.
 
-## 14. Speed and torque
-
-### Explanation
-
-Baumann and Beer state that NiTi must be run at a low constant speed, usually about 300 rpm, and that torque, as well as speed, affects the risk of fracture (Baumann and Beer, 2010) [SRC]. They define torque as force times lever arm, in N·cm, and report that the breakage torque of the instrument tip is measured 3 mm from the tip (D3), and that in many cases the working torque exceeds this limit (Baumann and Beer, 2010) [SRC]. Torque rises with instrument diameter and with the dentin contact area, and crown-down instrumentation reduces contact and so torque (Baumann and Beer, 2010) [SRC]. Jain agrees that the torque generated depends on factors, especially the contact area, and concludes that slow-speed, high-torque NiTi rotation leads to many iatrogenic errors, with the ideal being slow speed and low torque or, preferably, "right" torque, because each instrument has a specific ideal torque (Jain, 2016) [SRC]. Peters et al report that torque-controlled motors are thought by some authors to increase operational safety but by others to benefit mainly inexperienced clinicians; they probably do not reduce cyclic fatigue fracture, and fracture at D2 remains possible even if torque is below the D3 limit (Peters et al, 2021) [SRC]. Baumann and Beer, in contrast, report that torque limitation leads to less loading and better longevity of NiTi files (Baumann and Beer, 2010) [SRC]. These two accounts are not reconciled: the one concerns the torsional overload that torque control can limit, and the other the cyclic fatigue that it cannot.
-
-#### ✎ Exam core
-
-**Speed.** Low constant speed, usually about 300 rpm, for NiTi (Baumann and Beer, 2010).
-
-**Torque.** Rotational force, force times lever arm (N·cm). Torque needed rises with the instrument diameter and the contact area between file and dentin (Baumann and Beer, 2010; Jain, 2016). Crown-down instrumentation reduces contact and so torque (Baumann and Beer, 2010).
-
-**Ideal setting.** Slow speed with low or "right" torque, because every instrument has its own ideal torque; slow speed with high torque leads to many iatrogenic errors (Jain, 2016).
-
-**Why speed and torque matter.** The torque needed to turn a file increases with its diameter and with the area of dentin it contacts, and that area depends on the taper and the instrumentation sequence (Jain, 2016). In straight canals, where resistance to dentin removal is low, the high torque a motor can provide may fracture a blocked instrument before the clinician can stop or retract it (Jain, 2016). If the tip lodges while the shank is driven, torsional overload follows (Baumann and Beer, 2010). To avoid the instrument becoming stuck and fracturing, instrumentation is done at a low constant speed, usually about 300 rpm (Baumann and Beer, 2010).
-
-**Breakage torque** is measured 3 mm from the tip (D3) and often lower than the working torque (Baumann and Beer, 2010).
-
-**Value of torque control: opinions differ**
-- Torque limitation reduces loading and improves file life (Baumann and Beer, 2010).
-- Some authors say torque-controlled motors increase operational safety; others that they mainly benefit inexperienced clinicians, and probably do not reduce cyclic fatigue fracture; fracture at D2 is still possible (Peters et al, 2021).
-
-## 15. Conclusion
+## 14. Conclusion
 
 ### Explanation
 
@@ -364,11 +343,11 @@ Rotary NiTi instrumentation has made the preparation of curved canals faster and
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
-**Claim 1: heat-treated NiTi resists fracture better.** *Textbooks:* M-wire by almost 400% in cyclic fatigue (Jain, 2016); heat-treated alloys more flexible with higher fatigue resistance (Peters et al, 2021). *Assessment:* the direction is consistent between books, but the 400% figure is a manufacturer's claim and the supporting studies are laboratory fatigue tests, so the clinical significance is unknown. Both books also note that more martensitic files deform plastically, so their behaviour at failure differs. [Likely]
+**Claim 1: heat-treated NiTi resists fracture better.** *Textbooks:* M-wire by almost 400% in cyclic fatigue (Jain, 2016); heat-treated alloys more flexible with higher fatigue resistance (Peters et al, 2021). *Assessment:* the direction is consistent between books, but the 400% figure is Jain's report of one study and the supporting studies are laboratory fatigue tests, so the clinical significance is unknown. Both books also note that more martensitic files deform plastically, so their behaviour at failure differs. [Likely]
 
-**Claim:** reciprocation is safer than continuous rotation. Peters et al say the change has been generally successful in preventing threading-in and fracture (Peters et al, 2021), and Terauchi and Renton report longer life and higher cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]. These are laboratory fatigue findings; neither book shows that fewer files separate in patients, and in vitro shaping is described as similar to rotation. **Conclusion:** reciprocation is a reasonable choice for severe curves, but its clinical advantage is not established by these sources. [Likely]
+**Claim:** reciprocation is safer than continuous rotation. Peters et al say the change has been generally successful in preventing threading-in and fracture (Peters et al, 2021), and Terauchi and Renton report longer life and higher cyclic fatigue resistance (Terauchi and Renton, 2021) [SRC]. These are laboratory fatigue findings. Sikri lists less instrument separation for WaveOne as an advantage (Sikri, 2019) [SRC], whereas Ingle says the choice of system is not clearly decisive and that debris extrusion with reciprocation is controversial (Ingle, year not printed); in vitro shaping is described as similar to rotation (Peters et al, 2021). **Conclusion:** reciprocation is a reasonable choice for severe curves, but its clinical advantage is not established by these sources. [Likely]
 
-**Claim 1: torque-controlled motors reduce instrument fracture.** *Baumann and Beer:* torque limitation reduces loading and improves longevity (Baumann and Beer, 2010). *Peters et al:* some believe it increases safety, others that it mainly benefits inexperienced operators; it probably does not reduce cyclic fatigue fracture (Peters et al, 2021). *Jain:* the ideal is right-torque motors (Jain, 2016). *Assessment:* torque control addresses torsional overload, not cyclic fatigue; the supporting studies were not read. *Conclusion:* use it as one safeguard, not a guarantee. [Likely]
+**Claim 1: torque-controlled motors reduce instrument fracture.** *Baumann and Beer:* torque limitation reduces loading and improves longevity (Baumann and Beer, 2010). *Peters et al:* some believe it increases safety, others that it mainly benefits inexperienced operators; it probably does not reduce cyclic fatigue fracture (Peters et al, 2021). *Jain:* motors that stop and reverse at the set torque mean instrument failure could be avoided, and right-torque motors are ideal (Jain, 2016). *Assessment:* the books split, Baumann and Beer and Jain for torque control and Peters et al doubtful; a plausible reading is that torque control limits torsional overload but not cyclic fatigue [Likely]. The supporting studies were not read. *Conclusion:* use it as one safeguard, not a guarantee. [Likely]
 
 **Claim:** active (non-landed) designs prepare canals better than passive ones. Peters et al state that radial-landed files are safe but less efficient and that active files cut better with more preparation errors (Peters et al, 2021) [SRC]; Sikri agrees that active files cut aggressively and straighten (Sikri, 2019) [SRC]. Efficacy depends on the measure used (speed, centring, debris removal). The books give no head-to-head clinical outcome data, and the in vitro comparisons were not read. **Conclusion:** passive designs trade speed for safety; neither group is shown to give better treatment outcomes. [Likely]
 
@@ -378,7 +357,7 @@ Rotary NiTi instrumentation has made the preparation of curved canals faster and
 - NiTi: superelastic, shape memory, about 7% reversible strain; low hardness, cuts less than steel.
 - Generations: passive radial-land; active; heat-treated; reciprocating single-file; offset centre of rotation.
 - Passive (radial land) = safe but reaming; active = efficient but more errors.
-- M-wire (2008, ~400% claimed), R-phase (2008), CM wire (2010), gold and blue.
+- M-wire (introduced 2007; GTX 2008; almost 400% more fatigue resistance in one study reported by Jain), R-phase (2008), CM wire (2010), gold and blue.
 - Fracture: cyclic fatigue (curved canals, no warning) and torsional overload (tip locks).
 - Prevent: glide path, crown-down, torque control, about 300 rpm, short use, inspect and discard.
 - Reciprocation: large cutting arc (150–170 degrees), small release arc (30–50 degrees); WaveOne, Reciproc.
@@ -676,6 +655,15 @@ None from the books.
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.203 (printed p.182): "The WaveOne motor, as supplied by manufacturer is rechargeable; battery operated with a 6 : 1 reduction handpiece"
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.203 (printed p.182): "WaveOne files should be used with a progressive up and down movement with little pressure (not more than three to four times)"
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.203 (printed p.182): "Irrigation is continually carried out during root canal preparation"
+- Terauchi and Renton, 2021, 20_20_Managing_iatrogenic_events.md, PDF p.2483: "The literature shows more debris extrusion produced by instruments used with a reciprocating movement than instruments used with a continuous rotary movement"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "Less instrument separation (reciprocating movement prevents the instrument advancing to its plastic limit)"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "systems is associated with increased risk of apical debris extrusion and dentinal damages (cracks)"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "systems, except Reciproc, require a glide path preparation"
+- Ingle, year not printed, 20_Chapter_20_Preparation_of_the_Coronal_and_Radicular_Spa, PDF p.540: "are faster than full-sequence rotary NiTi instruments"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.173 (printed p.152): "A reciprocating file that utilizes an equal clockwise and counter clockwise movement may not cut as efficiently as a same-size rotary file"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.173 (printed p.152): "This reciprocating movement allows a file to efficiently cut along with augering the debris effectively"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "One Ni-Ti file is required per root canal/per tooth"
+- Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.204 (printed p.183): "Cost-effective"
 - Baumann and Beer, 2010, 09_9_Conventional_Instruments_and_Advances_in_Design.md, PDF p.94: "was developed after it was recognized that sharp edges at the tip of a"
 - Sikri, 2019, 11_11_Endodontic_Instruments.md, PDF p.180 (printed p.159): "Flex-R file: These files are manufactured following computer assisted milling technique"
 - Peters et al, 2021, 08_8_Cleaning_and_shaping_of_the_root_canal_system.md, PDF p.877: "The smaller the pitch or the shorter the distance between corresponding points, the more spirals the file has and the greater the helix angle"
@@ -738,10 +726,12 @@ None from the books.
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
-- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
-- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
+- Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Chapters 9, 10, 12, 15, 20, 21, 22 and 23 (chapter authors not stated in the extracted files; cited under the editors).
+- Ingle's Endodontics. 7th ed. Ch.20 Preparation of the coronal and radicular spaces, and Ch.23 Endodontic orthograde retreatment and management of mishaps (year and chapter authors not printed in the extracted file; page numbers not cited because the OCR is damaged).
 - Jain P, editor. Current Therapy in Endodontics. Chichester: Wiley-Blackwell; 2016. Ch.3 Rotary instruments (chapter authors not stated in the extracted file; cited under the editor).
 - Peters OA, Peters CI, Basrani B. Cleaning and shaping of the root canal system. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.8.
 - Roda RS, Gettleman BH, Johnson SC. Nonsurgical retreatment. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.10.
 - Sikri VK. Endodontic instruments (Ch.11). In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019.
+- Tango-Endo instrumentation system (clinical article). Inside Dentistry. 2015. [Seen only as a web-search summary; author not verified; page not opened.] https://www.aegisdentalnetwork.com/id/2015/04/tango-endo-instrumentation-system
 - Terauchi Y, Renton TF. Managing iatrogenic events. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.20.
+- Yilmaz and Ozyurek. Cyclic fatigue life of Tango-Endo, WaveOne GOLD, and Reciproc NiTi instruments. Restor Dent Endod. 2017. [Seen only as a web-search summary; author names and details not verified; page not opened.] https://doaj.org/article/c16167f10d6c46309b1e85c50a8299c9
