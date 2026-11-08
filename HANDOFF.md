@@ -420,3 +420,11 @@ Off-topic §21 questions moved to new repository section §21A (vault edit, 2026
 - Disagreeing books are shown side by side with author and edition; no source is ranked. Ingle 7th is cited as `Ingle, year not printed`. Single-source items (e.g. Sikri's Lutein method and radix classifications) say 'one book'. Web items (Vertucci 1984, Briseno-Marroquin 2015, Ahmed 2017) are cited only at the level read (abstract or snippet).
 - Overlap to be aware of: A6 (curved and calcified canals) and A7 (MB2) overlap the Cleaning and Shaping 'biomechanical preparation of curved root canals' and Magnification 'MB2 and calcified canals' answers by other collaborators; not merged.
 - Not done: vault (`dental-study-notes`) and OneDrive .docx copies; dossiers and reader reports are kept local because they quote the textbooks.
+
+## 2026-11-08 — Luting & Cementation Materials: FIRST DRAFTS COMPLETE (11 canonical answers), not yet reviewed or published
+- Folder `luting_cements/` (`_QUESTIONS.md`, `work/BRIEF.md`, per-group tools in `work/g1`-`g5`, answers in `canonical/`). Drafted by five parallel agents from one brief; Dental Materials §11 plus cementation items from Conservative §16-17 and DM §5.
+- Exam cores: Q1 878 (25m), Q2 723 (20m), Q3 388, Q4 336, Q5 198 (5m), Q6 394, Q7 364, Q8 199 (5m), P1 391, P2 600 (15m; count includes table dividers, prose about 510), P3 357. Locators: g1 276, g2 253, g3 218, g4 169, g5 188, all missing 0.
+- Citation years harmonised: Phillips' 12e cited as "Anusavice et al, undated" (no copyright page in the file); Sikri 2e as 2017 (first eBook edition date).
+- LIT (abstracts only): Q1 Alghauli 2022/23, Baader 2016, Shetty 2012; P1/P3 Alvarenga 2024, Scholz 2021, Pfister 2023 and 2025, Brondani 2017.
+- To check in print: Craig 11e polycarboxylate strength ranges look reversed; Sikri zinc phosphate modulus "136 Mpa" (misprint?); Q5 wording "[Inlay]" reconstructed from a garbled scan; Super EBA acid named ortho-ethoxy (materials books) vs o-methoxy (Cohen's, Parirokh); Parirokh year 2017 here vs 2019 in earlier topics.
+- Not done: review pass, vault copies, Answer Bank site publish.
