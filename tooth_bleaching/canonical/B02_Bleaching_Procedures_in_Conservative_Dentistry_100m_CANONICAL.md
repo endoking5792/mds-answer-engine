@@ -3,7 +3,7 @@
 **Marks:** 100m, Single Essay
 **Sitting:** Oct 2008 (RG PIV RS-2). Repeats absorbed: "Discuss Bleaching vital as well as non-vital [teeth]." 15m Oct 2003 (Endo PIII 01-07); "Bleaching" 10m Oct 2009 (RG PIII RS-2); "Bleaching of discolored teeth." 10m Nov 2011 (RG PIII RS-2); "Bleaching." 5m Nov 2020 (PII 16-21). The mechanism and carbamide peroxide sections are expanded as B10 and B11; walking bleach, nightguard bleaching and complications have their own short answers (B05-B09) but nothing here depends on them.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3238 words, about 147 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3285 words, about 149 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks).
 
 **Retrieval report.** Read in full: Summitt's Fundamentals of Operative Dentistry 4th ed Ch.16 Natural tooth bleaching (Haywood, da Costa and Berry, 2013); Sturdevant's Art and Science of Operative Dentistry 2nd South Asia ed Ch.21, bleaching, micro- and macroabrasion sections (Ritter et al, 2019); Cohen's Pathways of the Pulp 12th ed Ch.26 Bleaching procedures (Setzer, 2021); Grossman's Endodontic Practice 14th ed Ch.23 (Gopikrishna, 2021); Ingle's Endodontics 7th ed Ch.40 (Rotstein, 2019); Sikri, Textbook of Conservative and Restorative Dentistry Ch.32 (Sikri, 2020). Read in part: Goldstein's Esthetics in Dentistry 3rd ed Ch.12, agents, power/home bleaching, non-vital techniques, complications (Kwon and Goldstein, 2018); Torabinejad's Endodontics: Principles and Practice 6th ed Ch.17, agents and walking bleach (Rotstein and Silvestrin, 2021); Lasers in Dentistry 2nd ed Ch.16.3.5-16.3.7 (Luk and Anagnostaki, 2023); Craig's 14th ed Ch.6 bleaching agents (Sakaguchi, Ferracane and Powers, 2019); Powers and Wataha 10th ed Ch.6 whitening (Powers and Wataha, 2013). Searched, not used: Craig's 11th ed (same biocompatibility paragraph as the 14th); Phillips' 12th ed (no bleaching section — "bleach" hits are denture cleansers); McCabe and Walls 9th ed (hypochlorite only); Endodontology Ch.44, Sikri Essentials of Endodontics Ch.24 and Andreasen Ch.33 (left to the other drafters of this topic). Offsets confirmed: Sturdevant 19, Grossman 25, Ingle −166, Torabinejad 7, Sikri 19, Goldstein 14, Lasers 5, Craig's 11, Powers 12; Summitt and Cohen have no printed page numbers in the extract (PDF page only). Live search: none.
 
@@ -733,10 +733,55 @@ Summitt's: the primary safety issue is "the concern for masking existing patholo
 - Kwon and Goldstein, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.364 (printed p.350): "It is also not known whether the color regression is a result of recolorizing of the oxidized stain molecule"
 - Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.866: "The Food and Drug Administration recognizes 3% hydrogen peroxide and 10% to 15% carbamide peroxide as GRAS"
 - Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.624 (printed p.605): "10% carbamide peroxide would act as a tumor promoter in the presence of mutated cells"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.484 (printed p.459): "Carbamide peroxide → Urea + ammonia + carbon dioxide + 3.5% hydrogen peroxide"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.811: "10% carbamide peroxide will break down to release 3.3% hydrogen peroxide"
+- Sikri, 2019, 24_24_Bleaching_of_Discolored_Teeth.md, PDF p.446 (printed p.425): "10% carbamide peroxide is equal to 3.0% hydrogen peroxide and 22% carbamide peroxide is equal to 7.5% hydrogen peroxide"
+- Alani and Patel, 2025, Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.m, PDF p.88 (printed p.68): "A solution of 10% carbamide peroxide results in approximately 3% hydrogen peroxide over a period of 4 h"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.853: "Although the agent has lost most of its potency after 5 hours"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.809: "Carbamide peroxide products have been shown to be active even after 10 hours of use"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.489 (printed p.464): "Carbamide peroxide is more stable than hydrogen peroxide and can be active up to several hours"
+- Powers and Wataha, 2013, Powers_Wataha_Dental_Materials_Properties_and_Manipulation, PDF p.89 (printed p.77): "The gel is replenished each hour"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.848: "2 to 10 hours due to carbopol amount"
+- Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.2988: "At room and oral temperatures, the reaction of carbamyl peroxide takes place at a slower rate compared to hydrogen peroxide"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.817: "By the mid-1800s, the in-office bleaching agent of choice for nonvital teeth was chloride of lime"
+- Haywood, da Costa and Berry, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.817: "Other agents used in the 1800s for nonvital tooth bleaching included aluminum chloride"
+- Dahl and Pallesen, 2007, 33_33_Bleaching_of_the_Discolored_Traumatized_Tooth.md, PDF p.868 (printed p.852): "The first publication on bleaching of discolored, pulpless teeth appeared in 1864"
+- Dahl and Pallesen, 2007, 33_33_Bleaching_of_the_Discolored_Traumatized_Tooth.md, PDF p.868 (printed p.852): "In the walking bleach technique that was introduced in 1961"
+- Dahl and Pallesen, 2007, 33_33_Bleaching_of_the_Discolored_Traumatized_Tooth.md, PDF p.868 (printed p.852): "based on an observation made in the late 1960s by an orthodontist"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.810: "The amount of hydrogen peroxide produced using sodium perborate is less than that from a similar amount of carbamide peroxide"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.810: "Sodium perborate reacts with water to form sodium borate and hydrogen peroxide"
+- Setzer, 2021, 26_26_Bleaching_procedures.md, PDF p.2986: "Further degradation over this step may complete disintegration of the organic matrix with the release of carbon dioxide and water"
+- Dahl and Pallesen, 2007, 33_33_Bleaching_of_the_Discolored_Traumatized_Tooth.md, PDF p.868 (printed p.852): "attack the long chained, dark colored chromophore molecules and split them into smaller, less colored and more diffusible molecules"
+- Dahl and Pallesen, 2007, 33_33_Bleaching_of_the_Discolored_Traumatized_Tooth.md, PDF p.868 (printed p.852): "in a basic solution, lower activation energy is required for the formation of free radicals from hydrogen peroxide"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.485 (printed p.460): "Tooth (reducing agent takes up electrons)"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.485 (printed p.460): "Bleaching agent (oxidizing agent gives free electrons)"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.810: "The smaller molecules so produced reflect less light from or they are lost from the tooth tissue"
+- Alani and Patel, 2025, Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.m, PDF p.88 (printed p.68): "are less able to reflect light than the previous large chromophore molecules"
+- Luk and Anagnostaki, 2023, Lasers_in_Dentistry_Current_Concepts.md, PDF p.525 (printed p.520): "which absorb less and therefore reflect more light"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.823: "they cannot affect the colour of the tooth as this is determined by the underlying dentine"
+- Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.212 (printed p.203): "Bleaching toothpastes based on low-level peroxide formulations are also available to whiten teeth for esthetic purposes"
+- Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.212 (printed p.203): "They are effective in whitening teeth when used daily"
+- Anusavice, Shen and Rawls, 2013, Phillips_Science_of_Dental_Materials.md, PDF p.266 (printed p.250): "may contain an abrasive agent alone or both a chemical agent and an abrasive agent"
+- Anusavice, Shen and Rawls, 2013, Phillips_Science_of_Dental_Materials.md, PDF p.266 (printed p.250): "act through a combined mechanism of abrasion and bleaching"
+- Anusavice, Shen and Rawls, 2013, Phillips_Science_of_Dental_Materials.md, PDF p.266 (printed p.250): "The therapeutic benefits of other additives such as peroxides and bicarbonates are under investigation"
+- Craig and Powers, 2002, Restorative_Dental_Materials_Craig_Michigan_11th.md, PDF p.137 (printed p.127): "Peroxides in bleaching agents have been shown to permeate intact enamel in just a few seconds"
+- Sakaguchi, Ferracane and Powers, 2019, Craigs_Restorative_Dental_Materials.md, PDF p.116 (printed p.105): "peroxides can rapidly penetrate intact enamel and reach the pulp in a few minutes"
+- Bonsor and Pearson, 2013, A_Clinical_Guide_to_Applied_Dental_Materials.md, PDF p.810: "This starts within a matter of 15 minutes of applying the product"
+- Bhat, Nandish and Jayaprakash, 2019, Science_of_Dental_Materials.md, PDF p.170 (printed p.137): "These contain some peroxides, which are capable of passing through the exposed dentin and cause cytotoxicity"
+- Powers and Wataha, 2013, Powers_Wataha_Dental_Materials_Properties_and_Manipulation, PDF p.88 (printed p.76): "Peroxide whitening agents are readily diffused through 0.5 mm of dentin in concentration to produce cytotoxicity"
+- van Noort, 2013, Introduction_to_Dental_Materials_4th.md, PDF p.82 (printed p.67): "carbamide-based bleaching agents can increase the release of mercury from amalgam restorations"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.484 (printed p.459): "this paste decomposes into sodium metaborate, water, and oxygen"
+- Gopikrishna, 2021, 23_Chapter_23_Bleaching_of_Discolored_Teeth.md, PDF p.484 (printed p.459): "Sodium perborate → Sodium metaborate + hydrogen peroxide + O2"
 
 **[LIT]** none: no live literature search was run for this answer.
 
 ## REFERENCES (alphabetical)
+- Alani A, Patel M. Adhesive Techniques in Restorative Dentistry (BDJ Clinician's Guides). Cham: Springer Nature; 2025. Ch.3 Management of discoloured teeth.
+- Anusavice KJ, Shen C, Rawls HR, editors. Phillips' Science of Dental Materials. 12th ed. St Louis: Elsevier Saunders; 2013 (year not printed in the extracted file; verify). Ch.11 Materials and processes for cutting, grinding, finishing, and polishing (dentifrices).
+- Bhat VS, Nandish BT, Jayaprakash K. Science of Dental Materials with Clinical Applications. 3rd ed. New Delhi: CBS Publishers & Distributors; 2019 (eBook edition date). Ch.7 Biocompatible aspects of dental materials.
+- Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.
+- Craig RG, Powers JM, editors. Restorative Dental Materials. 11th ed. St Louis: Mosby; 2002. Ch.5 Biocompatibility of dental materials; Ch.8 Preventive materials.
+- Dahl JE, Pallesen U. Bleaching of the discolored traumatized tooth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.33.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.23 Bleaching of discolored teeth (no individual chapter author is named in the file, so the editor is cited).
 - Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.
 - Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.
@@ -747,4 +792,6 @@ Summitt's: the primary safety issue is "the concern for masking existing patholo
 - Rotstein I. Tooth discoloration and bleaching of non-vital teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.40 (author line decoded from a damaged OCR heading; verify against the printed book).
 - Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials.
 - Setzer FC. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26.
+- Sikri VK. Bleaching of discolored teeth. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.24.
 - Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.23 Finishing and polishing (microabrasion); Ch.28 Minimal intervention dentistry; Ch.32 Tooth discoloration and bleaching.
+- van Noort R. Introduction to Dental Materials. 4th ed. Edinburgh: Mosby Elsevier; 2013. Ch.2.1 Dental amalgams.
