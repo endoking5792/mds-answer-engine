@@ -2,7 +2,7 @@
 OD = T + 'Operative_and_Dental_Materials_Textbooks/'
 F = {
  'a4_sum': (OD+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Haywood, da Costa and Berry, 2013'),
- 'a4_stu': (OD+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter, Boushell and Walter, 2018'),
+ 'a4_stu': (OD+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
  'a4_gol': (OD+'Esthetics_in_Dentistry_Goldstein.md', 14, 'Kwon and Goldstein, 2018'),
  'a4_las16': (OD+'Lasers_in_Dentistry_Current_Concepts.md', 5, 'Anagnostaki, 2023'),
  'a4_las9': (OD+'Lasers_in_Dentistry_Current_Concepts.md', 8, 'George and Walsh, 2023'),
@@ -434,6 +434,7 @@ L = {
  'a4_sik_tumor': ('a4_sik', '10% carbamide peroxide would act as a tumor promoter in the presence of mutated cells'),
  'a4_sik_6mo': ('a4_sik', 'use of 10% carbamide peroxide daily for 6 months did not adversely affect the surface texture of human enamel'),
  'a4_sik_caries': ('a4_sik', 'Such altered enamel surface, because of bleaching, may activate caries progression'),
+ 'a4_sik_co2nm': ('a4_sik', 'Carbon dioxide (CO2) (10,600 nm)'),
  # ---- Cohen Ch.26 (Setzer, 2021)
  'a4_coh_home': ('a4_coh', 'Typically, at-home concentrations range from 3% to 7.5%'),
  'a4_coh_office': ('a4_coh', 'In-office concentrations may range from 25% to 38%'),
@@ -460,6 +461,8 @@ L = {
  'a4_coh_desens': ('a4_coh', 'Fluoride, casein phosphopeptide-amorphous calcium phosphate, potassium nitrate, or nano-hydroxyapatite suspension'),
  'a4_coh_37cp': ('a4_coh', 'The use of 37% carbide peroxide compared to 35% hydrogen peroxide for in-office bleaching demonstrated reduced sensitivity'),
  'a4_coh_children': ('a4_coh', 'Caution should also be applied regarding children and adolescents due to the larger pulpal volume'),
+ 'a4_coh_35': ('a4_coh', 'white crystals that contain H2O2 in a concentration of about 35%'),
+ 'a4_sum_t162': ('a4_sum', '2 to 10 hours due to carbopol amount'),
  # ---- Craig's 14th Ch.6 and Powers and Wataha
  'a4_cr_pulp': ('a4_cr', 'In vivo studies have demonstrated adverse pulpal effects from bleaching'),
  'a4_cr_concern': ('a4_cr', 'a legitimate concern exists about the long-term use of these products on vital teeth'),
@@ -471,14 +474,14 @@ L = {
  'a4_pw_side': ('a4_pw', 'temporoman- dibular joint syndrome from the tray, and sore throats from swallowing the bleach'),
 }
 BOOK = {
- 'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.16.",
- 'Ritter2018': "Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2018. Ch.21 Additional conservative esthetic procedures (no chapter author printed).",
- 'Kwon2018': "Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken, NJ: John Wiley & Sons; 2018. Ch.12.",
- 'Anagnostaki2023': "Anagnostaki E. Laser-assisted dental bleaching. In: Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.16, section 16.3.",
- 'George2023': "George R, Walsh LJ. Laser-assisted endodontics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.9 (section 9.7 Laser-enhanced bleaching).",
- 'Bonsor2013': "Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.",
- 'Sikri2020': "Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching.",
- 'Setzer2021': "Setzer F. Bleaching procedures. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021 (year not printed in the chapter file; verify). Ch.26.",
+ 'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.",
+ 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed (adaptation of 7th ed). Elsevier; 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
+ 'Kwon2018': "Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.",
+ 'Anagnostaki2023': 'Anagnostaki E. Laser-assisted dental bleaching (section 16.3). In: Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.16.',
+ 'George2023': 'George R, Walsh LJ. Laser-assisted endodontics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer Nature; 2023. Ch.9 (section 9.7 Laser-enhanced bleaching).',
+ 'Bonsor2013': 'Bonsor SJ, Pearson GJ. A Clinical Guide to Applied Dental Materials. Edinburgh: Elsevier Churchill Livingstone; 2013. Ch.18 Dental bleaching systems.',
+ 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching; Ch.28 Minimal intervention dentistry (resin infiltration).',
+ 'Setzer2021': "Setzer FC. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26.",
  'Sakaguchi2019': "Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials.",
- 'Powers2013': "Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 (whitening).",
+ 'Powers2013': 'Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 Finishing, polishing, and cleansing materials (Whitening).',
 }

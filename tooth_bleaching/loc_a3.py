@@ -64,7 +64,7 @@ g12|g12_retractors|The conventional rubber dam has been replaced by the use of c
 g12|g12_saran|Place a precut linear low-density polyethylene wrap (Saran wrap) onto the teeth to prevent evaporation
 g12|g12_naf|Finish the in-office bleaching session with a 2% neutral sodium fluoride gel for 5–10 min
 g12|g12_3035|For most bleaching, a 30–35% concentration of hydrogen peroxide is used.
-g12|g12_visits|For tetracycline-stained teeth, three or more visits are generally required
+g12|g12_visits|stained teeth, three or more visits are generally required
 g12|g12_chalky|the teeth may appear chalky because of dehydration
 g12|g12_4060|Remove the wrap and the bleaching material after 40–60 min.
 g12|g12_touchup|bleach usually will be recommended for the removal of any new accumulated stain
@@ -200,7 +200,7 @@ stu|stu_croll86|in 1986, Croll and Cavanaugh modified the technique to include t
 stu|stu_11|reducing the concentration of the hydrochloric acid to approximately 11%
 stu|stu_sic|silicon carbide particles (in a water-soluble gel paste) instead of pumice
 stu|stu_nobleach|does not remove stains or defects through any bleaching phenomena
-stu|stu_idio|an accurate prognosis for micro-abrasion cannot be given
+stu|stu_idio|an accurate prognosis for microabrasion cannot be given
 stu|stu_0203|the depth of the defect exceeding 0.2–0.3 mm
 stu|stu_flremoval|if the discolouration is within the 0.2–0.3-mm removal depth limit
 stu|stu_cej|enamel is too thin to permit micro-abrasion or macro-abrasion
@@ -384,7 +384,6 @@ sik|sik_ri15|The Etchant (acid) gel is composed of 15% hydrochloric acid
 sik|sik_ethanol|Drying agent is ethanol, which removes water retained in microporosities.
 sik|sik_tegdma|The Infiltrant is composed of triethylene glycol dimethacrylate (TEGDMA)
 sik|sik_ri90|Etching with 15% HCl gel for 90–120 seconds was found to be more effective than 37% phosphoric acid gel
-sik|sik_ri58|It removed 58 m of demineralized/normal enamel surface.
 sik|sik_kiel|first developed at the University of Kiel (Germany)
 sik|sik_micro0203|If the defect is only confined to the superficial 0.2–0.3 mm of enamel
 sik|sik_microdesc|A paste (18% hydrochloric acid, pumice and water) is applied to the desired surface with a slow driven rubber cup.
@@ -418,6 +417,14 @@ cv4|cv_dentin|with prepa- rations into dentin having the most negative impact on
 cv2|cv2_opq|Opaquers are low-viscosity light-activated resins used for masking dark substrates
 cv2|cv2_misc|It is a common misconception that an opaquer must be 100% opaque
 cv2|cv2_dull|An opaquer that presents extremely high opacity may render a restoration lifeless and dull
+g21|g21_cpchx|disadvantage by employing 10% carbamide peroxide in a bleaching tray periodically
+g21|g21_maint|may be useful in color maintenance after the dentist has whitened the teeth
+g21|g21_crown|full crown coverage may be necessary to improve the appearance of the teeth
+g21|g21_fig18|Direct composite bonding masked the remainder of the white spots
+sum|sum_liquiddam|it may be possible to protect the gingiva with cotton rolls and a so-called liquid rubber dam
+sum|sum_tubule|Bleaching sensitivity is not directly related to tubule blockage
+sum|sum_trayext|External bleaching of the single dark tooth is best performed with tray application of the bleaching agent.
+bar|bar_table|Mild generalized staining
 '''
 L = {}
 for _ln in _L.strip().split('\n'):

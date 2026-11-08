@@ -4,7 +4,7 @@ F = {
  # Summitt 4th ed Ch.16 Natural Tooth Bleaching (Haywood, da Costa, Berry). ebook: no printed page numbers -> PDF page only.
  'a2_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Haywood, da Costa and Berry, 2013'),
  # Sturdevant 2nd South Asia ed Ch.21; printed = PDF - 19 (PDF 592 = p.573, 594 = p.575, 595 = p.576)
- 'a2_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Gopikrishna, 2018'),
+ 'a2_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter, Boushell and Walter, 2019'),
  # Cohen 12th Ch.26 (Setzer); no printed page numbers in the extract
  'a2_coh': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/26_26_Bleaching_procedures.md', None, 'Setzer, 2021'),
  # Grossman 14th Ch.23; printed = PDF - 25 (PDF 481 = p.456, 484 = p.459)
@@ -110,6 +110,24 @@ L = {
  'a2_sum_onearch': ('a2_sum', 'the best way to ensure patient awareness of the effect of bleaching is to bleach one arch at a time'),
  'a2_sum_cpcaries': ('a2_sum', 'There is some evidence to suggest that the use of carbamide peroxide may retard the progression of caries'),
  'a2_sum_8in10': ('a2_sum', '8 in 10 patients can expect to retain that lightening for at least 1 year'),
+ 'a2_sum_1910b': ('a2_sum', 'By 1910, an'),
+ 'a2_sum_tc65': ('a2_sum', 'shown to be effective is to bleach tetracycline-stained teeth using 6.5% hydrogen peroxide strips'),
+ 'a2_sum_tcveneer': ('a2_sum', 'Generally, teeth severely stained in gingival areas are candidates for porcelain veneers or crowns'),
+ 'a2_sum_tcgray': ('a2_sum', 'teeth may retain some grayish-blue tint'),
+ 'a2_sum_tc75': ('a2_sum', 'A follow-up study showed a very high patient satisfaction rate at 7.5 years after completion of bleaching'),
+ 'a2_stu_tcmonths': ('a2_stu', 'Teeth stained with tetracycline require prolonged treatment durations of several months before any results are observed'),
+ 'a2_stu_tcendo': ('a2_stu', 'intentional endodontic therapy along with the use of an intra-coronal nonvital bleaching technique'),
+ 'a2_gro_tcveneer': ('a2_gro', 'are indicated instead of intentional devitalization of a tooth with a normal pulp'),
+ 'a2_gro_tc3': ('a2_gro', 'Severe staining characterized by dark gray or blue discoloration with banding'),
+ 'a2_gro_tc1': ('a2_gro', 'Light yellow to light gray staining without banding'),
+ 'a2_sik_aldecoa': ('a2_sik', 'perborate is placed in the pulp chamber for 4 to 6 weeks'),
+ 'a2_sik_ktp': ('a2_sik', 'wavelength of KTP laser (532 nm)'),
+ 'a2_coh_810': ('a2_coh', 'Lasers have been in use for tooth bleaching at around 810 to 830 nm and 970 to 980 nm wavelengths'),
+ 'a2_coh_tc8': ('a2_coh', 'Children are susceptible to tetracycline discolorations from the time they are in utero until the age of 8'),
+ 'a2_sum_before': ('a2_sum', 'bleaching should be performed before any esthetic restorative procedures'),
+ 'a2_sum_unwilling': ('a2_sum', 'Patient is unwilling or unable to use at-home tray application'),
+ 'a2_sum_event': ('a2_sum', 'Patient desires the process to be completed as quickly as possible due to an upcoming event'),
+ 'a2_sik_seal': ('a2_sik', 'The non-vital bleaching procedures adversely affect the marginal seal leading to marginal leakage'),
  # --- Sturdevant Ch.21
  'a2_stu_def': ('a2_stu', 'The lightening of the colour of a tooth through the application of a chemical agent to oxidize the organic pigmentation in the tooth is referred to as bleaching'),
  'a2_stu_1848': ('a2_stu', 'Bleaching of nonvital teeth was first reported in 1848; in-office bleaching of vital teeth was first reported in 1868'),
@@ -314,15 +332,15 @@ L = {
  'a2_pw_05mm': ('a2_pw', 'Peroxide whitening agents are readily diffused through 0.5 mm of dentin'),
 }
 BOOK = {
- 'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16 (ebook extract has no printed page numbers; PDF pages cited).",
- 'Gopikrishna2018': "Gopikrishna V, adaptation editor. Additional conservative esthetic procedures. In: Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adapted from Ritter AV, Boushell LW, Walter R, 7th ed). New Delhi: RELX India (Elsevier); 2018. Ch.21 (no chapter author stated; cited by the adaptation editor).",
- 'Setzer2021': "Setzer F. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26 (extract has no printed page numbers; PDF pages cited).",
- 'Gopikrishna2021': "Gopikrishna V, editor. Bleaching of discolored teeth. In: Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.23 (chapter author not stated; cited by the editor).",
- 'Rotstein2019': "Rotstein I. Tooth discoloration and bleaching of non-vital teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.40 (author line OCR-garbled in the file and decoded; verify against the printed book).",
- 'Rotstein2021': "Rotstein I, Silvestrin T. Bleaching discolored nonvital teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.17 (editor names not verified from the file).",
- 'Sikri2020': "Sikri VK. Tooth discoloration and bleaching. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020 (first eBook edition). Ch.32.",
+ 'Haywood2013': "Haywood VB, da Costa J, Berry TG. Natural tooth bleaching. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.16.",
+ 'Setzer2021': "Setzer FC. Bleaching procedures. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.26.",
+ 'Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.23 Bleaching of discolored teeth (no individual chapter author is named in the file, so the editor is cited).",
+ 'Rotstein2019': "Rotstein I. Tooth discoloration and bleaching of non-vital teeth. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.40 (author line decoded from a damaged OCR heading; verify against the printed book).",
+ 'Rotstein2021': 'Rotstein I, Silvestrin T. Bleaching discolored nonvital teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.17 (editor names and year not printed in the extracted file; verify).',
+ 'Sikri2020': 'Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.32 Tooth discoloration and bleaching; Ch.28 Minimal intervention dentistry (resin infiltration).',
  'Kwon2018': "Kwon SR, Goldstein RE. Bleaching discolored teeth. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.12.",
- 'Luk2023': "Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2023. Ch.16.",
+ 'Luk2023': 'Luk K, Anagnostaki E. Impact of laser dentistry in management of color in aesthetic zone. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry: Current Concepts. 2nd ed. Cham: Springer; 2023. Ch.16.',
  'Sakaguchi2019': "Sakaguchi RL, Ferracane JL, Powers JM, editors. Craig's Restorative Dental Materials. 14th ed. St Louis: Elsevier; 2019. Ch.6 Biocompatibility and tissue reaction to biomaterials.",
- 'Powers2013': "Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 Finishing, polishing, and cleansing materials (Whitening).",
+ 'Powers2013': 'Powers JM, Wataha JC. Dental Materials: Properties and Manipulation. 10th ed. St Louis: Elsevier Mosby; 2013. Ch.6 Finishing, polishing, and cleansing materials (Whitening).',
+ 'Ritter2019': "Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed (adaptation of 7th ed). Elsevier; 2019. Ch.21 Additional conservative esthetic procedures (chapter author not printed in the file).",
 }
