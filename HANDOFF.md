@@ -1,9 +1,10 @@
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
-## 2026-11-09 — Non-Carious Tooth Defects: FIRST DRAFT (14 answers), not published
+## 2026-11-09 — Non-Carious Tooth Defects: REVIEWED and PUBLISHED (14 answers)
 - Folder `non_carious_defects/canonical/`: Q1 umbrella 50m (1767), Q2 erosion 75m (2634), Q3 cervical lesions 75m (2620), Q4-Q11 and P1-P3 (all exam cores in range). Question set in `non_carious_defects/_QUESTIONS.md`; white spot lesions answered here (Q11) by agreement.
 - Six parallel agents; merged `non_carious_defects/locators.py` 1115 locators, missing 0. Details, disagreements and open points: `non_carious_defects/HANDOFF_non_carious_defects.md`.
-- Pending: review pass, Answer Bank site publish, vault copies.
+- Review pass 2026-11-09: six second readers (one per group) checked about 690 claims and every [LIT] abstract; fixes applied in place (main ones listed in the topic handoff). Merged locators 1131, missing 0; all exam cores in range.
+- Published to the Answer Bank site 2026-11-09 (site 506c0d5): Conservative Dentistry / Non-Carious Tooth Defects (14) and Recent Advances / Non-Carious Tooth Defects (Q2, Q3); "manifest 614 -> 628 entries, 0 lost" then "628 -> 630, 0 lost". Vault Answers + Consolidated copies written; 00_INDEX and manifest.json (401 -> 417) updated.
 
 ## 2026-11-04 — Answer Bank moved to a private site
 - All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.
