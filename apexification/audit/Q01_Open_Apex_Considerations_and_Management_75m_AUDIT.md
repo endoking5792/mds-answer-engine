@@ -301,7 +301,7 @@ Legacy keys dropped in the conversion (content removed for length): historic ser
 
 - [x] Every factual author-year citation is supported by a verified source.
 - [x] Every numerical value has a traceable source.
-- [ ] Chapter authors, edition, year and bibliographic details are verified or explicitly marked unknown. (Diogenes and Smith 2019 decoded from the OCR cipher, contents page not yet checked; others as in the legacy audit.)
+- [x] Chapter authors, edition, year and bibliographic details are verified or explicitly marked unknown. (Diogenes and Smith 2019 confirmed from the Ingle's 7e contents page, "Anibal R. Diogenes, Anthony J. Smith", 2026-11-09; Ingle's imprint still not printed in the extract; others as in the legacy audit.)
 - [x] Disagreements between sources are represented accurately.
 - [x] Any [RECALL] or interpretive claim is not disguised as a sourced fact.
 - [x] The student-facing answer contains no retrieval report, source locator ledger or generation diagnostics.
