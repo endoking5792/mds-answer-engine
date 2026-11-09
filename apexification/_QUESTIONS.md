@@ -1,4 +1,4 @@
-# Apexification, Apexogenesis and Immature Apex Management — question set (DRAFT, awaiting Roseline's OK, 2026-11-09)
+# Apexification, Apexogenesis and Immature Apex Management — question set (agreed with Roseline, 2026-11-09; P2 Cvek pulpotomy and P3 restoration of thin-walled roots removed at her request)
 Source: ENDODONTICS_MASTER_REPOSITORY.md §23 (11 entries) + Manipal addendum (Apexification line, 2 entries) + RECENT_ADVANCES_MASTER_REPOSITORY.md (May 2018 75m, same paper as §23). Conservative Dentistry and Dental Materials repositories grepped (apexif, apexogen, open apex, immature, incompletely formed, apical plug/barrier, pulpotomy, vital pulp): no further items for this topic. One canonical answer per distinct question (SKILL 7.1 item 12).
 
 | # | Question (anchor wording, exactly as printed) | Marks | Sittings absorbed |
@@ -8,8 +8,6 @@ Source: ENDODONTICS_MASTER_REPOSITORY.md §23 (11 entries) + Manipal addendum (A
 | Q03 | "Apexification." (10m, Apr 2012 / Oct 2013, PIII 07-15, listed as a duplicate) | 10 | — |
 | Q04 | "Apexogenesis" (10m, 18-Dec-2023, RG PII RS-5) | 10 | — |
 | P1 | Calcium hydroxide apexification versus the MTA apical barrier (one-visit apexification): technique, success and drawbacks (PREDICTED) | 10 | — |
-| P2 | Partial (Cvek) pulpotomy in a complicated crown fracture of an immature permanent incisor (PREDICTED) | 10 | — |
-| P3 | Restoration and reinforcement of the immature tooth with thin root walls after apexification (PREDICTED) | 10 | — |
 
 ## Cross-references (not drafted here)
 - "Obturation techniques for open apex cases." 7m Jun 2021 (Manipal) — already answered: Endodontics / Obturation / Q10 Obturation in Open Apex 7m. Q01/Q02 point to it.
