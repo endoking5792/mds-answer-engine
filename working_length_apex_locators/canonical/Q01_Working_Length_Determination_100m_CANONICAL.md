@@ -15,7 +15,7 @@
 | Cementodentinal junction (CDJ) | Where dentin and cementum unite, a histologic landmark, 0.5 to 3.0 mm from the anatomical apex (Jain, 2016) |
 
 **Why the apex makes this difficult.** Tissue apical to the CDJ is fibrous connective tissue from the periodontal ligament, not pulp (Gutmann and Lovdahl, 2011).
-- The foramen coincides with the anatomical apex in less than 50% of teeth (Malkhassian, Plazas and Nahmias, 2012); it deviates from the tip in at least two-thirds (Sikri, 2019) or in 60 to 80%, up to 3.0 mm away (Barnett, 2017). Deviation is buccal or lingual twice as often as mesial or distal (Weine, 2004), and a straight view shows only mesial or distal deviation (Weine, 2004).
+- The foramen coincides with the anatomical apex in less than 50% of teeth (Malkhassian, Plazas and Nahmias, 2012); it deviates from the tip in at least two-thirds (Sikri, 2019) or in 60 to 80%, up to 3.0 mm away (Barnett, 2017). Deviation is buccal or lingual twice as often as mesial or distal, and a straight view shows only mesial or distal deviation (Weine, 2004).
 - The constriction lies on average 1 mm from the apex, range 0 to 4 mm, so average values are clinically unacceptable (Attin and Hoer, 2010). In micro-CT the constriction to radiographic apex distance averaged 0.9 mm, and radiographs may locate it accurately in only 32% of canals (Barnett, 2017).
 - Foramen to constriction averages 0.5 mm (Gutmann and Lovdahl, 2011); Kuttler found 0.524 mm at 18 to 25 years and 0.659 mm after 55 (Weine, 2004).
 - Not every tooth has a constriction: apical periodontitis with resorption removes it (Gulabivala and Ng, 2014). It is classed in five types (Gutmann and Lovdahl, 2011) or four (Jain, 2016).
@@ -57,7 +57,7 @@ Grossman's classification (Gopikrishna, 2021): **I electronic** (recommended); *
 | Method | Principle | Limitation |
 |---|---|---|
 | Tactile | Resistance felt at the constriction (Sikri, 2019) | Any obstruction feels like a constriction (Sikri, 2019); in small cylindrical canals file taper exceeds canal taper and binds coronally (Teixeira, Williamson and Shabahang, 2021); useful in under 60% of cases (Malkhassian, Plazas and Nahmias, 2012); better after step-down preparation (Gulabivala and Ng, 2014) |
-| Patient response | Pain when the file meets vital tissue (Jain, 2016) | Impossible under anaesthesia (Jain, 2016); a necrotic canal may hold vital inflamed tissue several millimetres in, and pain is absent beyond the apex (Walton and Torabinejad, 2002) |
+| Patient response | Patient reports sensitivity as the file passes the foramen (Malkhassian, Plazas and Nahmias, 2012) | Impossible under anaesthesia (Jain, 2016); a necrotic canal may hold vital inflamed tissue several millimetres in, and pain is absent beyond the apex (Walton and Torabinejad, 2002) |
 | Paper point | A wet or bloody tip means overextension (Sikri, 2019) | No scientific evidence for routine use (Gutmann and Lovdahl, 2011); blood seeps by capillary action (Gulabivala and Ng, 2014); only a supplement (Schäfer, 2017) |
 
 ### 5.2 Radiographic methods
@@ -90,7 +90,7 @@ A radiograph is exposed with a file in the canal. A modified paralleling techniq
 | Accept the file if | within 1 mm of ideal (Gutmann and Lovdahl, 2011); 0 to 2 mm from the apex (Schäfer, 2017) |
 | Repeat the film if | adjustment of 2 mm or more (Gutmann and Lovdahl, 2011; Schäfer, 2017); correction over 3 mm (Teixeira, Williamson and Shabahang, 2021; Jain, 2016) |
 
-**Multi-canal teeth.** Place files in all canals and use the buccal object (SLOB) rule: the buccal structure moves opposite to the tubehead (Gutmann and Lovdahl, 2011). A 20 to 30 degree horizontal shift is usually enough; mesial angles suit premolars and maxillary molars, distal angles mandibular incisors and molars (Teixeira, Williamson and Shabahang, 2021). Two views identify a Type II configuration (Weine, 2004).
+**Multi-canal teeth.** Place files in all canals and use the buccal object (SLOB) rule: the buccal structure moves opposite to the tubehead, and a 20 to 30 degree shift is usually enough (Gutmann and Lovdahl, 2011). Mesial angles suit premolars and maxillary molars, distal angles mandibular incisors and molars (Teixeira, Williamson and Shabahang, 2021). Two views identify a Type II configuration (Weine, 2004).
 
 **Limitations.** The image is two-dimensional (Gutmann and Lovdahl, 2011); the zygomatic arch overlies 20% of first and 42% of second maxillary molar apices (Gutmann and Lovdahl, 2011); a file at the radiographic apex may already be beyond the foramen (Schäfer, 2017); interpretation is subjective (Malkhassian, Plazas and Nahmias, 2012) and radiation is added (Jain, 2016). Radiographs overestimated length in 51% of canals against 21% with an apex locator (Malkhassian, Plazas and Nahmias, 2012). They do show curvature, accessory and obliterated canals (Attin and Hoer, 2010).
 
@@ -204,7 +204,7 @@ Average lengths only give a start (Attin and Hoer, 2010); tactile, patient-respo
 3. Barnett F. Anatomy, access, and length determination. In: Chugal N, Lin LM, editors. Endodontic Prognosis. Cham: Springer International Publishing; 2017. Ch.7.
 4. Gulabivala K, Ng YL. Non-surgical root canal treatment. In: Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.8.
 5. Jain P. Determination of working length. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Hoboken: John Wiley & Sons; 2016. Ch.4.
-6. Malkhassian G, Plazas A, Nahmias Y. Electronic apex locators and conventional radiograph in working length measurement. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Chichester: Wiley-Blackwell; 2012. Ch.14.
+6. Malkhassian G, Plazas A, Nahmias Y. Electronic apex locators and conventional radiograph in working length measurement. In: Basrani B, editor. Endodontic Radiology. 2nd ed. Hoboken: John Wiley & Sons; 2012. Ch.14.
 7. Sikri VK. Working length and working width. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.15.
 8. Weine FS. Calculation of working length. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.6.
 9. Attin T, Hoer D. Determination of working length. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.19.
