@@ -206,6 +206,6 @@ Preserve the pulp whenever possible; when it is lost, disinfect gently, place a 
 19. Bakland LK. New endodontic procedures using mineral trioxide aggregate (MTA) for teeth with traumatic injuries. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.23.
 20. Bogen G, Chandler NP. Vital pulp therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.27.
 21. Bogen G, Dammaschke T, Chandler N. Vital pulp therapy. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.24.
-22. Diogenes A, Smith J. Regenerative endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.29.
+22. Diogenes AR, Smith AJ. Regenerative endodontics. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.29.
 23. Kim SG. Dental pulp regeneration. In: Jain P, editor. Current Therapy in Endodontics. 1st ed. Ames: John Wiley & Sons; 2016. Ch.11.
 24. Ørstavik D. Endodontic treatment of apical periodontitis. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: John Wiley & Sons; 2020. Ch.11.

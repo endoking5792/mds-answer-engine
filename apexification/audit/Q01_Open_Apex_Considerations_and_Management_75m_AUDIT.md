@@ -14,7 +14,7 @@
 - **Existing evidence reused:** `legacy_v1/Q01_Open_Apex_Considerations_and_Management_75m_CANONICAL.md`, `audit/AUDIT_u1.md`, `audit/AUDIT_2026-11-09.md`, locator files `locators_Q01.py`, `locators_U1.py`.
 - **New retrieval performed:** none for the conversion; no `locators_C1.py` was needed.
 - **Live literature search:** no. Named studies (Frank 1966, Cvek's series, Pradhan et al, the meta-analyses) are cited as reported by the textbooks; the original papers were not read.
-- **Limitations:** Ingle's chapter author line OCR-garbled (decoded); Grossman Ch.11 has no chapter author (cited under the editor); Gulabivala and Ng Ch.8 cited under the editors; Ingle's publisher place taken from the repository convention. The Diogenes and Smith (2019) reference was not in the legacy reference list (the legacy cited it in text only); its entry was built from the locator file's chapter path (Ingle's 7th ed Ch.29 "Regenerative Endodontics") in the same format as the other Ingle's entries — chapter title and authors to be rechecked against the contents page.
+- **Limitations:** Ingle's chapter author line OCR-garbled (decoded); Grossman Ch.11 has no chapter author (cited under the editor); Gulabivala and Ng Ch.8 cited under the editors; Ingle's publisher place taken from the repository convention. The Diogenes and Smith (2019) reference was not in the legacy reference list (the legacy cited it in text only); its entry was built from the locator file's chapter path (Ingle's 7th ed Ch.29 "Regenerative Endodontics") in the same format as the other Ingle's entries; the chapter title page is OCR-ciphered and decodes to "Anibal R. Diogenes, Anthony J. Smith" (letter substitution as for Ch.28), hence Diogenes AR, Smith AJ. Contents-page confirmation still advisable.
 
 ## Source locator ledger
 
@@ -287,7 +287,7 @@ Legacy keys dropped in the conversion (content removed for length): historic ser
 - **Absorbed sittings:** "Management of incompletely formed root apex." 10m Dec 2025 (PII 21-25) and Nov 2013 (RG PIII RS-2); "Management of immature apex." 5m Oct 2019 (PIII 16-21); "Management of open apex." 10m May 2021 (NU PII); "Describe the procedures adopted in the management of non-intact tooth having wide open apical foramen." marks not printed, Sep 1991 (PIII 90-00); "Write about the cause and the management of teeth with open apex. Add a note on the restorative materials used for the same." 20m Mar 2018 (ABS PIII) — covered by sections 3 (causes), 5-9 (management), 10 (materials) and 11-12 (obturation, restoration).
 - **Related questions:** Q02 (50m, non-vital immature anterior tooth), Q03 (apexification, 10m), Q04 (apexogenesis, 10m), P1 (calcium hydroxide vs MTA barrier, 10m) give shorter focused versions; Obturation Q10 (open-apex obturation); TDI T16 (avulsed immature incisor) and TDI P2 (traumatised immature incisor, necrotic pulp); Calcium Silicate Cements topic (MTA/Biodentine material science); Regenerative Endodontics topic (not yet drafted; REP kept as an outline here).
 - **Content omitted and why:** retrieval report, sittings list, HIGH-YIELD, COMMON MISTAKES, MNEMONIC, SOURCE LIST and the separate Explanation layer removed per SKILL 7.1 item 12; important common-mistake points folded into the body (barrier not root; no apex locator; "equal healing, not more successful"; formocresol for primary teeth only; metal posts contraindicated). Detailed historic case series and secondary conflicts listed under the ledger were dropped to meet the 75m range.
-- **Essential omissions / open points:** verify the Diogenes and Smith (2019) reference details; Nolla's stages unsourced.
+- **Essential omissions / open points:** confirm the Diogenes and Smith (2019) author line on the contents page; Nolla's stages unsourced.
 
 ## Revision history
 
@@ -301,7 +301,7 @@ Legacy keys dropped in the conversion (content removed for length): historic ser
 
 - [x] Every factual author-year citation is supported by a verified source.
 - [x] Every numerical value has a traceable source.
-- [ ] Chapter authors, edition, year and bibliographic details are verified or explicitly marked unknown. (Diogenes and Smith 2019 reference entry to be rechecked; others as in the legacy audit.)
+- [ ] Chapter authors, edition, year and bibliographic details are verified or explicitly marked unknown. (Diogenes and Smith 2019 decoded from the OCR cipher, contents page not yet checked; others as in the legacy audit.)
 - [x] Disagreements between sources are represented accurately.
 - [x] Any [RECALL] or interpretive claim is not disguised as a sourced fact.
 - [x] The student-facing answer contains no retrieval report, source locator ledger or generation diagnostics.
