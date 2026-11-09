@@ -23,14 +23,14 @@ F_EXTRA = {
  'p1_bio': (T+'Bioceramics_in_Endodontics_Chapterwise/05_Pages_151_180.md', 32, 'Tonini and Garo, 2024'),
 }
 BOOK_EXTRA = {
- 'p1_Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.11 Vital pulp therapy and apexification (no individual chapter author is named in the file, so the editor is cited).",
- 'p1_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.28 (author line letter-substituted in the extracted file; decodes to Shahrokh Shabahang; verify against the printed book).",
+ 'p1_Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.11 Vital pulp therapy and apexification (no individual chapter author is named in the file, so the editor is cited).",
+ 'p1_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.28 (author confirmed from the book's Contents page; the chapter's own author line is letter-substituted in the extracted file; publisher and year are not printed in the extracted front matter).",
  'p1_Diogenes2021': 'Diogenes A, Botero T, Kang M. Management of the vital pulp and of immature teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.10.',
  'p1_Paranjpe2021': 'Paranjpe A, Noblett WC. Management of traumatic dental injuries. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.11.',
  'p1_Sikri2019': 'Sikri VK. Vital pulp therapy. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.25.',
  'p1_Cvek2007': 'Cvek M. Endodontic management and the use of calcium hydroxide in traumatized permanent teeth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.22.',
  'p1_Bakland2007': 'Bakland LK. New endodontic procedures using mineral trioxide aggregate (MTA) for teeth with traumatic injuries. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.23.',
- 'p1_Kahler2021': "Kahler B. The role of endodontics after dental traumatic injuries. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.21.",
+ 'p1_Kahler2021': "Kahler B. The role of endodontics after dental traumatic injuries. In: Berman LH, Hargreaves KM, editors; Rotstein I, web editor. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.21.",
  'p1_Sigurdsson2017': "Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.",
  'p1_Tonini2024': 'Tonini R, Garo M. Bioceramics as an apical plug. In: Chopra V, editor. Bioceramics in Endodontics. 1st ed. John Wiley & Sons; 2024 (copyright line). Ch.5.',
 }

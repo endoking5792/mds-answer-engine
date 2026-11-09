@@ -3,8 +3,8 @@
 import os
 T = os.environ.get('MDS_TEXTBOOKS', '/home/user/mds-textbooks/')
 # Offsets (printed page = PDF marker - offset), each checked at two pages in the chapter:
-#   Ingle's Ch.28: PDF 805 = printed 911, PDF 812 = 918  -> -106. Author line OCR-garbled ("S!"!&'(! S!")"!"*+"), decoded
-#                  letter by letter as Shahrokh Shabahang (verify against the printed book).
+#   Ingle's Ch.28: PDF 805 = printed 911, PDF 812 = 918  -> -106. Chapter-opening author line is OCR-garbled; the contents page
+#                  (00_Front_matter.md) prints "Shahrokh Shabahang" for Ch.28 (audit u2, locator u2_i28_auth).
 #   Grossman Ch.11: PDF 216 = 191, PDF 231 = 206 -> 25.  Grossman Ch.12: PDF 241 = 216, PDF 242 = 217 -> 25.
 #   Torabinejad 6th Ch.10: PDF 183 = 176, PDF 194 = 187 -> 7.
 #   Andreasen Ch.22 (Cvek): PDF 614 = 598, PDF 638 = 622 -> 16.  Ch.23 (Bakland): PDF 674 = 658, PDF 679 = 663 -> 16.
@@ -32,7 +32,7 @@ F_EXTRA = {
  'q02_gl2': (T+'Glossary_of_Endodontic_Terms_Chapterwise/01_Pages_31_52.md', None, 'American Association of Endodontists, 2012'),
 }
 BOOK_EXTRA = {
- 'q02_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH USA; 2019. Ch.28 (author line decoded from a damaged OCR heading; verify against the printed book).",
+ 'q02_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH USA; 2019. Ch.28 (copyright page not in the extraction; place and year not verified).",
  'q02_Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.11 Vital pulp therapy and apexification; Ch.12 Regenerative endodontics (no individual chapter author is named in the file, so the editor is cited).",
  'q02_Diogenes2021tor': "Diogenes A, Botero T, Kang M. Management of the vital pulp and of immature teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.10.",
  'q02_Cvek2007': "Cvek M. Endodontic management and the use of calcium hydroxide in traumatized permanent teeth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.22.",
@@ -41,11 +41,11 @@ BOOK_EXTRA = {
  'q02_Kahler2021': "Kahler B. The role of endodontics after dental traumatic injuries. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.21.",
  'q02_Sigurdsson2017': "Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.",
  'q02_Sikri2019': "Sikri VK. Vital pulp therapy. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.25 (includes apexification).",
- 'q02_Weine2004': "Weine FS. Alternatives to routine endodontic treatment. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.14.",
- 'q02_Gutmann2011': "Gutmann JL, Lovdahl PE. Problem-solving challenges in compromised roots, root canal systems, and anatomic deviations. In: Problem Solving in Endodontics. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.13.",
+ 'q02_Weine2004': "Weine FS. Endodontic therapy. 6th ed. St Louis: Mosby; 2004. Ch.14, Alternatives to routine endodontic treatment.",
+ 'q02_Gutmann2011': "Gutmann JL, Lovdahl PE. Problem solving in endodontics: prevention, identification, and management. 5th ed. Maryland Heights (MO): Mosby Elsevier; 2011. Ch.13, Problem-solving challenges in compromised roots, root canal systems, and anatomic deviations.",
  'q02_Kang2017': "Kang MK, Bogen G. Regenerative approaches in endodontic therapies of immature teeth. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.5.",
  'q02_Tonini2024': "Tonini R, Garo M. Bioceramics as an apical plug. In: Chopra V, editor. Bioceramics in Endodontics. Hoboken: Wiley; 2024. Ch.5.",
- 'q02_Baumann2010': "Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 Endodontics in the mixed dentition.",
+ 'q02_Baumann2010': "Baumann MA, Beer R. Endodontology. 2nd ed (English translation of the 2nd German edition). Stuttgart: Thieme; 2010. Ch.46 Endodontics in the mixed dentition (chapter author not printed).",
  'q02_AAE2012': "American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.",
 }
 LIT = {}
