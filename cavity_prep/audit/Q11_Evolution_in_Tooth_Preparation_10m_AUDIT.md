@@ -36,7 +36,7 @@
 ## Evidence and uncertainty notes
 
 - **Historical interpretation:** The answer presents the shift as a change in dominant philosophy, not as a claim that all elements of Black’s principles have become obsolete.
-- **Modern clinical statements:** Selective caries removal, restoration repair and contemporary preventive management were retained as concise clinical examples. The legacy source set is textbook-based and no new guideline review was undertaken in this migration.
+- **Modern clinical statements:** The answer stays with the historical shift toward prevention, sealing susceptible sites and conserving tooth structure. No new guideline recommendations were added; no new guideline review was undertaken in this migration.
 - **Bibliographic details:** Chapter and edition details were retained from the legacy source list. Confirm any future edition-specific bibliographic correction against the printed source before materially revising the answer.
 
 ## Coverage and overlap
