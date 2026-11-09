@@ -38,7 +38,7 @@ Read `WORKFLOW.md` (Rules 1-7) and `HANDOFF.md`. Add a row to the claim table in
    cd ~/mds-textbooks && for f in */*.md; do n=$(grep -o -i "perforat" "$f" | wc -l); [ $n -gt 25 ] && echo "$n $f"; done | sort -rn | head
    ```
 2. **Read the chapters, do not just count hits.** A dedicated chapter in a less obvious book (e.g. *Endodontology* Ch.43 "Perforations", *Problems in Endodontics* Ch.17, the complete 6th edition of Torabinejad's *Endodontics: Principles and Practice*) often beats the big textbook.
-3. Check whether a file is complete: one extract (Walton & Torabinejad 3rd ed Ch.18) stopped half way; the 6th edition was complete. Say so in the answer's retrieval report.
+3. Check whether a file is complete: one extract (Walton & Torabinejad 3rd ed Ch.18) stopped half way; the 6th edition was complete. Record the retrieval limitation in the internal audit sidecar, not in the student-facing answer.
 4. Get the chapter author(s) from the chapter's first lines and cite by author-year (e.g. "Terauchi and Renton, 2021" for Cohen's Ch.20). If the author line is garbled, decode it and flag it as "verify against the printed book".
 5. Work out the page offset per chapter: find a visible printed page number next to a `<!-- PDF page N -->` marker at two or more places. If you cannot confirm it, cite the PDF page only (`offset None`). Offsets differ between chapters of the same book.
 
@@ -51,29 +51,35 @@ Copy `templates/canonical_topic/` to `<topic>/`. In `locators.py`:
 
 Run `python3 locators.py`. It must print `missing 0`. Fix or replace every missing phrase; never keep a fact whose phrase you cannot find.
 
-## 5. Draft one canonical answer per question
+## 5. Draft one definitive examination-ready answer per question
 
-File: `<topic>/canonical/QNN_<Short_Title>_<marks>m_CANONICAL.md` (template provided). Structure, as in Section 7.1 item 12 of the skill:
+File: `<topic>/canonical/QNN_<Short_Title>_<marks>m_CANONICAL.md` (or the agreed topic-specific filename).
 
-- Header: question exactly as printed, marks, sitting, absorbed repeats, the "How to read" line (with the `EXAMWORDS`/`EXAMMIN` placeholders that the script fills), and a short **retrieval report** (what was read, what was not, whether a live search was run).
-- `<!--LOC: ...-->` with the locator keys used and `<!--REF: ...-->` with the reference keys.
-- Numbered sections. Each has `### Explanation` (study-level reasoning; every textbook fact ends `(Author, Year) [SRC]`), then `#### ✎ Exam core` (what the student writes in the exam: headings, short paragraphs, tables, author-year citations).
-- Then: CRITICAL EVIDENCE SYNTHESIS (20m and above; 25m one short claim; omit for 10m/5m unless "critically"), HIGH-YIELD POINTS, DIAGRAMS TO DRAW, COMMON EXAM MISTAKES, MNEMONIC.
+**The answer is the teaching text and the examination script.** Do not write a separate Study Mode explanation followed by an Exam Core. Students should be able to read the answer and reproduce the same structure and content in the examination.
 
-Rules that matter most:
-- **Exam-core length** must fall in the Section 7 range: 100m 3200-3500, 75m 2550-3000, 50m 1700-2000, 25m 850-1000, 20m 680-800, 10m 320-400, 5m 160-200 words. The script counts it and writes a FAILURE DISCLOSURE line if it is out of range. Expand from sourced material (not padding) or cut.
-- **Where books disagree, name each author and show both side by side; never rank or silently pick one.** If a book is plainly wrong (e.g. "the main advantage of MTA is its long setting time" where its own next clause shows it means disadvantage), say so and show why.
-- Anything not from a book read this session is `[RECALL]`, with no author, year or page attached. Use `[Certain]`/`[Likely]`/`[Guessing]` on interpretive or contested statements. A fabricated citation is a total failure; a missing one is minor.
-- Each canonical answer must stand alone: a short answer may point to a longer one, but its exam core must not depend on it.
-- Answer the large questions first (75m/100m), then the shorter ones reuse their locators.
+For 10- and 20-mark questions, begin with a compact **Answer blueprint** that previews the exact heading sequence to reproduce. The body then follows that sequence. Use a concise introduction/definition, question-specific main headings, mechanism/rationale where relevant, clinical significance/applications where relevant, and a concise conclusion. Adapt to the command word: use tables for comparisons, numbered steps for procedures, classifications where asked, and evidence synthesis only when the question warrants it.
 
-## 6. Build sources and check
+Write comprehensively but economically. Retain established Section 7 mark-based word ranges as calibration, not as a target that justifies padding or omission. Include only material with direct examination, scientific or clinical value. Do not force a generic section structure onto every question.
 
-```bash
-cd <topic> && python3 locators.py && python3 build_sources.py canonical/*.md
-```
-Then run `python3 check_answers.py canonical/*.md` (quotes verbatim in the books; exam-core numbers traced to locators). `build_sources.py` fills the word count and writing time, adds the SOURCE LIST (file, PDF page, printed page, verbatim phrase for every locator) and the alphabetical REFERENCES from `BOOK`, and flags length failures. Re-run it after every edit. Add any new reference to `BOOK`.
+Assess whether a hand-reproducible diagram, flowchart, algorithm or table would materially improve the answer. Include a brief drawing cue with title, elements and labels. Bold only key definitions, principles, distinctions, values and clinical implications.
 
+**Remove from student-facing answers:** retrieval reports, source-search queries, source inventories, verbatim locator lists, overlap/repeat reports, generation diagnostics, mnemonics, generic high-yield recaps and generic common-mistake lists. Incorporate any genuinely important content into the main answer.
+
+**Citations:** use author-year attribution in the prose, naming chapter authors where verified. End with a numbered reference list formatted in Vancouver bibliographic style and ordered by first citation. This is the agreed hybrid: author-year in-text citations plus Vancouver-formatted bibliography. Never invent bibliographic details or page numbers.
+
+## 6. Build sources, audit and check
+
+Keep source provenance separate from the student-facing answer.
+
+- Use `locators.py` to verify each [SRC] phrase against the source file. It must print `missing 0`.
+- Use `build_sources.py` and `check_answers.py` as applicable to build/check the source evidence.
+- Save the retrieval report, source inventory, verbatim locators, [RECALL] or uncertainty flags, overlap notes, and revision history in a per-question audit sidecar under `<topic>/audit/`. Use `templates/canonical_topic/AUDIT_REPORT_TEMPLATE.md`.
+- The audit sidecar is an internal editing record; do not publish it to the Answer Bank or include it in the student-facing Markdown.
+- The student-facing answer retains its author-attributed prose citations and Vancouver-formatted reference list.
+- Reuse verified passages and topic dossiers. Do not repeat retrieval or live searches if the existing evidence is sufficient. Re-run only the checks affected by a substantive edit.
+
+Before publishing, confirm: the answer stands alone; its headings form a usable exam sequence; the depth is appropriate for the marks; citations are traceable; references are complete and consistently formatted; visuals add value; no generation/audit material or redundant study/exam layer remains.
+ 
 ## 7. Publish (additive only)
 
 Publish to the **Answer Bank site** (https://mds-answer-bank.pages.dev) following **WORKFLOW.md Rule 7**: in `~/mds-answer-bank`, `git pull`, then `python3 scripts/add_answers.py "<Subject>" "<Topic>" <topic>/canonical/`, then commit and push (the script strips `_CANONICAL`, never deletes, and prints the manifest count before -> after). Do not publish to the old Answer Bank artifact (frozen at Version 65). Then copy the files to your vault if you keep one. Do not build `.docx` files unless asked (skill Section 7.1 item 13).
