@@ -10,7 +10,7 @@ T = os.environ.get('MDS_TEXTBOOKS', '/home/user/mds-textbooks/')
 #   Andreasen Ch.22 (Cvek): PDF 614 = 598, PDF 638 = 622 -> 16.  Ch.23 (Bakland): PDF 674 = 658, PDF 679 = 663 -> 16.
 #   Harty's Ch.12: PDF 271 = 255, PDF 272 = 256 -> 16.   Sikri Ch.25: PDF 462 = 441, PDF 478 = 457 -> 21.
 #   Gutmann Ch.13: PDF 253 = 242, PDF 254 = 243 -> 11.   Endodontic Prognosis Ch.5: PDF 74 = 65, PDF 84 = 75 -> 9.
-#   Bioceramics Ch.5 (pages 151-180 file): PDF 161 = 129, PDF 163 = 131 -> 32.  Endodontology Ch.46: PDF 378 = 361, PDF 379 = 362 -> 17.
+#   Bioceramics Ch.5 (pages 151-180 file): PDF 161 = 129, PDF 163 = 131 -> 32.  Endodontology Ch.46 (Buerkle and Meissner, per contents page): PDF 378 = 361, PDF 379 = 362 -> 17.
 #   Cohen's Ch.12 and Ch.21, Weine's Ch.14 and the Glossary: printed numbers not confirmable at two pages -> None.
 F_EXTRA = {
  'q02_ing': (T+'Ingles_Endodontics_7th_Chapterwise/28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md', -106, 'Shabahang, 2019'),
@@ -27,7 +27,7 @@ F_EXTRA = {
  'q02_gut': (T+'Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Roots_R.md', 11, 'Gutmann and Lovdahl, 2011'),
  'q02_prog': (T+'Endodontic_Prognosis_Clinical_Guide_Chapterwise/05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Immatur.md', 9, 'Kang and Bogen, 2017'),
  'q02_bio': (T+'Bioceramics_in_Endodontics_Chapterwise/05_Pages_151_180.md', 32, 'Tonini and Garo, 2024'),
- 'q02_edl': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Baumann and Beer, 2010'),
+ 'q02_edl': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Buerkle and Meissner, 2010'),
  'q02_gl': (T+'Glossary_of_Endodontic_Terms_Chapterwise/00_Pages_1_30.md', None, 'American Association of Endodontists, 2012'),
  'q02_gl2': (T+'Glossary_of_Endodontic_Terms_Chapterwise/01_Pages_31_52.md', None, 'American Association of Endodontists, 2012'),
 }
@@ -45,7 +45,7 @@ BOOK_EXTRA = {
  'q02_Gutmann2011': "Gutmann JL, Lovdahl PE. Problem solving in endodontics: prevention, identification, and management. 5th ed. Maryland Heights (MO): Mosby Elsevier; 2011. Ch.13, Problem-solving challenges in compromised roots, root canal systems, and anatomic deviations.",
  'q02_Kang2017': "Kang MK, Bogen G. Regenerative approaches in endodontic therapies of immature teeth. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.5.",
  'q02_Tonini2024': "Tonini R, Garo M. Bioceramics as an apical plug. In: Chopra V, editor. Bioceramics in Endodontics. Hoboken: Wiley; 2024. Ch.5.",
- 'q02_Baumann2010': "Baumann MA, Beer R. Endodontology. 2nd ed (English translation of the 2nd German edition). Stuttgart: Thieme; 2010. Ch.46 Endodontics in the mixed dentition (chapter author not printed).",
+ 'q02_Baumann2010': "Buerkle V, Meissner N. Endodontics in the mixed dentition. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 (chapter authors from the contents page; the English edition is a translation of the 2nd German edition, © 2010 Georg Thieme Verlag).",
  'q02_AAE2012': "American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.",
 }
 LIT = {}
