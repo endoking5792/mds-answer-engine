@@ -1,30 +1,39 @@
-# "<Question wording exactly as printed>" (canonical answer)
+# Canonical examination-ready answer template
 
-**Marks:** <n>m, <Essay/Short Essay>
-**Sitting:** <sitting>. Repeats absorbed: <other wordings with marks and sittings>.
+> Use this as a flexible starting point, not a rigid form. Adapt headings to the command word, topic and marks.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: EXAMWORDS words, about EXAMMIN minutes at 22 words a minute (Section 7 range <lo>-<hi> words for <n> marks).
+# <Question wording exactly as set>
 
-**Retrieval report.** Read in full: <chapters, with chapter authors>. Searched and read in part: <...>. Not used: <...>. Live search: <none / what>.
+**Marks:** <N> · <Question type>
 
-<!--LOC: key1, key2-->
+**Answer blueprint** *(include for 10- and 20-mark questions; optional where the question is self-evidently short)*: <Heading 1> → <Heading 2> → <Heading 3> → <Clinical application> → <Conclusion>.
 
-<!--REF: RefKey1, RefKey2-->
+## Introduction
 
-## 1. <Section heading>
+<Define the central concept and establish the context in a few sentences.>
 
-### Explanation
+## <Question-specific main heading>
 
-<Study-level reasoning, every fact cited (Author, Year) [SRC]; disagreements between books shown side by side, never ranked.>
+<Write the complete explanation in examination-ready language. The student should read and reproduce this content; do not create a separate Study Mode or Exam Core. Cite factual claims in author-year form, e.g. (Chapter Author, 2021).>
 
-#### ✎ Exam core
+## <Additional heading as required>
 
-<What the student writes: headings, short paragraphs, tables. Cite (Author, Year) but no [SRC] tags needed here.>
+<Use tables, classifications, numbered steps, mechanisms, indications/contraindications or comparisons where they directly answer the question.>
 
-## CRITICAL EVIDENCE SYNTHESIS
-<20m and above only: claim, textbook, refinement/challenge, strength, conclusion, with [Certain]/[Likely]/[Guessing].>
+## Clinical significance / applications
 
-## HIGH-YIELD POINTS
-## DIAGRAMS TO DRAW
-## COMMON EXAM MISTAKES
-## MNEMONIC
+<Include only where it adds examination or clinical value.>
+
+**Diagram / table to include:** <Only when useful; give title, essential elements and labels.>
+
+## Conclusion
+
+<Short synthesis that answers the question directly.>
+
+## References
+
+1. <Vancouver-formatted bibliographic reference, ordered by first citation.>
+
+---
+
+**Do not include in this file:** retrieval reports, source-search queries, source inventories, verbatim source locators, overlap/repeat reports, generation diagnostics, mnemonics, generic high-yield recaps or generic common-mistake lists. Store provenance and revision details in a separate audit sidecar.

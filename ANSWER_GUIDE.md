@@ -1,6 +1,6 @@
 # How to draft answers the way Niranjan does (guide for Rosy, Medhinir and any new collaborator)
 
-This is the practical companion to the governing skill (`skill/dental-study-material-SKILL.md`, Section 7) and `WORKFLOW.md`. It describes the current method (October 2026): **one canonical answer per question**, built directly from the textbooks, with every textbook fact traceable to a verbatim phrase on a page. The finished worked example is `procedural_errors/` (12 answers, 378 verified locators). Copy its pattern.
+This is the practical companion to the governing skill (`skill/dental-study-material-SKILL.md`, Section 7) and `WORKFLOW.md`. It describes the current method (October 2026): **one canonical answer per question**, built directly from the textbooks, with every textbook fact traceable to a verbatim phrase on a page. The finished worked example of the current standard is `apexification/` (5 answers with audit sidecars); `procedural_errors/` (12 answers, 378 verified locators) shows question grouping and locators in the older layout. For a fresh session, `SESSION_PROMPT.md` is the step-by-step instruction.
 
 ## 0. One-time setup
 
@@ -72,7 +72,7 @@ Assess whether a hand-reproducible diagram, flowchart, algorithm or table would 
 Keep source provenance separate from the student-facing answer.
 
 - Use `locators.py` to verify each [SRC] phrase against the source file. It must print `missing 0`.
-- Use `build_sources.py` and `check_answers.py` as applicable to build/check the source evidence.
+- Write one audit sidecar per answer (`<topic>/audit/<ID>_..._AUDIT.md`, from `templates/canonical_topic/AUDIT_REPORT_TEMPLATE.md`) listing its locator keys in `<!--LOC: ... -->`, then run `python3 build_audit.py audit/<ID>_*_AUDIT.md` from the topic folder. It resolves every key, rebuilds the ledger, checks that quoted phrases are verbatim, that cited surnames match the reference list, that body numbers have a locator, and the body word count against the Section 7 calibration range. (`templates/canonical_topic/legacy_v1_tools/` holds the old `build_sources.py` / `check_answers.py` for the superseded Explanation + Exam core layout only.)
 - Save the retrieval report, source inventory, verbatim locators, [RECALL] or uncertainty flags, overlap notes, and revision history in a per-question audit sidecar under `<topic>/audit/`. Use `templates/canonical_topic/AUDIT_REPORT_TEMPLATE.md`.
 - The audit sidecar is an internal editing record; do not publish it to the Answer Bank or include it in the student-facing Markdown.
 - The student-facing answer retains its author-attributed prose citations and Vancouver-formatted reference list.
@@ -88,7 +88,11 @@ Publish to the **Answer Bank site** (https://mds-answer-bank.pages.dev) followin
 
 Update the topic row in `WORKFLOW.md`, add a status line to the top of `HANDOFF.md`, keep a short `<topic>/HANDOFF_<topic>.md` (file table, sources and offsets, open points), commit and push. Never commit textbook passages beyond the short locator phrases: this repo is public.
 
-## Reference: what to look at in `procedural_errors/`
+## Reference: worked examples
+
+`apexification/` is the first topic written to the unified standard (student answers in `canonical/`, sidecars in `audit/`, `build_audit.py`, `HANDOFF_apexification.md`). The table below describes `procedural_errors/`, which is useful for question grouping and locators but uses the superseded Explanation + Exam core layout.
+
+### `procedural_errors/`
 
 | File | Shows |
 |---|---|
