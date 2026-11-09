@@ -38,7 +38,7 @@ Read `WORKFLOW.md` (Rules 1-7) and `HANDOFF.md`. Add a row to the claim table in
    cd ~/mds-textbooks && for f in */*.md; do n=$(grep -o -i "perforat" "$f" | wc -l); [ $n -gt 25 ] && echo "$n $f"; done | sort -rn | head
    ```
 2. **Read the chapters, do not just count hits.** A dedicated chapter in a less obvious book (e.g. *Endodontology* Ch.43 "Perforations", *Problems in Endodontics* Ch.17, the complete 6th edition of Torabinejad's *Endodontics: Principles and Practice*) often beats the big textbook.
-3. Check whether a file is complete: one extract (Walton & Torabinejad 3rd ed Ch.18) stopped half way; the 6th edition was complete. Say so in the answer's retrieval report.
+3. Check whether a file is complete: one extract (Walton & Torabinejad 3rd ed Ch.18) stopped half way; the 6th edition was complete. Record the retrieval limitation in the internal audit sidecar, not in the student-facing answer.
 4. Get the chapter author(s) from the chapter's first lines and cite by author-year (e.g. "Terauchi and Renton, 2021" for Cohen's Ch.20). If the author line is garbled, decode it and flag it as "verify against the printed book".
 5. Work out the page offset per chapter: find a visible printed page number next to a `<!-- PDF page N -->` marker at two or more places. If you cannot confirm it, cite the PDF page only (`offset None`). Offsets differ between chapters of the same book.
 
