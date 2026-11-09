@@ -6,7 +6,7 @@
 
 ## Definition
 
-**Apexification** is "a method to induce a calcified barrier in a root with an open apex" in teeth with necrotic pulps (American Association of Endodontists, 2012), now also called **root-end closure** (Pitt Ford and Shabahang, 2002). The root does **not lengthen or thicken** (Diogenes, Botero and Kang, 2021). Aim: a barrier against which filling is condensed without extrusion (Sikri, 2019).
+**Apexification** is "A method to induce a calcified barrier in a root with an open apex" in teeth with necrotic pulps (American Association of Endodontists, 2012), now also called **root-end closure** (Pitt Ford and Shabahang, 2002). The root does **not lengthen or thicken** (Diogenes, Botero and Kang, 2021). Aim: a barrier against which filling is condensed without extrusion (Sikri, 2019).
 
 ## Indications and contraindications
 
