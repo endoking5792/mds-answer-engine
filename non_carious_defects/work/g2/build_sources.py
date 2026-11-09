@@ -15,6 +15,10 @@ BOOK = {
  'g2_Kaidonis2016': "Kaidonis J, Richards LC, Townsend GC, Heithersay GS. Non-carious tooth structure loss: diagnosis, risk and activity assessment and clinical management (Ch.4); Ngo HC, Wolff MS, Hume WR. Dental caries: activity and risk assessment (Ch.3). In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley; 2016.",
  'g2_Alani2025': "Alani A, Patel M. Treating anterior tooth surface loss. In: Adhesive Techniques in Restorative Dentistry. BDJ Clinician's Guides. Cham: Springer Nature Switzerland; 2025. Ch.7.",
  'g2_Marzouk': "Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis: Ishiyaku EuroAmerica (publication year not printed). Ch.27 Non-carious destruction and disfigurement of teeth.",
+ 'g2_WangLussi2010': "Wang X, Lussi A. Assessment and management of dental erosion. Dent Clin North Am. 2010;54(3):565-578. https://doi.org/10.1016/j.cden.2010.03.003 (full text read).",
+ 'g2_HaraZero2010': "Hara AT, Zero DT. The caries environment: saliva, pellicle, diet, and hard tissue ultrastructure. Dent Clin North Am. 2010;54(3):455-467. https://doi.org/10.1016/j.cden.2010.03.008 (full text read).",
+ 'g2_GonzalezCabezas2010': "Gonzalez-Cabezas C. The chemistry of caries: remineralization and demineralization events with direct clinical relevance. Dent Clin North Am. 2010;54(3):469-478. https://doi.org/10.1016/j.cden.2010.03.004 (full text read).",
+ 'g2_Fontana2010': "Fontana M, Young DA, Wolff MS, Pitts NB, Longbottom C. Defining dental caries for 2010 and beyond. Dent Clin North Am. 2010;54(3):423-440. https://doi.org/10.1016/j.cden.2010.03.007 (full text read).",
 }
 LIT = {
  'g2_Schlueter2018': "Schlueter N, Luka B. Erosive tooth wear - a review on global prevalence and on its prevalence in risk groups. Br Dent J. 2018;224(5):364-370. https://doi.org/10.1038/sj.bdj.2018.167 (PMID 29495027; abstract read).",

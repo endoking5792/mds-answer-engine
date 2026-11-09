@@ -14,6 +14,7 @@ L = {
  # 'g_ledgedef': ('gro', 'Ledge is an artificially created deviation of the root canal wall'),
 }
 def norm(s):
+    s = s.replace('\ufb01','fi').replace('\ufb02','fl').replace('\ufb00','ff')
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
     return s.strip()

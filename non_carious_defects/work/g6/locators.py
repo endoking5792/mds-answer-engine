@@ -19,6 +19,11 @@ F = {
  'det': (T+'Operative_and_Dental_Materials_Textbooks/Detection_and_Assessment_of_Dental_Caries.md', 6, 'Machiulskiene, 2019'),
  'alani': (T+'Operative_and_Dental_Materials_Textbooks/Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.md', 20, 'Alani and Patel, 2025'),
  'mount': (T+'Operative_and_Dental_Materials_Textbooks/Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount et al, 2016'),
+ 'dcna_peters': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853210000327.pdf'), -506, 'Peters, 2010'),
+ 'dcna_gc': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853210000200.pdf'), -468, 'Gonzalez-Cabezas, 2010'),
+ 'dcna_fontana': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853210000340.pdf'), -422, 'Fontana et al, 2010'),
+ 'dcna_dayo': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853221000148.pdf'), -426, 'Dayo et al, 2021'),
+ 'dcna_zhang': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853217300666.pdf'), -668, 'Zhang et al, 2017'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
 #   Pick clean text: avoid OCR ligature damage ("0e", "!le"), hyphen breaks and figure captions.
@@ -181,6 +186,33 @@ L = {
  'g6_pick_detect': ('pick', "Fibreoptic transillumination UV illumination"),
  'g6_pick_diagnodent': ('pick', "the DiagnoDent laserfluorescence caries detection system"),
  'g6_stu_devacc': ('stu', "their diagnostic accuracy has not been firmly established"),
+ # DCNA audit (auditor C)
+ 'g6_dcna_fon_colour': ('dcna_fontana', "even though color is very misleading as these lesions can be white, brown"),
+ 'g6_dcna_fon_notinit': ('dcna_fontana', "not all white-spot lesions are either initial (beginning lesions) or incipient, as they may be present for many years and may involve enamel and/or dentin"),
+ 'g6_dcna_fon_fluor': ('dcna_fontana', "caused by excessive ingestion of fluoride during the transition and early maturation stages of enamel"),
+ 'g6_dcna_fon_1530': ('dcna_fontana', "15–30 months for central incisors"),
+ 'g6_dcna_fon_active': ('dcna_fontana', "Lesion is likely active when surface of enamel is whitish/yellowish opaque and chalky (with loss of luster)"),
+ 'g6_dcna_fon_remin': ('dcna_fontana', "decreased size of white-spot lesions, increased hardness of the surface, and increased surface sheen"),
+ 'g6_dcna_fon_watch': ('dcna_fontana', "it is necessary to avoid using this term and make the best possible diagnostic call"),
+ 'g6_dcna_pet_73': ('dcna_peters', "The unbelievably high incidence of 73% of new white spot lesions during fixed orthodontic treatment"),
+ 'g6_dcna_pet_scar': ('dcna_peters', "may remain forever visible as white or brown scar tissue"),
+ 'g6_dcna_pet_resist': ('dcna_peters', "these areas are more resistant to a subsequent caries attack than sound enamel"),
+ 'g6_dcna_pet_hyposal': ('dcna_peters', "supplementing fluorides with home applications of amorphous and reactive calcium phosphate complexes may greatly assist remineralization"),
+ 'g6_dcna_pet_capnot': ('dcna_peters', "Application of these products cannot yet be recommended as evidence-based caries-preventive measures"),
+ 'g6_dcna_pet_rinoremin': ('dcna_peters', "the resin, once placed, will make natural remineralization therapy impossible"),
+ 'g6_dcna_pet_riout': ('dcna_peters', "judgment about its clinical efficacy is still out"),
+ 'g6_dcna_gc_signal': ('dcna_gc', "most of the detection signal comes from the body of the lesion"),
+ 'g6_dcna_gc_resist': ('dcna_gc', "it is more resistant to demineralization than sound enamel"),
+ 'g6_dcna_gc_notbetter': ('dcna_gc', "so far none of them have been shown to be more effective than fluoride"),
+ 'g6_dcna_dayo_3040': ('dcna_dayo', "Approximately 30% to 40% of mineral loss is necessary before an early enamel caries lesion is visible radiographically"),
+ 'g6_dcna_dayo_203': ('dcna_dayo', "white spot lesions out of 305 being incorrectly scored as sound on radiographs"),
+ 'g6_dcna_dayo_e2d1': ('dcna_dayo', "E2 lesions demonstrate surface cavitation less than 11% of the time, and D1 lesions demonstrate surface cavitation 41% of the time"),
+ 'g6_dcna_dayo_inact': ('dcna_dayo', "inactive/arrested lesions are frosty/matte in luster with a roughened surface"),
+ 'g6_dcna_dayo_qlf': ('dcna_dayo', "Stains on tooth surface and fluorosis give false positives"),
+ 'g6_dcna_dayo_mw': ('dcna_dayo', "false positive signals from malformed teeth, dark stains, dental fluorosis, hypoplasia, plaque, and calculus"),
+ 'g6_dcna_zh_common': ('dcna_zhang', "white spot lesions around orthodontic brackets are still common"),
+ 'g6_dcna_zh_Falone': ('dcna_zhang', "This indicates that fluoride ions alone cannot prevent enamel demineralization"),
+ 'g6_dcna_zh_4agents': ('dcna_zhang', "4 bioactive agents (MPC, DMAHDM, NAg, and NACP) were incorporated into an RMGI"),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

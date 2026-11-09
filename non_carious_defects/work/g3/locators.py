@@ -10,6 +10,10 @@ F = {
  'g3_mn': (T+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount and Ngo, 2016'),
  'g3_gs': (T+'Esthetics_in_Dentistry_Goldstein.md', 36, 'Goldstein et al, 2018'),
  'g3_nk': (T+'Hybridization_of_Dental_Hard_Tissues.md', 16, 'Nakabayashi and Pashley, 1998'),
+ 'g3_dcna_br': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853217300678.pdf'), -712, 'Bedran-Russo et al, 2017'),
+ 'g3_dcna_fr': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853222034541.pdf'), -502, 'Fronza et al, 2022'),
+ 'g3_dcna_pu': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853207000183.pdf'), -658, 'Puckett et al, 2007'),
+ 'g3_dcna_pf': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S001185321730068X.pdf'), -732, 'Pfeifer, 2017'),
 }
 L = {
  'g3_ov_def': ('g3_ov', 'Class 5 lesions are carious and noncarious defects found in the gingival third of facial and lingual tooth surfaces'),
@@ -178,8 +182,30 @@ L = {
  'g3_ov_expensive': ('g3_ov', 'more expensive and more invasive than direct restorations'),
  'g3_mt_prophy': ('g3_mt', 'a thorough dental prophylaxis should precede any clinical examination of patients at risk for root caries'),
  'g3_mt_gentle': ('g3_mt', 'it is important to conduct the tactile exploration gently'),
+ 'g3_dcna_br_scler': ('g3_dcna_br', 'sclerotic dentin is generally hypermineralized with the presence of intratubular mineral deposits'),
+ 'g3_dcna_br_30s': ('g3_dcna_br', 'surface etched with phosphoric acid for additional time (up to 30 seconds)'),
+ 'g3_dcna_br_rough': ('g3_dcna_br', 'gently mechanically roughened'),
+ 'g3_dcna_br_meta': ('g3_dcna_br', 'field isolation and type of adhesive system are factors that affect the clinical performance of these restorations'),
+ 'g3_dcna_br_desens': ('g3_dcna_br', 'Desensitizers that do not precipitate at the surface of the tooth do not affect the bond strength'),
+ 'g3_dcna_br_steps': ('g3_dcna_br', 'have shown better performance than other systems with a reduced numbers of steps'),
+ 'g3_dcna_br_aio': ('g3_dcna_br', 'studies have reported poorer clinical outcomes for all-in-one systems'),
+ 'g3_dcna_fr_gse': ('g3_dcna_fr', 'placed with the modified adhesives were statistically lower than that of the control adhesive'),
+ 'g3_dcna_fr_gsedc': ('g3_dcna_fr', 'reduced degree of conversion of the adhesives, as proanthocyanidins are free-radicals scavengers'),
+ 'g3_dcna_fr_cu': ('g3_dcna_fr', 'The addition of 0.1 wt% copper nanoparticles in a commercial one-bottle universal adhesive'),
+ 'g3_dcna_fr_cu18': ('g3_dcna_fr', 'improved the retention rate and marginal sealing of noncarious cervical lesions restorations after 18 months'),
+ 'g3_dcna_fr_chx': ('g3_dcna_fr', 'as an additional priming step on etched dentin to inhibit the MMPs is the only protocol that can be easily applied in clinical practice'),
+ 'g3_dcna_fr_exp': ('g3_dcna_fr', 'Most of the strategies to improve the durability of the adhesive interface are still experimental'),
+ 'g3_dcna_pu_micro': ('g3_dcna_pu', 'microfilled composite resins are indicated for Class V restorations'),
+ 'g3_dcna_pu_flow': ('g3_dcna_pu', 'Some clinicians prefer to use flowable composites for Class V carious lesions'),
+ 'g3_dcna_pu_flex': ('g3_dcna_pu', 'Theoretically, flowable composites will flex with the tooth in the areas of stress'),
+ 'g3_dcna_pu_comp': ('g3_dcna_pu', 'Many clinicians prefer compomers for use in Class V situations, especially if enamel is available for bonding and a limited fluoride release is desirable'),
+ 'g3_dcna_pu_etch': ('g3_dcna_pu', 'make the acid etching step an absolute necessity to improve the retention rate and decrease marginal leakage'),
+ 'g3_dcna_pf_sa40': ('g3_dcna_pf', 'When used to restore noncarious cervical lesions, 1 study found very poor results: of 40 restorations, 27 presented as clinically unacceptable after only 6 months of follow-up'),
+ 'g3_dcna_pf_saind': ('g3_dcna_pf', 'self-adhesive flowable composites are recommended for small pit and fissure lesions, small class I and II and, in limited cases, class V restorations'),
+ 'g3_dcna_pf_micro': ('g3_dcna_pf', 'relatively small class III and class V restorations'),
 }
 def norm(s):
+    s = s.replace('\ufb01','fi').replace('\ufb02','fl').replace('\ufb00','ff')
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
     return s.strip()

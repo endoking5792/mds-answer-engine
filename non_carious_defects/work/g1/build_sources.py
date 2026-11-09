@@ -14,6 +14,8 @@ BOOK = {
  'Torres2020': "Torres CRG, et al. Diagnosis and treatment planning (co-authors abbreviated in the running head). In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.",
  'Garg2011': "Garg N, Garg A. Textbook of Preclinical Conservative Dentistry. 1st ed. New Delhi: Jaypee Brothers Medical Publishers; 2011. Ch.2 Tooth nomenclature (nomenclature of non-carious defects).",
  'Overton2013': "Overton JD, Hilton TJ, LittleStar ML, Starr CB. Class 5 restorations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.15 (cited by PDF page; printed page numbers absent from the file).",
+ 'WangLussi2010': "Wang X, Lussi A. Assessment and management of dental erosion. Dent Clin North Am. 2010;54(3):565-578. https://doi.org/10.1016/j.cden.2010.03.003 (full text read).",
+ 'Fontana2010': "Fontana M, Young DA, Wolff MS, Pitts NB, Longbottom C. Defining dental caries for 2010 and beyond. Dent Clin North Am. 2010;54(3):423-440. https://doi.org/10.1016/j.cden.2010.03.007 (full text read).",
 }
 LIT = {
  'Bartlett2008': "Bartlett D, Ganss C, Lussi A. Basic Erosive Wear Examination (BEWE): a new scoring system for scientific and clinical needs. Clin Oral Investig. 2008;12(Suppl 1):S65-8. PMID 18228057. https://doi.org/10.1007/s00784-007-0181-5 (PubMed abstract read).",

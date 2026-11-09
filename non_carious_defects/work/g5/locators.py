@@ -17,6 +17,9 @@ F = {
  'ibb': (T+'Operative_and_Dental_Materials_Textbooks/Advances_in_Operative_Dentistry.md', -3, 'Ibbetson, 2001'),
  'pg': (T+'Operative_and_Dental_Materials_Textbooks/Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
  'mod': (T+'Operative_and_Dental_Materials_Textbooks/Modern_Operative_Dentistry.md', 14, 'Torres et al, 2020'),
+ 'mt1': (T+'Operative_and_Dental_Materials_Textbooks/Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Kaidonis et al, 2016, Ch.1'),
+ 'dcna_wang': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853210000194.pdf'), -564, 'Wang and Lussi, 2010'),
+ 'dcna_fontana': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853210000340.pdf'), -422, 'Fontana et al, 2010'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
 #   Pick clean text: avoid OCR ligature damage ("0e", "!le"), hyphen breaks and figure captions.
@@ -206,6 +209,31 @@ L = {
  'g5_mo_modern': ('mod', 'modern dental ceramics are significantly less abrasive'),
  'g5_mt_discount': ('mt', 'the occlusion cannot be entirely discounted'),
  'g5_a16_icp': ('aod16', 'If insufficient teeth meet in the intercuspal position, a Dahl movement is unlikely to be successful'),
+ # DCNA audit (auditor C)
+ 'g5_dcna_fon_attr': ('dcna_fontana', "Attrition is the physiologic wearing away of dental hard tissue as a result of tooth-to"),
+ 'g5_dcna_fon_swallow': ('dcna_fontana', "Such contact occurs when grinding the teeth, for example, during swallowing and speech"),
+ 'g5_dcna_wl_flat': ('dcna_wang', "tooth surfaces are often flat, with glossy areas with distinct margins and corresponding features on the antagonistic teeth"),
+ 'g5_dcna_wl_simul': ('dcna_wang', "It is not always possible to differentiate these wear lesions because they frequently occur simultaneously"),
+ 'g5_dcna_wl_soft': ('dcna_wang', "becomes softened it becomes more susceptible to abrasion and attrition"),
+ 'g5_dcna_wl_brushbefore': ('dcna_wang', "brushing the teeth before an acid attack should be recommended using a soft-bristled toothbrush and a low abrasive toothpaste"),
+ 'g5_dcna_wl_6h': ('dcna_wang', "using human saliva, no significant protection against toothbrush abrasion was found up to 6 hours"),
+ 'g5_dcna_wl_invitro': ('dcna_wang', "In an in vitro study by Eisenburger and colleagues"),
+ 'g5_dcna_wl_tin': ('dcna_wang', "fluoride preparations with polyvalent metal cations, such as tin ion, are potential erosion inhibitors"),
+ 'g5_dcna_wl_med': ('dcna_wang', "Ideally, avoid the placement of restorations and monitor erosive wear with study casts, photographs, or silicone impressions"),
+ 'g5_dcna_wl_high': ('dcna_wang', "Especially in cases of severe progression consider special care, which may involve restorations"),
+ 'g5_dcna_wl_reasons': ('dcna_wang', "the structural integrity of the tooth is threatened; (2) the exposed dentin is hypersensitive"),
+ 'g5_dcna_wl_pulp': ('dcna_wang', "pulpal exposure is likely to occur"),
+ 'g5_dcna_wl_least': ('dcna_wang', "selection of the least invasive intervention"),
+ 'g5_dcna_wl_alv': ('dcna_wang', "the alveolar bone and associated tissues should adapt to the change with alveolar compensation"),
+ 'g5_dcna_wl_ortho': ('dcna_wang', "To gain interocclusal space with minimal invasion, orthodontic treatment is indicated, especially when groups of teeth"),
+ 'g5_dcna_wl_dahl': ('dcna_wang', "Orthodontic treatment can be achieved with fixed or removable appliances, such as the Dahl appliance"),
+ 'g5_dcna_wl_degrade': ('dcna_wang', "under acidic conditions, all dental restorative materials show degradation over time"),
+ 'g5_dcna_wl_durable': ('dcna_wang', "ceramic and composite materials seem to exhibit substantial durability"),
+ # Duel revision of Q09 (2026-11-09)
+ 'g5_mt1_abrfood': ('mt1', 'An abrasion area produced by food, in contrast to an attrition facet, is generally not well defined'),
+ 'g5_mt1_abrscoop': ('mt1', 'when dentine is exposed, it may be ‘scooped out’ as it is softer than enamel'),
+ 'g5_mt1_corrscoop': ('mt1', 'This leads to a ‘scooped-out’ appearance that often progresses rapidly'),
+ 'g5_gl_turnerref': ('gold', 'Turner KA, Missirlian DM. Restoration of the extremely worn'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

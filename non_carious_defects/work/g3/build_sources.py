@@ -10,6 +10,10 @@ BOOK = {
  'g3_Mount2016': "Mount GJ, Ngo HC. Principles of cavity design for the restoration of advanced lesions. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: Wiley; 2016. Ch.7.",
  'g3_Goldstein2018': "Goldstein RE, Curtis JW Jr, Farley BA, Siranli S, Clark WA. Abfraction, abrasion, attrition, and erosion. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: Wiley; 2018. Ch.22.",
  'g3_Nakabayashi1998': "Nakabayashi N, Pashley DH. Hybridization of Dental Hard Tissues. Tokyo: Quintessence; 1998. Ch.IV Characterization of the hybrid layer.",
+ 'g3_BedranRusso2017': 'Bedran-Russo A, Leme-Kraus AA, Vidal CMP, Teixeira EC. An overview of dental adhesive systems and the dynamic tooth-adhesive interface. Dent Clin North Am. 2017;61:713-731. https://doi.org/10.1016/j.cden.2017.06.001 (full text read; issue number not printed on the first page).',
+ 'g3_Fronza2022': 'Fronza BM, Braga RR, Cadenaro M. Dental adhesives: surface modifications of dentin structure for stable bonding. Dent Clin North Am. 2022;66:503-515. https://doi.org/10.1016/j.cden.2022.05.002 (full text read; issue number not printed on the first page).',
+ 'g3_Puckett2007': 'Puckett AD, Fitchie JG, Kirk PC, Gamblin J. Direct composite restorative materials. Dent Clin North Am. 2007;51:659-675. https://doi.org/10.1016/j.cden.2007.04.003 (full text read; issue number not printed on the first page).',
+ 'g3_Pfeifer2017': 'Pfeifer CS. Polymer-based direct filling materials. Dent Clin North Am. 2017;61:733-750. https://doi.org/10.1016/j.cden.2017.06.002 (full text read; issue number not printed on the first page).',
 }
 LIT = {
  'g3_ChapleGil2026': "Chaple Gil AM, Pereda Vázquez L, Santiesteban Velázquez M, Menéndez JJ. Comparison of adhesive strategies with different etching approaches on the clinical performance of restorations in non-carious cervical lesions: a systematic review and network meta-analysis. J Funct Biomater. 2026;17(4):160. https://doi.org/10.3390/jfb17040160 (PubMed abstract read; PMID 42042267).",

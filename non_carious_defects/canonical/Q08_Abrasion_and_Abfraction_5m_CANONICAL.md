@@ -3,13 +3,13 @@
 **Marks:** 5m, Short Note
 **Sitting:** "Abrasion and Abfraction." 5m, Short Note, Oct 2017 (PII 16-21).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 191 words, about 9 minutes at 22 words a minute (Section 7 range 160-200 words for 5 marks). Abfraction in depth (causes, incidence, controversy, management) is Q7; NCCL pathogenesis is Q4; restoring cervical abrasion is Q5.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 193 words, about 9 minutes at 22 words a minute (Section 7 range 160-200 words for 5 marks). Abfraction in depth (causes, incidence, controversy, management) is Q7; NCCL pathogenesis is Q4; restoring cervical abrasion is Q5.
 
-**Retrieval report.** Read: Sturdevant's 2nd South Asian ed Ch.20 (offset 19, confirmed at 549, 550); Singh 2nd ed Ch.21 (offset 17, confirmed at 248, 249, 250, 251); Marzouk Ch.27 (offset -3, confirmed at 418, 419); Goldstein's Esthetics in Dentistry 3rd ed Ch.22 (offset 36, confirmed at 708, 712); Mount et al 3rd ed Ch.1 (offset 16, confirmed at 18, 19); Summitt's 4th ed Ch.15 (PDF pages only); Advanced Operative Dentistry Ch.4 (offset 6); Modern Operative Dentistry Ch.1 (offset 14, confirmed at 11, 12); Pickard's Guide 10th ed §1.3 (offset 11). Searches: "abrasion", "toothbrush", "abfraction", "wedge", "notch". No live literature. No critical synthesis (5 marks).
+**Retrieval report.** Read: Sturdevant's 2nd South Asian ed Ch.20 (offset 19, confirmed at 549, 550); Singh 2nd ed Ch.21 (offset 17, confirmed at 248, 249, 250, 251); Marzouk Ch.27 (offset -3, confirmed at 418, 419); Goldstein's Esthetics in Dentistry 3rd ed Ch.22 (offset 36, confirmed at 708, 712); Mount et al 3rd ed Ch.1 (offset 16, confirmed at 18, 19); Summitt's 4th ed Ch.15 (PDF pages only); Advanced Operative Dentistry Ch.4 (offset 6); Modern Operative Dentistry Ch.1 (offset 14, confirmed at 11, 12); Pickard's Guide 10th ed §1.3 (offset 11). Searches: "abrasion", "toothbrush", "abfraction", "wedge", "notch". DCNA (supplementary, read in full, printed pages confirmed): Yanase and Le (2014) NCCL paragraph. No live literature. No critical synthesis (5 marks).
 
-<!--LOC: g4_stu_abrdef, g4_sg_abrdef, g4_sg_powder, g4_stu_abrhabit, g4_go_tbv, g4_stu_notch, g4_mz_vwalls, g4_mz_smooth, g4_mz_left, g4_sum_hand, g4_mt_brush, g4_ab_normal, g4_mz_shallow, g4_mz_restore, g4_sg_stillman, g4_sg_gicrm, g4_sum_1hr, g4_go_30min, g4_stu_abfdef, g4_stu_box, g4_stu_thinnest, g4_ab_notproven, g4_go_establish, g4_go_sharp, g4_go_rounded, g4_go_recession, g4_to_single, g4_go_facets, g4_sg_reshape, g4_go_cause, g4_pg_dish, g4_sum_shape, g4_sg_hyper, g4_pg_pins-->
+<!--LOC: g4_stu_abrdef, g4_sg_abrdef, g4_sg_powder, g4_stu_abrhabit, g4_go_tbv, g4_stu_notch, g4_mz_vwalls, g4_mz_smooth, g4_mz_left, g4_sum_hand, g4_mt_brush, g4_ab_normal, g4_mz_shallow, g4_mz_restore, g4_sg_stillman, g4_sg_gicrm, g4_sum_1hr, g4_go_30min, g4_stu_abfdef, g4_stu_box, g4_stu_thinnest, g4_ab_notproven, g4_go_establish, g4_go_sharp, g4_go_rounded, g4_go_recession, g4_to_single, g4_go_facets, g4_sg_reshape, g4_go_cause, g4_pg_dish, g4_sum_shape, g4_sg_hyper, g4_pg_pins, g4_dcna_ya_assoc, g4_dcna_ya_paste, g4_dcna_ya_invitro, g4_dcna_ya_path-->
 
-<!--REF: Ritter2019, Singh2020, Marzouk, Goldstein2018, Kaidonis2016a, Overton2013, Bartlett2011, Torres2020, Banerjee2015-->
+<!--REF: Ritter2019, Singh2020, Marzouk, Goldstein2018, Kaidonis2016a, Overton2013, Bartlett2011, Torres2020, Banerjee2015, Yanase2014-->
 
 ## 1. Abrasion
 
@@ -17,18 +17,18 @@
 
 **Definition.** Sturdevant's: abnormal tooth surface loss from friction between teeth and external objects, or between contacting teeth in the presence of an abrasive medium (Ritter et al, 2019) [SRC]. Singh: wear by grinding, rubbing or scraping caused by external mechanical means (Singh, 2020) [SRC].
 
-**Causes.** Toothbrush and dentifrice (technique, force, bristle stiffness); toothpowder is more abrasive than paste (Singh, 2020) [SRC]; habitual chewing on hard objects such as pens and paper clips (Ritter et al, 2019) [SRC]; occupational habits such as holding pins or a pipe stem in the teeth (Banerjee and Watson, 2015) [SRC]. Brushing alone has little effect on sound tissue: normal brushing forces are unlikely to cause significant wear (Bartlett, 2011) [SRC], while brushing of acid-softened tooth is regarded as the primary cause of NCCLs (Kaidonis et al, 2016a) [SRC].
+**Causes.** Toothbrush and dentifrice (technique, force, bristle stiffness); toothpowder is more abrasive than paste (Singh, 2020) [SRC]; habitual chewing on hard objects such as pens and paper clips (Ritter et al, 2019) [SRC]; occupational habits such as holding pins or a pipe stem in the teeth (Banerjee and Watson, 2015) [SRC]. Brushing alone has little effect on sound tissue: normal brushing forces are unlikely to cause significant wear (Bartlett, 2011) [SRC], while brushing of acid-softened tooth is regarded as the primary cause of NCCLs (Kaidonis et al, 2016a) [SRC]. Yanase and Le (2014), a DCNA review, state that "there is evidence that NCCLs are strongly associated with mechanical brushing with highly abrasive dentrifices" [sic], citing a study in which, compared with brushing with water only, "all brushing with toothpastes created significant NCCLs" whatever their abrasivity (Yanase and Le, 2014) [SRC]. That study is a laboratory one, as its title in the reference list shows ("In vitro reproduction of noncarious cervical lesions"; Yanase and Le, 2014) [SRC], so it is not clinical evidence.
 
 **Features.** The books differ on shape: a rounded notch (Ritter et al, 2019) [SRC]; walls meeting at an acute angle in a V (Marzouk et al, undated) [SRC]; a v-shaped lesion with horizontal striations (Goldstein et al, 2018) [SRC]; dish- or V-shaped (Banerjee and Watson, 2015) [SRC]. The surface is extremely smooth and polished (Marzouk et al, undated) [SRC]. Hypersensitivity is the usual complaint (Singh, 2020) [SRC]. Marzouk places it usually on the left side in right-handed people (Marzouk et al, undated) [SRC]; Summitt's chapter says this claim has not been verified with clinical studies (Overton et al, 2013) [SRC].
 
-**Management.** Correct the habit: modified Stillman's technique (Singh, 2020) [SRC], soft brush, paste not powder; delay brushing after acid by at least 1 hour (Overton et al, 2013) [SRC] or at least 30 minutes (Goldstein et al, 2018) [SRC], a disagreement between books. Marzouk does not restore shallow lesions not exceeding 0.5 mm in dentine (Marzouk et al, undated) [SRC] but restores wedge lesions deeper than 0.5 mm (Marzouk et al, undated) [SRC]; GIC, RMGI or composite (Singh, 2020) [SRC].
+**Management.** Correct the habit: modified Stillman's technique (Singh, 2020) [SRC], soft brush, paste not powder; Yanase and Le advise "soft bristle brushes, a less abrasive dentrifice, and a modified brushing technique in a circular motion rather than horizontal" (Yanase and Le, 2014) [SRC]; delay brushing after acid by at least 1 hour (Overton et al, 2013) [SRC] or at least 30 minutes (Goldstein et al, 2018) [SRC], a disagreement between books. Marzouk does not restore shallow lesions not exceeding 0.5 mm in dentine (Marzouk et al, undated) [SRC] but restores wedge lesions deeper than 0.5 mm (Marzouk et al, undated) [SRC]; GIC, RMGI or composite (Singh, 2020) [SRC].
 
 #### ✎ Exam core
 
 **Abrasion:** pathological loss of tooth structure by friction from foreign objects (Ritter et al, 2019).
 - Causes: horizontal, forceful brushing with abrasive dentifrice (worse on acid-softened tooth), pens, pins, pipe stems.
 - Features: facial cervical notch on canines and premolars, rounded or V-shaped, smooth, polished, with horizontal striations; gingival recession; hypersensitivity (Goldstein et al, 2018; Marzouk et al, undated; Singh, 2020).
-- Management: correct brushing (modified Stillman's, soft brush), delay brushing after acid; desensitise; restore lesions deeper than 0.5 mm with GIC, RMGI or composite (Singh, 2020; Marzouk et al, undated).
+- Management: correct brushing (modified Stillman's, soft brush, low-abrasive paste), delay brushing after acid; desensitise; restore lesions deeper than 0.5 mm with GIC, RMGI or composite (Singh, 2020; Marzouk et al, undated).
 
 ## 2. Abfraction
 
@@ -105,6 +105,10 @@ Management: occlusal adjustment, night guard, then restore.
 - Overton et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.790: "the ability to differentiate etiologies based on lesion shape has yet to be adequately supported with evidence"
 - Singh, 2020, Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_, PDF p.265 (printed p.248): "The complaint with which a patient of abrasion usually reports to the dentist is that of hypersensitivity."
 - Banerjee and Watson, 2015, Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.m, PDF p.23 (printed p.12): "milliners holding pins between their teeth"
+- Yanase and Le, 2014, 1-s2.0-S0011853213001018.pdf, PDF p.15 (printed p.241): "there is evidence that NCCLs are strongly associated with mechanical brushing with highly abrasive dentrifices"
+- Yanase and Le, 2014, 1-s2.0-S0011853213001018.pdf, PDF p.15 (printed p.241): "all brushing with toothpastes created significant NCCLs"
+- Yanase and Le, 2014, 1-s2.0-S0011853213001018.pdf, PDF p.19 (printed p.245): "In vitro reproduction of noncarious cervical lesions"
+- Yanase and Le, 2014, 1-s2.0-S0011853213001018.pdf, PDF p.15 (printed p.241): "using soft bristle brushes, a less abrasive dentrifice, and a modified brushing technique in a circular motion rather than horizontal"
 
 **[LIT]** none: no live literature search was used for this answer.
 
@@ -118,3 +122,4 @@ Management: occlusal adjustment, night guard, then restore.
 - Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed. Elsevier; 2019. Ch.19 Clinical technique for direct composite resin and glass ionomer restorations; Ch.20 Non-carious lesions and their management (chapter authors not printed in the file).
 - Singh H. Essentials of Preclinical Conservative Dentistry. 2nd ed. Gurgaon: Wolters Kluwer Health (India); 2020. Ch.21 Non-carious lesions of the tooth surface (joint contribution with V Gade).
 - Torres CRG, et al. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.
+- Yanase RT, Le HH. Caries management by risk assessment care paths for prosthodontic patients: oral microbial control and management. Dent Clin North Am. 2014;58:227-245. https://doi.org/10.1016/j.cden.2013.09.013 (full text read; issue number not printed on the first page).

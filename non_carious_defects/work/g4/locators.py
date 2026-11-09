@@ -21,6 +21,11 @@ F = {
  'pg':  (T+'Operative_and_Dental_Materials_Textbooks/Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
  'gg':  (T+'Operative_and_Dental_Materials_Textbooks/Textbook_of_Preclinical_Conservative_Dentistry.md', 7, 'Garg and Garg, 2011'),
  'mz':  (T+'Operative_and_Dental_Materials_Textbooks/Operative_Dentistry_Marzouk.md', -3, 'Marzouk et al, undated'),
+ 'g4_dcna_br': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853217300678.pdf'), -712, 'Bedran-Russo et al, 2017'),
+ 'g4_dcna_fr': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853222034541.pdf'), -502, 'Fronza et al, 2022'),
+ 'g4_dcna_pu': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853207000183.pdf'), -658, 'Puckett et al, 2007'),
+ 'g4_dcna_pf': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S001185321730068X.pdf'), -732, 'Pfeifer, 2017'),
+ 'g4_dcna_ya': (os.path.expanduser('~/Desktop/DCNA articles/1-s2.0-S0011853213001018.pdf'), -226, 'Yanase and Le, 2014'),
 }
 # L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
 #   Pick clean text: avoid OCR ligature damage ("0e", "!le"), hyphen breaks and figure captions.
@@ -249,8 +254,34 @@ L = {
  'g4_to_rim': ('to1', 'intact rim of enamel along the gingival margin'),
  'g4_sg_conseq': ('sg', 'The consequences could be as follows: 1. Tooth hypersensitivity'),
  'g4_pg_pins': ('pg', 'milliners holding pins between their teeth'),
+ 'g4_dcna_br_scler': ('g4_dcna_br', 'sclerotic dentin is generally hypermineralized with the presence of intratubular mineral deposits'),
+ 'g4_dcna_br_30s': ('g4_dcna_br', 'surface etched with phosphoric acid for additional time (up to 30 seconds)'),
+ 'g4_dcna_br_rough': ('g4_dcna_br', 'gently mechanically roughened'),
+ 'g4_dcna_br_meta': ('g4_dcna_br', 'field isolation and type of adhesive system are factors that affect the clinical performance of these restorations'),
+ 'g4_dcna_br_desens': ('g4_dcna_br', 'Desensitizers that do not precipitate at the surface of the tooth do not affect the bond strength'),
+ 'g4_dcna_br_steps': ('g4_dcna_br', 'have shown better performance than other systems with a reduced numbers of steps'),
+ 'g4_dcna_br_aio': ('g4_dcna_br', 'studies have reported poorer clinical outcomes for all-in-one systems'),
+ 'g4_dcna_fr_gse': ('g4_dcna_fr', 'placed with the modified adhesives were statistically lower than that of the control adhesive'),
+ 'g4_dcna_fr_gsedc': ('g4_dcna_fr', 'reduced degree of conversion of the adhesives, as proanthocyanidins are free-radicals scavengers'),
+ 'g4_dcna_fr_cu': ('g4_dcna_fr', 'The addition of 0.1 wt% copper nanoparticles in a commercial one-bottle universal adhesive'),
+ 'g4_dcna_fr_cu18': ('g4_dcna_fr', 'improved the retention rate and marginal sealing of noncarious cervical lesions restorations after 18 months'),
+ 'g4_dcna_fr_chx': ('g4_dcna_fr', 'as an additional priming step on etched dentin to inhibit the MMPs is the only protocol that can be easily applied in clinical practice'),
+ 'g4_dcna_fr_exp': ('g4_dcna_fr', 'Most of the strategies to improve the durability of the adhesive interface are still experimental'),
+ 'g4_dcna_pu_micro': ('g4_dcna_pu', 'microfilled composite resins are indicated for Class V restorations'),
+ 'g4_dcna_pu_flow': ('g4_dcna_pu', 'Some clinicians prefer to use flowable composites for Class V carious lesions'),
+ 'g4_dcna_pu_flex': ('g4_dcna_pu', 'Theoretically, flowable composites will flex with the tooth in the areas of stress'),
+ 'g4_dcna_pu_comp': ('g4_dcna_pu', 'Many clinicians prefer compomers for use in Class V situations, especially if enamel is available for bonding and a limited fluoride release is desirable'),
+ 'g4_dcna_pu_etch': ('g4_dcna_pu', 'make the acid etching step an absolute necessity to improve the retention rate and decrease marginal leakage'),
+ 'g4_dcna_pf_sa40': ('g4_dcna_pf', 'When used to restore noncarious cervical lesions, 1 study found very poor results: of 40 restorations, 27 presented as clinically unacceptable after only 6 months of follow-up'),
+ 'g4_dcna_pf_saind': ('g4_dcna_pf', 'self-adhesive flowable composites are recommended for small pit and fissure lesions, small class I and II and, in limited cases, class V restorations'),
+ 'g4_dcna_pf_micro': ('g4_dcna_pf', 'relatively small class III and class V restorations'),
+ 'g4_dcna_ya_assoc': ('g4_dcna_ya', 'there is evidence that NCCLs are strongly associated with mechanical brushing with highly abrasive dentrifices'),
+ 'g4_dcna_ya_paste': ('g4_dcna_ya', 'all brushing with toothpastes created significant NCCLs'),
+ 'g4_dcna_ya_path': ('g4_dcna_ya', 'using soft bristle brushes, a less abrasive dentrifice, and a modified brushing technique in a circular motion rather than horizontal'),
+ 'g4_dcna_ya_invitro': ('g4_dcna_ya', 'In vitro reproduction of noncarious cervical lesions'),
 }
 def norm(s):
+    s = s.replace('\ufb01','fi').replace('\ufb02','fl').replace('\ufb00','ff')
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
     s = re.sub(r'\s+', ' ', s).replace('- ', '')
     return s.strip()

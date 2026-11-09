@@ -16,6 +16,11 @@ BOOK = {
  'Banerjee2015': "Banerjee A, Watson TF. Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: Oxford University Press; 2015. Ch.1, section 1.3 Tooth wear.",
  'Garg2011': "Garg N, Garg A. Textbook of Preclinical Conservative Dentistry. 1st ed. New Delhi: Jaypee Brothers Medical Publishers; 2011. Ch.2.",
  'Marzouk': "Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis: Ishiyaku EuroAmerica (Indian edition; year not printed in the file). Ch.27 Non-carious destruction and disfigurement of teeth.",
+ 'BedranRusso2017': 'Bedran-Russo A, Leme-Kraus AA, Vidal CMP, Teixeira EC. An overview of dental adhesive systems and the dynamic tooth-adhesive interface. Dent Clin North Am. 2017;61:713-731. https://doi.org/10.1016/j.cden.2017.06.001 (full text read; issue number not printed on the first page).',
+ 'Fronza2022': 'Fronza BM, Braga RR, Cadenaro M. Dental adhesives: surface modifications of dentin structure for stable bonding. Dent Clin North Am. 2022;66:503-515. https://doi.org/10.1016/j.cden.2022.05.002 (full text read; issue number not printed on the first page).',
+ 'Puckett2007': 'Puckett AD, Fitchie JG, Kirk PC, Gamblin J. Direct composite restorative materials. Dent Clin North Am. 2007;51:659-675. https://doi.org/10.1016/j.cden.2007.04.003 (full text read; issue number not printed on the first page).',
+ 'Pfeifer2017': 'Pfeifer CS. Polymer-based direct filling materials. Dent Clin North Am. 2017;61:733-750. https://doi.org/10.1016/j.cden.2017.06.002 (full text read; issue number not printed on the first page).',
+ 'Yanase2014': 'Yanase RT, Le HH. Caries management by risk assessment care paths for prosthodontic patients: oral microbial control and management. Dent Clin North Am. 2014;58:227-245. https://doi.org/10.1016/j.cden.2013.09.013 (full text read; issue number not printed on the first page).',
 }
 LIT = {
  'Schroeder2015': "Schroeder M, Reis A, Luque-Martinez I, Loguercio AD, Masterson D, Maia LC. Effect of enamel bevel on retention of cervical composite resin restorations: a systematic review and meta-analysis. J Dent. 2015;43(7):777-88. https://doi.org/10.1016/j.jdent.2015.02.017 (PMID 25765866; PubMed abstract read).",

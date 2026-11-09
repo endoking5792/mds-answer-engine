@@ -5,6 +5,7 @@
 - Six parallel agents; merged `non_carious_defects/locators.py` 1115 locators, missing 0. Details, disagreements and open points: `non_carious_defects/HANDOFF_non_carious_defects.md`.
 - Review pass 2026-11-09: six second readers (one per group) checked about 690 claims and every [LIT] abstract; fixes applied in place (main ones listed in the topic handoff). Merged locators 1131, missing 0; all exam cores in range.
 - Published to the Answer Bank site 2026-11-09 (site 506c0d5): Conservative Dentistry / Non-Carious Tooth Defects (14) and Recent Advances / Non-Carious Tooth Defects (Q2, Q3); "manifest 614 -> 628 entries, 0 lost" then "628 -> 630, 0 lost". Vault Answers + Consolidated copies written; 00_INDEX and manifest.json (401 -> 417) updated.
+- DCNA audit 2026-11-09: 13 DCNA articles read in full, all additive; added to 13 answers (Q09 left as rewritten in another session). Locators 1319, missing 0; all exam cores in range. Republished (site abb8f56, updated 13, manifest 636 -> 636, 0 lost); vault copies updated. Details in the topic handoff.
 
 ## 2026-11-04 — Answer Bank moved to a private site
 - All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.

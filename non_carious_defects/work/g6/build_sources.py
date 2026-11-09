@@ -11,6 +11,11 @@ BOOK = {
  'Machiulskiene2019': "Machiulskiene V. Nyvad criteria for assessment of caries lesion activity and severity. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.5.",
  'Alani2025': "Alani A, Patel M. Adhesive Techniques in Restorative Dentistry. BDJ Clinician's Guides. Cham: Springer Nature Switzerland; 2025. Ch.3 Management of discoloured teeth (Table 3.2 Icon treatment).",
  'Mount2016': "Mount GJ, Hume WR, Ngo HC, Wolff MS. Preservation and Restoration of Tooth Structure. 3rd ed. Wiley; 2016. Ch.14 Caries in young children.",
+ 'Fontana2010': "Fontana M, Young DA, Wolff MS, Pitts NB, Longbottom C. Defining dental caries for 2010 and beyond. Dent Clin North Am. 2010;54:423-440. https://doi.org/10.1016/j.cden.2010.03.007 (DCNA, read in full).",
+ 'Peters2010': "Peters MC. Strategies for noninvasive demineralized tissue repair. Dent Clin North Am. 2010;54:507-525. https://doi.org/10.1016/j.cden.2010.03.005 (DCNA, read in full).",
+ 'GonzalezCabezas2010': "Gonzalez-Cabezas C. The chemistry of caries: remineralization and demineralization events with direct clinical relevance. Dent Clin North Am. 2010;54:469-478. https://doi.org/10.1016/j.cden.2010.03.004 (DCNA, read in full).",
+ 'Dayo2021': "Dayo AF, Wolff MS, Syed AZ, Mupparapu M. Radiology of dental caries. Dent Clin North Am. 2021;65:427-445. https://doi.org/10.1016/j.cden.2021.02.002 (DCNA, read in full).",
+ 'Zhang2017': "Zhang K, Zhang N, Weir MD, Reynolds MA, Bai Y, Xu HHK. Bioactive dental composites and bonding agents having remineralizing and antibacterial characteristics. Dent Clin North Am. 2017;61:669-687. https://doi.org/10.1016/j.cden.2017.05.002 (DCNA, read in full).",
 }
 LIT = {
  'Bourouni2021': "Bourouni S, Dritsas K, Kloukos D, Wierichs RJ. Efficacy of resin infiltration to mask post-orthodontic or non-post-orthodontic white spot lesions or fluorosis: a systematic review and meta-analysis. Clin Oral Investig. 2021;25(8):4711-4719. https://doi.org/10.1007/s00784-021-03931-7 (PMID 34106348; PubMed abstract read).",

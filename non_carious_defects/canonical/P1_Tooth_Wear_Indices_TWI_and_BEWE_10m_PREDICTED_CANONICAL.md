@@ -3,13 +3,13 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the Answer Bank question set (P1). Would also serve for "Basic Erosive Wear Examination", "Indices of tooth wear" or "Assessment and monitoring of tooth wear" (for a 5m note on BEWE alone, write section 3).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 396 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (50m umbrella) uses these indices within diagnosis and monitoring; Q2 covers erosion in full.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 399 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (50m umbrella) uses these indices within diagnosis and monitoring; Q2 covers erosion in full.
 
-**Retrieval report.** Goldstein et al, Ch.22 in Goldstein's Esthetics in Dentistry 3rd ed (2018), Table 22.1 Smith and Knight's Tooth Wear Index (offset 36, confirmed at PDF 733, 734); Pickard's Guide 10th ed §2.6 Tables 2.7-2.9 (BEWE) and §9.4.3 monitoring (Banerjee and Watson, 2015; offset 11, confirmed at PDF 23, 46, 186); Singh and Gade, Ch.21 in Singh's Essentials of Preclinical Conservative Dentistry 2nd ed (2020), Box 21.1 BEWE and Table 21.1 attrition index (offset 17, confirmed at PDF 265, 266, 267); Olley and Bartlett, Ch.4 in Gillam's Dentine Hypersensitivity 2nd ed (2024) (offset 19, confirmed at PDF 62, 63, 64, 71). Searches across all operative and materials textbooks: "Smith and Knight", "tooth wear index", "BEWE", "basic erosive"; hits only in these four books plus a passing mention in Mount and Pickard's Manual (not needed). The original papers were not in the library; Bartlett, Ganss and Lussi (2008) and Donachie and Walls (1996) were opened on PubMed (abstracts only). The Smith and Knight 1984 paper is not indexed in PubMed and was not read; its content here comes from Goldstein's table and Olley and Bartlett's text. No critical synthesis (10 marks).
+**Retrieval report.** Goldstein et al, Ch.22 in Goldstein's Esthetics in Dentistry 3rd ed (2018), Table 22.1 Smith and Knight's Tooth Wear Index (offset 36, confirmed at PDF 733, 734); Pickard's Guide 10th ed §2.6 Tables 2.7-2.9 (BEWE) and §9.4.3 monitoring (Banerjee and Watson, 2015; offset 11, confirmed at PDF 23, 46, 186); Singh and Gade, Ch.21 in Singh's Essentials of Preclinical Conservative Dentistry 2nd ed (2020), Box 21.1 BEWE and Table 21.1 attrition index (offset 17, confirmed at PDF 265, 266, 267); Olley and Bartlett, Ch.4 in Gillam's Dentine Hypersensitivity 2nd ed (2024) (offset 19, confirmed at PDF 62, 63, 64, 71). Searches across all operative and materials textbooks: "Smith and Knight", "tooth wear index", "BEWE", "basic erosive"; hits only in these four books plus a passing mention in Mount and Pickard's Manual (not needed). The original papers were not in the library; Bartlett, Ganss and Lussi (2008) and Donachie and Walls (1996) were opened on PubMed (abstracts only). The Smith and Knight 1984 paper is not indexed in PubMed and was not read; its content here comes from Goldstein's table and Olley and Bartlett's text. DCNA (supplementary tier, full text read from the PDF; printed pages confirmed): Wang and Lussi, "Assessment and management of dental erosion", Dent Clin North Am 2010;54:565-578, whose Tables 1-2 reproduce the BEWE tables of the original Bartlett, Ganss and Lussi (2008) paper (symbols checked on the PDF page). No critical synthesis (10 marks).
 
-<!--LOC: g1_pg_research, g1_pg_indices, g1_gil_physpath, g1_gold_twi, g1_gold_twi1, g1_gold_twi2, g1_gold_twicerv, g1_gold_twi3c, g1_gold_twi4, g1_gold_twi4c, g1_pg_knight, g1_hs_attindex, g1_hs_bewe, g1_pg_bartlett2010, g1_pg_bpe, g1_pg_seq1, g1_pg_quadrant, g1_pg_sextants, g1_pg_bewe3, g1_hs_bewe3, g1_hs_risk, g1_pg_cl0, g1_pg_cl1, g1_pg_cl2, g1_pg_fluor, g1_pg_cl3, g1_gil_29, g1_gil_ukrec, g1_pg_casts, g1_pg_profil-->
+<!--LOC: g1_pg_research, g1_pg_indices, g1_gil_physpath, g1_gold_twi, g1_gold_twi1, g1_gold_twi2, g1_gold_twicerv, g1_gold_twi3c, g1_gold_twi4, g1_gold_twi4c, g1_pg_knight, g1_hs_attindex, g1_hs_bewe, g1_pg_bartlett2010, g1_pg_bpe, g1_pg_seq1, g1_pg_quadrant, g1_pg_sextants, g1_pg_bewe3, g1_hs_bewe3, g1_hs_risk, g1_pg_cl0, g1_pg_cl1, g1_pg_cl2, g1_pg_fluor, g1_pg_cl3, g1_gil_29, g1_gil_ukrec, g1_pg_casts, g1_pg_profil, g1_dcna_wl_sextant, g1_dcna_wl_bewesurf, g1_dcna_wl_bewemax, g1_dcna_wl_bewedentin, g1_dcna_wl_bewecause, g1_dcna_wl_bewelow, g1_dcna_wl_bewemed, g1_dcna_wl_bewehigh-->
 
-<!--REF: Goldstein2018, Banerjee2015, Singh2020, Olley2024-->
+<!--REF: Goldstein2018, Banerjee2015, Singh2020, Olley2024, WangLussi2010-->
 
 <!--LIT: Bartlett2008, Donachie1996-->
 
@@ -78,13 +78,15 @@ Bartlett, Ganss and Lussi designed the BEWE as a simple tool for general practic
 
 The high-risk cut-off differs: Pickard's "≥ 14", Singh and Gade "more than 14" (Singh and Gade, 2020) [SRC].
 
+**The original 2008 tables, as reproduced by Wang and Lussi (2010).** Pickard's prints the 2010 BDJ version; Wang and Lussi reproduce the tables from the original 2008 paper, which differ in places. Method: "All teeth, except third molars, are examined in each case from the vestibular, occlusal, and palatinal aspects", and "The most severely affected surface in a sextant is recorded with a 4-level score"; "The maximum score per subject is 18" (Wang and Lussi, 2010) [SRC]. This settles the quadrant/sextant slip in Pickard's Table 2.7 in favour of sextants. Scores match Pickard's (score 3 "≥50%", the symbol checked on the PDF page), with a footnote, "With scores 2 and 3, dentin is often involved" (Wang and Lussi, 2010) [SRC]. Risk levels: ≤2 routine, 3-yearly; 3-8 low, where the clinician should already identify "the main causative factor(s) and develop strategies to eliminate their effects", "Repeat at 1- to 2-year intervals"; 9-13 medium, "Repeat at 6- to 12-month intervals"; ≥14 high, "Repeat at 6-month intervals" (Wang and Lussi, 2010) [SRC]. So the low-risk interval (1-2 years versus Pickard's 2 years), the level at which the cause is first sought (low versus Pickard's medium) and the high-risk interval (6 months versus Pickard's 6-12 months) differ between the versions; both are recorded and not ranked. The ≥14 cut-off agrees with Pickard's against Singh and Gade's "more than 14".
+
 **Use.** In a large European study described by Olley and Bartlett, 29% of subjects had tooth wear recorded with the BEWE (Olley and Bartlett, 2024) [SRC], and the BEWE is now recommended in UK practice following government guidance (Olley and Bartlett, 2024) [SRC].
 
 #### ✎ Exam core
 
 **BEWE (Bartlett, Ganss and Lussi, 2008)**
 - Simple screening index for general practice, analogous to the BPE (Banerjee and Watson, 2015).
-- *Method:* exclude teeth with trauma or developmental defects; examine all surfaces; score the most severely affected surface in each sextant; add the six scores.
+- *Method:* exclude teeth with trauma or developmental defects; examine all surfaces; score the worst surface per sextant; add the six scores.
 - *Scores:* 0 no erosive wear; 1 initial loss of surface texture; 2 distinct defect, loss less than 50% of surface; 3 loss of 50% or more ("more than 50%" in Singh and Gade, 2020).
 
 | Cumulative | Risk | Management (Banerjee and Watson, 2015) |
@@ -92,7 +94,7 @@ The high-risk cut-off differs: Pickard's "≥ 14", Singh and Gade "more than 14"
 | 0-2 | None | Routine maintenance; repeat 3-yearly |
 | 3-8 | Low | Oral hygiene and diet advice; repeat 2-yearly |
 | 9-13 | Medium | Find cause, fluoride, avoid restorations, monitor with casts/photographs; 6-12 monthly |
-| 14 or more | High | As above; restore in severe progression; 6-12 monthly |
+| 14 or more | High | As above; restore in severe progression; 6-12 monthly (6-monthly in the original table; Wang and Lussi, 2010) |
 
 ## 4. Comparison and use in practice
 
@@ -102,13 +104,13 @@ The TWI is detailed, cause-blind and suited to epidemiology; the BEWE is quick, 
 
 #### ✎ Exam core
 
-**Comparison:** TWI is detailed and suits research; BEWE is quick, sextant-based and linked to management. Both measure severity, not cause, so pair them with dated casts or photographs at recall.
+**Comparison:** TWI is detailed and suits research; BEWE is quick, sextant-based and linked to management. Both measure severity, not cause; pair them with dated casts or photographs.
 
 ## High-yield points
 - Smith and Knight 1984: first to separate physiological from pathological wear; every surface scored 0-4; cervical depths under 1 mm, 1-2 mm, over 2 mm.
 - TWI criticised in the elderly and for extreme wear (Donachie and Walls, 1996).
 - BEWE 2008 (Bartlett, Ganss, Lussi): worst surface per sextant, 0-3, summed.
-- Risk: 0-2 none, 3-8 low, 9-13 medium, 14 or more high; recall 3-yearly, 2-yearly, 6-12 monthly.
+- Risk: 0-2 none, 3-8 low, 9-13 medium, 14 or more high; recall 3-yearly, 2-yearly, 6-12 monthly (Pickard's); the original 2008 table gives 1-2 yearly for low and 6-monthly for high (Wang and Lussi, 2010).
 - Books differ on boundaries: score 3 "≥50%" (Pickard's) vs ">50%" (Singh); high risk "≥14" vs "more than 14".
 - BEWE excludes trauma and developmental defects.
 
@@ -154,6 +156,14 @@ The TWI is detailed, cause-blind and suited to epidemiology; the BEWE is quick, 
 - Olley and Bartlett, 2024, Dentine_Hypersensitivity.md, PDF p.71 (printed p.52): "is recommended in practice following recent UK Government publications"
 - Banerjee and Watson, 2015, Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.m, PDF p.186 (printed p.175): "Serial, dated study models"
 - Banerjee and Watson, 2015, Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.m, PDF p.186 (printed p.175): "Using laboratory-based laser scanners, serial models can be scanned"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.3 (printed p.567): "The most severely affected surface in a sextant is recorded with a 4-level score"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.3 (printed p.567): "All teeth, except third molars, are examined in each case from the vestibular, occlusal, and palatinal aspects"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.3 (printed p.567): "The maximum score per subject is 18"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.4 (printed p.568): "With scores 2 and 3, dentin is often involved"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.4 (printed p.568): "the main causative factor(s) and develop strategies to eliminate their effects"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.4 (printed p.568): "Repeat at 1- to 2-year intervals"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.4 (printed p.568): "Repeat at 6- to 12-month intervals"
+- Wang and Lussi, 2010, 1-s2.0-S0011853210000194.pdf, PDF p.4 (printed p.568): "Repeat at 6-month intervals"
 
 **[LIT]** opened this session through PubMed (abstracts only; full texts not read):
 - Bartlett D, Ganss C, Lussi A. Basic Erosive Wear Examination (BEWE): a new scoring system for scientific and clinical needs. Clin Oral Investig. 2008;12(Suppl 1):S65-8. PMID 18228057. https://doi.org/10.1007/s00784-007-0181-5 (PubMed abstract read).
@@ -166,3 +176,4 @@ The TWI is detailed, cause-blind and suited to epidemiology; the BEWE is quick, 
 - Goldstein RE, Curtis JW Jr, Farley BA, Siranli S, Clark WA. Abfraction, abrasion, attrition, and erosion. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. John Wiley & Sons; 2018. Ch.22.
 - Olley R, Bartlett D. Aetiology and clinical features of dentine hypersensitivity on all tooth surfaces (full chapter title truncated in the running head). In: Gillam DG, editor. Dentine Hypersensitivity: Advances in Diagnosis, Management, and Treatment. 2nd ed. Cham: Springer Nature Switzerland; 2024. Ch.4.
 - Singh H, Gade V. Non-carious lesions of the tooth surface. In: Singh H. Essentials of Preclinical Conservative Dentistry. 2nd ed. Gurgaon: Wolters Kluwer Health (India); 2020. Ch.21 (chapter stated to be a joint contribution by the author and Dr Vandana Gade).
+- Wang X, Lussi A. Assessment and management of dental erosion. Dent Clin North Am. 2010;54(3):565-578. https://doi.org/10.1016/j.cden.2010.03.003 (full text read).
