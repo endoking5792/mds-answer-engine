@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted from the Answer Bank question set (P1). Would also serve for "Basic Erosive Wear Examination", "Indices of tooth wear" or "Assessment and monitoring of tooth wear" (for a 5m note on BEWE alone, write section 3).
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 392 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (50m umbrella) uses these indices within diagnosis and monitoring; Q2 covers erosion in full.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 396 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Q1 (50m umbrella) uses these indices within diagnosis and monitoring; Q2 covers erosion in full.
 
 **Retrieval report.** Goldstein et al, Ch.22 in Goldstein's Esthetics in Dentistry 3rd ed (2018), Table 22.1 Smith and Knight's Tooth Wear Index (offset 36, confirmed at PDF 733, 734); Pickard's Guide 10th ed §2.6 Tables 2.7-2.9 (BEWE) and §9.4.3 monitoring (Banerjee and Watson, 2015; offset 11, confirmed at PDF 23, 46, 186); Singh and Gade, Ch.21 in Singh's Essentials of Preclinical Conservative Dentistry 2nd ed (2020), Box 21.1 BEWE and Table 21.1 attrition index (offset 17, confirmed at PDF 265, 266, 267); Olley and Bartlett, Ch.4 in Gillam's Dentine Hypersensitivity 2nd ed (2024) (offset 19, confirmed at PDF 62, 63, 64, 71). Searches across all operative and materials textbooks: "Smith and Knight", "tooth wear index", "BEWE", "basic erosive"; hits only in these four books plus a passing mention in Mount and Pickard's Manual (not needed). The original papers were not in the library; Bartlett, Ganss and Lussi (2008) and Donachie and Walls (1996) were opened on PubMed (abstracts only). The Smith and Knight 1984 paper is not indexed in PubMed and was not read; its content here comes from Goldstein's table and Olley and Bartlett's text. No critical synthesis (10 marks).
 
@@ -44,7 +44,7 @@ Every surface of every tooth is scored and the scores are compared with age-rela
 #### ✎ Exam core
 
 **Smith and Knight TWI (1984)**
-- First index to separate physiological from pathological wear (Olley and Bartlett, 2024); most frequently cited (Goldstein et al, 2018).
+- Smith and Knight first distinguished physiological from pathological wear (Olley and Bartlett, 2024); among the most cited indices (Goldstein et al, 2018).
 - Measures wear irrespective of cause; all surfaces (buccal, lingual, occlusal, incisal, cervical) of all teeth scored 0-4:
 
 | Score | B/L/O/I | Cervical |
@@ -55,7 +55,7 @@ Every surface of every tooth is scored and the scores are compared with age-rela
 | 3 | Dentine exposed, more than 1/3 | Defect 1-2 mm |
 | 4 | Complete enamel loss, pulp or secondary dentine exposed | Over 2 mm, pulp or secondary dentine exposed |
 
-- *Limitations:* slow; difficult in the elderly; 0-4 scale too coarse for extreme wear; its "pathological" thresholds are disputed (Donachie and Walls, 1996).
+- *Limitations:* difficult in the elderly; 0-4 scale too coarse for extreme wear; its "pathological" thresholds are disputed (Donachie and Walls, 1996); slow chairside.
 
 ## 3. Basic Erosive Wear Examination (BEWE, 2008)
 
@@ -73,8 +73,8 @@ Bartlett, Ganss and Lussi designed the BEWE as a simple tool for general practic
 |---|---|---|
 | 0 (no risk) | 2 or less | Routine maintenance and observation; repeat at 3-year intervals (Banerjee and Watson, 2015) [SRC] |
 | 1 (low) | 3-8 | Oral hygiene and dietary assessment and advice; repeat at 2-year intervals (Banerjee and Watson, 2015) [SRC] |
-| 2 (medium) | 9-13 | Identify main aetiological factors; consider fluoridation measures; ideally avoid restorations and monitor with casts, photographs or silicone impressions (Banerjee and Watson, 2015) [SRC]; repeat every 6-12 months |
-| 3 (high) | 14 or more | As level 2, plus fluoridation or other strategies to increase surface resistance (Banerjee and Watson, 2015) [SRC]; in severe progression consider special care that may involve restorations (Banerjee and Watson, 2015) [SRC] |
+| 2 (medium) | 9-13 | Identify main aetiological factors; consider fluoridation measures or other strategies to increase surface resistance (Banerjee and Watson, 2015) [SRC]; ideally avoid restorations and monitor with casts, photographs or silicone impressions (Banerjee and Watson, 2015) [SRC]; repeat every 6-12 months |
+| 3 (high) | 14 or more | Same measures as level 2 (including fluoridation, avoiding restorations where possible, monitoring); in addition, in severe progression consider special care that may involve restorations (Banerjee and Watson, 2015) [SRC]; repeat every 6-12 months |
 
 The high-risk cut-off differs: Pickard's "≥ 14", Singh and Gade "more than 14" (Singh and Gade, 2020) [SRC].
 

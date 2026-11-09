@@ -203,6 +203,9 @@ L = {
  'g5_mo_splint': ('mod', 'Since elimination of the parafunctional habits is very hard to achieve, occlusal acrylic resin splints are used'),
  'g5_mo_gold': ('mod', 'Cast gold restorations are usually softer than enamel and amalgam, resulting in less wear of the antagonistic tooth.'),
  'g5_mo_feld': ('mod', 'Feldspar ceramics produce extensive antagonistic tooth wear'),
+ 'g5_mo_modern': ('mod', 'modern dental ceramics are significantly less abrasive'),
+ 'g5_mt_discount': ('mt', 'the occlusion cannot be entirely discounted'),
+ 'g5_a16_icp': ('aod16', 'If insufficient teeth meet in the intercuspal position, a Dahl movement is unlikely to be successful'),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

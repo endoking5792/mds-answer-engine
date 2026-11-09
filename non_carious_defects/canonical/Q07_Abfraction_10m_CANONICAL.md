@@ -7,9 +7,10 @@
 
 **Retrieval report.** Read: Goldstein's Esthetics in Dentistry 3rd ed Ch.22 abfraction, restoration-defect and differential-diagnosis sections (offset 36, confirmed at 704, 705, 707, 712); Summitt's 4th ed Ch.15 (Overton et al) incidence, etiology, occlusion and restoration sections (PDF pages only, no printed folios); Sturdevant's 2nd South Asian ed Ch.20 (offset 19, confirmed at 549, 550, 552); Singh 2nd ed Ch.21 (offset 17, confirmed at 250, 251); Mount et al 3rd ed Ch.1 and p.296 (offset 16, confirmed at 18, 19, 20); Dentine Hypersensitivity 2nd ed Ch.4 (Olley and Bartlett; offset 19, confirmed at 47, 49, 50); Advanced Operative Dentistry Ch.4 (Bartlett; offset 6, confirmed at 45, 50, 53); Modern Operative Dentistry Ch.1 and Ch.14 (offsets 14 and 7, each confirmed at two pages); Alani and Patel Ch.7 (offset 23, confirmed at 213, 214); Pickard's Guide 10th ed §1.3 (offset 11); Marzouk Ch.27 (offset -3, printed page above the PDF marker, confirmed at 415, 417, 419, 420). Searches: "abfraction", "stress corrosion", "flexure", "tensile", "finite element", "wedge", "prevalence", "incidence". Live search (PubMed): "abfraction non-carious cervical lesions occlusal factors systematic review" (two abstracts opened and used). No full critical synthesis (10 marks), but the controversy is set out in section 3.
 
-<!--LOC: g4_sg_abfdef, g4_stu_abfdef, g4_gg_abf, g4_to_frangere, g4_sg_grippo, g4_ob_1984, g4_go_1980s, g4_mz_tensile, g4_mz_wedge, g4_go_static, g4_go_magn, g4_stu_box, g4_stu_thinnest, g4_go_molecules, g4_go_dej, g4_stu_loads, g4_go_openbite, g4_go_classI, g4_pg_cracks, g4_go_establish, g4_go_controv, g4_ab_fea, g4_ab_notproven, g4_ab_cannot, g4_go_invitro, g4_go_facial, g4_go_caution, g4_mt_fea, g4_mt_facet, g4_mt_noload, g4_sum_litonjua, g4_sum_palamara, g4_sum_liquid, g4_sum_solitary, g4_ob_inconcl, g4_ob_sarode, g4_ob_misleading, g4_go_unlikely, g4_go_6yr, g4_sum_89, g4_sum_48, g4_sum_croatia, g4_ob_467, g4_sum_skull, g4_sum_facet, g4_sg_premabf, g4_go_sharp, g4_sg_fulcrum, g4_sg_size, g4_to_under, g4_to_single, g4_ap_norec, g4_go_recession, g4_go_facets, g4_go_heavy, g4_stu_loss, g4_stu_occlusal, g4_go_cause, g4_sg_reshape, g4_go_splint, g4_stu_guard, g4_sum_occadj, g4_go_fail, g4_go_options, g4_tz_abf, g4_sum_microhyb, g4_sum_flow, g4_sum_review, g4_mt_abfstress, g4_ob_deep, g4_ob_decor-->
 
-<!--REF: Goldstein2018, Overton2013, Ritter2019, Singh2020, Mount2016, Olley2024, Bartlett2011, Torres2020, TorresZanatta2020, Alani2025, Banerjee2015, Garg2011, Marzouk-->
+<!--LOC: g4_sg_abfdef, g4_stu_abfdef, g4_gg_abf, g4_to_frangere, g4_sg_grippo, g4_ob_1984, g4_go_1980s, g4_mz_tensile, g4_mz_wedge, g4_go_static, g4_go_magn, g4_stu_box, g4_stu_thinnest, g4_go_molecules, g4_go_dej, g4_stu_loads, g4_go_openbite, g4_go_classI, g4_pg_cracks, g4_go_establish, g4_go_controv, g4_ab_fea, g4_ab_notproven, g4_ab_cannot, g4_go_invitro, g4_go_facial, g4_go_caution, g4_mt_fea, g4_mt_facet, g4_mt_noload, g4_sum_litonjua, g4_sum_palamara, g4_sum_liquid, g4_sum_solitary, g4_ob_inconcl, g4_ob_sarode, g4_ob_misleading, g4_go_unlikely, g4_go_6yr, g4_sum_89, g4_sum_48, g4_sum_croatia, g4_ob_467, g4_sum_skull, g4_sum_facet, g4_sg_premabf, g4_go_sharp, g4_sg_fulcrum, g4_sg_size, g4_to_under, g4_to_single, g4_ap_norec, g4_go_recession, g4_go_facets, g4_go_heavy, g4_stu_loss, g4_stu_occlusal, g4_go_cause, g4_sg_reshape, g4_go_splint, g4_stu_guard, g4_sum_occadj, g4_go_fail, g4_go_options, g4_tz_abf, g4_sum_microhyb, g4_sum_flow, g4_sum_review, g4_mt_abfstress, g4_ob_deep, g4_ob_decor, g4_sg_conseq-->
+
+<!--REF: Goldstein2018, Overton2013, Ritter2019, Singh2020, Mount2016, Kaidonis2016a, Olley2024, Bartlett2011, Torres2020, TorresZanatta2020, Alani2025, Banerjee2015, Garg2011, Marzouk-->
 
 <!--LIT: Duangthip2017, Dioguardi2024-->
 
@@ -62,24 +63,24 @@ This is where examiners award marks, and the books genuinely disagree. The table
 | Sufficient experimental and clinical evidence now establishes tensile stress of occlusal origin as the primary etiology; still highly controversial | (Goldstein et al, 2018) [SRC] |
 | Abfraction is a hypothesis from finite element analysis; it has yet to be proven clinically; lesions cannot be differentiated from erosion/abrasion | (Bartlett, 2011) [SRC] |
 | The concept is supported only by in vitro studies; clinically abfraction occurs facially, but in vitro location does not follow force direction; interpret with caution | (Goldstein et al, 2018) [SRC] (same chapter, contradicting its own earlier statement) |
-| FEA confirms cervical stress but does not confirm causation; proponents point to the correlation between wear facets and lesions | (Mount et al, 2016) [SRC] |
+| FEA confirms cervical stress but does not confirm causation; proponents point to the correlation between wear facets and lesions | (Kaidonis et al, 2016a) [SRC] |
 | Limited inconclusive data support the occlusion-abfraction-NCCL link; Sarode's review says the theory is not proven; the term is misleading | (Olley and Bartlett, 2024) [SRC] |
 
 **Laboratory data (not clinical evidence).** Without acid, loading had no effect on brushed extracted teeth (Overton et al, 2013) [SRC]; with cyclic tensile loads in 1% lactic acid, enamel dissolution increased significantly (Overton et al, 2013) [SRC]. Summitt's chapter infers that liquid acid may be necessary to make occlusal loading a factor (Overton et al, 2013) [SRC].
 
-**Clinical observations.** Lesions develop on teeth with no opposing teeth (Mount et al, 2016) [SRC], which argues against occlusion as a necessary cause [Likely]. The only longitudinal study Goldstein et al cite followed 55 people for 6 years and found dietary acid and brushing frequency associated with wear (Goldstein et al, 2018) [SRC]; Goldstein et al conclude abfraction is unlikely to form lesions independently (Goldstein et al, 2018) [SRC]. No author claims occlusion is the solitary cause (Overton et al, 2013) [SRC].
+**Clinical observations.** Lesions develop on teeth with no opposing teeth (Kaidonis et al, 2016a) [SRC], which argues against occlusion as a necessary cause [Likely]. The only longitudinal study Goldstein et al cite followed 55 people for 6 years and found dietary acid and brushing frequency associated with wear (Goldstein et al, 2018) [SRC]; Goldstein et al conclude abfraction is unlikely to form lesions independently (Goldstein et al, 2018) [SRC]. No author claims occlusion is the solitary cause (Overton et al, 2013) [SRC].
 
-**Live literature.** A systematic review of 69 studies (31 clinical, 38 laboratory) found 81% reported an association between occlusal stress and NCCLs, but no clinical study showed stress alone caused an NCCL, and 24 of the laboratory studies were FEA (Duangthip et al, 2017) [LIT; abstract only]. Association is not causation, and FEA shows where stress goes, not that it removes tooth [Certain]. A meta-analysis of ancient skulls found NCCLs in 17 of 805 skulls (only 2 of 6 studies reported any) and judged the cause complex, involving abrasion and erosion tied to diet (Dioguardi et al, 2024) [LIT; abstract only].
+**Live literature.** A systematic review of 69 studies (31 clinical, 38 laboratory) found 81% reported an association between occlusal stress and NCCLs, but no clinical study showed stress alone caused an NCCL, and 24 of the laboratory studies were FEA (Duangthip et al, 2017) [LIT; abstract only]. Association is not causation, and FEA shows where stress goes, not that it removes tooth [Certain]. A meta-analysis of ancient skulls found NCCLs in 17 of 805 skulls (only 2 of 6 studies reported any) and, while noting a possible abfraction mechanism, judged the cause complex, involving abrasive and erosive factors tied to diet (Dioguardi et al, 2024) [LIT; abstract only].
 
-**Balanced reading.** Occlusal stress is plausible as a contributor that localises or accelerates acid and brushing damage, especially in deep lesions, but not established as an independent clinical cause [Likely]. Olley and Bartlett suggest occlusal stress matters more in extremely deep lesions (Olley and Bartlett, 2024) [SRC], where it is a risk factor for de-coronation (Olley and Bartlett, 2024) [SRC].
+**Balanced reading.** Occlusal stress is plausible as a contributor that localises or accelerates acid and brushing damage, especially in deep lesions, but not established as an independent clinical cause [Likely]. Olley and Bartlett note, anecdotally, that occlusal stress may matter more in extremely deep lesions (Olley and Bartlett, 2024) [SRC], where it is a risk factor for de-coronation (Olley and Bartlett, 2024) [SRC].
 
 #### ✎ Exam core
 
 **Controversy**
-- For: FEA shows cervical stress concentration; wear facets often coexist (Goldstein et al, 2018).
-- Against: FEA and extracted-tooth loading are laboratory data; "yet to be proven clinically" (Bartlett, 2011); lesions form on teeth without antagonists (Mount et al, 2016); loading produced no lesion without acid (Overton et al, 2013).
+- For: Goldstein et al (2018) call occlusal tensile stress the established primary cause; FEA shows cervical stress concentration; wear facets correlate with lesions (Kaidonis et al, 2016a).
+- Against: FEA and extracted-tooth loading are laboratory data; "yet to be proven clinically" (Bartlett, 2011); lesions form on teeth without antagonists (Kaidonis et al, 2016a); loading produced no lesion without acid (Overton et al, 2013).
 - Systematic review: association reported, but no clinical study showed stress alone causes NCCLs (Duangthip et al, 2017).
-- Consensus: abfraction is at most a co-factor with erosion and abrasion.
+- Olley and Bartlett (2024): occlusal loading not fundamental; erosion and abrasion more likely.
 
 ## 4. Incidence
 
@@ -97,7 +98,6 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 
 **Incidence**
 - No separate figure for abfraction: its lesions cannot be distinguished clinically (Bartlett, 2011). For NCCLs overall: rare to 89% across populations; 5% under 26 years versus 48% over 65 years in one survey (Overton et al, 2013); mean adult prevalence 46.7% (Olley and Bartlett, 2024).
-- Premolars commonest (Singh, 2020).
 
 ## 5. Clinical features
 
@@ -109,10 +109,11 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 - Without associated gingival recession in its commonest form (Alani and Patel, 2025) [SRC]; recession is not a hallmark (Goldstein et al, 2018) [SRC].
 - Wear facets or loss of anterior guidance highly probable (Goldstein et al, 2018) [SRC]; a heavy marking on a cusp incline is likely (Goldstein et al, 2018) [SRC].
 - Cervical Class V restorations without retention grooves may be lost (Ritter et al, 2019) [SRC].
+- Singh lists tooth hypersensitivity among the consequences (Singh, 2020) [SRC].
 
 #### ✎ Exam core
 
-**Clinical features:** sharp wedge-shaped cervical notch with angular occlusal margin, often on a single premolar, may be subgingival, recession not typical; wear facets and heavy marking on a cusp incline; hypersensitivity; repeated loss of Class V restorations (Goldstein et al, 2018; Alani and Patel, 2025; Ritter et al, 2019).
+**Clinical features:** sharp, angular wedge-shaped cervical notch, commonest on premolars, may involve a single tooth, may be subgingival, recession not typical; wear facets and heavy marking on a cusp incline; hypersensitivity; loss of unretained Class V restorations (Goldstein et al, 2018; Alani and Patel, 2025; Singh, 2020; Ritter et al, 2019).
 
 ## 6. Management
 
@@ -130,20 +131,18 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 #### ✎ Exam core
 
 **Management**
-1. Occlusal analysis on articulated casts; history of bruxism, diet, brushing (Ritter et al, 2019).
+1. Occlusal analysis on articulated casts (Ritter et al, 2019).
 2. Remove the cause: selective reshaping, occlusal adjustment, night guard/splint (Singh, 2020; Goldstein et al, 2018). No trials yet prove this prolongs restorations (Overton et al, 2013).
 3. Control co-factors: acid diet, horizontal brushing.
 4. Monitor small lesions; desensitise.
 5. Restore deep, sensitive or progressing lesions: GIC/RMGI (best retention) or composite; microfill and flowable showed no retention advantage (Overton et al, 2013).
 6. Graft if recession coexists.
 
-**Conclusion:** control load and co-factors, then restore.
-
 ## High-yield points
 - Suggested by Lee and Eakle (1984); named by Grippo (1991); Latin *frangere*.
 - Mechanism: flexure → cervical tensile stress → enamel microfracture at the CEJ.
 - Evidence is mostly FEA and in vitro; clinical causation unproven (Bartlett, 2011).
-- Goldstein's chapter contradicts itself: "established" and "only in vitro" in successive paragraphs.
+- Goldstein's chapter contradicts itself: "established" and "supported only by in vitro studies" on the same page (PDF 741).
 - No separate incidence for abfraction; NCCLs 46.7% average adult prevalence.
 - Features: sharp wedge, single tooth, possibly subgingival, wear facets.
 - Control occlusion before restoring; GIC/RMGI best retained; low-modulus composite claims not supported by trials.
@@ -190,9 +189,9 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.741 (printed p.705): "The concept of abfraction is supported only by studies conducted in vitro"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.741 (printed p.705): "abfraction preferably occurs on the facial side rather than lingual"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.741 (printed p.705): "the results of in vitro studies should be interpreted with caution"
-- Mount et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.36 (printed p.20): "although this does not of course confirm ‘causation’"
-- Mount et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.36 (printed p.20): "Proponents of the theory point to a very high correlation between the presence of wear facets on cusp inclines"
-- Mount et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.35 (printed p.19): "Teeth that have not been exposed to occlusal load due to lack of opposing teeth have been shown to develop these lesions"
+- Kaidonis et al, 2016a, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.36 (printed p.20): "although this does not of course confirm ‘causation’"
+- Kaidonis et al, 2016a, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.36 (printed p.20): "Proponents of the theory point to a very high correlation between the presence of wear facets on cusp inclines"
+- Kaidonis et al, 2016a, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.35 (printed p.19): "Teeth that have not been exposed to occlusal load due to lack of opposing teeth have been shown to develop these lesions"
 - Overton et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.789: "without any acids present, occlusal loading had no effect in creating NCCLs"
 - Overton et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.790: "enamel dissolution increased significantly when teeth were subjected to cyclic tensile loads while immersed in 1% lactic acid"
 - Overton et al, 2013, Summitts_Fundamentals_of_Operative_Dentistry.md, PDF p.790: "liquid acid, frequently found in modern diets, may be necessary to make occlusal loading a factor"
@@ -234,6 +233,7 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 - Mount et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.312 (printed p.296): "abfraction stresses may be involved and the occlusion should be examined"
 - Olley and Bartlett, 2024, Dentine_Hypersensitivity.md, PDF p.68 (printed p.49): "occlusal stress may become more important for lesions that are extremely deep"
 - Olley and Bartlett, 2024, Dentine_Hypersensitivity.md, PDF p.69 (printed p.50): "more likely a risk factor for future de-coronation"
+- Singh, 2020, Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_, PDF p.268 (printed p.251): "The consequences could be as follows: 1. Tooth hypersensitivity"
 
 **[LIT]** opened this session through PubMed (abstracts only; full texts not read):
 - Duangthip D, Man A, Poon PH, Lo ECM, Chu CH. Occlusal stress is involved in the formation of non-carious cervical lesions. A systematic review of abfraction. Am J Dent. 2017;30(4):212-20. PMID 29178704 (no DOI listed in PubMed; abstract read).
@@ -247,8 +247,9 @@ Incidence of abfraction as a separate entity cannot be measured reliably, becaus
 - Duangthip D, Man A, Poon PH, Lo ECM, Chu CH. Occlusal stress is involved in the formation of non-carious cervical lesions. A systematic review of abfraction. Am J Dent. 2017;30(4):212-20. PMID 29178704 (no DOI listed in PubMed; abstract read).
 - Garg N, Garg A. Textbook of Preclinical Conservative Dentistry. 1st ed. New Delhi: Jaypee Brothers Medical Publishers; 2011. Ch.2.
 - Goldstein RE, Curtis JW Jr, Farley BA, Siranli S, Clark WA. Abfraction, abrasion, attrition, and erosion. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: John Wiley & Sons; 2018. Ch.22.
+- Kaidonis J, Townsend GC, McIntyre J, Richards LC, Hume WR. The oral environment and the main causes of tooth structure loss. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.1. (Cited in text as Kaidonis et al, 2016a.)
 - Marzouk MA, Simonton AL, Gross RD. Operative Dentistry: Modern Theory and Practice. St Louis: Ishiyaku EuroAmerica (Indian edition; year not printed in the file). Ch.27 Non-carious destruction and disfigurement of teeth.
-- Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.1 The oral environment and the main causes of tooth structure loss; Ch.7 Principles of cavity design for the restoration of advanced lesions; Ch.9 Glass-ionomer materials; Ch.13 Choosing between restoration modalities; and the restoration-failure chapter (p.296).
+- Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.7 Principles of cavity design for the restoration of advanced lesions; Ch.9 Glass-ionomer materials; Ch.13 Choosing between restoration modalities; and the restoration-failure chapter (p.296).
 - Olley R, Bartlett D. Aetiology and clinical features of dentine hypersensitivity on all tooth surfaces. In: Gillam DG, editor. Dentine Hypersensitivity: Advances in Diagnosis, Management, and Treatment. 2nd ed. Cham: Springer Nature Switzerland; 2024. Ch.4.
 - Overton JD, Hilton TJ, LittleStar ML, Starr CB. Class 5 restorations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.15.
 - Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asian ed. Elsevier; 2019. Ch.19 Clinical technique for direct composite resin and glass ionomer restorations; Ch.20 Non-carious lesions and their management (chapter authors not printed in the file).

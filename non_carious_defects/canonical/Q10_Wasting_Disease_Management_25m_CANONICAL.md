@@ -3,7 +3,7 @@
 **Marks:** 25m, Long Essay
 **Sitting:** "Management of wasting disease of the teeth." 25m, Oct/Nov 2025 (Manipal PI); also covers "Management of wasting diseases of teeth" 20m, Nov 2016 (RG PII RS-3). For the 20m version write the exam core of sections 1-4, 6 and 8 in full and two lines each from sections 5, 7 and 9.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 909 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). The aetiology and features of each lesion type are in Q1 (umbrella) and Q2 (erosion); attrition in detail is Q9; the Dahl concept is P2; tooth wear indices are P1. Dentine hypersensitivity management is in dentin_hypersensitivity Q01-Q07.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 916 words, about 42 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). The aetiology and features of each lesion type are in Q1 (umbrella) and Q2 (erosion); attrition in detail is Q9; the Dahl concept is P2; tooth wear indices are P1. Dentine hypersensitivity management is in dentin_hypersensitivity Q01-Q07.
 
 **Retrieval report.** Read: Advanced Operative Dentistry (Ricketts and Bartlett eds) Ch.4 "Tooth wear" (Bartlett) in full (PAGE markers; offset 6, confirmed at printed 45, 49, 53) and Ch.16 (Bartlett and Ricketts), "Management of tooth wear" to the end of the chapter (offset 1, confirmed at printed 206, 207, 212; note the offset differs from Ch.4 in this file); Ibbetson, Advances in Operative Dentistry Vol 1 Ch.9 "Indirect restorations for anterior teeth: space, the eternal problem" (OCR folios; offset -3, confirmed at printed 113, 115, 116); Alani and Patel Ch.7 "Treating anterior tooth surface loss" sections 7.1-7.5 (offset 23, confirmed at 210, 218, 221); Goldstein's 3rd ed Ch.22 attrition, bruxism and Turner sections (offset 36, confirmed at 697, 698); Pickard's Guide 10th ed section 1.3 (offset 11, confirmed at 12, 13); Mount et al 3rd ed Ch.4 (Kaidonis et al) (offset 16, confirmed at 56, 57); Marzouk Ch.27 (offset -3, confirmed at 415-417); Sturdevant's 2nd SA ed Ch.20 (offset 19, confirmed at 549, 552). Searches: "wasting", "wasting disease" (whole textbook repository), "tooth wear", "Dahl", "vertical dimension", "occlusal splint", "bruxi". **Terminology:** no textbook in the repository defines "wasting disease(s) of the teeth"; the only hit is Goldstein et al listing "chemical wasting of the teeth" among historical theories of tooth wear. The equation of "wasting diseases" with tooth wear (attrition, abrasion, erosion, abfraction) is therefore given as [RECALL]. Live search (PubMed): composite Dahl survival; European consensus on severe tooth wear; restorative options systematic review; three abstracts used in the synthesis.
 
@@ -35,7 +35,7 @@ The components rarely act alone (Bartlett, 2011) [SRC]. Early signs are almost u
 - Abrasion: wear by objects other than teeth.
 - Abfraction: proposed flexure-induced cervical loss; clinically unproven.
 
-They usually coexist, so management targets the whole process, not one lesion. Early wear is almost universal; severe wear affects around 10% of adults (Bartlett, 2011). Wear is physiological when slow and matched to age, pathological when the dentition will not last a lifetime.
+They usually coexist, so management targets the whole process, not one lesion. Early wear is almost universal; severe wear probably affects around 10% of the population (Bartlett, 2011). Wear is physiological when slow and matched to age, pathological when the dentition will not last a lifetime.
 
 **Aims of management:** find and control the cause, prevent progression, relieve symptoms, monitor, and restore only when indicated, preserving tooth tissue.
 
@@ -119,7 +119,7 @@ There is no justification for believing that wear inevitably destroys teeth (Bar
 
 **Monitoring:** dated casts, photographs, index scores and probe measurements at recall (Bartlett, 2011). If wear is slow, continue monitoring.
 
-**Indications to restore:** poor appearance, intractable sensitivity, functional loss, risk to pulp or tooth survival, progression despite prevention. Restoration is delayed as long as possible and is costly, with lifelong maintenance (Bartlett, 2011). Informed consent covers cost, number of visits, maintenance and the option of monitoring alone; this is documented.
+**Indications to restore:** poor appearance, intractable sensitivity, functional loss, risk to pulp or tooth survival, progression despite prevention. Restoration is best delayed as long as possible (Loomans et al, 2017); it is costly and needs aftercare (Bartlett, 2011). Informed consent covers cost, number of visits, maintenance and the option of monitoring alone; this is documented.
 
 ## 6. The space problem and vertical dimension
 
@@ -205,7 +205,7 @@ Alani and Patel list the advantages of direct work as time efficiency, lower cos
 | Durability | lower; maintenance | higher |
 | Use | first line, trial OVD | heavy bruxism, failed composites |
 
-Gold is kindest to antagonists; feldspathic porcelain wears opposing teeth (Alani and Patel, 2025; Torres et al, 2020). Direct composite is now the usual first choice because it is additive and reversible; indirect work follows failure or heavy loading.
+Gold is kinder to antagonists; feldspathic porcelain wears opposing teeth (Alani and Patel, 2025; Torres et al, 2020). Direct composite is now the usual first choice because it is additive and reversible; indirect work follows failure or heavy loading.
 
 **Maintenance:** night guard for bruxists, continued diet and fluoride measures, recall with casts, repair or refurbish composites.
 

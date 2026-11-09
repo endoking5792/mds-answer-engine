@@ -175,6 +175,12 @@ L = {
  'g6_mod_smooth': ('mod3', "lesions of smooth surfaces should not be treated in an invasive approach as long as they are not cavitated"),
  'g6_kidd_benefit': ('kidd', "if in doubt about cavitation and whether a filling is needed, give the lesion the benefit of the doubt"),
  'g6_stu_dev': ('stu', "Hypocalcified enamel does not represent a clinical problem except for its potential esthetically objectionable appearance"),
+ 'g6_kidd_ph': ('kidd', "In the pH range of 5.5–4.5, saliva will be undersaturated with respect to hydroxyapatite"),
+ 'g6_pick_socio': ('pick', "Social: Socio-economic status?"),
+ 'g6_det_sharp': ('det', "sharp dental explorer is a more helpful supplementary tool for the evaluation of the surface morphology than a ball-ended probe"),
+ 'g6_pick_detect': ('pick', "Fibreoptic transillumination UV illumination"),
+ 'g6_pick_diagnodent': ('pick', "the DiagnoDent laserfluorescence caries detection system"),
+ 'g6_stu_devacc': ('stu', "their diagnostic accuracy has not been firmly established"),
 }
 def norm(s):
     s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')

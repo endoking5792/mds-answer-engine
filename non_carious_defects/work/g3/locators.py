@@ -125,7 +125,7 @@ L = {
  'g3_st_debride': ('g3_st', 'requires only surface debridement of any exposed dentin and roughening/bevelling all enamel margins with a diamond'),
  'g3_st_90': ('g3_st', 'The features of the preparation include a 90-degree cavosurface margin'),
  'g3_st_groove': ('g3_st', 'Groove retention form usually is not necessary but may be used if retention of the restoration is a concern'),
- 'g3_st_45': ('g3_st', 'resulting in an angle approximately 45 degrees to the external tooth surface'),
+ 'g3_st_45': ('g3_st', 'resulting in an angle approximately 45 degrees to the external tooth surface, and prepared to a width'),
  'g3_st_05': ('g3_st', 'prepared to a width of at least 0.5 mm'),
  'g3_st_incr': ('g3_st', 'The operator should avoid placing increments that connect to both occlusal/incisal walls and gingival walls'),
  'g3_st_comprmgi': ('g3_st', 'Composites and RMGIs are recommended for Class V restorations'),

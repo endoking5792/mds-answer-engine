@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted question. Also usable inside Q10 ("Management of wasting disease of the teeth", localised wear) and Q9 (attrition, restorative options). For a 5-mark note on "Dahl concept" write sections 1, 2 and 3 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 346 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Assessment, prevention and generalised wear are in Q10; attrition is Q9; erosion is Q2.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 358 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Assessment, prevention and generalised wear are in Q10; attrition is Q9; erosion is Q2.
 
 **Retrieval report.** Read: Advanced Operative Dentistry Ch.16 (Bartlett and Ricketts), "Management of tooth wear" and "Creating occlusal clearance" in full (offset 1 in this chapter, confirmed at printed 206, 207, 212); Ch.4 (Bartlett) for prevention context (offset 6); Alani and Patel Ch.7 sections 7.3-7.5 (Dahl concept, restoration design, material choice, direct and indirect palatal restorations) (offset 23, confirmed at 210, 218, 221); Ibbetson, Advances in Operative Dentistry Vol 1 Ch.9, "Relative axial tooth movement" (offset -3, confirmed at printed 113, 115, 116); Kaidonis et al (Mount 3rd ed) Ch.4 on Class II division 2 wear (offset 16). Searches: "Dahl" in all operative textbooks (substantive text only in Advanced Operative Dentistry, Alani and Patel and Advances in Operative Dentistry; other hits were reference-list entries). Live search (PubMed): one abstract (ten-year composite Dahl survival). No critical synthesis (10 marks).
 
-<!--LOC: g5_a16_dac, g5_ap_dac, g5_ib_reduce, g5_ap_dahldef, g5_a16_dahl_def, g5_ap_ovd, g5_ap_1975, g5_ib_older, g5_ib_3mo, g5_a16_mvmt, g5_a16_ovd, g5_ap_6040, g5_ap_2mm, g5_ap_third, g5_ib_gingiva, g5_a16_pulp, g5_a16_adapt, g5_a16_localonly, g5_a16_gen, g5_a16_tmd, g5_a16_perio, g5_a16_class, g5_mt_c2d2, g5_mt_pristine, g5_a16_early, g5_ib_gic, g5_a16_comp, g5_ap_platform, g5_ap_2plus, g5_ap_05, g5_a16_rcp, g5_ap_wax, g5_a16_even, g5_ap_attrmat, g5_ap_gold, g5_a16_34, g5_a16_39, g5_ap_8mo, g5_a16_reliable, g5_a16_35, g5_a16_compret, g5_a16_sceptic, g5_ap_indirect, g5_ap_direct-->
+<!--LOC: g5_a16_dac, g5_ap_dac, g5_ib_reduce, g5_ap_dahldef, g5_a16_dahl_def, g5_ap_ovd, g5_ap_1975, g5_ib_older, g5_ib_3mo, g5_a16_mvmt, g5_a16_ovd, g5_ap_6040, g5_ap_2mm, g5_ap_third, g5_ib_gingiva, g5_a16_pulp, g5_a16_adapt, g5_a16_localonly, g5_a16_gen, g5_a16_tmd, g5_a16_perio, g5_a16_class, g5_a16_icp, g5_mt_c2d2, g5_mt_pristine, g5_a16_early, g5_ib_gic, g5_a16_comp, g5_ap_platform, g5_ap_2plus, g5_ap_05, g5_a16_rcp, g5_ap_wax, g5_a16_even, g5_ap_attrmat, g5_ap_gold, g5_a16_34, g5_a16_39, g5_ap_8mo, g5_a16_reliable, g5_a16_35, g5_a16_compret, g5_a16_sceptic, g5_ap_indirect, g5_ap_direct-->
 
 <!--REF: BartlettRicketts2011, Alani2025, Ibbetson2001, Kaidonis2016-->
 
@@ -25,7 +25,7 @@ Alani and Patel define the Dahl concept as "a method of purposefully inducing ph
 
 **Problem.** Slowly worn anterior teeth stay in contact by dentoalveolar compensation, so there is no space to restore them without further reduction (Bartlett and Ricketts, 2011).
 
-**Dahl concept** (Dahl et al, 1975): deliberate relative axial tooth movement. An appliance or restoration on the worn anterior teeth raises the OVD locally and props the posterior teeth apart; anterior teeth intrude and posterior teeth erupt until posterior contacts return, leaving space anteriorly (Alani and Patel, 2025).
+**Dahl concept** (first investigated by Dahl and colleagues in 1975; Alani and Patel, 2025): deliberate relative axial tooth movement. An appliance or restoration on the worn anterior teeth raises the OVD locally and props the posterior teeth apart; anterior teeth intrude and posterior teeth erupt until posterior contacts return, leaving space anteriorly (Alani and Patel, 2025).
 
 ## 2. Mechanism: how the space is made
 
@@ -50,11 +50,11 @@ The gingiva moves with the teeth, reducing the need for crown lengthening (Ibbet
 
 ### Explanation
 
-Dahl movement applies only when wear is localised to a few teeth (Bartlett and Ricketts, 2011) [SRC]; in generalised wear it is ineffective and full-mouth rehabilitation is indicated (Bartlett and Ricketts, 2011) [SRC]. Pre-existing mandibular dysfunction symptoms normally contraindicate it (Bartlett and Ricketts, 2011) [SRC], as do poor hygiene or probing depths over 3 mm (Bartlett and Ricketts, 2011) [SRC]. It is less successful in Class III and Class II division 1 incisor relationships and slower in Class II division 2 (Bartlett and Ricketts, 2011) [SRC]. Kaidonis et al note that Class II division 2 deep bites typically show severely worn anteriors with pristine posteriors (Kaidonis et al, 2016) [SRC]. Implants or ankylosed teeth cannot move and are a contraindication [RECALL].
+Dahl movement applies only when wear is localised to a few teeth (Bartlett and Ricketts, 2011) [SRC]; in generalised wear it is ineffective and full-mouth rehabilitation is indicated (Bartlett and Ricketts, 2011) [SRC]. Pre-existing mandibular dysfunction symptoms normally contraindicate it (Bartlett and Ricketts, 2011) [SRC], as do poor hygiene or probing depths over 3 mm (Bartlett and Ricketts, 2011) [SRC]. It is less successful in Class III and Class II division 1 incisor relationships and slower in Class II division 2 (Bartlett and Ricketts, 2011) [SRC]; if too few teeth meet in the intercuspal position a Dahl movement is unlikely to succeed (Bartlett and Ricketts, 2011) [SRC]. Kaidonis et al note that Class II division 2 deep bites typically show severely worn anteriors with pristine posteriors (Kaidonis et al, 2016) [SRC]. Implants or ankylosed teeth cannot move and are a contraindication [RECALL].
 
 #### ✎ Exam core
 
-**Indications:** localised anterior wear (erosion or attrition) with no interocclusal space; healthy periodontium; stable posterior occlusion; adequate tooth height for later crowns.
+**Indications:** localised anterior wear (erosion or attrition) with no interocclusal space; healthy periodontium; stable posterior occlusion; enough teeth meeting in intercuspal position (Bartlett and Ricketts, 2011).
 
 **Contraindications:** generalised wear; TMD symptoms; periodontitis (pockets over 3 mm); implants or ankylosed teeth in the area; Class III or Class II division 1 (less successful) (Bartlett and Ricketts, 2011). Class II division 2 deep bites respond more slowly.
 
@@ -131,6 +131,7 @@ Sufficient space usually appears in 3-4 months (Bartlett and Ricketts, 2011) [SR
 - Bartlett and Ricketts, 2011, Advanced_Operative_Dentistry.md, PDF p.210 (printed p.209): "the presence of symptoms before treatment normally contraindicates the use of the Dahl principle"
 - Bartlett and Ricketts, 2011, Advanced_Operative_Dentistry.md, PDF p.210 (printed p.209): "increased periodontal probing depths over 3 mm also contraindicate the use of this technique"
 - Bartlett and Ricketts, 2011, Advanced_Operative_Dentistry.md, PDF p.212 (printed p.211): "is less successful with Class III and Class II Division I relationships"
+- Bartlett and Ricketts, 2011, Advanced_Operative_Dentistry.md, PDF p.212 (printed p.211): "If insufficient teeth meet in the intercuspal position, a Dahl movement is unlikely to be successful"
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.73 (printed p.57): "Division 2 deep bite configurations"
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.73 (printed p.57): "will show severely worn anterior teeth while the posterior teeth remain pristine"
 - Bartlett and Ricketts, 2011, Advanced_Operative_Dentistry.md, PDF p.210 (printed p.209): "Early Dahl appliances were made using partial dentures or metal occlusal splints"

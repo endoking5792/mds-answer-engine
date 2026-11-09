@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** PREDICTED, not seen in your papers. No repository wording is absorbed. The same material forms the saliva part of Q2 (section 5) and supports the brushing advice in Q2 section 8. For a 5-mark version write sections 2 and 3 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 349 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Erosion as a whole is in Q2; the Exam core below stands alone.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 359 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Erosion as a whole is in Q2; the Exam core below stands alone.
 
 **Retrieval report.** Read in full: Sikri, Textbook of Conservative and Restorative Dentistry Ch.26, biological factors in erosion (2020; offset 19, confirmed at PDF 518, 526); Olley and Bartlett, Ch.4 in Gillam, Dentine Hypersensitivity 2nd ed, sections 4.5 and 4.9 (2024; offset 19, confirmed at PDF 60, 65); Bartlett, Ch.4 "Tooth wear" in Advanced Operative Dentistry, "Saliva" subsection (2011; offset 6, confirmed at PDF 51, 55); Kaidonis et al, Ch.4 in Mount et al 3rd ed, "Interactions between saliva, biofilms and acids" and "Prevention" (2016; offset 16, confirmed at PDF 68, 69). Read in part: Pickard's Guide 10th ed section 1.3 (Banerjee and Watson, 2015; offset 11); Modern Operative Dentistry Ch.1 (Torres et al, 2020; offset 14) and Ch.18 (Bresciani, Torres and Wiegand, 2020; offset 6); Hill and Gillam, Chs 9 and 10 in Gillam (2024; offsets 21 and 22, confirmed at PDF 186-188 and 195-197); Alani and Patel (2025) Ch.7 (offset 23). Searches: pellicle, saliva, hyposalivation, xerostomia, statherin, mucin, buffer. Live literature (PubMed, November 2026; abstracts only): dentine pellicle review, pellicle modification (haemoglobin) scoping review, "beyond fluorides" review. No critical synthesis (10 marks); the contested saliva claim is synthesised in Q2.
 
-<!--LOC: g2_mod18_saliva, g2_mod18_pell, g2_mod18_hypo, g2_sik_salmech, g2_sik_pellform, g2_sik_mucin, g2_pkg_saliva, g2_pkg_mucin, g2_mod1_parotid, g2_mod1_tongue, g2_sik_softtis, g2_ap_band, g2_mnt4_open, g2_sik_systemic, g2_dh4_sleep, g2_aod_saliva, g2_aod_xero, g2_aod_equiv, g2_sik_pelldef, g2_sik_pellres, g2_dh4_mature, g2_dh10_zero, g2_dh4_moazzez, g2_dh4_removepell, g2_dh4_brushpell, g2_sik_pellbrush, g2_mnt4_pristine, g2_mnt4_wine, g2_mnt4_night, g2_mnt4_cpp, g2_mod1_gum, g2_mod18_subst, g2_dh9_stath, g2_dh9_cost, g2_aod_night-->
+<!--LOC: g2_mod18_saliva, g2_mod18_pell, g2_mod18_hypo, g2_sik_salmech, g2_sik_pellform, g2_sik_mucin, g2_pkg_saliva, g2_pkg_mucin, g2_mod1_parotid, g2_mod1_tongue, g2_sik_softtis, g2_ap_band, g2_mnt4_open, g2_sik_systemic, g2_sik_sjogren, g2_sik_sports, g2_dh4_sleep, g2_aod_saliva, g2_aod_xero, g2_aod_equiv, g2_sik_pelldef, g2_sik_pellres, g2_dh4_mature, g2_dh10_zero, g2_dh4_moazzez, g2_dh4_removepell, g2_dh4_brushpell, g2_sik_pellbrush, g2_mnt4_pristine, g2_mnt4_wine, g2_mnt4_night, g2_mnt4_cpp, g2_mod1_gum, g2_mod18_subst, g2_dh9_stath, g2_dh9_cost, g2_aod_night-->
 
 <!--REF: g2_Sikri2020, g2_Olley2024, g2_Bartlett2011, g2_Kaidonis2016, g2_Banerjee2015, g2_Torres2020, g2_Bresciani2020, g2_Hill2024, g2_Alani2025-->
 
@@ -27,13 +27,13 @@ The books disagree on how strong the salivary effect is. Bartlett: "The role of 
 
 #### ✎ Exam core
 
-**Introduction.** Erosion is acid dissolution of tooth tissue without bacteria. Saliva and the acquired pellicle are the main biological factors that modify it (Sikri, 2020).
+**Introduction.** Erosion is acid dissolution of tooth tissue without bacteria. Saliva and the acquired pellicle are biological factors that modify it (Sikri, 2020).
 
 **Protective actions of saliva**
 1. **Dilution and clearance** of acid from the mouth (Sikri, 2020).
 2. **Buffering and neutralisation**; parotid saliva protects posterior teeth (Torres et al, 2020).
-3. **Supersaturation with calcium and phosphate**, which allows remineralisation and rehardening of softened enamel; statherins and proline-rich proteins stabilise these ions (Banerjee and Watson, 2015).
-4. **Pellicle formation** from salivary proteins and mucins (Bresciani, Torres and Wiegand, 2020).
+3. **Supply of mineral ions** for mineral deposition (remineralisation); statherins and proline-rich proteins are named among the protective features (Banerjee and Watson, 2015).
+4. **Pellicle formation**, to which mucins contribute (Bresciani, Torres and Wiegand, 2020; Banerjee and Watson, 2015).
 
 **Hyposalivation** (Sjogren's syndrome, irradiation, xerogenic and sleeping drugs, dehydration in sport) increases risk (Sikri, 2020; Olley and Bartlett, 2024). Limitation: strong, frequent acids displace saliva, and lost ions are swallowed, so saliva cannot protect in very active erosion (Kaidonis et al, 2016). Bartlett (2011) considers the role of saliva unclear because clinical studies are equivocal.
 
@@ -43,7 +43,7 @@ The books disagree on how strong the salivary effect is. Bartlett: "The role of 
 
 Definition: "Acquired pellicle is a protein-based semipermeable layer, rapidly formed on the tooth surface" after brushing, prophylaxis or chemical dissolution; it is a barrier and "serves as reservoir of remineralizing electrolytes" (Sikri, 2020) [SRC]. Olley and Bartlett: "The importance of a mature salivary pellicle in providing a protective role during erosion must not therefore be underestimated", and "clinical experiments have demonstrated that the salivary pellicle forms a protective layer against erosion" (Olley and Bartlett, 2024) [SRC]; Hill and Gillam, citing Zero and Lussi: "the protective role of a mature salivary pellicle is key in the prevention against an erosive challenge" (Hill and Gillam, 2024) [SRC]. It is fragile: "Erosive acid challenges are important in removing the smear layer and pellicle", and "toothbrushing will at the very least remove the acquired pellicle, which has been shown to offer protection against erosion in vitro" (Olley and Bartlett, 2024) [SRC]; hence "One should not brush teeth immediately after consuming acidic drink, because it removes the acquired pellicle, thus leaving the teeth less protected" (Sikri, 2020) [SRC]. Kaidonis et al note the active-erosion mouth is "pristine", with no stain or plaque (Kaidonis et al, 2016) [SRC].
 
-Dentine pellicle: Rasputnis et al's review reports a similar ultrastructure to enamel pellicle, up to 1 µm thick, but anti-erosive data on dentine pellicle are controversial (Rasputnis, Schestakow and Hannig, 2021) [LIT]. The "in vitro" qualifier in Olley and Bartlett and the controversial dentine data mean the protective effect is best established for enamel. [Likely]
+Dentine pellicle: Rasputnis et al's review reports that dentine pellicle has a similar ultrastructure to enamel pellicle (which the abstract gives as up to 1 µm thick, depending on formation time and site), but anti-erosive data on dentine pellicle are controversial (Rasputnis, Schestakow and Hannig, 2021) [LIT]. The "in vitro" qualifier in Olley and Bartlett and the controversial dentine data mean the protective effect is best established for enamel. [Likely]
 
 #### ✎ Exam core
 
@@ -58,31 +58,31 @@ Dentine pellicle: Rasputnis et al's review reports a similar ultrastructure to e
 
 ### Explanation
 
-Applications from the books: sugar-free gum to stimulate flow (Torres et al, 2020) [SRC]; saliva substitutes for hyposalivation (Bresciani, Torres and Wiegand, 2020) [SRC]; CPP-ACP creams as "pellicle 'mimicking' agents" with "some positive results" (Kaidonis et al, 2016) [SRC]; wine tasters can avoid brushing "for 1–2 days before a wine-tasting session" so that a protective biofilm forms; nocturnal reflux is dangerous because acid combines "with the reduced salivary flow" (Kaidonis et al, 2016) [SRC]. Pellicle engineering: "synthetic statherin peptides" form a protective pellicle-like layer but "are not economically feasible" (Hill and Gillam, 2024) [SRC]; Buzalaf et al describe pellicle engineering with chitosan and salivary or saliva-derived proteins as promising (Buzalaf et al, 2025) [LIT]; haemoglobin modified the pellicle proteome towards acid-resistant proteins in laboratory studies, but the evidence is limited (Camara et al, 2026) [LIT].
+Applications from the books: sugar-free gum to stimulate flow (Torres et al, 2020) [SRC]; saliva substitutes for hyposalivation (Bresciani, Torres and Wiegand, 2020) [SRC]; CPP-ACP creams as "pellicle 'mimicking' agents" which, anecdotally, "have shown some positive results", with no long-term research (Kaidonis et al, 2016) [SRC]; wine tasters can avoid brushing "for 1–2 days before a wine-tasting session" so that a protective biofilm forms; nocturnal reflux is dangerous because acid combines "with the reduced salivary flow" (Kaidonis et al, 2016) [SRC]. Pellicle engineering: "synthetic statherin peptides" form a protective pellicle-like layer but "are not economically feasible" (Hill and Gillam, 2024) [SRC]; Buzalaf et al describe pellicle engineering with chitosan and salivary or saliva-derived proteins as promising (Buzalaf et al, 2025) [LIT]; in eight included studies, all on enamel pellicles, haemoglobin modified the pellicle proteome towards acid-resistant proteins, but the evidence is limited and needs studies under conditions closer to clinical reality (Camara et al, 2026) [LIT].
 
 #### ✎ Exam core
 
 **Clinical implications**
-1. Do not brush immediately after acid or vomiting; rinse with water.
+1. Do not brush immediately after an acid drink; rinse with water instead (Bartlett, 2011; Sikri, 2020).
 2. Stimulate saliva with sugar-free gum; use saliva substitutes in hyposalivation (Torres et al, 2020; Bresciani, Torres and Wiegand, 2020).
-3. Avoid acidic drinks last thing at night (Bartlett, 2011); nocturnal reflux with reduced salivary flow is high risk (Kaidonis et al, 2016).
-4. CPP-ACP creams act as pellicle-mimicking agents (Kaidonis et al, 2016).
+3. Avoid acid drinks last thing at night (Bartlett, 2011); nocturnal reflux with reduced salivary flow is high risk (Kaidonis et al, 2016).
+4. CPP-ACP creams act as pellicle-mimicking agents, with anecdotal positive results (Kaidonis et al, 2016).
 
-**Recent advances:** pellicle engineering with statherin-like peptides, chitosan or salivary proteins (Hill and Gillam, 2024; Buzalaf et al, 2025), and haemoglobin (Camara et al, 2026); all are laboratory-stage.
+**Recent advances:** pellicle engineering with statherin-like peptides, chitosan or salivary proteins (Hill and Gillam, 2024; Buzalaf et al, 2025), and haemoglobin (Camara et al, 2026); none is yet proven clinically.
 
 ## High-yield points
 - Saliva: dilution, clearance, buffering, Ca/PO4 supersaturation, pellicle.
 - Statherins, proline-rich proteins and mucins are the protective proteins named (Pickard's).
 - Pellicle: protein-based, semipermeable, rapidly formed, barrier plus ion reservoir; removed by acid and brushing.
 - Bartlett (2011): role of saliva "unclear"; other books: hyposalivation increases risk.
-- Pellicle engineering is laboratory-stage only.
+- Pellicle engineering is not yet proven clinically.
 
 ## Diagrams to draw
 - [DIAGRAM: Pellicle on enamel | enamel surface, pellicle layer, saliva above, acid (H+) arrows partly blocked, Ca2+ and PO4 3- held in pellicle | labels: diffusion barrier, ion reservoir, removed by brushing | shows both functions in one figure]
 
 ## Common exam mistakes
 - Writing that saliva "prevents" erosion; it modifies it and fails in an open system with frequent strong acid.
-- Confusing the acquired pellicle with plaque biofilm; the pellicle is acellular.
+- Confusing the acquired pellicle with plaque biofilm; the pellicle is acellular [RECALL].
 - Omitting the brushing implication, which is the main clinical use of this topic.
 
 ## SOURCE LIST
@@ -102,6 +102,8 @@ Applications from the books: sugar-free gum to stimulate flow (Torres et al, 202
 - Alani and Patel, 2025, Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.m, PDF p.234 (printed p.211): "This observa- tion has been theorised to signify neutralisation of the acid by the gingival crevicu- lar fluid"
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.70 (printed p.54): "That is an ‘open system’ where all the essential ions necessary for remineralization are permanently lost"
 - Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.526 (printed p.507): "Hyposalivation may induce dental erosion without excessive exposure to erosive agents"
+- Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.526 (printed p.507): "therapies that involve irradiation of salivary glands"
+- Sikri, 2020, Textbook_of_Conservative_and_Restorative_Dentistry.md, PDF p.525 (printed p.506): "people involved in sports and exercise may be at risk of developing erosion"
 - Olley and Bartlett, 2024, Dentine_Hypersensitivity.md, PDF p.66 (printed p.47): "sleeping medications (which may reduce salivary flow) are associated with more reported DH"
 - Bartlett, 2011, Advanced_Operative_Dentistry.md, PDF p.58 (printed p.52): "The role of saliva in erosion is unclear"
 - Bartlett, 2011, Advanced_Operative_Dentistry.md, PDF p.58 (printed p.52): "It might be that xerostomia results in the severe hypersensitivity to acidic drinks and therefore dietary avoidance"

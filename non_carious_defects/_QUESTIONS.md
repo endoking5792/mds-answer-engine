@@ -35,7 +35,7 @@ Main source: CONSERVATIVE_DENTISTRY_MASTER_REPOSITORY.md §4 (38 sittings), plus
 ## Answered in other topics (link to these, do not repeat them)
 - "Define attrition, abrasion and erosion. What are the techniques in managing hypersensitivity?" (20m): dentin_hypersensitivity Q07. Dentin hypersensitivity from NCCLs in general: dentin_hypersensitivity Q01-Q06.
 - Cracked tooth and fractures: cracked_tooth. Isolation for Class V (retraction clamps): isolation. Gingival retraction for cervical margins: gingival_tissue.
-- GIC/RMGI chemistry: glass_ionomer_cement. Composite and adhesive chemistry: composites, dentin_bonding. Remineralisation within MID: minimal_intervention.
+- GIC/RMGI chemistry: the glass ionomer answers (P1-P10, Q01-Q16 in the repo root; dossier `gic_dossier/`). Composite and adhesive chemistry: composites, dentin_bonding. Remineralisation within MID: minimal_intervention.
 - Bleaching (for fluorosis/discolouration): a future Tooth Bleaching topic; mention only briefly.
 
 ## Groups (parallel drafting)

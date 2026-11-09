@@ -248,6 +248,7 @@ L = {
  'g2_dh4_openbite': ('dh4', 'which has initiated a loss of crown height and an anterior open bite due to gastric erosion'),
  'g2_gd22_meal': ('gd22', 'preferably, during meal times'),
  'g2_aod_night': ('aod', 'Acid drinks should also be avoided last thing at night'),
+ 'g2_mnt4_vomit': ('mnt4', 'may affect other tooth surfaces, particularly the occusal surfaces of the lower teeth'),
  'g2_sik_sjogren': ('sik', 'therapies that involve irradiation of salivary glands'),
 }
 def norm(s):

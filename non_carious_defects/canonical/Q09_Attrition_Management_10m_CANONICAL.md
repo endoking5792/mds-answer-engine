@@ -3,11 +3,12 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Attrition and its management." 10m, Oct 2024 (Manipal PI). For a 5-mark version write sections 1, 3 and 5 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 385 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The full classification of non-carious lesions is in Q1; tooth wear indices (Smith and Knight, BEWE) are in P1; rehabilitation of the whole worn dentition is in Q10 and the Dahl concept in P2. Dentine hypersensitivity treatment is in dentin_hypersensitivity Q01-Q07 and is only named here.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 398 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The full classification of non-carious lesions is in Q1; tooth wear indices (Smith and Knight, BEWE) are in P1; rehabilitation of the whole worn dentition is in Q10 and the Dahl concept in P2. Dentine hypersensitivity treatment is in dentin_hypersensitivity Q01-Q07 and is only named here.
 
 **Retrieval report.** Read: Advanced Operative Dentistry (Ricketts and Bartlett eds) Ch.4 "Tooth wear" (Bartlett) in full (file uses PAGE markers; offset 6, confirmed at printed 45, 49 and 53); Goldstein's Esthetics in Dentistry 3rd ed Ch.22 "Abfraction, abrasion, attrition, and erosion", attrition and bruxism sections and Turner classification (offset 36, confirmed at 697, 698, 699); Harpreet Singh, Essentials of Preclinical Conservative Dentistry 2nd ed Ch.21 attrition section (offset 17, confirmed at 248, 249); Marzouk Ch.27 "Non-carious destruction and disfigurement of teeth", attrition section (two-column OCR; offset -3, confirmed at printed 415, 416, 417); Sturdevant's 2nd South Asian ed Ch.20 attrition and treatment (offset 19, confirmed at 548, 549, 552); Mount et al 3rd ed Ch.4 (Kaidonis et al) attrition section (offset 16, confirmed at 56, 57); Modern Operative Dentistry Ch.1 (Torres et al) attrition paragraph (offset 14, confirmed at 11, 12); Alani and Patel Ch.7 attrition pattern (offset 23, confirmed at 210, 218). Searches: "attrition", "bruxi", "occlusal splint|Michigan splint", "vertical dimension", "physiolog.. wear", "wasting". No live literature. No critical synthesis (10 marks).
 
-<!--LOC: g5_aod_def_attr, g5_st_def, g5_gl_def, g5_mo_def, g5_hs_def, g5_hs_phys, g5_hs_path, g5_mz_def, g5_mo_phys, g5_mt_young, g5_aod_age, g5_pg_phys, g5_gl_brux, g5_gl_func, g5_gl_factors, g5_gl_crossbite, g5_gl_dust, g5_gl_genetic, g5_aod_brux_stress, g5_aod_interf, g5_mt_normal, g5_mt_stress, g5_mt_occl, g5_st_cause, g5_gl_bruxdef, g5_gl_sleep, g5_aod_guidance, g5_gl_sites, g5_gl_shiny, g5_gl_yellow, g5_aod_facets, g5_aod_filed, g5_ap_demarc, g5_ap_mirror, g5_st_cupped, g5_aod_fracture, g5_st_craze, g5_gl_inter, g5_hs_proximal, g5_hs_cheek, g5_mz_ten, g5_mz_short, g5_gl_ovd, g5_mt_facets, g5_mt_shiny, g5_mt_flake, g5_mt_ng, g5_gl_historic, g5_gl_casts, g5_gl_twi, g5_hs_index, g5_aod_combo, g5_pg_softened, g5_gl_mpd, g5_aod_splint, g5_aod_michigan, g5_aod_vac, g5_mt_ng2, g5_mo_splint, g5_mz_splint, g5_hs_tx1, g5_mz_equil, g5_mt_equil, g5_mt_mousse, g5_hs_fl, g5_hs_endo, g5_mz_endo, g5_st_restore, g5_aod_restore_ind, g5_mz_metal, g5_ap_attrmat, g5_mo_gold, g5_mo_feld, g5_gl_turner, g5_gl_t1, g5_gl_t2, g5_gl_t3, g5_gl_ill, g5_gl_guard, g5_st_guard, g5_mt_scooped-->
+
+<!--LOC: g5_aod_def_attr, g5_st_def, g5_gl_def, g5_mo_def, g5_hs_def, g5_hs_phys, g5_hs_path, g5_mz_def, g5_mo_phys, g5_mt_young, g5_aod_age, g5_pg_phys, g5_gl_brux, g5_gl_func, g5_gl_factors, g5_gl_crossbite, g5_gl_dust, g5_gl_genetic, g5_aod_brux_stress, g5_aod_interf, g5_mt_normal, g5_mt_stress, g5_mt_occl, g5_mt_discount, g5_st_cause, g5_gl_bruxdef, g5_gl_sleep, g5_aod_guidance, g5_gl_sites, g5_gl_shiny, g5_gl_yellow, g5_aod_facets, g5_aod_filed, g5_ap_demarc, g5_ap_mirror, g5_st_cupped, g5_aod_fracture, g5_st_craze, g5_gl_inter, g5_hs_proximal, g5_hs_cheek, g5_mz_ten, g5_mz_short, g5_gl_ovd, g5_mt_facets, g5_mt_shiny, g5_mt_flake, g5_mt_ng, g5_gl_historic, g5_gl_casts, g5_gl_twi, g5_hs_index, g5_aod_combo, g5_pg_softened, g5_gl_mpd, g5_aod_splint, g5_aod_michigan, g5_aod_vac, g5_mt_ng2, g5_mo_splint, g5_mz_splint, g5_hs_tx1, g5_mz_equil, g5_mt_equil, g5_mt_mousse, g5_hs_fl, g5_hs_endo, g5_mz_endo, g5_st_restore, g5_aod_restore_ind, g5_mz_metal, g5_ap_attrmat, g5_mo_gold, g5_mo_feld, g5_mo_modern, g5_gl_turner, g5_gl_t1, g5_gl_t2, g5_gl_t3, g5_gl_ill, g5_gl_guard, g5_st_guard, g5_mt_scooped-->
 
 <!--REF: Bartlett2011, Goldstein2018, Singh2020, Marzouk, Ritter2019, Kaidonis2016, Torres2020, Alani2025, Banerjee2015-->
 
@@ -41,7 +42,7 @@ Goldstein et al state that the most common cause of attrition is bruxism (Goldst
 **Bruxism** is grinding, gnashing or clenching of the teeth (Goldstein et al, 2018) [SRC]; sleep bruxism is classed as a sleep-related movement disorder (Goldstein et al, 2018) [SRC]. Sturdevant's lists stress, airway problems and sleep apnoea as the usual drivers (Ritter et al, 2019) [SRC].
 
 The books disagree on what drives bruxism, and the views are recorded side by side:
-- **Stress, not occlusion.** Bartlett says stress is acknowledged by most clinicians and that the occlusal-interference theory remains unproven because interferences are common in people without symptoms (Bartlett, 2011) [SRC]. Kaidonis et al go further: grinding is genetically coded, central in origin and quite normal (Kaidonis et al, 2016) [SRC], its main risk factor is stress (Kaidonis et al, 2016) [SRC], and there is no correlation between grinding and occlusion (Kaidonis et al, 2016) [SRC].
+- **Stress, not occlusion.** Bartlett says stress is acknowledged by most clinicians and that the occlusal-interference theory remains unproven because interferences are common in people without symptoms (Bartlett, 2011) [SRC]. Kaidonis et al go further: grinding is genetically coded, central in origin and quite normal (Kaidonis et al, 2016) [SRC], its main risk factor is stress (Kaidonis et al, 2016) [SRC], and there is no correlation between grinding and occlusion (Kaidonis et al, 2016) [SRC], although they add that occlusion cannot be entirely discounted (Kaidonis et al, 2016) [SRC].
 - **Occlusion contributes.** Goldstein et al list malocclusion among the causes (Goldstein et al, 2018) [SRC], and Marzouk and Harpreet Singh treat attrition with occlusal adjustment or equilibration (section 5).
 
 #### ✎ Exam core
@@ -49,17 +50,17 @@ The books disagree on what drives bruxism, and the views are recorded side by si
 **Aetiology** (Goldstein et al, 2018)
 - Bruxism (commonest): clenching or grinding, awake or sleep; drivers stress, airway problems, sleep apnoea (Ritter et al, 2019).
 - Malocclusion: crossbite, deep bite.
-- Environmental: dust, abrasive diet.
+- Environmental: chronic dust and dirt.
 - Genetic: amelogenesis or dentinogenesis imperfecta.
-- Contributors: erosion softens tooth; loss of posterior support.
+- Contributor: acid erosion softens the surface (Banerjee and Watson, 2015).
 
-Role of occlusal interferences is disputed; stress is the accepted driver (Bartlett, 2011).
+Role of occlusal interferences is disputed; stress is acknowledged by most clinicians (Bartlett, 2011).
 
 ## 3. Clinical features
 
 ### Explanation
 
-**Facets.** Facets appear first on teeth used in guidance, such as canines and premolars (Bartlett, 2011) [SRC]. Typical sites are occlusal surfaces of posterior teeth, palatal surfaces of upper anteriors and labial surfaces of lower anteriors (Goldstein et al, 2018) [SRC]. The surfaces are hard, smooth and shiny (Goldstein et al, 2018) [SRC], and may turn yellowish-brown once dentine is exposed (Goldstein et al, 2018) [SRC]. Opposing arches show paired facets (Bartlett, 2011) [SRC]; in severe cases the teeth look as if they have been filed (Bartlett, 2011) [SRC]. Alani and Patel describe a definite demarcation between worn and spared areas (Alani and Patel, 2025) [SRC], with upper and lower teeth mirroring each other (Alani and Patel, 2025) [SRC], which is what separates attrition from the rounded, glassy surfaces of erosion [Likely]. Sturdevant's describes cupped-out cusp tips because the exposed dentine wears faster than enamel (Ritter et al, 2019) [SRC]. Severe cases show fractured restorations from heavy loading (Bartlett, 2011) [SRC]; enamel craze lines from clenching need no treatment (Ritter et al, 2019) [SRC].
+**Facets.** Facets appear on teeth used in guidance, such as canines and premolars (Bartlett, 2011) [SRC]. Typical sites are occlusal surfaces of posterior teeth, palatal surfaces of upper anteriors and labial surfaces of lower anteriors (Goldstein et al, 2018) [SRC]. The surfaces are hard, smooth and shiny (Goldstein et al, 2018) [SRC], and may turn yellowish-brown once dentine is exposed (Goldstein et al, 2018) [SRC]. Opposing arches show paired facets (Bartlett, 2011) [SRC]; in severe cases the teeth look as if they have been filed (Bartlett, 2011) [SRC]. Alani and Patel describe a definite demarcation between worn and spared areas (Alani and Patel, 2025) [SRC], with upper and lower teeth mirroring each other (Alani and Patel, 2025) [SRC], which is what separates attrition from the rounded, glassy surfaces of erosion [Likely]. Sturdevant's describes cupped-out cusp tips because the exposed dentine wears faster than enamel (Ritter et al, 2019) [SRC]. Severe cases show fractured restorations from heavy loading (Bartlett, 2011) [SRC]; enamel craze lines from clenching need no treatment (Ritter et al, 2019) [SRC].
 
 **Proximal attrition** flattens contacts and causes mesial drift (Goldstein et al, 2018) [SRC], reducing arch length (Singh, 2020) [SRC].
 
@@ -71,7 +72,7 @@ Role of occlusal interferences is disputed; stress is the accepted driver (Bartl
 
 **Clinical features**
 - Flat, shiny, hard facets with sharp margins; facets on opposing teeth match (Goldstein et al, 2018; Bartlett, 2011).
-- Sites: occlusal posteriors, palatal of upper and labial of lower incisors; canines first.
+- Sites: occlusal posteriors, palatal of upper and labial of lower incisors; guidance teeth (canines, premolars) (Bartlett, 2011).
 - Cupped-out cusp tips once dentine exposed (Ritter et al, 2019).
 - Fractured cusps and restorations; craze lines.
 - Proximal facets: mesial drift, shorter arch.
@@ -126,23 +127,23 @@ Pure attrition is unusual: wear is usually a combination (Bartlett, 2011) [SRC],
 **Material: the books disagree.**
 - Marzouk: lost tooth structure is at high stress concentration, so only metallic restorations should be used (Marzouk et al, undated) [SRC].
 - Alani and Patel: an attritive aetiology needs a harder occlusal surface, such as indirect composite, CAD-CAM resin-nano ceramic or metal alloy (Alani and Patel, 2025) [SRC].
-- Torres et al: gold is softer than enamel and kind to the opposing tooth, while feldspathic ceramic causes extensive antagonist wear (Torres et al, 2020) [SRC].
+- Torres et al: gold is softer than enamel and kind to the opposing tooth, while feldspathic ceramic causes extensive antagonist wear, modern ceramics being significantly less abrasive (Torres et al, 2020) [SRC].
 
 **Space and vertical dimension.** Goldstein et al use Turner's 1984 classification (Goldstein et al, 2018) [SRC]: category 1, excessive wear with loss of OVD (Goldstein et al, 2018) [SRC]; category 2, without loss of OVD but with space (Goldstein et al, 2018) [SRC]; category 3, without loss of OVD and limited space (Goldstein et al, 2018) [SRC]. They warn that routinely opening the bite may be ill advised (Goldstein et al, 2018) [SRC]. After rehabilitation an occlusal guard should be made (Goldstein et al, 2018; Ritter et al, 2019) [SRC]. Details of space creation are in Q10 and P2.
 
 #### ✎ Exam core
 
 **Restorative options**
-- Indications: sensitivity, appearance, function, fractures, pulp risk (Bartlett, 2011).
+- Indications: appearance, intractable sensitivity (Bartlett, 2011); also function, fractures, pulp risk.
 - Localised mild: direct composite (hybrid).
 - Localised anterior: composite or palatal veneers at increased OVD (Dahl).
 - Heavy loading: gold or metal onlays, indirect composite/ceramic (Marzouk et al, undated; Alani and Patel, 2025).
 - Generalised: full-mouth rehabilitation planned by Turner category (Goldstein et al, 2018).
-- Always finish with a night guard.
+- Finish with an occlusal guard (Goldstein et al, 2018).
 
 ## High-yield points
 - Attrition = tooth-to-tooth wear; physiological versus pathological is judged by rate against age.
-- Bruxism is the commonest cause of pathological attrition; stress, not occlusion, is the accepted driver.
+- Bruxism is the commonest cause of pathological attrition; stress is widely acknowledged; the occlusal-interference theory is unproven.
 - Matching flat shiny facets with sharp margins distinguish attrition from erosion.
 - Slow wear: OVD kept by dentoalveolar compensation; rapid wear: OVD can be lost.
 - Michigan splint protects teeth but does not stop bruxism.
@@ -185,6 +186,7 @@ Pure attrition is unusual: wear is usually a combination (Bartlett, 2011) [SRC],
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.72 (printed p.56): "is part of the genetic code, is central in origin and is quite normal"
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.73 (printed p.57): "The main risk factor responsible for increasing grinding activity is stress"
 - Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.73 (printed p.57): "there is no correlation between tooth grinding and occlusion"
+- Kaidonis et al, 2016, Preservation_and_Restoration_of_Tooth_Structure_Mount.md, PDF p.73 (printed p.57): "the occlusion cannot be entirely discounted"
 - Ritter et al, 2019, Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_Sout, PDF p.568 (printed p.549): "such as tooth grinding, or bruxism, usually resulting from:"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.733 (printed p.697): "Bruxism is a condition in which persons grind, gnash, or clench their teeth."
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.733 (printed p.697): "Sleep bruxism is considered a sleep-related movement disorder."
@@ -235,6 +237,7 @@ Pure attrition is unusual: wear is usually a combination (Bartlett, 2011) [SRC],
 - Alani and Patel, 2025, Adhesive_Techniques_in_Restorative_Dentistry_Alani_Patel.m, PDF p.244 (printed p.221): "an attritive aetiology requires a more durable, harder occlusal surface"
 - Torres et al, 2020, Modern_Operative_Dentistry.md, PDF p.25 (printed p.11): "Cast gold restorations are usually softer than enamel and amalgam, resulting in less wear of the antagonistic tooth."
 - Torres et al, 2020, Modern_Operative_Dentistry.md, PDF p.25 (printed p.11): "Feldspar ceramics produce extensive antagonistic tooth wear"
+- Torres et al, 2020, Modern_Operative_Dentistry.md, PDF p.25 (printed p.11): "modern dental ceramics are significantly less abrasive"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.733 (printed p.697): "Turner proposed a classification system for occlusal wear in 1984"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.733 (printed p.697): "excessive wear with loss of occlusal vertical dimension (OVD)"
 - Goldstein et al, 2018, Esthetics_in_Dentistry_Goldstein.md, PDF p.733 (printed p.697): "excessive wear without loss of OVD but with space available"
