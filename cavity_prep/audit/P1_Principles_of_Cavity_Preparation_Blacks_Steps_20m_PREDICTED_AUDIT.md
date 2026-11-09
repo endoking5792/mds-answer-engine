@@ -119,3 +119,11 @@
 ## Revision log
 
 - 2026-11-09: First migration to the permanent answer format.
+
+
+## 2026-11-09 optimisation addendum
+
+- Integrated answer retained; current deep-caries recommendation added to the final-procedures section.
+- New source: Schwendicke F, Kosan E, Banerjee A, Baysan A, Bjørndal L, Ceballos L, et al. Deep caries management: EFCD-ESE-ORCA S3-level clinical practice guideline. Int Endod J. 2026 Jul;59(7):1298-1315. doi:10.1111/iej.70132.
+- The guideline suggests selective removal to soft dentine or stepwise removal over non-selective removal to hard dentine in deep caries of vital permanent teeth with no symptoms or symptoms of reversible pulpitis; routine cavity liners are not routinely recommended. Evidence certainty ranges from very low to moderate.
+- Existing textbook locator records are unchanged; the new guideline was retrieved from the published guideline/PubMed record and has no textbook LOC key.
