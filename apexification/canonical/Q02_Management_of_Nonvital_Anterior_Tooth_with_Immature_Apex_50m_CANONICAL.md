@@ -3,12 +3,12 @@
 **Marks:** 50m, Essay
 **Sitting:** 50m, Jun 2021, Manipal PIII (mixed). Repeats absorbed: "Describe the treatment options for management of non-vital immature teeth with open apex." 25m 10-Jul-2023 (RG PII RS-5); "Discuss various treatment modalities for management of a non-vital tooth with an open apex." 20m 16-Jul-2021 (RG PIII RS-3); "Treatment of immature tooth with non-vital pulp." 7m Jun 2017 (Manipal). For a 20-25m sitting write sections 2, 4, 5, 6, 7 and 9 in short form with the definition of section 1; for the 7m sitting, the definitions, the three options in one line each and the comparison table of section 9.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1891 words, about 86 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The word count includes the table separators. Written directly as a canonical answer. Related answers: Q01 of this topic (open apex, considerations and management, including the vital pulp), Q03 (apexification, 10m), P1 (calcium hydroxide versus MTA barrier, 10m); Obturation Q10 (obturation in open apex); Traumatic Dental Injuries T16 (avulsed open-apex incisor), P2 (traumatised immature incisor with necrotic pulp) and T18 (autotransplantation); the Calcium Silicate Cements and Intracanal Medicaments topics; regenerative endodontics in depth is a separate topic.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1887 words, about 86 minutes at 22 words a minute (Section 7 range 1700-2000 words for 50 marks). The word count includes the table separators. Written directly as a canonical answer. Related answers: Q01 of this topic (open apex, considerations and management, including the vital pulp), Q03 (apexification, 10m), P1 (calcium hydroxide versus MTA barrier, 10m); Obturation Q10 (obturation in open apex); Traumatic Dental Injuries T16 (avulsed open-apex incisor), P2 (traumatised immature incisor with necrotic pulp) and T18 (autotransplantation); the Calcium Silicate Cements and Intracanal Medicaments topics; regenerative endodontics in depth is a separate topic.
 
 **Retrieval report.** Read in full: Ingle's 7th ed Ch.28 "Management of teeth with immature apices" (author line OCR-damaged, decoded as Shabahang; cited Shabahang, 2019); Grossman's 14th ed Ch.11 apexification section and Ch.12 "Regenerative endodontics" protocol pages (no chapter author in the file; cited Gopikrishna, 2021); Torabinejad's *Endodontics: Principles and Practice* 6th ed Ch.10, immature-tooth part (Diogenes, Botero and Kang, 2021); Andreasen's *Textbook and Color Atlas of Traumatic Injuries* 4th ed Ch.22 (Cvek, 2007), section on immature non-vital teeth, and Ch.23 (Bakland, 2007); Cohen's 12th ed Ch.12 clinical part (Diogenes, Simon and Law, 2021) and Ch.21 apexification part (Kahler, 2021); Harty's 7th ed Ch.12 necrotic immature teeth (Sigurdsson and Bourguignon, 2017); Sikri 2nd ed Ch.25, apexification part (Sikri, 2019); Weine's 6th ed Ch.14, open apex part (Weine, 2004); Gutmann's *Problem Solving in Endodontics* Ch.13, apexification part (Gutmann and Lovdahl, 2011); *Endodontic Prognosis* Ch.5 (Kang and Bogen, 2017); *Bioceramics in Endodontics* Ch.5 "Bioceramics as an apical plug" (Tonini and Garo, 2024); *Endodontology* Ch.46 (Baumann and Beer, 2010); AAE Glossary 8th ed (2012). Searched, not used: Ingle's Ch.29 and Sikri Ch.38 (regenerative endodontics, a separate topic), Grossman Ch.19 (trauma, covered in the Traumatic Dental Injuries answers). Cohen's Ch.12 and Ch.21, Weine's and the Glossary are cited by PDF page only. Live search: none. Named studies (Frank, Cvek, Pradhan et al, Witherspoon-type series, meta-analyses) are cited as reported by the textbooks; the original papers were not read.
 
 
-<!--LOC: q02_gl_apexif, q02_gl_barrier, q02_gl_blunder, q02_gl_regen, q02_gl_autot, q02_g_def, q02_g_noroot, q02_g_disinf, q02_g_hard, q02_g_6m4y, q02_g_weak, q02_g_2yr, q02_g_1wk, q02_g_31, q02_g_34mm, q02_g_wl2, q02_g_3mo, q02_g_48h, q02_g_thermo, q02_g_rmgic, q02_g_better, q02_g12_tap, q02_g12_15, q02_g12_contra, q02_g12_ind, q02_g12_clot, q02_g12_fu, q02_g12_disadv, q02_g12_mepi, q02_g12_fail, q02_t_nodim, q02_t_39, q02_t_onestep, q02_t_90, q02_t_cervfx, q02_t_15, q02_t_swell, q02_t_colla, q02_t_5mm, q02_t_fu, q02_t_rep, q02_t_repdim, q02_t_24, q02_t_100, q02_t_repair, q02_t_62, q02_t_cases, q02_t_mepi, q02_t_edta, q02_t_10k, q02_t_missing, q02_i_thin, q02_i_chem, q02_i_eal, q02_i_cold, q02_i_bl, q02_i_20min, q02_i_1month, q02_i_tap, q02_i_stain, q02_i_scap, q02_i_bacteria, q02_i_frank, q02_i_49, q02_i_3_2, q02_i_noconsensus, q02_i_monthly, q02_i_short1, q02_i_short2, q02_i_porous, q02_i_ph, q02_i_cem, q02_i_plugger, q02_i_ultra, q02_i_matrix, q02_i_35, q02_i_2mm, q02_i_81, q02_i_935, q02_i_965, q02_i_pradhan, q02_i_similar, q02_i_92, q02_i_disc, q02_i_45, q02_i_bonded, q02_i_cervfail, q02_i_ceases, q02_i_noCH, q02_i_1wkbetter, q02_i_technique, q02_i_fewer, q02_i_ph_role, q02_i_alp, q02_i_reinf, q02_i_86, q02_i_xray, q02_i_intrus, q02_cv_wide, q02_cv_purpose, q02_cv_ph, q02_cv_999, q02_cv_dissolve, q02_cv_cementum, q02_cv_islands, q02_cv_location, q02_cv_moderate, q02_cv_vital, q02_cv_05, q02_cv_cmcp, q02_cv_36, q02_cv_monkey, q02_cv_5mo, q02_cv_refill, q02_cv_618, q02_cv_gentle, q02_cv_tip, q02_cv_7996, q02_cv_589, q02_cv_77, q02_cv_brittle, q02_cv_naocl, q02_cv_space, q02_cv_retreat, q02_cv_zoe, q02_b_frac, q02_b_sheep, q02_b_mtaeq, q02_b_disadv, q02_b_tittle, q02_b_4mm, q02_b_brush, q02_b_1month, q02_b_twoweeks, q02_b_moist, q02_b_46h, q02_b_atleast4, q02_b_resin, q02_b_noresin, q02_b_bonded, q02_b_ph, q02_b_nodetr, q02_k_ind, q02_k_wider, q02_k_05, q02_k_1wk, q02_k_nobaso4, q02_k_3mo, q02_k_toxic, q02_k_probe, q02_k_318, q02_k_notconcl, q02_k_caso4, q02_k_45, q02_k_swiss, q02_k_short, q02_k_30, q02_k_implant, q02_k_bone, q02_k_7996, q02_k_variable, q02_k_softened, q02_c_challenge, q02_c_23, q02_c_onestep, q02_c_select, q02_c_post, q02_c_mino, q02_c_alt, q02_c_15, q02_c_chx, q02_c_tap, q02_c_34wk, q02_c_mepi, q02_c_k25, q02_c_2mm, q02_c_gic, q02_c_mtadisc, q02_c_4yr, q02_c_9195, q02_c_9897, q02_c_casese, q02_c_50, q02_c_ectopic, q02_c_elong, q02_h_two, q02_h_three, q02_h_thin, q02_h_3wk, q02_h_thick, q02_h_noreplace, q02_h_624, q02_h_bact, q02_h_23step, q02_h_714, q02_h_collacote, q02_h_micro, q02_h_disc, q02_h_2755, q02_h_fibre, q02_h_neck, q02_h_decemented, q02_s_def, q02_s_918, q02_s_68wk, q02_s_pulpdent, q02_s_hers, q02_s_4wk, q02_s_resist, q02_s_cephalexin, q02_s_short, q02_s_5naocl, q02_s_34, q02_s_prf, q02_s_clearpost, q02_s_four, q02_s_3mm, q02_s_bonding, q02_w_blunder, q02_w_surg, q02_w_flap, q02_w_two, q02_w_hedstrom, q02_w_h2o2, q02_w_6mo, q02_w_five, q02_w_invert, q02_w_swiss, q02_w_breakdown, q02_w_shape, q02_gu_osteo, q02_gu_3_12, q02_gu_342, q02_gu_counter, q02_gu_onevisit, q02_gu_metal, q02_gu_surg, q02_gu_24h, q02_gu_customcone, q02_gu_questions, q02_p_15yr, q02_p_trad, q02_p_scap, q02_p_behav, q02_p_overfill, q02_p_manual, q02_p_45, q02_p_hemo, q02_p_100, q02_p_disinf, q02_p_bonded, q02_bi_6mo, q02_bi_ind, q02_bi_7996, q02_bi_81100, q02_bi_four, q02_bi_time, q02_bi_ret, q02_bi_ret2, q02_bi_ret3, q02_bi_biod, q02_bi_nodisc, q02_bi_inconcl, q02_bi_mtadis, q02_bi_1mm, q02_bi_cem, q02_bi_overfill, q02_bi_mapsys, q02_e_1yr, q02_e_7496, q02_e_36, q02_e_3mm, q02_e_nodis, q02_e_24h-->
+<!--LOC: q02_gl_apexif, q02_gl_barrier, q02_gl_blunder, q02_gl_regen, q02_gl_autot, q02_g_def, q02_g_noroot, q02_g_disinf, q02_g_hard, q02_g_6m4y, q02_g_weak, q02_g_2yr, q02_g_1wk, q02_g_31, q02_g_34mm, q02_g_wl2, q02_g_3mo, q02_g_48h, q02_g_thermo, q02_g_rmgic, q02_g_better, q02_g12_tap, q02_g12_15, q02_g12_contra, q02_g12_ind, q02_g12_fu, q02_g12_disadv, q02_g12_mepi, q02_t_nodim, q02_t_39, q02_t_onestep, q02_t_90, q02_t_cervfx, q02_t_15, q02_t_swell, q02_t_colla, q02_t_5mm, q02_t_fu, q02_t_rep, q02_t_repdim, q02_t_24, q02_t_100, q02_t_repair, q02_t_62, q02_t_cases, q02_t_mepi, q02_t_edta, q02_t_10k, q02_t_missing, q02_i_thin, q02_i_chem, q02_i_eal, q02_i_cold, q02_i_bl, q02_i_20min, q02_i_1month, q02_i_tap, q02_i_stain, q02_i_scap, q02_i_bacteria, q02_i_frank, q02_i_3_2, q02_i_noconsensus, q02_i_monthly, q02_i_short1, q02_i_short2, q02_i_porous, q02_i_ph, q02_i_cem, q02_i_ultra, q02_i_matrix, q02_i_35, q02_i_2mm, q02_i_81, q02_i_935, q02_i_965, q02_i_pradhan, q02_i_similar, q02_i_92, q02_i_disc, q02_i_45, q02_i_bonded, q02_i_cervfail, q02_i_ceases, q02_i_noCH, q02_i_1wkbetter, q02_i_technique, q02_i_fewer, q02_i_ph_role, q02_i_alp, q02_i_reinf, q02_i_86, q02_i_xray, q02_i_intrus, q02_cv_wide, q02_cv_purpose, q02_cv_ph, q02_cv_999, q02_cv_dissolve, q02_cv_cementum, q02_cv_islands, q02_cv_location, q02_cv_moderate, q02_cv_vital, q02_cv_05, q02_cv_cmcp, q02_cv_36, q02_cv_monkey, q02_cv_5mo, q02_cv_refill, q02_cv_618, q02_cv_gentle, q02_cv_tip, q02_cv_7996, q02_cv_589, q02_cv_77, q02_cv_brittle, q02_cv_naocl, q02_cv_space, q02_cv_retreat, q02_cv_zoe, q02_b_frac, q02_b_sheep, q02_b_mtaeq, q02_b_disadv, q02_b_tittle, q02_b_4mm, q02_b_brush, q02_b_1month, q02_b_twoweeks, q02_b_moist, q02_b_46h, q02_b_atleast4, q02_b_resin, q02_b_noresin, q02_b_bonded, q02_b_ph, q02_b_nodetr, q02_k_ind, q02_k_wider, q02_k_05, q02_k_1wk, q02_k_nobaso4, q02_k_3mo, q02_k_toxic, q02_k_probe, q02_k_318, q02_k_notconcl, q02_k_caso4, q02_k_45, q02_k_swiss, q02_k_short, q02_k_30, q02_k_implant, q02_k_bone, q02_k_7996, q02_k_variable, q02_k_softened, q02_c_challenge, q02_c_23, q02_c_select, q02_c_post, q02_c_mino, q02_c_alt, q02_c_15, q02_c_chx, q02_c_tap, q02_c_34wk, q02_c_mepi, q02_c_k25, q02_c_2mm, q02_c_gic, q02_c_mtadisc, q02_c_4yr, q02_c_9195, q02_c_9897, q02_c_casese, q02_c_50, q02_c_ectopic, q02_c_elong, q02_h_two, q02_h_three, q02_h_thin, q02_h_3wk, q02_h_thick, q02_h_noreplace, q02_h_624, q02_h_bact, q02_h_23step, q02_h_714, q02_h_collacote, q02_h_micro, q02_h_disc, q02_h_2755, q02_h_fibre, q02_h_neck, q02_h_decemented, q02_s_def, q02_s_918, q02_s_68wk, q02_s_pulpdent, q02_s_hers, q02_s_4wk, q02_s_resist, q02_s_cephalexin, q02_s_short, q02_s_5naocl, q02_s_34, q02_s_prf, q02_s_clearpost, q02_s_four, q02_s_3mm, q02_s_bonding, q02_w_blunder, q02_w_surg, q02_w_flap, q02_w_hedstrom, q02_w_h2o2, q02_w_6mo, q02_w_five, q02_w_invert, q02_w_swiss, q02_w_breakdown, q02_w_shape, q02_gu_osteo, q02_gu_3_12, q02_gu_342, q02_gu_counter, q02_gu_onevisit, q02_gu_metal, q02_gu_surg, q02_gu_24h, q02_gu_customcone, q02_gu_questions, q02_p_15yr, q02_p_trad, q02_p_scap, q02_p_behav, q02_p_overfill, q02_p_manual, q02_p_45, q02_p_100, q02_p_disinf, q02_p_bonded, q02_bi_6mo, q02_bi_ind, q02_bi_7996, q02_bi_81100, q02_bi_four, q02_bi_time, q02_bi_ret, q02_bi_ret2, q02_bi_ret3, q02_bi_biod, q02_bi_nodisc, q02_bi_inconcl, q02_bi_mtadis, q02_bi_1mm, q02_bi_cem, q02_bi_overfill, q02_e_1yr, q02_e_7496, q02_e_36, q02_e_3mm, q02_e_nodis, q02_e_24h, q02_g_frank, q02_g_hertwig, q02_g_carrier, q02_g_sterile, q02_g12_compl, q02_g12_allergy, q02_g12_avuls, q02_g12_medic, q02_g12_edta, q02_g12_bleed, q02_g12_gic, q02_h_signs, q02_h_barium, q02_h_3mo, q02_h_fallback, q02_i_doppler, q02_i_attrition, q02_i_ct, q02_i_chart, q02_i_310, q02_i_1014, q02_i_older, q02_i_12mo, q02_i_tcp, q02_i_dentin, q02_i_extr, q02_i_loose, q02_i_shortroot, q02_e_tab, q02_e_still, q02_e_sittings, q02_e_multiple, q02_e_breakage, q02_p_tubules, q02_p_backfill, q02_w_osteo, q02_w_other, q02_w_apfill, q02_cv_ectopic, q02_cv_elim, q02_cv_pellet, q02_cv_flame, q02_cv_resist, q02_cv_thermo, q02_cv_nodiff, q02_cv_reCH, q02_s_barium, q02_s_erupt, q02_k_3moxr, q02_k_advis, q02_c_less, q02_c_adv, q02_c_nodev, q02_c_box15, q02_c_box24, q02_c_23mm, q02_t_6yr, q02_gu_porous, q02_gu_favor, q02_gu_tissue, q02_b_plug, q02_bi_two, q02_bi_ph, q02_bi_ret4, q02_gl_mat, q02_i_1yr, q02_e_grey, q02_t_circ, q02_k_lentulo, q02_cv_contdev, q02_i_incr-->
 
 <!--REF: q02_Shabahang2019, q02_Gopikrishna2021, q02_Diogenes2021tor, q02_Cvek2007, q02_Bakland2007, q02_Diogenes2021coh, q02_Kahler2021, q02_Sigurdsson2017, q02_Sikri2019, q02_Weine2004, q02_Gutmann2011, q02_Kang2017, q02_Tonini2024, q02_Baumann2010, q02_AAE2012-->
 
@@ -20,7 +20,7 @@
 
 **Terms.** The AAE Glossary defines apexification as "A method to induce a calcified barrier in a root with an open apex or the continued apical development of an incompletely formed root in teeth with necrotic pulps" (American Association of Endodontists, 2012) [SRC]. Grossman's narrower wording is a method to induce a calcific barrier across the open apex of an immature, pulpless tooth (Gopikrishna, 2021) [SRC]; Sikri speaks of inducing apical closure by mineralised tissue in the apical pulp region of a nonvital tooth (Sikri, 2019) [SRC]. An apical barrier is "A blockage of the apical foramen; may be an induced hard tissue or artificial materials" (American Association of Endodontists, 2012) [SRC], which is why the MTA plug is also called one-step apexification (Diogenes, Botero and Kang, 2021) [SRC]. Regenerative endodontics is defined as biologically based procedures designed to physiologically replace damaged tooth structures (American Association of Endodontists, 2012) [SRC]; Torabinejad's chapter adds that the regenerative endodontic procedure (REP) is "also known as pulp revascularization or pulp revitalization" (Diogenes, Botero and Kang, 2021) [SRC].
 
-**Apexification is not root growth.** Grossman stresses that "Actual root growth does not occur as a result of apexification" (Gopikrishna, 2021) [SRC], and Torabinejad's chapter that apexified immature teeth "do not undergo changes in the root dimension" (Diogenes, Botero and Kang, 2021) [SRC]. The Glossary's definition, which still allows "continued apical development", reflects the older observation that some apical tissue may survive (Cvek, 2007) [SRC]; the two are not in conflict, they describe the usual result and the occasional bonus. [Likely]
+**Apexification is not root growth.** Grossman stresses that "Actual root growth does not occur as a result of apexification" (Gopikrishna, 2021) [SRC], and Torabinejad's chapter that apexified immature teeth "do not undergo changes in the root dimension" (Diogenes, Botero and Kang, 2021) [SRC]. The Glossary's definition, which still allows "continued apical development", reflects the observation that continued root development or "formation of a separate part of the root may occasionally occur" when pulp tissue or the root sheath survives (Cvek, 2007) [SRC]; the two are not in conflict, they describe the usual result and the occasional bonus. [Likely]
 
 **The question's scope.** The options the books give are: (1) calcium hydroxide apexification, (2) an artificial apical barrier of MTA or another calcium silicate cement, (3) regenerative endodontic procedures, and older or last-resort options. Harty's lists the first three as "Several approaches exist: classical apexification, MTA apexification, or the ‘revascularization’ procedures" (Sigurdsson and Bourguignon, 2017) [SRC]; Kang and Bogen list the traditional ones as "extraction, conventional root canal treatment, or apexification procedures" (Kang and Bogen, 2017) [SRC].
 
@@ -53,13 +53,13 @@ Apexification closes the apex but does not lengthen or thicken the root (Gopikri
 
 | Problem | Consequence |
 |---|---|
-| Blunderbuss canal: apical diameter greater than coronal (Weine, 2004; American Association of Endodontists, 2012) | Walls cannot be cleaned by instrumentation; canal cannot be sealed by a cone |
+| Blunderbuss canal: apical diameter greater than coronal (Weine, 2004; American Association of Endodontists, 2012) | Walls hard to clean; canal hard to seal (Cvek, 2007) |
 | No apical constriction/stop (Kahler, 2021) | Irrigant, medicament and filling material extrude periapically (Diogenes, Simon and Law, 2021) |
 | Thin, fragile dentine walls (Shabahang, 2019) | Cervical root fracture during and after treatment (Sigurdsson and Bourguignon, 2017) |
 | Short root, poor crown-root ratio; no further root growth once pulp is lost (Shabahang, 2019) | Weak tooth for life |
 | Apex locators inaccurate (Shabahang, 2019) | Radiographic length |
 | Infected canal, periapical lesion, often inflammatory resorption (Bakland, 2007) | Disinfection must come first |
-| Young, apprehensive patient | Compliance with multiple visits is poor |
+| Young, apprehensive patient | Poor compliance with many visits (Shabahang, 2019) |
 
 ## 3. Case assessment and diagnosis
 
@@ -80,7 +80,7 @@ Apexification closes the apex but does not lengthen or thicken the root (Gopikri
 **Choosing the option:**
 - Very immature root, no post needed, cooperative patient: REP (Diogenes, Simon and Law, 2021).
 - Apex over size 50-60, post needed, poor compliance, failed REP: MTA/bioceramic plug (Tonini and Garo, 2024; Kang and Bogen, 2017).
-- Calcium silicate unavailable: calcium hydroxide apexification.
+- Calcium silicate unavailable: calcium hydroxide apexification. [Likely]
 
 ## 4. Access, disinfection and intracanal medicaments (common to all options)
 
@@ -88,17 +88,17 @@ Apexification closes the apex but does not lengthen or thicken the root (Gopikri
 
 **Disinfection is the precondition.** Grossman: "it appears that disinfection of the root canal is indispensable to apical closure" (Gopikrishna, 2021) [SRC]; Ingle's: "remaining bacteria in the root canal system will lead to continued irritation" that interferes with root-end development (Shabahang, 2019) [SRC]. Kang and Bogen and Torabinejad's chapter show that REP outcome too depends on disinfection rather than on protocol details (Kang and Bogen, 2017; Diogenes, Botero and Kang, 2021) [SRC].
 
-**Instrumentation: minimal.** Ingle's: "debridement should be achieved primarily through chemical means" because the canals are already wide (Shabahang, 2019) [SRC]. Cvek: "Only moderate pressure should be used, in order to avoid weakening of the root canal walls in the cervical area", and vital tissue in the apical lumen "should not be removed" because it may improve barrier quality or root growth (Cvek, 2007) [SRC]. Bakland: "it is preferable to gently brush the walls and use a liberal amount of irrigation with sodium hypochlorite"; a cotton-wrapped file makes the brush (Bakland, 2007) [SRC]. Weine uses "a large Hedstrom file may be used to rasp the walls of the canal with heavy irrigation" and a cotton-wrapped broach (Weine, 2004) [SRC]; Torabinejad's chapter, larger K-files with circumferential filing (Diogenes, Botero and Kang, 2021) [SRC]. Grossman sets working length "at least 2 mm short of the radiographic apex of the tooth" (Gopikrishna, 2021) [SRC].
+**Instrumentation: minimal.** Ingle's: "debridement should be achieved primarily through chemical means" because the canals are already wide (Shabahang, 2019) [SRC]. Cvek: "Only moderate pressure should be used, in order to avoid weakening of the root canal walls in the cervical area", and vital tissue in the apical lumen "should not be removed" because it may improve barrier quality or root growth (Cvek, 2007) [SRC]. Bakland: "it is preferable to gently brush the walls and use a liberal amount of irrigation with sodium hypochlorite"; a cotton-wrapped file makes the brush (Bakland, 2007) [SRC]. Weine uses "a large Hedstrom file may be used to rasp the walls of the canal with heavy irrigation" and a cotton-wrapped broach (Weine, 2004) [SRC]; Torabinejad's chapter, larger K-files used "primarily by circumferential filing" (Diogenes, Botero and Kang, 2021) [SRC]. Grossman sets working length "at least 2 mm short of the radiographic apex of the tooth" (Gopikrishna, 2021) [SRC].
 
 **Irrigant concentration: the books disagree.** Cvek flushes with 0.5% sodium hypochlorite (Cvek, 2007) [SRC]; Kahler uses "copious irrigation with 0.5% NaOCl" because of the danger of extrusion through the wide apex, with volume compensating for strength (Kahler, 2021) [SRC]. Torabinejad's chapter and Kang and Bogen use passive irrigation with 1.5% NaOCl for 15-20 minutes (Diogenes, Botero and Kang, 2021; Kang and Bogen, 2017) [SRC], and 1.5% is the REP standard (Diogenes, Simon and Law, 2021; Gopikrishna, 2021) [SRC]. Sikri, before the MTA plug, irrigates "with 5.0% sodium hypochlorite and 17% EDTA" (Sikri, 2019) [SRC]. Weine alternates sodium hypochlorite and hydrogen peroxide (Weine, 2004) [SRC]. This is a difference of protocol and of era: the low concentrations are chosen for safety at the open apex and for stem-cell survival in REP. Ingle's adds a time limit, structural changes when dentine is exposed to NaOCl "for periods exceeding 20 minutes" (Shabahang, 2019) [SRC], and Cvek reports in vitro that 3 or 5% NaOCl increases the brittleness of dentine like calcium hydroxide (Cvek, 2007) [SRC]. [Certain that the books differ; Likely that 0.5-1.5% is the safer choice in thin roots]
 
-**Calcium hydroxide.** Its actions all relate to its high pH of 12.5: in vitro 99.9% of common canal bacteria are killed within minutes, and it dissolves necrotic pulp remnants, which matters because "the thin dentinal walls do not permit intensive reaming" (Cvek, 2007) [SRC]. Kahler spins a creamy mix in with a Lentulo; it is effective after at least 1 week, and "Further treatment should not be delayed more than 1 month" because it washes out through the open apex (Kahler, 2021) [SRC]. Harty's starts with a thin mix ("less than toothpaste consistency") for about 3 weeks (Sigurdsson and Bourguignon, 2017) [SRC]. Cvek finds no justification for adding camphorated parachlorophenol, corticosteroids or antibiotics (Cvek, 2007) [SRC]. The time limit: Ingle's reports structural change in dentine after calcium hydroxide "for periods exceeding one month" (Shabahang, 2019) [SRC]; Bakland limits exposure "to one month or less", noting it is "very effective if left in place for up to two weeks" (Bakland, 2007) [SRC].
+**Calcium hydroxide.** Its actions all relate to its high pH of 12.5: in vitro 99.9% of common canal bacteria are killed within minutes, and it dissolves necrotic pulp remnants, which matters because "the thin dentinal walls do not permit intensive reaming" (Cvek, 2007) [SRC]. Kahler's creamy mix is "spun into the canal with a Lentulo spiral instrument"; it is effective after at least 1 week, and "Further treatment should not be delayed more than 1 month" because it washes out through the open apex (Kahler, 2021) [SRC]. Harty's starts with a thin mix ("less than toothpaste consistency") for about 3 weeks (Sigurdsson and Bourguignon, 2017) [SRC]. Cvek finds no justification for adding camphorated parachlorophenol, corticosteroids or antibiotics (Cvek, 2007) [SRC]. The time limit: Ingle's reports structural change in dentine after calcium hydroxide "for periods exceeding one month" (Shabahang, 2019) [SRC]; Bakland limits exposure "to one month or less", noting it is "very effective if left in place for up to two weeks" (Bakland, 2007) [SRC].
 
 **Triple antibiotic paste (TAP).** Metronidazole, ciprofloxacin and minocycline, recommended by Trope's group (Shabahang, 2019) [SRC]. Drawbacks: crown staining from minocycline, hence double antibiotic paste (Shabahang, 2019) [SRC]; Sikri raises bacterial resistance and suggests cephalexin in place of minocycline (Sikri, 2019) [SRC]; and the double and triple pastes "reduce the survival of these cells in contrast to calcium hydroxide" (stem cells of the apical papilla) (Shabahang, 2019) [SRC]. Sikri calls four weeks of TAP an effective approach for nonvital open-apex teeth (Sikri, 2019) [SRC].
 
 #### ✎ Exam core
 
-**Principle:** disinfection is indispensable to apical closure (Gopikrishna, 2021); residual bacteria block root-end development (Shabahang, 2019).
+**Principle:** disinfection is indispensable to apical closure (Gopikrishna, 2021).
 
 **Steps:**
 1. Rubber dam; adequate access (Cvek, 2007).
@@ -200,7 +200,7 @@ Kind of disagreement: different risk judgements on the same evidence; no book re
 
 **Materials:** MTA (staining, slow set, cost); Biodentine (sets in about 12 minutes, no staining, evidence inconclusive); BC putty, CEM cement (Tonini and Garo, 2024).
 
-**Problems:** extrusion (over 2 mm may retard healing), discoloration (22.7% in one series) (Shabahang, 2019); difficult placement (Sigurdsson and Bourguignon, 2017); walls stay thin.
+**Problems:** extrusion (over 2 mm may retard healing), discoloration (22.7% in one series), thin walls remain (Shabahang, 2019).
 
 ## 7. Option 3: regenerative endodontic procedure (revascularisation)
 
@@ -229,7 +229,7 @@ Kind of disagreement: different risk judgements on the same evidence; no book re
 **Protocol (AAE/ESE type):**
 - *Visit 1:* minimal instrumentation; 1.5% NaOCl 20 mL/canal, saline; calcium hydroxide or antibiotic paste (TAP 0.1-1.0 mg/mL in Gopikrishna, 2021; 1-10 mg/mL in Diogenes, Simon and Law, 2021); temporary seal.
 - *Visit 2 (2-4 weeks):* 3% mepivacaine without vasoconstrictor; 17% EDTA; bleeding induced past the apex to the CEJ; collagen matrix; 2-3 mm tricalcium silicate (Biodentine/BC putty, not MTA, for colour); GIC and bonded composite (Diogenes, Simon and Law, 2021).
-- *Follow-up:* 3 and 6 months, then yearly for 4 years.
+- *Follow-up:* 3 and 6 months, then yearly for 4 years (Diogenes, Simon and Law, 2021).
 
 **Outcomes:** healing of apical periodontitis nearly 100% (Diogenes, Botero and Kang, 2021), but root growth only 27-55% (Sigurdsson and Bourguignon, 2017) and vitality responses in about 50% (Diogenes, Simon and Law, 2021); the tissue is repair tissue, with intracanal calcification in 62% of one series (Diogenes, Botero and Kang, 2021).
 
@@ -267,15 +267,15 @@ The comparison table draws on sections 5-7. Time: calcium hydroxide 3-9 months (
 |---|---|---|---|
 | Principle | Induced biological hard-tissue barrier | Artificial barrier, immediate | Repopulation of canal with vital tissue |
 | Visits | Many, every 3-6 months | 1-2 | 2-3 + long recall |
-| Time to obturation | 3-24 months | Days (0.75 vs 7 months; Shabahang, 2019) | No obturation |
+| Time to obturation | 3-24 months | Weeks (0.75 vs 7 months; Shabahang, 2019) | No obturation |
 | Barrier | Porous, irregular cementum/osteocementum | Set cement + cementum over it | Apical closure if root matures |
 | Root length/wall thickness | No change | No change | May increase (variable) |
 | Dentine weakening | Yes, after long exposure | No (Bakland, 2007) | Short medicament only |
-| Discoloration | Little | MTA stains; Biodentine less | Minocycline, MTA cap |
+| Discoloration | Slight grey possible (Baumann and Beer, 2010) | MTA stains; Biodentine less | Minocycline, MTA cap |
 | Healing/success | 79-96% (Cvek, 2007) | 81-100% (Tonini and Garo, 2024) | About 91% healing (Diogenes, Simon and Law, 2021) |
 | Main drawback | Time, compliance, fracture | Cost, placement, thin walls | Unpredictable root growth; no post |
 
-Meta-analyses find no significant difference in success between the three (Shabahang, 2019; Diogenes, Simon and Law, 2021); they differ in time, visits and root development.
+Meta-analyses find no significant difference in success between calcium hydroxide and MTA (Shabahang, 2019) or between apexification and REP (Diogenes, Simon and Law, 2021); the options differ in time, visits and root development.
 
 ## 10. Obturation after the barrier (brief; see Obturation Q10)
 
@@ -326,7 +326,7 @@ Most failures are cervical root fractures (Shabahang, 2019), so:
 
 Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2007; Shabahang, 2019); Kahler considers the calcium hydroxide effect unproven and relates fracture to root stage.
 
-**Conclusion.** Healing is good with every option; survival depends on root maturity, cervical reinforcement and coronal seal. Disinfect gently; choose REP where root growth is wanted and no post is needed, otherwise an MTA/bioceramic plug; calcium hydroxide apexification remains valid but slow; reinforce and follow up for years.
+**Conclusion.** Healing is good with every option; survival depends on root maturity, cervical reinforcement and coronal seal. REP where root growth is wanted and no post is needed, otherwise an MTA/bioceramic plug; calcium hydroxide apexification remains valid but slow.
 
 ## CRITICAL EVIDENCE SYNTHESIS
 
@@ -402,11 +402,9 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.241 (printed p.216): "Irrigation with 20 ml of 1.5% NaOCl for 5 minutes"
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Teeth that require restoration with a post"
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.241 (printed p.216): "Teeth with necrotic pulp and an immature apex in young"
-- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "wait for blood clot formation for 15 minutes"
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Follow‐ups should be performed after 1, 3, 6, 12, 18"
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.243 (printed p.218): "Prolonged treatment period and more appointments"
 - Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Local anesthesia (3% mepivacaine"
-- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.243 (printed p.218): "Insufficient bleeding during the procedure"
 - Diogenes, Botero and Kang, 2021, 10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.m, PDF p.194 (printed p.187): "immature teeth treated by apexification do not undergo changes in the root dimension"
 - Diogenes, Botero and Kang, 2021, 10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.m, PDF p.194 (printed p.187): "requires 3- to 9-month period of treatment"
 - Diogenes, Botero and Kang, 2021, 10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.m, PDF p.194 (printed p.187): "known as one-step apexification"
@@ -440,7 +438,6 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.812 (printed p.918): "reduce the survival of these cells in contrast to calcium hydroxide"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.812 (printed p.918): "remaining bacteria in the root canal system will lead to continued irritation"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.813 (printed p.919): "Frank83 proposed placement of a thick paste of calcium hydroxide and CMCP"
-- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.815 (printed p.921): "Forty-nine of 51 teeth developed an apical barrier"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "Apical barrier formation may take from 3 months to 2 years"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "there has been no consensus on the optimal timing to change the dressing material"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "varies from once every month, once every three months, once every six to eight months, or not at all"
@@ -449,7 +446,6 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.817 (printed p.923): "is a porous structure116 that may be permeable to microbial irritants"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.818 (printed p.924): "reported to be 10.2, rising to 12.5 at three hours and thereafter"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.818 (printed p.924): "its ability to induce cementum formation around the repair area"
-- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.819 (printed p.925): "smallest plugger should"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.819 (printed p.925): "Ultrasonic vibration can be used on the pluggers to help advance MTA"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.819 (printed p.925): "use of a matrix material is generally not required to limit the movement of MTA"
 - Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.820 (printed p.926): "3–5mm (Figure 28-22) to minimize the possibility of future apical leakage"
@@ -541,7 +537,6 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2592: "a softened filling technique is indicated in these teeth"
 - Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1604: "the open apex increases the risk of extruding material into the periradicular tissues"
 - Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1605: "resulted in the fracture of 23% of the teeth treated during the follow-up period of up to 18 months"
-- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1605: "has greatly decreased the number of appointments and time to completion"
 - Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1623: "the incompletely developed permanent tooth that has an open apex and is negative to pulpal responsiveness testing"
 - Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1623: "teeth requiring retention in the canal space for the restoration are not good candidates for REPs"
 - Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1623: "clinical staining of the crown and any root structure above the gingival margin appears to be due to the presence of minocycline"
@@ -598,7 +593,6 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1508: "An open apex refers to the absence of sufficient root development to provide a conical taper to the canal and is referred to as a blunderbuss canal"
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1509: "particularly if the pulp was necrotic and a periapical lesion was present, was treated surgically"
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1509: "Flapping teeth on youngsters is not easy"
-- Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1513: "Apexification (see Figure 14-10) requires two sittings, with anesthesia usually not needed for either"
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1513: "a large Hedstrom file may be used to rasp the walls of the canal with heavy irrigation"
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1519: "it is wise to alternate between sodium hypochlorite and hydrogen peroxide"
 - Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1522: "At 6 months the patient is recalled for radiographic examination"
@@ -624,7 +618,6 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.88 (printed p.79): "although CSC overfill does not compromise the outcome"
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.89 (printed p.80): "manual compaction of MTA provides dense compaction and may be preferable to using ultrasonic condensation techniques"
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.89 (printed p.80): "the obturation should ideally produce a 4–5 mm CSC plug to ensure an adequate seal"
-- Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.89 (printed p.80): "In cases where hemostasis is not attainable, the canal should be filled with CH paste"
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.84 (printed p.75): "nearly 100 % success rate and 100 % rate of apical closure"
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.85 (printed p.76): "depend largely on disinfection of root canals and recruitment of resident MSCs into the canal space rather than technical details"
 - Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.89 (printed p.80): "Superior outcomes are achieved when the access orifice is restored and sealed with a bonded composite material"
@@ -644,13 +637,83 @@ Cause: thin walls plus long-term calcium hydroxide weakening dentine (Bakland, 2
 - Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.165 (printed p.133): "a 4-mm MTA apical plug is placed 1 mm from the radiographic apex using a carrier or plugger"
 - Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.165 (printed p.133): "a calcium-enriched mixed cement (CEM cement)"
 - Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.167 (printed p.135): "Overfilling is the major limitation of the apical plug technique"
-- Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.166 (printed p.134): "Micro Apical Placement System (MAP system)"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.380 (printed p.363): "is generally cited as 1 year on average"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.380 (printed p.363): "is between 74% and 96%"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.380 (printed p.363): "Changing the calcium-hydroxide dressing under rubber dam every 3–6 months"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "Following closure of the apex using MTA with a minimum thickness of 3 mm"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "because MTA in its set condition exerts no disinfection effect"
 - Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "be performed 24 hours later"
+- Gopikrishna, 2021, 11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md, PDF p.231 (printed p.206): "the description of three cases of apexification by Frank in 1966"
+- Gopikrishna, 2021, 11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md, PDF p.231 (printed p.206): "guided by the reactivated sheath of Hertwig"
+- Gopikrishna, 2021, 11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md, PDF p.234 (printed p.209): "The paste is delivered into the canal with a carrier and condensed with finger pluggers"
+- Gopikrishna, 2021, 11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md, PDF p.234 (printed p.209): "Ca(OH)2 is mixed with sterile water to a thick consistency"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.241 (printed p.216): "Good patient compliance"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.241 (printed p.216): "No known allergies to antibiotics if intended for use"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Avulsed teeth immediately after replantation"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Medically compromised patients"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.241 (printed p.216): "20 ml of 17% EDTA for 5 minutes"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "Induce bleeding by mechanical irritation of periapical tissue"
+- Gopikrishna, 2021, 12_Chapter_12_Regenerative_Endodontics.md, PDF p.242 (printed p.217): "with a 3–4 mm layer of GIC or RMGIC"
+- Sigurdsson and Bourguignon, 2017, 12_12_Endodontic_Aspects_of_Traumatic_Injuries.md, PDF p.270 (printed p.254): "persistent unresponsiveness to sensibility testing, or failure of root development"
+- Sigurdsson and Bourguignon, 2017, 12_12_Endodontic_Aspects_of_Traumatic_Injuries.md, PDF p.271 (printed p.255): "It is not recommended to include barium sulphate"
+- Sigurdsson and Bourguignon, 2017, 12_12_Endodontic_Aspects_of_Traumatic_Injuries.md, PDF p.271 (printed p.255): "The patient should be recalled every 3 months"
+- Sigurdsson and Bourguignon, 2017, 12_12_Endodontic_Aspects_of_Traumatic_Injuries.md, PDF p.273 (printed p.257): "If the tooth does not respond to treatment, then the traditional apexification procedure is still an option"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.809 (printed p.915): "may be a more accurate means to determine the condition and prognosis of an injured young pulp"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.817 (printed p.923): "Long-term therapy increases the risks of patient attrition"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.811 (printed p.917): "is now possible with the use of 3-dimensional CT imaging"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.810 (printed p.916): "a root-end closure procedure is based on the level of apical root development"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.815 (printed p.921): "required time for hard tissue formation ranged from 3 to 10 months"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "mean duration for apical closure was 10–14 weeks"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "Older children with narrow open apices required shorter treatment times than younger children"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "slightly more than 12 months"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.817 (printed p.923): "Tricalcium phosphate has also been proposed as an apical barrier in a single-appointment technique"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.817 (printed p.923): "when using dentin plugs"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.818 (printed p.924): "the use of calcium hydroxide was directly proportional to an increase in extrusion of"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.819 (printed p.925): "loosely at a level"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.822 (printed p.928): "remaining segment of the canal space may be restored with bonded resin in shorter roots"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.378 (printed p.361): "Apical radiolucencies can be transient following trauma"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "(Still) questionable, seems to be good"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "One to two sittings following primary infection control"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "Multiple applications over a long period"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.381 (printed p.364): "Low following long dressing time"
+- Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.75 (printed p.66): "greater dentinal permeability due to the presence of large dentinal tubules"
+- Kang and Bogen, 2017, 05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Im, PDF p.89 (printed p.80): "the canal backfilled with warm vertically compacted gutta-percha and sealer"
+- Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1526: "Others maintain that the osteogenic potential of calcium"
+- Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1527: "techniques besides those using the high-pH materials have yielded excellent closure"
+- Weine, 2004, 14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment, PDF p.1509: "some type of apical filling placed"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.638 (printed p.622): "Findings regarding the ability of calcium hydroxide to induce ectopic bone have not been convincing"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.638 (printed p.622): "elimination of bacteria from the root canal makes healing of the surrounding vital tissue and the formation of an apical hard tissue barrier possible"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.642 (printed p.626): "the calcium hydroxide dressing is compressed slightly towards the apex with a cotton pellet"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.644 (printed p.628): "is warmed by passing it once through an alcohol flame"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.644 (printed p.628): "quite resistant to pressure exerted during condensation of gutta-percha"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.645 (printed p.629): "methods using thermo-plasticized gutta-percha and vertical condensation"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.645 (printed p.629): "No difference was found between immature and mature teeth"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.646 (printed p.630): "can often be resolved by the re-treatment with calcium hydroxide"
+- Sikri, 2019, 25_25_Vital_Pulp_Therapy.md, PDF p.478 (printed p.457): "The addition of barium sulfate enhances its radiopacity"
+- Sikri, 2019, 25_25_Vital_Pulp_Therapy.md, PDF p.480 (printed p.459): "The tooth should continue to erupt, and the alveolus should continue to grow"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2590: "At 3-month intervals, a radiograph is exposed"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2593: "some clinicians have questioned the advisability of the apexification procedure"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1624: "substantially less discoloration potential"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1605: "A primary advantage of REPs in these cases is the greater likelihood there will be an increase in root length and root wall thickness"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1605: "apexification procedures do not generally result in further root development"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1629: "irrigated first with 1.5% NaOCl (20 mL/canal, 5 min)"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1629: "Typically 2–4 weeks after the first visit"
+- Diogenes, Simon and Law, 2021, 12_12_Regenerative_endodontics.md, PDF p.1628: "Approximately 2 to 3 mm of a bioactive hydraulic cement"
+- Diogenes, Botero and Kang, 2021, 10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.m, PDF p.197 (printed p.190): "be followed up with a 6-month check, followed by yearly recall visits"
+- Gutmann and Lovdahl, 2011, 13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Ro, PDF p.253 (printed p.242): "It is often porous"
+- Gutmann and Lovdahl, 2011, 13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Ro, PDF p.254 (printed p.243): "with outcomes favoring this approach as opposed to the use of Ca(OH)2 followed by MTA"
+- Gutmann and Lovdahl, 2011, 13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Ro, PDF p.257 (printed p.246): "The tissue, both soft and hard, that is claimed to grow into the root during"
+- Bakland, 2007, 23_23_New_Endodontic_Procedures_using_Mineral_Trioxide_Agg, PDF p.678 (printed p.662): "MTA provides an excellent means of generating an apical plug"
+- Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.165 (printed p.133): "The MTA apical plug procedure is performed in two sessions"
+- Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.165 (printed p.133): "to alter the low pH of the inflamed periapical tissue"
+- Tonini and Garo, 2024, 05_Pages_151_180.md, PDF p.164 (printed p.132): "pooled success rates of 94.6%"
+- American Association of Endodontists, 2012, 00_Pages_1_30.md, PDF p.5: "such as clean dentin chips, collagen, mineral trioxide aggregate or Ca(OH)2"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.816 (printed p.922): "Apical closures developed at variable times but within one year"
+- Baumann and Beer, 2010, 46_46_Endodontics_in_the_Mixed_Dentition.md, PDF p.380 (printed p.363): "A slight gray discoloration of the tooth can be discerned"
+- Diogenes, Botero and Kang, 2021, 10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.m, PDF p.194 (printed p.187): "primarily by circumferential filing"
+- Kahler, 2021, 21_21_The_role_of_endodontics_after_dental_traumatic_injur, PDF p.2588: "spun into the canal with a Lentulo spiral instrument"
+- Cvek, 2007, 22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxi, PDF p.638 (printed p.622): "formation of a separate part of the root may occasionally occur"
+- Shabahang, 2019, 28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md, PDF p.820 (printed p.926): "by using smaller increments initially"
 
 **[LIT]** none: no live literature search was run for this answer.
 
