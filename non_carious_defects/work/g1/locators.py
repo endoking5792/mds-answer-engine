@@ -1,0 +1,247 @@
+import re, os
+# Verbatim-phrase locators for one topic. Every [SRC] fact in an answer has one entry in L.
+# Run `python3 locators.py`: it must print "missing 0" before you publish.
+T = os.path.expanduser('~/mds-textbooks/')   # clone of the private textbook repo
+# F: source key -> (chapter file, offset, in-text citation)
+#   offset int  : printed page = PDF marker - offset (check it at 2+ pages in THAT chapter)
+#   offset None : cite the PDF page marker only (use when no printed page number is visible)
+F = {
+ 'aod4': (T+'Operative_and_Dental_Materials_Textbooks/Advanced_Operative_Dentistry.md', 6, 'Bartlett, 2011'),
+ 'aod16': (T+'Operative_and_Dental_Materials_Textbooks/Advanced_Operative_Dentistry.md', 6, 'Bartlett and Ricketts, 2011'),
+ 'hs': (T+'Operative_and_Dental_Materials_Textbooks/Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh and Gade, 2020'),
+ 'pm': (T+'Operative_and_Dental_Materials_Textbooks/Pickards_Manual_of_Operative_Dentistry_9th.md', 11, 'Banerjee and Watson, 2011'),
+ 'pg': (T+'Operative_and_Dental_Materials_Textbooks/Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
+ 'gold': (T+'Operative_and_Dental_Materials_Textbooks/Esthetics_in_Dentistry_Goldstein.md', 36, 'Goldstein et al, 2018'),
+ 'gil': (T+'Operative_and_Dental_Materials_Textbooks/Dentine_Hypersensitivity.md', 19, 'Olley and Bartlett, 2024'),
+ 'mz': (T+'Operative_and_Dental_Materials_Textbooks/Operative_Dentistry_Marzouk.md', -3, 'Marzouk et al, undated'),
+ 'stu': (T+'Operative_and_Dental_Materials_Textbooks/Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
+ 'mt': (T+'Operative_and_Dental_Materials_Textbooks/Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Kaidonis et al, 2016'),
+ 'mod': (T+'Operative_and_Dental_Materials_Textbooks/Modern_Operative_Dentistry.md', 14, 'Torres et al, 2020'),
+ 'gg': (T+'Operative_and_Dental_Materials_Textbooks/Textbook_of_Preclinical_Conservative_Dentistry.md', 7, 'Garg and Garg, 2011'),
+ 'sm15': (T+'Operative_and_Dental_Materials_Textbooks/Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Overton et al, 2013'),
+}
+# L: locator key -> (source key, verbatim phrase of under ~25 words copied from the chapter file)
+#   Pick clean text: avoid OCR ligature damage ("0e", "!le"), hyphen breaks and figure captions.
+L = {
+ 'g1_aod_prev': ('aod4', 'the more severe forms probably affect around 10% of the population'),
+ 'g1_aod_eros': ('aod4', 'The loss of tooth structure caused by acids and not involving bacterial fermentation is called erosion'),
+ 'g1_aod_abr': ('aod4', 'Abrasion is the mechanical wear of teeth from forces other than teeth'),
+ 'g1_aod_att': ('aod4', 'Attrition is the wear of tooth against tooth'),
+ 'g1_aod_comb': ('aod4', 'It is uncommon to observe the singular effects of erosion, abrasion or attrition and more commonly it is a combination'),
+ 'g1_aod_abf': ('aod4', 'this theoretical phenomenon has yet to be proven clinically'),
+ 'g1_aod_abfdiff': ('aod4', 'cannot be differentiated from those that occur as a result of cervical erosion and abrasion'),
+ 'g1_aod_glassy': ('aod4', 'Erosion results in a glassy appearance'),
+ 'g1_aod_perimolysis': ('aod4', 'giving the characteristic appearance of perimolysis'),
+ 'g1_aod_translucency': ('aod4', 'The presence of incisal translucency is indicative of a late stage'),
+ 'g1_aod_cervmis': ('aod4', 'Wear along the cervical surfaces of teeth is often mistakenly referred to as abrasion'),
+ 'g1_aod_halo': ('aod4', 'These cavities, unlike caries, are hard and have a halo of whitened enamel'),
+ 'g1_aod_proud': ('aod4', 'restorations appear to be proud'),
+ 'g1_aod_stain': ('aod4', 'A stain-free surface can suggest that any acid erosion is active whilst a stained surface suggests the process is inactive'),
+ 'g1_aod_facets': ('aod4', 'paired wear facets'),
+ 'g1_aod_freq': ('aod4', 'probably the most important component is the frequency of consumption'),
+ 'g1_aod_reflux25': ('aod4', 'in around 25% there are no symptoms'),
+ 'g1_aod_brush': ('aod4', 'normal forces with tooth brushing, with or without toothpastes, is unlikely to cause significant wear on enamel or dentine'),
+ 'g1_aod_abfunk': ('aod4', 'The importance of abfraction along the cervical area, predisposing the surface to erosion or abrasion, is unknown'),
+ 'g1_aod_age': ('aod4', 'the severity of the tooth wear must always be balanced against the patient'),
+ 'g1_aod_monitor': ('aod4', 'monitoring is an effective and acceptable procedure'),
+ 'g1_aod_probe': ('aod4', 'perhaps the simplest method is to use a periodontal probe'),
+ 'g1_aod_diet': ('aod4', 'a diet diary should be carried out like that for dental caries management'),
+ 'g1_aod_brushafter': ('aod4', 'not to brush their teeth immediately following an acid drink, but rather rinse with water'),
+ 'g1_aod_fluor': ('aod4', 'fluoride is protective for erosive tooth wear'),
+ 'g1_aod_saliva': ('aod4', 'The role of saliva in erosion is unclear'),
+ 'g1_aod_dba': ('aod4', 'dentine bonding agents can reduce the amount of wear by half over a period of 6 months'),
+ 'g1_aod_splint': ('aod4', 'full coverage splints will be effective for those patients with mainly a bruxist habit'),
+ 'g1_aod_michigan': ('aod4', 'full coverage upper hard acrylic splint with canine rises in lateral excursions'),
+ 'g1_aod_restore': ('aod4', 'The main indications which eventually demand restorative treatment of worn teeth are appearance and intractable sensitivity'),
+ 'g1_aod_quiescence': ('aod4', 'tooth wear varies in activity with periods of progression and quiescence'),
+ 'g1_aod_cost': ('aod4', 'monitoring with intensive preventive management may be an effective outcome'),
+ 'g1_aod16_dahl': ('aod16', 'The Dahl concept utilizes intrusive forces and the eruptive potential of teeth'),
+ 'g1_aod16_34': ('aod16', 'Usually sufficient interocclusal space is created in 3–4 months'),
+ 'g1_aod16_localized': ('aod16', 'The Dahl movement is only applicable when the tooth wear is localized to a few teeth'),
+ 'g1_aod16_generalized': ('aod16', 'If the tooth wear is generalized the movement is ineffective and a full-mouth rehabilitation is indicated'),
+ 'g1_aod16_comp35': ('aod16', 'composites used to restore worn anterior teeth will survive between 3 and 5 years'),
+ 'g1_aod16_crownlength': ('aod16', 'If insufficient tooth height remains, crown lengthening will be needed'),
+ 'g1_aod16_compensation': ('aod16', 'this is due to dento-alveolar compensation'),
+ 'g1_hs_25': ('hs', 'it has been estimated that 25% of tooth destruction does not originate from a caries process'),
+ 'g1_hs_hunter': ('hs', 'John Hunter was the first person to describe attrition, abrasion and erosion way back in 1778'),
+ 'g1_hs_class': ('hs', 'Non-carious lesions of the tooth surface can be broadly categorised as follows'),
+ 'g1_hs_attindex': ('hs', 'A simple index illustrated in Table 21.1 can be used to assess the level of attrition clinically'),
+ 'g1_hs_vshaped': ('hs', 'Notch/V-shaped defects'),
+ 'g1_hs_depth': ('hs', 'Shallow (S): 0.1–0.5 mm deep'),
+ 'g1_hs_left': ('hs', 'more commonly seen on the left side of the mouth in right-handed people'),
+ 'g1_hs_powder': ('hs', 'toothpowder is more abrasive than its other dentifrice counterparts'),
+ 'g1_hs_bewe': ('hs', 'A simple scoring index was given by Bartleet et al. in 2008'),
+ 'g1_hs_bewe3': ('hs', 'Hard-tissue loss >50% of the surface area'),
+ 'g1_hs_risk': ('hs', '9–13 represents medium risk and more than 14 signifies high risk'),
+ 'g1_hs_grippo': ('hs', 'first proposed by Grippo (1991) to distinguish from'),
+ 'g1_hs_abfdef': ('hs', 'wedge-shaped defects in the cervical region of the tooth caused by abnormal occlusal loading'),
+ 'g1_hs_premolar': ('hs', 'Premolars are the most commonly affected by abfraction'),
+ 'g1_hs_reshape': ('hs', 'Selective re-shaping or re-contouring the tooth so that the occlusal forces are directed down the central long axis of the tooth'),
+ 'g1_hs_combined': ('hs', 'Attrition–Abfraction'),
+ 'g1_hs_eroscrown': ('hs', 'Full coverage crown with or without root canal treatment is the final verdict'),
+ 'g1_hs_hypoplasia': ('hs', 'Non-hereditary enamel hypoplasia is defined as an incomplete or defective formation of the organic enamel matrix'),
+ 'g1_hs_aicrown': ('hs', 'Full coverage crowns are given wherever possible'),
+ 'g1_hs_clasp': ('hs', 'Ill-fitting clasps of partial dentures'),
+ 'g1_pm_twdef': ('pm', 'Toothwear is the irreversible surface loss of dental hard tissues caused by factors other than caries or trauma'),
+ 'g1_pm_abfcont': ('pm', 'Abfraction (contentious)'),
+ 'g1_pm_bulimia': ('pm', 'Bulimia nervosa (affects 1-2% adolescent population'),
+ 'g1_pm_masseter': ('pm', 'Evidence of masseteric hypertrophy'),
+ 'g1_pm_lesions': ('pm', 'Early, asymptomatic lesions in enamel (or just into dentine) may be left untreated'),
+ 'g1_pg_saliva': ('pg', 'Patients suffering from dry mouth with reduced and/or chemically or physically altered saliva may also be more at risk from dental erosion'),
+ 'g1_pg_bpe': ('pg', 'can be used to stage tooth wear in a similar way to that in which the Basic Periodontal Examination'),
+ 'g1_pg_bewe3': ('pg', 'Hard tissue loss ≥ 50% of the surface area'),
+ 'g1_pg_seq1': ('pg', 'eliminate teeth with trauma and developmental defects from the score'),
+ 'g1_pg_quadrant': ('pg', 'Identify in each quadrant the most severely affected tooth'),
+ 'g1_pg_sextants': ('pg', 'Cumulative score of all sextants'),
+ 'g1_pg_cl0': ('pg', 'Routine maintenance and observation Repeat at 3-year intervals'),
+ 'g1_pg_cl1': ('pg', 'Repeat at 2-year intervals'),
+ 'g1_pg_cl2': ('pg', 'Ideally, avoid the placement of restorations and monitor erosive wear with study casts, photographs, or silicone impressions'),
+ 'g1_pg_cl3': ('pg', 'Especially in cases of severe progression, consider special care that may involve restorations'),
+ 'g1_pg_fluor': ('pg', 'Consider fluoridation measures or other strategies to increase the resistance of tooth surfaces'),
+ 'g1_pg_bartlett2010': ('pg', 'A proposed system for screening tooth wear'),
+ 'g1_pg_indices': ('pg', 'they are often complicated and time-consuming to use in a busy dental practice'),
+ 'g1_pg_research': ('pg', 'Their use in research and epidemiological studies is'),
+ 'g1_pg_casts': ('pg', 'Serial, dated study models'),
+ 'g1_pg_profil': ('pg', 'Using laboratory-based laser scanners, serial models can be scanned'),
+ 'g1_pg_knight': ('pg', 'Knight Tooth Wear Index'),
+ 'g1_pg_sens': ('pg', 'This is surprisingly uncommon, as tertiary/reparative dentine deposition will often prevent pulp symptoms'),
+ 'g1_pg_cured': ('pg', 'unless the aetiological factor(s) responsible for tooth wear are discovered, it will never be cured'),
+ 'g1_pg_blue': ('pg', 'Blue-grey appearance of the thinned enamel incisal edges'),
+ 'g1_gold_chem': ('gold', 'as it describes the chemical dissolution of teeth'),
+ 'g1_gold_att': ('gold', 'Attrition is the loss of tooth structure by mechanical forces from opposing teeth'),
+ 'g1_gold_bruxism': ('gold', 'It is well established that the most common cause of attrition is bruxism'),
+ 'g1_gold_twi': ('gold', 'One of the most frequently cited is the tooth wear index published by Smith and Knight in 1984'),
+ 'g1_gold_twi1': ('gold', 'Loss of enamel surface characteristics'),
+ 'g1_gold_twi2': ('gold', 'Loss of enamel exposing dentin for less than one-third of surface'),
+ 'g1_gold_twicerv': ('gold', 'Defect less than 1 mm deep'),
+ 'g1_gold_twi3c': ('gold', 'Defect 1–2 mm deep'),
+ 'g1_gold_twi4': ('gold', 'Complete loss of enamel, pulp exposure, or exposure of secondary dentin'),
+ 'g1_gold_twi4c': ('gold', 'Defect more than 2 mm deep, pulp exposure, or exposure of secondary dentin'),
+ 'g1_gold_turner': ('gold', 'Turner proposed a classification system for occlusal wear in 1984'),
+ 'g1_gold_ovd': ('gold', 'there is rarely loss of the vertical dimension of occlusion'),
+ 'g1_gold_grippo': ('gold', 'Grippo originated the term abfraction'),
+ 'g1_gold_tensile': ('gold', 'Sufficient experimental and clinical evidence has now been gathered to establish the primary etiology of these lesions as tensile stress of occlusal origin'),
+ 'g1_gold_controv': ('gold', 'this topic remains highly controversial'),
+ 'g1_gold_invitro': ('gold', 'The concept of abfraction is supported only by studies conducted in vitro'),
+ 'g1_gold_unlikely': ('gold', 'abfraction is unlikely to lead to cervical lesion formation independently'),
+ 'g1_gold_restfail': ('gold', 'relatively high failure rates if the occlusal problems that initiated the lesions are not corrected'),
+ 'g1_gold_microfill': ('gold', 'which are slightly more flexible than conventional hybrid composites'),
+ 'g1_gold_bolus': ('gold', 'If teeth are worn on their occlusal surface and incisal surfaces by friction from the food bolus'),
+ 'g1_gold_demast': ('gold', 'demastication'),
+ 'g1_gold_vshaped': ('gold', 'Toothbrush abrasion in particular has a characteristic appearance of a v-shaped lesion with horizontal striations'),
+ 'g1_gold_ph55': ('gold', 'a drop in oral pH below 5.5 initiates demineralization'),
+ 'g1_gold_control': ('gold', 'Treatment of these types of lesions should be done only when the causative problem is under control'),
+ 'g1_gold_combos': ('gold', 'The possible combinations include attrition–abfraction'),
+ 'g1_gold_scratch': ('gold', 'A novel method of determining the progression of cervical lesions over time is to undertake a scratch test'),
+ 'g1_gold_30min': ('gold', 'wait for at least 30 min'),
+ 'g1_gold_round': ('gold', 'Abrasion in the cervical region can be usually distinguished from abfraction by the smooth, rounded nature of the lesion'),
+ 'g1_gold_bulimia': ('gold', 'Bulimia or GERD will be the likely cause'),
+ 'g1_gil_physpath': ('gil', 'Smith and Knight first distinguished physiological and active or pathological tooth wear'),
+ 'g1_gil_29': ('gil', '29% had signs of tooth wear recorded using the Basic Erosive Wear Examination'),
+ 'g1_gil_ukrec': ('gil', 'is recommended in practice following recent UK Government publications'),
+ 'g1_mz_25': ('mz', 'it has been estimated that 25%'),
+ 'g1_mz_list': ('mz', 'The following are the possible non-caries destructive processes'),
+ 'g1_mz_discol': ('mz', 'VIII. Discolorations'),
+ 'g1_mz_att': ('mz', 'Attrition affects occluding surfaces and results in flattening of'),
+ 'g1_mz_metal': ('mz', 'only metallic (metallic-based) restorations should'),
+ 'g1_mz_ovd': ('mz', 'bringing the teeth to their original occlusal termination'),
+ 'g1_mz_freeway': ('mz', 'measurements for the free-way space (2-3 mm)'),
+ 'g1_mz_brush': ('mz', 'The most predominant abrasion is toothbrush abrasion'),
+ 'g1_mz_natural': ('mz', 'Natural bristles are more abrasive'),
+ 'g1_mz_restore05': ('mz', 'exceeds 0.5 mm into dentin, it should be restored.'),
+ 'g1_mz_18': ('mz', '18% of the adult population exhibits erosive lesions.'),
+ 'g1_mz_nodemarc': ('mz', 'There is no demarcation between the lesion and the'),
+ 'g1_mz_metalero': ('mz', 'Metallic restorations have proven to be more resistant to the'),
+ 'g1_mz_norush': ('mz', 'There should not be any rush to attempt restorative'),
+ 'g1_stu_erosdef': ('stu', 'Erosion is the wear or loss of tooth surface by chemical action in the continued presence of demineralizing agents with low pH'),
+ 'g1_stu_2030': ('stu', 'They are most commonly found in young women in the age of 20–30 years'),
+ 'g1_stu_craze': ('stu', 'Craze lines are not sensitive and do not require treatment'),
+ 'g1_stu_rounded': ('stu', 'commonly seen as a rounded notch in the gingival portion of the facial aspects of teeth'),
+ 'g1_stu_abfdef': ('stu', 'Strong eccentric occlusal force resulting in microfractures at the cervical area of the tooth causing'),
+ 'g1_stu_load': ('stu', 'with a functional load of 70 N considered clinically normal'),
+ 'g1_stu_saucer': ('stu', 'instead of the saucer-shaped defects associated with other non-carious cervical lesions'),
+ 'g1_stu_lossV': ('stu', 'These forces can also cause the loss of bonded Class V restorations'),
+ 'g1_pm_onein3': ('pm', 'one in three drinks could be tap water'),
+ 'g1_stu_halt': ('stu', 'The primary goal of management should be to halt or modify the etiology of the problem'),
+ 'g1_stu_box': ('stu', 'Considerations for restorative management of non-carious lesions'),
+ 'g1_stu_box1': ('stu', 'The defect is sufficiently deep to compromise the structural integrity of the tooth'),
+ 'g1_stu_boxprog': ('stu', 'The defect is actively progressing'),
+ 'g1_stu_occl': ('stu', 'A treatment plan for definitive restorations must include an occlusal analysis'),
+ 'g1_stu_scler': ('stu', 'much more resistant to acid etching than'),
+ 'g1_stu_gicstd': ('stu', 'GIC-based materials are still the standard to restore NCCLs in terms of retention rate'),
+ 'g1_stu_afr': ('stu', 'GIC-based materials had a 2% annual failure rate'),
+ 'g1_stu_2mm': ('stu', 'Lesions that exceed approximately 2 mm in axial depth'),
+ 'g1_stu_graft': ('stu', 'Grafting only is indicated in cases of limited tooth loss'),
+ 'g1_stu_notauto': ('stu', 'The presence of such defects does not automatically warrant intervention'),
+ 'g1_mt_corrdef': ('mt', 'Dental corrosion can be defined as the superficial loss of dental hard tissue due to chemical demineralization by acids'),
+ 'g1_mt_corrterm': ('mt', 'is a more accurate term for what occurs'),
+ 'g1_mt_frosted': ('mt', 'frosted glass'),
+ 'g1_mt_wedge': ('mt', 'Vigorous toothbrushing (especially with a horizontal movement) of acid-softened enamel and dentine still seems to be the primary cause of non-carious cervical lesions'),
+ 'g1_mt_noload': ('mt', 'Teeth that have not been exposed to occlusal load due to lack of opposing teeth have been shown to develop these lesions'),
+ 'g1_mt_12h': ('mt', 'it takes in the order of 12 hours for the enamel to harden'),
+ 'g1_mt_fea': ('mt', 'although this does not of course confirm'),
+ 'g1_mt_abrnotsens': ('mt', 'dentine exposed by abrasion alone is generally not sensitive'),
+ 'g1_mod_def': ('mod', 'Non-carious lesions result from the loss of dental structure without the participation of bacterial biofilm'),
+ 'g1_mod_ph': ('mod', 'The gastric acid has a pH of 1–1.5'),
+ 'g1_mod_brushcontro': ('mod', 'Some studies suggested that those patients should not brush their teeth immediately after acid exposure, although others did not confirm this recommendation'),
+ 'g1_mod_naf': ('mod', 'A neutral 2% sodium fluoride gel or 5% fluoride varnish can be applied on dental visits'),
+ 'g1_mod_sealant': ('mod', 'Dentin sealants also seem to be rather resistant against erosive conditions'),
+ 'g1_mod_frangere': ('mod', 'Abfraction derives from the Latin word frangere'),
+ 'g1_mod_single': ('mod', 'Abrasions usually involve many neighboring teeth, while the abfraction can occur in just a single tooth'),
+ 'g1_mod_subging': ('mod', 'abfractions can be located partially or completely under the gum'),
+ 'g1_mod_restactive': ('mod', 'The restorations should be placed when the lesion is active, and non-operative treatment is not capable to arrest the lesion'),
+ 'g1_mod_splint': ('mod', 'occlusal acrylic resin splints are used to prevent the patient from further tooth wear'),
+ 'g1_gg_resorp': ('gg', 'a condition associated with either a physiologic or a pathologic process resulting in the loss of dentin, cementum or bone'),
+ 'g1_gg_abr': ('gg', 'Abrasion results in saucer-shaped or wedge-shaped indentations with a smooth, shiny surface'),
+ 'g1_sm_anthro': ('sm15', 'no NCCLs were found in 3,927 teeth from 259 individuals'),
+ 'g1_sm_prev': ('sm15', 'Prevalence in various patient and population groups ranges from rare to 89%'),
+ 'g1_sm_multi': ('sm15', 'there is overwhelming evidence that the cause is multifactorial'),
+ 'g1_sm_shape': ('sm15', 'the ability to differentiate etiologies based on lesion shape has yet to be adequately supported with evidence'),
+ 'g1_sm_acid': ('sm15', 'It appears that liquid acid, frequently found in modern diets, may be necessary to make occlusal loading a factor'),
+ 'g1_sm_1h': ('sm15', 'tooth structure loss as a result of abrasion can be minimized by delaying brushing by at least 1 hour'),
+ 'g1_sm_hand': ('sm15', 'Anecdotal claims that the majority of toothbrush abrasion lesions appear on the opposite arch from the dominant hand have not been verified with clinical studies'),
+ 'g1_sm_aod': ('sm15', 'The Academy of Operative Dentistry has published recommendations for the treatment of NCCLs'),
+ 'g1_sm_aod1': ('sm15', 'Inability to eliminate or greatly reduce the rate of lesion progression through elimination of etiologic factors'),
+ 'g1_sm_aod4': ('sm15', 'Threat to the strength of the tooth and integrity of the coronal-radicular unit because of the lesion'),
+ 'g1_sm_rerest': ('sm15', 'This prevents initiation of the'),
+ 'g1_sm_shallow': ('sm15', 'Shallow lesions that lead to thermal sensitivity or sensitivity to touch should first be treated with bonding resins or desensitizing agents'),
+}
+def norm(s):
+    s = s.replace('\u00ad ', '').replace('\u00ad', '').replace('\u2010', '-')
+    s = re.sub(r'\s+', ' ', s).replace('- ', '')
+    return s.strip()
+_cache = {}
+def _pages(path):
+    if path in _cache: return _cache[path]
+    if path.endswith('.pdf'):
+        import fitz
+        d = fitz.open(path); pages = {i+1: p.get_text() for i,p in enumerate(d)}
+    else:
+        txt = open(path,encoding='utf8').read()
+        parts = re.split(r'(?:<!-- PDF page (\d+) -->|===== PAGE (\d+) =====)', txt)
+        pages = {}
+        for i in range(1,len(parts),3):
+            cur = int(parts[i] or parts[i+1]); pages[cur] = pages.get(cur,'')+' '+parts[i+2]
+    _cache[path] = {k: norm(v) for k,v in pages.items()}
+    return _cache[path]
+def find(key):
+    f,ph = L[key]; path,off,cite = F[f]
+    pages = _pages(path); n = norm(ph)
+    hits = [p for p,t in pages.items() if n in t]
+    if hits: return hits[0],None
+    ks = sorted(pages)
+    for a,b in zip(ks,ks[1:]):
+        if n in pages[a]+' '+pages[b]: return a,None
+    return None,None
+def page_label(key):
+    p,_ = find(key); f = L[key][0]; off = F[f][1]
+    if p is None: return None
+    if isinstance(off,tuple): return f"p.{off[1]+p-1}"
+    if off is None: return f"PDF p.{p}"
+    return f"PDF p.{p} (printed p.{p-off})"
+if __name__=='__main__':
+    bad = 0
+    for k in L:
+        lab = page_label(k)
+        if lab is None: bad += 1; print('MISSING', k, L[k][1][:70])
+    print('checked', len(L), 'missing', bad)

@@ -1,5 +1,10 @@
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
+## 2026-11-09 — Non-Carious Tooth Defects: FIRST DRAFT (14 answers), not published
+- Folder `non_carious_defects/canonical/`: Q1 umbrella 50m (1767), Q2 erosion 75m (2634), Q3 cervical lesions 75m (2620), Q4-Q11 and P1-P3 (all exam cores in range). Question set in `non_carious_defects/_QUESTIONS.md`; white spot lesions answered here (Q11) by agreement.
+- Six parallel agents; merged `non_carious_defects/locators.py` 1115 locators, missing 0. Details, disagreements and open points: `non_carious_defects/HANDOFF_non_carious_defects.md`.
+- Pending: review pass, Answer Bank site publish, vault copies.
+
 ## 2026-11-04 — Answer Bank moved to a private site
 - All 506 answers from Answer Bank Version 65 imported into `mds-answer-bank` (MkDocs Material on Cloudflare Pages), behind Cloudflare Access (email one-time code). Allowed: niranjan.fcb@gmail.com, medhinirbhagwat@gmail.com, roselinerobert45@gmail.com.
 - New publish tool `scripts/add_answers.py` (additive, stale-copy guard). WORKFLOW.md Rule 7, ANSWER_GUIDE.md section 7 and the skill's standing publish step now point at the site.

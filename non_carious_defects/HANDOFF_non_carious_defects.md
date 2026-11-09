@@ -1,0 +1,36 @@
+# Non-Carious Tooth Defects: handoff (Niranjan, 2026-11-09)
+
+Status: FIRST DRAFT COMPLETE, canonical format. Not review-passed, not published.
+
+## Files (canonical/)
+| File | Marks | Exam core |
+|---|---|---|
+| Q01 Non-carious lesions and their management (umbrella, 18 wordings) | 50 | 1767 |
+| Q02 Erosion and its management (6 wordings) | 75 | 2634 |
+| Q03 Management of cervical lesions (5 wordings incl. ageing population) | 75 | 2620 |
+| Q04 Pathogenesis and clinical features of NCCL | 10 | 330 |
+| Q05 Non-carious disfigurement; critically evaluate materials for cervical abrasion | 25 | 916 |
+| Q06 Restorative options for a Class V restoration | 10 | 332 |
+| Q07 Abfraction (5 wordings) | 10 | 396 |
+| Q08 Abrasion and abfraction | 5 | 178 |
+| Q09 Attrition and its management | 10 | 385 |
+| Q10 Management of wasting disease of the teeth | 25 | 909 |
+| Q11 White spot lesions | 25 | 984 |
+| P1 Tooth wear indices (TWI, BEWE), PREDICTED | 10 | 392 |
+| P2 Dahl concept and localised anterior wear, PREDICTED | 10 | 346 |
+| P3 Saliva and pellicle in erosion, PREDICTED | 10 | 349 |
+
+All exam cores inside Section 7 ranges. Drafted by six parallel agents (work/g1-g6; each has its own locators.py and build_sources.py). Merged `locators.py`: 77 source keys, 1115 locators, missing 0.
+
+## Disagreements kept side by side (not ranked)
+Abfraction as an entity (Goldstein contradicts itself; Bartlett, Pickard's: unproven) and who proposed it (Grippo 1991 vs Lee and Eakle 1984); brushing delay after acid (30 min / 1 h / ~12 h / unconfirmed); abrasion lesion shape; handedness rule; BEWE thresholds (>= vs >50%, >=14 vs >14, review interval; Singh's bands leave 14 unassigned); critical pH values; juice vs cola erosivity; bulimia age; occlusal adjustment for bruxism and for NCCL; stress vs malocclusion in bruxism; Dahl intrusion/eruption share and time; low-modulus composite in NCCLs; roughening sclerotic dentine; default Class V material (Mount GIC vs Goldstein composite); WSL microabrasion protocol; bleaching white spots; enamel refractive index; WSL remineralisation of lesion body.
+
+## Open points
+- "Wasting disease(s)" is not defined in any textbook read; Q10 equates it with tooth wear as [RECALL] and says so.
+- No book gives abfraction incidence alone; Q7 gives NCCL prevalence instead.
+- Q5 definition of "disfigurement" is an interpretation of Marzouk ([Likely]).
+- Smith and Knight 1984 not read (not on PubMed); P1 scoring-against-age statement is [RECALL].
+- Sikri prints "Vialati and Belser" (Vailati); kept as printed in Q2.
+- All [LIT] items are PubMed abstracts only.
+- Summitt cited by PDF page only (no printed page numbers in the file).
+- Review pass, Answer Bank site publish and vault copies NOT done.
