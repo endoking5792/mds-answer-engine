@@ -23,7 +23,7 @@ F_EXTRA = {
  'q01_wei14': (T+'Weines_Endodontics_Full_Chapterwise/14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment.md', None, 'Weine, 2004'),
  'q01_coh21': (_C+'21_21_The_role_of_endodontics_after_dental_traumatic_injuries.md', None, 'Kahler, 2021'),
  'q01_coh12': (_C+'12_12_Regenerative_endodontics.md', None, 'Diogenes, Simon and Law, 2021'),
- 'q01_edo46': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Baumann and Beer, 2010'),  # PDF 378 = p.361, PDF 379 = p.362
+ 'q01_edo46': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Buerkle and Meissner, 2010'),  # PDF 378 = p.361, PDF 379 = p.362
  'q01_har12': (_H+'12_12_Endodontic_Aspects_of_Traumatic_Injuries.md', 16, 'Sigurdsson and Bourguignon, 2017'),  # PDF 271 = p.255, PDF 272 = p.256
  'q01_gul8':  (_K+'08_8_Non_surgical_root_canal_treatment.md', 9, 'Gulabivala and Ng, 2014'),           # PDF 226 = p.217, PDF 232 = p.223
  'q01_bio5':  (T+'Bioceramics_in_Endodontics_Chapterwise/05_Pages_151_180.md', 32, 'Tonini and Garo, 2024'),  # PDF 161 = p.129, PDF 163 = p.131
@@ -31,21 +31,21 @@ F_EXTRA = {
  'q01_gl2':   (T+'Glossary_of_Endodontic_Terms_Chapterwise/01_Pages_31_52.md', None, 'American Association of Endodontists, 2012'),
 }
 BOOK_EXTRA = {
- 'q01_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.28 (author line OCR-garbled in the chapter file; name confirmed from the contents page).",
+ 'q01_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.28 (author line OCR-garbled in the chapter file; decoded letter by letter and confirmed in the contents page; publisher and place not printed in the extract, as used elsewhere in this repository).",
  'q01_Gopikrishna2021': "Gopikrishna V, editor. Vital pulp therapy and apexification. In: Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.11 (chapter author not stated in the file).",
- 'q01_Diogenes2021a': "Diogenes A, Botero T, Kang M. Management of the vital pulp and of immature teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.10 (editors and year not printed in the chapter file; verify).",
+ 'q01_Diogenes2021a': "Diogenes A, Botero T, Kang M. Management of the vital pulp and of immature teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.10 (editors, year and publisher confirmed from the front matter, © 2021 Elsevier).",
  'q01_Cvek2007': "Cvek M. Endodontic management and the use of calcium hydroxide in traumatized permanent teeth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.22.",
  'q01_Bakland2007': "Bakland LK. New endodontic procedures using mineral trioxide aggregate (MTA) for teeth with traumatic injuries. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.23.",
- 'q01_Sikri2019': "Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.9 Diagnosis and diagnostic aids; Ch.20 Obturation of root canal spaces; Ch.25 Vital pulp therapy (publisher and year as used elsewhere in this repository; verify against the printed book).",
+ 'q01_Sikri2019': "Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.9 Diagnosis and diagnostic aids; Ch.20 Obturation of root canal spaces; Ch.25 Vital pulp therapy (publisher and 2019 eBook edition confirmed from the front matter).",
  'q01_Gutmann2011': "Gutmann JL, Lovdahl PE. Problem-solving challenges in compromised roots, root canal systems, and anatomic deviations. In: Problem Solving in Endodontics: Prevention, Identification, and Management. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.13.",
  'q01_Weine2004': "Weine FS. Alternatives to routine endodontic treatment. In: Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.14.",
  'q01_Kahler2021': "Kahler B. The role of endodontics after dental traumatic injuries. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.21.",
  'q01_Diogenes2021b': "Diogenes A, Simon S, Law AS. Regenerative endodontics. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.12.",
- 'q01_Baumann2010': "Baumann MA, Beer R, editors. Endodontics in the mixed dentition. In: Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 (no chapter author in the file).",
+ 'q01_Baumann2010': "Buerkle V, Meissner N. Endodontics in the mixed dentition. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 (chapter authors from the contents page; the English edition is a translation of the 2nd German edition, © 2010 Georg Thieme Verlag).",
  'q01_Sigurdsson2017': "Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.",
- 'q01_Gulabivala2014': "Gulabivala K, Ng YL. Non-surgical root canal treatment. In: Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Mosby Elsevier; 2014. Ch.8.",
+ 'q01_Gulabivala2014': "Gulabivala K, Ng YL. Non-surgical root canal treatment. In: Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.8 (no chapter author printed; cited under the editors).",
  'q01_Tonini2024': "Tonini R, Garo M. Bioceramics as an apical plug. In: Chopra V, editor. Bioceramics in Endodontics. 1st ed. Hoboken: John Wiley & Sons; 2024. Ch.5.",
- 'q01_AAE2012': "American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012 (edition year as used elsewhere in this repository).",
+ 'q01_AAE2012': "American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012 (eighth edition, 2012, confirmed in the Glossary introduction).",
 }
 L = {
  # ---- Ingle's Ch.28 (Shabahang, 2019)
