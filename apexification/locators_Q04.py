@@ -1,0 +1,150 @@
+# Locators for Q04 "Apexogenesis" (10m). All keys prefixed q04_.
+import os
+T = os.environ.get('MDS_TEXTBOOKS', '/home/user/mds-textbooks/')
+F_EXTRA = {
+ # AAE Glossary 2012 (8th ed, preface); no printed page numbers in the file.
+ 'q04_gl1': (T+'Glossary_of_Endodontic_Terms_Chapterwise/00_Pages_1_30.md', None, 'American Association of Endodontists, 2012'),
+ 'q04_gl2': (T+'Glossary_of_Endodontic_Terms_Chapterwise/01_Pages_31_52.md', None, 'American Association of Endodontists, 2012'),
+ # Grossman 14e Ch.11; no chapter author named, editor cited. Offset 25 confirmed at PDF 223 (printed 198) and PDF 231 (printed 206).
+ 'q04_gr': (T+'Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/11_Chapter_11_Vital_Pulp_Therapy_and_Apexification.md', 25, 'Gopikrishna, 2021'),
+ # Ingle's 7e Ch.27; author line letter-substituted, decodes to George Bogen and Nicholas P. Chandler. Offset -100 confirmed at PDF 785 (printed 885) and PDF 790 (printed 890).
+ 'q04_ing27': (T+'Ingles_Endodontics_7th_Chapterwise/27_Chapter_27_Vital_Pulp_Therapy.md', -100, 'Bogen and Chandler, 2019'),
+ # Ingle's 7e Ch.28; author decodes to Shahrokh Shabahang. Offset -106 confirmed at PDF 805 (printed 911) and PDF 813 (printed 919).
+ 'q04_ing28': (T+'Ingles_Endodontics_7th_Chapterwise/28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md', -106, 'Shabahang, 2019'),
+ # Torabinejad 6e Ch.10 (Diogenes, Botero and Kang). Offset 7 confirmed at PDF 183 (printed 176) and PDF 194 (printed 187).
+ 'q04_tor': (T+'Endodontics_Principles_and_Practice_Chapterwise/10_10_Management_of_the_Vital_Pulp_and_of_Immature_Teeth.md', 7, 'Diogenes, Botero and Kang, 2021'),
+ # Cohen's 12e Ch.24 (Bogen, Dammaschke and Chandler); electronic edition, no printed page numbers.
+ 'q04_c24': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/24_24_Vital_pulp_therapy.md', None, 'Bogen, Dammaschke and Chandler, 2021'),
+ # Cohen's 12e Ch.21 (Kahler); no printed page numbers.
+ 'q04_c21': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/21_21_The_role_of_endodontics_after_dental_traumatic_injuries.md', None, 'Kahler, 2021'),
+ # Sikri 2e Ch.25. Offset 21 confirmed at PDF 462 (printed 441) and PDF 477 (printed 456).
+ 'q04_sik': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/25_25_Vital_Pulp_Therapy.md', 21, 'Sikri, 2019'),
+ # Andreasen 4e Ch.22 (Cvek). Offset 16 confirmed at PDF 614 (printed 598) and PDF 643 (printed 627).
+ 'q04_and': (T+'Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/22_22_Endodontic_Management_and_the_Use_of_Calcium_Hydroxide_in.md', 16, 'Cvek, 2007'),
+ # Andreasen 4e Ch.23 (Bakland). Offset 16 confirmed at PDF 674 (printed 658) and PDF 675 (printed 659).
+ 'q04_bak': (T+'Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/23_23_New_Endodontic_Procedures_using_Mineral_Trioxide_Aggregat.md', 16, 'Bakland, 2007'),
+ # Weine 6e Ch.14; no printed page numbers.
+ 'q04_wei': (T+'Weines_Endodontics_Full_Chapterwise/14_CHAPTER_14_Alternatives_to_Routine_Endodontic_Treatment.md', None, 'Weine, 2004'),
+ # Gulabivala and Ng 4e Ch.7; no chapter author named in the file, editors cited. Offset 9 confirmed at PDF 178 (printed 169) and PDF 181 (printed 172).
+ 'q04_gul': (T+'Endodontics_Kishor_Gulabivala_Yuan_Ling_Ng_4th_Ed_Mosby_2014_Chapterwise/07_7_Vital_pulp_therapy.md', 9, 'Gulabivala and Ng, 2014'),
+}
+BOOK_EXTRA = {
+ 'q04_AAE2012': 'American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012 (edition year from the preface in the file).',
+ 'q04_Gopikrishna2021': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.11 Vital pulp therapy and apexification (no individual chapter author is named in the file, so the editor is cited).",
+ 'q04_Bogen2019': "Bogen G, Chandler NP. Vital pulp therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.27 (author line letter-substituted in the extracted file; decodes to George Bogen and Nicholas P. Chandler; verify against the printed book).",
+ 'q04_Shabahang2019': "Shabahang S. Management of teeth with immature apices. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.28 (author line letter-substituted in the extracted file; decodes to Shahrokh Shabahang; verify against the printed book).",
+ 'q04_Diogenes2021': 'Diogenes A, Botero T, Kang M. Management of the vital pulp and of immature teeth. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.10.',
+ 'q04_Bogen2021': "Bogen G, Dammaschke T, Chandler N. Vital pulp therapy. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.24.",
+ 'q04_Kahler2021': "Kahler B. The role of endodontics after dental traumatic injuries. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.21.",
+ 'q04_Sikri2019': 'Sikri VK. Vital pulp therapy. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.25.',
+ 'q04_Cvek2007': 'Cvek M. Endodontic management and the use of calcium hydroxide in traumatized permanent teeth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.22.',
+ 'q04_Bakland2007': 'Bakland LK. New endodontic procedures using mineral trioxide aggregate (MTA) for teeth with traumatic injuries. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.23.',
+ 'q04_Weine2004': 'Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.14 Alternatives to routine endodontic treatment.',
+ 'q04_Gulabivala2014': 'Gulabivala K, Ng Y-L, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.7 Vital pulp therapy (no chapter author named in the file, so the editors are cited).',
+}
+L = {
+ # definitions
+ 'q04_gl_def': ('q04_gl1', 'A vital pulp therapy procedure performed to encourage continued physiological development and formation of the root end'),
+ 'q04_gr_def': ('q04_gr', 'treatment of a vital pulp by capping or pulpotomy in order to permit continued growth of the root and closure of the open apex'),
+ 'q04_gr_vital': ('q04_gr', 'It is a physiological process'),
+ 'q04_sik_histo': ('q04_sik', 'Apexogenesis is a histological term used to describe the continued physiologic development and formation of the root’s apex'),
+ 'q04_sik_deep': ('q04_sik', 'It can be regarded as a very deep pulpotomy'),
+ 'q04_gl_cap': ('q04_gl2', 'Treatment of an exposed vital pulp by sealing the pulpal wound with a dental material such as calcium hydroxide or mineral trioxide aggregate'),
+ 'q04_gl_pulpot': ('q04_gl2', 'The removal of the coronal portion of a vital pulp as a means of preserving the vitality of the remaining radicular portion'),
+ # rationale
+ 'q04_tor_23y': ('q04_tor', 'root development is known to continue'),
+ 'q04_tor_23y2': ('q04_tor', '2 to 3 years after the eruption of a permanent tooth in the oral cavity'),
+ 'q04_tor_arrest': ('q04_tor', 'the loss of odontoblasts in the radicular pulp results in arrested tooth development'),
+ 'q04_ing28_odont': ('q04_ing28', 'Only odontoblasts, the specialized cells in the pulp, are capable of producing dentin'),
+ 'q04_and_thin': ('q04_and', 'Removal of the pulp in children and adolescents deprives the tooth of physiologic dentin apposition'),
+ 'q04_sik_g1': ('q04_sik', 'Sustaining a viable Hertwig’s sheath, thus allowing'),
+ 'q04_sik_g2': ('q04_sik', 'thus allowing the remaining odontoblasts to lay down dentin, producing a thicker root and decreasing the chance of root fracture'),
+ 'q04_sik_g3': ('q04_sik', 'Promoting root-end closure, thus creating a natural'),
+ 'q04_sik_g4': ('q04_sik', 'Generating a dentinal bridge at the site of the'),
+ 'q04_gr_34mm': ('q04_gr', 'Even if only the apical 3 or 4 mm of the pulp tissue is still vital, the root apex can complete development'),
+ 'q04_wei_shape': ('q04_wei', 'the root end and canal usually will assume a relatively normal size and shape'),
+ # indications / contraindications
+ 'q04_sik_ind1': ('q04_sik', 'remains vital and uninflamed, as in carious exposures'),
+ 'q04_sik_ind2': ('q04_sik', 'In some trauma cases in which pulp exposure'),
+ 'q04_gr_ind': ('q04_gr', 'Mechanical or carious exposure in permanent teeth with'),
+ 'q04_gr_ci1': ('q04_gr', 'Patients with irreversible pulpitis'),
+ 'q04_gr_ci2': ('q04_gr', 'Periradicular radiographic changes resulting from exten'),
+ 'q04_gr_ci3': ('q04_gr', 'Marked constriction of the pulp chamber or root canals'),
+ 'q04_and_ci': ('q04_and', 'conservative treatment, i.e. capping or pulpotomy, should not be performed if degenerative or inflammatory changes are anticipated'),
+ 'q04_and_lux': ('q04_and', 'in luxated immature teeth the chance of pulp survival is considerable and conservative treatment may allow further root development'),
+ 'q04_ing27_irr': ('q04_ing27', 'In teeth diagnosed with irreversible pulpitis and open apices'),
+ 'q04_wei_any': ('q04_wei', 'If there is any chance at all that the apical portion of the pulp is vital, the pulpotomy procedure should be attempted'),
+ # case selection
+ 'q04_ing28_7d': ('q04_ing28', 'maintain a vital pulp for up to seven days post injury'),
+ 'q04_ing28_2mm': ('q04_ing28', 'is limited to the surface 2 mm of the pulp just beneath the exposure level'),
+ 'q04_ing28_cold': ('q04_ing28', 'most reliable test may be cold testing'),
+ 'q04_ing28_ept': ('q04_ing28', 'electric pulp testing in teeth with immature apices can result in less accurate results'),
+ 'q04_c24_naocl': ('q04_c24', 'if bleeding cannot be controlled after 5 to 10 minutes of direct exposure to NaOCl, complete removal of the coronal pulp to the pulp floor is the preferred option'),
+ 'q04_ing27_1015': ('q04_ing27', '15 minutes, the diagnosis should be revised to irreversible pulpitis and pulpotomy or pulpectomy should be initiated'),
+ 'q04_gr_fav': ('q04_gr', 'Treatment is done within 48 hours of exposure'),
+ 'q04_gr_1518': ('q04_gr', 'can be treated within 15–18 hours of the accident'),
+ 'q04_and_time': ('q04_and', 'neither exposure size nor time interval between injury and treatment are critical for healing when only superficial layers of the pulp are removed'),
+ 'q04_c21_72h': ('q04_c21', 'Traumatic exposures after more than 72 hours and carious exposure of a young tooth with a partially developed apex'),
+ # techniques
+ 'q04_tor_ipc': ('q04_tor', 'residual dentin thickness of at least 0.5 mm from the pulp could be successfully capped with a bioactive material'),
+ 'q04_tor_dpc': ('q04_tor', 'This approach has been shown to have an excellent prognosis in incompletely formed teeth'),
+ 'q04_c21_dpc80': ('q04_c21', 'The success rate of this procedure (80%),77,148 compared with partial pulpotomy (95%)'),
+ 'q04_gr_9580': ('q04_gr', 'the success rate of partial pulpotomy is 95% while that of direct pulp capping is 80% in young permanent teeth'),
+ 'q04_gr_pp': ('q04_gr', 'only a portion of the coronal pulp is removed or removal of tissues until normal tissue that is free of inflammation is reached'),
+ 'q04_and_2mm': ('q04_and', 'The level of amputation should be about 2mm below the exposure site'),
+ 'q04_and_152': ('q04_and', 'The pulpotomy is carried out to a depth of 1.5–2.0mm'),
+ 'q04_c24_sev': ('q04_c24', 'can progress several millimeters into the coronal pulp or advance further'),
+ 'q04_wei_fc': ('q04_wei', 'a cotton pellet lightly dampened with formocresol is applied to the pulp stump for 3 minutes'),
+ 'q04_c24_23': ('q04_c24', 'The coronal pulp is reduced from the exposed site by approximately 2 to 3 mm'),
+ 'q04_c21_12': ('q04_c21', 'A 1- to 2-mmdeep cavity is prepared into the pulp'),
+ 'q04_bak_2mm': ('q04_bak', 'to a depth of about 2mm into the pulp proper'),
+ 'q04_gul_polyp': ('q04_gul', 'inflammation is limited to a depth of 2 mm'),
+ 'q04_and_bur': ('q04_and', 'Pulpotomy should be performed with a diamond bur, of a size corresponding to the exposure, in a high speed contraangle handpiece'),
+ 'q04_and_adv': ('q04_and', 'undisturbed physiologic apposition of dentin, especially in the critical cervical area of the tooth'),
+ 'q04_gr_cerv': ('q04_gr', 'It involves the complete removal of the coronal portion of the dental pulp'),
+ 'q04_gr_ant': ('q04_gr', 'In anterior teeth, the bulbous portion up to, but not beyond, the cervical third of the root canal should be removed'),
+ 'q04_and_deep': ('q04_and', 'the pulp should be amputated to a level at which fresh bleeding tissue is found, i.e. a cervical or deep pulpotomy should be performed'),
+ 'q04_tor_chamber': ('q04_tor', 'a layer of >4 mm of a bioactive tricalcium silicate material is placed over the pulp stumps'),
+ # materials
+ 'q04_gr_ch12': ('q04_gr', 'The pulp chamber should be filled to a depth of at least 1–2 mm with calcium hydroxide'),
+ 'q04_gr_mta2': ('q04_gr', '2 mm of the material is placed'),
+ 'q04_gr_mta31': ('q04_gr', '3:1 MTA:distilled water'),
+ 'q04_gr_better': ('q04_gr', 'has been proved to be a better material of choice'),
+ 'q04_bak_2mmmta': ('q04_bak', 'If an adequate thickness of MTA is present (at least 2mm)'),
+ 'q04_tor_bd3': ('q04_tor', 'A 3-mm-thick layer of BiodentineTM'),
+ 'q04_c24_stain': ('q04_c24', 'the risk of tooth staining is considered higher when using a bismuth oxide containing CSC'),
+ 'q04_c24_ir': ('q04_c24', 'do not show complications such as internal resorption, typically seen with CH, formocresol, and ferric sulfate pulpotomies'),
+ 'q04_c24_83': ('q04_c24', 'comparable success rates ranging from 83% to 100% have been demonstrated using CSCs for pulpotomies in both immature and mature permanent teeth'),
+ 'q04_ing27_tunnel': ('q04_ing27', 'CH exhibit tunnel defects'),
+ 'q04_sik_ch': ('q04_sik', 'the use of calcium hydroxide has been shown to be the most predictable with regard to long-term clinical success'),
+ 'q04_bak_reenter': ('q04_bak', 'it is advisable to re-enter the capping site after hard tissue bridge formation'),
+ 'q04_gul_disc': ('q04_gul', 'Discolouration associated with the use of MTA is a major side effect for teeth in the aesthetic zone'),
+ 'q04_gr_rmgic': ('q04_gr', 'A resin-modified glass ionomer or flowable compomer base is'),
+ 'q04_c24_perm': ('q04_c24', 'A definitive restoration should be provided during the pulp treatment appointment'),
+ # follow-up and success
+ 'q04_gr_3m': ('q04_gr', 'The tooth should be checked with radiographs and vitality tests every 3 months'),
+ 'q04_sik_12y': ('q04_sik', 'ranges between one and two years depending on the degree of tooth development'),
+ 'q04_sik_3m': ('q04_sik', 'The patient should be recalled at 3-monthly intervals'),
+ 'q04_and_crit': ('q04_and', 'Continued root development in immature teeth'),
+ 'q04_and_crit6': ('q04_and', 'Follow-up for at least 3 years'),
+ 'q04_and_26': ('q04_and', 'all failures occurred within 26 months after treatment'),
+ 'q04_and_9496': ('q04_and', '169 (95%)'),
+ 'q04_and_96': ('q04_and', '58 (96%)'),
+ 'q04_c24_contra': ('q04_c24', 'coincides with the contralateral teeth in the same patient'),
+ 'q04_ing27_ind': ('q04_ing27', 'is the most reliable indicator of successful treatment'),
+ 'q04_c21_nosens': ('q04_c21', 'sensitivity testing is not possible, owing to the loss of coronal pulp'),
+ 'q04_c21_75': ('q04_c21', 'the prognosis, which is in the range of 75%, is poorer than for partial pulpotomy'),
+ 'q04_tor_recall': ('q04_tor', 'reevaluated at 6 and 12 months, followed by annual evaluations for the first 4 years'),
+ 'q04_gr_fail': ('q04_gr', 'If the apex is immature, apexification therapy should be initiated'),
+ 'q04_gr_follow': ('q04_gr', 'In the event of pain or death of the pulp, the root canal'),
+ # root canal treatment afterwards: books differ
+ 'q04_and_temp': ('q04_and', 'This procedure is therefore regarded as a temporary treatment to be followed by pulpectomy once root formation is complete'),
+ 'q04_and_pco': ('q04_and', 'Pulp canal obliteration and pulp necrosis are rather frequent long-term complications after a cervical or deep pulpotomy'),
+ 'q04_c21_some': ('q04_c21', 'some authors have recommended pulpectomy routinely after the roots have fully formed'),
+ 'q04_c21_9580': ('q04_c21', 'the pulpectomy procedure having a success rate in the range of 95%'),
+ 'q04_wei_rct': ('q04_wei', 'When apical closure has occurred, routine endodontic treatment is undertaken'),
+ 'q04_sik_contro': ('q04_sik', 'Controversy exists as to whether further endodontic intervention should be carried out following the completion of root development'),
+ 'q04_sik_reenter': ('q04_sik', 'once root development appears to be completed, the tooth should be re-entered and root canal therapy performed'),
+ 'q04_tor_def': ('q04_tor', 'it may be considered definitive treatment in certain cases'),
+ 'q04_c24_avoid': ('q04_c24', 'It has been recommended that pulpectomy be avoided in immature permanent teeth with vital canal tissue'),
+}
