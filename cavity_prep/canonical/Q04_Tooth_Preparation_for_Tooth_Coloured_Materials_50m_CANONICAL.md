@@ -4,18 +4,38 @@
 
 ## 1. Introduction: why preparations for tooth-coloured materials differ
 
-Tooth-coloured restorative materials include resin composites, glass-ionomer cements (GIC) and resin-modified glass-ionomers (RMGI), and indirect ceramic or laboratory-composite restorations. Because they bond to tooth structure, their preparations are smaller and simpler than those for amalgam: the defect, not the material, decides the outline. **Retention modes** (Marzouk et al., n.d.): acid conditioning of enamel, retentive cavity form, physico-chemical adhesion (GIC), pins and posts, or combinations. **Composite versus amalgam preparation** (Boushell and Walter, 2019; Singh and Rajkumar, 2020) | Feature | Amalgam | Composite |
+Tooth-coloured restorative materials include resin composites, glass-ionomer cements (GIC) and resin-modified glass-ionomers (RMGI), and indirect ceramic or laboratory-composite restorations. Because they bond to tooth structure, their preparations are smaller and simpler than those for amalgam: the defect, not the material, decides the outline.
+
+**Retention modes** (Marzouk et al., n.d.): acid conditioning of enamel, retentive cavity form, physico-chemical adhesion (GIC), pins and posts, or combinations.
+
+**Composite versus amalgam preparation** (Boushell and Walter, 2019; Singh and Rajkumar, 2020)
+
+| Feature | Amalgam | Composite |
 |---|---|---|
 | Outline | Includes adjacent suspicious fissures | Defect only; fissures sealed |
 | Pulpal/axial depth | Uniform (pulpal 1.5 mm) | Dictated by the lesion |
 | Cavosurface angle | 90°, no bevel | 90° or more; bevel where indicated |
 | Walls | Smooth | Rough |
 | Retention | Occlusal convergence, grooves, pins | Bonding |
-| Internal angles | Rounded | More rounded still | Sound tooth structure is not removed for "bulk for strength" (Ritter et al., 2019); smaller preparations reduce shrinkage effects (Hilton and Broome, 2013).
+| Internal angles | Rounded | More rounded still |
+
+Sound tooth structure is not removed for "bulk for strength" (Ritter et al., 2019); smaller preparations reduce shrinkage effects (Hilton and Broome, 2013).
 
 ## 2. Classification of preparation methods
 
-**Classification of methods** **A. Design of preparation for composite** (Singh and Rajkumar, 2020; Garg and Garg, 2011): (1) conventional, (2) bevelled conventional, (3) modified (conservative, "scooped-out"), (4) combined (Singh and Rajkumar, 2020). **B. Enamel-margin treatment** (Marzouk et al., n.d.): butt joint, partial bevel, long bevel, hollow-ground bevel, scalloping, skirting. **C. Other conservative designs:** box-only, facial or lingual slot, tunnel, proximal approach, saucer-shaped preparation, preventive resin restoration (Ritter et al., 2019; Mount and Ngo, 2016; Hilton and Broome, 2013). **D. Preparations for GIC and RMGI.** **E. Preparations for indirect tooth-coloured restorations.** Sturdevant's present edition describes conservative preparations for small lesions and traditional forms for large ones rather than naming the three classic types (Ritter et al., 2019).
+**Classification of methods**
+
+**A. Design of preparation for composite** (Singh and Rajkumar, 2020; Garg and Garg, 2011): (1) conventional, (2) bevelled conventional, (3) modified (conservative, "scooped-out"), (4) combined (Singh and Rajkumar, 2020).
+
+**B. Enamel-margin treatment** (Marzouk et al., n.d.): butt joint, partial bevel, long bevel, hollow-ground bevel, scalloping, skirting.
+
+**C. Other conservative designs:** box-only, facial or lingual slot, tunnel, proximal approach, saucer-shaped preparation, preventive resin restoration (Ritter et al., 2019; Mount and Ngo, 2016; Hilton and Broome, 2013).
+
+**D. Preparations for GIC and RMGI.**
+
+**E. Preparations for indirect tooth-coloured restorations.**
+
+Sturdevant's present edition describes conservative preparations for small lesions and traditional forms for large ones rather than naming the three classic types (Ritter et al., 2019).
 
 ## 3. Conventional preparation
 
@@ -23,19 +43,37 @@ Tooth-coloured restorative materials include resin composites, glass-ionomer cem
 - Same as an amalgam preparation: external walls at uniform, limited depth; 90° cavosurface angle (butt joint).
 - **Indication:** root-surface lesions, and the root portion of lesions extending from crown onto root.
 - **Features:** box form; axial depth about 0.75 mm on root surfaces; walls perpendicular to the root surface; retention grooves where needed. Groove position differs: 0.25 mm from the surface and 0.25 mm deep (Singh and Rajkumar, 2020) versus at least 1 mm from the surface and 0.5 mm into dentin (Garg and Garg, 2011).
-- **Rationale:** cementum and dentin are not etched like enamel; a butt joint gives maximum strength at the margin (Boushell and Walter, 2019). **Combined preparation:** conventional on the root portion, bevelled on coronal enamel, mostly for Class III lesions extending onto the root (Singh and Rajkumar, 2020).
+- **Rationale:** cementum and dentin are not etched like enamel; a butt joint gives maximum strength at the margin (Boushell and Walter, 2019).
+
+**Combined preparation:** conventional on the root portion, bevelled on coronal enamel, mostly for Class III lesions extending onto the root (Singh and Rajkumar, 2020).
 
 ## 4. Bevelled conventional preparation (absorbed short note)
 
-**Definition.** A conventional preparation whose accessible enamel cavosurface margins are bevelled; retention comes mainly from etched enamel (Singh and Rajkumar, 2020). **Advantages**
+**Definition.** A conventional preparation whose accessible enamel cavosurface margins are bevelled; retention comes mainly from etched enamel (Singh and Rajkumar, 2020).
+
+**Advantages**
 1. More enamel surface for etching and bonding, so more retention (Boushell and Walter, 2019).
 2. Exposes rod **ends**; end-on etching gives deeper micro-undercuts and a stronger bond than etching rod sides (Singh and Rajkumar, 2020; Hilton and Broome, 2013).
 3. Better marginal seal.
-4. Esthetic blending through a gradual increase in composite thickness (Boushell and Walter, 2019). **Indications:** Class III, IV and V; large or replacement restorations with high retention needs and little enamel (Singh and Rajkumar, 2020; Boushell and Walter, 2019). **Contraindications:** occlusal surfaces of posterior teeth; centric contact areas; cementum or dentin margins; thin cervical enamel (Garg and Garg, 2011; Hilton and Broome, 2013). **Why no occlusal bevel:** rod ends are already exposed; the thin composite over a bevel chips; the isthmus widens (Singh and Rajkumar, 2020; Ritter et al., 2019). Bevelled occlusal margins wore significantly more clinically (Hilton and Broome, 2013). **Technique:** flame-shaped or round fine diamond at about 45° to the external surface. | Class | Bevel width according to different books |
+4. Esthetic blending through a gradual increase in composite thickness (Boushell and Walter, 2019).
+
+**Indications:** Class III, IV and V; large or replacement restorations with high retention needs and little enamel (Singh and Rajkumar, 2020; Boushell and Walter, 2019).
+
+**Contraindications:** occlusal surfaces of posterior teeth; centric contact areas; cementum or dentin margins; thin cervical enamel (Garg and Garg, 2011; Hilton and Broome, 2013).
+
+**Why no occlusal bevel:** rod ends are already exposed; the thin composite over a bevel chips; the isthmus widens (Singh and Rajkumar, 2020; Ritter et al., 2019). Bevelled occlusal margins wore significantly more clinically (Hilton and Broome, 2013).
+
+**Technique:** flame-shaped or round fine diamond at about 45° to the external surface.
+
+| Class | Bevel width according to different books |
 |---|---|
 | III | 0.25-0.5 mm (Singh and Rajkumar, 2020); 0.2-0.5 mm (Garg and Garg, 2011); 0.5-2 mm (Ritter et al., 2019); 2 mm or more facially for esthetics (Vargas et al., 2013) |
 | IV | 0.25-2.0 mm (Singh and Rajkumar, 2020); at least 1 mm, no added strength beyond 1 mm; facial 60°, 2-3 mm "infinite" bevel; lingual about 1 mm (Vargas et al., 2013) |
-| V | Occlusal/incisal enamel only; at least 0.5 mm (Ritter et al., 2019); 0.25-0.5 mm (Garg and Garg, 2011) | **Controversies.** Class II proximal margins: Summitt's recommends 0.5 mm, 45° facial and lingual bevels (less leakage) and a gingival bevel only on enamel well away from the CEJ (Hilton and Broome, 2013); Sturdevant's rarely bevels the proximal box and not gingivally (Ritter et al., 2019). Anterior: enamel bonds are clinically adequate without bevels and Class 3 leakage did not differ in vitro (Vargas et al., 2013). **Enamel-margin treatments** (Marzouk et al., n.d.): partial bevel (part of the wall, 45-70°, cavity retains); long bevel (whole wall, poor cavity retention); hollow-ground bevel (keeps a 90° margin; gingival, inaccessible and loaded areas); scalloping (never gingivally); skirt (about 0.1 mm surface enamel around shallow defects, at least double the defect area). Partial and long bevels give no definite finish line and cause flash.
+| V | Occlusal/incisal enamel only; at least 0.5 mm (Ritter et al., 2019); 0.25-0.5 mm (Garg and Garg, 2011) |
+
+**Controversies.** Class II proximal margins: Summitt's recommends 0.5 mm, 45° facial and lingual bevels (less leakage) and a gingival bevel only on enamel well away from the CEJ (Hilton and Broome, 2013); Sturdevant's rarely bevels the proximal box and not gingivally (Ritter et al., 2019). Anterior: enamel bonds are clinically adequate without bevels and Class 3 leakage did not differ in vitro (Vargas et al., 2013).
+
+**Enamel-margin treatments** (Marzouk et al., n.d.): partial bevel (part of the wall, 45-70°, cavity retains); long bevel (whole wall, poor cavity retention); hollow-ground bevel (keeps a 90° margin; gingival, inaccessible and loaded areas); scalloping (never gingivally); skirt (about 0.1 mm surface enamel around shallow defects, at least double the defect area). Partial and long bevels give no definite finish line and cause flash.
 
 ## 5. Modified (conservative, adhesive) preparation
 
@@ -50,9 +88,13 @@ Tooth-coloured restorative materials include resin composites, glass-ionomer cem
 
 **Box-only preparation** (Ritter et al., 2019; Singh and Rajkumar, 2020)
 - **Indication:** proximal lesion with no occlusal caries.
-- **Technique:** small pear-shaped or round diamond parallel to the long axis, through the marginal ridge toward the lesion; axial depth about 0.2 mm inside the DEJ, otherwise set by the lesion; extensions only as far as the caries; matrix band protects the adjacent tooth. No bevel, no secondary retention. **Facial or lingual slot preparation** (Ritter et al., 2019; Singh and Rajkumar, 2020)
+- **Technique:** small pear-shaped or round diamond parallel to the long axis, through the marginal ridge toward the lesion; axial depth about 0.2 mm inside the DEJ, otherwise set by the lesion; extensions only as far as the caries; matrix band protects the adjacent tooth. No bevel, no secondary retention.
+
+**Facial or lingual slot preparation** (Ritter et al., 2019; Singh and Rajkumar, 2020)
 - **Indication:** proximal lesion reachable from the facial or lingual embrasure, marginal ridge intact (at least 2 mm of enamel), caries up to 0.5 mm into dentin.
-- **Technique:** wedge placed; small round bur enters from the embrasure at the level of the lesion; margins 90° or more; ridge not undermined, otherwise convert to a conventional Class II. **Terminology warning:** Mount and Ngo (2016) and Summitt's use "slot" for a small box through the marginal ridge (lesion within 2-3 mm of the crest), that is, the box-only design; Summitt's reports 70% success after up to 10 years (Hilton and Broome, 2013).
+- **Technique:** wedge placed; small round bur enters from the embrasure at the level of the lesion; margins 90° or more; ridge not undermined, otherwise convert to a conventional Class II.
+
+**Terminology warning:** Mount and Ngo (2016) and Summitt's use "slot" for a small box through the marginal ridge (lesion within 2-3 mm of the crest), that is, the box-only design; Summitt's reports 70% success after up to 10 years (Hilton and Broome, 2013).
 
 ## 7. Tunnel (internal occlusal fossa) preparation
 
@@ -66,14 +108,18 @@ Tooth-coloured restorative materials include resin composites, glass-ionomer cem
 
 ## 8. Preparations for glass-ionomer and resin-modified glass-ionomer restorations
 
-**Indications for GIC/RMGI:** root caries in high-risk patients (primary indication), Class V and erosion or abrasion lesions, Class III and small Class I, tunnel and slot cavities, primary teeth; not stress-bearing Class I, II or IV (Ritter et al., 2019; Garg and Garg, 2011). **Principles of preparation**
+**Indications for GIC/RMGI:** root caries in high-risk patients (primary indication), Class V and erosion or abrasion lesions, Class III and small Class I, tunnel and slot cavities, primary teeth; not stress-bearing Class I, II or IV (Ritter et al., 2019; Garg and Garg, 2011).
+
+**Principles of preparation**
 1. Outline set only by the caries; access just sufficient to excavate.
 2. **No bevels:** otherwise as for composite (Ritter et al., 2019; Vargas et al., 2013).
 3. **No retention grooves:** retention by chemical adhesion (Vargas et al., 2013; Mount and Ngo, 2016).
 4. Butt margins; smooth enamel with a fine (25 μm) diamond (Mount and Ngo, 2016).
 5. Undermined enamel may stay, supported by the cement; uncavitated demineralised enamel is left to remineralize (Mount and Ngo, 2016).
 6. Affected dentin on the axial wall may be left where the pulp is at risk (Mount and Ngo, 2016).
-7. Condition with mild acid such as 10% polyacrylic acid (Ritter et al., 2019). **Designs:** Class V and root lesions as for composite without bevels; proximal root caries after recession by an amalgam-type slot (Ritter et al., 2019); tunnel, slot and proximal approach (Mount and Ngo, 2016); lamination, with GIC cut back about 2 mm to expose enamel before bonding composite (Mount and Ngo, 2016); open sandwich, with RMGI as the gingival increment of a Class II near or below the CEJ (Hilton and Broome, 2013).
+7. Condition with mild acid such as 10% polyacrylic acid (Ritter et al., 2019).
+
+**Designs:** Class V and root lesions as for composite without bevels; proximal root caries after recession by an amalgam-type slot (Ritter et al., 2019); tunnel, slot and proximal approach (Mount and Ngo, 2016); lamination, with GIC cut back about 2 mm to expose enamel before bonding composite (Mount and Ngo, 2016); open sandwich, with RMGI as the gingival increment of a Class II near or below the CEJ (Hilton and Broome, 2013).
 
 ## 9. Preparations for indirect tooth-coloured restorations (outline)
 
@@ -95,7 +141,11 @@ Tooth-coloured restorative materials include resin composites, glass-ionomer cem
 | Facial/lingual slot | Embrasure access, ridge intact | Proximal lesion, intact ridge |
 | Tunnel | Occlusal fossa access | Lesion at least 3 mm below ridge (controversial) |
 | GIC/RMGI | No bevel, no grooves | Root caries, cervical lesions |
-| Indirect inlay/onlay | 2 mm depth, divergent, rounded, butt margins | Large esthetic posterior restorations | **General rules:** remove only the defect; rounded internal angles; no dovetails in anterior teeth; the gingival wall is the most critical wall for resistance and retention (Marzouk et al., n.d.); no occlusal bevels; keep enamel at margins. **Conclusion.** The method is chosen by lesion size and site, the substrate at the margin, occlusal load and the material. Adhesion has replaced mechanical retention and extension for prevention; bevels and grooves are used selectively, and the books still disagree on bevel width, proximal bevels and tunnel preparations.
+| Indirect inlay/onlay | 2 mm depth, divergent, rounded, butt margins | Large esthetic posterior restorations |
+
+**General rules:** remove only the defect; rounded internal angles; no dovetails in anterior teeth; the gingival wall is the most critical wall for resistance and retention (Marzouk et al., n.d.); no occlusal bevels; keep enamel at margins.
+
+**Conclusion.** The method is chosen by lesion size and site, the substrate at the margin, occlusal load and the material. Adhesion has replaced mechanical retention and extension for prevention; bevels and grooves are used selectively, and the books still disagree on bevel width, proximal bevels and tunnel preparations.
 
 ## References
 

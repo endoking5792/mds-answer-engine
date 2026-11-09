@@ -2,13 +2,21 @@
 
 **Marks:** 5 · Short note
 
-## Answer **Class V:** gingival third of facial or lingual surfaces (Ritter et al., 2019). Outline is now set by caries and unsupported enamel, not the old trapezoid (Overton et al., 2013). | Material | Design |
+## Answer
+
+**Class V:** gingival third of facial or lingual surfaces (Ritter et al., 2019). Outline is now set by caries and unsupported enamel, not the old trapezoid (Overton et al., 2013).
+
+| Material | Design |
 |---|---|
 | Amalgam | Trapezoid, short side gingival (Marzouk Design 1; variants: proximal handle, moustache, multiple boxes, furcation). Axial 0.5 mm inside DEJ, 0.75 mm in cementum; walls diverge, so two grooves or four coves (Ritter et al., 2019) |
 | Composite: conventional | Box, 90°; lesion mainly on root |
 | Composite: beveled conventional | Large lesion or replacement; 45° enamel bevel 0.25-0.5 mm (Garg and Garg, 2011) |
 | Composite: modified | Small lesions; scooped out, no retention |
-| GIC/RMGI (abrasion/erosion) | Minimal or no preparation; no bevel; 90° butt joint about 1 mm; polyacrylic acid conditioning (Overton et al., 2013; Mount and Ngo, 2016) | No bevel on cementum; amalgam and glass ionomer get no bevel because of low edge strength (Overton et al., 2013). RMGI showed higher retention than composite in one trial (Overton et al., 2013). **Conclusion.** Class V preparation should be minimal and material-specific, with bevels restricted to suitable enamel margins and butt-joint margins used for materials that require adequate edge bulk.
+| GIC/RMGI (abrasion/erosion) | Minimal or no preparation; no bevel; 90° butt joint about 1 mm; polyacrylic acid conditioning (Overton et al., 2013; Mount and Ngo, 2016) |
+
+No bevel on cementum; amalgam and glass ionomer get no bevel because of low edge strength (Overton et al., 2013). RMGI showed higher retention than composite in one trial (Overton et al., 2013).
+
+**Conclusion.** Class V preparation should be minimal and material-specific, with bevels restricted to suitable enamel margins and butt-joint margins used for materials that require adequate edge bulk.
 
 ## References
 

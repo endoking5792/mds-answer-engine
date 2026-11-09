@@ -4,11 +4,15 @@
 
 ## 1. From Black's design to lesion-dictated design
 
-The Class II cavity of G.V. Black was a standard outline: an occlusal dovetail through all fissures plus a proximal box extended to self-cleansing areas ("extension for prevention"). Marzouk described the logic: every restoration has a leakage gap, so margins were placed where they are easily cleansable, "cutting for immunity" (Marzouk et al., n.d.). Recent advances replace this standard outline with a design dictated by the lesion and the material. **Why the design changed**
+The Class II cavity of G.V. Black was a standard outline: an occlusal dovetail through all fissures plus a proximal box extended to self-cleansing areas ("extension for prevention"). Marzouk described the logic: every restoration has a leakage gap, so margins were placed where they are easily cleansable, "cutting for immunity" (Marzouk et al., n.d.). Recent advances replace this standard outline with a design dictated by the lesion and the material.
+
+**Why the design changed**
 1. **Prevention:** extension for prevention has "virtually been eliminated" because fluoride and oral hygiene give relative caries immunity; fissures are treated by sealants, enameloplasty or preventive resin restorations instead of cutting (Ritter et al., 2019).
 2. **Mechanics:** an isthmus of one-third the intercuspal distance cut fracture resistance by about 33%; the width was reduced to one-quarter, and today no stereotyped outline is followed (Torres and Mehta, 2020). Wider amalgam restorations make the tooth more fracture-prone, and slot restorations confined to the marginal ridge may reduce fracture severity (Overton, Summitt and Osborne, 2013).
 3. **Adhesion:** bonded materials need no undercuts, so the outline can follow the lesion only (Section 5).
-4. **Classification:** Mount's Site and Size system describes lesions by site (Site 2 = approximal) and size; the Black Class II-III-IV distinction has been made redundant by better restorative materials (Mount and Ngo, 2016). **Principles of the modern Class II design**
+4. **Classification:** Mount's Site and Size system describes lesions by site (Site 2 = approximal) and size; the Black Class II-III-IV distinction has been made redundant by better restorative materials (Mount and Ngo, 2016).
+
+**Principles of the modern Class II design**
 - Outline dictated by the lesion, not by a standard shape; no stereotyped outline (Torres and Mehta, 2020).
 - Preserve the marginal ridge and the occlusal enamel wherever possible.
 - Seal sound or stained fissures instead of cutting them (Hilton and Broome, 2013).
@@ -23,7 +27,9 @@ The Class II cavity of G.V. Black was a standard outline: an occlusal dovetail t
 |---|---|---|
 | Lesion | Moderate-large, occlusal involved | Small-moderate, within area of near approach |
 | Patient | High caries and plaque indices | Good hygiene, low caries |
-| Features | Black outline | Occlusal width not over 1/4 intercuspal, little dovetail, rounded line angles, buccal and lingual grooves always | **B. Proximal slot (box-only) amalgam**
+| Features | Black outline | Occlusal width not over 1/4 intercuspal, little dovetail, rounded line angles, buccal and lingual grooves always |
+
+**B. Proximal slot (box-only) amalgam**
 - Indication: proximal lesion with no occlusal caries (Ritter et al., 2019); Sturdevant's adds a narrow contact and a marginal ridge free of occlusal contact.
 - Technique: cut through the marginal ridge until the bur "falls" into carious dentin; leave a shell of enamel to protect the adjacent tooth (damaged 69% of the time otherwise) (Overton, Summitt and Osborne, 2013).
 - Form: facial and lingual walls converge occlusally; mesiodistal width about 1.5 mm; long, opposing retention grooves at least 0.5 mm deep, the only feature resisting proximal displacement (Overton, Summitt and Osborne, 2013); Garg and Garg give 0.5 mm gingivally, 0.3 mm occlusally.
@@ -55,19 +61,26 @@ The Class II cavity of G.V. Black was a standard outline: an occlusal dovetail t
 - **Advantages:** marginal ridge and contact preserved; no overhang; Class 2 cavity reduces stiffness 46% versus 20% for occlusal access; can be converted to a box (Hilton and Broome, 2013).
 - **Disadvantages:** passes within 1 mm of the pulp; poor visibility; residual caries; marginal ridge weakens as the tunnel widens (Hilton and Broome, 2013; Ritter et al., 2019).
 - **Restoration:** high-strength glass ionomer syringed in two increments against a short mylar strip and wedge; if load or aesthetics demand, cut back about 2 mm after the cement matures (up to a week) and laminate with composite (Mount and Ngo, 2016).
-
 - **Clinical outcome:** higher failure; 34-41% residual or progressing caries; 21% failure in 7 years versus 0% for slots; 46% versus 76% survival against saucer composites; failures by ridge fracture and secondary caries (Hilton and Broome, 2013).
 - **Verdict:** Mount and Ngo (2016) recommend it for selected lesions; Hilton and Broome (2013) say it "should be avoided"; Ritter et al (2019) do not support it.
 
 ## 5. Adhesive designs for composite
 
 **E. Adhesive (composite) Class II designs**
-Features (Hilton and Broome, 2013): removal limited to caries and fragile enamel; shallower (no dentin entry if the lesion stays in enamel); narrower (less shrinkage stress, less wear); rounded internal angles; no extension for prevention; no standard shape. Isthmus may be as small as one-fifth of the intercuspal distance (Marzouk et al., n.d.). Mechanical retention is not needed (Ritter et al., 2019). Designs for small lesions (Ritter et al., 2019):
+Features (Hilton and Broome, 2013): removal limited to caries and fragile enamel; shallower (no dentin entry if the lesion stays in enamel); narrower (less shrinkage stress, less wear); rounded internal angles; no extension for prevention; no standard shape. Isthmus may be as small as one-fifth of the intercuspal distance (Marzouk et al., n.d.). Mechanical retention is not needed (Ritter et al., 2019).
+
+Designs for small lesions (Ritter et al., 2019):
 1. Conventional with occlusal access: primary lesions reaching the occlusal surface.
 2. Box-only: proximal surface only; pear-shaped bur parallel to the long axis through the marginal ridge; no bevel, no secondary retention; axial depth 0.2 mm inside DEJ (Singh and Rajkumar, 2020).
 3. Facial or lingual slot: marginal ridge not undermined.
 4. Saucer-shaped: lesion confined to enamel with minimal dentin involvement (Marzouk et al., n.d.).
-Large lesions return to a traditional box-and-step form (Ritter et al., 2019). **Bevels (controversial):** 0.5 mm, 45° on right-angled proximal facial and lingual margins reduces leakage; gingival bevel only on enamel well away from the CEJ; no occlusal bevel (Hilton and Broome, 2013). Ritter et al (2019) place no bevel on the box-only. **Preparation sequence (Hilton and Broome, 2013):** prewedge (separation gives a tighter contact and protects the adjacent tooth); enter just inside the marginal ridge with a small round bur, extend with a no. 329 bur leaving the proximal enamel intact, then fracture the thinned enamel with a spoon excavator; seal the non-carious fissures. Sonic tips may be used and do not impair adhesion. **Evidence:** proximal slot composites 70% success at up to 10 years, with an occlusal stop on enamel (Hilton and Broome, 2013). Bonding does not reliably reinforce the tooth long term (Hilton and Broome, 2013).
+Large lesions return to a traditional box-and-step form (Ritter et al., 2019).
+
+**Bevels (controversial):** 0.5 mm, 45° on right-angled proximal facial and lingual margins reduces leakage; gingival bevel only on enamel well away from the CEJ; no occlusal bevel (Hilton and Broome, 2013). Ritter et al (2019) place no bevel on the box-only.
+
+**Preparation sequence (Hilton and Broome, 2013):** prewedge (separation gives a tighter contact and protects the adjacent tooth); enter just inside the marginal ridge with a small round bur, extend with a no. 329 bur leaving the proximal enamel intact, then fracture the thinned enamel with a spoon excavator; seal the non-carious fissures. Sonic tips may be used and do not impair adhesion.
+
+**Evidence:** proximal slot composites 70% success at up to 10 years, with an occlusal stop on enamel (Hilton and Broome, 2013). Bonding does not reliably reinforce the tooth long term (Hilton and Broome, 2013).
 
 ## 6. Designs for glass ionomer and minimal access designs
 
@@ -87,7 +100,9 @@ Glass ionomer releases fluoride so demineralised margins are left to remineralis
 | Facial or lingual slot | Lesion below contact, recession | Line-angle grooves | Technique reports; little comparative data |
 | Tunnel | Small lesion 3 mm or more below ridge | Adhesion (GIC) | Clinical: high failure; rejected by Summitt's and Sturdevant's |
 | Composite box-only / saucer | Small proximal lesion | Adhesion | Clinical: 70% at 10 years for slot composites |
-| GIC slot | Low load, high caries risk | Adhesion | Mostly expert recommendation | **Conclusion.** The advance is from a standard outline to a lesion-dictated, material-dictated design: preserve the marginal ridge and occlusal enamel, seal fissures instead of cutting them, and rely on adhesion. The evidence base is mature for slot amalgam and slot composite, weak for the horizontal slot and glass-ionomer slot, and unfavourable for the tunnel restoration.
+| GIC slot | Low load, high caries risk | Adhesion | Mostly expert recommendation |
+
+**Conclusion.** The advance is from a standard outline to a lesion-dictated, material-dictated design: preserve the marginal ridge and occlusal enamel, seal fissures instead of cutting them, and rely on adhesion. The evidence base is mature for slot amalgam and slot composite, weak for the horizontal slot and glass-ionomer slot, and unfavourable for the tunnel restoration.
 
 ## References
 

@@ -4,7 +4,9 @@
 
 ## 1. What cavosurface treatment means and what decides it
 
-The *cavosurface angle* is the angle between a prepared wall and the external tooth surface; the junction is the *cavosurface margin* (Marzouk et al., n.d.). Its design ("cavosurface treatment") depends on the restorative material, location and enamel-rod direction (Boushell and Walter, 2019), especially the material's edge strength (Garg and Garg, 2011). **Governing principle (Noy, quoted by Marzouk et al., n.d.).** Enamel must rest on sound dentin; the rods forming the margin must have inner ends on dentin; covering their outer ends with restorative material (a bevel) gives the strongest wall, *but only if the material is stronger than tooth*. For weaker, brittle materials, the wall should parallel the rods (a butt joint). Hence: gold is bevelled, composite is bevelled for bonding, amalgam, GIC and ceramics are butt-jointed.
+The *cavosurface angle* is the angle between a prepared wall and the external tooth surface; the junction is the *cavosurface margin* (Marzouk et al., n.d.). Its design ("cavosurface treatment") depends on the restorative material, location and enamel-rod direction (Boushell and Walter, 2019), especially the material's edge strength (Garg and Garg, 2011).
+
+**Governing principle (Noy, quoted by Marzouk et al., n.d.).** Enamel must rest on sound dentin; the rods forming the margin must have inner ends on dentin; covering their outer ends with restorative material (a bevel) gives the strongest wall, *but only if the material is stronger than tooth*. For weaker, brittle materials, the wall should parallel the rods (a butt joint). Hence: gold is bevelled, composite is bevelled for bonding, amalgam, GIC and ceramics are butt-jointed.
 
 ## 2. Amalgam: 90 degree butt joint, no bevel
 
@@ -26,14 +28,18 @@ The *cavosurface angle* is the angle between a prepared wall and the external to
 ## 4. Composite resin: bevel or not, by location
 
 **Composite: bevel by location.**
-- Rationale: bonds to etched rod *ends* are about twice those to rod sides; a 45° bevel exposes the ends (Fruits, Khajotia and Nicholson, 2013); it adds bonding area and esthetic blending (Boushell and Walter, 2019). | Site | Recommendation | Source |
+- Rationale: bonds to etched rod *ends* are about twice those to rod sides; a 45° bevel exposes the ends (Fruits, Khajotia and Nicholson, 2013); it adds bonding area and esthetic blending (Boushell and Walter, 2019).
+
+| Site | Recommendation | Source |
 |---|---|---|
 | Occlusal (Class I/II) | No bevel: rods already end-on; thin resin chips; more wear clinically | Ahmed et al., 2019; Hilton and Broome, 2013 |
 | Proximal facial/lingual | Sturdevant: rarely. Summitt: 0.5 mm at 45°, less leakage | Ahmed et al., 2019 vs Hilton and Broome, 2013 |
 | Gingival | Bevel only on thick enamel away from CEJ; never on cementum | Hilton and Broome, 2013; Overton et al., 2013 |
 | Class III/IV facial | 45°, 0.5-2 mm (Sturdevant); 60°, 2-3 mm "infinite" bevel (Summitt) | Ahmed et al., 2019; Vargas et al., 2013 |
 | Class IV lingual | 45°, ~1 mm; avoid at occlusal contact | Vargas et al., 2013; Ahmed et al., 2019 |
-| Class V cervical | No bevel (no enamel) | Ahmed et al., 2019 | - Critique: enamel bonds are clinically adequate without bevels and Class III microleakage was the same with or without bevels in vitro (Vargas et al., 2013). Marzouk et al (undated) warn that flat bevels leave weak flash; a hollow-ground bevel gives a butt joint plus etched rod ends at gingival walls.
+| Class V cervical | No bevel (no enamel) | Ahmed et al., 2019 |
+
+- Critique: enamel bonds are clinically adequate without bevels and Class III microleakage was the same with or without bevels in vitro (Vargas et al., 2013). Marzouk et al (undated) warn that flat bevels leave weak flash; a hollow-ground bevel gives a butt joint plus etched rod ends at gingival walls.
 
 ## 5. Glass ionomer cement: butt joint, no bevel
 
@@ -58,7 +64,9 @@ The *cavosurface angle* is the angle between a prepared wall and the external to
 | Ni-Cr, cast ceramic | Hollow-ground or 90° | Poor castability, brittleness |
 | Composite | Bevel anterior and accessible enamel; no occlusal bevel | Rod-end bonding, esthetics; occlusal wear |
 | GIC/RMGI | 90° butt, ~1 mm | Brittle, needs bulk |
-| Ceramic | 90° butt / shoulder | Chipping | **Appraisal.** (1) Agreement is strong only at the extremes. (2) The proximal composite box is disputed: Sturdevant rarely bevels, Summitt bevels 0.5 mm at 45°. (3) Most bevel evidence is laboratory; clinically, occlusal bevels increased wear and enamel bonds succeed without bevels. (4) Bevelling sound enamel enlarges the restoration, against minimal intervention (avoiding occlusal bevels prevents loss of sound tooth structure: Hilton and Broome, 2013). (5) Modified ceramic margins are recent and in vitro only. Choose the margin by the material's edge strength, the enamel rod direction and the occlusal contact position.
+| Ceramic | 90° butt / shoulder | Chipping |
+
+**Appraisal.** (1) Agreement is strong only at the extremes. (2) The proximal composite box is disputed: Sturdevant rarely bevels, Summitt bevels 0.5 mm at 45°. (3) Most bevel evidence is laboratory; clinically, occlusal bevels increased wear and enamel bonds succeed without bevels. (4) Bevelling sound enamel enlarges the restoration, against minimal intervention (avoiding occlusal bevels prevents loss of sound tooth structure: Hilton and Broome, 2013). (5) Modified ceramic margins are recent and in vitro only. Choose the margin by the material's edge strength, the enamel rod direction and the occlusal contact position.
 
 ## References
 

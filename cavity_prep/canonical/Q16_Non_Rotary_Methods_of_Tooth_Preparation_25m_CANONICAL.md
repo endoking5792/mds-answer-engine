@@ -2,21 +2,77 @@
 
 **Marks:** 25 · Essay
 
-## 1. Introduction and classification Non-rotary methods prepare teeth or remove caries without a rotating bur. They include the oldest method (hand instruments) and the newer alternatives that adhesive, minimally invasive dentistry has made practical. They allow more conservative work with less noise, vibration and anaesthesia (Mount, Walsh and Brostek, 2016). **Classification (after Banerjee and Watson, 2015)**
+## 1. Introduction and classification
+
+Non-rotary methods prepare teeth or remove caries without a rotating bur. They include the oldest method (hand instruments) and the newer alternatives that adhesive, minimally invasive dentistry has made practical. They allow more conservative work with less noise, vibration and anaesthesia (Mount, Walsh and Brostek, 2016).
+
+**Classification (after Banerjee and Watson, 2015)**
 1. Mechanical, non-rotary: hand instruments; air abrasion (and air polishing); sono-abrasion and ultrasonics (including CVD tips).
 2. Photo-ablation: erbium lasers.
-3. Chemo-mechanical: Carisolv, Papacarie, enzyme gels. ## 2. Hand instruments **Hand instruments** were once the only means of preparation; high-speed rotary equipment has replaced many, but they remain essential (Ritter et al., 2019).
+3. Chemo-mechanical: Carisolv, Papacarie, enzyme gels.
+
+## 2. Hand instruments
+
+**Hand instruments** were once the only means of preparation; high-speed rotary equipment has replaced many, but they remain essential (Ritter et al., 2019).
 - **Classification:** cutting (excavators: ordinary hatchet, hoe, angle former, spoon; chisels: straight, Wedelstaedt, bin-angle, enamel hatchet, gingival margin trimmer) and non-cutting (condensers, mirrors, explorers, probes). Black's formula: blade width (0.1 mm), cutting edge angle, blade length (mm), blade angle (centigrades) (Ritter et al., 2019).
 - **Contemporary uses:** spoon excavators for final removal of soft infected dentine, leaving affected dentine to remineralise; gingival margin trimmers for planing enamel margins where burs cannot reach and rounding the axiopulpal line angle; chisels and hatchets for removing unsupported enamel (Mount, Walsh and Brostek, 2016; Ritter et al., 2019).
 - **Advantages:** tactile feedback allows finer discrimination of infected, affected and sound dentine than burs (Banerjee and Watson, 2015); advised for carious dentine near the pulp (Marzouk et al., n.d.).
 - **Limitations:** slow on sound tissue, must be kept sharp and used with a light touch to avoid enamel microcracks and over-extension (Mount, Walsh and Brostek, 2016).
-- **ART:** hand excavation of infected dentine and restoration with high-viscosity GIC (Banerjee and Watson, 2015); Ritter et al (2019) do not recommend it for routine use outside areas with limited access to care. ## 3. Air abrasion **Principle.** A high-velocity stream of alumina particles (27-50 µm) transfers kinetic energy and removes tissue by brittle micro-fracture (Mount, Walsh and Brostek, 2016). Invented by Robert Black in 1943 (Mount, Walsh and Brostek, 2016) or 1945 (Banerjee and Watson, 2015); returned with bonded restorations because it cannot cut undercuts (Summitt, 2013). **Variables:** pressure, particle size (27 µm caries, 34 µm enamel), flow rate, nozzle size, distance and angle (Mount, Walsh and Brostek, 2016). **Advantages:** no heat, vibration, noise or pressure; less cracking and rounded internal angles, good for bonding (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016); no anaesthesia (Bonsor and Pearson, 2013) or reduced need (Mount, Walsh and Brostek, 2016). **Disadvantages:** no tactile sense and over-cutting; cannot produce defined walls and margins (Ritter et al., 2019); poor on soft carious dentine; creates smear layer, acid etching still needed; dust hazard (asthma, eyes) needing evacuation and protection (Mount, Walsh and Brostek, 2016). **Uses:** minimal occlusal entry, pit and fissure debridement before sealing, small cavities, roughening surfaces to be bonded, stain and composite removal (Mount, Walsh and Brostek, 2016; Ritter et al., 2019). An adjunct, not a replacement for the handpiece. ## 4. Sono-abrasion and ultrasonic preparation **Principle.** Oscillating diamond tips abrade tissue by vibration and micro-cavitation (Banerjee and Watson, 2015). Sonic (air-driven, about 6000-8000 Hz) and ultrasonic (25,000-35,000 Hz, piezoelectric) units (Gonçalves et al., 2020). **Advances:** safe-sided tips coated on one side only protect the adjacent tooth in proximal preparations (Hilton and Broome, 2013); CVD diamond tips, since conventional nickel-bonded diamond fails under ultrasound (Garg and Garg, 2011; Gonçalves et al., 2020). **Advantages:** conservative access, comfort, no soft-tissue damage, pulpal heating and adhesion comparable to rotary preparation (Gonçalves et al., 2020; Hilton and Broome, 2013). **Disadvantages:** slower; light pressure only; not for bulk reduction; avoid with cardiac pacemakers (Gonçalves et al., 2020). ## 5. Lasers **Lasers used:** Er:YAG (2940 nm), Er:YSGG (2790 nm), Er,Cr:YSGG (2780 nm); Er:YAG ablates most efficiently (Ritter et al., 2019). **Mechanism:** water absorbs the energy and explodes subsurface, ejecting apatite; carious tissue ablates selectively (Mount, Walsh and Brostek, 2016). **Advantages:** little or no anaesthesia (2-5% request it), no pulp injury in clinical histology, selective caries removal with acoustic feedback (Mount, Walsh and Brostek, 2016); no smear layer (Gonçalves et al., 2020); no vibration (Poli et al., 2023). **Disadvantages:** slow on enamel (Poli et al., 2023); no defined margins; cannot remove amalgam or ceramic; costly (Ritter et al., 2019). Bond strength: similar (Mount, Walsh and Brostek, 2016) or lower without acid etching (Caprioglio, Caprioglio and Caprioglio, 2018; Poli et al., 2023), so phosphoric acid etching after lasing is advised. ## 6. Chemo-mechanical caries removal **Carisolv** (Ericsson, early 1990s): sodium hypochlorite 0.5% (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013) or 0.1% (Banerjee and Watson, 2015), with leucine, lysine and glutamic acid at pH 11. Chloramines break down denatured collagen of infected dentine only. **Papacarie** is papain based (Banerjee and Watson, 2015). **Technique:** cavitated access, apply gel, whisk softened dentine with blunt instruments at tooth-brushing force, repeat until gel stays clear, then restore. **Advantages:** self-limiting, less anaesthesia, preserves sound dentine, outcomes equal to conventional methods; useful in anxious, needle-phobic or allergic patients and children (Mount, Walsh and Brostek, 2016). **Disadvantages:** slower; needs access; does not complete the cavity or remove restorations (Mount, Walsh and Brostek, 2016). ## 7. Comparison and conclusion | Method | Acts on | Best use |
+- **ART:** hand excavation of infected dentine and restoration with high-viscosity GIC (Banerjee and Watson, 2015); Ritter et al (2019) do not recommend it for routine use outside areas with limited access to care.
+
+## 3. Air abrasion
+
+**Principle.** A high-velocity stream of alumina particles (27-50 µm) transfers kinetic energy and removes tissue by brittle micro-fracture (Mount, Walsh and Brostek, 2016). Invented by Robert Black in 1943 (Mount, Walsh and Brostek, 2016) or 1945 (Banerjee and Watson, 2015); returned with bonded restorations because it cannot cut undercuts (Summitt, 2013).
+
+**Variables:** pressure, particle size (27 µm caries, 34 µm enamel), flow rate, nozzle size, distance and angle (Mount, Walsh and Brostek, 2016).
+
+**Advantages:** no heat, vibration, noise or pressure; less cracking and rounded internal angles, good for bonding (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016); no anaesthesia (Bonsor and Pearson, 2013) or reduced need (Mount, Walsh and Brostek, 2016).
+
+**Disadvantages:** no tactile sense and over-cutting; cannot produce defined walls and margins (Ritter et al., 2019); poor on soft carious dentine; creates smear layer, acid etching still needed; dust hazard (asthma, eyes) needing evacuation and protection (Mount, Walsh and Brostek, 2016).
+
+**Uses:** minimal occlusal entry, pit and fissure debridement before sealing, small cavities, roughening surfaces to be bonded, stain and composite removal (Mount, Walsh and Brostek, 2016; Ritter et al., 2019). An adjunct, not a replacement for the handpiece.
+
+## 4. Sono-abrasion and ultrasonic preparation
+
+**Principle.** Oscillating diamond tips abrade tissue by vibration and micro-cavitation (Banerjee and Watson, 2015). Sonic (air-driven, about 6000-8000 Hz) and ultrasonic (25,000-35,000 Hz, piezoelectric) units (Gonçalves et al., 2020).
+
+**Advances:** safe-sided tips coated on one side only protect the adjacent tooth in proximal preparations (Hilton and Broome, 2013); CVD diamond tips, since conventional nickel-bonded diamond fails under ultrasound (Garg and Garg, 2011; Gonçalves et al., 2020).
+
+**Advantages:** conservative access, comfort, no soft-tissue damage, pulpal heating and adhesion comparable to rotary preparation (Gonçalves et al., 2020; Hilton and Broome, 2013).
+
+**Disadvantages:** slower; light pressure only; not for bulk reduction; avoid with cardiac pacemakers (Gonçalves et al., 2020).
+
+## 5. Lasers
+
+**Lasers used:** Er:YAG (2940 nm), Er:YSGG (2790 nm), Er,Cr:YSGG (2780 nm); Er:YAG ablates most efficiently (Ritter et al., 2019).
+
+**Mechanism:** water absorbs the energy and explodes subsurface, ejecting apatite; carious tissue ablates selectively (Mount, Walsh and Brostek, 2016).
+
+**Advantages:** little or no anaesthesia (2-5% request it), no pulp injury in clinical histology, selective caries removal with acoustic feedback (Mount, Walsh and Brostek, 2016); no smear layer (Gonçalves et al., 2020); no vibration (Poli et al., 2023).
+
+**Disadvantages:** slow on enamel (Poli et al., 2023); no defined margins; cannot remove amalgam or ceramic; costly (Ritter et al., 2019). Bond strength: similar (Mount, Walsh and Brostek, 2016) or lower without acid etching (Caprioglio, Caprioglio and Caprioglio, 2018; Poli et al., 2023), so phosphoric acid etching after lasing is advised.
+
+## 6. Chemo-mechanical caries removal
+
+**Carisolv** (Ericsson, early 1990s): sodium hypochlorite 0.5% (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013) or 0.1% (Banerjee and Watson, 2015), with leucine, lysine and glutamic acid at pH 11. Chloramines break down denatured collagen of infected dentine only. **Papacarie** is papain based (Banerjee and Watson, 2015).
+
+**Technique:** cavitated access, apply gel, whisk softened dentine with blunt instruments at tooth-brushing force, repeat until gel stays clear, then restore.
+
+**Advantages:** self-limiting, less anaesthesia, preserves sound dentine, outcomes equal to conventional methods; useful in anxious, needle-phobic or allergic patients and children (Mount, Walsh and Brostek, 2016). **Disadvantages:** slower; needs access; does not complete the cavity or remove restorations (Mount, Walsh and Brostek, 2016).
+
+## 7. Comparison and conclusion
+
+| Method | Acts on | Best use |
 |---|---|---|
 | Hand instruments | Carious dentine, enamel margins | Final excavation, margin planing, ART |
 | Air abrasion | Enamel, resin, surfaces to be bonded | Fissures, minimal entry |
 | Sono/ultrasonic | Enamel, dentine, carious dentine | Proximal boxes |
 | Er:YAG laser | Enamel, dentine, caries (not metal) | Small lesions, anxious patients |
-| Carisolv | Infected dentine only | Soft caries without anaesthesia | **Current evidence update.** A 2026 systematic review of 11 studies (five in vitro and six in vivo) found that Er:YAG and Er,Cr:YSGG lasers generally achieved effective caries removal, but treatment was usually slower than rotary excavation; heterogeneity and limited long-term outcomes constrain certainty (Sae-Ferrández et al., 2026). **Conclusion.** Non-rotary methods are selective, conservative and comfortable, but each is slower or narrower in scope than the bur; they are adjuncts chosen by substrate and patient, often combined with rotary instruments, because no perfect instrument exists (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
+| Carisolv | Infected dentine only | Soft caries without anaesthesia |
+
+**Current evidence update.** A 2026 systematic review of 11 studies (five in vitro and six in vivo) found that Er:YAG and Er,Cr:YSGG lasers generally achieved effective caries removal, but treatment was usually slower than rotary excavation; heterogeneity and limited long-term outcomes constrain certainty (Sae-Ferrández et al., 2026).
+
+**Conclusion.** Non-rotary methods are selective, conservative and comfortable, but each is slower or narrower in scope than the bur; they are adjuncts chosen by substrate and patient, often combined with rotary instruments, because no perfect instrument exists (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
 
 ## References
 

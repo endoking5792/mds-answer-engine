@@ -4,7 +4,11 @@
 
 ## 1. Introduction and classification of cavity preparation methods
 
-Cavity preparation has moved from hand instruments, through high-speed rotary cutting, to a group of alternative and adjunctive methods driven by adhesive dentistry and minimal intervention: air abrasion, sono-abrasion and ultrasonics, erbium lasers, chemo-mechanical caries removal and antibacterial methods (ozone, photo-activated disinfection). Mount, Walsh and Brostek (2016) state that air abrasion, pulsed erbium lasers and chemo-mechanical caries removal allow the clinician to work more conservatively, in different quadrants at one appointment, with less need for local anaesthesia. Banerjee and Watson (2015) caution that at present no perfect instrument exists. **Classification by mechanism (Banerjee and Watson, 2015, Table 5.5)** | Mechanism | Substrate | Technology |
+Cavity preparation has moved from hand instruments, through high-speed rotary cutting, to a group of alternative and adjunctive methods driven by adhesive dentistry and minimal intervention: air abrasion, sono-abrasion and ultrasonics, erbium lasers, chemo-mechanical caries removal and antibacterial methods (ozone, photo-activated disinfection). Mount, Walsh and Brostek (2016) state that air abrasion, pulsed erbium lasers and chemo-mechanical caries removal allow the clinician to work more conservatively, in different quadrants at one appointment, with less need for local anaesthesia. Banerjee and Watson (2015) caution that at present no perfect instrument exists.
+
+**Classification by mechanism (Banerjee and Watson, 2015, Table 5.5)**
+
+| Mechanism | Substrate | Technology |
 |---|---|---|
 | Mechanical, rotary | Sound or carious enamel and dentine | Steel, carbide, diamond, ceramic and plastic burs (plastic acts on carious dentine only) |
 | Mechanical, non-rotary | Sound or carious enamel and dentine | Hand instruments; air abrasion (alumina/bioactive glass); air polishing; ultrasonics; sono-abrasion |
@@ -27,46 +31,100 @@ Cavity preparation has moved from hand instruments, through high-speed rotary cu
 
 ## 4. Air abrasion (kinetic cavity preparation)
 
-**Definition and principle.** Air abrasion (kinetic cavity preparation, particle beam technology, microabrasion) transfers kinetic energy from a high-velocity stream of fine alumina particles to the tooth, removing tissue by brittle micro-fracture (Ritter et al., 2019; Mount, Walsh and Brostek, 2016; Garg and Garg, 2011). **History (books differ).** Invented by Robert Black in 1943 (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011) or 1945 (Banerjee and Watson, 2015); SS White Airdent in the 1940s, abandoned because it could not cut undercuts and gave no tactile sense, with dust and mirror-etching problems (Summitt, 2013; Ritter et al., 2019). Reintroduced in the 1980s with bonding (Summitt, 2013; Gonçalves et al., 2020) or re-emerged in the 1990s through Rainey (Mount, Walsh and Brostek, 2016). **Operating variables (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016):** air pressure, powder flow rate, nozzle diameter, tip-to-tooth distance and angle, particle size and type. Doubling particle size from 27 to 50 µm increases kinetic energy eightfold; 27 µm for caries, 34 µm for enamel, 50 µm for laboratory use. Carious enamel is cut faster than sound enamel, but sound dentine faster than soft carious dentine. Garg and Garg (2011) give 25-30 µm particles at 60-120 psi. Approved intra-oral powders are alumina and bioactive glass (Banerjee and Watson, 2015). Nozzle close to the tooth gives a narrow cut; farther away a wider, shallower cut. **Advantages**
+**Definition and principle.** Air abrasion (kinetic cavity preparation, particle beam technology, microabrasion) transfers kinetic energy from a high-velocity stream of fine alumina particles to the tooth, removing tissue by brittle micro-fracture (Ritter et al., 2019; Mount, Walsh and Brostek, 2016; Garg and Garg, 2011).
+
+**History (books differ).** Invented by Robert Black in 1943 (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011) or 1945 (Banerjee and Watson, 2015); SS White Airdent in the 1940s, abandoned because it could not cut undercuts and gave no tactile sense, with dust and mirror-etching problems (Summitt, 2013; Ritter et al., 2019). Reintroduced in the 1980s with bonding (Summitt, 2013; Gonçalves et al., 2020) or re-emerged in the 1990s through Rainey (Mount, Walsh and Brostek, 2016).
+
+**Operating variables (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016):** air pressure, powder flow rate, nozzle diameter, tip-to-tooth distance and angle, particle size and type. Doubling particle size from 27 to 50 µm increases kinetic energy eightfold; 27 µm for caries, 34 µm for enamel, 50 µm for laboratory use. Carious enamel is cut faster than sound enamel, but sound dentine faster than soft carious dentine. Garg and Garg (2011) give 25-30 µm particles at 60-120 psi. Approved intra-oral powders are alumina and bioactive glass (Banerjee and Watson, 2015). Nozzle close to the tooth gives a narrow cut; farther away a wider, shallower cut.
+
+**Advantages**
 - No heat, vibration, pressure or noise; less pain (Banerjee and Watson, 2015).
 - Conserves tooth tissue: microcavities (Bonsor and Pearson, 2013).
 - Rounded internal line angles and margins, less microcracking than burs, a surface suited to bonding (SEM data; Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
 - Pulp: no more traumatic than rotary instruments in animal studies (Hilton and Summitt, 2013).
-- Anaesthesia: "not needed" (Bonsor and Pearson, 2013; Garg and Garg, 2011) versus "reduced need" (Mount, Walsh and Brostek, 2016). **Disadvantages**
+- Anaesthesia: "not needed" (Bonsor and Pearson, 2013; Garg and Garg, 2011) versus "reduced need" (Mount, Walsh and Brostek, 2016).
+
+**Disadvantages**
 - No tactile sense; learning curve; over-cutting; wrong tip distance is the commonest error (Mount, Walsh and Brostek, 2016; Ritter et al., 2019).
 - Cannot produce well-defined walls and margins (Ritter et al., 2019), though Garg and Garg (2011) list precise enamel cutting as an advantage.
 - Poor on soft carious dentine; creates rather than removes smear layer; acid etching still gives a better bond (Mount, Walsh and Brostek, 2016; Ritter et al., 2019).
-- Dust: risk to asthmatic staff, eyes and lungs; theoretical air emphysema at high pressure (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011). Protection: rubber dam, intra-oral high-volume evacuation plus extra-oral vacuum, masks and eye protection for patient and staff (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015). **Indications:** pit and fissure debridement before sealing, minimal occlusal and tunnel entry, small cervical and proximal cavities, cleaning before bonding, removing composite and sealants, stain removal, roughening metal and ceramic for bonding (Mount, Walsh and Brostek, 2016; Ritter et al., 2019). **Not for:** gross caries, large or subgingival cavities, crown/inlay preparations, slots and grooves, removal of metal and ceramic restorations (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013). **Recent developments:** water-shrouded and multi-chambered units that reduce dust (Summitt, 2013; Banerjee and Watson, 2015), at the cost of a wider cut (Mount, Walsh and Brostek, 2016); bioactive glass powders for desensitisation and selective enamel removal, with self-limiting powders under research (Banerjee and Watson, 2015). Air abrasion is an adjunct, not a replacement, for the handpiece (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011).
+- Dust: risk to asthmatic staff, eyes and lungs; theoretical air emphysema at high pressure (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011). Protection: rubber dam, intra-oral high-volume evacuation plus extra-oral vacuum, masks and eye protection for patient and staff (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
+
+**Indications:** pit and fissure debridement before sealing, minimal occlusal and tunnel entry, small cervical and proximal cavities, cleaning before bonding, removing composite and sealants, stain removal, roughening metal and ceramic for bonding (Mount, Walsh and Brostek, 2016; Ritter et al., 2019). **Not for:** gross caries, large or subgingival cavities, crown/inlay preparations, slots and grooves, removal of metal and ceramic restorations (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013).
+
+**Recent developments:** water-shrouded and multi-chambered units that reduce dust (Summitt, 2013; Banerjee and Watson, 2015), at the cost of a wider cut (Mount, Walsh and Brostek, 2016); bioactive glass powders for desensitisation and selective enamel removal, with self-limiting powders under research (Banerjee and Watson, 2015). Air abrasion is an adjunct, not a replacement, for the handpiece (Mount, Walsh and Brostek, 2016; Garg and Garg, 2011).
 
 ## 5. Sono-abrasion and ultrasonic preparation, including CVD diamond tips
 
-**Principle.** Tip oscillation and micro-cavitation chip away hard tissue (Banerjee and Watson, 2015). Types (Gonçalves et al., 2020): sonic (air-driven, about 6000-8000 Hz); ultrasonic (25,000-35,000 Hz, mostly piezoelectric; older units magnetostrictive, Marzouk et al., n.d.); reciprocating (EVA system). **Evolution.** Ultrasound was used for caries removal from the 1950s (Garg and Garg, 2011) but was not universally used for cavities (Marzouk et al., n.d.). It is now a viable means of conservative preparation (Summitt, 2013) because of:
+**Principle.** Tip oscillation and micro-cavitation chip away hard tissue (Banerjee and Watson, 2015). Types (Gonçalves et al., 2020): sonic (air-driven, about 6000-8000 Hz); ultrasonic (25,000-35,000 Hz, mostly piezoelectric; older units magnetostrictive, Marzouk et al., n.d.); reciprocating (EVA system).
+
+**Evolution.** Ultrasound was used for caries removal from the 1950s (Garg and Garg, 2011) but was not universally used for cavities (Marzouk et al., n.d.). It is now a viable means of conservative preparation (Summitt, 2013) because of:
 - **Safe-sided diamond tips** with abrasive on one side only, protecting the adjacent tooth in proximal boxes (Hilton and Broome, 2013; Gonçalves et al., 2020).
-- **CVD diamond tips:** synthetic diamond grown by chemical vapour deposition on molybdenum, because nickel-bonded diamond cannot withstand ultrasonic power (Garg and Garg, 2011; Gonçalves et al., 2020). Introduced in 1996 (Garg and Garg, 2011) or launched in 2001 (Gonçalves et al., 2020). **CVD tip properties:** very durable under ultrasonic vibration; heads need no rotational symmetry, so flat and angled shapes improve access to remote sites; irrigation water warms slightly in the handpiece, reducing sensitivity (Gonçalves et al., 2020). **Technique.** Light pressure: the weight of the handpiece; more pressure reduces cutting (Gonçalves et al., 2020). Initial entry is often made with a high-speed bur (Hilton and Broome, 2013). **Advantages:** conservative access, protection of adjacent tooth, more comfort and less need for anaesthesia, no soft-tissue or rubber-dam damage, pulpal temperature and odontoblast response similar to water-cooled rotary cutting, adhesion not impaired (Gonçalves et al., 2020; Hilton and Broome, 2013). **Disadvantages:** slower (about 2 minutes longer), not for crown preparation or removal of large volumes, contraindicated with cardiac pacemakers; high-amplitude vibration can provoke a pulpal "rebound response" (Gonçalves et al., 2020; Marzouk et al., n.d.).
+- **CVD diamond tips:** synthetic diamond grown by chemical vapour deposition on molybdenum, because nickel-bonded diamond cannot withstand ultrasonic power (Garg and Garg, 2011; Gonçalves et al., 2020). Introduced in 1996 (Garg and Garg, 2011) or launched in 2001 (Gonçalves et al., 2020).
+
+**CVD tip properties:** very durable under ultrasonic vibration; heads need no rotational symmetry, so flat and angled shapes improve access to remote sites; irrigation water warms slightly in the handpiece, reducing sensitivity (Gonçalves et al., 2020).
+
+**Technique.** Light pressure: the weight of the handpiece; more pressure reduces cutting (Gonçalves et al., 2020). Initial entry is often made with a high-speed bur (Hilton and Broome, 2013).
+
+**Advantages:** conservative access, protection of adjacent tooth, more comfort and less need for anaesthesia, no soft-tissue or rubber-dam damage, pulpal temperature and odontoblast response similar to water-cooled rotary cutting, adhesion not impaired (Gonçalves et al., 2020; Hilton and Broome, 2013).
+
+**Disadvantages:** slower (about 2 minutes longer), not for crown preparation or removal of large volumes, contraindicated with cardiac pacemakers; high-amplitude vibration can provoke a pulpal "rebound response" (Gonçalves et al., 2020; Marzouk et al., n.d.).
 
 ## 6. Lasers
 
-**Hard-tissue lasers.** Middle-infrared erbium lasers: Er:YAG 2940 nm, Er:YSGG 2790 nm, Er,Cr:YSGG 2780 nm; Er:YAG ablates most efficiently because 2940 nm matches the absorption peak of water (Ritter et al., 2019; Mount, Walsh and Brostek, 2016). A 9300 nm CO2 laser is the newest hard-tissue option (Poli et al., 2023). Conventional CO2 (enamel melting, pulp heat) and Nd:YAG (needs a chromophore) are unsuitable for cutting (Bonsor and Pearson, 2013); other wavelengths have not reached clinical use (Mount, Walsh and Brostek, 2016). **Mechanism.** Laser energy absorbed by water causes explosive subsurface expansion that ejects apatite (photomechanical ablation) (Mount, Walsh and Brostek, 2016; Gonçalves et al., 2020). Carious tissue, holding more water, ablates at lower energy: selective ablation (Poli et al., 2023). Enamel needs more energy than dentine; water spray cools between pulses. **History.** Hibst (Ulm) characterised Er:YAG cutting in the mid-1980s; clinical histology in teeth extracted for orthodontics showed no pulp injury (Mount, Walsh and Brostek, 2016). Minimal pulpal response compared with high-speed burs (Hilton and Summitt, 2013). **Advantages**
+**Hard-tissue lasers.** Middle-infrared erbium lasers: Er:YAG 2940 nm, Er:YSGG 2790 nm, Er,Cr:YSGG 2780 nm; Er:YAG ablates most efficiently because 2940 nm matches the absorption peak of water (Ritter et al., 2019; Mount, Walsh and Brostek, 2016). A 9300 nm CO2 laser is the newest hard-tissue option (Poli et al., 2023). Conventional CO2 (enamel melting, pulp heat) and Nd:YAG (needs a chromophore) are unsuitable for cutting (Bonsor and Pearson, 2013); other wavelengths have not reached clinical use (Mount, Walsh and Brostek, 2016).
+
+**Mechanism.** Laser energy absorbed by water causes explosive subsurface expansion that ejects apatite (photomechanical ablation) (Mount, Walsh and Brostek, 2016; Gonçalves et al., 2020). Carious tissue, holding more water, ablates at lower energy: selective ablation (Poli et al., 2023). Enamel needs more energy than dentine; water spray cools between pulses.
+
+**History.** Hibst (Ulm) characterised Er:YAG cutting in the mid-1980s; clinical histology in teeth extracted for orthodontics showed no pulp injury (Mount, Walsh and Brostek, 2016). Minimal pulpal response compared with high-speed burs (Hilton and Summitt, 2013).
+
+**Advantages**
 - Little or no anaesthesia: only 2-5% of patients request it; analgesic effect proposed (Mount, Walsh and Brostek, 2016).
 - Selective, minimally invasive removal of caries; acoustic feedback ("popping" sound changes when caries is removed) (Mount, Walsh and Brostek, 2016).
 - No smear layer, decontaminated surface, no vibration, better accepted by children (Gonçalves et al., 2020; Caprioglio, Caprioglio and Caprioglio, 2018).
-- Simultaneous soft-tissue procedures (Poli et al., 2023). **Disadvantages**
+- Simultaneous soft-tissue procedures (Poli et al., 2023).
+
+**Disadvantages**
 - Slow on enamel (less than 30% of bur speed); longer for conventional cavities (Poli et al., 2023; Bonsor and Pearson, 2013).
 - No defined margin; cannot remove amalgam or ceramic; impractical for routine preparation; may never replace the handpiece; expensive (Ritter et al., 2019).
 - Rough lased surface retains plaque if uncovered (Poli et al., 2023); caries dyes give false-positive stain (Mount, Walsh and Brostek, 2016).
-- Eye safety with wavelength-specific glasses; collateral damage from reflection (Gonçalves et al., 2020; Bonsor and Pearson, 2013). **Clinical technique.** Non-contact handpiece with sapphire window and aiming beam, water spray, minimum effective energy (higher for enamel than dentine); caries end point by sound (sound tissue: high-pitched click; caries: low-pitched thud) (Mount, Walsh and Brostek, 2016; Poli et al., 2023). After lasing: remove unsupported enamel with hand instruments or fine burs, etch with phosphoric acid, line deep cavities with GIC or flowable composite, then restore incrementally (Poli et al., 2023). **Bonding.** Mount, Walsh and Brostek (2016) report little difference in bond strength and identical margins clinically; Caprioglio, Caprioglio and Caprioglio (2018) and Poli et al (2023) report lower adhesion to lased tooth and advise phosphoric acid etching of lased surfaces. Laser "etching" is better called laser conditioning (Caprioglio, Caprioglio and Caprioglio, 2018).
+- Eye safety with wavelength-specific glasses; collateral damage from reflection (Gonçalves et al., 2020; Bonsor and Pearson, 2013).
+
+**Clinical technique.** Non-contact handpiece with sapphire window and aiming beam, water spray, minimum effective energy (higher for enamel than dentine); caries end point by sound (sound tissue: high-pitched click; caries: low-pitched thud) (Mount, Walsh and Brostek, 2016; Poli et al., 2023). After lasing: remove unsupported enamel with hand instruments or fine burs, etch with phosphoric acid, line deep cavities with GIC or flowable composite, then restore incrementally (Poli et al., 2023).
+
+**Bonding.** Mount, Walsh and Brostek (2016) report little difference in bond strength and identical margins clinically; Caprioglio, Caprioglio and Caprioglio (2018) and Poli et al (2023) report lower adhesion to lased tooth and advise phosphoric acid etching of lased surfaces. Laser "etching" is better called laser conditioning (Caprioglio, Caprioglio and Caprioglio, 2018).
 
 ## 7. Chemo-mechanical caries removal (Carisolv, Papacarie)
 
-**Principle.** A gel softens only the denatured collagen of caries-infected dentine, which is then removed with non-cutting hand instruments; sound dentine is unaffected, giving self-limiting caries removal (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015). **Agents.** Caridex (historical); Carisolv (Ericsson, Sweden, early 1990s); Papacarie (papain based); experimental pepsin gels (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016). **Carisolv composition.** Sodium hypochlorite 0.5% (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013) or 0.1% (Banerjee and Watson, 2015); amino acids leucine, lysine and glutamic acid; sodium chloride; sodium hydroxide to pH 11; carboxymethylcellulose thickener (Mount, Walsh and Brostek, 2016). **Mechanism.** Chloramines formed from hypochlorite and amino acids break down denatured collagen without demineralisation; the charged amino acids make the action specific for denatured collagen; the N-chloramino acids decay quickly so no action continues after the visit (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013). **Technique.** Access to a cavitated lesion; apply gel 30 s; whisk softened dentine with blunt star or mace instruments at tooth-brushing force (or a 450 rpm bur); repeat until fresh gel no longer turns cloudy; inspect, especially the DEJ; restore adhesively, preferably with a bioactive material such as glass ionomer so the remaining mildly demineralised dentine can remineralise (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015; Bonsor and Pearson, 2013). **Advantages:** less need for anaesthesia; low annoyance; preserves sound tissue; no smear layer; outcomes equal to conventional methods in long-term clinical studies; total time similar once anaesthesia is counted (Mount, Walsh and Brostek, 2016). Indicated in anxious, needle-phobic or anaesthetic-allergic patients and children. **Disadvantages:** slower; needs cavitated access; removes infected dentine only and does not complete the cavity; cannot remove enamel or old restorations (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
+**Principle.** A gel softens only the denatured collagen of caries-infected dentine, which is then removed with non-cutting hand instruments; sound dentine is unaffected, giving self-limiting caries removal (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
+
+**Agents.** Caridex (historical); Carisolv (Ericsson, Sweden, early 1990s); Papacarie (papain based); experimental pepsin gels (Banerjee and Watson, 2015; Mount, Walsh and Brostek, 2016).
+
+**Carisolv composition.** Sodium hypochlorite 0.5% (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013) or 0.1% (Banerjee and Watson, 2015); amino acids leucine, lysine and glutamic acid; sodium chloride; sodium hydroxide to pH 11; carboxymethylcellulose thickener (Mount, Walsh and Brostek, 2016).
+
+**Mechanism.** Chloramines formed from hypochlorite and amino acids break down denatured collagen without demineralisation; the charged amino acids make the action specific for denatured collagen; the N-chloramino acids decay quickly so no action continues after the visit (Mount, Walsh and Brostek, 2016; Bonsor and Pearson, 2013).
+
+**Technique.** Access to a cavitated lesion; apply gel 30 s; whisk softened dentine with blunt star or mace instruments at tooth-brushing force (or a 450 rpm bur); repeat until fresh gel no longer turns cloudy; inspect, especially the DEJ; restore adhesively, preferably with a bioactive material such as glass ionomer so the remaining mildly demineralised dentine can remineralise (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015; Bonsor and Pearson, 2013).
+
+**Advantages:** less need for anaesthesia; low annoyance; preserves sound tissue; no smear layer; outcomes equal to conventional methods in long-term clinical studies; total time similar once anaesthesia is counted (Mount, Walsh and Brostek, 2016). Indicated in anxious, needle-phobic or anaesthetic-allergic patients and children.
+
+**Disadvantages:** slower; needs cavitated access; removes infected dentine only and does not complete the cavity; cannot remove enamel or old restorations (Mount, Walsh and Brostek, 2016; Banerjee and Watson, 2015).
 
 ## 8. Antibacterial and other emerging methods: ozone, photo-activated disinfection, enzymes
 
-**Ozone.** Gaseous ozone delivered through a sealed silicone cup (10-60 s) kills cariogenic bacteria (Caprioglio, Caprioglio and Caprioglio, 2018). Caprioglio and co-workers claim sterilised carious dentine need not be removed; Borges, Torres and Schlueter (2020) state that ozone did not meet expectations and is only an additional option, acts only where the cup seals (not proximal or hidden lesions), has good in vitro but limited and contradictory clinical evidence, and allows rapid reinfection unless the surface is sealed. Manufacturer's protocol: ozone, then a remineralising solution (fluoride, calcium, zinc, phosphate), home fluoride, and repeat applications at 3 and 6 months (Borges, Torres and Schlueter, 2020). Possible uses: disinfecting fissures before sealing and non-invasive treatment of early occlusal and smooth-surface lesions. **Photo-activated disinfection (PAD):** tolonium chloride taken up by residual bacteria and activated by light of a specific wavelength (Banerjee and Watson, 2015). **Enzymatic gels:** papain and pepsin solutions are being investigated for more self-limiting removal of infected dentine (Banerjee and Watson, 2015). These methods currently lack clinical research to validate routine use (Banerjee and Watson, 2015).
+**Ozone.** Gaseous ozone delivered through a sealed silicone cup (10-60 s) kills cariogenic bacteria (Caprioglio, Caprioglio and Caprioglio, 2018). Caprioglio and co-workers claim sterilised carious dentine need not be removed; Borges, Torres and Schlueter (2020) state that ozone did not meet expectations and is only an additional option, acts only where the cup seals (not proximal or hidden lesions), has good in vitro but limited and contradictory clinical evidence, and allows rapid reinfection unless the surface is sealed. Manufacturer's protocol: ozone, then a remineralising solution (fluoride, calcium, zinc, phosphate), home fluoride, and repeat applications at 3 and 6 months (Borges, Torres and Schlueter, 2020). Possible uses: disinfecting fissures before sealing and non-invasive treatment of early occlusal and smooth-surface lesions.
+
+**Photo-activated disinfection (PAD):** tolonium chloride taken up by residual bacteria and activated by light of a specific wavelength (Banerjee and Watson, 2015).
+
+**Enzymatic gels:** papain and pepsin solutions are being investigated for more self-limiting removal of infected dentine (Banerjee and Watson, 2015).
+
+These methods currently lack clinical research to validate routine use (Banerjee and Watson, 2015).
 
 ## 9. Comparison and maturity of evidence
 
-**Comparison (after Mount, Walsh and Brostek, 2016, Table 8.4)** | Method | Sound enamel | Sound dentine | Carious dentine | Old restorations | Main role |
+**Comparison (after Mount, Walsh and Brostek, 2016, Table 8.4)**
+
+| Method | Sound enamel | Sound dentine | Carious dentine | Old restorations | Main role |
 |---|---|---|---|---|---|
 | Rotary burs | Moderate | Moderate | Rapid | Moderate (metal and resin) | All preparations |
 | Air abrasion | Moderate | Slow | Slow | Slow (metal); moderate (resin) | Fissures, minimal entry, surface preparation |
@@ -74,7 +132,9 @@ Cavity preparation has moved from hand instruments, through high-speed rotary cu
 | Er:YSGG laser | Moderate | Moderate | Slow | None (metal); moderate (resin) | Small cavities |
 | Er:YAG laser | Moderate | Moderate | Rapid | None (metal); moderate (resin) | Small lesions, anxious patients |
 | Carisolv | None | None | Rapid | None | Soft caries without anaesthesia |
-| Hand excavators | None | None | Moderate | None | Final caries removal, ART | **Maturity of evidence**
+| Hand excavators | None | None | Moderate | None | Final caries removal, ART |
+
+**Maturity of evidence**
 - **Clinically established:** rotary instruments; hand excavation.
 - **Clinical data, adjunctive role:** Carisolv (long-term clinical outcomes equal to conventional, Mount, Walsh and Brostek, 2016); erbium lasers (clinical histology and large trials on anaesthesia, Mount, Walsh and Brostek, 2016; but bonding data conflict, mostly in vitro).
 - **Mainly laboratory or animal data:** air abrasion (SEM and animal pulp studies; Mount, Walsh and Brostek, 2016; Hilton and Summitt, 2013); sono-abrasion and CVD (limited in vivo studies; Gonçalves et al., 2020).
