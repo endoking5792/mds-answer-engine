@@ -25,8 +25,8 @@ F_EXTRA = {
  'u3_ep5': (T+'Endodontic_Prognosis_Clinical_Guide_Chapterwise/05_5_Regenerative_Approaches_in_Endodontic_Therapies_of_Immatur.md', 9, 'Kang and Bogen, 2017'),
  # Seltzer and Bender 2e (2012) Ch.13 Goodis, Marshall, Tay and Marshall; ebook, no printed page numbers.
  'u3_sb13': (T+'Seltzer_and_Bender_Dental_Pulp_Chapterwise_MD/Chapter_13_Repair_of_Pulpal_Injury_with_Dental_Materials.md', None, 'Goodis et al, 2012'),
- # Endodontology (Baumann and Beer, eds, 2010) Ch.46, no chapter author named. Offset 17: PDF 378 = p.361, PDF 379 = p.362, PDF 381 = p.364.
- 'u3_en46': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Baumann and Beer, 2010'),
+ # Endodontology (Baumann and Beer, eds, 2010) Ch.46, chapter authors V. Buerkle and N. Meissner (Contents page). Offset 17: PDF 378 = p.361, PDF 379 = p.362, PDF 381 = p.364.
+ 'u3_en46': (T+'Endodontology_Chapterwise/46_46_Endodontics_in_the_Mixed_Dentition.md', 17, 'Buerkle and Meissner, 2010'),
  # Gutmann and Lovdahl, Problem Solving in Endodontics 5e (2011) Ch.13. Offset 11: PDF 252 = p.241, PDF 253 = p.242, PDF 254 = p.243.
  'u3_gut13': (T+'Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/13_Chapter_13_Problem_Solving_Challenges_in_Compromised_Roots_R.md', 11, 'Gutmann and Lovdahl, 2011'),
  # Harty's 7e Ch.12 (Sigurdsson and Bourguignon), offset 16 (PDF 255 = p.239, PDF 256 = p.240). Used here for Q04.
@@ -43,7 +43,7 @@ BOOK_EXTRA = {
  'u3_Orstavik2020': 'Ørstavik D. Endodontic treatment of apical periodontitis. In: Ørstavik D, editor. Essential Endodontology: Prevention and Treatment of Apical Periodontitis. 3rd ed. Hoboken: Wiley-Blackwell; 2020. Ch.11.',
  'u3_Kang2017': 'Kang MK, Bogen G. Regenerative approaches in endodontic therapies of immature teeth. In: Chugal N, Lin LM, editors. Endodontic Prognosis: Clinical Guide for Optimal Treatment Outcome. Cham: Springer; 2017. Ch.5.',
  'u3_Goodis2012': "Goodis HE, Marshall S, Tay FR, Marshall GW Jr. Repair of pulpal injury with dental materials. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.13.",
- 'u3_Baumann2010': 'Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 Endodontics in the mixed dentition (no chapter author named, so the editors are cited).',
+ 'u3_Baumann2010': "Buerkle V, Meissner N. Endodontics in the mixed dentition. In: Baumann MA, Beer R, editors. Endodontology. 2nd ed. Stuttgart: Thieme; 2010. Ch.46 (chapter authors from the contents page; the English edition is a translation of the 2nd German edition, © 2010 Georg Thieme Verlag).",
  'u3_Gutmann2011': 'Gutmann JL, Lovdahl PE. Problem-solving challenges in compromised roots, root canal systems, and anatomic deviations. In: Problem Solving in Endodontics: Prevention, Identification, and Management. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.13.',
  'u3_Sigurdsson2017': "Sigurdsson A, Bourguignon C. Endodontic aspects of traumatic injuries. In: Chong BS, editor. Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.12.",
 }
