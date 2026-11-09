@@ -93,6 +93,7 @@ L = {
  'q03_att_tact': ('q03_att', 'it is not indicated as the single method for determining working length'),
  'q03_att_tact2': ('q03_att', 'in roots with multiple constrictions only the'),
  'q03_jain_tact': ('q03_jain', 'Tactile feedback from instruments is also a very subjective technique'),
+ 'q03_gut_flare': ('q03_gut', 'initial flaring or preflaring of the canal is recommended'),
  # ---------------- Q03 : 4 paper point ----------------
  'q03_sik_pp1': ('q03_sik', 'It is kept in the root canal for ten seconds and withdrawn.'),
  'q03_sik_pp2': ('q03_sik', 'If the tip of paper point is wet or covered with blood, it indicates over extension of the working length.'),

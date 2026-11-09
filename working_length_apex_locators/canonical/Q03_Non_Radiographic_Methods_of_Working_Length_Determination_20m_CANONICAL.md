@@ -50,7 +50,7 @@ Books number the fourth and fifth differently: modified-frequency and Bluetooth 
 
 ## 6. Other methods
 
-Jain (2016) describes the historical **apex finder** (Negm, 1982: a barbed shaft resisting withdrawal at the apical margin) and **audiometric method** (a tone matched between sulcus and canal).
+Jain (2016) describes the historical **apex finder** (Negm, introduced 1982: a barbed shaft resisting withdrawal at the apical margin) and **audiometric method** (a tone matched between sulcus and canal).
 
 ## Comparison
 
