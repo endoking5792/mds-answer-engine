@@ -26,6 +26,7 @@ Before you (or your Claude session) start building/auditing a topic, check the t
 | irrigants | unaudited draft | — unclaimed — | — |
 | medicaments | unaudited draft | — unclaimed — | — |
 | post_core | audited, Q1-Q8 patched/added, Answer Bank republished (OneDrive docx not rebuilt) | Roseline | 2026-10-14 |
+| pin_retentive_systems | IN PROGRESS (claimed 2026-11-09): Dental Materials §14, 1 question (retentive pins); matrices, wedges, rake angles cross-referenced | Roseline | 2026-11-09 |
 | composites | FINAL across all three repositories, now including a deep textbook audit (6 parallel readers, 13 primary textbooks) on top of the original build — all 42 answers patched, vault + Answer Bank published and verified | Niranjan | 2026-10-15 |
 | ceramics | FINAL — deep textbook audit complete (5 parallel readers, 11 primary textbooks), all 35 answers patched, vault + Answer Bank published and verified | Roseline (draft); Niranjan (audit) | 2026-10-14 |
 | smart_materials | first-draft complete (4 questions: CD 10m+100m, RA 25m, Endo 100m) — literature-only topic (no standing textbook covers it), no audit applicable in the usual textbook-patch sense; vault + Answer Bank published and verified (157 live files, count-checked) | Niranjan | 2026-10-15 |
