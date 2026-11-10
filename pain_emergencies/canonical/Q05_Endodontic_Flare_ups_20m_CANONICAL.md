@@ -38,13 +38,13 @@ Anxiety, with genetics and gender, predisposes to pain (Baumgartner and Rosenber
 
 | Treatment factors | View |
 |---|---|
-| Walton and Ruparel, 2021 | no definitive treatment risk factor identified |
-| Baumgartner and Rosenberg, 2019 | clinical studies have not linked incomplete preparation to flare-ups |
-| Gopikrishna, 2021; Rôças and Siqueira, 2022 | overinstrumentation, extrusion and incomplete preparation are causes |
+| (Walton and Ruparel, 2021) | no definitive treatment risk factor identified |
+| (Baumgartner and Rosenberg, 2019) | clinical studies have not linked incomplete preparation to flare-ups |
+| (Gopikrishna, 2021; Rôças and Siqueira, 2022) | overinstrumentation, extrusion and incomplete preparation are causes |
 
 ## Prevention
 1. Prepare the patient: warn of soreness and call the next day (Walton and Ruparel, 2021).
-2. Control the working length, prefer crown-down shaping, irrigate passively, avoid caustic medicaments, seal coronally and do not leave the tooth open (Sikri, 2019).
+2. Avoid over-instrumentation and forced irrigation, prefer crown-down shaping, avoid caustic medicaments, seal coronally and do not leave the tooth open (Sikri, 2019).
 3. Ibuprofen 400-600 mg in the chair, then by the clock for 24-48 hours; incidence of flare-ups may not fall (Walton and Ruparel, 2021).
 4. Prophylactic antibiotics are not useful (Walton and Ruparel, 2021; Rôças and Siqueira, 2022).
 

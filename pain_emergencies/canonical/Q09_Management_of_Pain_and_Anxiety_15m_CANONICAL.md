@@ -43,7 +43,7 @@ Sedation never replaces local anaesthesia (Reader et al, 2021).
 
 ## Control of pain
 
-- **Profound local anaesthesia:** the fastest, most effective anxiolytic and analgesic (Sikri, 2019); anaesthetise at each appointment (Reader et al, 2021). Supplemental injections help a hot tooth.
+- **Profound local anaesthesia:** the fastest, most effective anxiolytic and analgesic (Sikri, 2019); anaesthetise at each appointment (Reader et al, 2021). Periodontal, intrapulpal or intraosseous supplements are used when pain persists despite apparent anaesthesia (Walton and Ruparel, 2021).
 - **Nitrous oxide:** 30% is equivalent to 10 to 15 mg of morphine, and 30% to 50% raised inferior alveolar block success in irreversible pulpitis (Reader et al, 2021).
 - **Definitive treatment:** pulpotomy and pulpectomy cut pain (Nusstein et al, 2021).
 - **Pretreatment analgesic and long-acting anaesthetic:** an NSAID or acetaminophen 30 minutes before treatment (Nusstein et al, 2021); long-acting anaesthetics delay post-treatment pain (Nusstein et al, 2021).

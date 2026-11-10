@@ -28,16 +28,16 @@ A flare-up is an acute exacerbation of a periradicular pathosis after the initia
 
 | Author | Position |
 |---|---|
-| Walton and Ruparel, 2021 | not necessary for localized swelling |
-| Teixeira and Cheung, 2021 | progressive or persistent infection with fever, malaise, cellulitis, trismus |
-| Cvek, 2007 | acute periapical osteitis and swelling in luxated immature teeth: antibiotics for 7 days before calcium hydroxide filling |
+| (Walton and Ruparel, 2021) | not necessary for localized swelling |
+| (Teixeira and Cheung, 2021) | progressive or persistent infection with fever, malaise, cellulitis, trismus |
+| (Cvek, 2007) | acute periapical osteitis and swelling in luxated immature teeth: antibiotics for 7 days before calcium hydroxide filling |
 
 Diffuse spreading swelling needs referral for drainage and intravenous antibiotics (Walton and Ruparel, 2021).
 
 ## Definitive management after the flare-up settles
 | | Apexification | Regenerative procedure |
 |---|---|---|
-| Method | Calcium hydroxide, or MTA apical plug of at least 5 mm (Diogenes, Botero and Kang, 2021) | Minimal instrumentation, calcium hydroxide or antibiotic paste, then induced bleeding at 2 to 4 weeks (Diogenes, Botero and Kang, 2021) or 3 to 4 weeks (Diogenes, Simon and Law, 2021) |
+| Method | Calcium hydroxide for up to 18 months (Paranjpe and Noblett, 2021), or an MTA apical plug of at least 5 mm (Diogenes, Botero and Kang, 2021) | Minimal instrumentation, calcium hydroxide or antibiotic paste, then induced bleeding at 2 to 4 weeks (Diogenes, Botero and Kang, 2021) or 3 to 4 weeks (Diogenes, Simon and Law, 2021) |
 | Gain | Over 90% resolution of apical periodontitis (Diogenes, Botero and Kang, 2021) | Thicker walls and longer roots (Diogenes, Botero and Kang, 2021) |
 | Limit | Root development arrests, with cervical fracture risk (Diogenes, Botero and Kang, 2021); long-term calcium hydroxide may lower fracture resistance (Paranjpe and Noblett, 2021) | Not true regeneration; canal calcification (Diogenes, Botero and Kang, 2021) |
 
