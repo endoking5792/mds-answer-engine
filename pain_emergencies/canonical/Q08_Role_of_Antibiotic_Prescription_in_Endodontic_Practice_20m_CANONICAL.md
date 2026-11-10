@@ -22,7 +22,7 @@ Segura-Egea and Martín-González (2022) set the fever threshold at above 38° C
 
 Choice is empirical because culture takes 7 to 14 days (Segura-Egea and Martín-González, 2022). Penicillins are first line, amoxicillin being preferred (Teixeira and Cheung, 2021). Doses as printed (loading, then maintenance):
 
-| Drug | Baumgartner and Rosenberg, 2019 | Gopikrishna, 2021 |
+| Drug | (Baumgartner and Rosenberg, 2019) | (Gopikrishna, 2021) |
 |---|---|---|
 | Amoxicillin | 1,000 mg, then 500 mg every 8 hours | 1000 mg, then 500 mg every 8 hours, 5–7 days |
 | Amoxicillin with clavulanate | 1,000 mg, then 500 mg every 8 hours | 625 mg every 12 hours, 5–7 days |

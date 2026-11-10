@@ -8,10 +8,10 @@
 A flare-up is an acute exacerbation of a periradicular pathosis after the initiation or continuation of root canal treatment (Teixeira and Cheung, 2021). At twelve years a maxillary incisor is usually immature: root formation continues 2 to 3 years after eruption, and pulp necrosis arrests it, leaving an open apex and thin walls (Diogenes, Botero and Kang, 2021). Flare-ups are more frequent in females under 20 and in maxillary lateral incisors (Teixeira and Cheung, 2021). The flare-up principles of reassurance, debridement and drainage apply, modified for the open apex and the need to preserve root development.
 
 ## History and diagnosis
-- **Trauma history.** Ask about injury; trauma is an etiologic factor for necrosis in developing teeth (Diogenes, Botero and Kang, 2021). Cold or electric tests on several adjacent and opposing teeth; an initial lack of response is not unusual, and testing is repeated at 4 to 6 weeks (Paranjpe and Noblett, 2021).
+- **Trauma history.** Take an adequate history of any injury (Andreasen, Andreasen and Andersson, 2007); trauma can disrupt root development (Diogenes, Botero and Kang, 2021). Cold or electric tests on several adjacent and opposing teeth; an initial lack of response is not unusual, and testing is repeated at 4 to 6 weeks (Paranjpe and Noblett, 2021).
 - **Immature-tooth testing.** Teeth may give no reaction before root formation is complete; carbon dioxide snow and aerosol cold sprays give reliable responses even in immature teeth (Andreasen, Andreasen and Andersson, 2007).
-- **Radiograph.** Root length, width of apex, periapical radiolucency.
-- **Diagnosis.** Usually necrosis with symptomatic apical periodontitis or acute apical abscess; note localized or diffuse swelling and systemic signs.
+- **Radiograph.** Shows root stage, width of apex and periapical radiolucency; periodic films show whether root growth continues (Paranjpe and Noblett, 2021).
+- **Diagnosis.** Flare-ups occur mostly in necrotic teeth with symptomatic apical periodontitis or acute apical abscess (Walton and Ruparel, 2021); note localized or diffuse swelling and systemic signs.
 
 ## Emergency management
 1. **Reassure** the child and parent first (Walton and Ruparel, 2021).
@@ -19,16 +19,17 @@ A flare-up is an acute exacerbation of a periradicular pathosis after the initia
 3. **Access** under rubber dam, with gentle debridement. Wide canals are cleaned by circumferential filing with larger K-files (Diogenes, Botero and Kang, 2021).
 4. **Irrigation must be passive.** Extrusion of irrigant is a risk in open apices; use a side-vented, close-ended needle and treat sodium hypochlorite more as a working solution (Gopikrishna, 2021). 1.5% NaOCl is used in immature teeth (Diogenes, Botero and Kang, 2021).
 5. **Drainage.** For localized swelling, drainage through the canal is preferred (Teixeira and Cheung, 2021); incise a fluctuant swelling (Walton and Ruparel, 2021). Never leave the tooth open (Walton and Ruparel, 2021).
-6. **Medicament.** Calcium hydroxide where there is swelling or a sinus tract, then a coronal seal (Diogenes, Botero and Kang, 2021). In the esthetic zone avoid triple antibiotic paste, because minocycline stains the crown (Diogenes, Simon and Law, 2021).
-7. Reduce the occlusion if the tooth is tender (Sikri, 2019).
+6. **Medicament.** Calcium hydroxide where there is swelling or a sinus tract, then a coronal seal (Diogenes, Botero and Kang, 2021). In the esthetic zone use calcium hydroxide or omit minocycline from the antibiotic paste, because minocycline stains the crown (Diogenes, Simon and Law, 2021).
+7. Close with a temporary seal and relieve the occlusion (Sikri, 2019).
 
 ## Drugs
-- **Analgesic:** NSAID or acetaminophen (Baumgartner and Rosenberg, 2019). Printed doses are for adults; calculate for the child's weight (reasoning).
+- **Analgesic:** NSAID or acetaminophen (Baumgartner and Rosenberg, 2019). Tabulated antibiotic doses are adult doses (Gopikrishna, 2021), so a child's dose must be set by weight.
 - **Antibiotics:**
 
 | Author | Position |
 |---|---|
-| Teixeira and Cheung, 2021 | only for progressive or persistent infection with fever, malaise, cellulitis, trismus |
+| Walton and Ruparel, 2021 | not necessary for localized swelling |
+| Teixeira and Cheung, 2021 | progressive or persistent infection with fever, malaise, cellulitis, trismus |
 | Cvek, 2007 | acute periapical osteitis and swelling in luxated immature teeth: antibiotics for 7 days before calcium hydroxide filling |
 
 Diffuse spreading swelling needs referral for drainage and intravenous antibiotics (Walton and Ruparel, 2021).
@@ -36,9 +37,9 @@ Diffuse spreading swelling needs referral for drainage and intravenous antibioti
 ## Definitive management after the flare-up settles
 | | Apexification | Regenerative procedure |
 |---|---|---|
-| Method | Calcium hydroxide, or MTA apical plug of at least 5 mm (Diogenes, Botero and Kang, 2021) | Minimal instrumentation, calcium hydroxide or antibiotic paste, then induced bleeding at 3 to 4 weeks (Diogenes, Simon and Law, 2021) |
-| Gain | Over 90% resolution of apical periodontitis | Thicker walls and longer roots |
-| Limit | Root development arrests; cervical fracture risk; long-term calcium hydroxide lowers fracture resistance (Paranjpe and Noblett, 2021) | Not true regeneration; canal calcification (Diogenes, Botero and Kang, 2021) |
+| Method | Calcium hydroxide, or MTA apical plug of at least 5 mm (Diogenes, Botero and Kang, 2021) | Minimal instrumentation, calcium hydroxide or antibiotic paste, then induced bleeding at 2 to 4 weeks (Diogenes, Botero and Kang, 2021) or 3 to 4 weeks (Diogenes, Simon and Law, 2021) |
+| Gain | Over 90% resolution of apical periodontitis (Diogenes, Botero and Kang, 2021) | Thicker walls and longer roots (Diogenes, Botero and Kang, 2021) |
+| Limit | Root development arrests, with cervical fracture risk (Diogenes, Botero and Kang, 2021); long-term calcium hydroxide may lower fracture resistance (Paranjpe and Noblett, 2021) | Not true regeneration; canal calcification (Diogenes, Botero and Kang, 2021) |
 
 If swelling, sinus tract or tenderness persists at the second regenerative visit, the first-visit disinfection is repeated (Diogenes, Simon and Law, 2021).
 
