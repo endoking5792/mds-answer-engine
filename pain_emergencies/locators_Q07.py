@@ -24,6 +24,22 @@ F_EXTRA = {
  'q07_ing30': (T+'Ingles_Endodontics_7th_Chapterwise/30_Chapter_30_Treatment_of_Endodontic_Abscesses_Cellulitis_Cyst.md', -118, 'Baumgartner and Rosenberg, 2019'),
  # Torabinejad and Rubinstein, Contemporary Surgical Endodontics (2017) Ch.16 (Reiser). Offset 13 confirmed at PDF 296 (printed 283) and PDF 297 (printed 284). OCR-damaged (stray symbols): clean phrases only.
  'q07_mah16': (T+'The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/16_Chapter_16_Pharmacology_in_Surgical_Endodontics.md', 13, 'Reiser, 2017'),
+ # Cohen's 12e Ch.6 (Nusstein, Drum, Khan); electronic edition, PDF page only.
+ 'q08_coh6': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/06_6_Pain_control.md', None, 'Nusstein et al, 2021'),
+ # Cohen's 12e Ch.19 (Teixeira, Cheung); electronic edition, PDF page only.
+ 'q08_coh19': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/19_19_Management_of_endodontic_emergencies.md', None, 'Teixeira and Cheung, 2021'),
+ # Torabinejad 6e Ch.9 (Walton, Ruparel). Offset 7 confirmed at PDF 167 (printed 160) and PDF 168 (printed 161).
+ 'q08_tor9': (T+'Endodontics_Principles_and_Practice_Chapterwise/09_9_Endodontic_Emergencies_and_Therapeutics.md', 7, 'Walton and Ruparel, 2021'),
+ # Grossman 14e Ch.7; no chapter author named in the file, editor cited. Offset 25 confirmed at PDF 156 (printed 131) and PDF 158 (printed 133).
+ 'q08_gr7': (T+'Grossman_s_Endodontic_Practice_14th_ed_1_Chapterwise/07_Chapter_7_Endodontic_Emergencies.md', 25, 'Gopikrishna, 2021'),
+ # Sikri 2e Ch.4. Offset 21 confirmed at PDF 51 (printed 30) and PDF 52 (printed 31).
+ 'q08_sik4': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/04_4_Drugs_used_in_Endodontics.md', 21, 'Sikri, 2019'),
+ # Ingle's 7e Ch.30 (Baumgartner and Rosenberg; decoded from OCR-garbled heading, verify against the printed book). Printed = PDF + 118 (offset -118), confirmed at PDF 845 (printed 963) and PDF 848 (printed 966). OCR letter-substituted: clean phrases only.
+ 'q08_ing30': (T+'Ingles_Endodontics_7th_Chapterwise/30_Chapter_30_Treatment_of_Endodontic_Abscesses_Cellulitis_Cyst.md', -118, 'Baumgartner and Rosenberg, 2019'),
+ # Treatment of Endodontic Infections 2e Ch.19 (Segura-Egea, Martin-Gonzalez); PDF page only (printed numbers not visible).
+ 'q08_tei19': (T+'Treatment_of_Endodontic_Infections_Chapterwise/19_Chapter_19_Systemic_antibiotics_in_endodontics.md', None, 'Segura-Egea and Martín-González, 2022'),
+ # Torabinejad and Rubinstein, Contemporary Surgical Endodontics (2017) Ch.16 (Reiser). Offset 13 confirmed at PDF 296 (printed 283) and PDF 297 (printed 284). OCR-damaged (stray symbols): clean phrases only.
+ 'q08_mah16': (T+'The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/16_Chapter_16_Pharmacology_in_Surgical_Endodontics.md', 13, 'Reiser, 2017'),
 }
 BOOK_EXTRA = {
  'q07_ref_coh6': "Nusstein JM, Drum M, Khan AA. Pain control. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.6.",
@@ -36,6 +52,14 @@ BOOK_EXTRA = {
  'q07_ref_ing18': "Malamed SF. Management of pain, fear, and anxiety in the endodontic patient. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.18 (author decoded from the OCR-garbled heading).",
  'q07_ref_ing30': "Baumgartner JC, Rosenberg PA. Treatment of endodontic abscesses/cellulitis, cysts, and flare-ups. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.30 (authors decoded from the OCR-garbled heading).",
  'q07_ref_mah16': 'Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park: Quintessence; 2017. Ch.16.',
+ 'q08_ref_coh6': "Nusstein JM, Drum M, Khan AA. Pain control. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.6.",
+ 'q08_ref_coh19': "Teixeira FB, Cheung GSP. Management of endodontic emergencies. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.19.",
+ 'q08_ref_tor9': 'Walton RE, Ruparel NB. Endodontic emergencies and therapeutics. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.9.',
+ 'q08_ref_gr7': "Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.7 Endodontic emergencies (no individual chapter author is named in the file, so the editor is cited).",
+ 'q08_ref_sik4': 'Sikri VK. Drugs used in endodontics. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.4.',
+ 'q08_ref_ing30': "Baumgartner JC, Rosenberg PA. Treatment of endodontic abscesses/cellulitis, cysts, and flare-ups. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.30 (authors decoded from the OCR-garbled heading).",
+ 'q08_ref_tei19': 'Segura-Egea JJ, Martín-González J. Systemic antibiotics in endodontics. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. Berlin: Quintessence; 2022. Ch.19.',
+ 'q08_ref_mah16': 'Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park: Quintessence; 2017. Ch.16.',
 }
 L = {
  # ---- q07 ----
@@ -116,4 +140,59 @@ L = {
  'q07_preempt': ('q07_mah16', 'take it 1 hour before the procedure would do no harm'),
  'q07_equivocal': ('q07_mah16', 'Given that the literature is equivocal'),
  'q07_asa_gap': ('q07_mah16', 'should be advised to take the aspirin at least 2 hours before taking ibuprofen'),
+ # ---- q08 ----
+ 'q08_curative': ('q08_tei19', 'Antibiotics are not curative drugs; infections are cured by the human immune system'),
+ 'q08_no_sub': ('q08_ing30', 'Systemically administered antibiotics are not a substitute for proper endodontic treatment'),
+ 'q08_no_blood': ('q08_coh19', 'the absence of blood circulation in a necrotic pulp prevents antibiotics from reaching and eliminating microorganisms present in the root canal system'),
+ 'q08_critical': ('q08_coh19', 'the most critical decision in antibiotic therapy is not so much which antibiotic should be employed but whether antibiotics should be used at all'),
+ 'q08_drainage': ('q08_ing30', 'improve circulation to the area'),
+ 'q08_not_rec': ('q08_ing30', 'Antibiotics are not recommended for healthy patients with a symptomatic pulpitis, symptomatic apical periodontitis, a draining sinus tract, a localized swelling of endodontic origin, or following endodontic surgery'),
+ 'q08_t301': ('q08_ing30', 'Symptomatic irreversible pulpitis Symptomatic apical periodontitis Teeth with necrotic pulps and a radiolucency Teeth with a sinus tract'),
+ 'q08_t302_sys': ('q08_ing30', 'Fever > 100°F Malaise Lymphadenopathy Trismus'),
+ 'q08_t302_prog': ('q08_ing30', 'Increased swelling Cellulitis Osteomyelitis'),
+ 'q08_not_rec_coh': ('q08_coh19', 'they are not recommended for irreversible pulpitis, symptomatic apical periodontitis, draining sinus tracts, after endodontic surgery, to prevent flare-ups, or after incision for drainage'),
+ 'q08_placebo': ('q08_coh19', 'placebo-controlled clinical trials have demonstrated that antibiotics have no effect on pain levels in patients with irreversible pulpitis'),
+ 'q08_avulsed': ('q08_coh19', 'after the replantation of avulsed teeth'),
+ 'q08_immuno': ('q08_tei19', 'In immunocompromised patients with systemic disease causing impaired immunologic function'),
+ 'q08_fever38': ('q08_tei19', 'Presence of signs and/or symptoms of systemic involvement such as fever (> 38° C), malaise, lymphadenopathy, and trismus'),
+ 'q08_delayed': ('q08_tei19', 'Delayed antibiotic prescription, when the acute apical abscess affects a normal immunocompetent patient'),
+ 'q08_sik_none': ('q08_sik4', 'Apical abscess with systemic involvement'),
+ 'q08_culture': ('q08_tei19', 'culture is a slow procedure (7 to 14 days)'),
+ 'q08_amox_pref': ('q08_coh19', 'amoxicillin, a semisynthetic penicillin with a broad spectrum'),
+ 'q08_first_line': ('q08_coh19', 'Most of the bacterial species involved with endodontic infections, including abscesses, are susceptible to penicillins'),
+ 'q08_pen_dose': ('q08_ing30', 'A loading dose of 1,000 mg of penicillin VK should be orally administered, followed by 500 mg every 4 to 6 hours'),
+ 'q08_amox_dose': ('q08_ing30', '1,000 mg loading dose followed by 500 mg every 8 hours. An alternate dosage for amoxicillin is 875 mg every 12 hours'),
+ 'q08_clav_dose': ('q08_ing30', 'dosage for amoxicillin with clavulanate'),
+ 'q08_clinda': ('q08_ing30', 'a 600 mg loading dose followed by 300 mg every 6 hours'),
+ 'q08_metro': ('q08_ing30', 'usual oral dosage for metronidazole is a 1,000 mg loading dose followed by 500 mg every 6 hours'),
+ 'q08_seven_day': ('q08_ing30', 'a prescription written for a 7-day regimen of antibiotic therapy is usually adequate'),
+ 'q08_cephalo': ('q08_ing30', 'Cephalosporins are usually not indicated for the treatment of endodontic infections'),
+ 'q08_amox_gr': ('q08_gr7', '1000 mg loading dosage followed by 500 mg every 8 hours for 5–7 days'),
+ 'q08_clav_gr': ('q08_gr7', '625 mg (500 mg amoxicillin with 125 mg clavulanate) every 12 hours for 5–7 days'),
+ 'q08_clinda_gr': ('q08_gr7', '600 mg loading dose followed by 300 mg every 6 hours for 5–7 days'),
+ 'q08_metro_gr': ('q08_gr7', '1000 mg loading dose followed by 500 mg every 6 hours for 5–7 days'),
+ 'q08_amox_sik': ('q08_sik4', '500 mg thrice a day'),
+ 'q08_pen_choice': ('q08_sik4', 'Penicillin is the antibiotic of choice for endodontic infections'),
+ 'q08_metro_48': ('q08_tei19', 'Where clinical improvement is still not evident in cases 48 hours following conservative endodontic treatment'),
+ 'q08_metro_alone': ('q08_sik4', 'is only effective against anaerobes; should not be used alone'),
+ 'q08_dur34': ('q08_tei19', 'most cases of infection require only 3 to 4 days of antibiotic therapy'),
+ 'q08_dur12': ('q08_coh19', 'antibiotics should be administered for no longer than 1 or 2 days more'),
+ 'q08_proph_basis': ('q08_tei19', 'The indication of antibiotics prophylactically before endodontic treatment does not have a solid scientific basis'),
+ 'q08_bacteraemia': ('q08_tei19', 'it is rapidly scavenged from the bloodstream within minutes to 1 hour'),
+ 'q08_ie': ('q08_tei19', 'Patients with complex congenital heart defects'),
+ 'q08_ie_valve': ('q08_tei19', 'a prosthetic cardiac valve, or a previous history of infective endocarditis'),
+ 'q08_proph_amox': ('q08_sik4', 'amoxicillin 2.0 grams'),
+ 'q08_proph_time': ('q08_sik4', 'one hour (oral route) or 30 minutes (intravenous route) before the procedure'),
+ 'q08_proph_clinda': ('q08_sik4', 'Clindamycin 600 mg is preferred for patients allergic to penicillin'),
+ 'q08_pct': ('q08_coh19', 'Antibiotic therapy is warranted in about 20% of the individuals who are seen for clinical infectious disease, but they are prescribed up to 80% of the time'),
+ 'q08_prevotella': ('q08_coh19', 'betalactamase production was detected in 36% of the black-pigmented Prevotella'),
+ 'q08_longer': ('q08_tei19', 'The longer the duration of antibiotic treatment, the greater the chance of developing new resistant strains'),
+ 'q08_cdiff': ('q08_tei19', 'Clindamycin is associated with an increased risk of Clostridioides difficile infection'),
+ 'q08_antibioma': ('q08_sik4', '‘Antibioma’ is a common sequelae of injudicious use of antibiotics'),
+ 'q08_ledermix': ('q08_sik4', 'Ledermix is a combination of a steroid with an antibiotic (1.0% triamcinolone (steroid) and 3.0% demeclocycline'),
+ 'q08_triple': ('q08_tei19', 'mixture of ciprofloxacin, metronidazole, and minocycline as an intracanal dressing'),
+ 'q08_signs': ('q08_mah16', 'body temperature above 101°F or below 96.8°F, heart rate above 90 beats per minute, respiratory rate above 20 breaths per minute'),
+ 'q08_antiresorp': ('q08_mah16', 'systemic antibiotics beginning 1 day before and continuing 3 to 7 days following surgery'),
+ 'q08_different': ('q08_mah16', 'a different antibiotic should be prescribed for prophylaxis'),
+ 'q08_immunosupp': ('q08_mah16', 'Reduction of a patient’s defensive capacity due to pharmacologic immunosuppression may require the use of antibiotics in the pre- and postsurgical period'),
 }
