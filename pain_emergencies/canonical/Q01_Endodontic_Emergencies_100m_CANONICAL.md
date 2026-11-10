@@ -80,7 +80,7 @@ A preoperative NSAID given 1 hour before the local anaesthetic enhances its dept
 | Partial pulpectomy | Walton and Ruparel (2021) strongly discourage it in severely inflamed teeth; Weine (2004) permits it in the largest canal of a molar and says pulpotomy alone will not relieve SIP with apical periodontitis |
 | Chamber medicament | A dry cotton pellet is as effective as a moistened one (Teixeira and Cheung, 2021; Walton and Ruparel, 2021); Weine (2004) places a formocresol-dampened pellet after pulpotomy |
 
-Sikri (2019) adds that with an open apex a pulpotomy with MTA or calcium hydroxide is preferred, and that emergency root canal opening (ERCO) is used when time is short. In the most recent survey cited, most endodontists cleaned to the electronic apex locator length (Teixeira and Cheung, 2021). Single-visit treatment is not contraindicated in irreversible pulpitis, but time at an emergency visit often prevents it; in necrotic and previously treated teeth it is controversial (Teixeira and Cheung, 2021). Occlusal reduction helps if the tooth is tender to percussion (Teixeira and Cheung, 2021). Antibiotics have no effect on pain in irreversible pulpitis (Teixeira and Cheung, 2021). Trephination is contraindicated in a vital inflamed pulp (Walton and Ruparel, 2021).
+Sikri (2019) adds that with an open apex a pulpotomy with MTA or calcium hydroxide is preferred, and that emergency root canal opening (ERCO) is used when time is short. In the most recent survey cited, most endodontists cleaned to the electronic apex locator length (Teixeira and Cheung, 2021). Single-visit treatment is not contraindicated in irreversible pulpitis, but time at an emergency visit often prevents it; in necrotic and previously treated teeth it is controversial (Teixeira and Cheung, 2021). Occlusal reduction has been reported to reduce pain when the vital tooth is already tender to percussion, but not otherwise (Teixeira and Cheung, 2021). Antibiotics have no effect on pain in irreversible pulpitis (Teixeira and Cheung, 2021). Trephination is contraindicated in a vital inflamed pulp (Walton and Ruparel, 2021).
 
 **Necrosis with symptomatic apical periodontitis, no swelling.** The aim is to reduce canal irritants and encourage drainage. Do complete debridement after determining working length; if time is short, light debridement at the estimated length with passive crown-down. Irrigate with NaOCl (Walton and Ruparel suggest 6 or 8%), finish with 17% EDTA, dry, place calcium hydroxide and seal (Walton and Ruparel, 2021). **Trephination** is perforating the cortical plate to release exudate. Teixeira and Cheung (2021) say recent studies show no benefit, though some still advocate it. Gopikrishna (2021) reserves it for severe pain without swelling when nothing else works, and Sikri (2019) for failure of canal drainage and incision.
 
@@ -97,11 +97,11 @@ Weine (2004) describes the drainage pattern: pus mixed with blood, then mainly b
 
 **Incision for drainage (I&D)** (Teixeira and Cheung, 2021; Gopikrishna, 2021; Baumgartner and Rosenberg, 2019):
 1. Anaesthetise by block, or infiltrate around, not into, the swelling.
-2. Make a stab incision through the periosteum at the **most dependent** point (Gopikrishna recommends a No. 11 blade); Teixeira and Cheung specify a vertical incision.
+2. Make a stab incision through the periosteum at the **most dependent** point (Gopikrishna recommends a No. 11 blade); Teixeira and Cheung specify a vertical incision, whereas a figure legend in Gopikrishna (2021) calls a vertical incision incorrect because it leaves a V-shaped gingival break.
 3. Dissect bluntly with a hemostat or periosteal elevator to break up pockets of exudate.
 4. Compress to evacuate; irrigate with saline or 0.12% chlorhexidine (Walton and Ruparel, 2021).
 5. Place a drain (iodoform gauze, rubber dam or Penrose); suture it for larger swellings; remove after 1 to 2 days.
-6. Prescribe warm saline rinses; slightly disocclude the tooth.
+6. Prescribe warm saline rinses; slightly disocclude the tooth if it is extruded (Gopikrishna, 2021).
 
 Drainage through the access alone may not significantly reduce pain or swelling (Baumgartner and Rosenberg, 2019), and drainage of a localised swelling may not relieve pain immediately; pain often falls as soft tissue swells because bone pressure is released (Teixeira and Cheung, 2021). Needle aspiration with an 18-gauge needle gives less scarring, a sample for culture and no drain removal (Baumgartner and Rosenberg, 2019).
 
@@ -111,7 +111,7 @@ Drainage through the access alone may not significantly reduce pain or swelling 
 | Indurated, localised | Walton and Ruparel (2021): incise whether fluctuant or not. Sikri (2019): do not incise; drain via the canal and use warm saline. Gopikrishna (2021): warm saline hourly until fluctuant, though some incise hard tissue |
 | Cellulitis | Incise whether indurated or fluctuant (Teixeira and Cheung, 2021) |
 
-**Leaving the tooth open** is a further disagreement. Teixeira and Cheung (2021), Gopikrishna (2021) and Walton and Ruparel (2021) advise against it: it admits oral organisms and a needle was reported broken in one open tooth. Weine (2004) found teeth left open needed 5.11 visits with 25 of 81 exacerbating, against 3.31 visits and 11 of 144 when kept closed, yet allows leaving an abscessed tooth open if there is no time to watch the drainage ("If you file, don't close.").
+**Leaving the tooth open** is a further disagreement. Teixeira and Cheung (2021), Gopikrishna (2021) and Walton and Ruparel (2021) advise against it: it admits oral organisms and a needle was reported broken in one open tooth. Weine (2004) found vital teeth left open at the emergency visit needed 5.11 visits with 25 of 81 exacerbating, against 3.31 visits and 11 of 144 when kept closed, yet allows leaving an abscessed tooth open if there is no time to watch the drainage ("If you file, don't close.").
 
 **Phoenix abscess** is an acute exacerbation of a chronic apical periodontitis (Sikri, 2019; Gopikrishna, 2021). Sikri (2019) offers two explanations: oxygen entry favouring facultative bacteria, or a virulent strain multiplying once competitors fall. Treat as for an acute abscess.
 
@@ -126,7 +126,7 @@ A **flare-up** is an acute exacerbation of periradicular pathosis after starting
 | Item | Teixeira and Cheung | Others |
 |---|---|---|
 | Incidence | 2 to 20%; 8.4% in a strict meta-analysis (Teixeira and Cheung, 2021) | 1.4 to 19% (Gopikrishna, 2021); about 3% in controlled prospective studies (Walton and Ruparel, 2021); 1 to 25% (Sikri, 2019) |
-| Treatment causes | Over-instrumentation, extruded debris, remnants, overfilling, irrigants, high occlusion, fracture | Walton and Ruparel (2021): no definitive treatment risk factor identified; Baumgartner and Rosenberg (2019): multifactorial |
+| Treatment causes | Over-instrumentation, extruded debris, remnants, overfilling, irrigants, high occlusion, fracture | Gopikrishna (2021): shaping errors (step-back extrudes more than crown-down), irrigant extrusion, single-visit retreatment; Walton and Ruparel (2021): no definitive treatment risk factor identified; Baumgartner and Rosenberg (2019): multifactorial |
 
 Risk is highest with necrosis, symptomatic apical periodontitis or acute abscess, a radiolucency, preoperative pain and retreatment, and low in vital pulps (Gopikrishna, 2021; Walton and Ruparel, 2021).
 
@@ -152,7 +152,7 @@ Some discomfort after obturation subsides in 2 to 5 days; persistence needs reas
 
 ## 10. Analgesics and antibiotics
 
-**Analgesics.** Treating the source matters more than the drug. Ibuprofen is the first choice for acute dental pain, maximum 3.2 g daily; acetaminophen maximum 4 g (Teixeira and Cheung, 2021). Walton and Ruparel (2021) find 600 mg ibuprofen, with or without 1000 mg acetaminophen, most effective, taken by the clock with the first dose before anaesthesia ends; opioids are second line (Gopikrishna, 2021).
+**Analgesics.** Treating the source matters more than the drug. Ibuprofen is the first choice for acute dental pain, maximum 3.2 g daily; acetaminophen maximum 4 g (Teixeira and Cheung, 2021). Walton and Ruparel (2021) find 600 mg ibuprofen, with or without 1000 mg acetaminophen, most effective, taken by the clock with the first dose before anaesthesia ends; Walton and Ruparel add that 325 to 500 mg acetaminophen with 600 mg ibuprofen has a safer profile than 1000 mg, because over-the-counter products hide further acetaminophen. Gopikrishna (2021) lists opioids as second line, yet the same chapter says an NSAID-opioid combination is preferable in acute emergencies, an internal inconsistency.
 
 **Antibiotics.** Indicated only for systemic involvement (fever above 100°F, malaise, lymphadenopathy, trismus), cellulitis, progressive or persistent swelling, and medically compromised patients (Teixeira and Cheung, 2021; Baumgartner and Rosenberg, 2019; Sikri, 2019). Not indicated for irreversible pulpitis, symptomatic apical periodontitis, sinus tract, localised swelling after drainage, or to prevent flare-ups (Teixeira and Cheung, 2021; Gopikrishna, 2021).
 

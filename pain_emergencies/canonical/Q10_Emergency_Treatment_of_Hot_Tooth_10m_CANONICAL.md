@@ -5,7 +5,7 @@
 **Answer blueprint:** Definition → Why anaesthesia fails → Emergency management (confirm anaesthesia, supplemental techniques, pulpotomy or pulpectomy) → Premedication and analgesics
 
 ## Definition
-A hot tooth is a tooth that is difficult to anaesthetise (Gopikrishna, 2021), usually with irreversible pulpitis (Sikri, 2019). Typically a mandibular first molar, the lip is numb yet access is acutely painful (Gopikrishna, 2021); heat or cold gives heightened pain and the tooth is tender to bite (Hülsmann and Chong, 2017).
+A hot tooth is a tooth that is difficult to anaesthetise (Gopikrishna, 2021), usually with irreversible pulpitis (Sikri, 2019). Typically a mandibular first molar, the lip is numb yet access is acutely painful, and the inferior alveolar block has the highest failure rate (Gopikrishna, 2021); heat or cold gives heightened pain and the tooth is tender to bite (Hülsmann and Chong, 2017).
 
 ## Why anaesthesia fails
 Neuroinflammation shifts sodium channels on C fibres to tetrodotoxin-resistant forms, five times more resistant to lidocaine (Gopikrishna, 2021); these are sensitized by prostaglandins (Nusstein, Drum and Khan, 2021).

@@ -35,7 +35,7 @@ Success rates by route (Malamed, 2019):
 | Intravenous | Yes | 90% |
 
 - **Nitrous oxide–oxygen:** onset about 20–30 s, rapid recovery on 100% oxygen (Malamed, 2019). Oxygen 5–6 litres per minute, nitrous oxide begun at one litre (Sikri, 2019). Contraindicated in chronic obstructive pulmonary disease and first-trimester pregnancy (Sikri, 2019), or if the patient cannot breathe through the nose (Malamed, 2019).
-- **Oral sedation:** the night before and 1 hour before the visit; an escort is needed (Malamed, 2019). Triazolam 0.25–0.5 mg one hour before (Sikri, 2019); sublingual 0.25 mg an hour before, with monitoring (Reiser, 2017). Others as printed: hydroxyzine 50–100 mg (Malamed, 2019); diphenhydramine 50 mg, promethazine 25–50 mg (Sikri, 2019). Flumazenil reverses benzodiazepines, starting at 0.2 mg (Reiser, 2017).
+- **Oral sedation:** the night before and 1 hour before the visit; an escort is needed (Malamed, 2019). Triazolam 0.25–0.5 mg one hour before (Sikri, 2019); sublingual 0.25 mg an hour before, with monitoring (Reiser, 2017). Others as printed: hydroxyzine 50–100 mg (Malamed, 2019); diphenhydramine 50 mg, promethazine 25–50 mg (Sikri, 2019). Flumazenil reverses benzodiazepines, starting at 0.2 mg intravenously (Reiser, 2017). Hargreaves and Baumgartner (2002) give oral diazepam 5 to 15 mg or triazolam 0.25 mg, and find 50% nitrous oxide effective, 40% marginal, which adds nothing when combined with either drug.
 - **Intravenous or intramuscular midazolam or diazepam:** need an operator trained in parenteral moderate sedation (Malamed, 2019).
 - **General anaesthesia:** for the few not managed by sedation (Malamed, 2019).
 
@@ -61,4 +61,5 @@ Identify the fearful patient early, manage behaviour first, add sedation by titr
 5. Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park: Quintessence; 2017. Ch.16.
 6. Baumgartner JC, Rosenberg PA. Treatment of endodontic abscesses/cellulitis, cysts, and flare-ups. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.30.
 7. Walton RE, Ruparel NB. Endodontic emergencies and therapeutics. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.9.
-8. Nusstein JM, Drum M, Khan AA. Pain control. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.6.
+8. Hargreaves KM, Baumgartner JC. Endodontic therapeutics. In: Walton RE, Torabinejad M, editors. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Ch.30.
+9. Nusstein JM, Drum M, Khan AA. Pain control. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.6.

@@ -39,7 +39,7 @@ Principles are airway, removal of the source, dependent drainage, culture, drain
 
 ## Complications
 
-- **Ludwig angina:** bilateral submandibular, sublingual and submental involvement with airway obstruction (Teixeira and Cheung, 2021); penicillin cut mortality from 54% to 4% (Brahim and Ord, 2017).
+- **Ludwig angina:** submental, sublingual and submandibular spaces involved together, with airway obstruction (Teixeira and Cheung, 2021); it requires immediate hospitalization (Walton and Hutter, 2002); penicillin cut mortality from 54% to 4% (Brahim and Ord, 2017).
 - **Cavernous sinus thrombosis** from the canine space through valveless veins (Teixeira and Cheung, 2021).
 - **Mediastinitis:** 71% of mediastinal spread came from the retrovisceral space (Teixeira and Cheung, 2021).
 - Brain abscess, septic shock and necrotizing fasciitis (Brahim and Ord, 2017).
@@ -49,3 +49,4 @@ Principles are airway, removal of the source, dependent drainage, culture, drain
 1. Teixeira FB, Cheung GSP. Management of endodontic emergencies. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.19.
 2. Brahim JS, Ord RA. Severe head and neck infections. In: Fouad AF, editor. Endodontic Microbiology. 2nd ed. Hoboken: John Wiley & Sons; 2017. Ch.10.
 3. Walton RE, Ruparel NB. Endodontic emergencies and therapeutics. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.9.
+4. Walton RE, Hutter JW. Endodontic emergencies. In: Walton RE, Torabinejad M, editors. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Ch.17.

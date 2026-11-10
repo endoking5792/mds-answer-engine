@@ -11,7 +11,7 @@ Endodontic pain is inflammatory, so NSAIDs are the first choice, but no pain med
 ## Non-opioid analgesics
 
 - **NSAIDs** block cyclooxygenase and so prostaglandin synthesis; plasma-protein binding delivers them to inflamed tissue (Nusstein et al, 2021). Ibuprofen is the drug of choice for acute dental pain unless contraindicated (Teixeira and Cheung, 2021).
-- **Acetaminophen** is preferred when NSAIDs are contraindicated (Teixeira and Cheung, 2021). It has little anti-inflammatory effect.
+- **Acetaminophen** is preferred when NSAIDs are contraindicated (Teixeira and Cheung, 2021). It has little anti-inflammatory effect (Sikri, 2019).
 
 | Drug (dose as printed) | Author |
 |---|---|
@@ -23,11 +23,11 @@ Sikri's table prints an ibuprofen maximum of 320 mg/day, a slip for 3.2 g (Sikri
 
 ## Opioids
 
-Opioids have no anti-inflammatory action and so no effect on inflamed periapical tissue; nausea, emesis, dizziness, drowsiness, respiratory depression and constipation limit dosage, so they are almost always given in combination (Nusstein et al, 2021). Codeine 60 mg (two tablets of Tylenol with codeine no. 3) beats placebo, whereas 30 mg does not; tramadol 50 mg equals codeine 60 mg (Nusstein et al, 2021). Gopikrishna (2021) gives codeine 60 mg or tramadol 50 mg every 6 hours as second line; Sikri (2019) prints tramadol up to 400 mg/day. Tramadol is not devoid of addiction potential (Walton and Ruparel, 2021), and Reiser (2017) advises avoiding opioids unless NSAIDs cannot be tolerated.
+Opioids have no anti-inflammatory action and so no effect on inflamed periapical tissue; nausea, drowsiness, respiratory depression and constipation limit dosage, so they are almost always given in combination (Nusstein et al, 2021). Codeine 60 mg (two tablets of Tylenol with codeine no. 3) beats placebo, whereas 30 mg does not; tramadol 50 mg equals codeine 60 mg (Nusstein et al, 2021). Gopikrishna (2021) gives codeine 60 mg or tramadol 50 mg every 6 hours as second line; Sikri (2019) prints tramadol up to 400 mg/day. Tramadol is not devoid of addiction potential (Walton and Ruparel, 2021); Reiser (2017) advises avoiding opioids unless NSAIDs cannot be tolerated.
 
 ## Combinations and flexible plan
 
-Ibuprofen 600 mg plus acetaminophen 1000 mg gave greater relief than ibuprofen alone for 8 hours after pulpectomy (Nusstein et al, 2021); Reiser (2017) prints ibuprofen 400 mg plus acetaminophen 1,000 mg every 6 to 8 hours when increased pain is anticipated. Flexible plan (Nusstein et al, 2021):
+Ibuprofen 600 mg plus acetaminophen 1000 mg gave greater relief than ibuprofen alone for 8 hours after pulpectomy (Nusstein et al, 2021). Flexible plan (Nusstein et al, 2021):
 
 | Pain | NSAID usable | NSAID contraindicated |
 |---|---|---|
@@ -43,9 +43,9 @@ Pretreatment blocks hyperalgesia by reducing peripheral nociceptor input (Nusste
 |---|---|
 | (Nusstein et al, 2021) | 30 minutes before: ibuprofen 400 mg, flurbiprofen 100 mg or acetaminophen 1000 mg |
 | (Gopikrishna, 2021) | NSAID 1 hour before the local anaesthetic |
-| (Reiser, 2017) | Evidence equivocal, but 1 hour before does no harm |
+| (Reiser, 2017) | Before endodontic surgery: evidence equivocal, but 1 hour before does no harm |
 
-Afterwards the first dose is taken before the anaesthetic wears off (Walton and Ruparel, 2021) and doses are scheduled "by the clock", not on demand (Baumgartner and Rosenberg, 2019).
+Afterwards the first dose is taken before the anaesthetic wears off (Walton and Ruparel, 2021) and doses are scheduled "by the clock", not on demand (Baumgartner and Rosenberg, 2019), for the first 2 to 3 days in patients at risk (Hargreaves and Baumgartner, 2002). Hargreaves and Baumgartner (2002) call ibuprofen 600 mg every 6 hours optimal for most patients, with acetaminophen 1000 mg if NSAIDs are not tolerated.
 
 ## Cautions
 
@@ -53,7 +53,7 @@ NSAIDs are contraindicated in ulcers and aspirin hypersensitivity; GI (3% to 11%
 
 ## Note on hot tooth
 
-A **hot tooth** is one difficult to anaesthetise, commonly a mandibular first molar: lip is numb, yet access is painful (Gopikrishna, 2021). Inflammation shifts C-fibres to tetrodotoxin-resistant sodium channels, five times more resistant to anaesthetic (Gopikrishna, 2021); Sikri (2019) calls it sensitisation of nerve fibres.
+A **hot tooth** is one difficult to anaesthetise, commonly a mandibular first molar: lip is numb, yet access is painful (Gopikrishna, 2021). Inflammation shifts C-fibres to tetrodotoxin-resistant sodium channels, five times more resistant to anaesthetic (Gopikrishna, 2021).
 
 1. Retest with cold before access (Walton and Ruparel, 2021).
 2. Supplement the block with 4% articaine, 1:100,000 epinephrine, buccal infiltration 0.9–1.2 mL (Gopikrishna, 2021).
@@ -74,5 +74,6 @@ Analgesics complement, never replace, debridement: NSAID first, acetaminophen if
 5. Sikri VK. Drugs used in endodontics. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.4.
 6. Reiser K. Pharmacology in surgical endodontics. In: Torabinejad M, Rubinstein R, editors. The Art and Science of Contemporary Surgical Endodontics. Hanover Park: Quintessence; 2017. Ch.16.
 7. Baumgartner JC, Rosenberg PA. Treatment of endodontic abscesses/cellulitis, cysts, and flare-ups. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.30.
-8. Malamed SF. Management of pain, fear, and anxiety in the endodontic patient. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.18.
-9. Reader A, Nusstein JM, Drum M. Local anesthesia. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.8.
+8. Hargreaves KM, Baumgartner JC. Endodontic therapeutics. In: Walton RE, Torabinejad M, editors. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Ch.30.
+9. Malamed SF. Management of pain, fear, and anxiety in the endodontic patient. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.18.
+10. Reader A, Nusstein JM, Drum M. Local anesthesia. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.8.

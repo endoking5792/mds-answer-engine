@@ -5,10 +5,10 @@
 **Answer blueprint:** Definition → Incidence → Etiology (microbial with mechanisms, chemical, mechanical, psychological) → Predisposing factors → Prevention → Management (diagnosis, drainage, medication)
 
 ## Definition
-An endodontic flare-up is an **acute exacerbation of a periradicular pathosis after the initiation or continuation of nonsurgical root canal treatment** (Teixeira and Cheung, 2021). It is a true emergency needing an unscheduled visit (Gopikrishna, 2021): a symptomatic apical periodontitis or acute apical abscess secondary to treatment, usually presenting the same or the next day (Rôças and Siqueira, 2022). Sikri (2019) calls it a Phoenix abscess.
+An endodontic flare-up is an **acute exacerbation of a periradicular pathosis after the initiation or continuation of nonsurgical root canal treatment** (Teixeira and Cheung, 2021). It is a true emergency needing an unscheduled visit (Gopikrishna, 2021): symptomatic apical periodontitis or acute apical abscess secondary to treatment, usually presenting the same or the next day (Rôças and Siqueira, 2022). Sikri (2019) calls it a Phoenix abscess.
 
 ## Incidence
-Figures vary with study design: about 3% in controlled prospective studies (Walton and Ruparel, 2021); 2-20%, with 8.4% in a meta-analysis (Teixeira and Cheung, 2021); 1.4-19% (Gopikrishna, 2021); 2.5-16% (Rôças and Siqueira, 2022). A flare-up does not lower eventual success (Teixeira and Cheung, 2021).
+Figures vary with study design: about 3% in controlled prospective studies (Walton and Ruparel, 2021); 2-20%, with 8.4% in a meta-analysis (Teixeira and Cheung, 2021); 1.4-19% (Gopikrishna, 2021). A flare-up does not lower eventual success (Teixeira and Cheung, 2021). A rate far above 2-5% in infected canals signals a flaw in technique (Rôças and Siqueira, 2022).
 
 ## Etiology
 It is multifactorial, with mechanical, microbial, chemical, immunological, gender and psychological components (Baumgartner and Rosenberg, 2019).
@@ -16,7 +16,7 @@ It is multifactorial, with mechanical, microbial, chemical, immunological, gende
 ### Microbial
 Bacterial infection is the main cause. A flare-up follows a sudden rise in bacterial irritants that upsets the balance between bacterial aggression and host defence, so the host mounts an acute inflammatory response (Rôças and Siqueira, 2022). Mechanisms:
 1. **Apical extrusion of infected debris.** Bacterial number and virulence decide the response; crown-down preparation extrudes less debris (Rôças and Siqueira, 2022). In retreatment, filling remnants and solvents add to it.
-2. **Change in the intracanal microbiota or environment.** Incomplete preparation removes inhibitory species and lets previously inhibited, possibly virulent species overgrow, and may activate virulence genes. Entry of oxygen raising the oxidation-reduction potential is speculative, with no evidence (Rôças and Siqueira, 2022).
+2. **Change in the intracanal microbiota or environment.** Incomplete preparation removes inhibitory species and lets previously inhibited, possibly virulent species overgrow, and may activate virulence genes. Entry of oxygen raising the oxidation-reduction potential is listed as a hypothesis by Sikri (2019) but called speculative, without evidence, by Rôças and Siqueira (2022).
 3. **Secondary intraradicular infection.** New organisms enter through a breach in the aseptic chain during or between visits (Rôças and Siqueira, 2022).
 
 
@@ -24,15 +24,15 @@ Bacterial infection is the main cause. A flare-up follows a sudden rise in bacte
 Irrigants, intracanal medicaments and sealers can act as irritants (Teixeira and Cheung, 2021). Sodium hypochlorite beyond the apex gives immediate pain, then swelling and ecchymosis (Sikri, 2019), with sudden flooding of the canal with blood (Gopikrishna, 2021).
 
 ### Mechanical
-Preparation beyond the apical terminus, pushing debris periapically, incomplete pulp removal, overextended filling, hyperocclusion and root fracture (Teixeira and Cheung, 2021). Over-instrumentation also enlarges the foramen, admitting exudate and blood that nourish bacteria (Sikri, 2019).
+Overinstrumentation, debris pushed periapically, incomplete pulp removal, overextended filling, hyperocclusion and root fracture (Teixeira and Cheung, 2021).
 
 ### Psychological
-Anxiety, with genetics and gender, predisposes to pain (Baumgartner and Rosenberg, 2019). Patients with dental phobia are prone to flare-ups because of low psychophysiologic tolerance (Sikri, 2019).
+Anxiety, with genetics and gender, predisposes to pain (Baumgartner and Rosenberg, 2019).
 
 ## Predisposing factors
 - **Preoperative pain or swelling:** highly significant correlation (Gopikrishna, 2021).
 - **Pulpal and periapical status:** necrotic pulp, especially acute apical abscess or symptomatic apical periodontitis, and a periapical radiolucency; vital pulps seldom flare (Walton and Ruparel, 2021). A sinus tract gives the lowest incidence (Baumgartner and Rosenberg, 2019).
-- **Retreatment:** one of the highest incidences (Gopikrishna, 2021).
+- **Retreatment:** one of the highest incidences; Gopikrishna (2021) advises a two-visit protocol for symptomatic cases.
 - **Patient and tooth:** females under 20, maxillary lateral incisors, mandibular first molars (Teixeira and Cheung, 2021).
 - **Treatment errors:** over- or under-instrumentation, step-back shaping, irrigant extrusion (Gopikrishna, 2021).
 
@@ -43,13 +43,13 @@ Anxiety, with genetics and gender, predisposes to pain (Baumgartner and Rosenber
 | (Gopikrishna, 2021; Rôças and Siqueira, 2022) | overinstrumentation, extrusion and incomplete preparation are causes |
 
 ## Prevention
-1. Prepare the patient: warn of soreness and call the next day (Walton and Ruparel, 2021).
-2. Avoid over-instrumentation and forced irrigation, prefer crown-down shaping, avoid caustic medicaments, seal coronally and do not leave the tooth open (Sikri, 2019).
+1. Warn of soreness and call the next day (Walton and Ruparel, 2021).
+2. Avoid over-instrumentation, forced irrigation and caustic medicaments; prefer crown-down shaping; seal coronally; never leave the tooth open (Sikri, 2019).
 3. Ibuprofen 400-600 mg in the chair, then by the clock for 24-48 hours; incidence of flare-ups may not fall (Walton and Ruparel, 2021).
-4. Prophylactic antibiotics are not useful (Walton and Ruparel, 2021; Rôças and Siqueira, 2022).
+4. Prophylactic antibiotics are not useful (Walton and Ruparel, 2021; Rôças and Siqueira, 2022), although an earlier study found fewer flare-ups and later ones none (Teixeira and Cheung, 2021).
 
 ## Management
-**Diagnosis.** Reassure first (Walton and Ruparel, 2021). Exclude other sources (another tooth, sinus, TMJ) and review the earlier treatment (Sikri, 2019); classify as previously vital or necrotic, with or without swelling.
+**Diagnosis.** Reassure first (Walton and Ruparel, 2021). Exclude other sources (another tooth, sinus, TMJ) (Sikri, 2019); classify as previously vital or necrotic, with or without swelling.
 
 **Drainage and definitive treatment** (Walton and Ruparel, 2021):
 
@@ -60,11 +60,11 @@ Anxiety, with genetics and gender, predisposes to pain (Baumgartner and Rosenber
 | Necrotic, no swelling | Open, reclean, NaOCl; establish drainage; keep rubber dam on at least 30 minutes; Ca(OH)2; seal |
 | Necrotic, swelling | Canal debridement, incision and drainage, drain if drainage continues; severe cases to an oral surgeon |
 
-Blood on a paper point in the apical canal signals overinstrumentation, so reassess the length (Rôças and Siqueira, 2022). Reduce high occlusion (Sikri, 2019).
+Blood on a paper point signals overinstrumentation: reassess the length (Rôças and Siqueira, 2022). Reduce high occlusion (Sikri, 2019).
 
 **Medication.** NSAID, or acetaminophen if NSAIDs are contraindicated (Baumgartner and Rosenberg, 2019); bupivacaine for extended anaesthesia; steroids reduce inflammation but do not prevent flare-ups (Walton and Ruparel, 2021). Antibiotics only for fever, cellulitis, trismus or progressive swelling (Teixeira and Cheung, 2021).
 
-Contact the patient daily; refer if symptoms persist (Walton and Ruparel, 2021).
+Contact the patient daily; refer if symptoms persist (Walton and Ruparel, 2021). Refractory cases may need trephination, re-entry or periapical surgery (Teixeira and Cheung, 2021).
 
 ## References
 1. Teixeira FB, Cheung GSP. Management of endodontic emergencies. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.19.

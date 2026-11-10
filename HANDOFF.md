@@ -2,6 +2,8 @@
 
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
+## Status (2026-11-10, pain_emergencies topic): REVIEWED AND PUBLISHED (Medhinir). 15 canonical answers (Q01-Q12 + P1-P3) in `pain_emergencies/canonical/`, new standard with audit sidecars; 1395 locators, missing 0; published to the Answer Bank site (Endodontics, manifest 646 -> 661, 0 lost). See `pain_emergencies/HANDOFF_pain_emergencies.md`.
+
 ## Status (2026-11-10, working_length_apex_locators topic): REVIEWED AND PUBLISHED (Medhinir). 6 canonical answers (Q01 100m, Q02 25m, Q03 20m, P1/P2 10m, P3 7m) in `working_length_apex_locators/canonical/`, new standard with audit sidecars; 1015 locators, missing 0; published to the Answer Bank site (Endodontics, manifest 640 -> 646, 0 lost). See `working_length_apex_locators/HANDOFF_working_length_apex_locators.md`.
 
 ## Status (2026-11-09, pin_retentive_systems topic): 4 answers drafted in the unified standard and PUBLISHED to the Answer Bank site (Dental Materials / Pin and Retentive Systems: Q01; Conservative Dentistry / Pin-Retained Restorations: Q02-Q04; manifest 636 -> 640, 0 lost). 200 locators verified; conflicts on retention multiples, DEJ distance, pinhole depth and interpin distance shown side by side. Read `pin_retentive_systems/HANDOFF_pin_retentive_systems.md`. Vault/OneDrive not synced. (Roseline)

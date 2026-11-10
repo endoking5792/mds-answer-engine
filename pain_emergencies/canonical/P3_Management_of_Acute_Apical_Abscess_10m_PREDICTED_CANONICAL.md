@@ -5,10 +5,10 @@
 **Answer blueprint:** Definitions → Diagnosis → Principle (debridement then drainage) → Management by stage → Phoenix abscess → Drugs → Follow-up
 
 ## Definitions
-**Acute apical abscess** gives spontaneous, throbbing pain that increases on mastication, with positive percussion and palpation, mobility and, later, swelling and systemic signs (Rôças and Siqueira, 2022). **Phoenix abscess** is an acute inflammatory reaction superimposed on an existing asymptomatic apical periodontitis (Gopikrishna, 2021), hypothesised to follow alteration of the canal's bacterial environment during instrumentation (Sikri, 2019).
+**Acute apical abscess** gives spontaneous, throbbing pain that increases on mastication, with positive percussion and palpation, mobility, swelling and systemic signs (Rôças and Siqueira, 2022). **Phoenix abscess** is an acute inflammatory reaction superimposed on an existing asymptomatic apical periodontitis (Gopikrishna, 2021), hypothesised to follow alteration of the canal's bacterial environment during instrumentation (Sikri, 2019).
 
 ## Diagnosis
-The tooth does not respond to vitality tests, whereas a periodontal abscess shows a positive response (Sikri, 2019). Note swelling, limited opening and temperature (Walton and Ruparel, 2021).
+The tooth does not respond to vitality tests, whereas a periodontal abscess shows a positive response (Sikri, 2019).
 
 ## Principle
 Treatment is biphasic: remove the irritants by debridement, then relieve the apical fluid pressure by drainage (Walton and Ruparel, 2021). Under rubber dam, open the tooth; anaesthesia is not routinely needed, and injection should avoid the swelling (Gopikrishna, 2021). Irrigate with NaOCl, dry, place calcium hydroxide and seal. **Never leave the tooth open** (Walton and Ruparel, 2021).
@@ -25,12 +25,12 @@ Treatment is biphasic: remove the irritants by debridement, then relieve the api
 Management follows the stage above, with complete debridement, an intracanal medicament and relief of occlusion (Sikri, 2019). One-sitting preparation and a good coronal seal help prevent it (Sikri, 2019).
 
 ## Drugs
-Analgesics control pain; antibiotics are not routine but are indicated for fever, malaise, cellulitis, trismus or progressive swelling (Rôças and Siqueira, 2022):
+Antibiotics are not routine but are indicated for fever, malaise, cellulitis, trismus or progressive swelling (Rôças and Siqueira, 2022):
 
-| Source | Amoxicillin |
+| Source | Dose |
 |---|---|
-| (Walton and Ruparel, 2021) | 1 g loading, then 500 mg every 6 hours for 2 to 3 days |
-| (Gopikrishna, 2021) | 1000 mg loading, then 500 mg every 8 hours for 5 to 7 days |
+| (Walton and Ruparel, 2021) | amoxicillin 1 g loading, then 500 mg every 6 hours for 2 to 3 days |
+| (Gopikrishna, 2021) | amoxicillin 1000 mg loading, then 500 mg every 8 hours for 5 to 7 days; in penicillin allergy clindamycin 600 mg loading, then 300 mg every 6 hours for 5 to 7 days |
 
 ## Follow-up
 Contact the patient daily (Walton and Ruparel, 2021); when symptoms subside, reopen and reassess before completing canal treatment (Gopikrishna, 2021).

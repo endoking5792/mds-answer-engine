@@ -81,7 +81,7 @@ Intracranial trigeminal branches become sensitized and pain is perceived in the 
 | | Migraine | Cluster | Paroxysmal hemicrania |
 |---|---|---|---|
 | Duration | 4-72 h | 15 min-2 h | 2-30 min |
-| Frequency | Episodic | Clusters | More than 5 a day |
+| Frequency | Episodic | Clusters | More than 5 a day (Law); 5 a day for over half the time (Jaeger) |
 | Quality | Unilateral, pulsatile | Severe, unilateral | Severe, unilateral |
 | Associated | Nausea, photophobia, phonophobia | Ipsilateral lacrimation, rhinorrhoea, ptosis, miosis | Same autonomic features |
 | Behaviour | Retreats to dark room | Paces the floor | Pacing |
@@ -99,7 +99,7 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 
 **Management.** Carbamazepine is first-line (Law, Nixdorf and Mattscheck, 2021); NSAIDs and opioids give no significant benefit (Law, Nixdorf and Mattscheck, 2021). Okeson (2012) also lists gabapentin, pregabalin, baclofen, oxcarbazepine, topiramate, lamotrigine and valproic acid. Refractory cases need gamma knife, rhizotomy or microvascular decompression (Jaeger, 2019). All patients should have head imaging (Jaeger, 2019).
 
-**Pretrigeminal neuralgia.** A dull, aching or burning toothache, less paroxysmal, that later becomes classic TN, sometimes up to 2 years afterwards (Law, Nixdorf and Mattscheck, 2021; Jaeger, 2019); 61% of such patients were wrongly treated for dental conditions (Jaeger, 2019). Dental procedures may relieve pain for 4 to 8 weeks, after which it moves to the next tooth (Eli, Said-Al-Naief and Torabinejad, 2021).
+**Pretrigeminal neuralgia.** A dull, aching or burning toothache, less paroxysmal, that precedes classic TN (Law, Nixdorf and Mattscheck, 2021), by up to 2 years in Jaeger's account; 61% of cases of pretrigeminal or trigeminal neuralgia were wrongly diagnosed and treated for dental conditions (Jaeger, 2019). Dental procedures may relieve pain for 4 to 8 weeks, after which it moves to the next tooth (Eli, Said-Al-Naief and Torabinejad, 2021).
 
 **Glossopharyngeal neuralgia** gives brief shock-like pain in the posterior mandible, oropharynx, tonsillar fossa and ear, provoked by swallowing, and is not changed by inferior alveolar block (Okeson, 2012). Imaging is essential (Eli, Said-Al-Naief and Torabinejad, 2021).
 
@@ -114,10 +114,10 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 - Usually a middle-aged woman with preceding trauma, the site may shift but stays in one nerve distribution (Okeson, 2012); most often the maxillary premolar and molar region (Law, Nixdorf and Mattscheck, 2021).
 - Continuous without remission, dull, aching, throbbing or burning, unchanged by thermal stimuli, and often over 4 months (Okeson, 2012; Eli, Said-Al-Naief and Torabinejad, 2021).
 - Examination and radiographs unrevealing; most patients get little or no relief from diagnostic local anaesthetic blocks (Jaeger, 2019).
-- Up to 3% of pulpectomy patients; about ten times as common as TN (Okeson, 2012).
+- Up to 3% of pulpectomy patients, and about ten times as common as TN (Okeson, 2012); 3% to over 7% of endodontic patients (Jaeger, 2019).
 - PDAP criteria: pain at least 8 hours a day, on 15 or more days a month, for 3 months, localised to the dentoalveolar region and not caused by another disorder (Law, Nixdorf and Mattscheck, 2021). One author routinely images the brain first (Law, Nixdorf and Mattscheck, 2021).
 
-**Management.** Irreversible dental treatment is contraindicated (Jaeger, 2019); patients often have had multiple root canal treatments or extractions (Okeson, 2012). Tricyclic antidepressants are the treatment of choice (Jaeger, 2019); Okeson (2012) gives 10-100 mg, gabapentin titrated to a maximum of 3,600 mg, pregabalin up to 300 mg/day, and topical capsaicin four times a day for 3 to 4 weeks, held by an acrylic stent. Reassure the patient the pain is real (Jaeger, 2019). When local anaesthetic no longer helps, a **central** component is likely and treatment targets central processing: ketamine, gabapentin, tricyclics, opioids, in a multidisciplinary pain clinic (Law, Nixdorf and Mattscheck, 2021).
+**Management.** Irreversible dental treatment is contraindicated (Jaeger, 2019); patients often have had multiple root canal treatments or extractions (Okeson, 2012). Tricyclic antidepressants are the treatment of choice (Jaeger, 2019); Okeson (2012) gives tricyclics at 10-100 mg, gabapentin titrated to a maximum of 3,600 mg, pregabalin up to 300 mg/day, and topical capsaicin four times a day for 3 to 4 weeks, held by an acrylic stent. Reassure the patient the pain is real (Jaeger, 2019). When local anaesthetic no longer helps, a **central** component is likely and treatment targets central processing: ketamine, gabapentin, tricyclics, opioids, in a multidisciplinary pain clinic (Law, Nixdorf and Mattscheck, 2021).
 
 ### Cardiac and other remote sources
 
@@ -127,7 +127,7 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 
 ### Neoplastic and intracranial
 
-Tumours of the maxillary sinus and jaw, and metastases especially to the mandible, can present as toothache; a common feature is sensory loss along the nerve, so regional imaging such as panoramic or CT is needed, especially with a cancer history (Law, Nixdorf and Mattscheck, 2021). Accompanying nerve dysfunction, weight loss or fatigue point beyond a tooth (Eli, Said-Al-Naief and Torabinejad, 2021). Their **SNOOP** screen flags systemic symptoms, neurologic signs, sudden onset, onset after 40 and pattern change.
+Tumours of the maxillary sinus and jaw, and metastases especially to the mandible, can present as toothache; a common feature is sensory loss along the nerve, so regional imaging such as panoramic or CT is needed, especially with a cancer history (Law, Nixdorf and Mattscheck, 2021). Accompanying nerve dysfunction, weight loss or fatigue point beyond a tooth (Eli, Said-Al-Naief and Torabinejad, 2021). Eli, Said-Al-Naief and Torabinejad (2021) give the **SNOOP** screen: systemic symptoms, neurologic signs, sudden onset, onset after 40 and pattern change.
 
 ### Psychogenic
 
@@ -148,7 +148,7 @@ A diagnosis of exclusion (Law, Nixdorf and Mattscheck, 2021). Purely psychologic
 
 ## Diagnostic approach
 
-**1. History.** Record location, intensity on a verbal analog scale, onset, frequency and duration, progression, quality, aggravating and relieving factors, associated swelling or numbness, relation between complaints, and prior treatment (Law, Nixdorf and Mattscheck, 2021). Each complaint is analysed separately (Jaeger, 2019). Include medical, family, social history and review of systems (Jaeger, 2019). Odontogenic pain is limited to dull, aching or throbbing; sharp stabbing suggests A-delta dentinal pain, electrical suggests neuralgia (Law, Nixdorf and Mattscheck, 2021). Pain that wakes from sleep suggests dental origin (Eli, Said-Al-Naief and Torabinejad, 2021). Recent dental treatment: pain is commonly referred to the most recently treated tooth (Walton and Torabinejad, 2002).
+**1. History.** Record location, intensity on a verbal analog scale, onset, frequency and duration, progression, quality, aggravating and relieving factors, associated swelling or numbness, relation between complaints, and prior treatment (Law, Nixdorf and Mattscheck, 2021). Odontogenic pain is limited to dull, aching or throbbing; sharp stabbing suggests A-delta dentinal pain, electrical suggests neuralgia (Law, Nixdorf and Mattscheck, 2021). Pain that wakes from sleep suggests dental origin (Eli, Said-Al-Naief and Torabinejad, 2021). Recent dental treatment: pain is commonly referred to the most recently treated tooth (Walton and Torabinejad, 2002).
 
 **2. Examination.** Extraoral, intraoral, pulpal and periradicular tests rule odontogenic pain in or out. Palpate temporalis, masseter, medial pterygoid and digastric; test lateral pterygoid by function (Law, Nixdorf and Mattscheck, 2021). Palpate and lower the head for sinus pain; screen cranial nerves II to XII (Law, Nixdorf and Mattscheck, 2021).
 
