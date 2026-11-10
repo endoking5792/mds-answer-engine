@@ -23,6 +23,11 @@ L = {
  'u3_har_eal': ('q03_har', 'are accurate to within 0.5 mm in >90% of cases'),
  'u3_att_6k': ('q03_att', 'there is a constant electrical resistance of 6'),
  'u3_wal_conf': ('q03_wal', 'Electronic techniques are best used in certain situations, but must be confirmed radiographically'),
+ 'u3_hul_tact0': ('u3_hul', 'is the least accurate method of measuring the'),
+ 'u3_hul_comb': ('u3_hul2', 'the additional use of radiographs and of the tactile determination of working length must never be dismissed'),
+ 'u3_jain_unrel': ('q03_jain', 'it is very unreliable in clinical practice'),
+ 'u3_mun_sun': ('q03_mun', 'the location of the apical foramen could be estimated'),
+ 'u3_mal_exp': ('q03_mal', 'They are relatively expensive.'),
  # P1
  'u3_hul_fict': ('u3_hul', 'is a fictitious, purely radiological structure with no'),
  'u3_hul_arb': ('u3_hul', 'a radiograph can provide only an arbitrary determination of this length'),
