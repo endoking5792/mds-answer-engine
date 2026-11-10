@@ -48,7 +48,7 @@ Systemic drugs fail in the necrotic canal; topical agents act there. Ledermix co
 
 ## Prescribing around endodontic surgery
 
-Cohen's chapter does not recommend antibiotics after endodontic surgery (Teixeira and Cheung, 2021); Reiser (2017) ties them to signs: temperature above 101°F, heart rate above 90, rapidly progressive swelling or cellulitis. Prophylaxis is advised for the immunosuppressed and for patients on antiresorptives, from 1 day before to 3 to 7 days after surgery (Reiser, 2017). A patient already on antibiotics receives a different drug (Reiser, 2017).
+Cohen's chapter does not recommend antibiotics after endodontic surgery (Teixeira and Cheung, 2021); Reiser (2017) ties them to signs: temperature above 101°F, heart rate above 90, rapidly progressive swelling or cellulitis. Antibiotics may be needed in the immunosuppressed; for patients on antiresorptives they run from 1 day before to 3 to 7 days after surgery (Reiser, 2017). A patient already on antibiotics receives a different drug (Reiser, 2017).
 
 ## Conclusion
 

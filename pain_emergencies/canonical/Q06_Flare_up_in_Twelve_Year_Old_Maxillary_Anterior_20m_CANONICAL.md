@@ -23,7 +23,7 @@ A flare-up is an acute exacerbation of a periradicular pathosis after the initia
 7. Close with a temporary seal and relieve the occlusion (Sikri, 2019).
 
 ## Drugs
-- **Analgesic:** NSAID or acetaminophen (Baumgartner and Rosenberg, 2019). Tabulated antibiotic doses are adult doses (Gopikrishna, 2021), so a child's dose must be set by weight.
+- **Analgesic:** NSAID (Sikri, 2019), or acetaminophen if NSAIDs are contraindicated (Baumgartner and Rosenberg, 2019). Tabulated antibiotic doses are adult doses (Gopikrishna, 2021), so a child's dose must be set by weight.
 - **Antibiotics:**
 
 | Author | Position |
@@ -55,6 +55,6 @@ Contact the child daily until symptoms abate (Walton and Ruparel, 2021). Recall 
 6. Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.7 Endodontic emergencies.
 7. Nusstein JM, Drum M, Khan AA. Pain control. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.6.
 8. Diogenes A, Simon S, Law AS. Regenerative endodontics. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.12.
-9. Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.23.
+9. Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.3 and Ch.23.
 10. Baumgartner JC, Rosenberg PA. Treatment of endodontic abscesses/cellulitis, cysts, and flare-ups. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.30.
 11. Cvek M. Endodontic management and the use of calcium hydroxide in traumatized permanent teeth. In: Andreasen JO, Andreasen FM, Andersson L, editors. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Oxford: Blackwell Munksgaard; 2007. Ch.22.

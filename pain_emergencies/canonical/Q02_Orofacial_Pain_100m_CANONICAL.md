@@ -29,23 +29,20 @@ Organic disease must be excluded first (Jaeger, 2019). Leeson, Gulabivala and Ng
 
 **3. By mechanism.** Nociceptive and inflammatory pain are adaptive; neuropathic and functional pain are maladaptive (Leeson, Gulabivala and Ng, 2014).
 
-**Terms** (Eli, Said-Al-Naief and Torabinejad, 2021): allodynia is a painful response to a non-painful stimulus; hyperalgesia an increased response to a noxious one; dysesthesia an unpleasant abnormal sensation; hypoesthesia reduced sensitivity.
-
 ## Pain mechanisms
 
 - **Pathway.** Trigeminal A-delta and C fibres project to the nucleus caudalis (medullary dorsal horn), then via the thalamus to the cortex (Leeson, Gulabivala and Ng, 2014).
 - **Peripheral sensitization:** increased responsiveness and reduced thresholds of nociceptors. Sensitized pulpal C fibres may fire at body temperature or with the cardiac pulse, hence "throbbing" (Law, Nixdorf and Mattscheck, 2021).
 - **Central sensitization:** increased responsiveness of central nociceptive neurons to normal or subthreshold input (Law, Nixdorf and Mattscheck, 2021). It involves receptive-field enlargement, lowered threshold and wind-up, producing allodynia and hyperalgesia (Leeson, Gulabivala and Ng, 2014). Its effects are secondary hyperalgesia and referred pain (Law, Nixdorf and Mattscheck, 2021). Walton and Torabinejad (2002) suggest it may explain the "hot tooth" that resists anaesthesia.
-- **Convergence and referral.** Afferents from different tissues converge on the same second-order trigeminal neuron, so the brain mislocates the source (Okeson, 2012). Convergence explains poor localisation of pulpal pain (Leeson, Gulabivala and Ng, 2014). About 50% of pulpal neurons converge with other neurons on the same projection neuron (Okeson, 2012). Ingle's chapter names convergence-projection and convergence-facilitation theories and calls neither complete (Jaeger, 2019).
+- **Convergence and referral.** Afferents from different tissues converge on the same second-order trigeminal neuron, so the brain mislocates the source (Okeson, 2012). Convergence explains poor localisation of pulpal pain (Leeson, Gulabivala and Ng, 2014). About 50% of pulpal neurons converge with other neurons on the same projection neuron (Okeson, 2012).
 - **Behaviour of referred pain.** It is felt in a territory of a different nerve, cannot be provoked where felt, and goes only when the source is anaesthetised; it runs mostly cephalad, so a mandibular molar refers to maxillary molars (Law, Nixdorf and Mattscheck, 2021). It does not generally cross the midline, and about 90% of patients with moderate to severe odontogenic pain report referral (Okeson, 2012).
 - **Heterotopic pain** (site differs from source) is **referred, central or projected**; projected pain is felt in the distribution of the same nerve that carried the input (Law, Nixdorf and Mattscheck, 2021; Sikri, 2019).
 - **Gate control.** Large-fibre activity tends to close the dorsal-horn gate and small-fibre activity opens it; higher centres modulate it, so pain is an "experience" (Walton and Torabinejad, 2002).
 - **Neuropathic pain** arises "as a direct consequence of a lesion or disease affecting the somatosensory system" (Law, Nixdorf and Mattscheck, 2021).
-- Blocking input with local anaesthetic can reduce nociceptive input and potentially prevent central sensitization (Leeson, Gulabivala and Ng, 2014).
 
 ## Odontogenic pain and its dental mimics
 
-Pulpal pain (C fibre) is dull, aching or throbbing, poorly localised because of convergence and absent proprioception; periradicular pain is easier to localise and is graded to percussion (Law, Nixdorf and Mattscheck, 2021). Pulp is deep (visceral) and periradicular tissue superficial, so spread of inflammation to the ligament lets the tooth be located (Walton and Torabinejad, 2002). Both should resolve with local anaesthesia; failure suggests non-odontogenic pain (Law, Nixdorf and Mattscheck, 2021). Pain from clenching or occlusal strain of the periodontal ligament is dull, aching, may affect several teeth and is tender to percussion without pulpitis (Eli, Said-Al-Naief and Torabinejad, 2021). Distinguishing one diseased tooth from another is answered in Diagnosis Q07.
+Pulpal pain (C fibre) is dull, aching or throbbing, poorly localised because of convergence and absent proprioception; periradicular pain is easier to localise and is graded to percussion (Law, Nixdorf and Mattscheck, 2021). Pulp is deep (visceral) and periradicular tissue superficial, so spread of inflammation to the ligament lets the tooth be located (Walton and Torabinejad, 2002). Both should resolve with local anaesthesia; failure suggests non-odontogenic pain (Law, Nixdorf and Mattscheck, 2021). Pain from clenching or occlusal strain of the periodontal ligament is dull, aching, may affect several teeth and is tender to percussion without pulpitis (Eli, Said-Al-Naief and Torabinejad, 2021). Distinguishing one diseased tooth from another is answered in the Diagnosis topic.
 
 | | Odontogenic | Non-odontogenic |
 |---|---|---|
@@ -59,15 +56,13 @@ Pulpal pain (C fibre) is dull, aching or throbbing, poorly localised because of 
 
 ## Non-odontogenic toothache
 
-Okeson (2012) lists myofascial, sinus, neurovascular, neuropathic, cardiac, somatoform and systemic toothache.
-
 ### Musculoskeletal: myofascial pain and TMD
 
-**Myofascial pain (MFP)** arises from hyperexcitable foci (trigger points) in muscle, felt as taut bands (Law, Nixdorf and Mattscheck, 2021). It is the most common muscle pain of the orofacial region (Eli, Said-Al-Naief and Torabinejad, 2021). In 230 patients with temporomandibular dysfunction, 85.0% had referred pain on palpation and 11.6% had pain referred to teeth (Okeson, 2012). Masseter, temporalis and lateral pterygoid refer to teeth (Law, Nixdorf and Mattscheck, 2021); anterior digastric refers to mandibular anterior teeth (Okeson, 2012).
+**Myofascial pain (MFP)** arises from hyperexcitable foci (trigger points) in muscle, felt as taut bands (Law, Nixdorf and Mattscheck, 2021). It is the most common muscle pain of the orofacial region (Eli, Said-Al-Naief and Torabinejad, 2021). In a series of 230 patients with temporomandibular dysfunction, 85.0% had referred pain on palpation and 11.6% had pain referred to teeth (Okeson, 2012). Masseter, temporalis and lateral pterygoid refer to teeth (Law, Nixdorf and Mattscheck, 2021); anterior digastric refers to mandibular anterior teeth (Okeson, 2012).
 
 **Features** (Okeson, 2012): constant, dull, aching, non-pulsatile; unchanged by tooth stimulation; trigger points on palpation; worse with muscle function; palpation of the trigger point increases it; tooth anaesthesia does not alter it; trigger-point injection reduces it. Active trigger points cause the toothache; latent ones do not, so history alone may make the diagnosis (Okeson, 2012).
 
-**Management.** Identify causal and perpetuating factors, educate, give home stretching exercises; adjuncts include spray and stretch, pressure release and trigger-point injection (Jaeger, 2019). Okeson (2012) adds mild analgesics, deep massage, biofeedback and deep heat; Law, Nixdorf and Mattscheck (2021) add relaxation techniques and muscle relaxants. Injection uses a 25- or 27-gauge needle and 2% lidocaine or 3% mepivacaine without vasoconstrictor (Law, Nixdorf and Mattscheck, 2021).
+**Management.** Identify causal and perpetuating factors, educate, give home stretching exercises; adjuncts include spray and stretch, pressure release and trigger-point injection (Jaeger, 2019). Okeson (2012) adds mild analgesics, deep massage, biofeedback and deep heat; Law, Nixdorf and Mattscheck (2021) add muscle relaxants. Injection uses a 25- or 27-gauge needle and 2% lidocaine or 3% mepivacaine without vasoconstrictor (Law, Nixdorf and Mattscheck, 2021).
 
 **TMJ disorders.** Disc derangement, osteoarthritis and ankylosis are mostly relatively painless; capsulitis and synovitis cause continuous pain over the joint, aggravated by function (Jaeger, 2019). Treatment is jaw rest, soft diet and 7-14 days of NSAID, then a stabilization splint if needed; intra-articular steroid is limited to no more than two injections in 12 months (Jaeger, 2019). Joint noise alone needs no treatment (Eli, Said-Al-Naief and Torabinejad, 2021).
 
@@ -77,11 +72,11 @@ The maxillary sinus is the commonest extraoral source of dental pain, and many t
 
 **Management.** Treat the cause: for bacterial sinusitis, antibiotics; for allergic, antihistamines or decongestants (Okeson, 2012). Refer to an otolaryngologist (Law, Nixdorf and Mattscheck, 2021).
 
-**Salivary.** Sialadenitis or blockage gives swelling or pain on swallowing (Leeson, Gulabivala and Ng, 2014); sialolithiasis gives sharp pain on biting (Sikri, 2019). Law, Nixdorf and Mattscheck (2021) have not met it as toothache, but mandibular teeth are most plausible.
+**Salivary.** Sialadenitis or blockage gives swelling or pain on swallowing (Leeson, Gulabivala and Ng, 2014); sialolithiasis gives sharp pain on biting (Sikri, 2019). Law, Nixdorf and Mattscheck (2021) have not met it as toothache.
 
 ### Neurovascular (headache disorders)
 
-Intracranial trigeminal branches become sensitized and pain is perceived in the head, jaws and teeth (Law, Nixdorf and Mattscheck, 2021). Dental disease may only precipitate an attack (Law, Nixdorf and Mattscheck, 2021).
+Intracranial trigeminal branches become sensitized and pain is perceived in the head, jaws and teeth (Law, Nixdorf and Mattscheck, 2021). Dental disease is unlikely to cause the headache disorder but may precipitate attacks (Law, Nixdorf and Mattscheck, 2021).
 
 | | Migraine | Cluster | Paroxysmal hemicrania |
 |---|---|---|---|
@@ -92,7 +87,7 @@ Intracranial trigeminal branches become sensitized and pain is perceived in the 
 | Behaviour | Retreats to dark room | Paces the floor | Pacing |
 | Treatment | Triptans | Oxygen, triptans | Indomethacin |
 
-(Law, Nixdorf and Mattscheck, 2021; Jaeger, 2019.) About 3% of migraine patients complain of intraoral pain (Jaeger, 2019), and migraine is probably the commonest neurovascular cause of toothache (Law, Nixdorf and Mattscheck, 2021). Short-lasting unilateral neuralgiform attacks last 5 seconds to 3 minutes (Jaeger, 2019). Hemicrania continua responds completely to indomethacin (Jaeger, 2019). Neurovascular pain is episodic with complete remission, whereas toothache usually leaves background pain (Law, Nixdorf and Mattscheck, 2021). Dentists commit serious diagnostic errors in cluster headache (Jaeger, 2019).
+(Law, Nixdorf and Mattscheck, 2021; Jaeger, 2019.) About 3% of migraine patients complain of intraoral pain (Jaeger, 2019), and migraine is probably the commonest neurovascular cause of toothache (Law, Nixdorf and Mattscheck, 2021). Hemicrania continua responds completely to indomethacin (Jaeger, 2019). Neurovascular pain is episodic with complete remission; toothache usually leaves background pain (Law, Nixdorf and Mattscheck, 2021). Dentists commit serious diagnostic errors in cluster headache (Jaeger, 2019).
 
 **Management.** Identify and avoid triggers; abortive triptans (sumatriptan, rizatriptan) for infrequent attacks; prophylaxis (beta-blockers, calcium channel blockers, tricyclics) when attacks are one or more a week (Okeson, 2012). A triptan trial can clarify the diagnosis (Eli, Said-Al-Naief and Torabinejad, 2021). Oxygen at 100% (7-8 L/min, non-rebreather) for 15 minutes at the start of a cluster attack may abort it (Jaeger, 2019). Definitive care belongs to the orofacial pain dentist or headache specialist (Jaeger, 2019).
 
@@ -106,7 +101,7 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 
 **Pretrigeminal neuralgia.** A dull, aching or burning toothache, less paroxysmal, that later becomes classic TN, sometimes up to 2 years afterwards (Law, Nixdorf and Mattscheck, 2021; Jaeger, 2019); 61% of such patients were wrongly treated for dental conditions (Jaeger, 2019). Dental procedures may relieve pain for 4 to 8 weeks, after which it moves to the next tooth (Eli, Said-Al-Naief and Torabinejad, 2021).
 
-**Glossopharyngeal neuralgia** gives brief shock-like pain in the posterior mandible, oropharynx, tonsillar fossa and ear, provoked by swallowing, and is not changed by inferior alveolar block (Okeson, 2012). Imaging is essential because of the high likelihood of regional pathology (Eli, Said-Al-Naief and Torabinejad, 2021).
+**Glossopharyngeal neuralgia** gives brief shock-like pain in the posterior mandible, oropharynx, tonsillar fossa and ear, provoked by swallowing, and is not changed by inferior alveolar block (Okeson, 2012). Imaging is essential (Eli, Said-Al-Naief and Torabinejad, 2021).
 
 **Neuritis.** Persistent, non-pulsatile burning pain with paraesthesia, dysesthesia or anaesthesia, after infection or trauma (Okeson, 2012). Chemical injury from overextended paraformaldehyde-containing paste is a classic endodontic cause (Law, Nixdorf and Mattscheck, 2021). Herpes zoster may produce toothache before vesicles appear; treat with acyclovir, valacyclovir or famciclovir (Okeson, 2012).
 
@@ -116,7 +111,7 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 
 **Atypical odontalgia / persistent dentoalveolar pain disorder (PDAP).** Continuous tooth or tooth-site pain with no identifiable dental cause (Jaeger, 2019). Features:
 
-- Usually a middle-aged woman with preceding trauma; most often maxillary molar or premolar; location may shift but stays in one nerve distribution (Okeson, 2012).
+- Usually a middle-aged woman with preceding trauma, the site may shift but stays in one nerve distribution (Okeson, 2012); most often the maxillary premolar and molar region (Law, Nixdorf and Mattscheck, 2021).
 - Continuous without remission, dull, aching, throbbing or burning, unchanged by thermal stimuli, and often over 4 months (Okeson, 2012; Eli, Said-Al-Naief and Torabinejad, 2021).
 - Examination and radiographs unrevealing; most patients get little or no relief from diagnostic local anaesthetic blocks (Jaeger, 2019).
 - Up to 3% of pulpectomy patients; about ten times as common as TN (Okeson, 2012).
@@ -126,13 +121,13 @@ Law, Nixdorf and Mattscheck (2021) divide it into neuralgia, neuroma, neuritis a
 
 ### Cardiac and other remote sources
 
-**Angina** can present solely as toothache, usually lower left jaw (Law, Nixdorf and Mattscheck, 2021). Attacks rarely last longer than 15 minutes and follow exertion or emotion (Jaeger, 2019). Suspected cardiac pain means emergency room referral by ambulance, never driving (Jaeger, 2019). Cervical spine disease can refer to the face (Eli, Said-Al-Naief and Torabinejad, 2021). Carotidynia and temporal arteritis can present in the teeth and jaws (Eli, Said-Al-Naief and Torabinejad, 2021).
+**Angina** can present solely as toothache, usually lower left jaw (Law, Nixdorf and Mattscheck, 2021). Attacks rarely last longer than 15 minutes and follow exertion or emotion (Jaeger, 2019). Suspected cardiac pain means emergency room referral by ambulance, never driving (Jaeger, 2019). Cervical spine disease, carotidynia and temporal arteritis can also present in the face (Eli, Said-Al-Naief and Torabinejad, 2021). 
 
 **Temporal (giant cell) arteritis:** continuous dull jaw pain, visual change, pulseless tender temporal arteries, raised ESR, biopsy-confirmed, corticosteroid treatment (Law, Nixdorf and Mattscheck, 2021); optic symptoms need emergency ophthalmological examination (Jaeger, 2019).
 
 ### Neoplastic and intracranial
 
-Tumours of the maxillary sinus and jaw, and metastases especially to the mandible, can present as toothache; a common feature is sensory loss along the nerve, so regional imaging such as panoramic or CT is needed, especially with a cancer history (Law, Nixdorf and Mattscheck, 2021). Eli, Said-Al-Naief and Torabinejad (2021) note accompanying nerve dysfunction or weight loss and fatigue. Their **SNOOP** screen: systemic symptoms, neurologic signs, sudden onset, onset after 40, pattern change.
+Tumours of the maxillary sinus and jaw, and metastases especially to the mandible, can present as toothache; a common feature is sensory loss along the nerve, so regional imaging such as panoramic or CT is needed, especially with a cancer history (Law, Nixdorf and Mattscheck, 2021). Accompanying nerve dysfunction, weight loss or fatigue point beyond a tooth (Eli, Said-Al-Naief and Torabinejad, 2021). Their **SNOOP** screen flags systemic symptoms, neurologic signs, sudden onset, onset after 40 and pattern change.
 
 ### Psychogenic
 
@@ -153,9 +148,9 @@ A diagnosis of exclusion (Law, Nixdorf and Mattscheck, 2021). Purely psychologic
 
 ## Diagnostic approach
 
-**1. History.** Record location, intensity (0-10 scale), onset, frequency and duration, progression, quality, aggravating and relieving factors, associated swelling or numbness, relation between complaints, and prior treatment (Law, Nixdorf and Mattscheck, 2021). Each complaint is analysed separately (Jaeger, 2019). Include medical, family, social history and review of systems (Jaeger, 2019). Odontogenic pain is limited to dull, aching or throbbing; sharp stabbing suggests A-delta dentinal pain, electrical suggests neuralgia (Law, Nixdorf and Mattscheck, 2021). Pain that wakes from sleep suggests dental origin (Eli, Said-Al-Naief and Torabinejad, 2021). Recent dental treatment: pain is commonly referred to the most recently treated tooth (Walton and Torabinejad, 2002).
+**1. History.** Record location, intensity on a verbal analog scale, onset, frequency and duration, progression, quality, aggravating and relieving factors, associated swelling or numbness, relation between complaints, and prior treatment (Law, Nixdorf and Mattscheck, 2021). Each complaint is analysed separately (Jaeger, 2019). Include medical, family, social history and review of systems (Jaeger, 2019). Odontogenic pain is limited to dull, aching or throbbing; sharp stabbing suggests A-delta dentinal pain, electrical suggests neuralgia (Law, Nixdorf and Mattscheck, 2021). Pain that wakes from sleep suggests dental origin (Eli, Said-Al-Naief and Torabinejad, 2021). Recent dental treatment: pain is commonly referred to the most recently treated tooth (Walton and Torabinejad, 2002).
 
-**2. Examination.** Extraoral, intraoral, pulpal and periradicular tests rule odontogenic pain in or out. Palpate temporalis, masseter, medial pterygoid and digastric; test lateral pterygoid by function (Law, Nixdorf and Mattscheck, 2021). Palpate and lower the head for sinus pain; screen cranial nerves II to XII (Law, Nixdorf and Mattscheck, 2021). Examine the cervical spine (Eli, Said-Al-Naief and Torabinejad, 2021).
+**2. Examination.** Extraoral, intraoral, pulpal and periradicular tests rule odontogenic pain in or out. Palpate temporalis, masseter, medial pterygoid and digastric; test lateral pterygoid by function (Law, Nixdorf and Mattscheck, 2021). Palpate and lower the head for sinus pain; screen cranial nerves II to XII (Law, Nixdorf and Mattscheck, 2021).
 
 **3. Differential (diagnostic) local anaesthesia.** Okeson (2012) gives four rules, with the site of pain being the tooth and the source the true origin:
 
@@ -164,11 +159,11 @@ A diagnosis of exclusion (Law, Nixdorf and Mattscheck, 2021). Purely psychologic
 3. Anaesthetising the site does not decrease the pain.
 4. Anaesthetising the source decreases pain at both.
 
-Ask "I know you are numb, but does it still hurt?" (Okeson, 2012). Cautions: inferior alveolar block succeeded in only about 38% of mandibular irreversible pulpitis, rising to 88% with intraosseous supplement, and false positives occur (Okeson, 2012). Pain persisting after anaesthesia suggests a central component (Law, Nixdorf and Mattscheck, 2021). Selective infiltration starts with the anterior maxillary teeth (Walton and Torabinejad, 2002). Other blocks: trigger-point injection, intranasal lidocaine, trigger-zone block, and stellate ganglion block for sympathetic pain (Law, Nixdorf and Mattscheck, 2021).
+Ask "I know you are numb, but does it still hurt?" (Okeson, 2012). Caution: inferior alveolar block succeeded in only about 38% of mandibular irreversible pulpitis (88% with intraosseous supplement), and false positives occur (Okeson, 2012). Pain persisting after anaesthesia suggests a central component (Law, Nixdorf and Mattscheck, 2021). Other blocks: trigger-point injection, intranasal lidocaine, trigger-zone block, and stellate ganglion block for sympathetic pain (Law, Nixdorf and Mattscheck, 2021).
 
 **4. Imaging.** Periapical and panoramic images for dental disease; the dentist should review CT personally, since medical reports may not assess teeth (Eli, Said-Al-Naief and Torabinejad, 2021). Sinus CT or Waters view; head MRI or CT in TN (Jaeger, 2019) and, per one author, before diagnosing PDAP (Law, Nixdorf and Mattscheck, 2021).
 
-**5. Other.** ESR in arteritis (Law, Nixdorf and Mattscheck, 2021); serology in polyarthritis (Jaeger, 2019). If diagnosis is uncertain, give symptomatic relief and observe, or seek expert opinion (Walton and Torabinejad, 2002).
+**5. Other.** ESR in arteritis (Law, Nixdorf and Mattscheck, 2021). If diagnosis is uncertain, give symptomatic relief and observe, or seek expert opinion (Walton and Torabinejad, 2002).
 
 ## Differentiation of the main pain types
 
@@ -188,7 +183,7 @@ Ask "I know you are numb, but does it still hurt?" (Okeson, 2012). Cautions: inf
 
 ## Management principles and when to refer
 
-Treat the true source, not the site. Avoid irreversible dental treatment without a dental diagnosis. Where no cure exists, management aims at quality of life and avoiding unnecessary treatment (Eli, Said-Al-Naief and Torabinejad, 2021). The clinician must exclude dental and endodontic causes and then refer appropriately (Leeson, Gulabivala and Ng, 2014).
+Treat the true source, not the site, and avoid irreversible dental treatment without a dental diagnosis. Where no cure exists, management aims at quality of life and avoiding unnecessary treatment (Eli, Said-Al-Naief and Torabinejad, 2021). The clinician must exclude dental and endodontic causes and then refer appropriately (Leeson, Gulabivala and Ng, 2014).
 
 | Suspicion | Refer to |
 |---|---|
@@ -219,7 +214,7 @@ Treat the true source, not the site. Avoid irreversible dental treatment without
 4. Walton RE, Torabinejad M, editors. Principles and Practice of Endodontics. 3rd ed. Philadelphia: WB Saunders; 2002. Part 29 Differential diagnosis of orofacial pain.
 5. Jaeger B. Non-odontogenic toothache and chronic head and neck pain. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.17.
 6. Eli B, Said-Al-Naief N, Torabinejad M. Differential diagnosis of pains and radiolucencies of nonpulpal origin. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.5.
-7. Sikri VK. Pathophysiology of pain. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.3.
+7. Sikri VK. Pathophysiology of pain; Diseases of dental pulp. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.3 and Ch.5.
 8. American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
 9. Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.4.
 10. Gutmann JL, Lovdahl PE. Problem solving in the diagnosis of odontogenic pain. In: Problem Solving in Endodontics: Prevention, Identification, and Management. 5th ed. St Louis: Mosby Elsevier; 2011. Ch.1.
