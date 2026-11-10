@@ -28,11 +28,9 @@ Local anaesthetic is frequently ineffective in acidic inflamed tissue, and a nee
 
 ## Technique
 
-1. Place a vertically oriented stab incision, with a No. 11 scalpel through the periosteum, at the most dependent site of the swelling (Gopikrishna, 2021; Teixeira and Cheung, 2021).
-2. Dissect bluntly with a hemostat or periosteal elevator to open pockets of exudate (Baumgartner and Rosenberg, 2019).
-3. Compress the tissue to express pus (Gopikrishna, 2021); irrigate with saline or 0.12% chlorhexidine (Walton and Ruparel, 2021).
-4. If culture is needed, aspirate before incising (Baumgartner and Rosenberg, 2019).
-5. Place a drain.
+1. If a culture is needed, aspirate first (Baumgartner and Rosenberg, 2019). Place a vertically oriented stab incision, with a No. 11 scalpel through the periosteum, at the most dependent site of the swelling (Gopikrishna, 2021; Teixeira and Cheung, 2021).
+2. Dissect bluntly with a hemostat or periosteal elevator to open pockets of exudate (Baumgartner and Rosenberg, 2019). Compress the tissue to express pus (Gopikrishna, 2021) and irrigate with saline or 0.12% chlorhexidine (Walton and Ruparel, 2021).
+3. Place a drain.
 
 ## Drain and aftercare
 
