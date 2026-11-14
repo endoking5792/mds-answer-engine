@@ -2,7 +2,7 @@
 
 **Marks:** 20 · Long essay
 
-**Answer blueprint:** Definition → Theories of etiology → Etiological factors (biofilm, host: tooth and saliva, diet, time, modifying factors) → Detection and diagnosis: principles → Clinical visual-tactile methods → Radiographs → Adjunct and newer methods → Caries activity tests → Conclusion.
+**Answer blueprint:** Definition → Theories of etiology → Etiological factors (biofilm, tooth, saliva, diet, time, modifying factors) → Methods of diagnosis: principles → visual-tactile examination → radiographs → conventional adjuncts → newer methods → caries activity tests → Conclusion.
 
 ## Definition
 
