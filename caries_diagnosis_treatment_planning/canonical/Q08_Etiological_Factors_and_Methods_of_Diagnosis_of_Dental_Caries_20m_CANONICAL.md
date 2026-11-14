@@ -18,7 +18,7 @@
 | **Ionic see-saw** | Levine in 1977 | Continuous de- and remineralisation; net ion loss starts caries |
 | **Caries balance** | Featherstone in 1999 | Outcome of pathological versus protective factors |
 
-(Sikri, 2020). The acidogenic theory, refined into the balance concept, is the accepted basis.
+(Sikri, 2020).
 
 ## Etiological factors
 
@@ -28,40 +28,39 @@ Caries needs four interacting factors: **host (tooth, saliva), microflora, diet 
 
 ### 1. Biofilm (microflora)
 
-- The acquired pellicle forms within 2 hours; streptococci colonise it and plaque matures (Ritter et al, 2019).
-- Disease follows an **ecological shift**: frequent sugar favours acidogenic, aciduric mutans streptococci and lactobacilli; caries reflects microbial communities rather than one pathogen (Ritter et al, 2019).
+- The acquired pellicle forms within 2 hours and is colonised by streptococci (Ritter et al, 2019).
+- Frequent sugar causes an **ecological shift** to acidogenic, aciduric mutans streptococci and lactobacilli; communities, not one pathogen, are responsible (Ritter et al, 2019).
 - **Site flora:** mutans streptococci in pits and smooth surfaces, lactobacilli in deep dentine, Actinomyces on roots (Sikri, 2020).
 - **Books differ:** Sikri (2020) calls caries a bacterial infection; Kidd and Fejerskov (2016) call it a biofilm-induced disease of resident flora, mutans being present even in caries-free mouths.
 
 ### 2. Host: tooth
 
 - **Pits and fissures** are most susceptible, then **proximal enamel** just gingival to the contact, then exposed roots (Ritter et al, 2019); mandibular first molars are the most susceptible teeth (Sikri, 2020).
-- Crowding, rough restorations, appliances and enamel defects create stagnation.
 - Critical pH is **5.5 for enamel, 6.2 for dentin** (Ritter et al, 2019); cementum dissolves from pH 6.7 (Sikri, 2020), so root caries progresses faster.
 
 ### 3. Host: saliva
 
-Adults secrete 1-1.5 L a day, providing clearance, **bicarbonate buffering**, antibacterial proteins and calcium-phosphate supersaturation for remineralisation (Ritter et al, 2019). Hyposalivation from drugs, Sjögren's syndrome or radiotherapy can destroy teeth within months.
+Adults secrete 1-1.5 L a day, providing clearance, **bicarbonate buffering**, antibacterial proteins and calcium-phosphate supersaturation for remineralisation (Ritter et al, 2019). Hyposalivation (drugs, radiotherapy) can destroy teeth within months.
 
 ### 4. Diet (substrate)
 
 - **Frequency** of sucrose matters more than quantity (Ritter et al, 2019).
 - **Vipeholm study** (436 adults): risk greatest when sugar is eaten between meals and in retentive form (Sikri, 2020).
-- Stickiness, clearance time, bedtime intake and starch-sucrose mixtures raise cariogenicity.
+- Stickiness, slow clearance and bedtime intake raise cariogenicity.
 
 ### 5. Time
 
-pH takes about two hours to recover after sugar (Sikri, 2020); lesions need repeated challenges over months to years.
+pH takes about two hours to recover after sugar (Sikri, 2020);
 
 ### 6. Modifying factors
 
-Fluoride exposure, oral hygiene, socio-economic status, education, medication and age. Sikri (2020) describes a genetic theory; Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences.
+Fluoride, oral hygiene, socio-economic status, medication and age. Sikri (2020) describes a genetic theory; Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences.
 
 ## Methods of diagnosis
 
 ### Principles
 
-**Detection** asks whether a lesion is present; **diagnosis** adds whether it is active or arrested and whether cavitated (Kidd and Fejerskov, 2016; Amaechi et al, 2013). Teeth must be clean, dry, isolated and well lit. Sharp probes must not be forced into lesions; a **CPITN ball-ended probe (0.5 mm)** assesses roughness (Ritter et al, 2019).
+**Detection** asks whether a lesion is present; **diagnosis** adds whether it is active or arrested and whether cavitated (Kidd and Fejerskov, 2016; Amaechi et al, 2013). Teeth must be clean, dry and well lit. A **CPITN ball-ended probe (0.5 mm)**, not a sharp explorer, assesses roughness (Ritter et al, 2019).
 
 ### 1. Visual-tactile examination
 
@@ -94,7 +93,7 @@ Lactobacillus count, Snyder, Alban and reductase tests estimate susceptibility (
 
 ## Conclusion
 
-Caries results from a biofilm-sugar-host imbalance over time; diagnosis must record activity and cavitation, primarily by careful visual examination supported by bitewings.
+Caries is a biofilm-sugar-host imbalance over time; diagnosis records activity and cavitation, mainly visually, supported by bitewings.
 
 ## References
 

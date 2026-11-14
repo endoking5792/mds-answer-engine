@@ -73,3 +73,7 @@ L = {
  'q08_dd_99': ('q08_dd', 'a digital value between 0 and 99'),
  'q08_su_dd': ('q08_su', 'detection only describes the clinical signs of caries, diagnosis tries to estimate the dynamics and determinants of the process'),
 }
+L.update({
+ 'q08_sk_lev77': ('q08_sk', 'Levine (1977) hypothesized'),
+ 'q08_sk_fe99': ('q08_sk', 'Featherstone (1999) proposed'),
+})
