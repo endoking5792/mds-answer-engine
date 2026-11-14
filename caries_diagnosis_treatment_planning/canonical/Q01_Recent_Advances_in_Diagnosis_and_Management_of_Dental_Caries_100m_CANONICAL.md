@@ -86,7 +86,7 @@ Both agree that pressure must never be used; the difference is in the instrument
 
 ### Bitewings and depth scoring
 
-Bitewing sensitivity is **about 0.2–0.3 for early lesions**, rising to 0.4–0.6 for dentine lesions, with specificity around or above 0.9 (Schwendicke and Göstemeyer, 2019). Depth is scored **E1, E2 (outer/inner enamel) and D1–D3 (outer, middle, inner dentine)**. **E1–D1 lesions are managed mainly non-restoratively**, D2–D3 usually by restoration, because restoring proximal surfaces starts the costly cycle of re-restoration ("death spiral").
+Bitewing sensitivity is **about 0.2–0.3 for early lesions**, rising to 0.4–0.6 for dentine lesions, with specificity around or above 0.9 (Schwendicke and Göstemeyer, 2019). Depth is scored **E1, E2 (outer/inner enamel) and D1–D3 (outer, middle, inner dentine)**. **E1–D1 lesions are managed mainly non-restoratively** and D2–D3 usually by restoration. Early detection matters because a proximal restoration sacrifices sound marginal ridge and starts the costly cycle of re-restoration ("death spiral").
 
 ### Digital radiography
 
