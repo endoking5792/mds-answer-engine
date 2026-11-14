@@ -235,3 +235,9 @@ L = {
  'q02_st_hi34': ('q02_st', 'patients at high-risk profile should be recalled and examined much more frequently (e.g. 3–4 months)'),
  'q02_su_pccm': ('q02_su', 'patient-centered caries management (PCCM), is recommended'),
 }
+L.update({
+ 'q02_kd_32': ('q02_kd', 'data can be derived from 32 teeth (DMFT)'),
+ 'q02_kd_lat': ('q02_kd', 'Also Latin and South American countries have a fairly high level from 1.5 to 5 D3MFT'),
+ 'q02_kd_eeu': ('q02_kd', 'The highest levels are generally seen in Eastern European countries varying from 2-5 D3MFT'),
+ 'q02_st_1450': ('q02_st', 'Brush with fluoride dentifrice (e.g. 1450 ppm fluoride)'),
+})

@@ -6,7 +6,7 @@
 
 **Dental caries** is a localised chemical dissolution of the tooth surface brought about by metabolic activity in the dental biofilm covering it (Kidd and Fejerskov, 2016). It is a multifactorial disease caused primarily by an imbalance of the oral flora in the presence of fermentable carbohydrate over time (Ritter et al, 2019). Kidd and Fejerskov (2016) call it **a biofilm-induced disease** of the resident flora rather than an infectious, transmissible one; mutans streptococci are resident organisms present in low numbers even in caries-free mouths.
 
-The process is a **continuum of demineralisation and remineralisation**. Biofilm pH falling below the critical level (**5.5 for enamel, 6.2 for dentin**) draws mineral out of the tooth; recovery of pH allows it back (Ritter et al, 2019). Frequency of sucrose intake drives caries more than quantity, and saliva (bicarbonate buffer, clearance, calcium and phosphate) protects (Ritter et al, 2019). A lesion is therefore a **symptom** of the imbalance; managing the disease means changing the balance, not only filling cavities. This frames all four parts of the answer.
+The process is a **continuum of demineralisation and remineralisation**: biofilm pH below the critical level (**5.5 for enamel, 6.2 for dentin**) draws mineral out; recovery allows it back. Sucrose frequency drives it and saliva (bicarbonate buffer, clearance) protects (Ritter et al, 2019). A lesion is therefore a **symptom** of imbalance; management changes the balance, not only fills cavities.
 
 ## 2. Epidemiology
 
@@ -16,8 +16,6 @@ The process is a **continuum of demineralisation and remineralisation**. Biofilm
 - **Prevalence:** the percentage of individuals in an age group who, at a specified time, have experienced one or more caries lesions.
 - **Incidence:** the number of new lesions in a given period; the incidence rate divides new lesions by surfaces at risk.
 - **Extent or severity:** the mean number of teeth affected at a given severity, e.g. D1MFT counts all lesions, D2MFT only cavities (Kidd and Fejerskov, 2016).
-
-Good recording criteria are valid, reliable (intra- and inter-examiner), simple, quantifiable and sensitive to change over time (Kidd and Fejerskov, 2016).
 
 ### 2.2 Indices of measurement
 
@@ -30,20 +28,18 @@ Good recording criteria are valid, reliable (intra- and inter-examiner), simple,
 | **pufa/PUFA** | Pulpal involvement, ulceration, fistula, abscess | First index for consequences of untreated cavities (Leal, Ribeiro and Hilgert, 2019) |
 | **CAST** | Sound to enamel lesion to dentine, pulp, abscess, tooth loss; sealants and restorations | Whole spectrum; converts to DMF (Leal, Ribeiro and Hilgert, 2019) |
 
-**Limitations of DMF** (Kidd and Fejerskov, 2016): a DMFT of 12 may mean 12 open cavities or 12 fillings; the D component dominates in poor countries and F in rich ones, so the index reflects dentist numbers and restorative philosophy; missing teeth inflate surface counts; sealants are not recorded. The WHO criterion records only a dentine cavity (Leal, Ribeiro and Hilgert, 2019), so WHO data omit non-cavitated lesions and understate the burden; a restored tooth stays "diseased" for life in a prevalence figure. **Means mislead when distributions are skewed.**
+**Limitations of DMF** (Kidd and Fejerskov, 2016): a DMFT of 12 may mean 12 open cavities or 12 fillings; the D component dominates in poor countries and F in rich ones, so it reflects dentist numbers; sealants are not recorded. The WHO criterion records only a dentine cavity (Leal, Ribeiro and Hilgert, 2019), so WHO data omit non-cavitated lesions and understate the burden; a restored tooth stays "diseased" for life in a prevalence figure. **Means mislead when distributions are skewed.**
 
 ### 2.3 Distribution and trends
 
 1. **Tooth and surface pattern:** first and second molars are most susceptible, then premolars; lower anterior teeth least. Pits and fissures are the most caries-prone surfaces, then approximal surfaces (Kidd and Fejerskov, 2016).
 2. **Age:** caries experience rises with age throughout life, crown and root (Kidd and Fejerskov, 2016).
 3. **Gender:** females tend to have more experience, mainly more filled and missing teeth; men have more untreated lesions (Kidd and Fejerskov, 2016).
-4. **Socio-economic status:** caries is more prevalent in lower socio-economic groups (Amaechi et al, 2013; Kidd and Fejerskov, 2016); in some low-income countries (Vietnam, Kenya) the reverse holds. Within-country differences can equal between-country differences.
-5. **Heredity:** Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences; "familial" caries reflects shared diet and hygiene. Sikri (2020) instead describes a genetic theory with candidate enamel-formation genes. The two are shown side by side; the population evidence favours shared environment.
-6. **Global picture (WHO, 12-year-olds, D3MFT):** Western Europe and most of Africa below 1; Eastern Europe 2-5; Latin America 1.5-5; India and the Philippines **3 to 4**; Saudi Arabia almost 6 (Kidd and Fejerskov, 2016). These are crude estimates from small pathfinder surveys.
-7. **Trends:** in many European countries childhood prevalence and incidence have fallen by **as much as 90%** (Kidd and Fejerskov, 2016), attributed mainly to fluoride and oral hygiene despite high sugar consumption (Borges, Torres and Schlueter, 2020). As means fall, distributions become **skewed**: a minority carries most disease. Lesions also progress more slowly; about **4 years** through proximal enamel (Amaechi et al, 2013). Yet the global burden of **untreated** caries has been almost unchanged for 20 years (Kidd and Fejerskov, 2016).
-8. **Prediction:** a cohort's caries level at one age predicts its later level (Kidd and Fejerskov, 2016), which underlies risk assessment.
-
-**Clinical significance:** low averages hide high-risk individuals, so prevention must be both population-wide and targeted.
+4. **Socio-economic status:** caries is more prevalent in lower socio-economic groups (Amaechi et al, 2013; Kidd and Fejerskov, 2016); in some low-income countries (Vietnam, Kenya) the reverse holds.
+5. **Heredity:** Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences; "familial" caries reflects shared diet and hygiene. Sikri (2020) instead describes a genetic theory with candidate enamel-formation genes.
+6. **Global picture (WHO, 12-year-olds, D3MFT):** Western Europe and most of Africa below 1; Eastern Europe 2-5; Latin America 1.5-5; India and the Philippines **3 to 4**; Saudi Arabia almost 6 (Kidd and Fejerskov, 2016).
+7. **Trends:** in many European countries childhood prevalence and incidence have fallen by **as much as 90%** (Kidd and Fejerskov, 2016), mainly through fluoride and oral hygiene (Borges, Torres and Schlueter, 2020). As means fall, distributions become **skewed**: a minority carries most disease. Lesions also progress more slowly; about **4 years** through proximal enamel (Amaechi et al, 2013). Yet the global burden of **untreated** caries has been almost unchanged for 20 years (Kidd and Fejerskov, 2016).
+8. **Prediction:** a cohort's caries level at one age predicts its later level (Kidd and Fejerskov, 2016). Low averages therefore hide high-risk individuals: prevention must be population-wide and targeted.
 
 ## 3. Prevention
 
@@ -65,7 +61,7 @@ Evidence is strongest for fluorides, then oral hygiene, and weakest for nutritio
 
 - Brush **twice daily**, last thing at night and once more, with toothpaste of **at least 1000 ppm F**; family paste of **1350-1500 ppm** from about 3 years (pea-sized amount); **spit, do not rinse** (Kidd and Fejerskov, 2016).
 - **Two minutes** twice daily; no brushing technique is superior, but systematic coverage of all areas matters (Borges, Torres and Schlueter, 2020).
-- Interdental cleaning with floss or interdental brushes; powered brushes help the disabled.
+- Floss or interdental brushes for approximal surfaces.
 - Sturdevant recommends fluoride dentifrice **three times** a day (Ritter et al, 2019), whereas Kidd and Fejerskov (2016) advise twice; both agree on fluoride toothpaste as the basis.
 - **Evidence:** in Krasse's school study, hygiene and diet counselling gave 3.3 new restorations against 8.2 in controls after 18 months (Ritter et al, 2019).
 
@@ -80,7 +76,7 @@ Evidence is strongest for fluorides, then oral hygiene, and weakest for nutritio
 | Ritter et al (2019) | Three mechanisms: **fluorapatite** precipitation making enamel acid-resistant; remineralisation of initial lesions; **antibacterial** action (inhibits glucosyltransferase; bactericidal at topical concentrations) |
 | Sikri (2020) | Pre-eruptive incorporation reduces solubility, plus remineralisation and inhibition of glycolysis |
 
-The modern consensus (Kidd and Fejerskov; Amaechi et al) is predominantly **topical**, which is why fluoride benefits all ages.
+The modern view is predominantly **topical**, so fluoride benefits all ages.
 
 **Vehicles:**
 
@@ -94,7 +90,7 @@ The modern consensus (Kidd and Fejerskov; Amaechi et al) is predominantly **topi
 | **Silver diamine fluoride 38%** | Arrests cavitated lesions where restoration is impractical; stains black (Ritter et al, 2019) |
 | **Tablets, salt** | Kidd and Fejerskov (2016): tablets have little role and mainly cause fluorosis; salt fluoridation should not be recommended |
 
-**Safety:** acute lethal dose about 15 mg/kg, but 5 mg/kg may kill a child and needs emergency care (Kidd and Fejerskov, 2016). Fluorosis follows chronic ingestion during enamel maturation, so children use a smear or pea-size and spit.
+**Safety:** acute lethal dose about 15 mg/kg, but 5 mg/kg may kill a child and needs emergency care (Kidd and Fejerskov, 2016).
 
 ### 3.4 Diet
 
@@ -115,17 +111,17 @@ Sealants fill pits and fissures with resin, removing the stagnation niche and ma
 
 - **Chlorhexidine** lowers mutans streptococci but has very limited use for caries (Ritter et al, 2019).
 - **CPP-ACP** remineralises, but most studies did not test it without fluoride; **probiotics** remain unproven (Ritter et al, 2019).
-- **Hyposalivation:** salivary stimulation (sugar-free gum, pilocarpine), medication review, high-fluoride products.
+- **Hyposalivation:** salivary stimulation, medication review, high-fluoride products.
 
 ### 3.7 Community prevention
 
-Water fluoridation, supervised school brushing and rinsing, sealant programmes, sugar policy and oral health education. Programmes must suit the current disease level: rinsing schemes effective when caries was common were not cost-effective once it fell (Kidd and Fejerskov, 2016).
+Water fluoridation, school brushing and sealant programmes, sugar policy and education, matched to current disease levels: rinsing schemes ceased to be cost-effective once caries fell (Kidd and Fejerskov, 2016).
 
 ## 4. Diagnosis
 
 ### 4.1 Detection and diagnosis
 
-**Detection** asks whether a lesion is present; **diagnosis** adds whether it is **active or arrested** and whether the surface is **cavitated** and cleansable (Kidd and Fejerskov, 2016). Detection describes clinical signs at one time; diagnosis estimates the dynamics of the process (Amaechi et al, 2013). Diagnosis is a "best guess" under uncertainty, revised at recall.
+**Detection** asks whether a lesion is present; **diagnosis** adds whether it is **active or arrested** and whether the surface is **cavitated** and cleansable (Kidd and Fejerskov, 2016). Detection records signs; diagnosis estimates the dynamics (Amaechi et al, 2013).
 
 **Prerequisites:** clean teeth (brush or disclose first), isolation with cotton rolls, drying, good light and magnification, systematic surface-by-surface examination (Kidd and Fejerskov, 2016). **Sharp probes should never be pushed** into lesions: they cavitate remineralisable enamel; Ritter et al (2019) recommend the **CPITN ball-ended probe (0.5 mm)** for roughness and forbid the "stick".
 
@@ -145,13 +141,13 @@ Water fluoridation, supervised school brushing and rinsing, sealant programmes, 
 
 The codes track histological depth: 95% of code 0 surfaces are sound, and 84% of codes 5-6 reach the inner third of dentine (Ekstrand and Braga, 2019).
 
-**Nyvad criteria** record **activity and integrity**: active lesions are plaque-covered, matt, rough and near inflamed gingiva; inactive lesions are shiny, smooth and plaque-free; root lesions are active if soft or leathery (Kidd and Fejerskov, 2016). Kidd and Fejerskov prefer Nyvad because it links directly to treatment; ICDAS is better for research and depth staging.
+**Nyvad criteria** record **activity and integrity**: active lesions are plaque-covered, matt, rough and near inflamed gingiva; inactive lesions are shiny, smooth and plaque-free; root lesions are active if soft or leathery (Kidd and Fejerskov, 2016). Kidd and Fejerskov prefer Nyvad because it links directly to treatment.
 
 ### 4.3 Radiographs
 
 - **Bitewings** detect approximal and occlusal dentine lesions. Sensitivity is about **0.2-0.3** for enamel lesions and **0.4-0.6** for dentine or cavitated lesions; specificity about **0.9** (Schwendicke and Göstemeyer, 2019).
 - About **25% mineral loss** is needed before radiolucency appears; over half of lesions in outer dentine are still **non-cavitated** (Ritter et al, 2019).
-- Radiographs **cannot show activity** (Kidd and Fejerskov, 2016) or cavitation (Amaechi et al, 2013); use film holders for comparable serial views.
+- Radiographs **cannot show activity** (Kidd and Fejerskov, 2016) or cavitation (Amaechi et al, 2013).
 - **Digital radiography** is as accurate as film with less dose (Amaechi et al, 2013).
 - Interval by risk: high-risk adults every **6-12 months** (Ritter et al, 2019).
 
@@ -183,17 +179,17 @@ Conventional methods have low sensitivity (20-30%) for early change (Kim, 2019).
 | Amaechi et al (2013) | Claims not tested in controlled clinical trials; useful mainly for longitudinal monitoring |
 | Neuhaus and Lussi (2019) | Clinical trial evidence now supports DIAGNOdent in primary care |
 
-The rationale for caution is that each added test raises false positives. Because restoration is irreversible, a **highly specific** test is preferred (Ritter et al, 2019).
+Because restoration is irreversible, a **highly specific** test is preferred (Ritter et al, 2019).
 
 ### 4.6 Caries activity tests
 
-Lactobacillus count, Snyder, Alban, salivary reductase, mutans counts, and salivary flow and buffer measure individual susceptibility (Sikri, 2020). Bacterial tests add little to risk prediction, and are useful mainly for motivation (Ritter et al, 2019); salivary flow testing is indicated in suspected hyposalivation.
+Lactobacillus count, Snyder, Alban and salivary reductase tests estimate susceptibility (Sikri, 2020), but bacterial tests add little to risk prediction beyond motivation (Ritter et al, 2019).
 
 ## 5. Treatment planning
 
 ### 5.1 Caries risk assessment
 
-Treatment is planned at two levels: the **patient** (risk) and the **lesion** (activity, cavitation). Risk assessment replaces the surgical model with a **medical model** (Ritter et al, 2019).
+Planning works at two levels, **patient risk** and **lesion activity**, in a **medical model** of care (Ritter et al, 2019).
 
 - **Risk factor:** environmental, behavioural or biological factor that directly increases the probability of disease (diet, low fluoride, hyposalivation, plaque, appliances, deep fissures, low socio-economic status).
 - **Risk indicator:** sign of past or present disease (cavities, white or brown spots, restorations in the past 3 years).
@@ -233,7 +229,7 @@ The treatment plan is a sequenced series of services that controls aetiology, re
 
 ## 6. Conclusion
 
-Epidemiology shows caries declining but skewed, lifelong and socially patterned; the DMF index undercounts early disease. Prevention rests on daily biofilm disruption with fluoride toothpaste, sensible sugar control, targeted professional fluoride and sealants. Diagnosis must assess activity and cavitation, using visual criteria first, bitewings for approximal surfaces, and newer devices as adjuncts. Treatment planning then follows risk and lesion activity, restoring only what cannot be controlled.
+Caries is declining but skewed, lifelong and socially patterned, and DMF undercounts early disease. Prevention rests on fluoride toothpaste, sugar control, targeted fluoride and sealants; diagnosis assesses activity and cavitation visually, with bitewings and devices as adjuncts; treatment follows risk, restoring only what cannot be controlled.
 
 ## References
 

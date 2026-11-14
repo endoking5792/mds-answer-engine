@@ -1,0 +1,249 @@
+# Internal answer audit — Q02 Epidemiology, prevention, diagnosis and treatment planning of dental caries (75m)
+
+**Student-facing answer:** `canonical/Q02_Epidemiology_Prevention_Diagnosis_and_Treatment_Planning_of_Dental_Caries_75m_CANONICAL.md`
+
+**Last updated:** 2026-11-14
+**Audit owner:** caries_diagnosis_treatment_planning parallel drafter (Q02/Q08)
+
+> Internal working record only. Do not publish this file to the student-facing Answer Bank.
+
+## Retrieval record
+
+- **Sources consulted:** Kidd and Fejerskov, Essentials of Dental Caries 4th ed (OUP 2016; authored book) Ch.1-4 and Ch.8 (caries epidemiology); Sturdevant 2e South Asia (Ritter, Boushell, Walter eds; chapter authors not printed) Ch.2 (caries etiology, risk, prevention, PDF 44-92) and Ch.3 (examination, diagnosis, treatment planning, PDF 105-128); Summitt's 4e (2013) Ch.5 Amaechi, van Amerongen, van Loveren and Kidd (PDF 207-242); Torres, Modern Operative Dentistry (2020) Ch.16 Borges, Torres and Schlueter (PDF 637-640); Sikri, Textbook of Conservative and Restorative Dentistry (2020) Ch.3 (theories, factors, PDF 51-66) and Ch.6 (caries activity tests, PDF 119-121); Detection and Assessment of Dental Caries (Ferreira Zandona, Longbottom eds, 2019) Ch.6 Ekstrand and Braga, Ch.8 Leal, Ribeiro and Hilgert, Ch.11 Schwendicke and Göstemeyer, Ch.14 Hogan, Pretty and Ellwood, Ch.15 Kühnisch, Ch.16 Kim, Ch.17 Neuhaus and Lussi, Ch.20 Fried, Ch.21 Yanıkoğlu and Tağtekin, Ch.23 Fontana and Huysmans.
+- **Existing evidence reused:** none from other drafters; offsets for Sturdevant (19) and Sikri (19) agree with earlier topics.
+- **New retrieval performed:** grep across the Operative/Materials library for DMF, prevalence, primary prevention, chemoparasitic/proteolysis, Snyder; chapters then read in full or in the relevant sections.
+- **Live literature search:** no; textbooks sufficient.
+- **Limitations:** Sturdevant SA edition prints no chapter authors (editors cited); SA adaptation copyright 2018, original 7e 2019 (2019 used, as in earlier topics). Summitt file has no printed page numbers (offset None). Detection book Part IV title ("methods in the making", PDF 186) not cited separately.
+
+## Source locator ledger
+
+<!--LOC: q02_kd_def, q02_st_def, q02_kd_biofilm, q02_kd_ms, q02_st_cph, q02_st_freq, q02_st_sal, q02_kd_epi, q02_kd_prev, q02_kd_inc, q02_kd_dmf, q02_kd_148, q02_kd_88, q02_kd_d14, q02_kd_12, q02_kd_seal, q02_kd_who, q02_ca_who, q02_ca_fill, q02_ca_pufa, q02_ca_cast, q02_kd_teeth, q02_kd_surf, q02_kd_skew, q02_kd_age, q02_kd_sex, q02_kd_ses, q02_kd_lic, q02_kd_gene, q02_kd_weu, q02_kd_ind, q02_kd_sau, q02_kd_90, q02_kd_burden, q02_kd_cohort, q02_su_ses, q02_su_prog, q02_su_4y, q02_su_basel1, q02_su_basel2, q02_bo_decl, q02_bo_levels, q02_bo_prim, q02_bo_sec, q02_bo_ter, q02_bo_evid, q02_kd_control, q02_kd_corner, q02_kd_1000, q02_kd_twice, q02_kd_1450, q02_kd_rinse, q02_bo_2min, q02_bo_tech, q02_st_3x, q02_st_krasse, q02_st_fevid, q02_kd_old, q02_kd_mech, q02_su_post, q02_st_fap, q02_st_gtf, q02_kd_dean, q02_st_07, q02_st_t_water, q02_kd_50, q02_kd_15, q02_kd_passive, q02_kd_tab, q02_kd_salt, q02_kd_add, q02_st_t_vrn, q02_st_t_apf, q02_st_t_sdf, q02_st_v3, q02_st_v6, q02_st_vlow, q02_st_hdr, q02_st_ldr, q02_st_5000, q02_kd_tox, q02_kd_sugar, q02_kd_25g, q02_bo_10, q02_bo_57, q02_st_diary, q02_su_snack, q02_bo_xyl, q02_kd_xyl, q02_st_xyl, q02_st_sealmech, q02_st_seal1, q02_st_seal2, q02_st_etch, q02_st_lc, q02_st_infil, q02_st_chx, q02_st_cpp, q02_st_pro, q02_kd_det, q02_kd_diag, q02_su_dd, q02_kd_probe, q02_st_cpitn, q02_st_stick, q02_kd_ic0, q02_kd_ic1, q02_kd_ic2, q02_kd_ic3, q02_kd_ic4, q02_kd_ic5, q02_kd_ic6, q02_ic_two, q02_ic_95, q02_ic_84, q02_kd_nyact, q02_kd_nyina, q02_bw_sens1, q02_bw_sens2, q02_bw_spec, q02_st_25, q02_st_half, q02_kd_rxact, q02_su_cav, q02_su_dig, q02_st_bw612, q02_kd_sep, q02_kd_foti, q02_fo_dark, q02_fo_sens, q02_ql_low, q02_ql_both, q02_ql_405, q02_ql_dF, q02_dd_655, q02_dd_porph, q02_dd_99, q02_dd_second, q02_dd_evid, q02_dd_sec, q02_st_fp, q02_ni_780, q02_ni_xfree, q02_st_spec, q02_st_acist, q02_oc_def, q02_us_18, q02_st_notest, q02_kd_research, q02_su_trials, q02_st_soc, q02_st_spfc, q02_sk_cat, q02_sk_snyder, q02_st_bact, q02_st_rf, q02_st_ri, q02_st_past, q02_st_3y, q02_st_cario, q02_st_iccms, q02_st_med, q02_su_pred, q02_st_r3, q02_st_r46, q02_st_r912, q02_kd_green, q02_kd_red, q02_cd_crit, q02_cd_arr, q02_cd_nca, q02_cd_cav, q02_kd_doubt, q02_kd_benefit, q02_st_tp, q02_st_noint, q02_st_phases, q02_st_op, q02_st_life, q02_st_cycle, q02_st_low912, q02_st_hi34, q02_su_pccm, q02_kd_32, q02_kd_lat, q02_kd_eeu, q02_st_1450-->
+
+<!--CHECK-->Checked by build_audit.py: LOC keys 187, missing 0; quotes not found 0; answer body 2868 words (calibration 2550-3000 for 75m); cited surnames not in references: none; body numbers without a locator: ['2.1', '2.2', '2.3', '3.1', '3.2', '3.4', '3.5', '3.6', '3.7', '4.1', '4.2', '4.3', '4.4', '4.5', '4.6', '5.1', '5.2', '5.3', '75'].<!--/CHECK-->
+
+The table below is generated by `python3 build_audit.py audit/<this file>`; do not edit it by hand.
+
+<!--LEDGER START-->
+| # | Source (in-text citation) | Chapter file | PDF page (printed page) | Verbatim locator phrase | Status |
+|---|---|---|---|---|---|
+| 1 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.19 (printed p.6) | "It is a localized, chemical dissolution of a tooth surface brought about by metabolic activity in a microbial deposit (a dental biofilm)" | Verified |
+| 2 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.44 (printed p.25) | "This multifactorial, oral disease is caused primarily by an imbalance of the oral flora (biofilm)" | Verified |
+| 3 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.50 (printed p.37) | "caries being a biofilm induced disease" | Verified |
+| 4 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.48 (printed p.35) | "Mutans streptococci are part of the resident flora, but are in very low numbers in most caries free individuals" | Verified |
+| 5 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.46 (printed p.27) | "below a critical level (5.5 for enamel, 6.2 for dentin)" | Verified |
+| 6 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.53 (printed p.34) | "Caries activity is most strongly stimulated by the frequency, rather than the quantity, of sucrose ingested" | Verified |
+| 7 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.54 (printed p.35) | "Primary buffer: bicarbonate ion concentration" | Verified |
+| 8 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.181 (printed p.168) | "epidemiology is the study of the distribution (how often) various diseases occur and why they appear in well-defined populations" | Verified |
+| 9 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.185 (printed p.172) | "Prevalence is the number of individuals in a given age group who at a specified time have experienced one or more caries lesions given as percentage" | Verified |
+| 10 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.186 (printed p.173) | "incidence, which is the number of new caries lesions developed in a given time period in the specified population" | Verified |
+| 11 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.183 (printed p.170) | "The index of measurement of caries is the DMFT/S index" | Verified |
+| 12 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.184 (printed p.171) | "This makes a total of 148 surfaces" | Verified |
+| 13 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.184 (printed p.171) | "In the primary dentition data can be derived from 20 teeth or 88 surfaces if defs is to be used" | Verified |
+| 14 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.184 (printed p.171) | "D1 indicates an enamel lesion, D2 a lesion with a cavity in enamel, D3 a lesion with a cavity into dentine, and D4 a lesion judged to be into pulp" | Verified |
+| 15 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.184 (printed p.171) | "A score of 12 DMFT may reflect an individual with 12 open cavities, or with 12 fillings and no untreated lesions" | Verified |
+| 16 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.184 (printed p.171) | "Sealants are not recorded, and composite and resin restorations may be difficult to detect" | Verified |
+| 17 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.182 (printed p.169) | "Data from the World Health Organization (WHO data bank) do not report on the pre-cavitated stages of dental caries" | Verified |
+| 18 | Leal, Ribeiro and Hilgert, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.72 (printed p.69) | "which only assesses the presence of a dentin cavity and which expresses the findings in a dmf/DMF count" | Verified |
+| 19 | Leal, Ribeiro and Hilgert, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.78 (printed p.75) | "the index considers a restored tooth as a diseased tooth" | Verified |
+| 20 | Leal, Ribeiro and Hilgert, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.73 (printed p.70) | "The first index developed to assess the consequences of the severe stages of carious lesions was pufa/PUFA" | Verified |
+| 21 | Leal, Ribeiro and Hilgert, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.73 (printed p.70) | "CAST was developed as an epidemiological instrument that includes the total spectrum of dental caries" | Verified |
+| 22 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.188 (printed p.175) | "In the permanent dentition, the first and second molars are the most caries susceptible, followed by the premolars. Lower anterior teeth are the least susceptible" | Verified |
+| 23 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.188 (printed p.175) | "The most caries prone surfaces are the pits and fissures followed by the approximal surfaces" | Verified |
+| 24 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.188 (printed p.175) | "The caries distribution within the population will, as a result, become more and more skewed" | Verified |
+| 25 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.189 (printed p.176) | "the caries experience in a population increases with age" | Verified |
+| 26 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.190 (printed p.177) | "In general, females tend to have more caries experience than males" | Verified |
+| 27 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.190 (printed p.177) | "there is a clear relationship between poverty status, and educational attainment and dental caries experience" | Verified |
+| 28 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.190 (printed p.177) | "in low-income countries the reverse pattern may be seen with good examples being Vietnam and Kenya" | Verified |
+| 29 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.190 (printed p.177) | "There is no evidence to support inheritance as a factor explaining the disparity in caries prevalence" | Verified |
+| 30 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.192 (printed p.179) | "Western European countries are generally below 1" | Verified |
+| 31 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.192 (printed p.179) | "with the Philippines and India having from 3 to 4 D3MFT" | Verified |
+| 32 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.192 (printed p.179) | "Saudi Arabia, which hits the roof with a D3MFT of almost 6 by the age of 12 years" | Verified |
+| 33 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.107 (printed p.94) | "in many European countries caries prevalence and incidence has fallen amongst children by as much as 90%" | Verified |
+| 34 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.183 (printed p.170) | "in the last 20 years this great burden has remained fairly unchanged" | Verified |
+| 35 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.188 (printed p.175) | "the caries level at one age in a cohort of children will predict the caries level of that cohort at a later age" | Verified |
+| 36 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.216 | "dental caries is more prevalent in lower socioeconomic categories" | Verified |
+| 37 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.220 | "the decline in caries prevalence has been accompanied by a decline in caries lesion progression rates" | Verified |
+| 38 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.219 | "it takes an average of 4 years for caries lesions to progress through the proximal enamel of permanent teeth" | Verified |
+| 39 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.212 | "the number of caries-free children rose only from approximately 3% to 15%" | Verified |
+| 40 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.212 | "the number of caries-free children rose from approximately 7% to more than 50%" | Verified |
+| 41 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "Even if we have a decline in caries in most industrialized countries" | Verified |
+| 42 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "The preventive strategies are traditionally divided into primary, secondary, and tertiary preventive measures" | Verified |
+| 43 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "The primary strategies aim to reduce the number of new cases of a disease" | Verified |
+| 44 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "which aim to early detect a disease, preferably at a stage at which the disease can be reversed or even healed" | Verified |
+| 45 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "This includes extended fissure sealing, minimally invasive approaches" | Verified |
+| 46 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.638 (printed p.632) | "Most evidence for these measures exists for fluorides, followed by oral hygiene advices and least for nutrition" | Verified |
+| 47 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.88 (printed p.75) | "the preferred term is caries control, rather than prevention" | Verified |
+| 48 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.89 (printed p.76) | "plaque control is the cornerstone of non-operative treatment" | Verified |
+| 49 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.89 (printed p.76) | "Fluoride-containing toothpaste should be selected with fluoride content never less than 1000 ppm F" | Verified |
+| 50 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.90 (printed p.77) | "Brush twice daily, last thing at night and at one other time each day" | Verified |
+| 51 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.90 (printed p.77) | "From about 3 years onwards, the family fluoride toothpaste (1350–1500 ppm fluoride) is indicated" | Verified |
+| 52 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.90 (printed p.77) | "Rinsing with water after brushing should be discouraged in order to maximize the topical effect of the fluoride" | Verified |
+| 53 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.640 (printed p.634) | "Brushing teeth two times per day for two minutes each is effective for preventive caries" | Verified |
+| 54 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.640 (printed p.634) | "none of the mentioned techniques is superior to another" | Verified |
+| 55 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.84 (printed p.65) | "Routine use of over-the-counter fluoride containing dentifrice 3 times per day is recommended for all patients" | Verified |
+| 56 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.81 (printed p.62) | "the school receiving preventive counselling had an average of 3.3 new restorations, whereas the control school children, who received no counselling, averaged 8.2 new restorations" | Verified |
+| 57 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.81 (printed p.62) | "The highest level of evidence for caries prevention and reduction supports the exposure of teeth to fluoride" | Verified |
+| 58 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.105 (printed p.92) | "Prior to 1980 it was believed that fluoride exerted its cariostatic effect by being incorporated into the enamel during tooth formation" | Verified |
+| 59 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.106 (printed p.93) | "Fluoride exerts its clinical caries preventive effect by being present in the oral fluids during the dynamic inorganic chemical processes" | Verified |
+| 60 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.212 | "posteruptive use of fluoride is far more protective against caries" | Verified |
+| 61 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.82 (printed p.63) | "the presence of fluoride ion greatly enhances the precipitation into tooth structure of fluorapatite" | Verified |
+| 62 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.82 (printed p.63) | "In low concentrations, fluoride ion inhibits the enzymatic production of glucosyltransferase" | Verified |
+| 63 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.98 (printed p.85) | "amounts not exceeding one part per million (ppm) expressed in terms of fluorine (F) were of no public health significance" | Verified |
+| 64 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.82 (printed p.63) | "The optimal fluoride level for public water systems is 0.7 ppm of fluoride" | Verified |
+| 65 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.83 (printed p.64) | "Public water supply 0.7 50–60" | Verified |
+| 66 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.108 (printed p.95) | "For many years, it was about a 50% reduction" | Verified |
+| 67 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.108 (printed p.95) | "the difference between populations with or without water fluoridation has diminished to about 15%" | Verified |
+| 68 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.108 (printed p.95) | "public water fluoridation is the most cost-effective way of obtaining a caries reduction to everyone in a society in a passive way" | Verified |
+| 69 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.108 (printed p.95) | "These have limited, if any, role to play" | Verified |
+| 70 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.108 (printed p.95) | "This should not be recommended. Increased consumption of salt should not be encouraged" | Verified |
+| 71 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.109 (printed p.96) | "additional caries reductions may be obtained if other topically-applied fluoride treatments (for example, varnishes) are combined with fluoride toothpaste" | Verified |
+| 72 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.83 (printed p.64) | "Sodium fluoride varnish (5%) 22,500 30" | Verified |
+| 73 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.83 (printed p.64) | "Acidulated phosphate fluoride gel (1.23%) annually or semiannually 12,300 40–50" | Verified |
+| 74 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.83 (printed p.64) | "SDF (38%) 44,800" | Verified |
+| 75 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.82 (printed p.63) | "For high-risk patients of caries, fluoride varnish should be applied every 3 months" | Verified |
+| 76 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.82 (printed p.63) | "For moderate-risk patients, application every 6 months is indicated" | Verified |
+| 77 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.83 (printed p.64) | "Fluoride varnish is not indicated for low-risk patients" | Verified |
+| 78 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.84 (printed p.65) | "High dose (0.2% F)—low-frequency rinses" | Verified |
+| 79 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.84 (printed p.65) | "Low dose (0.05% F)—high-frequency rinses" | Verified |
+| 80 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.84 (printed p.65) | "These products typically contain 1.1% sodium fluoride (5000 ppm)" | Verified |
+| 81 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.110 (printed p.97) | "The acute lethal dose is approximately 15 mg/kg body weight, although as little as 5 mg/kg may kill some children" | Verified |
+| 82 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.111 (printed p.98) | "The evidence that the frequency and amount of sugar consumption is linked to caries is irrefutable" | Verified |
+| 83 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.114 (printed p.101) | "this equates to around six teaspoons of sugar (25 g) per day" | Verified |
+| 84 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.639 (printed p.633) | "reducing the sugar consumption to a maximum of 10% of the total calorie intake" | Verified |
+| 85 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.639 (printed p.633) | "if the plaque pH does not sink below 5.7 within 30 min after consumption" | Verified |
+| 86 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.79 (printed p.60) | "consists usually of a 5- to 7-consecutive-day period with 2 days surveyed being weekend days" | Verified |
+| 87 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.213 | "To snack in moderation, limited to 3 or 4 snacks a day, is the only wise recommendation" | Verified |
+| 88 | Borges, Torres and Schlueter, 2020 | Modern_Operative_Dentistry.md | PDF p.639 (printed p.633) | "There are several studies dealing with xylitol, all showing a caries-reducing effect of this sugar alcohol" | Verified |
+| 89 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.59 (printed p.46) | "claims of a caries-preventive effect for xylitol are so far not substantiated" | Verified |
+| 90 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.91 (printed p.72) | "The evidence supporting the use of xylitol products for the purpose of caries reduction in both adults and children is very weak" | Verified |
+| 91 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.85 (printed p.66) | "sealants mechanically fill pits and fissures with a resin-based polymer" | Verified |
+| 92 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.86 (printed p.67) | "Caries-free pits and fissures" | Verified |
+| 93 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.86 (printed p.67) | "Incipient lesions in enamel not extending to the DEJ" | Verified |
+| 94 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.87 (printed p.68) | "etched with 37% phosphoric acid gel for 15–30 s" | Verified |
+| 95 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.87 (printed p.68) | "The sealant is light-activated for 15 s" | Verified |
+| 96 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.87 (printed p.68) | "extremely low-viscosity resin sealants for the infiltration of white-spot caries lesions on smooth surfaces" | Verified |
+| 97 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.91 (printed p.72) | "CHX currently has very limited application as a regularly used caries management antimicrobial agent" | Verified |
+| 98 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.92 (printed p.73) | "most of these studies have not looked at its effect independent of fluoride" | Verified |
+| 99 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.92 (printed p.73) | "their relative level of efficacy remains unknown" | Verified |
+| 100 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.61 (printed p.48) | "Is a lesion present? This is detection of the lesion" | Verified |
+| 101 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.61 (printed p.48) | "adding the aspect of activity to detection, is diagnosis" | Verified |
+| 102 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.220 | "detection only describes the clinical signs of caries, diagnosis tries to estimate the dynamics and determinants of the process" | Verified |
+| 103 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.64 (printed p.51) | "Sharp probes should never be used" | Verified |
+| 104 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.107 (printed p.88) | "The recommended instrument for assessment of surface roughness is the Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip" | Verified |
+| 105 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.107 (printed p.88) | "It cannot be overemphasized that the explorer must not be used to determine a" | Verified |
+| 106 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Sound after air drying for 5 seconds" | Verified |
+| 107 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Opacity or discolouration is hardly visible on a wet surface but distinctly visible after air drying for 5 seconds" | Verified |
+| 108 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Opacity or discolouration is distinctly visible without drying" | Verified |
+| 109 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Localized enamel breakdown in opaque or discoloured enamel" | Verified |
+| 110 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Underlying dark shadow from dentine" | Verified |
+| 111 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Cavitation in opaque or discoloured enamel exposing dentine" | Verified |
+| 112 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.70 (printed p.57) | "Extensive distinct cavity with visible dentine" | Verified |
+| 113 | Ekstrand and Braga, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.51 (printed p.46) | "Detection wise, it is a two-digit scoring system" | Verified |
+| 114 | Ekstrand and Braga, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.51 (printed p.46) | "if a surface is scored ICDAS 0 (sound), 95% of them are actually histological without demineralization" | Verified |
+| 115 | Ekstrand and Braga, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.51 (printed p.46) | "the overall majority of ICDAS score 5 and 6 lesions (84%) shows histologically demineralization in the inner 1/3 of the dentin" | Verified |
+| 116 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.66 (printed p.53) | "Active, non-cavitated lesions, are plaque covered, often close to an inflamed gingival margin, and have a matt appearance" | Verified |
+| 117 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.66 (printed p.53) | "These lesions have a plaque-free, shiny, lustrous surface" | Verified |
+| 118 | Schwendicke and Göstemeyer, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.111 (printed p.110) | "bitewing radiography has a sensitivity of around 0.2–0.3 for early lesions" | Verified |
+| 119 | Schwendicke and Göstemeyer, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.111 (printed p.110) | "sensitivity increases to 0.4–0.6 for more advanced (dentin) lesions or even cavitated lesions" | Verified |
+| 120 | Schwendicke and Göstemeyer, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.111 (printed p.110) | "The specificity is around or above 0.9" | Verified |
+| 121 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.112 (printed p.93) | "approximately 25% mineral loss has to occur before a radiolucency begins to appear on a radiograph" | Verified |
+| 122 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.112 (printed p.93) | "over half of radiographically detected proximal lesions (in the outer half of dentine) are likely to be non-cavitated" | Verified |
+| 123 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.82 (printed p.69) | "Remember the radiograph cannot diagnose activity" | Verified |
+| 124 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.230 | "the bitewing radiograph still cannot distinguish between cavitated and noncavitated proximal lesions" | Verified |
+| 125 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.231 | "digital intraoral radiographs appear to be as accurate as film radiographs for the detection of dental caries" | Verified |
+| 126 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "Bitewing radiographs every 6–12 months" | Verified |
+| 127 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.80 (printed p.67) | "After a few days the teeth are separated" | Verified |
+| 128 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.79 (printed p.66) | "fibre optic lights, with the beam reduced to 0.5 mm in diameter" | Verified |
+| 129 | Hogan, Pretty and Ellwood, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.139 (printed p.139) | "when light is shone through the tooth, light is backscattered into the tooth so areas of porosity appear dark on a lighter background" | Verified |
+| 130 | Hogan, Pretty and Ellwood, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.140 (printed p.140) | "A recent systematic review found sensitivity scores of 21–96% and specificity scores of 74–88%" | Verified |
+| 131 | Kim, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.160 (printed p.160) | "these methods show low sensitivities of 20–30% in detecting minute changes in early caries" | Verified |
+| 132 | Kim, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.159 (printed p.159) | "The QLF technology can measure both the mineral content as a fluorescence loss and bacterial activity as a red fluorescence simultaneously" | Verified |
+| 133 | Kim, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.161 (printed p.161) | "blue visible light with a wavelength of 405 nm induces fluorescence within the tooth structure" | Verified |
+| 134 | Kim, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.160 (printed p.160) | "delta F (ΔF), which represents the lesion depth" | Verified |
+| 135 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.171 (printed p.171) | "Both devices operate at a wavelength of 655 nm" | Verified |
+| 136 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.171 (printed p.171) | "induces fluorescence of bacterial porphyrins" | Verified |
+| 137 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.172 (printed p.172) | "a digital value between 0 and 99" | Verified |
+| 138 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.171 (printed p.171) | "DIAGNOdent has been intended to act as a second opinion device" | Verified |
+| 139 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.172 (printed p.172) | "sufficient body of evidence gained from clinical trials that supports the device" | Verified |
+| 140 | Neuhaus and Lussi, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.173 (printed p.173) | "For secondary caries detection, there is evidence that DIAGNOdent is not helpful" | Verified |
+| 141 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.114 (printed p.95) | "the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method" | Verified |
+| 142 | Kühnisch, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.151 (printed p.151) | "emits near-infrared light with a wavelength of ~780 nm" | Verified |
+| 143 | Kühnisch, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.151 (printed p.151) | "novel X-ray-free imaging method for caries detection" | Verified |
+| 144 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.115 (printed p.96) | "healthy enamel fluoresces to appear green" | Verified |
+| 145 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.114 (printed p.95) | "alternating current (AC) impedance spectroscopy (ACIST)" | Verified |
+| 146 | Fried, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.196 (printed p.199) | "Optical coherence tomography (OCT) is a noninvasive technique for creating cross-sectional images of internal biological structure" | Verified |
+| 147 | Yanıkoğlu and Tağtekin, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.207 (printed p.210) | "high-frequency pulse-echo ultrasound waves (18 MHz) can distinguish an intact and demineralized enamel surface" | Verified |
+| 148 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.114 (printed p.95) | "their diagnostic accuracy has not been firmly established" | Verified |
+| 149 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.84 (printed p.71) | "So far they only have research interest as they do not enable the dentist to make a final treatment decision" | Verified |
+| 150 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.232 | "These claims have not been evaluated using controlled clinical trials" | Verified |
+| 151 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.115 (printed p.96) | "The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated" | Verified |
+| 152 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.121 (printed p.102) | "a highly specific test (i.e. few false positives [cell B]) means that fewer healthy teeth will be incorrectly treated" | Verified |
+| 153 | Sikri, 2020 | Textbook_of_Conservative_and_Restorative_Dentistry | PDF p.120 (printed p.101) | "Caries activity tests are primarily undertaken to evaluate the susceptibility of the individual towards caries" | Verified |
+| 154 | Sikri, 2020 | Textbook_of_Conservative_and_Restorative_Dentistry | PDF p.121 (printed p.102) | "Snyder introduced a relatively simple colorimetric test for the estimation of relative number of lactobacilli in the saliva" | Verified |
+| 155 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "Use of supplemental tests to analyse the bacterial component of the biofilm has little value to determine the" | Verified |
+| 156 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.74 (printed p.55) | "A risk factor is defined as an environmental, behavioural or biologic factor that directly increases the probability that a disease will occur" | Verified |
+| 157 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.74 (printed p.55) | "Risk indicators may refer to existing signs of the disease process" | Verified |
+| 158 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.76 (printed p.57) | "Past caries experience is the best predictor of future caries activity" | Verified |
+| 159 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.76 (printed p.57) | "Restorations placed in the past 3 years" | Verified |
+| 160 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.75 (printed p.56) | "Another caries risk assessment method that has been validated for children is the Cariogram" | Verified |
+| 161 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.75 (printed p.56) | "has endeavoured to merge caries detection and assessment with an individualized management plan" | Verified |
+| 162 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.74 (printed p.55) | "The medical model looks at individualized caries risk assessments" | Verified |
+| 163 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.218 | "The sensitivity and specificity of the predictors varied from 0.60 to 0.80" | Verified |
+| 164 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "3-Month re-care examination and oral prophylaxis" | Verified |
+| 165 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "4–6-Month re-care examination and oral prophylaxis" | Verified |
+| 166 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "9–12-Month re-care examination and oral prophylaxis" | Verified |
+| 167 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.86 (printed p.73) | "Caries controlled (green)" | Verified |
+| 168 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.86 (printed p.73) | "Caries control insufficient—active lesions and some risk factors cannot be changed or appear to be unidentified (red)" | Verified |
+| 169 | Fontana and Huysmans, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.227 (printed p.231) | "Lesion cavitation (b) Level of cleansability (c) Lesion activity" | Verified |
+| 170 | Fontana and Huysmans, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.227 (printed p.231) | "Arrested caries lesions do not require caries interventions" | Verified |
+| 171 | Fontana and Huysmans, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.227 (printed p.231) | "Non-cavitated active lesions should be treated using evidence-based non-restorative methods" | Verified |
+| 172 | Fontana and Huysmans, 2019 | Detection_and_Assessment_of_Dental_Caries.md | PDF p.227 (printed p.231) | "Most cavitated lesions are non-cleansable, and thus active" | Verified |
+| 173 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.86 (printed p.73) | "If in doubt whether a non-cavitated lesion is active, judge it as active and institute non-operative caries control measures" | Verified |
+| 174 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.86 (printed p.73) | "give the lesion the benefit of the doubt" | Verified |
+| 175 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.122 (printed p.103) | "The treatment plan is a carefully sequenced series of services designed to eliminate or control aetiologic factors" | Verified |
+| 176 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.122 (printed p.103) | "One option that must always be included is recommend that there not be any intervention" | Verified |
+| 177 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.123 (printed p.104) | "urgent phase, II. control phase, III. re-evaluation phase, IV. definitive phase, and V. maintenance phase" | Verified |
+| 178 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.123 (printed p.104) | "cavitation of the enamel or demineralization penetrating into the dentine on coronal surfaces is present" | Verified |
+| 179 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.123 (printed p.104) | "the average lifespan of a restoration ranges from 5 to more than 15 years" | Verified |
+| 180 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.123 (printed p.104) | "what has been termed the cycle of re-restoration" | Verified |
+| 181 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.124 (printed p.105) | "A patient with a low-risk profile may have longer intervals (e.g. 9–12 months)" | Verified |
+| 182 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.124 (printed p.105) | "patients at high-risk profile should be recalled and examined much more frequently (e.g. 3–4 months)" | Verified |
+| 183 | Amaechi et al, 2013 | Summitts_Fundamentals_of_Operative_Dentistry.md | PDF p.208 | "patient-centered caries management (PCCM), is recommended" | Verified |
+| 184 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.183 (printed p.170) | "data can be derived from 32 teeth (DMFT)" | Verified |
+| 185 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.192 (printed p.179) | "Also Latin and South American countries have a fairly high level from 1.5 to 5 D3MFT" | Verified |
+| 186 | Kidd and Fejerskov, 2016 | Essentials_of_Dental_Caries_4th.md | PDF p.192 (printed p.179) | "The highest levels are generally seen in Eastern European countries varying from 2-5 D3MFT" | Verified |
+| 187 | Ritter et al, 2019 | Sturdevants_Art_and_Science_of_Operative_Dentistry | PDF p.77 (printed p.58) | "Brush with fluoride dentifrice (e.g. 1450 ppm fluoride)" | Verified |
+<!--LEDGER END-->
+
+Keep quotations short and only as long as needed to locate the source. Never copy textbook passages into this report.
+
+## Evidence and uncertainty notes
+
+- **[RECALL] / unverified:** none.
+- **Interpretation / synthesis:** the "modern consensus is predominantly topical" sentence on fluoride, "each added test raises false positives" (paraphrases Kidd and Fejerskov's point on multiple techniques), the flowchart cue, and the conclusion are reasoning, not cited facts. CAMBRA risk table merges Sturdevant Table 2.10 (adults).
+- **Conflicting sources (shown side by side in the answer):** (1) fluoride mechanism — Kidd and Fejerskov topical/oral fluids; Amaechi et al post-eruptive; Ritter et al fluorapatite + remineralisation + antibacterial; Sikri pre-eruptive incorporation. (2) Water fluoride level — Dean 1 ppm (Kidd and Fejerskov) vs 0.7 ppm (Ritter et al); effect 50-60% (Ritter et al) vs 50% falling to 15% (Kidd and Fejerskov) — explained as era difference. (3) Brushing twice daily (Kidd and Fejerskov; Borges et al) vs three times (Ritter et al). (4) Xylitol — Borges et al positive; Kidd and Fejerskov unsubstantiated; Ritter et al very weak. (5) Heredity — Kidd and Fejerskov no evidence vs Sikri genetic theory. (6) Value of fluorescence and other devices — Kidd and Fejerskov research only; Ritter et al not established; Amaechi et al untested in RCTs; Neuhaus and Lussi trial evidence supports DIAGNOdent. Not used in answer: Sikri states the critical pH as 5 (PDF 55) and 5.5 (PDF 60) — internal inconsistency; Sikri calls caries a bacterial infection, Kidd and Fejerskov reject the infectious model (answer gives Kidd and Fejerskov's view in the introduction).
+- **Numerical claims:** all numbers are in LOC phrases (critical pH q02_st_cph; 148/88 q02_kd_148/88; D3MFT data q02_kd_weu/ind/sau and Eastern Europe 2-5, Latin America 1.5-5 from the same Kidd page, PDF 192; 90% q02_kd_90; 4 years q02_su_4y; 1000/1350-1500 ppm q02_kd_1000/1450; 3.3/8.2 q02_st_krasse; fluoride table q02_st_t_*, q02_st_07, q02_kd_50/15/dean; varnish intervals q02_st_v3/v6; 15 and 5 mg/kg q02_kd_tox; 5%/25 g q02_kd_25g; 10% q02_bo_10; 5.7/30 q02_bo_57; diet diary q02_st_diary; Basel q02_su_basel1/2; 37%, 15-30 s, 15 s q02_st_etch/lc; ICDAS q02_kd_ic0-6, 95%/84% q02_ic_95/84; bitewing sensitivity q02_bw_*; 25% q02_st_25; FOTI q02_fo_sens; 20-30% q02_ql_low; 405/655/780 nm, 0-99 q02_ql_405, q02_dd_655/99, q02_ni_780; 18 MHz q02_us_18; predictor 0.60-0.80 q02_su_pred; recall intervals q02_st_r3/r46/r912, q02_st_low912/hi34; restoration lifespan q02_st_life; Spectra 0-5 scale and Krasse 18 months from Sturdevant PDF 115 / PDF 81 (same pages as q02_st_spec / q02_st_krasse); APF 12,300, SDF 38% q02_st_t_apf/t_sdf; 5000 ppm/1.1% q02_st_5000; 0.2%/0.05% rinses q02_st_hdr/ldr; Krasse "18 months" and Spectra "0-5" sit on the same pages as cited locators.
+- **Literature evidence:** none.
+
+## Coverage and overlap
+
+- **Question wording / marks:** "Epidemiology, prevention, diagnosis and treatment planning of Dental caries" 75m (Jul 2017, RG PIV RS-3). Absorbs "What are the modern techniques in caries detection? How will you prevent dental caries?" 20m (Jul 2016) — covered by sections 3 and 4.5.
+- **Related questions:** Q01 (recent advances, 100m), Q03/Q05/Q07 (diagnostic methods), Q06 (caries activity tests), Q10 (treatment planning), Q11 (caries risk assessment), Q13/Q14 (QLF, laser fluorescence), Q08 (etiology and diagnosis). This answer stays at survey depth for each device.
+- **Content absorbed or deliberately omitted:** omitted for length — fluorosis TF index, CBCT, Canary system, NIR reflectance, dyes, CAST code list, AAPD/traffic-light risk tools, Sikri's detailed activity-test procedures, Childsmile/Odder programmes.
+- **Essential omissions / open points:** none.
+
+## Revision history
+
+| Date | Answer version / commit | Change | Audit action |
+|---|---|---|---|
+| 2026-11-14 | draft 1 (uncommitted) | First canonical draft | locators.py q02_ missing 0; build_audit run |
+
+## Final audit checklist
+
+- [x] Every factual author-year citation is supported by a verified source.
+- [x] Every numerical value has a traceable source.
+- [x] Chapter authors, edition, year and bibliographic details are verified or explicitly marked unknown.
+- [x] Disagreements between sources are represented accurately.
+- [x] Any [RECALL] or interpretive claim is not disguised as a sourced fact.
+- [x] The student-facing answer contains no retrieval report, source locator ledger or generation diagnostics.
+- [x] The reference list matches the in-text author-year citations.

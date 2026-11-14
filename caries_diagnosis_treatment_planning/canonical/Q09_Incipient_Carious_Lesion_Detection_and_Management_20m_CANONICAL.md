@@ -6,7 +6,7 @@
 
 ## Definition
 
-An **incipient carious lesion** (white spot, non-cavitated or initial lesion) is "the first evidence of caries activity in enamel": a chalky white opaque area seen when air-dried that seems to disappear when the tooth is wet. The surface is **hard, intact and smooth**, and the lesion may be **reversible** (Ritter et al., 2019). Essentially it is **subsurface demineralisation under an intact surface** (Mount et al., 2016), corresponding to ICDAS codes 1 and 2, the "initial" stage (Ekstrand and Braga, 2019).
+An **incipient carious lesion** (white spot, non-cavitated or initial lesion) is "the first evidence of caries activity in enamel": chalky white and opaque when air-dried, seeming to disappear when wet, with a **hard, intact, smooth** surface; it may be **reversible** (Ritter et al., 2019). It is **subsurface demineralisation under an intact surface** (Mount et al., 2016), corresponding to ICDAS codes 1 and 2, the "initial" stage (Ekstrand and Braga, 2019).
 
 ## Histopathology
 
@@ -19,7 +19,7 @@ On a smooth surface the lesion is a **cone with its apex towards the DEJ** (Sing
 | Dark zone | Pore volume 2%-4%; enlarges with remineralisation |
 | Translucent zone | Deepest; advancing front |
 
-Sturdevant numbers the zones from the surface (zone 1 = surface zone), whereas Singh numbers them from the advancing front (zone 1 = translucent zone); the zones are the same. The intact surface is a **barrier to bacterial invasion**, which is why it must never be broken by probing.
+Sturdevant numbers zones from the surface, Singh from the advancing front; the zones are the same. The intact surface is a **barrier to bacterial invasion** (Ritter et al., 2019) and must never be broken by probing.
 
 **Diagram:** cone-shaped smooth-surface lesion with surface zone, body, dark zone and translucent zone labelled from surface to DEJ.
 
@@ -29,21 +29,20 @@ Caries white spots lie in **plaque stagnation areas**, are matt and rough when d
 
 ## Detection
 
-1. **Prepare the surface:** clean, dry and well illuminated (Longbottom and Ferreira Zandona, 2019); air-dry for about **5 s** (Cortés, Martignon and Douglas, 2019).
-2. **Wet-then-dry inspection:** a lesion seen only after drying is less than halfway through enamel and may fully reverse; one seen wet is deeper and may only arrest (Amaechi et al., 2013). In ICDAS terms, 95% of code 1 lesions are confined to the outer half of enamel and 83% of code 2 lesions to the inner half of enamel or outer third of dentine (Ekstrand and Braga, 2019).
+1. **Prepare:** clean, dry, well-lit surface (Longbottom and Ferreira Zandona, 2019); air-dry about **5 s** (Cortés, Martignon and Douglas, 2019).
+2. **Wet-then-dry inspection:** a lesion seen only after drying is less than halfway through enamel and may fully reverse; one seen wet is deeper and may only arrest (Amaechi et al., 2013). Of ICDAS code 1 lesions, 95% are confined to the outer half of enamel (Ekstrand and Braga, 2019).
 3. **Gentle tactile check:** use a **CPITN probe with a 0.5 mm ball** (Ritter et al., 2019); forceful probing can irreversibly damage a non-cavitated lesion (Longbottom and Ferreira Zandona, 2019).
 4. **Proximal surfaces:** bitewings show subsurface radiolucency, confirmed by transillumination; separation for at least 24 hours allows direct inspection (Mount et al., 2016). Bitewing sensitivity for early lesions is only 0.2-0.3 (Schwendicke and Göstemeyer, 2019).
 5. **Adjuncts:** QLF and laser fluorescence give numerical readings to monitor change (Kim, 2019).
 
 ## Activity assessment
 
-**Active** lesions are matt or chalky, whitish-yellowish and rough to gentle probing, near the gingival margin; **inactive** lesions are glossy and smooth and lie away from the gingival margin (Machiulskiene, 2019). In the ICDAS points system a score above 7 means active (Ekstrand and Braga, 2019).
+**Active** lesions are matt, chalky, whitish-yellowish, rough to gentle probing and near the gingiva; **inactive** lesions are glossy, smooth and away from it (Machiulskiene, 2019). An ICDAS activity score above 7 points means active (Ekstrand and Braga, 2019).
 
 ## Principles of management
 
 - **Arrested lesions** need no intervention apart from aesthetics; **active non-cavitated lesions** need non-restorative treatment (Fontana and Huysmans, 2019).
 - Cutting a cavity in an intact lesion is "neither necessary nor ethical" (Mount et al., 2016).
-- Initial lesions progress 2-4 times more often than sound surfaces, so they must be treated, not ignored (Ekstrand and Braga, 2019).
 
 ## Management options
 
@@ -56,7 +55,7 @@ Caries white spots lie in **plaque stagnation areas**, are matt and rough when d
 
 ## Monitoring and prognosis
 
-Review at recall ("watchful waiting" with active prevention), comparing activity signs and standardised bitewings (Amaechi et al., 2013).
+Review at recall ("watchful waiting" with active prevention) using activity signs and standardised bitewings (Amaechi et al., 2013).
 
 | Source | Expected outcome |
 |---|---|
@@ -64,11 +63,11 @@ Review at recall ("watchful waiting" with active prevention), comparing activity
 | Mount et al. (2016) | Even if not fully remineralised, the sealed surface acts as a natural, permanent restoration |
 | Kidd and Fejerskov (2016) | Reversal is rare; most remain as a scar, and reversal is possible only while the lesion is active |
 
-The views are compatible: arrest is always achievable, while visible regression depends on treating the lesion early.
+Arrest is always achievable; visible regression needs early treatment.
 
 ## Conclusion
 
-The incipient lesion is the stage at which caries can still be controlled without a drill. Careful clean, dry detection, activity assessment and risk-based non-operative care preserve the intact surface and the tooth.
+The incipient lesion can be controlled without a drill: clean, dry detection, activity assessment and risk-based non-operative care preserve the intact surface.
 
 ## References
 

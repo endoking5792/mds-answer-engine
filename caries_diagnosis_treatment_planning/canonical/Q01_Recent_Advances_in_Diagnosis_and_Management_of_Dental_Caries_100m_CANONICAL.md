@@ -223,7 +223,7 @@ Kidd and Fejerskov (2016) state that complete removal risking exposure **should 
 
 Recall follows risk: **3-monthly** with varnish and bitewings every **6–12 months** for high risk, **9–12 months** for low risk (Ferreira Zandoná, Ritter and Eidson, 2019). Quantitative tools (QLF, Canary, subtraction radiography) document whether non-operative care is arresting lesions.
 
-## 11. Conclusion
+## Conclusion
 
 Recent advances have changed caries care from detecting holes to diagnosing a disease: standardised visual criteria that stage severity and activity, low-dose and non-ionising adjuncts that quantify and monitor lesions, and risk assessment that personalises care. Management follows the same logic: arrest non-cavitated lesions with fluoride, SDF, remineralising agents, sealants or infiltration, and restore cavitated lesions with minimally invasive, selective and sealed techniques.
 

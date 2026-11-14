@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**Diagnosis** is the art or act of inferring the nature or cause of a condition from its signs and symptoms, and it precedes treatment in all cases (Banerjee and Watson, 2015). The main advance is a change of philosophy. The old approach detected cavities and restored them. The new approach is **evidence-based**: it uses current best evidence to make decisions for the individual patient (Boushell and Shugars, 2019) and combines it with the dentist's skill and the patient's preferences (Torres et al, 2020). It is also **disease-based**: caries lesions are the result of the caries process, not its cause (Boushell and Shugars, 2019). And it is **personalised** (Fontana and Huysmans, 2019).
+**Diagnosis** is the art or act of inferring the nature or cause of a condition from its signs and symptoms, and it precedes treatment in all cases (Banerjee and Watson, 2015). The main advance is a change of philosophy from detecting and restoring cavities to care that is **evidence-based** (Boushell and Shugars, 2019), integrates the dentist's skill and the patient's preferences (Torres et al, 2020), is **disease-based**, since lesions are the result of the caries process, not its cause (Boushell and Shugars, 2019), and is **personalised** (Fontana and Huysmans, 2019).
 
 | Aspect | Traditional | Contemporary |
 |---|---|---|
@@ -17,19 +17,19 @@
 
 ### Caries as a disease: risk assessment
 
-Caries is a **dysbiosis of the biofilm** driven by sugars (Fontana and Huysmans, 2019), so diagnosis now includes the patient's risk as well as the lesions. Caries Management by Risk Assessment (CAMBRA) is built on ICDAS (Boushell and Shugars, 2019). Risk assessment is not yet standardised. The Cariogram software calculates the probability of new lesions, but it was **inferior to clinical judgment** at identifying high-risk patients (Torres et al, 2020). Fontana and Huysmans (2019) also say that the dentist's overall impression may predict risk well. Both books therefore support clinical judgment over the software.
+Caries is a **dysbiosis of the biofilm** driven by sugars (Fontana and Huysmans, 2019), so diagnosis now includes the patient's risk as well as the lesions. Caries Management by Risk Assessment (CAMBRA) is built on ICDAS (Boushell and Shugars, 2019). Risk assessment is not yet standardised; the Cariogram software predicts new lesions but was **inferior to clinical judgment** for high-risk patients (Torres et al, 2020), and the dentist's overall impression may predict risk well (Fontana and Huysmans, 2019).
 
 ### Visual scoring systems and lesion activity
 
 - **ICDAS** records a lesion in two stages: severity on a 0-6 scale, then the restoration or sealant status; the ADA Caries Classification System is the companion system (Boushell and Shugars, 2019).
-- **Activity assessment:** each lesion is judged active or arrested by its site, plaque, lustre, texture and gingival status. The aim is to find early enamel lesions that remineralisation can reverse (Boushell and Shugars, 2019). There is still no validated, accurate method of measuring activity (Fontana and Huysmans, 2019).
-- **Instrument:** a CPITN probe with a 0.5 mm ball tip replaces the sharp explorer. The explorer is contraindicated for pit-and-fissure caries because it can cavitate a lesion that could have remineralised (Boushell and Shugars, 2019).
+- **Activity assessment:** lesions are judged active or arrested by site, plaque, lustre, texture and gingival status, to find enamel lesions that remineralisation can reverse (Boushell and Shugars, 2019); no validated measure of activity yet exists (Fontana and Huysmans, 2019).
+- **Instrument:** a CPITN probe with a 0.5 mm ball tip replaces the sharp explorer, which can cavitate a remineralisable lesion (Boushell and Shugars, 2019).
 
 ### Thinking in sensitivity and specificity
 
-Sturdevant's applies clinical epidemiology to diagnosis. Each test is judged against a gold standard in a 2 × 2 table, and **no method is completely accurate** except for frank cavitation. Caries progresses slowly but operative treatment cannot be undone. The clinician should therefore prefer a **highly specific** test, which produces few false positives, and accept lower sensitivity (Boushell and Shugars, 2019).
+Each test is judged against a gold standard in a 2 × 2 table; **no method is completely accurate** except for frank cavitation. Because caries progresses slowly and operative treatment is irreversible, a **highly specific** test (few false positives) is preferred over a sensitive one (Boushell and Shugars, 2019).
 
-**Diagram:** a 2 × 2 table. Columns: disease present or absent. Rows: test positive or negative. Cells: true positive, false positive, false negative, true negative. Write sensitivity = TP/(TP+FN) and specificity = TN/(TN+FP) beside it.
+**Diagram:** 2 × 2 table (disease present/absent against test positive/negative: TP, FP, FN, TN), with sensitivity = TP/(TP+FN) and specificity = TN/(TN+FP).
 
 ### Technology as adjuncts
 
@@ -38,7 +38,6 @@ Sturdevant's applies clinical epidemiology to diagnosis. Each test is judged aga
 | Radiographs chosen by risk (ADA/FDA guidelines) | Type and frequency set by the patient's condition and risk (Boushell and Shugars, 2019). Too many radiographs invite overdiagnosis and overtreatment (Torres et al, 2020) |
 | Digital radiography, computer-aided detection | Reduces observer subjectivity but is not yet more accurate than a human observer (Göstemeyer and Schwendicke, 2019) |
 | Fluorescence and impedance devices | FDA-approved, but their accuracy is not firmly established (Boushell and Shugars, 2019). Non-ionising monitoring now has its own ADA billing code, D0600 (Abrahams, 2019) |
-| Imaging and quantifying devices | Easier to explain to patients (Abrahams, 2019) |
 | Microscope, intraoral camera, photography | Precise surface examination and documentation (Goldstein and Salama, 2018; Torres et al, 2020) |
 | Digital impressions | Virtual study models for diagnosis and planning (Boushell and Shugars, 2019) |
 | CBCT | For advanced cases (Goldstein and Salama, 2018) |
@@ -50,11 +49,11 @@ The standard of care is still visual inspection of clean, dry, well-lit teeth, w
 
 ### Problem-oriented planning
 
-The **treatment-oriented** model turns each finding straight into a procedure. The **problem-oriented** model first lists the problems, then weighs the options for each one. It prevents tunnel vision on obvious disease. It also plans **in reverse**, starting from the desired end result, so that each step serves the final goal (Rose, Haveman and Davis, 2013).
+The **treatment-oriented** model turns findings straight into procedures; the **problem-oriented** model lists problems, weighs options for each, prevents tunnel vision and plans **in reverse** from the desired end result (Rose, Haveman and Davis, 2013).
 
 ### Shared decision-making and consent
 
-Clinician and patient reach mutual agreement on the diagnostic methods and the treatment chosen (Torres et al, 2020; Fontana and Huysmans, 2019). Informed consent is now integral to practice (Boushell and Shugars, 2019). "No intervention" must always be offered as one option (Boushell and Shugars, 2019). Records, including photographs, serve as legal documents (Torres et al, 2020).
+Clinician and patient agree on diagnostic methods and treatment (Torres et al, 2020; Fontana and Huysmans, 2019); informed consent is integral, and no intervention must always be one option (Boushell and Shugars, 2019). Records and photographs serve as legal documents (Torres et al, 2020).
 
 ### Lesion-based intervention thresholds
 
@@ -66,11 +65,11 @@ Expert consensus bases the decision to restore on **cavitation, cleansability an
 
 ### Less invasive operative options
 
-Replacing a restoration removes more tooth each time. This is the **cycle of re-restoration**, so repair or resurfacing is now acceptable treatment. Silver diamine fluoride offers cost-effective caries arrest in older patients (Boushell and Shugars, 2019). Adhesive dentistry has widened the use of direct composite, even in endodontically treated teeth. CAD/CAM restorations now range from Class I and II cavities up to single crowns (Torres et al, 2020).
+Because replacement drives the **cycle of re-restoration**, repair or resurfacing is acceptable, and silver diamine fluoride offers cost-effective arrest in older patients (Boushell and Shugars, 2019). Adhesive direct composite is used even in endodontically treated teeth, and CAD/CAM covers Class I and II cavities up to single crowns (Torres et al, 2020).
 
 ### Digital esthetic planning
 
-**Digital Smile Design** draws reference lines and the proposed design over 2D photographs. It sharpens esthetic diagnosis, improves team communication and makes case presentation more effective (Coachman, Calamita and Ricci, 2018). **Computer imaging** shows the patient the intended result and increases motivation. The image must carry a disclaimer that it is no guarantee (Goldstein and Salama, 2018).
+**Digital Smile Design** draws reference lines and the proposed design over 2D photographs, sharpening esthetic diagnosis and team communication (Coachman, Calamita and Ricci, 2018). **Computer imaging** previews the result and motivates the patient, with a printed no-guarantee disclaimer (Goldstein and Salama, 2018).
 
 ### Phased, risk-based plans
 
@@ -80,15 +79,15 @@ Replacing a restoration removes more tooth each time. This is the **cycle of re-
 | Boushell and Shugars (2019) | Urgent, control, re-evaluation, definitive, maintenance (the medical review sits inside the urgent phase) |
 | Banerjee and Watson (2015) | Prevention or control, stabilisation or definitive, review or recall |
 
-The books agree on the order of treatment. Torres et al make the **medical risk assessment** a separate first phase. Recall is set by risk: about 3-4 months for high-risk patients and 9-12 months for low-risk patients (Boushell and Shugars, 2019).
+Torres et al make **medical risk assessment** a separate first phase. Recall is set by risk: about 3-4 months for high-risk patients and 9-12 months for low-risk patients (Boushell and Shugars, 2019).
 
 ### Decision support
 
-As the evidence grows more complex, decisions will increasingly rely on **computerised decision-support systems** (Fontana and Huysmans, 2019).
+Decisions will increasingly rely on **computerised decision-support systems** (Fontana and Huysmans, 2019).
 
 ## Conclusion
 
-Diagnosis has advanced from finding cavities to assessing risk, activity and severity, using validated visual systems and technology as adjuncts. Treatment planning has become problem-oriented, shared with the patient, digital, phased and minimally invasive. Its aim is to control the disease and preserve tooth structure.
+Diagnosis has advanced from finding cavities to assessing risk, activity and severity with visual systems and technology as adjuncts; treatment planning has become problem-oriented, shared, digital, phased and minimally invasive, aiming to control disease and preserve tooth structure.
 
 ## References
 
