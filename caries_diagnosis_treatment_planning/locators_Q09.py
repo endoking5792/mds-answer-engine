@@ -6,7 +6,8 @@ DET = O + 'Detection_and_Assessment_of_Dental_Caries.md'
 F_EXTRA = {
  # Sturdevant's 2nd South Asia ed, Ch.2 (caries) and Ch.3 (examination); no chapter byline, editors cited as in earlier topics.
  # Offset 19: PDF 61 printed 42, PDF 62 printed 43 (Ch.2); PDF 106 printed 87, PDF 107 printed 88 (Ch.3).
- 'q09_stu': (O + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al., 2019'),
+ 'q09_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q09_stu3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Harpreet Singh 2nd (2020) Ch.5. Offset 17: PDF 52 printed 35, PDF 57 printed 40.
  'q09_sgh': (O + 'Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh, 2020'),
  # Kidd and Fejerskov 4th (2016) Ch.2-3. Offset 13: PDF 36 printed 23, PDF 38 printed 25, PDF 64 printed 51.
@@ -60,7 +61,7 @@ L = {
  'q09_d6_95': ('q09_d6', 'If the lesion is scored ICDAS 1, 95% shows no demineralization or the demineralization is restricted to the outer half of the enamel'),
  'q09_d6_83': ('q09_d6', 'A total of 83% of ICDAS 2 lesions are characterized to be histologically wise in the inner half of the enamel'),
  'q09_d2_micro': ('q09_d2', 'for non-cavitated lesions probing can irreversibly damage the tooth surface'),
- 'q09_stu_cpitn': ('q09_stu', 'Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
+ 'q09_stu_cpitn': ('q09_stu3', 'Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
  'q09_d11_sens': ('q09_d11', 'bitewing radiography has a sensitivity of around 0.2–0.3 for early lesions'),
  'q09_mnt_rx': ('q09_mnt', 'The presence of an initial subsurface lesion may be determined from radiographs because of increased radiolucency in the subsurface tissue'),
  'q09_mnt_ti': ('q09_mnt', 'This may be confirmed by trans‐illumination in some cases'),

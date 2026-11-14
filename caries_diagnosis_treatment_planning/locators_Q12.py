@@ -4,7 +4,8 @@ T = os.environ.get('MDS_TEXTBOOKS', '/home/user/mds-textbooks/')
 O = T + 'Operative_and_Dental_Materials_Textbooks/'
 F_EXTRA = {
  # Sturdevant 2e South Asia (2019) Ch.2 (Ferreira Zandona and Ritter). Offset 19 confirmed at PDF 53 (printed 34), PDF 54 (35), PDF 77 (58).
- 'q12_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandona and Ritter, 2019'),
+ 'q12_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q12_st3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Kidd and Fejerskov 4e (2016). Offset 13 confirmed at PDF 52 (printed 39), PDF 159 (146), PDF 160 (147).
  'q12_kid': (O+'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
  # Mount 3e (2016) Ch.3 (Ngo, Wolff and Hume). Offset 16 confirmed at PDF 55 (printed 39), PDF 57 (41), PDF 59 (43).

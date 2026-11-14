@@ -6,7 +6,8 @@ F_EXTRA = {
  # Summitt's 4e (2013) Ch.5 (Amaechi, van Amerongen, van Loveren and Kidd); no printed page numbers in the file.
  'q11_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al, 2013'),
  # Sturdevant 2e South Asia (2019) Ch.2 (contributors Ferreira Zandona and Ritter). Offset 19 confirmed at PDF 74 (printed 55), PDF 75 (56), PDF 77 (58).
- 'q11_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandona and Ritter, 2019'),
+ 'q11_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q11_st3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Mount 3e (2016) Ch.3 (Ngo, Wolff and Hume). Offset 16 confirmed at PDF 50 (printed 34), PDF 51 (35), PDF 54 (38).
  'q11_mt': (O+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Ngo, Wolff and Hume, 2016'),
  # Sikri, Textbook of Conservative and Restorative Dentistry (CBS, eBook 2020) Ch.6. Offset 19 confirmed at PDF 117 (printed 98), PDF 118 (99), PDF 120 (101).

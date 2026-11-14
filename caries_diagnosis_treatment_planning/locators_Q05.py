@@ -32,7 +32,8 @@ F_EXTRA = {
  # Kidd and Fejerskov, Essentials of Dental Caries 4th ed (2016) Ch.3. Offset 13: PDF 70 (57), PDF 85 (72).
  'q05_kd': (B+'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
  # Sturdevant 2e South Asia (2019) Ch.3, editors cited. Offset 19: PDF 102 (83), PDF 113 (94).
- 'q05_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter, Boushell and Walter, 2019'),
+ 'q05_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q05_stu3': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Summitt's 4th ed (2013) Ch.5, Amaechi, van Amerongen, van Loveren and Kidd. No printed page numbers.
  'q05_sum': (B+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al., 2013'),
 }
@@ -42,7 +43,7 @@ L = {
  'q05_las_30': ('q05_las', 'Radiographic detection often requires at least around 30% of demineralization to warrant detection'),
  'q05_sum_dx': ('q05_sum', 'caries diagnosis includes both caries detection and the assessment of lesion activity'),
  'q05_pick_4': ('q05_pick', 'four basic physical principles affecting mineralized dental tissues: optical light scattering, mineral density changes, fluorescent characteristics and tissue porosity'),
- 'q05_stu_fda': ('q05_stu', 'The technologies currently approved by the FDA include laser-induced fluorescence, light-induced fluorescence, and alternating current (AC) impedance spectroscopy (ACIST)'),
+ 'q05_stu_fda': ('q05_stu3', 'The technologies currently approved by the FDA include laser-induced fluorescence, light-induced fluorescence, and alternating current (AC) impedance spectroscopy (ACIST)'),
  # visual systems
  'q05_ek_two': ('q05_ek', 'Detection wise, it is a two-digit scoring system'),
  'q05_ek_sesp': ('q05_ek', 'The pooled specificity and sensitivity were both 0.7'),
@@ -117,6 +118,6 @@ L = {
  # clinical significance
  'q05_kd_res': ('q05_kd', 'So far they only have research interest'),
  'q05_kd_fp': ('q05_kd', 'the more diagnostic techniques are used on the same surfaces, the more likely it is that interpretation of one of the techniques will give a false positive diagnosis'),
- 'q05_stu_std': ('q05_stu', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
+ 'q05_stu_std': ('q05_stu3', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
  'q05_las_adj': ('q05_las', 'laser fluorescence can be used as an adjunct to traditional caries detection methods'),
 }

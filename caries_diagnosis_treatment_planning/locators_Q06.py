@@ -9,7 +9,8 @@ F_EXTRA = {
  # Mount 3e (2016) Ch.3 Dental caries: activity and risk assessment (Ngo, Wolff and Hume). Offset 16 confirmed at PDF 50 (printed 34), PDF 51 (35), PDF 57 (41).
  'q06_mt': (O+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Ngo, Wolff and Hume, 2016'),
  # Sturdevant 2e South Asia (2019) Ch.2 (contributors Ferreira Zandona and Ritter). Offset 19 confirmed at PDF 74 (printed 55), PDF 75 (56), PDF 46 (27).
- 'q06_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandona and Ritter, 2019'),
+ 'q06_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q06_st3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Summitt's 4e (2013) Ch.5 (Amaechi, van Amerongen, van Loveren and Kidd); no printed page numbers in the file.
  'q06_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al, 2013'),
  # Kidd and Fejerskov, Essentials of Dental Caries 4e (2016); whole book by the two authors. Offset 13 confirmed at PDF 48 (printed 35), PDF 52 (39), PDF 159 (146).

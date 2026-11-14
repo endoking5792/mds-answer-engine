@@ -51,6 +51,6 @@ No single factor predicts caries well (Ngo, Wolff and Hume, 2016); assessment in
 
 1. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.5.
 2. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. eBook ed. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
-3. Ferreira Zandoná A, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: Elsevier (RELX India); 2019. Ch.2.
+3. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
 4. Ngo HC, Wolff MS, Hume WR. Dental caries: activity and risk assessment as a logical and effective path to both prevention and cure. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.3.
 5. Banerjee A, Watson TF. Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: Oxford University Press; 2015. Ch.3.

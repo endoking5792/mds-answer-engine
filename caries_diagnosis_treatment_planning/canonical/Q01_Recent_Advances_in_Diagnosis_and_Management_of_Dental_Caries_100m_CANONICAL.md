@@ -20,9 +20,9 @@ Two consequences shape every recent advance:
 - A sharp explorer forced into a site can cavitate a remineralisable surface (Zeller, Young and Novy, 2019).
 - Non-operative care can arrest only lesions detected early and judged active.
 
-An **ideal detection method** should report both the presence of a lesion and its depth and surface status (Schwendicke and Göstemeyer, 2019): it should identify a healthy surface (specificity), detect demineralisation (sensitivity), and show whether the lesion is active and whether it is cavitated. Apart from frank cavitation, no current method does all of this accurately, so the clinician combines visual, tactile and radiographic findings with the patient's caries status (Boushell, Eidson and Shugars, 2019).
+An **ideal detection method** should report both the presence of a lesion and its depth and surface status (Schwendicke and Göstemeyer, 2019): it should identify a healthy surface (specificity), detect demineralisation (sensitivity), and show whether the lesion is active and whether it is cavitated. Apart from frank cavitation, no current method does all of this accurately, so the clinician combines visual, tactile and radiographic findings with the patient's caries status (Boushell and Shugars, 2019).
 
-The editors stress that devices should **support visual examination and not replace it**, that teeth must be plaque-free before examination, and that greater sensitivity is for monitoring, **not a licence to increase surgical intervention** (Ferreira Zandona and Longbottom, 2019). The standard of care remains visual inspection of clean, dry, well-lit teeth with radiographs as indicated (Boushell, Eidson and Shugars, 2019).
+The editors stress that devices should **support visual examination and not replace it**, that teeth must be plaque-free before examination, and that greater sensitivity is for monitoring, **not a licence to increase surgical intervention** (Ferreira Zandona and Longbottom, 2019). The standard of care remains visual inspection of clean, dry, well-lit teeth with radiographs as indicated (Boushell and Shugars, 2019).
 
 ## 3. Classification of recent diagnostic methods
 
@@ -129,7 +129,7 @@ A **655 nm** diode laser induces fluorescence that is read as a **value of 0–9
 | Enamel caries | 14–20 | 13–25 | 8–16 |
 | Dentine caries | >20 | >25 | >16 |
 
-**Limitations:** prophylaxis paste and calculus give false positives; it does not help for secondary caries (Neuhaus and Lussi, 2019) and cannot separate active from inactive lesions (Caneppele et al., 2020). Its greater sensitivity is offset by false positives, so it is not a principal diagnostic method (Boushell, Eidson and Shugars, 2019).
+**Limitations:** prophylaxis paste and calculus give false positives; it does not help for secondary caries (Neuhaus and Lussi, 2019) and cannot separate active from inactive lesions (Caneppele et al., 2020). Its greater sensitivity is offset by false positives, so it is not a principal diagnostic method (Boushell and Shugars, 2019).
 
 **Conflict on what it measures:**
 
@@ -145,7 +145,7 @@ Intraoral cameras such as Soprolife and VistaCam use blue or violet LEDs to show
 
 ## 8. Other new technologies
 
-- **Electrical conductance (ECM, CarieScan/ACIST):** porous, fluid-filled demineralised enamel conducts current better than intact enamel (Caneppele et al., 2020; Boushell, Eidson and Shugars, 2019).
+- **Electrical conductance (ECM, CarieScan/ACIST):** porous, fluid-filled demineralised enamel conducts current better than intact enamel (Caneppele et al., 2020; Boushell and Shugars, 2019).
 - **Canary System:** pulsed laser light is converted into heat (**photothermal radiometry**) and **luminescence**; as a lesion grows **PTR increases and LUM decreases**, combined into a Canary Number (Amaechi, 2019). It examines **up to 5 mm** below the surface, raises temperature by **less than 1–2 °C**, works around restorations and under sealants, and monitors remineralisation. Caneppele et al. (2020) note a lack of independent studies.
 - **Optical coherence tomography:** cross-sectional images of reflectivity to **3–5 mm in enamel and 1–2 mm in dentine** at better than 10 μm resolution; polarisation-sensitive OCT quantifies lesion severity (Fried, 2019b).
 - **Ultrasound:** **18 MHz** pulse-echo waves distinguish intact from demineralised enamel (Yanıkoğlu and Tağtekin, 2019).
@@ -155,9 +155,9 @@ Intraoral cameras such as Soprolife and VistaCam use blue or violet LEDs to show
 
 **Activity assessment** (Section 4) decides whether a lesion needs active care. **Risk assessment** determines the probability of new lesions and of progression (Fontana and Huysmans, 2019).
 
-- A **risk factor** directly increases the probability of disease and is part of the causal chain; a **risk indicator** is an existing sign of disease, such as active lesions or restorations placed in the past 3 years (Ferreira Zandoná, Ritter and Eidson, 2019).
+- A **risk factor** directly increases the probability of disease and is part of the causal chain; a **risk indicator** is an existing sign of disease, such as active lesions or restorations placed in the past 3 years (Ferreira Zandoná and Ritter, 2019).
 - **Past caries experience is the best predictor**. Diet analysis and clinical examination form the foundation; salivary tests add support, while bacterial counts and ATP tests have little predictive value.
-- **CAMBRA** is a medical model: (1) assess risk, (2) reduce pathological factors, (3) enhance protective factors, (4) minimally invasive restoration when needed (Zeller, Young and Novy, 2019). It is evolving into the standard of care; the **Cariogram** is validated for children (Ferreira Zandoná, Ritter and Eidson, 2019).
+- **CAMBRA** is a medical model: (1) assess risk, (2) reduce pathological factors, (3) enhance protective factors, (4) minimally invasive restoration when needed (Zeller, Young and Novy, 2019). It is evolving into the standard of care; the **Cariogram** is validated for children (Ferreira Zandoná and Ritter, 2019).
 - **Categories:** low risk (no active lesions in 2–3 years) versus caries-active patients with more than two new or progressing lesions a year (Banerjee and Watson, 2015).
 - **ICCMS** links ICDAS staging and activity with risk to give **risk-adjusted preventive care, control of non-cavitated lesions, conservative restoration of cavitated ones and a risk-based recall interval** (Caneppele et al., 2020).
 
@@ -178,19 +178,19 @@ Decisions are **shared with the patient**. Ekstrand and Braga (2019) align the m
 
 ### Non-operative (non-invasive) management
 
-**Fluoride.** Fluoride is incorporated into the apatite lattice and inhibits bacterial enolase (Banerjee and Watson, 2015). Toothpaste of **at least 1000 ppm** is advised under 3 years and **1350–1500 ppm** family paste afterwards, with advice to spit out, not rinse, after brushing. Varnishes added to toothpaste give further reduction, and pastes up to **5000 ppm** exist for high-risk adults (Kidd and Fejerskov, 2016). Sturdevant's protocol prescribes 5000 ppm paste and fluoride varnish at **3-month** recall for high-risk adults (Ferreira Zandoná, Ritter and Eidson, 2019).
+**Fluoride.** Fluoride is incorporated into the apatite lattice and inhibits bacterial enolase (Banerjee and Watson, 2015). Toothpaste of **at least 1000 ppm** is advised under 3 years and **1350–1500 ppm** family paste afterwards, with advice to spit out, not rinse, after brushing. Varnishes added to toothpaste give further reduction, and pastes up to **5000 ppm** exist for high-risk adults (Kidd and Fejerskov, 2016). Sturdevant's protocol prescribes 5000 ppm paste and fluoride varnish at **3-month** recall for high-risk adults (Ferreira Zandoná and Ritter, 2019).
 
-**Silver diamine fluoride (SDF 38%).** A caries-arresting and desensitising solution; silver is antibacterial. After biofilm removal it is applied with a microbrush for **3 min**, with petroleum jelly protecting gingiva and lips. It suits large cavitated lesions where restorative care is unavailable, and root caries. **Drawbacks:** arrested dentine stains black, and **up to 50%** of lesions reactivate by **24 months** after one application, so re-application every **6 months** or restoration is advised (Ferreira Zandoná, Ritter and Eidson, 2019).
+**Silver diamine fluoride (SDF 38%).** A caries-arresting and desensitising solution; silver is antibacterial. After biofilm removal it is applied with a microbrush for **3 min**, with petroleum jelly protecting gingiva and lips. It suits large cavitated lesions where restorative care is unavailable, and root caries. **Drawbacks:** arrested dentine stains black, and **up to 50%** of lesions reactivate by **24 months** after one application, so re-application every **6 months** or restoration is advised (Ferreira Zandoná and Ritter, 2019).
 
-**Remineralising agents.** **CPP–ACP**: the milk-derived casein phosphopeptide stabilises amorphous calcium phosphate and keeps it supersaturated at the tooth surface; it is contraindicated in milk-protein allergy (Ferreira Zandoná, Ritter and Eidson, 2019). Bioactive glasses are an alternative (Banerjee and Watson, 2015).
+**Remineralising agents.** **CPP–ACP**: the milk-derived casein phosphopeptide stabilises amorphous calcium phosphate and keeps it supersaturated at the tooth surface; it is contraindicated in milk-protein allergy (Ferreira Zandoná and Ritter, 2019). Bioactive glasses are an alternative (Banerjee and Watson, 2015).
 
-**Fissure sealants.** Sealing is indicated where **active fissure caries has not arrested** despite control, or where an erupting molar cannot be cleaned; sealing every tooth is **over-treatment** (Kidd and Fejerskov, 2016). Resin and high-viscosity glass ionomer are **equally effective**; glass ionomer is preferred for erupting teeth and poor cooperation. Sealed bacteria **die or become dormant** (Kidd and Fejerskov, 2016), and sealants can arrest initial lesions within limits (Ferreira Zandoná, Ritter and Eidson, 2019).
+**Fissure sealants.** Sealing is indicated where **active fissure caries has not arrested** despite control, or where an erupting molar cannot be cleaned; sealing every tooth is **over-treatment** (Kidd and Fejerskov, 2016). Resin and high-viscosity glass ionomer are **equally effective**; glass ionomer is preferred for erupting teeth and poor cooperation. Sealed bacteria **die or become dormant** (Kidd and Fejerskov, 2016), and sealants can arrest initial lesions within limits (Ferreira Zandoná and Ritter, 2019).
 
 **Resin infiltration (micro-invasive).** An extremely low-viscosity resin infiltrates non-cavitated smooth-surface and proximal lesions after etching. Authors disagree:
 
 | Author | Position |
 |---|---|
-| Ferreira Zandoná, Ritter and Eidson (2019) | A practice-based RCT found infiltration more effective than oral hygiene and fluoride instruction at preventing progression |
+| Ferreira Zandoná and Ritter (2019) | A practice-based RCT found infiltration more effective than oral hygiene and fluoride instruction at preventing progression |
 | Ekstrand and Braga (2019) | Lists sealing/infiltration among options for approximal lesions |
 | Kidd and Fejerskov (2016) | Trials have yet to show success comparable with occlusal sealants; the technique is demanding and costly, and even deep non-cavitated lesions arrest with cleaning and fluoride |
 
@@ -198,13 +198,13 @@ Decisions are **shared with the patient**. Ekstrand and Braga (2019) align the m
 
 Restoration is required when the patient **cannot clean an active cavitated lesion** (Kidd and Fejerskov, 2016). Minimally invasive dentistry removes **only unrepairable enamel and dentine**, keeps cavities small and uses adhesive materials that seal residual bacteria from nutrients (Banerjee and Watson, 2015).
 
-**Carious tissue removal by depth** (Ferreira Zandoná, Ritter and Eidson, 2019):
+**Carious tissue removal by depth** (Ferreira Zandoná and Ritter, 2019):
 
 1. **Moderate lesions** (not into the inner third, no exposure risk): excavate to a **caries-free DEJ and firm dentine**.
 2. **Deep lesions** in a vital, symptomless tooth: **selective removal to soft dentine** — clean periphery to a sound DEJ; centrally, soft dentine is left within about **1 mm of the pulp**; seal with glass ionomer or a definitive restoration.
 3. **No re-entry:** temporisation and re-entry do not improve outcomes; calcium hydroxide liners do not improve outcomes; the marginal seal is critical.
 
-Kidd and Fejerskov (2016) state that complete removal risking exposure **should be considered unethical**. Caries-affected dentine gives better indirect pulp protection than any artificial material (Banerjee and Watson, 2015). Detector dyes stain demineralised matrix, not bacteria, and lead to over-preparation, so they are no longer recommended (Ferreira Zandoná, Ritter and Eidson, 2019; Banerjee and Watson, 2015); FACE is the fluorescence alternative (Lennon and Buchalla, 2019).
+Kidd and Fejerskov (2016) state that complete removal risking exposure **should be considered unethical**. Caries-affected dentine gives better indirect pulp protection than any artificial material (Banerjee and Watson, 2015). Detector dyes stain demineralised matrix, not bacteria, and lead to over-preparation, so they are no longer recommended (Ferreira Zandoná and Ritter, 2019; Banerjee and Watson, 2015); FACE is the fluorescence alternative (Lennon and Buchalla, 2019).
 
 **Stepwise excavation** removes part of the soft dentine, seals temporarily and re-enters later. Complete removal exposed the pulp in up to **53%** of controls, and re-entry itself exposed **17%** (Kidd and Fejerskov, 2016).
 
@@ -221,7 +221,7 @@ Kidd and Fejerskov (2016) state that complete removal risking exposure **should 
 
 ### Recall and monitoring
 
-Recall follows risk: **3-monthly** with varnish and bitewings every **6–12 months** for high risk, **9–12 months** for low risk (Ferreira Zandoná, Ritter and Eidson, 2019). Quantitative tools (QLF, Canary, subtraction radiography) document whether non-operative care is arresting lesions.
+Recall follows risk: **3-monthly** with varnish and bitewings every **6–12 months** for high risk, **9–12 months** for low risk (Ferreira Zandoná and Ritter, 2019). Quantitative tools (QLF, Canary, subtraction radiography) document whether non-operative care is arresting lesions.
 
 ## Conclusion
 
@@ -236,7 +236,7 @@ Recent advances have changed caries care from detecting holes to diagnosing a di
 5. Ferreira Zandona A, Longbottom C. Introduction. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.1.
 6. Kim BI. Quantitative light-induced fluorescence. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.16.
 7. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
-8. Boushell LW, Eidson RS, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adaptation editor Gopikrishna V). New Delhi: Elsevier (RELX India); 2019. Ch.3.
+8. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 9. Machiulskiene V. Nyvad criteria for assessment of caries lesion activity and severity. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.5.
 10. Ekstrand KR, Braga MMMB. Visual detection criteria using the International Caries Detection and Assessment System (ICDAS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.6.
 11. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
@@ -251,4 +251,4 @@ Recent advances have changed caries care from detecting holes to diagnosing a di
 20. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20. (2019b)
 21. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
 22. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
-23. Ferreira Zandoná AG, Ritter AV, Eidson RS. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adaptation editor Gopikrishna V). New Delhi: Elsevier (RELX India); 2019. Ch.2.
+23. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.

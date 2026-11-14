@@ -37,8 +37,9 @@ F_EXTRA = {
  'q07_kid': (O + 'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
  # Summitt's 4th (2013) Ch.5 (Amaechi, van Amerongen, van Loveren, Kidd); file has no printed page numbers.
  'q07_sum': (O + 'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al., 2013'),
- # Sturdevant's 2nd South Asia ed Ch.3; no chapter byline (contributors list names Boushell, Shugars, Eidson), editors cited as in earlier topics. Offset 19: PDF 106 printed 87, PDF 107 printed 88, PDF 114 printed 95.
- 'q07_stu': (O + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al., 2019'),
+ # Sturdevant's 2nd South Asia ed: no byline; contributors list (front matter) assigns Ch.2 to Ferreira Zandoná and Ritter, Ch.3 to Boushell and Shugars (Eidson is a past-editions contributor). Harmonised 2026-11-14.
+ 'q07_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q07_stu3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Mount 3rd (Wiley 2016) Ch.2 (Mount, Ngo, Hume, Wolff). Offset 16: PDF 41 printed 25, PDF 42 printed 26.
  'q07_mnt': (O + 'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount et al., 2016'),
  # Harpreet Singh, Essentials of Preclinical Conservative Dentistry 2nd (Wolters Kluwer India 2020) Ch.5. Offset 17: PDF 52 printed 35, PDF 57 printed 40.
@@ -59,8 +60,8 @@ L = {
  'q07_sum_wet': ('q07_sum', 'A white spot lesion visible on a wet tooth surface indicates that demineralization is over halfway through the enamel'),
  'q07_sum_dry': ('q07_sum', 'A white spot lesion that becomes visible only after thorough air drying will be less than halfway through enamel'),
  # tactile
- 'q07_stu_cpitn': ('q07_stu', 'Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
- 'q07_stu_contra': ('q07_stu', 'is contraindicated as a part of the caries detection process'),
+ 'q07_stu_cpitn': ('q07_stu3', 'Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
+ 'q07_stu_contra': ('q07_stu3', 'is contraindicated as a part of the caries detection process'),
  'q07_d2_probe': ('q07_d2', 'has been shown to be of no diagnostic value'),
  'q07_d5_sharp': ('q07_d5', 'sharp dental explorer is a more helpful supplementary tool for the evaluation of the surface morphology than a ball-ended probe'),
  'q07_kid_sharp': ('q07_kid', 'a sharp probe is useful in diagnosis'),
@@ -108,7 +109,7 @@ L = {
  # books differ on devices
  'q07_kid_research': ('q07_kid', 'So far they only have research interest'),
  'q07_d17_primary': ('q07_d17', 'supports the device’s use in primary care dentistry'),
- 'q07_stu_fp': ('q07_stu', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
+ 'q07_stu_fp': ('q07_stu3', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
  # clinical significance
  'q07_d1_support': ('q07_d1', 'methods should support visual examination and not be used in place of visual examination'),
  'q07_d1_licence': ('q07_d1', 'it is not a license to increase surgical intervention'),

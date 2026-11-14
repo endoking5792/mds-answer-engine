@@ -6,7 +6,8 @@ D = O + 'Detection_and_Assessment_of_Dental_Caries.md'
 F_EXTRA = {
  # Sturdevant's 2e South Asia, Ch.3 Patient assessment, examination, diagnosis and treatment planning (contributors page: Boushell, Shugars).
  # Offset 19 confirmed at PDF 106 (printed 87) and PDF 112 (printed 93).
- 'q03_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
+ 'q03_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q03_stu3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Detection and Assessment of Dental Caries (Ferreira Zandona and Longbottom, eds, 2019). Offsets checked per chapter:
  # Ch.12 PDF 119=119, 124=124 (0); Ch.13 127=127, 135=135 (0); Ch.14 139=139, 148=148 (0); Ch.15 151=151, 157=157 (0);
  # Ch.16 159=159, 169=169 (0); Ch.17 171=171, 174=174 (0); Ch.18 PDF 176=177, 183=184 (-1); Ch.19 187=189, 193=195 (-2);
@@ -33,8 +34,8 @@ F_EXTRA = {
 }
 L = {
  # why new aids
- 'q03_stu_25': ('q03_stu', 'approximately 25% mineral loss has to occur before a radiolucency begins to appear on a radiograph'),
- 'q03_stu_expl': ('q03_stu', 'caries is contraindicated as a part of the caries detection process'),
+ 'q03_stu_25': ('q03_stu3', 'approximately 25% mineral loss has to occur before a radiolucency begins to appear on a radiograph'),
+ 'q03_stu_expl': ('q03_stu3', 'caries is contraindicated as a part of the caries detection process'),
  'q03_sik_third': ('q03_sik', 'the conventional methods are effective, only if at least one-third thickness of enamel'),
  'q03_sik_req': ('q03_sik', 'Should not transfer any micro-organism from affected area to the unaffected area'),
  'q03_sik_req2': ('q03_sik', 'Time and cost should be manageable'),
@@ -75,10 +76,10 @@ L = {
  'q03_d17_noimg': ('q03_d17', 'Punctual measurement (no images)'),
  'q03_d17_nocav': ('q03_d17', 'No detection of cavitation'),
  'q03_d17_val': ('q03_d17', 'Sufficient clinical validation'),
- 'q03_stu_dd': ('q03_stu', 'yields a numerical score from 0–99'),
- 'q03_stu_ddsr': ('q03_stu', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
- 'q03_stu_spectra': ('q03_stu', 'porphyrins – metabolites unique to cariogenic bacteria – to appear distinctly red, whereas healthy enamel fluoresces to appear green'),
- 'q03_stu_spectra5': ('q03_stu', 'defines the potential caries activity on a scale of 0–5'),
+ 'q03_stu_dd': ('q03_stu3', 'yields a numerical score from 0–99'),
+ 'q03_stu_ddsr': ('q03_stu3', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
+ 'q03_stu_spectra': ('q03_stu3', 'porphyrins – metabolites unique to cariogenic bacteria – to appear distinctly red, whereas healthy enamel fluoresces to appear green'),
+ 'q03_stu_spectra5': ('q03_stu3', 'defines the potential caries activity on a scale of 0–5'),
  'q03_d19_1300': ('q03_d19', 'enamel is most transparent near λ = 1300 nm'),
  'q03_d19_stain': ('q03_d19', 'No interference from stains'),
  'q03_d19_na': ('q03_d19', 'Not yet available commercially'),
@@ -87,10 +88,10 @@ L = {
  'q03_d20_na': ('q03_d20', 'Not yet available commercially'),
  # electrical and other
  'q03_sik_ecm': ('q03_sik', 'The electric conductivity is directly proportional to the amount of demineralization'),
- 'q03_stu_fda': ('q03_stu', 'The technologies currently approved by the FDA include laser-induced fluorescence, light-induced fluorescence, and alternating current (AC) impedance spectroscopy'),
- 'q03_stu_lim1': ('q03_stu', 'they are only indicated for use on unrestored pits and fissures'),
- 'q03_stu_lim2': ('q03_stu', 'their diagnostic accuracy has not been firmly established'),
- 'q03_stu_cs': ('q03_stu', 'provides a colour scale and a numerical scale to determine the severity of the caries lesion'),
+ 'q03_stu_fda': ('q03_stu3', 'The technologies currently approved by the FDA include laser-induced fluorescence, light-induced fluorescence, and alternating current (AC) impedance spectroscopy'),
+ 'q03_stu_lim1': ('q03_stu3', 'they are only indicated for use on unrestored pits and fissures'),
+ 'q03_stu_lim2': ('q03_stu3', 'their diagnostic accuracy has not been firmly established'),
+ 'q03_stu_cs': ('q03_stu3', 'provides a colour scale and a numerical scale to determine the severity of the caries lesion'),
  'q03_sik_cs': ('q03_sik', 'reported CarieScan to have superior sensitivity and specificity (both 92.5%) over other methods'),
  'q03_sik_csno': ('q03_sik', 'It cannot be used to assess secondary caries, the integrity of a restoration, root caries, and the depth of excavation'),
  'q03_d18_ptr': ('q03_d18', 'using Photothermal Radiometry and Luminescence (PTR-LUM) technology'),
@@ -102,16 +103,16 @@ L = {
  'q03_d21_act': ('q03_d21', 'Lesion activity cannot be detected'),
  'q03_d22_ca': ('q03_d22', 'via a calcium-sensitive photoprotein'),
  # magnification, documentation
- 'q03_stu_loupe': ('q03_stu', 'Most dentists use magnifications of 2× to 4×'),
- 'q03_stu_micro': ('q03_stu', 'typically range from 2.5× to 20×'),
- 'q03_stu_microuse': ('q03_stu', 'identifying minute caries lesions, and minimizing the removal of sound tooth structure'),
- 'q03_stu_photo': ('q03_stu', 'Intraoral cameras and single-lens reflex (SLR) digital cameras provide opportunities to document'),
- 'q03_stu_virtual': ('q03_stu', 'The ability to obtain virtual study models via digital impression technology has increased the ease and level of diagnostic evaluation'),
+ 'q03_stu_loupe': ('q03_stu3', 'Most dentists use magnifications of 2× to 4×'),
+ 'q03_stu_micro': ('q03_stu3', 'typically range from 2.5× to 20×'),
+ 'q03_stu_microuse': ('q03_stu3', 'identifying minute caries lesions, and minimizing the removal of sound tooth structure'),
+ 'q03_stu_photo': ('q03_stu3', 'Intraoral cameras and single-lens reflex (SLR) digital cameras provide opportunities to document'),
+ 'q03_stu_virtual': ('q03_stu3', 'The ability to obtain virtual study models via digital impression technology has increased the ease and level of diagnostic evaluation'),
  'q03_gol_micro': ('q03_gol', 'Both the chairside microscope and intraoral camera provide essential views for precise tooth surface exams'),
  'q03_gol_cam': ('q03_gol', 'The intraoral camera also has the ability to easily transilluminate and photographically record hidden microcracks'),
  # cracks
- 'q03_stu_crack': ('q03_stu', 'Appropriate dye materials or transillumination may aid in detecting the line of fracture within the tooth structure'),
- 'q03_stu_cusp': ('q03_stu', 'Cusp isolation/loading devices and techniques must be utilized'),
+ 'q03_stu_crack': ('q03_stu3', 'Appropriate dye materials or transillumination may aid in detecting the line of fracture within the tooth structure'),
+ 'q03_stu_cusp': ('q03_stu3', 'Cusp isolation/loading devices and techniques must be utilized'),
  'q03_tor_crack': ('q03_tor', 'Diagnosis is performed with a device that allows placing pressure on each cusp separately'),
  # shade
  'q03_sh_acc': ('q03_sh', 'computer-assisted shade analysis is more accurate and more consistent compared with human shade assessment'),
@@ -123,15 +124,15 @@ L = {
  'q03_sh_whole': ('q03_sh', 'their use is limited to anterior teeth because of the size of the sensor'),
  'q03_sh_trans': ('q03_sh', 'Translucency mapping is inadequate in all of the systems'),
  # pulp, clinical significance
- 'q03_stu_endo': ('q03_stu', 'All teeth to be restored with large restorations should have a pulpal and periapical evaluation'),
+ 'q03_stu_endo': ('q03_stu3', 'All teeth to be restored with large restorations should have a pulpal and periapical evaluation'),
  'q03_tor_pulp': ('q03_tor', 'Conducting pulp sensitivity testing on each tooth is not recommended'),
  'q03_tor_pulp2': ('q03_tor', 'or those considered for restoration might be tested for signs of pulpal vitality'),
- 'q03_stu_soc': ('q03_stu', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
- 'q03_stu_fp': ('q03_stu', 'a highly specific test (i.e. few false positives [cell B]) means that fewer healthy teeth will be incorrectly treated'),
+ 'q03_stu_soc': ('q03_stu3', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
+ 'q03_stu_fp': ('q03_stu3', 'a highly specific test (i.e. few false positives [cell B]) means that fewer healthy teeth will be incorrectly treated'),
  'q03_d16_amb': ('q03_d16', 'Sensitive to the ambient light'),
- 'q03_stu_prop': ('q03_stu', 'fractures that are actively propagating'),
+ 'q03_stu_prop': ('q03_stu3', 'fractures that are actively propagating'),
  'q03_d15_bone': ('q03_d15', 'The light is transmitted through the alveolar bone into the dental hard tissue'),
  'q03_d17_mon': ('q03_d17', 'it was intended to be used as a device for caries monitoring as well'),
- 'q03_stu_deep': ('q03_stu', 'Photographs of preparations of deep caries lesions provide documentation'),
+ 'q03_stu_deep': ('q03_stu3', 'Photographs of preparations of deep caries lesions provide documentation'),
  'q03_d14_light': ('q03_d14', 'high intensity white light directed tangentially'),
 }

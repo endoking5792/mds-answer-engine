@@ -7,7 +7,8 @@ F_EXTRA = {
  # Kidd and Fejerskov 4e 2016 (authored book). Offset 13 confirmed at PDF 62 (printed 49) and PDF 98 (printed 85).
  'q08_kd': (O+'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
  # Sturdevant 2e SA; editors cited. Offset 19 confirmed at PDF 46 (printed 27) and PDF 122 (printed 103).
- 'q08_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter et al, 2019'),
+ 'q08_st': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q08_st3': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Sikri 2020. Offset 19 confirmed at PDF 53 (printed 34) and PDF 120 (printed 101).
  'q08_sk': (O+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
  # Summitt 4e Ch.5 (Amaechi, van Amerongen, van Loveren, Kidd); no printed page numbers.
@@ -49,11 +50,11 @@ L = {
  'q08_st_flow': ('q08_st', 'Adults produce 1–1.5 L of saliva a day'),
  'q08_st_buf': ('q08_st', 'Primary buffer: bicarbonate ion concentration'),
  'q08_st_rad': ('q08_st', 'destruction of the teeth in just a few months after radiation treatment'),
- 'q08_st_cpitn': ('q08_st', 'The recommended instrument for assessment of surface roughness is the Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
- 'q08_st_soc': ('q08_st', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
- 'q08_st_25': ('q08_st', 'approximately 25% mineral loss has to occur before a radiolucency begins to appear on a radiograph'),
- 'q08_st_notest': ('q08_st', 'their diagnostic accuracy has not been firmly established'),
- 'q08_st_acist': ('q08_st', 'alternating current (AC) impedance spectroscopy (ACIST)'),
+ 'q08_st_cpitn': ('q08_st3', 'The recommended instrument for assessment of surface roughness is the Community Periodontal Index of Treatment Needs (CPITN) probe having a 0.5 mm sphere at the tip'),
+ 'q08_st_soc': ('q08_st3', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
+ 'q08_st_25': ('q08_st3', 'approximately 25% mineral loss has to occur before a radiolucency begins to appear on a radiograph'),
+ 'q08_st_notest': ('q08_st3', 'their diagnostic accuracy has not been firmly established'),
+ 'q08_st_acist': ('q08_st3', 'alternating current (AC) impedance spectroscopy (ACIST)'),
  'q08_st_bact': ('q08_st', 'Use of supplemental tests to analyse the bacterial component of the biofilm has little value to determine the'),
  'q08_kd_det': ('q08_kd', 'Is a lesion present? This is detection of the lesion'),
  'q08_kd_diag': ('q08_kd', 'adding the aspect of activity to detection, is diagnosis'),

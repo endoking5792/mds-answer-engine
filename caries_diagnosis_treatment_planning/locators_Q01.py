@@ -30,10 +30,10 @@ F_EXTRA = {
  'q01_dac23': (DAC, -4, 'Fontana and Huysmans, 2019'),
  # Kidd and Fejerskov, Essentials of Dental Caries 4th ed (OUP 2016; copyright line). Authored book, no chapter authors. Offset 13 confirmed at PDF 20 (p7), PDF 119 (p106), PDF 128 (p115), PDF 134 (p121).
  'q01_kidd': (B + 'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
- # Sturdevant's 2e South Asia (Elsevier/RELX 2019) Ch2. Contributors list names Eidson, Ferreira Zandoná and Ritter for Ch2 (author order as in the 7th ed, verify). Offset 19 confirmed at PDF 74 (p55), PDF 93 (p74).
- 'q01_st2': (B + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná, Ritter and Eidson, 2019'),
- # Same book Ch3; contributors list names Boushell, Eidson and Shugars (alphabetical; verify order). Offset 19 confirmed at PDF 113 (p94), PDF 115 (p96).
- 'q01_st3': (B + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell, Eidson and Shugars, 2019'),
+ # Sturdevant's 2e South Asia (Elsevier/RELX 2019) Ch2. Contributors list assigns Ch.2 to Ferreira Zandoná and Ritter (Eidson: past editions only; harmonised 2026-11-14), verify). Offset 19 confirmed at PDF 74 (p55), PDF 93 (p74).
+ 'q01_st2': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ # Same book Ch3; contributors list assigns Ch.3 to Boushell and Shugars (Eidson: past editions only). Offset 19 confirmed at PDF 113 (p94), PDF 115 (p96).
+ 'q01_st3': (B + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Pickard's Guide to MI Operative Dentistry 10th ed (Banerjee and Watson, OUP 2015). Offset 11 confirmed at PDF 43 (p32), PDF 62 (p51), PDF 98 (p87).
  'q01_pick': (B + 'Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
  # Torres (ed) Modern Operative Dentistry (Springer 2020) Ch3 Cariology: Caneppele, Borges, Torres, Rodrigues, Attin (contents page). Offset 14 confirmed at PDF 118 (p104), PDF 121 (p107), PDF 130 (p116).

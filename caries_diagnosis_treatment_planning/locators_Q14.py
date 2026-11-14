@@ -11,8 +11,9 @@ F_EXTRA = {
  'q14_sik': (B+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
  # Modern Operative Dentistry (2020) Ch.3 Cariology, Caneppele et al. Offset 14 confirmed at PDF 115 (printed 101) and PDF 120 (printed 106).
  'q14_tor': (B+'Modern_Operative_Dentistry.md', 14, 'Caneppele et al., 2020'),
- # Sturdevant's Art and Science of Operative Dentistry 2nd South Asia ed (2019) Ch.3; no chapter author, editors Ritter, Boushell and Walter cited. Offset 19 confirmed at PDF 102 (printed 83) and PDF 113 (printed 94).
- 'q14_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ritter, Boushell and Walter, 2019'),
+ # Sturdevant's 2nd South Asia ed (2019): contributors list assigns Ch.2 to Ferreira Zandoná and Ritter, Ch.3 to Boushell and Shugars. Harmonised 2026-11-14.
+ 'q14_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ 'q14_stu3': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Detection and Assessment of Dental Caries (2019) Ch.10 FACE, Lennon and Buchalla. Offset 2 confirmed at PDF 101 (printed 99) and PDF 102 (printed 100).
  'q14_face': (B+'Detection_and_Assessment_of_Dental_Caries.md', 2, 'Lennon and Buchalla, 2019'),
 }
@@ -49,7 +50,7 @@ L = {
  'q14_sp_e': ('q14_dd', 'Enamel caries: 0.6–0.85'),
  'q14_sp_d': ('q14_dd', 'Dentin Caries: 0.79–0.87'),
  'q14_tr_7974': ('q14_tor', 'It has a sensitivity to detect lesions in enamel on the occlusal surface of 79% and a specificity of 74%'),
- 'q14_stu_fp': ('q14_stu', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
+ 'q14_stu_fp': ('q14_stu3', 'the increased likelihood of false-positive diagnoses limits its usefulness as a principal diagnostic method'),
  'q14_lz_aadc': ('q14_las', 'laser fluorescence can be used as an adjunct to traditional caries detection methods and not used as a primary diagnostic tool'),
  # limitations
  'q14_sec': ('q14_dd', 'For secondary caries detection, there is evidence that DIAGNOdent is not helpful'),

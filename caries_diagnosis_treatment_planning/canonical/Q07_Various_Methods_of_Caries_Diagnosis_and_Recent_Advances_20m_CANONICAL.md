@@ -26,7 +26,7 @@ Teeth must be **clean, dry and well illuminated** (Longbottom and Ferreira Zando
 
 1. **History and risk factors:** age, fluoride exposure, diet, smoking, socio-economic status and general health (Singh, 2020).
 2. **Visual examination:** opacity, loss of lustre, discoloration, grey shadow under a marginal ridge, cavitation.
-3. **Tactile examination:** a sharp explorer "catch" is contraindicated because it can cavitate a remineralisable lesion; a **CPITN probe with a 0.5 mm ball** assesses roughness (Ritter et al., 2019).
+3. **Tactile examination:** a sharp explorer "catch" is contraindicated because it can cavitate a remineralisable lesion; a **CPITN probe with a 0.5 mm ball** assesses roughness (Boushell and Shugars, 2019).
 4. **Bitewing radiography:** for proximal lesions, sensitivity is only **0.2-0.3** for early (enamel) lesions and **0.4-0.6** for dentine lesions, with specificity **about 0.9**; depth is scored E1, E2, D1-D3 (Schwendicke and Göstemeyer, 2019). Radiographs cannot judge activity or cavitation (Kidd and Fejerskov, 2016) and underestimate lesion depth (Amaechi et al., 2013).
 5. **Fibre-optic transillumination (FOTI):** the lesion appears dark on a light background; dentine lesions show an orange-brown or bluish shadow. It is non-irradiating and repeatable (Hogan, Pretty and Ellwood, 2019).
 6. **Temporary tooth separation:** an orthodontic elastomeric separator left for **2-7 days** allows direct inspection of proximal surfaces (Longbottom and Ferreira Zandona, 2019).
@@ -54,9 +54,9 @@ Teeth must be **clean, dry and well illuminated** (Longbottom and Ferreira Zando
 
 | Issue | View 1 | View 2 |
 |---|---|---|
-| Sharp explorer | Contraindicated (Ritter et al., 2019); probing adds no diagnostic value (Longbottom and Ferreira Zandona, 2019) | Useful if drawn gently across the lesion (Kidd and Fejerskov, 2016; Machiulskiene, 2019) |
+| Sharp explorer | Contraindicated (Boushell and Shugars, 2019); probing adds no diagnostic value (Longbottom and Ferreira Zandona, 2019) | Useful if drawn gently across the lesion (Kidd and Fejerskov, 2016; Machiulskiene, 2019) |
 | Magnification | Improves accuracy by 50% (Amaechi et al., 2013) | Evidence limited and mixed (Longbottom and Ferreira Zandona, 2019) |
-| Fluorescence devices | Only of research interest (Kidd and Fejerskov, 2016); false positives limit DIAGNOdent as a principal method (Ritter et al., 2019) | Clinical evidence supports use in primary care (Neuhaus and Lussi, 2019) |
+| Fluorescence devices | Only of research interest (Kidd and Fejerskov, 2016); false positives limit DIAGNOdent as a principal method (Boushell and Shugars, 2019) | Clinical evidence supports use in primary care (Neuhaus and Lussi, 2019) |
 
 Both sides agree that a probe must never be forced to "catch" a fissure.
 
@@ -75,7 +75,7 @@ No single method suffices. A clean, dry visual-tactile examination with a scorin
 3. Longbottom C, Ferreira Zandona A. Preparing teeth for a clinical examination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.2.
 4. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.5.
 5. Singh H. Dental caries. In: Essentials of Preclinical Conservative Dentistry. 2nd ed. New Delhi: Wolters Kluwer (India); 2020. Ch.5.
-6. Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed (adapted by Gopikrishna V). New Delhi: Elsevier (RELX India); 2019. Ch.3, Patient assessment, examination, diagnosis and treatment planning.
+6. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 7. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
 8. Hogan R, Pretty IA, Ellwood RP. Fibre-optic transillumination: FOTI. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.14.
 9. Ekstrand KR, Braga MMMB. Visual detection criteria using the International Caries Detection and Assessment System (ICDAS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.6.

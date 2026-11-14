@@ -46,7 +46,7 @@ Flow rate is most useful; buffer, pH and counts support risk profiling and motiv
 
 ## References
 
-1. Ferreira Zandoná A, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: Elsevier (RELX India); 2019. Ch.2.
+1. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
 2. Kidd E, Fejerskov O. Essentials of Dental Caries. 4th ed. Oxford: Oxford University Press; 2016.
 3. Ngo HC, Wolff MS, Hume WR. Dental caries: activity and risk assessment as a logical and effective path to both prevention and cure. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.3.
 4. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.5.

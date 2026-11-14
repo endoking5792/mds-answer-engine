@@ -28,7 +28,7 @@
 | I. Dyes | **Caries detector dyes** | Stain demineralised dentine matrix; a poor indicator of carious dentine (Maltz et al., 2019) |
 | J. Imaging advances | Digital, subtraction and computer-aided radiography; CBCT | See section 3 |
 
-Of these, laser fluorescence, light-induced fluorescence and ACIST are FDA approved (Ritter, Boushell and Walter, 2019).
+Of these, laser fluorescence, light-induced fluorescence and ACIST are FDA approved (Boushell and Shugars, 2019).
 
 **Diagram:** tree with the four physical principles as branches, each listing its devices.
 
@@ -80,7 +80,7 @@ Logicon Caries Detector reached sensitivity 90.5% and specificity 88.3% (Caneppe
 
 - New devices are **adjuncts**: laser fluorescence is an adjunct, not a primary tool (Muruppel and Fried, 2023); fluorescent tools still have only research interest (Kidd and Fejerskov, 2016).
 - Every added test raises the chance of a **false-positive** diagnosis (Kidd and Fejerskov, 2016).
-- The standard of care remains **visual examination of clean, dry teeth with radiographs as indicated** (Ritter, Boushell and Walter, 2019).
+- The standard of care remains **visual examination of clean, dry teeth with radiographs as indicated** (Boushell and Shugars, 2019).
 
 ## 5. Conclusion
 
@@ -104,7 +104,7 @@ Advances in coronal caries diagnosis move from subjective, tissue-destructive pr
 14. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
 15. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
 16. Maltz M, Arthur RA, Fatturi-Parolo C. Caries detection dyes. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.9.
-17. Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3, Patient assessment, examination, diagnosis and treatment planning.
+17. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 18. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
 19. Zeller G, Young DA, Novy B. The American Dental Association Caries Classification System (ADA CCS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.7.
 20. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
