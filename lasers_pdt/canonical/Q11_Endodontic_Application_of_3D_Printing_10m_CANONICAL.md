@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Endodontic application of 3D printing." 10m, Oct/Nov 2025 (Manipal, Endodontics). No other wording absorbed. For 5 marks write sections 1 and 3 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 337 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Guided endodontics as a 50-mark topic is answered in the cleaning and shaping set; this answer covers the 3D-printing side and only summarises guided access.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 335 words, about 15 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Guided endodontics as a 50-mark topic is answered in the cleaning and shaping set; this answer covers the 3D-printing side and only summarises guided access.
 
 **Retrieval report.** Renne and DeFee, 3D Printing in Restorative Dentistry 3rd ed (2023) was read for printing practice (chapters 1-2; offset 0, confirmed at PDF 20, 21); it is a practice e-book that does not classify printing technologies and has no endodontic content, so the technology classification is taken from the DCNA article Watanabe et al 2022 (manufacturing and additive-manufacturing sections read, remainder scanned; printed page = PDF + 566, confirmed at PDF 6, 7, 20, 21). A library grep for "3D print", "three-dimensional print" and "stereolithograph" found endodontic passages that were read and cited: Nair, Levin and Nair, Cohen's 12th ed Ch.2 "3D-guided endodontics" (PDF pages only); Hülsmann, Schäfer and Bürklein, Treatment of Endodontic Infections 2nd ed Ch.17 (PDF pages only); Versiani, Cleghorn and Christie, Endodontics: Principles and Practice 6th ed Ch.12 (offset 7, confirmed at PDF 232-235); Cavalcanti and Chiego, Vital Pulp Treatment Ch.1 (offset 17, confirmed at PDF 19, 21, 31, 33). The laser books were not relevant. PubMed (abstracts only): "3D printing endodontics review applications", "guided endodontics review", "tooth autotransplantation 3D printed replica donor tooth systematic review"; four used. Cohen's Ch.2 gives tooth-structure loss for guided versus freehand access as "49.9 mm vs. 9.8 mm", which is garbled in the file (units and order unclear), so it is not quoted. No critical synthesis (10 marks).
 
@@ -40,7 +40,7 @@ Surgical guides are commonly printed in light-cured resin with metal sleeves add
 #### ✎ Exam core
 
 **Technologies** (Watanabe et al, 2022)
-1. Stereolithography (SLA): laser cures light-activated resin layer by layer; one of the commonest methods for guides and models.
+1. Stereolithography (SLA): laser cures light-activated resin layer by layer; one of the commonest polymer printing methods.
 2. Digital light processing (DLP): projector cures a whole layer at once.
 3. Material jetting.
 4. Material extrusion (fused deposition modelling).
@@ -52,7 +52,7 @@ Resin layers are 50-100 µm and need post-curing (Renne and DeFee, 2023).
 
 ### Explanation
 
-**a. Guided access to calcified canals (static guided endodontics).** Used for calcified canals and anatomical variations (Nair, Levin and Nair, 2021) [SRC]. In one study of calcified teeth canals were found in 91.7% with guided access versus 41.7% freehand (Nair, Levin and Nair, 2021) [SRC]. Cohen's adds that high-level evidence is lacking and the literature is in vitro studies and case reports (Nair, Levin and Nair, 2021) [SRC]. A 2026 scoping review found 13 clinical studies, mostly case series, with only two RCTs and inconsistent outcome definitions (Alhawiti and Ali, 2026) [LIT].
+**a. Guided access to calcified canals (static guided endodontics).** Used for calcified canals and anatomical variations (Nair, Levin and Nair, 2021) [SRC]. In one study of calcified teeth canals were found in 91.7% with guided access versus 41.7% freehand (Nair, Levin and Nair, 2021) [SRC]. Cohen's adds that high-level evidence is lacking and the literature is in vitro studies and case reports (Nair, Levin and Nair, 2021) [SRC]. A 2026 scoping review found 13 clinical studies (4 case series, 3 observational or validation studies, 1 retrospective, 3 prospective comparative studies and 2 RCTs), with inconsistent outcome definitions and limited follow-up (Alhawiti and Ali, 2026) [LIT].
 
 **b. Guided endodontic microsurgery.** Templates make osteotomy and root-end resection more precise. Guides deviated 1.743 mm from the CBCT target against 2.638 mm for freehand surgery (Nair, Levin and Nair, 2021) [SRC]. Targeted endodontic microsurgery (TEMS) with 3D-printed guides has been proposed to optimise resection volume and bevel angle (Hülsmann, Schäfer and Bürklein, 2022) [SRC].
 
@@ -99,7 +99,7 @@ Guides improve precision and conserve tooth structure, but they need CBCT (radia
 
 ## Common exam mistakes
 - Writing only restorative uses (crowns, models) and missing guides and replicas.
-- Calling guided access proven by RCTs; evidence is mostly case series.
+- Calling guided access proven by RCTs; clinical evidence is heterogeneous, with only two RCTs.
 - Confusing static guides with dynamic navigation (no printed guide).
 - Listing printer brands instead of technology types.
 

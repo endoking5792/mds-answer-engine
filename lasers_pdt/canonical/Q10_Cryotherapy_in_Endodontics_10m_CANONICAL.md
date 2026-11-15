@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Cryotherapy in Endodontics." 10m, Oct/Nov 2025 (Manipal, Endodontics). No other wording absorbed. For 5 marks write sections 1, 3 and 5 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 347 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Irrigation devices (EndoVac and other negative-pressure systems) are covered in irrigants/ and only named here.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 377 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Irrigation devices (EndoVac and other negative-pressure systems) are covered in irrigants/ and only named here.
 
 **Retrieval report.** The question set assumed that no textbook covers cryotherapy. A grep of the whole library for "cryotherap", "cold saline" and "intracanal cryo" found two short textbook passages, which were read and are cited: Peters, Arias and Shabahang, Endodontics: Principles and Practice 6th ed Ch.14 "Irrigants for cryotherapy" (offset 7, confirmed at PDF 310, 311, 314) and Teixeira and Cheung, Cohen's 12th ed Ch.19 (one paragraph; PDF pages only). Coluzzi and Parker's cryotherapy hits concern cryosurgery of oral lesions and are not relevant. Textbook coverage is one paragraph each, so mechanism, temperature data and the evidence base come from PubMed (all abstracts only): searches "intracanal cryotherapy postoperative pain systematic review" (7 hits; 6 used), "Vera J cryotherapy root canal" (2 hits, both used), "cryotherapy external root surface temperature cold saline", "intraoral cryotherapy endodontic" (2 hits, both used). No DCNA article on cryotherapy is in the DCNA list. Physiological effects of cold in general (vasoconstriction, slowed nerve conduction) were not found in a source read this session and are marked [RECALL]. No critical synthesis (10 marks).
 
@@ -27,7 +27,7 @@ Postoperative endodontic pain is common, especially with preoperative pain, pulp
 
 **Rationale/mechanism**
 - Cold causes vasoconstriction, less oedema, slower nerve conduction and fewer inflammatory mediators.
-- 2.5 °C saline lowered the external root surface temperature by more than 10 °C for 4 minutes in extracted teeth (Vera et al, 2015), enough for a local anti-inflammatory effect in periradicular tissue.
+- 2.5 °C saline lowered the external root surface temperature by more than 10 °C for 4 minutes in extracted teeth (Vera et al, 2015), which the authors suggest may be enough for a local anti-inflammatory effect.
 - Intraoral cold packs reduced substance P in apical fluid (Hamza et al, 2024).
 
 ## 2. Types
@@ -52,7 +52,7 @@ The protocol described by Vera et al and reproduced in both textbooks: after cle
 #### ✎ Exam core
 
 **Intracanal protocol** (Vera et al, 2018)
-1. Complete cleaning, shaping and the usual NaOCl/EDTA irrigation.
+1. Complete cleaning and shaping with the usual irrigation protocol.
 2. Final irrigation: 20 mL sterile saline at 2.5 °C.
 3. Deliver to working length through a cold sterile EndoVac microcannula for 5 minutes.
 4. Dry and obturate or dress as usual.
@@ -78,22 +78,22 @@ The reviews agree on an early, short-lived benefit, strongest in symptomatic api
 
 **Evidence**
 - RCT (Vera et al, 2018), 210 patients with necrotic teeth and symptomatic apical periodontitis: cold saline reduced incidence and intensity of postoperative pain and analgesic use.
-- Meta-analyses: pain reduced at 6 and 24 h, not at 48-72 h (Sadaf et al, 2020: 8 RCTs, moderate quality); 16 RCTs, risk ratio 0.72 (Huang et al, 2026).
+- Meta-analyses: pain reduced at 6 and 24 h, not at 48-72 h (Sadaf et al, 2020: 8 RCTs, moderate quality); 16 RCTs, risk ratio 0.72, lower intensity up to 48 h (Huang et al, 2026).
 - Benefit seen in symptomatic apical periodontitis, not in teeth with normal periapex (Hespanhol et al, 2022); in irreversible pulpitis only at 6-12 h (Mohamed et al, 2026).
-- Intraoral and intracanal cryotherapy equally effective (Ajeesh et al, 2023).
+- Intraoral and intracanal cryotherapy both reduced pain at 6 and 24 h, with no significant difference between them (Ajeesh et al, 2023).
 - Certainty is low to moderate; heterogeneous small trials.
 
 ## 5. Advantages, limitations and indications
 
 ### Explanation
 
-Its attractions are low cost, simplicity and no systemic drug effects (Huang et al, 2026; Mohamed et al, 2026) [LIT]. Limitations: the effect is confined to the first day or two; a negative-pressure system and a cold chain for saline are needed; the in vitro temperature data come from extracted teeth without periodontal blood flow, so the true periradicular temperature in vivo is unknown [Likely]. It is an adjunct and does not replace thorough debridement or analgesics when indicated [Likely].
+Its attractions are simplicity, low cost and safety (Mohamed et al, 2026) [LIT], and it may reduce the need for analgesics (Huang et al, 2026) [LIT]; the absence of systemic drug effects follows from its being non-pharmacological [Likely]. Limitations: the effect is mainly in the first day, with reviews disagreeing on whether it lasts to 48-72 h (Sadaf et al, 2020; Almohaimede and Al-Madi, 2021; Huang et al, 2026) [LIT]; a negative-pressure system and a cold chain for saline are needed; the in vitro temperature data come from extracted teeth without periodontal blood flow, so the true periradicular temperature in vivo is unknown [Likely]. It is an adjunct and does not replace thorough debridement or analgesics when indicated [Likely].
 
 #### ✎ Exam core
 
 **Advantages:** simple, cheap, non-pharmacological, no systemic side effects, may reduce analgesic need.
 
-**Limitations:** effect lasts only 6-24 h; needs negative-pressure delivery; temperature data are ex vivo; protocols vary; low-certainty evidence.
+**Limitations:** effect is mainly early (6-24 h; up to 48-72 h in some reviews); needs negative-pressure delivery; temperature data are ex vivo; protocols vary; low-certainty evidence.
 
 **Indication:** best supported as an adjunct in necrotic teeth with symptomatic apical periodontitis.
 

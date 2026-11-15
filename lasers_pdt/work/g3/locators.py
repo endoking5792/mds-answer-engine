@@ -243,6 +243,8 @@ L = {
  'sk_retro': ('g3:sik', 'The root-surface cracking that produced by ultrasonic retropreparation tips/ conventional preparation using a bur have been overcome by lasers'),
  'sk_hydro': ('g3:sik', 'It involves removal of tissues with laser-energized water droplets'),
  'sk_analg': ('g3:sik', 'The pulsed Nd:YAG laser has been successfully used for achieving analgesia'),
+ 'sk_ndmelt': ('g3:sik', 'Nd:YAG laser may present melted and recrystallized dentin'),
+ 'g3_erbanalg': ('g3:cp9', 'as well as by pulsed Nd:YAG and middle-infrared erbium lasers'),
  'sk_instr': ('g3:sik', 'Carbon dioxide, argon and Nd:YAG lasers effectively sterilize the instruments used in endodontics'),
  # --- Alshahrani et al 2016 (Current Therapy Ch.10)
  'ct_bahcall': ('g3:ct10', 'The histological findings indicated a major bone remodeling and periodontal ligament necrosis'),

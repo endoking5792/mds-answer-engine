@@ -3,7 +3,7 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** none; predicted question (Recent Advances). It overlaps the physics paragraphs of Q01 (Lasers in Conservative Dentistry and Endodontics, 100m), which is the umbrella answer; P3 compares individual wavelengths in endodontics and is not repeated here.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 394 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser safety classes are only named here; the safety measures are in P2.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 399 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser safety classes are only named here; the safety measures are in P2.
 
 **Retrieval report.** Coluzzi and Parker, Lasers in Dentistry—Current Concepts 1st ed 2017: Ch.2 Coluzzi (offset 9, confirmed at PDF 26 and 35), Ch.3 Parker (offset 9, confirmed at PDF 39 and 47), Ch.4 Selting (offset 8, confirmed at PDF 65 and 67), Glossary (printed = PDF + 3, confirmed at PDF 389 and 390). Same book 2nd ed 2023, Ch.2 Coluzzi (page-marker offset 11, confirmed at markers 30 and 41). Convissar, Principles and Practice of Laser Dentistry 2nd ed 2016, Ch.2 Coluzzi, Convissar and Roshkind (offset 7, confirmed at PDF 19 and 25). Pandey 2018 Ch.2, 4, 5 (no printed page numbers in the file; PDF pages only). DCNA (read in full): Green et al 2011 (offset -584, confirmed at PDF 2 and 3); Banday et al 2026 (offset -30, confirmed at PDF 2 and 5). Searches: "population inversion", "stimulated emission", "resonator", "emission mode", "gated", "free-running", "chromophore", "absorption coefficient", "photothermolysis", "photobiomodulation", "extinction length", "thermal relaxation", "classified according to", "Class". Also grepped Sikri Ch.31 and Grossman Ch.24 (physics restated, nothing added). No live literature. No critical synthesis (10 marks).
 
@@ -38,7 +38,7 @@ LASER is the acronym for light amplification by stimulated emission of radiation
 - Pumping raises electrons to a higher energy level; a photon striking an excited atom releases two identical photons (same phase, direction, wavelength) = stimulated emission.
 - **Population inversion:** more atoms excited than at rest; needed for amplification (Coluzzi and Parker, 2017).
 
-**Components** (Coluzzi et al, 2016):
+**Components** (Coluzzi et al, 2016; item 4 from Coluzzi, 2017):
 1. Active medium: gas (CO2), solid crystal (Nd:YAG, Er:YAG, Er,Cr:YSGG), semiconductor (diode).
 2. Pumping source: flash lamp or electric current.
 3. Optical resonator: one fully reflective and one partially transmissive mirror.

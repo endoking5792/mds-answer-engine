@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay (predicted)
 **Sitting:** not asked in the papers collected; predicted from the repeated "Lasers in endodontics" questions (Q03) and the cleaning/disinfection questions (Q04), which reward a comparison of the four lasers used inside the canal. Can also serve as the comparison table inside Q03 or Q01.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 394 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics and emission modes in general are in Q01 and P1; the endodontic applications of each laser are in Q03 and Q04 and are only compared here.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 399 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics and emission modes in general are in Q01 and P1; the endodontic applications of each laser are in Q03 and Q04 and are only compared here.
 
 **Retrieval report.** Read: George and Walsh, Coluzzi and Parker 1st ed (2017) Ch.9 in full (offset 6, confirmed at PDF 197, 198, 203) and 2nd ed (2023) Ch.9 (offset 8, confirmed at PAGE 299, 301, 305); Coluzzi (2017) Ch.2 emission modes and delivery (offset 9, confirmed at PDF 26, 27, 34); Parker (2017) Ch.3 hard-tissue section (offset 9, confirmed at PDF 38, 39, 54); Selting (2017) Ch.4 soft-tissue considerations (offset 8, confirmed at PDF 65, 83); Pandey (2018) Ch.4 absorption pages, Ch.5 erbium and diode pages and Ch.8 (PDF pages only); Stabholz et al, Convissar 2nd ed Ch.13 (offset 6); Gopikrishna, Grossman 14th ed Ch.24 wavelength section (offset 25); Sikri Ch.31 (offset 21); Fouad and Levin, Cohen's 12th ed Ch.14 laser section (PDF pages only); DCNA, read in full: Banday et al 2026 (Table 1; offset 30) and Mortman 2011 (offset 460). Searches: wavelength, free-running, gated, continuous wave, absorption coefficient, chromophore, melanin, fiber/hollow, penetration.
 
-<!--LOC: g3_t_er, g3_t_ercr, g3_t_nd, g3_t_diode, gr_ercr, coh_ercr2790, gr_diode, pa_gaalas, pa_er2900, pa_abser, pa_absercr, g3c_frp, g3c_cw, pa_gated, pa_frp, g3c_erpulse, pa_150, pa_water, g3c_nowater, g3c_ndpoor, coh_ndwater, pa_melanin, bn_ndpig, pa_nir, pa_mir, g3c_fiber, pa_noquartz, cv_hollow, coh_erfibre, pa_erdeliv, gr_erfibre, pa_quartz30, g3_1mm, pa_deep, g3_05mm, g3_nirpref, g3_ndsmear, g3_takeda, g3_erfluid, g3_cavitspeed, g3_diodeagit, g3_h2o2, bn_diode, pa_3log, pa_810, pa_980, sk_ndmost, gr_ndster, mo_most, mo_1727, coh_ndpulp, g3_apicohealing, g3_bonecut, mo_retro, pa_tet, g3c_ndcost, pa_pipsparam, g3b_05naocl, g3b_crack, cv_ldf, bn_ndtable, g3_diodeheat, cv_ndseal, cv_gouw, sk_analg, pa_radial2007-->
+<!--LOC: g3_t_er, g3_t_ercr, g3_t_nd, g3_t_diode, gr_ercr, coh_ercr2790, gr_diode, pa_gaalas, pa_er2900, pa_abser, pa_absercr, g3c_frp, g3c_cw, pa_gated, pa_frp, g3c_erpulse, pa_150, pa_water, g3c_nowater, g3c_ndpoor, coh_ndwater, pa_melanin, bn_ndpig, pa_nir, pa_mir, g3c_fiber, pa_noquartz, cv_hollow, coh_erfibre, pa_erdeliv, gr_erfibre, pa_quartz30, g3_1mm, pa_deep, g3_05mm, g3_nirpref, g3_ndsmear, g3_takeda, g3_erfluid, g3_cavitspeed, g3_diodeagit, g3_h2o2, bn_diode, pa_3log, pa_810, pa_980, sk_ndmost, gr_ndster, mo_most, mo_1727, coh_ndpulp, g3_apicohealing, g3_bonecut, mo_retro, pa_tet, g3c_ndcost, pa_pipsparam, g3b_05naocl, g3b_crack, cv_ldf, bn_ndtable, g3_diodeheat, cv_ndseal, cv_gouw, sk_analg, pa_radial2007, pa_dryNIR, g3_erbanalg-->
 
 <!--REF: GW2017, GW2023, Coluzzi2017, Parker2017, Selting2017, Pandey2018, Stabholz2016, Gopikrishna2021, Sikri2019, Fouad2021, Banday2026, Mortman2011-->
 
@@ -21,9 +21,9 @@
 
 **Absorption in water.** Pandey's table gives Er:YAG an absorption coefficient of 12,250 cm⁻¹ (absorption depth 0.9 μm) (Pandey, 2018) [SRC] and Er,Cr:YSGG 6500 cm⁻¹ (1.6 μm) (Pandey, 2018) [SRC]. So Er:YAG is roughly twice as strongly absorbed in water as Er,Cr:YSGG [Certain: arithmetic on the cited figures]. Water is relatively transparent to diode and Nd:YAG (Pandey, 2018) [SRC]; Selting states water produces almost no interaction at diode wavelengths (Selting, 2017) [SRC] and that Nd:YAG suffers the same poor absorption (Selting, 2017) [SRC]. **Contradiction:** Fouad and Levin say Nd:YAG has "a high affinity for water and pigmented tissues" (Fouad and Levin, 2021) [SRC], and Banday et al's table lists melanin, haemoglobin and water for Nd:YAG (Banday et al, 2026) [SRC]. The laser textbooks are consistent that the near-infrared chromophores are pigments: diode and Nd:YAG have high affinity for melanin (Pandey, 2018) [SRC], and Banday et al describe Nd:YAG as acting on pigmented tissues such as haemoglobin (Banday et al, 2026) [SRC].
 
-**Emission mode.** Nd:YAG, Er:YAG and Er,Cr:YSGG are free-running pulsed lasers (Coluzzi, 2017) [SRC]; diode is continuous wave, gated electronically (Coluzzi, 2017; Pandey, 2018) [SRC]. Erbium pulses are 50-150 μs with peak powers above 1000 W (Parker, 2017) [SRC]; Pandey links pulses under 150 μs with less thermal impact (Pandey, 2018) [SRC].
+**Emission mode.** Nd:YAG, Er:YAG and Er,Cr:YSGG are free-running pulsed lasers (Coluzzi, 2017) [SRC]; diode is continuous wave, which can be gated (Coluzzi, 2017; Pandey, 2018) [SRC]. Erbium pulses are 50-150 μs with peak powers above 1000 W (Parker, 2017) [SRC]; Pandey links pulses under 150 μs with less thermal impact (Pandey, 2018) [SRC].
 
-**Delivery.** Diode and Nd:YAG use small flexible fibres (Coluzzi, 2017) [SRC]; erbium wavelengths cannot pass through quartz fibres (Pandey, 2018) [SRC], and only about 30% of Er:YAG power passes a 12 mm quartz tip (Pandey, 2018) [SRC]. Er:YAG delivery is described as a hollow tube (Stabholz et al, 2016) [SRC], a solid optic fibre (Fouad and Levin, 2021) [SRC], or "optical fiber or waveguide" (Pandey, 2018) [SRC]; Gopikrishna says erbium uses a fibre that is not easily transmitted along glass (Gopikrishna, 2021) [SRC].
+**Delivery.** Diode and Nd:YAG use small flexible fibres (Coluzzi, 2017) [SRC]; erbium wavelengths cannot pass through quartz fibres (Pandey, 2018) [SRC], and only about 30% of Er:YAG power passes a 12 mm quartz tip (Pandey, 2018) [SRC]. Er:YAG delivery is described as a hollow tube (Stabholz et al, 2016) [SRC], a solid optic fibre (Fouad and Levin, 2021) [SRC], or "optical fiber or waveguide" (Pandey, 2018) [SRC]; Gopikrishna says erbium is fibre-delivered but its wavelengths are not easily transmitted along glass fibre (Gopikrishna, 2021) [SRC].
 
 #### ✎ Exam core
 
@@ -48,7 +48,7 @@
 
 **Disinfection depth.** Near-infrared lasers give greater penetration of the disinfecting action than mid-infrared (George and Walsh, 2017) [SRC]. Laboratory figures: Nd:YAG three log steps at 1 mm (Pandey, 2018) [SRC]; 810 nm diode 74% in 500 μm (Pandey, 2018) [SRC]; 980 nm diode 66-86% depending on power (Pandey, 2018) [SRC]. Sikri ranks Nd:YAG as the most bactericidal (Sikri, 2019) [SRC]; Gopikrishna calls pulsed Nd:YAG ideal for root canal sterilisation (Gopikrishna, 2021) [SRC]. Pandey's Twinlight protocol pairs the two families: Nd:YAG for deep thermal disinfection and Er:YAG for photoacoustic cleaning (Pandey, 2018) [SRC].
 
-**Surgery and other uses.** Erbium lasers cut bone and root ends cleanly (George and Walsh, 2017) [SRC] and gave better healing in apical surgery (George and Walsh, 2017) [SRC]; Er,Cr:YSGG retropreparation produced fewer cracks than ultrasonics in vitro (Mortman, 2011) [SRC]. Nd:YAG has been used to seal resected dentin in apical surgery (Stabholz et al, 2016) [SRC] and for analgesia (Sikri, 2019) [SRC]. Diode lasers at high irradiance raise concern about heat conducted to the supporting tissues (George and Walsh, 2017) [SRC]. Diode lasers are used for crack diagnosis (George and Walsh, 2023) [SRC] and LDF (Stabholz et al, 2016) [SRC].
+**Surgery and other uses.** Erbium lasers cut bone and root ends cleanly (George and Walsh, 2017) [SRC] and gave better healing in apical surgery (George and Walsh, 2017) [SRC]; Er,Cr:YSGG retropreparation produced fewer cracks than ultrasonics in vitro (Mortman, 2011) [SRC]. Nd:YAG has been used to seal resected dentin in apical surgery (Stabholz et al, 2016) [SRC] and for analgesia (Sikri, 2019) [SRC]; George and Walsh report analgesia with diode, pulsed Nd:YAG and erbium lasers (George and Walsh, 2017) [SRC]. Diode lasers at high irradiance raise concern about heat conducted to the supporting tissues (George and Walsh, 2017) [SRC]. Diode lasers are used for crack diagnosis (George and Walsh, 2023) [SRC] and LDF (Stabholz et al, 2016) [SRC].
 
 **Risks.** Nd:YAG can raise root-surface temperature 17-27 °C (Mortman, 2011) [SRC] and causes more pulpal charring and inflammation than Er:YAG (Fouad and Levin, 2021) [SRC]. Mortman notes Nd:YAG, Er,Cr:YSGG and Er:YAG are the most studied endodontic lasers (Mortman, 2011) [SRC].
 
@@ -61,7 +61,7 @@
 | Photothermal disinfection | superficial | superficial | deep, strongly bactericidal | deep |
 | Irrigant activation (LAI) | best; PIPS, SWEEPS | yes | weak | weak (seconds), aided by H2O2 |
 | Apical surgery | bone cutting, root resection | root-end preparation | seals resected tubules | soft tissue, PBM |
-| Diagnosis / PBM | no | no | analgesia | LDF, crack detection, PBM |
+| Diagnosis / PBM / analgesia | analgesia | analgesia | analgesia | LDF, crack detection, PBM |
 | Thermal risk | low with water | low with water | high (17-27 °C) | moderate |
 
 (George and Walsh, 2017, 2023; Pandey, 2018; Mortman, 2011; Fouad and Levin, 2021)
@@ -74,7 +74,7 @@ The two families do different jobs because of where their energy is absorbed. Er
 
 #### ✎ Exam core
 
-**Interpretation.** Erbium lasers are absorbed by water within microns of the surface, so they ablate smear layer and cavitate irrigant but disinfect superficially. Nd:YAG and diode pass through water and dentin and are absorbed by bacterial pigment, so they disinfect deeper but heat the root and melt dentin (George and Walsh, 2017; Pandey, 2018; Mortman, 2011). Er:YAG absorbs water about twice as strongly as Er,Cr:YSGG (Pandey, 2018). No single laser is ideal: erbium for cleaning and activation, Nd:YAG/diode for deep disinfection, combined in dual-wavelength protocols (Twinlight) as adjuncts to chemomechanical preparation (Pandey, 2018). Diode is the cheapest (Selting, 2017).
+**Interpretation.** Erbium lasers are absorbed by water within microns of the surface, so they ablate smear layer and cavitate irrigant but disinfect superficially. Nd:YAG and diode pass through water and dentin and are absorbed by bacterial pigment, so they disinfect deeper but heat the root and, used dry, melt dentin (George and Walsh, 2017; Pandey, 2018; Mortman, 2011). Er:YAG absorbs water about twice as strongly as Er,Cr:YSGG (Pandey, 2018). No single laser is ideal: erbium for cleaning and activation, Nd:YAG/diode for deep disinfection, combined in dual-wavelength protocols (Twinlight) as adjuncts to chemomechanical preparation (Pandey, 2018). Diode is cheaper than Nd:YAG (Selting, 2017).
 
 ## High-yield points
 - Mid-IR erbium = water absorption, surface action, cavitation; near-IR Nd:YAG/diode = pigment absorption, deep penetration.
@@ -88,7 +88,7 @@ The two families do different jobs because of where their energy is absorbed. Er
 
 ## Common exam mistakes
 - Saying Nd:YAG is well absorbed by water (Cohen's says so, but the laser textbooks say the opposite: state the disagreement).
-- Calling the diode a pulsed laser like Nd:YAG: it is continuous wave, gated.
+- Calling the diode a free-running pulsed laser like Nd:YAG: it is continuous wave, gated (Grossman also mentions a pulsed mode).
 - Giving one wavelength for Er,Cr:YSGG without noting 2780/2790 nm.
 - Ranking one laser "best" without naming the task.
 
@@ -161,6 +161,8 @@ The two families do different jobs because of where their energy is absorbed. Er
 - Stabholz et al, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.236 (printed p.230): "An Er:YAG laser was applied to perform the osteotomy and root resection, whereas Nd:YAG laser irradiation was used to seal the dentinal tubules"
 - Sikri, 2019, 31_31_Lasers_in_Endodontics.md, PDF p.567 (printed p.546): "The pulsed Nd:YAG laser has been successfully used for achieving analgesia"
 - Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.179: "a radial-emitting tip was proposed in 2007 for the Er,Cr:YSGG laser"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.173: "the smear layer is only partially removed, and the dentinal tubules are primarily closed as a result of melting"
+- George and Walsh, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.209 (printed p.203): "as well as by pulsed Nd:YAG and middle-infrared erbium lasers"
 
 **[LIT]** opened this session through PubMed (abstracts only; full texts not read):
 - Sabeti M, Harouni A, Gabbay J. Comparing ultrasonically activated irrigation and laser-activated irrigation for postoperative pain reduction in endodontics: a systematic review and meta-analysis of randomized controlled trials. J Endod. 2025. https://doi.org/10.1016/j.joen.2025.08.002. PMID 40818665 (PubMed abstract read).

@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Laser activated irrigation using PIPS." 10m, 16-Jun-2022 (RG PII RS-5). No other wording is absorbed.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 362 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics and the general laser-tissue interaction are in Q01; direct intracanal laser disinfection (fibre withdrawn from the apex) is in Q04; photodynamic therapy is Q06. The irrigants topic already has a short PIPS/SWEEPS paragraph inside a broad "recent advances" answer (`irrigants/Q06_RecentAdvances_Detailed.md`, section 6C) and the conventional activation devices (sonic, ultrasonic, negative pressure) in `irrigants/Q05_Techniques_Devices_20m.md`; this answer is the stand-alone 10-mark version and does not repeat the device comparison beyond what PIPS needs.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 379 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics and the general laser-tissue interaction are in Q01; direct intracanal laser disinfection (fibre withdrawn from the apex) is in Q04; photodynamic therapy is Q06. The irrigants topic already has a short PIPS/SWEEPS paragraph inside a broad "recent advances" answer (`irrigants/Q06_RecentAdvances_Detailed.md`, section 6C) and the conventional activation devices (sonic, ultrasonic, negative pressure) in `irrigants/Q05_Techniques_Devices_20m.md`; this answer is the stand-alone 10-mark version and does not repeat the device comparison beyond what PIPS needs.
 
 **Retrieval report.** Primary chapter: Basrani (ed), Endodontic Irrigation, Ch.13 by Jaramillo, a dedicated PIPS chapter (offset 13, confirmed at PDF 240, 242, 246). Laser books: Pandey Ch.8 (no printed page numbers in the file, PDF page only); Coluzzi and Parker 1st ed (2017) Ch.9 by George and Walsh (offset 6, confirmed at PDF 197, 199, 205, 207); Coluzzi and Parker 2nd ed (2023) Ch.9 by George and Walsh (offset 8, confirmed at PAGE 301 and 310 by the printed folio); Convissar Ch.13 by Stabholz, Sahar-Helft and Moshonov (offset 6, confirmed at PDF 226, 227, 233). Endodontic texts: Sikri 2nd ed Ch.31 (offset 21, confirmed at PDF 560, 569); Siqueira and Rôças, Treatment of Endodontic Infections 2nd ed Ch.14 (PDF page only). Grossman 14th ed Ch.24 was read; it has a two-line clinical note on PIPS and adds nothing citable. Current Therapy Ch.10, Ingle's Ch.21 and Cohen's Ch.8 were found by grep for "PIPS" but not used, because the irrigants answers already draw on Ingle's. DCNA: Mortman 2011 and Guruswamy Pandian et al 2026, both read in full. Searches: grep for PIPS, photon induced, photoacoustic, SWEEPS, laser activated irrigation, LAI across the four laser books and the endodontic chapterwise folders; PubMed for PIPS/SWEEPS systematic reviews (2019 onwards), four abstracts used.
 
-<!--LOC: g4_jar_subabl, g4_jar_peak400, g4_jar_indirect, g4_jar_chamber, g4_jar_largerfiles, g4_jar_peterspui, g4_jar_divito, g4_jar_14c, g4_jar_saunders, g4_jar_fincham, g4_jar_noatten, g4_jar_22mm, g4_jar_83v100, g4_jar_protocol, g4_jar_edta, g4_pan_cav, g4_pan_5020, g4_pan_tip, g4_pan_photoac, g4_pan_lai5mm, g4_pan_4x, g4_pan_unpub, g4_pan_995, g4_pan_73, g4_pan_tet, g4_gw17_pips, g4_gw17_bubble, g4_gw17_collapse, g4_gw17_extr, g4_gw17_highpulse, g4_gw17_refresh, g4_gw23_sweeps, g4_gw23_collapse, g4_gw23_rsweeps, g4_gw23_05, g4_gw23_wall, g4_gw23_small, g4_gw23_clin, g4_stab_patent, g4_stab_lloyd, g4_stab_invitro, g4_sik_pips, g4_tei_pipsclin, g4_tei_noclin, g4_mort_extr, g4_mort_nostud, g4_guru_lower, g4_guru_negl, g4_guru_pain, g4_pan_linear, g4_pan_tips, g4_gw17_2008, g4_jar_water-->
+<!--LOC: g4_jar_subabl, g4_jar_peak400, g4_jar_indirect, g4_jar_chamber, g4_jar_largerfiles, g4_jar_peterspui, g4_jar_divito, g4_jar_14c, g4_jar_saunders, g4_jar_fincham, g4_jar_noatten, g4_jar_22mm, g4_jar_83v100, g4_jar_protocol, g4_jar_edta, g4_pan_cav, g4_pan_5020, g4_pan_tip, g4_pan_photoac, g4_pan_lai5mm, g4_pan_4x, g4_pan_unpub, g4_pan_995, g4_pan_73, g4_pan_tet, g4_gw17_pips, g4_gw17_bubble, g4_gw17_collapse, g4_gw17_extr, g4_gw17_highpulse, g4_gw17_refresh, g4_gw23_sweeps, g4_gw23_collapse, g4_gw23_rsweeps, g4_gw23_05, g4_gw23_wall, g4_gw23_small, g4_gw23_clin, g4_stab_patent, g4_stab_lloyd, g4_stab_invitro, g4_sik_pips, g4_tei_pipsclin, g4_tei_noclin, g4_mort_extr, g4_mort_nostud, g4_guru_lower, g4_guru_negl, g4_guru_pain, g4_pan_linear, g4_pan_tips, g4_gw17_2008, g4_jar_water, g4_jar_laminar, g4_pan_turb-->
 <!--REF: Jaramillo2015, Pandey2018, GeorgeWalsh2017, GeorgeWalsh2023, Stabholz2016, Sikri2019, Siqueira2022, Mortman2011, Guruswamy2026-->
 <!--LIT: deAssis2026, McGillivray2024, Brum2025, Natanasabapathy2021-->
 
@@ -27,7 +27,7 @@ Laser-activated irrigation (LAI) uses laser energy to agitate an irrigant alread
 #### ✎ Exam core
 **Definition.** PIPS (photon-induced photoacoustic streaming) is laser-activated irrigation in which an Er:YAG laser (2940 nm) at subablative energy activates irrigant in the pulp chamber, streaming it three-dimensionally through the canal system (Jaramillo, 2015).
 
-**Principle.** Water absorbs the pulse → vapour bubble → expansion and implosion (cavitation) → shock wave → streaming; the vapour lock is broken (George and Walsh, 2017). Short pulses give high peak power: photoacoustic, not photothermal (Pandey, 2018).
+**Principle.** Water absorbs the pulse → vapour bubble → expansion and implosion (cavitation) → shock wave → streaming; the vapour lock is broken (George and Walsh, 2017). Short pulses give high peak power: mainly photoacoustic rather than photothermal (Pandey, 2018).
 
 ## 2. Tip, parameters and technique
 
@@ -52,7 +52,7 @@ Laser-activated irrigation (LAI) uses laser energy to agitate an irrigant alread
 **Tip position.** Traditional laser endodontics places the fibre 1 mm short of the working length; earlier LAI used 5 mm short of the apex (Pandey, 2018) [SRC]. The PIPS tip is not placed in the canal at all, only in the pulp chamber (Jaramillo, 2015) [SRC], held stationary in the coronal chamber with the canal orifices open and the chamber flooded. Jaramillo argues this reduces the need for larger files and rotary instruments to create larger canal shapes (Jaramillo, 2015) [SRC]; that is the minimally invasive claim, and it rests on the laboratory fluid data below [Likely].
 
 **Manufacturer protocol** as reported by Jaramillo (Jaramillo, 2015) [SRC]:
-1. NaOCl with PIPS in 30 s activation cycles separated by 30 s rest periods (the chapter text reads "six 30 s cycle[s]" with three rests, then describes three NaOCl cycles; the figure was not available in the file, so the exact cycle count should be checked against the printed figure).
+1. NaOCl with PIPS in 30 s activation cycles separated by 30 s rest periods (the chapter text reads "six 30 s cycle[s]" of activation with three 30 s rests, then says "3–30 s cycles" with NaOCl; this may mean six 30 s periods, three on and three off [Guessing]; Fig. 13.6, which shows the protocol, is not reproduced in the file, so check the cycle count against the printed figure).
 2. 30 s of PIPS with water.
 3. Chamber emptied; 17% EDTA activated with continuous flow for 30 s (Jaramillo, 2015) [SRC].
 4. A final 30 s of water with PIPS; the canal is then ready for obturation.
@@ -74,23 +74,23 @@ Irrigant must be replenished during activation; refreshing the fluid between las
 
 ### Explanation
 
-**Fluid dynamics.** Jaramillo reports Fincham's velocimetry: PIPS gave over 1.2 m/s at 3 mm from the tip and about 0.3 m/s at 5, 10 and 15 mm, with no further fall with distance after the initial drop (Jaramillo, 2015) [SRC]. Pandey reports that at 21 mm PIPS velocities were 4 times those of an ultrasonic device (Pandey, 2018) [SRC], but these came from as-yet-unpublished fluid dynamics studies (Pandey, 2018) [SRC], so that figure is weaker evidence than a published study [Certain]. Passive ultrasonic streaming stays close to the file; Pandey describes ultrasonic fluid movement as linear, standing-wave type and limited to 0.5-1.0 mm of the tip (Pandey, 2018) [SRC].
+**Fluid dynamics.** Jaramillo reports Fincham's velocimetry: PIPS gave over 1.2 m/s at 3 mm from the tip and about 0.3 m/s at 5, 10 and 15 mm, with no further fall with distance after the initial drop (Jaramillo, 2015) [SRC]. Pandey reports that at 21 mm PIPS velocities were 4 times those of an ultrasonic device (Pandey, 2018) [SRC], but these came from as-yet-unpublished fluid dynamics studies (Pandey, 2018) [SRC], so that figure is weaker evidence than a published study [Certain]. With needle irrigation, computational models always showed laminar flow, with maximum velocity near the needle end (Jaramillo, 2015) [SRC]. Passive ultrasonic streaming stays close to the file; Pandey describes ultrasonic fluid movement as linear, standing-wave type and limited to 0.5-1.0 mm of the tip (Pandey, 2018) [SRC], whereas PIPS showed more "turbulent" flow, including far from the tip (Pandey, 2018) [SRC].
 
 **Debris, smear layer and bacteria (laboratory and ex vivo).**
 - Lloyd et al: PIPS removed debris better than single-needle irrigation in extracted molars (Stabholz et al, 2016) [SRC].
 - Ordinola et al: PIPS cleaned infected dentine better than passive ultrasonic irrigation even though the PIPS tip was 22 mm from the target (Jaramillo, 2015) [SRC].
-- Jaramillo et al, ex vivo E. faecalis model: 83% disinfection after 20 min of conventional irrigation versus 100% with 1 min of PIPS (Jaramillo, 2015) [SRC].
+- Jaramillo et al, in vitro model of infected single-rooted teeth (E. faecalis): 83% disinfection after 20 min of conventional irrigation versus 100% with 1 min of PIPS (Jaramillo, 2015) [SRC].
 - Peters et al (reported by Pandey): 99.5% reduction of a 3-week biofilm with PIPS and NaOCl (Pandey, 2018) [SRC]. Jaramillo's account of the Peters study adds that PIPS did not remove bacteria from infected tubules completely (Jaramillo, 2015) [SRC].
-- With distilled water alone, PIPS gave only 73% reduction (Pandey, 2018) [SRC], so the chemistry of NaOCl is still required; PIPS improves delivery, it does not replace the irrigant [Certain].
+- In Pedulla et al's E. faecalis study (reported by Pandey), Er:YAG activation of distilled water alone gave only 73% reduction (Pandey, 2018) [SRC], so the chemistry of NaOCl is still required; PIPS improves delivery, it does not replace the irrigant [Certain].
 
 A 2025 systematic review of 14 in vitro SEM studies found PIPS generally better than syringe irrigation for smear-layer removal, better in the coronal and middle thirds than the apical third, with most studies at medium or high risk of bias (Brum et al, 2025) [LIT]. A network meta-analysis of micro-CT studies ranked SWEEPS, then PIPS, highest for removing accumulated hard-tissue debris from mandibular mesial roots, but no technique left canals debris-free and all included studies were laboratory studies (Natanasabapathy et al, 2021) [LIT].
 
 #### ✎ Exam core
 **Versus needle and ultrasonic irrigation**
-- Needle: laminar flow near the tip; ultrasonic: streaming close to the file; PIPS: turbulent flow along the whole canal from the chamber.
+- Needle: laminar flow, fastest near the needle end (Jaramillo, 2015); ultrasonic: movement within 0.5-1.0 mm of the tip; PIPS: turbulent flow far from the tip (Pandey, 2018).
 - Velocity >1.2 m/s at 3 mm, no further loss with distance (Jaramillo, 2015).
-- Better debris and smear removal than needle irrigation (Stabholz et al, 2016).
-- E. faecalis: 100% versus 83% disinfection, ex vivo (Jaramillo, 2015); water alone only 73%, so NaOCl remains essential (Pandey, 2018).
+- Better debris removal than single-needle irrigation in extracted molars (Stabholz et al, 2016).
+- E. faecalis: 100% versus 83% disinfection, in vitro (Jaramillo, 2015); water alone only 73%, so NaOCl remains essential (Pandey, 2018).
 
 ## 4. SWEEPS, the successor
 
@@ -113,14 +113,14 @@ Clinically relevant claim: SWEEPS allows NaOCl to be used at a lower concentrati
 - George and Walsh: with bare or conical tips 5 or 10 mm from the apex, extruded droplets were no greater than with a conventional 25-gauge non-side-vented needle (George and Walsh, 2017) [SRC]. PIPS aims to move fluid along the walls rather than toward the foramen (George and Walsh, 2023) [SRC], although several studies show small volumes are extruded (George and Walsh, 2023) [SRC]. Their key points warn that excessively high pulse energies can push fluid through the foramen (George and Walsh, 2017) [SRC].
 - Guruswamy Pandian et al: light-activated techniques show negligible apical extrusion (Guruswamy Pandian et al, 2026) [SRC]. The cited support is a dye-extrusion study.
 - Mortman, writing in 2011 before PIPS had been published on, cautioned that pressure waves from pulsed lasers can extrude fluid (Mortman, 2011) [SRC].
-- A 2026 systematic review of 12 laboratory studies found that PIPS and high-power lasers extruded more debris than conventional irrigation, with very low certainty of evidence (de Assis et al, 2026) [LIT].
+- A 2026 systematic review of 12 studies found that PIPS and high-power lasers extruded more debris than conventional irrigation, with very low certainty of evidence (de Assis et al, 2026) [LIT].
 
 The difference may partly be one of outcome: fluid (irrigant) versus debris extrusion, and dye models versus weighed debris [Guessing]. The safe position for the exam is that PIPS is not extrusion-free, that energy must stay low, and that the tip must stay in the chamber [Likely].
 
 #### ✎ Exam core
 **Safety**
 - Heat: 1.4 °C root-surface rise after 40 s in vitro, below the 10 °C threshold (Jaramillo, 2015).
-- Extrusion conflicting: no more than a 25-gauge needle (George and Walsh, 2017), but a 2026 systematic review found more debris extrusion (de Assis et al, 2026).
+- Extrusion conflicting: erbium laser tips 5-10 mm from the apex extruded no more than a 25-gauge needle (George and Walsh, 2017), but a 2026 systematic review found more debris extrusion (de Assis et al, 2026).
 
 ## 6. Evidence, advantages and limitations
 
@@ -216,6 +216,8 @@ Convissar's chapter states the position plainly: in vitro studies have establish
 - Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.195: "PIPS 400/12 and 600/9 tips"
 - George and Walsh, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.206 (printed p.200): "Since the description of laser fluid activation in 2008"
 - Jaramillo, 2015, 13_13_Irrigation_of_the_Root_Canal_System_by_Laser_Activat, PDF p.242 (printed p.229): "the output of an Er:YAG laser is strongly absorbed by water"
+- Jaramillo, 2015, 13_13_Irrigation_of_the_Root_Canal_System_by_Laser_Activat, PDF p.245 (printed p.232): "was always detected regardless of the pressure applied to the solution"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.195: "flow movement when compared to the use of ultrasonic"
 
 **[LIT]** opened this session through PubMed (abstracts only; full texts not read):
 - de Assis HC, Salmon B, Alves Dos Santos GN, Ramirez I, Sousa-Neto MD, Candemil AP, Lopes-Olhê FC. Apical debris extrusion following photon-induced photoacoustic streaming, high-power laser, and other irrigation techniques: a systematic review. Photodiagnosis Photodyn Ther. 2026;60:105545. https://doi.org/10.1016/j.pdpdt.2026.105545 (PMID 42309411; PubMed abstract read).

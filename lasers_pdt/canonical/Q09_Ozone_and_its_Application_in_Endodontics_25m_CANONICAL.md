@@ -3,7 +3,7 @@
 **Marks:** 25m, Long Essay
 **Sitting:** "Ozone and its application in endodontics." 25m, Oct 2011 (Recent Advances). Also covers, at their own marks: "Ozone treatment." 10m, Apr 2013 and 5m, Oct 2019 (Conservative Dentistry); "Ozone therapy." 10m, Oct 2015 (Conservative Dentistry). For 10 marks write sections 1, 3, 4, 5 and 8 of the exam core in full and three lines each from 6 and 7. For 5 marks write sections 1, 4 and 5 in short, with the one-line evidence statement from section 8.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 908 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Ozone in dentin hypersensitivity is answered in dentin_hypersensitivity/canonical and only mentioned here; irrigant activation devices are in irrigants/; photodynamic therapy is Q06 of this topic.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 924 words, about 42 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). Ozone in dentin hypersensitivity is answered in dentin_hypersensitivity/canonical and only mentioned here; irrigant activation devices are in irrigants/; photodynamic therapy is Q06 of this topic.
 
 **Retrieval report.** Read in full: Mohammadi and Azarpazhooh, Endodontic Irrigation (Basrani ed, 2015) Ch.12 "Ozone application in endodontics" (offset 13, confirmed at PDF 234, 235, 236). Read the ozone sections of: Kishen, Endodontic Microbiology 2nd ed Ch.13 §13.4.5 (offset 5, confirmed at PDF 300, 302, 307); Baumann and Beer, Endodontology Ch.25 (disinfection overview and the "Ozone" atlas pages; offset 17, confirmed at PDF 229, 230; chapter author not printed in the file); Peters, Peters and Basrani, Cohen's 12th ed Ch.8 (HealOzone paragraph; PDF pages only); Borges et al, Modern Operative Dentistry Ch.16 §16.2.4.6 (offset 6, confirmed at PDF 643-648); Sikri, Textbook of Conservative and Restorative Dentistry Ch.27-28 (offset 19, confirmed at PDF 549, 556, 558, 566); Bonsor and Pearson Ch.13 (PDF pages only); Caprioglio et al, Goldstein 3rd ed Ch.30 (offset 32, confirmed at PDF 1002-1004); Fontana et al, Mount 3rd ed Ch.5 (offset 16, confirmed at PDF 90, 91); George and Walsh, Coluzzi and Parker 1st ed (2017) Ch.9 (offset 6, confirmed at PDF 197, 201) and 2nd ed (2023) Ch.9 (offset 8, confirmed at PDF 301, 303). Grep "ozon" in all three primary laser books: Pandey 0 hits, Convissar 0 hits, Coluzzi and Parker 3 hits (one is a bulleted list of post-laser dentine pretreatments in Poli's Ch.8, not used). DCNA: Guruswamy Pandian et al 2026 (irrigant/ozone section and table read; rest scanned); Peters 2010 (noninvasive demineralized tissue repair) was searched in full text for "ozone"/"HealOzone" and contains no ozone content, so it is not cited. PubMed: "ozone endodontic root canal disinfection systematic review" (2 hits, both used), Cochrane ozone caries review and its withdrawal record. Textbook figures that differ: device concentration given as 4 g/m3 (Kishen; Mohammadi and Azarpazhooh) versus about 2100 ppm (Sikri), different units, not reconciled; application times 10-60 s (Caprioglio et al), 20-120 s (Borges et al; Sikri), 10-40 s for root caries (Sikri); the 24 h fluorescence-recovery sentence is in George and Walsh 2017 but not in the 2023 edition.
 
@@ -35,7 +35,7 @@ Cohen's describes ozone in gaseous or aqueous form as active against bacteria, f
 - Breaks down to oxygen, releasing reactive oxygen species: hydroxyl radical (Mohammadi and Azarpazhooh, 2015); singlet oxygen (Kishen, 2017).
 - Broad spectrum: bacteria, fungi, protozoa, viruses (Peters, Peters and Basrani, 2021).
 
-**History:** discovered by Schönbein (1839); first generator by von Siemens (1857); ozonated water first used in dentistry by Fisch (1930).
+**History:** discovered by Schönbein (1839); ozone generator designed by von Siemens (1857); ozonated water first used in dentistry by Fisch (1930).
 
 ## 2. Generation and delivery systems
 
@@ -133,7 +133,7 @@ The manufacturer's protocol given by Borges et al: ozone directly over the lesio
 
 **B. Dentin hypersensitivity:** RCTs showed no benefit over placebo (Mohammadi and Azarpazhooh, 2015).
 
-**C. Pre-sealant/pre-bonding disinfection:** in vitro, no loss of bond strength in most studies and better sealant margins; some studies show reduced bond strength (Mohammadi and Azarpazhooh, 2015).
+**C. Pre-sealant/pre-bonding disinfection:** in vitro, several studies show no loss of bond strength and better sealant margins; some studies show reduced bond strength (Mohammadi and Azarpazhooh, 2015).
 
 **D. Others:** minimally invasive paediatric caries treatment, cavity disinfection.
 
@@ -167,7 +167,7 @@ All of these are laboratory or ex vivo studies; none is a clinical outcome study
 **Applications in endodontics**
 1. **Root canal disinfection (gas):** HealOzone with elongated cannulas and silicone cap. Kills planktonic *E. faecalis*, but little effect on biofilm; 5% NaOCl significantly better (Hems et al, in Baumann and Beer, 2010). Efficacy depends on concentration, time, strain and growth mode (Kishen, 2017).
 2. **Ozonated water as irrigant:** comparable to but not better than NaOCl or CHX (Guruswamy Pandian et al, 2026); proposed as final irrigant for smear layer removal; no residual antifungal action and does not neutralise endotoxin (Mohammadi and Azarpazhooh, 2015).
-3. **Ozonated NaOCl:** ozone activates NaOCl, reducing contact time; generator run for 120 s in each canal; needs a well-shaped access (Baumann and Beer, 2010).
+3. **Ozonated NaOCl:** ozone activates NaOCl, reducing contact time; cannula in each canal and generator run for 120 s; needs a well-shaped access (Baumann and Beer, 2010).
 4. **Intracanal medicament:** ozonated olive oil proposed (Kishen, 2017).
 5. **Other:** retreatment cases (case reports only); *Candida* in canals (immediate kill, no residual effect).
 6. **Caution:** ozone quenches bacterial fluorescence used for laser-guided endpoints (George and Walsh, 2017).
@@ -188,7 +188,7 @@ All of these are laboratory or ex vivo studies; none is a clinical outcome study
 
 **Toxicity and safety**
 - Biocompatible with oral epithelial cells, fibroblasts and PDL cells; aqueous ozone up to 20 μg/mL non-toxic in vitro; 4 g/m3 gas slightly less cytotoxic than 2.5% NaOCl (Kishen, 2017).
-- Inhaled gas is toxic: use sealed cups, suction and neutralisers; avoid leakage into the operatory (Bonsor and Pearson, 2013). Hazards in endodontics not yet investigated (Peters, Peters and Basrani, 2021).
+- Gas at levels close to its toxic levels damages normal tissue: use sealed cups, suction and neutralisers; avoid leakage into the operatory (Bonsor and Pearson, 2013). Hazards in endodontics not yet investigated (Peters, Peters and Basrani, 2021).
 
 **Contraindications:** pregnancy, hyperthyroidism, thrombocytopenia, recent myocardial infarction, active haemorrhage, acute alcohol intoxication, ozone allergy (Mohammadi and Azarpazhooh, 2015).
 
@@ -200,7 +200,7 @@ Cohen's summary is blunt: in vitro results were promising, clinical results the 
 
 #### ✎ Exam core
 
-**Advantages:** broad spectrum, no resistance, non-invasive, no drilling or anaesthesia for initial lesions (Caprioglio et al, 2018), biocompatible at clinical doses, short application.
+**Advantages:** broad spectrum, no resistance, non-invasive, carious dentine need not be removed and no anaesthesia is needed in children (Caprioglio et al, 2018), biocompatible at clinical doses, short application.
 
 **Disadvantages:** unstable (generated on site), costly equipment, acts only on contact, weak against biofilm, no residual effect, inhalation toxicity, inconsistent dosing protocols.
 

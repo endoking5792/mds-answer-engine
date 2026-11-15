@@ -3,9 +3,10 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Laser Doppler flowmetry." 10m, May 2011; 10m, Apr 2001; 7m, Jul 2016. For 7 marks write sections 1, 2, 4, 5 and 6 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 382 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). General pulp testing (thermal and electric tests) belongs to the diagnosis topic and is mentioned here only for contrast; laser fluorescence caries detection is in the caries topic.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 397 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). General pulp testing (thermal and electric tests) belongs to the diagnosis topic and is mentioned here only for contrast; laser fluorescence caries detection is in the caries topic.
 
 **Retrieval report.** Laser books: Convissar Ch.13 by Stabholz, Sahar-Helft and Moshonov (offset 6, confirmed at PDF 226, 227); Coluzzi and Parker 1st ed (2017) Ch.6 by Muruppel (offset 8, confirmed at PDF 115, 134) and Ch.9 by George and Walsh (offset 6, confirmed at PDF 197, 199); 2nd ed (2023) Ch.9 checked, LDF text unchanged apart from spelling (not cited separately); Pandey Ch.8 (PDF page only). Endodontic and trauma texts: Andreasen, Andreasen and Tsukiboshi, Textbook and Color Atlas of Traumatic Injuries 4th ed Ch.9 (offset 16, confirmed at PDF 283, 284); Sikri 2nd ed Ch.9 (offset 21, confirmed at PDF 129, 140, 141); Cohen's 12th ed Ch.1 by Berman and Rotstein and Ch.21 by Kahler (PDF page only; no printed folios in the file). Grossman Ch.6 read (adds nothing beyond the principle). Seltzer and Bender Ch.6, Dynamic Aspects of Dental Pulp Ch.5, Endodontic Radiology Ch.19 and Ingle's Ch.9 had grep hits but were not read in full for want of time and are not cited. DCNA: Banday et al 2026 read in full (one paragraph on LDF); Mortman 2011 read in full (no LDF content). PubMed: one systematic review and one commentary on pulp-test accuracy, abstracts only.
+
 
 <!--LOC: g4_stab_ldfpow, g4_stab_vasc, g4_stab_output, g4_stab_80, g4_stab_splint, g4_stab_molars, g4_stab_comm, g4_pan_hene, g4_pan_morikawa, g4_pan_odor, g4_pan_gazelius, g4_pan_stent, g4_pan_ambient, g4_pan_cost, g4_mur_wl, g4_mur_613, g4_mur_fibre, g4_mur_8090, g4_mur_ortho, g4_mur_cost, g4_gw17_sensory, g4_gw17_unshift, g4_gw17_semi, g4_gw17_atrisk, g4_gw17_gold, g4_gw17_posture, g4_gw17_cavity, g4_gw17_amalgam, g4_gw17_redir, g4_gw17_transm, g4_andr_vasc, g4_andr_34m, g4_andr_23mm, g4_andr_97, g4_andr_100, g4_andr_pigment, g4_andr_time, g4_sik_10mm3, g4_sik_flux, g4_sik_twofibre, g4_sik_meds, g4_sik_jig, g4_sik_po, g4_sik_ponotpulse, g4_coh1_objective, g4_coh1_notroutine, g4_coh1_po, g4_coh21_wl, g4_coh21_dog, g4_band_ldf, g4_mur_static, g4_gw17_repro, g4_andr_fig-->
 <!--REF: Stabholz2016, Pandey2018, Muruppel2017, GeorgeWalsh2017, Andreasen2007, Sikri2019, Berman2021, Kahler2021, Banday2026-->
@@ -21,7 +22,7 @@ Pandey dates LDF to the 1970s, first used for retina, gut and skin blood flow (P
 
 #### ✎ Exam core
 
-**Introduction.** Laser Doppler flowmetry (LDF) is a noninvasive, objective, painless method of assessing pulpal blood flow. Thermal and electric tests measure nerve response (sensibility); LDF measures the vascular supply (true vitality) (Andreasen et al, 2007; George and Walsh, 2017). First used in dentistry by Gazelius et al, 1986 (Pandey, 2018).
+**Introduction.** Laser Doppler flowmetry (LDF) is a noninvasive, objective method of assessing pulpal blood flow (Sikri, 2019; Berman and Rotstein, 2021). Thermal and electric tests measure nerve response (sensibility); LDF measures the vascular supply (true vitality) (Andreasen et al, 2007; George and Walsh, 2017). First human study separating vital from nonvital pulps: Gazelius et al, 1986 (Pandey, 2018).
 
 ## 2. Principle
 
@@ -43,13 +44,13 @@ Muruppel notes that in dentistry the hard tissues are static and the only moveme
 
 ### Explanation
 
-**Lasers.** He-Ne at 632.8 nm or GaAlAs diode at 780-820 nm, at 1 or 2 mW (Pandey, 2018) [SRC]. Stabholz et al give 1 to 2 mW He-Ne or 810 nm diode (Stabholz et al, 2016) [SRC]; Muruppel gives 632 and 780-820 nm (Muruppel, 2017) [SRC]. George and Walsh state that visible red and near-infrared wavelengths are the most suitable (George and Walsh, 2017) [SRC]. Kahler's chapter in Cohen's describes the beam as "infrared (780 to 820 nm) or near-infrared (632.8 nm)" (Kahler, 2021) [SRC]; 632.8 nm is visible red, so that label appears to be a slip and should not be copied [Likely].
+**Lasers.** He-Ne at 632.8 nm or GaAlAs diode at 780-820 nm, at 1 or 2 mW (Pandey, 2018) [SRC]. Stabholz et al give 1 to 2 mW He-Ne or 810 nm diode (Stabholz et al, 2016) [SRC]; Muruppel gives 632 and 780-820 nm (Muruppel, 2017) [SRC]. George and Walsh state that visible red and near-infrared wavelengths are the most suitable (George and Walsh, 2017) [SRC]. Kahler's chapter in Cohen's describes the beam as "infrared (780 to 820 nm) or near-infrared (632.8 nm)" (Kahler, 2021) [SRC]; 632.8 nm is visible red, so that label appears to be a slip [sic] and should not be copied [Likely].
 
 **Probe.** Probe design and fibre separation (250-500 μm) affect reliability (Muruppel, 2017) [SRC]. Odor et al (reported by Pandey) found 810 nm with a 3.1 kHz bandwidth gave the best sensitivity and specificity for separating vital from root-filled teeth (Pandey, 2018) [SRC].
 
 #### ✎ Exam core
 
-**Instrumentation:** He-Ne laser 632.8 nm or diode 780-820 nm, 1-2 mW (Pandey, 2018); 810 nm in Stabholz et al (2016). Fibre-optic probe with emitting and receiving fibres (separation 250-500 μm) (Muruppel, 2017), signal processor and display/recorder; 810 nm with 3.1 kHz bandwidth performed best (Pandey, 2018).
+**Instrumentation:** He-Ne laser 632.8 nm or diode 780-820 nm, 1-2 mW (Pandey, 2018); fibre-optic probe with emitting and receiving fibres (separation 250-500 μm) (Muruppel, 2017), signal processor and display/recorder; 810 nm with 3.1 kHz bandwidth performed best (Pandey, 2018).
 
 ## 4. Technique
 
@@ -86,7 +87,7 @@ Each tooth took 10-15 min at the time Andreasen wrote (Andreasen et al, 2007) [S
 
 **Uses**
 - Traumatised and luxated teeth: detects revascularisation about 3-4 months before EPT (Andreasen et al, 2007); identifies "at-risk" teeth.
-- Replanted and immature teeth.
+- Avulsed immature teeth (dog study: Kahler, 2021).
 - Young children and uncommunicative patients (Stabholz et al, 2016).
 - Pulp monitoring in orthodontics and orthognathic surgery (Muruppel, 2017).
 
@@ -105,7 +106,7 @@ George and Walsh describe LDF as coming closest to a "gold standard" (George and
 
 **Limitations**
 - Signal contamination from gingiva/periodontium (up to 80% without dam) (Stabholz et al, 2016).
-- Poor in molars, under amalgam or crowns, and in discoloured teeth (Andreasen et al, 2007).
+- Poor in molars, under amalgam or gold crowns, and in discoloured teeth (Stabholz et al, 2016; George and Walsh, 2017; Andreasen et al, 2007).
 - Movement and ambient-light artefacts; drugs alter flow.
 - Expensive, slow, needs splint; not routine (Berman and Rotstein, 2021).
 
@@ -131,7 +132,7 @@ George and Walsh describe LDF as coming closest to a "gold standard" (George and
 | Mode | Reflected | Transmitted |
 | Problem | Gingival signal | Weak pulpal pulse |
 
-(Sikri, 2019)
+(Pandey, 2018; Sikri, 2019)
 
 ## High-yield points
 - LDF = vitality (blood flow); thermal/EPT = sensibility (nerves).

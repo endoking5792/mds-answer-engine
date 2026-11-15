@@ -3,11 +3,12 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Lasers in cleaning and shaping / biomechanical preparation and root canal disinfection." 10m. Also covers, at their own marks: "Use of LASER in biomechanical preparation" 5m; "Biomechanical preparation of root canals with laser" 5m; "Lasers in cleaning and shaping" 7m; "Role of lasers in root canal space disinfection" 10m. For the 5m wordings write sections 1, 2 and 6. For "Role of lasers in root canal space disinfection" lead with sections 4 and 5, then 1 and 6. For 7m write all sections, one or two lines each.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 396 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The umbrella answer is Q03 (all endodontic uses); PIPS is answered in Q05 and photodynamic therapy in Q06 (g4), so both are kept to a few lines here. Irrigant activation devices in general are in irrigants/Q05 and debridement in cleaning_shaping/Q15. P3 compares the four intracanal lasers.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 398 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The umbrella answer is Q03 (all endodontic uses); PIPS is answered in Q05 and photodynamic therapy in Q06 (g4), so both are kept to a few lines here. Irrigant activation devices in general are in irrigants/Q05 and debridement in cleaning_shaping/Q15. P3 compares the four intracanal lasers.
 
 **Retrieval report.** Read in full: George and Walsh, Coluzzi and Parker 1st ed (2017) Ch.9 sections 9.2.3-9.4 and 9.9 (offset 6, confirmed at PDF 197, 198, 203) and 2nd ed (2023) Ch.9 sections 9.3-9.6 (offset 8, confirmed at PAGE 299, 301, 305); Stabholz et al, Convissar 2nd ed Ch.13 "Cleaning and disinfecting the root canal system" (offset 6, confirmed at PDF 226, 227, 233); Pandey (2018) Ch.8 "Laser-assisted endodontics" to "Fiberoptics and their modifications" (PDF pages only); Gopikrishna, Grossman 14th ed Ch.24 section III (offset 25); Sikri Ch.31 sections vi-vii (offset 21); Alshahrani et al, Current Therapy Ch.10 (offset 26); Goodis and Pashley, Seltzer and Bender Ch.15 laser section (PDF pages only). DCNA, read in full: Mortman 2011 (offset 460) and Banday et al 2026 (offset 30). Searches: widen, enlarge, ledg, zip, smear, photothermal, penetration, fibre/fiber, radial, side-firing, cavitation, extrusion.
 
-<!--LOC: g3_untouched, cv_35, g3_fins, pa_130, pa_1100, g3_levy, g3_hoyag, g3_ercrledge, g3_10deg, g3_5deg, g3_difficult, g3_alipoor, sk_150, sk_carbon, ct_levy, pa_lowshape, pa_iso20, pa_precurve, g3_notransport, g3_nosmear, g3_ndsmear, g3_takeda, g3_neverdry, g3_edtaenh, cv_smear, g3_rclase, cv_spiral, pa_radial2007, mo_200tip, g3_photothermo, g3_pigment, pa_nir, pa_mir, g3_1mm, pa_deep, g3_05mm, g3_nirpref, pa_3log, pa_810, pa_980, pa_moritz, pa_nolateral, sk_ndmost, pa_fibre, pa_1mmshort, pa_3040, g3_apexcoronal, g3_motion, pa_tet, pa_tetnd, mo_jha, cv_dose, g3_pad, g3_padred, g3_erfluid, g3_bubbles, g3_notapical, pa_pipsparam, g3b_sweeps, g3b_05naocl, g3b_ultra, g3_cavitspeed, g3_diodeagit, g3_h2o2, bn_diode, g3_extr25g, cv_straight, cv_360, cv_mental, sb_viable, g3_557, g3_7c, mo_1727, bn_dry, pa_dryNIR, pa_dryMIR, g3_refresh, gr_adjunct, mo_nocc, cv_pipsvitro-->
+
+<!--LOC: g3_untouched, cv_35, g3_fins, pa_130, pa_1100, g3_levy, g3_hoyag, g3_ercrledge, g3_10deg, g3_5deg, g3_difficult, g3_alipoor, sk_150, sk_carbon, ct_levy, pa_lowshape, pa_iso20, pa_precurve, g3_notransport, g3_nosmear, g3_ndsmear, g3_takeda, g3_neverdry, g3_edtaenh, cv_smear, g3_rclase, cv_spiral, pa_radial2007, mo_200tip, g3_photothermo, g3_pigment, pa_nir, pa_mir, g3_1mm, pa_deep, g3_05mm, g3_nirpref, pa_3log, pa_810, pa_980, pa_moritz, pa_nolateral, sk_ndmost, pa_fibre, pa_1mmshort, pa_3040, g3_apexcoronal, g3_motion, pa_tet, pa_tetnd, mo_jha, cv_dose, g3_pad, g3_padred, g3_erfluid, g3_bubbles, g3_notapical, pa_pipsparam, g3b_sweeps, g3b_05naocl, g3b_ultra, g3_cavitspeed, g3_diodeagit, g3_h2o2, bn_diode, g3_extr25g, cv_straight, cv_360, cv_mental, sb_viable, g3_557, g3_7c, mo_1727, bn_dry, pa_dryNIR, pa_dryMIR, g3_refresh, gr_adjunct, sk_ndmelt, mo_nocc, cv_pipsvitro-->
 
 <!--REF: GW2017, GW2023, Stabholz2016, Pandey2018, Gopikrishna2021, Sikri2019, Alshahrani2016, Goodis2012, Banday2026, Mortman2011-->
 
@@ -21,7 +22,7 @@ Files leave large parts of the canal untouched (George and Walsh, 2017) [SRC]; S
 
 #### ✎ Exam core
 
-**Rationale:** files leave over 35% of canal walls uninstrumented and NaOCl reaches only about 130 μm into tubules, while bacteria lie deeper (Stabholz et al, 2016; Pandey, 2018). Laser energy and activated fluids reach fins, isthmuses and tubules (George and Walsh, 2017).
+**Rationale:** files leave over 35% of canal walls uninstrumented and NaOCl reaches only 130 μm into tubules; bacteria lie deeper (Stabholz et al, 2016; Pandey, 2018). Laser energy and activated fluids reach fins and tubules (George and Walsh, 2017).
 
 ## 2. Laser shaping of the canal (biomechanical preparation)
 
@@ -36,7 +37,7 @@ Files leave large parts of the canal untouched (George and Walsh, 2017) [SRC]; S
 #### ✎ Exam core
 
 **Laser shaping:** Nd:YAG (Levy: #20 to #35), Ho:YAG, Er:YAG and Er,Cr:YSGG fibres have been used to widen canals, third by third after a #15 glide path (George and Walsh, 2017; Sikri, 2019).
-**Problems:** straight, stiff fibres cannot be precurved, fire forward not laterally, and cause ledging, zipping, perforation and carbonisation; curvatures above 5-10° are unsafe; taper and smoothness are worse than with files (George and Walsh, 2017; Pandey, 2018). **Hence files remain essential; lasers are adjuncts after conventional preparation.**
+**Problems:** straight, stiff fibres cannot be precurved, fire forward not laterally, and cause ledging, zipping, perforation and carbonisation; curvature limit 5° or 10° (studies differ); taper and smoothness are worse than with files (George and Walsh, 2017; Pandey, 2018). **Hence files remain essential; lasers are adjuncts after conventional preparation.**
 
 ## 3. Smear layer removal
 
@@ -48,7 +49,7 @@ The deep smear layer is packed into tubules up to 40 μm (Stabholz et al, 2016) 
 
 #### ✎ Exam core
 
-**Smear layer removal:** erbium lasers (Er:YAG best) with EDTA or water remove smear layer better than EDTA alone; Nd:YAG removes less and melts dentin (George and Walsh, 2017). Side-firing (RCLase spiral) and radial tips (Er,Cr:YSGG, #20 size) direct energy onto the walls (Stabholz et al, 2016; Mortman, 2011).
+**Smear layer removal:** erbium lasers (Er:YAG best) with EDTA or water remove smear layer better than EDTA alone; Nd:YAG removes less and may melt dentin (George and Walsh, 2017; Sikri, 2019). Side-firing (RCLase spiral) and radial tips (Er,Cr:YSGG, #20 size) direct energy onto the walls (Stabholz et al, 2016; Mortman, 2011).
 
 ## 4. Photothermal disinfection
 
@@ -63,7 +64,7 @@ The deep smear layer is packed into tubules up to 40 μm (Stabholz et al, 2016) 
 - 810 nm diode, 0.6 W: 74% in a 500 μm slice (Pandey, 2018) [SRC];
 - 980 nm diode: 66% at 2.3 W and 86% at 2.8 W (Pandey, 2018) [SRC];
 - erbium (Moritz): 99.64% at 1.5 W, but no effect deep in lateral canals (Pandey, 2018) [SRC].
-Sikri calls Nd:YAG significantly more bactericidal than other lasers (Sikri, 2019) [SRC]. Stabholz et al note kill depends on dose and energy (Stabholz et al, 2016) [SRC]. Mortman cites one in vitro study in which neither laser nor rotary preparation eliminated infection (Mortman, 2011) [SRC].
+Sikri notes melted, recrystallised dentin with Nd:YAG (Sikri, 2019) [SRC]. Sikri calls Nd:YAG significantly more bactericidal than other lasers (Sikri, 2019) [SRC]. Stabholz et al note kill depends on dose and energy (Stabholz et al, 2016) [SRC]. Mortman cites one in vitro study in which neither laser nor rotary preparation eliminated infection (Mortman, 2011) [SRC].
 
 **Technique (Pandey).** Prepare apically to ISO 30/40 (Pandey, 2018) [SRC]; place a 200-300 μm fibre 1 mm from the apex and withdraw it coronally in a vertical or helical movement (Pandey, 2018) [SRC]. George and Walsh add tilting and rotating (George and Walsh, 2017) [SRC] and constant motion (George and Walsh, 2017) [SRC]. Pandey's Twinlight protocol uses Nd:YAG for deep thermal disinfection (Pandey, 2018) [SRC] at 1.5 W and 15 Hz through a 200 μm fibre (Pandey, 2018) [SRC].
 
@@ -197,6 +198,7 @@ Forward emission (Stabholz et al, 2016) [SRC] prevents uniform 360° irradiation
 - Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.174: "these lasers can produce over-enlarging of the coronal section, apical transportation, perforation, and root canal ledging"
 - George and Walsh, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.207 (printed p.201): "When the irrigant fluid is refreshed between cycles of laser exposure, there is a strong beneficial effect on temperature"
 - Gopikrishna, 2021, 24_Chapter_24_Lasers_in_Endodontics.md, PDF p.502 (printed p.477): "It can act as an adjunct to the traditional means of shaping and cleaning"
+- Sikri, 2019, 31_31_Lasers_in_Endodontics.md, PDF p.568 (printed p.547): "Nd:YAG laser may present melted and recrystallized dentin"
 - Mortman, 2011, 1-s2.0-S0011853211000206.pdf, PDF p.9 (printed p.-451): "There are no published case-controlled studies that show that the laser yields a higher degree of success than current endodontic procedures"
 - Stabholz et al, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.233 (printed p.227): "These in vitro studies have established proof of principle for this technique; however, longitudinal in vivo studies"
 

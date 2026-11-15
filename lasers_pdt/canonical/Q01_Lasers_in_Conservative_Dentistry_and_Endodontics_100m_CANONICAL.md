@@ -3,7 +3,7 @@
 **Marks:** 100m, Single Essay (Recent Advances umbrella)
 **Sitting:** Recent Advances: "Applications of laser in dentistry" 100m (Sep 1992); Lasers 100m (Apr 1995, Nov 2001). Endodontics: "Lasers" 75m (May 2013, PIV). "Role of Lasers in restorative and endodontic procedures" 25m (Apr 2012). NU "Discuss about LASERS in CD & Endo" 25m (Apr 2022). Manipal "Lasers in CD and Endo" 50m (May 2022). "Significance of lasers in modern dentistry" / "Lasers in dentistry" 10m/7m. For a 25m sitting write sections 2, 4, 5, 6, 7 and 8 in short form; for 10m/7m write sections 2, 5 and the bullet lists of 6 and 7. The deep conservative-only answer is Q02, the endodontic-only answer is Q03; canal disinfection Q04, PIPS Q05, photodynamic therapy Q06, laser Doppler flowmetry Q07, laser cavity preparation Q08.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3267 words, about 148 minutes at 22 words a minute.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3271 words, about 149 minutes at 22 words a minute.
 
 **Retrieval report.** Read in full: Pandey, *Lasers in Operative Dentistry and Endodontics* (2018) Ch.1-8, 10, 11 (PDF pp.15-234; printed page numbers are not visible in the eBook file, so PDF pages are cited); Coluzzi and Parker, *Lasers in Dentistry—Current Concepts* 1st ed (2017) Ch.2 (Coluzzi), Ch.8 (Poli) and Ch.9 (George and Walsh); read in part Ch.3 (Parker), Ch.5 (Parker and Parker), Ch.7 (Romagnoli and Cafaro) and Ch.17 (Rechmann), by targeted search and reading of the relevant pages. Offsets confirmed from running page numbers at 2+ pages per chapter: Ch.2-3 offset 9, Ch.5 and 7 offset 8, Ch.8 offset 7, Ch.9 offset 6, Ch.17 offset -1. Convissar, *Principles and Practice of Laser Dentistry* 2nd ed (2016) Ch.1 (Sulewski), Ch.10 (Parker), Ch.13 (Stabholz, Sahar-Helft and Moshonov), Ch.15 (Tunér et al) read by targeted sentence search over each chapter (offset 7 for Ch.1-10, 6 for Ch.13-15). Coluzzi and Parker 2nd ed (2023) Ch.8 (Poli et al) and Ch.9 (George and Walsh): only passages where the edition differs (bonding, SWEEPS, pulp thresholds; offsets 8 and 9). Endodontic texts: Grossman's 14th ed Ch.24 read in full (offset 25); Sikri, Essentials of Endodontics 2nd ed Ch.31 (offset 21), Current Therapy in Endodontics Ch.10 (Alshahrani, Beebe and Chogle; offset 26) and Seltzer and Bender's Dental Pulp Ch.15 (Goodis and Pashley; laser and pulp-heat passages only; no printed page numbers, PDF pages cited) by targeted search. DCNA (full text read): Banday et al (2026; printed pp.31-44, offset -30) and Green, Weiss and Stern (2011; printed pp.585-597, offset -584). Not used: Flax 2011 and Mortman 2011 DCNA (optional, not read); Cohen's, Goldstein, Mount, Modern Operative Dentistry (their laser passages are covered by Q02/Q08). No PubMed search was run, so there is no [LIT]. Cross-references (not repeated here): lasers in dentin hypersensitivity (Dentin Hypersensitivity topic), lasers in bleaching (Answer Bank: Conservative Dentistry / Tooth Bleaching), irrigant activation devices (Irrigants topic), debridement (Cleaning and Shaping Q15).
 
@@ -42,7 +42,7 @@
 - 1974: Stern: lasers could not replace the drill until thermal damage was solved.
 - 1976: CO2 laser first cleared by the FDA for oral use (Pandey, 2018).
 - 1985: Shoji, first laser pulpotomy.
-- 1989-1990: first dedicated dental laser, the pulsed Nd:YAG (1989: Coluzzi, 2017; 3 May 1990, dLase 300: Sulewski, 2016).
+- 1989-1990: first dedicated dental laser (1989: Coluzzi, 2017, laser type not named), the pulsed Nd:YAG dLase 300, 3 May 1990 (Sulewski, 2016).
 - 1989: Keller and Hibst, Er:YAG cuts enamel, dentine and bone; 1997: Er:YAG FDA clearance for caries removal and cavity preparation (Pandey, 2018).
 - 2013: 9300 nm CO2 laser for hard tissue (Parker, 2016).
 
@@ -100,7 +100,7 @@ Pandey's definitions: "Monochromatic refers to single wavelength (color) of lase
 
 **Delivery systems**
 - Articulated arm: hollow tubes with mirrored joints; bulky, non-contact; CO2.
-- Hollow waveguide: flexible tube with reflective lining; CO2, some erbium.
+- Hollow waveguide: semiflexible tube with reflective lining; CO2.
 - Optical (quartz) fibre, 200-1000 μm: argon, KTP, diode, Nd:YAG; contact use, reaches pockets and canals.
 - Air-cooled fibre/handpiece with sapphire or quartz tips: erbium lasers, used 1-2 mm from tissue (Pandey, 2018; Gopikrishna, 2021).
 - Contact mode: tactile feedback, focal point at the tip. Non-contact: beam focused at a distance; defocusing spreads energy for haemostasis. Never focus within tissue.
@@ -242,7 +242,7 @@ Speed: Poli's Table 8.2 gives "Speed of cutting enamel Fast <30% bur speed" for 
 - Selective: carious dentine contains more water and ablates at lower energy than sound tissue (Poli, 2017; Parker, 2016).
 - Surface: no smear layer, open tubules, no cracks or charring, bacteria killed below the surface (Poli, 2017).
 - Comfort: no vibration, less noise, often no injected anaesthesia (68% of patients felt no pain in one report) (Pandey, 2018).
-- Technique: non-contact sapphire/quartz tip about 1 mm from tooth under air-water spray (at least 8 ml/min); start with low energy for analgesia, raise for enamel, lower for dentine and caries (roughly 100-150 mJ per pulse for caries and primary dentine, more for permanent enamel); the sound of ablation changes as caries is removed; finish margins by hand or fine bur (Poli, 2017).
+- Technique: non-contact sapphire/quartz tip about 1 mm from tooth under air-water spray (at least 8 ml/min); start with low energy for analgesia, raise for enamel, lower for dentine and caries (roughly 100-150 mJ per pulse for caries and primary dentine, more for permanent enamel); ablation gives an audible popping sound; finally remove unsupported enamel and smooth margins with low-power laser, hand instruments or burs (Poli, 2017).
 - Limits: slower in enamel (Poli, 2017: under 30% of bur speed; Parker, 2016: 80% slower in enamel, comparable in dentine); best for small cavities; cannot remove amalgam, gold or ceramic; amalgam must not be lased (Parker, 2016; Banday et al, 2026).
 
 **3. Laser conditioning ("etching").** Sub-ablative erbium irradiation roughens enamel and dentine, but bond strength to lased tooth is controversial; phosphoric acid etching after lasing is recommended (Poli, 2017).
@@ -257,7 +257,7 @@ Speed: Poli's Table 8.2 gives "Speed of cutting enamel Fast <30% bur speed" for 
 
 **8. Dentin hypersensitivity and bleaching.** Nd:YAG, diode, erbium and CO2 seal tubules or reduce nerve response; KTP and diode activate bleaching gels (detailed in their own topics).
 
-**9. Photobiomodulation (low-level laser therapy).** Red (about 630-660 nm) and near-infrared (about 800-900 nm) low-power diodes, below the surgical threshold, are absorbed by cytochrome c oxidase in mitochondria; nitric oxide is released, ATP rises and cell activity changes. Effects: analgesia, reduced inflammation, faster healing and dentinogenesis. The response is biphasic (Arndt-Schulz law): low doses stimulate, high doses inhibit. Uses: dentin hypersensitivity, post-operative pain after restorative and endodontic treatment, healing after pulpotomy and periapical surgery. It has no bactericidal effect, and the clinical evidence is still limited (Romagnoli and Cafaro, 2017; Tunér et al, 2016).
+**9. Photobiomodulation (low-level laser therapy).** Red (about 630-700 nm) and near-infrared (about 780-905 nm) low-power lasers (Pandey, 2018), below the surgical threshold, are absorbed by cytochrome c oxidase in mitochondria; nitric oxide is released, ATP rises and cell activity changes. Effects: analgesia, reduced inflammation and faster healing. The response is biphasic (Arndt-Schulz law): low doses stimulate, high doses inhibit. Uses: dentin hypersensitivity, post-operative pain after restorative and endodontic treatment, healing after pulpotomy and periapical surgery. It has no bactericidal effect, and the clinical evidence is still limited (Romagnoli and Cafaro, 2017; Tunér et al, 2016).
 
 **10. Others.** Removal of composite, femtosecond (crack-free) ablation and dye-assisted ablation are experimental (Pandey, 2018).
 
@@ -294,8 +294,8 @@ Pandey's list: "Pulpal diagnosis Pulp capping/pulpotomy Cleaning and disinfectin
 
 **3. Access and canal preparation.** Er:YAG and Er,Cr:YSGG can cut access and enlarge canals but cannot reliably shape curved canals: ledges, transportation and perforation, so rotary/hand shaping remains standard (George and Walsh, 2017; Pandey, 2018).
 
-**4. Canal disinfection** (after conventional shaping to about ISO 30-40)
-- Photothermal: diode or Nd:YAG fibre (200 μm) inserted 1 mm short of working length and withdrawn in a helical motion; near-infrared penetrates and kills bacteria deep in tubules, beyond 1 mm; erbium acts superficially (Pandey, 2018; George and Walsh, 2017).
+**4. Canal disinfection** (after conventional cleaning and shaping)
+- Photothermal: diode or Nd:YAG fibre (200-300 μm) inserted 1 mm short of working length and withdrawn in a helical motion; near-infrared penetrates and kills bacteria deep in tubules, beyond 1 mm; erbium acts superficially (Pandey, 2018; George and Walsh, 2017).
 - Photo-activated disinfection (PAD/aPDT): tolonium chloride or methylene blue left for about 60 seconds, then activated by red light for about 120 seconds; singlet oxygen ruptures bacterial membranes, including E. faecalis (Pandey, 2018).
 - Laser-activated irrigation: erbium pulses in NaOCl or EDTA create cavitation bubbles and streaming that remove smear layer and biofilm. PIPS uses under 20 mJ, 50 μs pulses with a stationary tip in the pulp chamber; SWEEPS pairs the pulses (George and Walsh, 2023). Extrusion is no greater than with needle irrigation.
 
@@ -314,7 +314,7 @@ Pandey's list: "Pulpal diagnosis Pulp capping/pulpotomy Cleaning and disinfectin
 |---|---|---|---|
 | Direct irradiation | diode, Nd:YAG, erbium | 1 mm short of WL, withdrawn helically in a dry or wet canal | photothermal kill; near-IR deep, erbium superficial |
 | Photo-activated disinfection | red diode (about 635-670 nm) + dye | diffusing tip in canal | singlet oxygen, minimal heat |
-| Laser-activated irrigation | Er:YAG, Er,Cr:YSGG (also 940-980 nm diode) | about 5 mm short of apex, held still | cavitation and streaming of NaOCl/EDTA |
+| Laser-activated irrigation | Er:YAG, Er,Cr:YSGG (also 940-980 nm diode) | 5-10 mm short of apex | cavitation and streaming of NaOCl/EDTA |
 | PIPS / SWEEPS | Er:YAG, very short low-energy pulses | in pulp chamber only | photoacoustic shock waves through the whole canal system |
 (Pandey, 2018; George and Walsh, 2017, 2023)
 
@@ -330,7 +330,7 @@ Pandey's list: "Pulpal diagnosis Pulp capping/pulpotomy Cleaning and disinfectin
 | Goodis and Pashley (2012), Seltzer and Bender | Zach and Cohen "found that a pulpal temperature of 40.5°C produced pulpal necrosis in 60% of the tested teeth"; "the rate of delivery of heat is probably more important than the absolute rise in pulpal temperature" [SRC] |
 | Pandey (2018), CO2 caries-prevention work | pulp kept "at a safe level of less than 4°C" [SRC] |
 | Poli (2017) / Parker (2016) | erbium with spray: "below 5 °C", usually "1–2 °C"; "less than 5° C" [SRC] |
-| Sikri (2019) | "Temperature elevation of 21°C above normal body temperature can produce cell destruction" [SRC] |
+| Sikri (2019) | "Temperature elevation of 21°C above normal body temperature can produce cell destruction" (general tissue-damage figure in the safety section, not a pulp threshold) [SRC] |
 | Root surface/PDL: George and Walsh (2017); Banday et al (2026) | "5.5–7 °C" limit; "A threshold temperature increase of 7 °C is commonly considered as the highest thermal change which is biologically acceptable"; Banday: up to 5 °C safe, "with a maximum permissible rise of 7" °C [SRC] |
 
 Pandey has an internal discrepancy: one passage gives a pulp-chamber rise "about 4.3°C (Rechmann et al, 1988)", another, for apparently the same early Er:YAG work, "the mean rise in temperature in the pulpal cavity was 43°C" (Pandey, 2018) [SRC]; 43 is almost certainly a dropped decimal point. [Likely] Write 4.3 °C.
@@ -345,7 +345,7 @@ Water spray: "the use of an air-water spray provides pulpal protection equivalen
 
 **Effect on the pulp**
 - Heat is the main risk. Commonly quoted thresholds (Zach and Cohen): a rise of about 5.5 °C causes necrosis in 15% of pulps; 11 °C in 60%; 17 °C in 100% (George and Walsh, 2017). Parker (2017) quotes 5.6 °C and 16 °C. The rate of heating may matter more than the absolute rise (Goodis and Pashley, 2012).
-- Erbium lasers with adequate water spray keep the pulp rise below 5 °C, usually 1-2 °C, and the spray can even cool the pulp (Poli, 2017; George and Walsh, 2017). Histology after erbium and short-pulsed CO2 preparation shows no lasting pulp injury (Rechmann, 2017).
+- Erbium lasers with adequate water spray keep the pulp rise below 5 °C, usually 1-2 °C, and the spray can even cool the pulp (Poli, 2017; George and Walsh, 2017). Pulp histology after short-pulsed 9.6 μm CO2 irradiation of enamel showed no lasting injury (Rechmann, 2017).
 - Nd:YAG and diode penetrate dentine and can denature pulp through the crown or root; conventional CW CO2 carbonises and cracks dentine (Pandey, 2018; Goodis and Pashley, 2012).
 - Root surface/PDL: keep the rise below 5-7 °C; pulsed modes, rest intervals and fresh irrigant reduce heating (George and Walsh, 2017; Banday et al, 2026).
 
@@ -451,7 +451,7 @@ Grossman's balanced view: laser irradiation kills microorganisms and "can act as
 - [DIAGRAM: Electromagnetic spectrum with dental lasers | horizontal axis 400 nm to 10,600 nm; mark argon, KTP, diode, Nd:YAG, Er,Cr:YSGG, Er:YAG, CO2 9300/10,600 | visible versus infrared, non-ionising | shows classification at a glance]
 - [DIAGRAM: Absorption curves | log absorption against wavelength for water (peaks near 3000 and 10,600 nm), hydroxyapatite, haemoglobin and melanin (high at short wavelengths) | mark Er:YAG and diode positions | explains why erbium cuts teeth and diode does not]
 - [DIAGRAM: Four laser-tissue interactions | beam on tissue block with reflected, transmitted, scattered and absorbed arrows | label which is therapeutic | quick and always asked]
-- [DIAGRAM: Laser endodontic techniques | three canals: fibre 1 mm short of WL withdrawn helically (direct); fibre 5 mm short (LAI); PIPS tip in pulp chamber with shock waves | label distances | shows endodontic applications concisely]
+- [DIAGRAM: Laser endodontic techniques | three canals: fibre 1 mm short of WL withdrawn helically (direct); fibre 5-10 mm short (LAI); PIPS tip in pulp chamber with shock waves | label distances | shows endodontic applications concisely]
 
 ## Common exam mistakes
 - Saying Nd:YAG or 10,600 nm CO2 lasers are used for cavity preparation; they melt and crack enamel and heat the pulp.

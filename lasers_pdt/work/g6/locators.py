@@ -223,6 +223,8 @@ L = {
  'g6_blueflame': ('g6:cp5', 'may burn with a blue flame and this may be very difficult to spot under intense operating lights'),
  'g6_pdmicro': ('g6:pd', 'When working with operating microscope and the CO2 laser, the surgeon need not wear protective glasses'),
  'g6_pdsign': ('g6:pd', 'A sign should be placed outside the operating door warning all persons entering the room to wear the protective glasses'),
+ 'g6_microfilter': ('g6:cp5', 'must fit the appropriate filters and maintain close eye contact with the oculars'),
+ 'g6_nofilter': ('g6:cp5', 'None or very little laser energy was detected through the microscope even without any laser filter'),
  'g6_pdmutagen': ('g6:pd', 'the smoke created by the interaction of the CO2 laser with tissue is probably mutagenic'),
 }
 def norm(s):

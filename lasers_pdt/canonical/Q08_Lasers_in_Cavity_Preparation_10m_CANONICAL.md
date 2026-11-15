@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** Nov 2011 (RG PII RS-2). Repeats absorbed: none. For the long essay on lasers in conservative dentistry see Q02 (sections 3, 6, 7 and 8 expand this answer); laser physics is in Q01.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 342 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 349 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks).
 
 **Retrieval report.** Read this session: Coluzzi and Parker, Lasers in Dentistry—Current Concepts 1st ed (2017) Ch.8 Poli (in full; offset 7 confirmed at PDF 170/163, 172/165, 181/174) and 2nd ed (2023) Ch.8 Poli et al (8.1-8.3, pulpal temperature; offset 8 at PAGE 250/242, 252/244); Convissar, Principles and Practice of Laser Dentistry 2nd ed (2016) Ch.10 Parker (in full; offset 7 at PDF 169/162, 170/163); Pandey, Lasers in Operative Dentistry and Endodontics (2018) Ch.6 (PDF 119-143; no printed page numbers visible); Mount, Walsh and Brostek 2016 Ch.8 (offset 16); Gonçalves et al 2020 (Modern Operative Dentistry Ch.4.8; offset 13); DCNA Flax 2011 and Banday et al 2026 (read in full). Searches: erbium, Er:YAG, YSGG, 9300, threshold, mJ, pulp temperature, analgesia, smear, amalgam, speed. Edition difference recorded (Poli's table: thermal rise <5 °C in 2017, <15 °C in 2023). No live literature. No critical synthesis (10 marks); the contested points are in Q02.
 
-<!--LOC: g2_cp8_three, g2_cp8_9300, g2_mnt_explosive, g2_mnt_2940, g2_md4_photomech, g2_cv10_spall, g2_cp8_penet, g2_cp8_selective, g2_pan_2x, g2_cp8_thresh, g2_cv10_thresh, g2_cp8_125, g2_cp8_225, g2_cv10_150, g2_cp8_minimum, g2_cp8_1mm, g2_cp8_45, g2_cv10_endon, g2_flx_endcut, g2_flx_paral, g2_cv10_gross, g2_cv10_moving, g2_cv10_tactile, g2_mnt_popping, g2_cv10_pop, g2_mnt_dye, g2_cp8_bevel, g2_cp8_liner, g2_cp8_enamelacid, g2_cv10_lining, g2_cv10_noblack, g2_cv10_lt5, g2_cp8_pulp12, g2_cp8_lt5, g2_cp23_lt15, g2_mnt_nopulp, g2_mnt_25, g2_cp8_decon, g2_cv10_400x, g2_cp8_30pc, g2_cv10_80, g2_cv10_20pc, g2_pan_time, g2_cv10_noamal, g2_ban_nometal, g2_cp8_learning, g2_cp23_rough, g2_cp8_lower, g2_pan_fda97, g2_mnt_hibst, g2_pan_keller88, g2_cv10_ndyag, g2_cv10_co2char, g2_cp8_noshot-->
+<!--LOC: g2_cp8_three, g2_cp8_9300, g2_mnt_explosive, g2_mnt_2940, g2_md4_photomech, g2_cv10_spall, g2_cp8_penet, g2_cp8_selective, g2_pan_2x, g2_cp8_thresh, g2_cv10_thresh, g2_cp8_125, g2_cp8_225, g2_cv10_150, g2_cp8_minimum, g2_cp8_1mm, g2_cp8_45, g2_cv10_endon, g2_flx_endcut, g2_flx_paral, g2_cv10_gross, g2_cv10_moving, g2_cv10_tactile, g2_mnt_popping, g2_cv10_pop, g2_mnt_dye, g2_cp8_bevel, g2_cp8_liner, g2_cp8_enamelacid, g2_cv10_lining, g2_cv10_noblack, g2_cv10_lt5, g2_cp8_pulp12, g2_cp8_lt5, g2_cp23_lt15, g2_mnt_nopulp, g2_mnt_25, g2_cp8_decon, g2_cv10_400x, g2_cp8_30pc, g2_cv10_80, g2_cv10_20pc, g2_pan_time, g2_cv10_noamal, g2_ban_nometal, g2_cp8_learning, g2_cp23_rough, g2_cp8_lower, g2_pan_fda97, g2_mnt_hibst, g2_pan_keller88, g2_cv10_ndyag, g2_cv10_co2char, g2_cp8_noshot, g2_ban_safety-->
 
 <!--REF: g2_Poli2017, g2_Poli2023, g2_Parker2016, g2_Pandey2018, g2_Mount2016, g2_Goncalves2020, g2_Flax2011, g2_Banday2026-->
 
@@ -72,7 +72,7 @@ Speed: enamel "<30% bur speed" (Poli, 2017) [SRC]; "80% slower speed in enamel",
 
 #### ✎ Exam core
 
-**Limitations:** slow on enamel (under 30% of bur speed; class II 13-20 min) (Poli, 2017; Pandey, 2018); no tactile feedback, end-cutting, no sharp line angles or defined margins; cannot remove amalgam, gold or ceramic (Parker, 2016); bonding needs acid etching; risk of cracking and pulpal heating without water; costly, learning curve, eye protection required.
+**Limitations:** slow on enamel (under 30% of bur speed; class II 13-20 min) (Poli, 2017; Pandey, 2018); no tactile feedback, end-cutting, no sharp line angles or defined margins; cannot remove amalgam, gold or ceramic (Parker, 2016); bonding needs acid etching; risk of cracking and pulpal heating without water; costly, learning curve (Poli, 2017); wavelength-specific eye protection required (Banday et al, 2026).
 
 **Conclusion:** erbium lasers are a useful adjunct for small cavities, children and anxious patients, but do not replace the bur.
 
@@ -150,6 +150,7 @@ Speed: enamel "<30% bur speed" (Poli, 2017) [SRC]; "80% slower speed in enamel",
 - Parker, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.172 (printed p.165): "because of its very low absorption in sound enamel or dentin"
 - Parker, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.172 (printed p.165): "with reports of charring, cracking, and damaging heat buildup in tooth and bone structure"
 - Poli, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.182 (printed p.175): "Dental lasers are not completely able to replace traditional bur, and it is not always possible to avoid injected anesthesia"
+- Banday et al, 2026, 1-s2.0-S0011853225000473.pdf, PDF p.10 (printed p.40): "wavelength-specific protective eyewear must be worn"
 
 **[LIT]** none: no live literature search was used for this answer.
 

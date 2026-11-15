@@ -34,7 +34,7 @@
 | Er:YAG | 2940 nm | the same uses (George and Walsh, 2017) [SRC] |
 | CO2 | 10,600 nm | pulp capping, soft tissue surgery (George and Walsh, 2017) [SRC] |
 
-The 2023 edition drops Ho:YAG and argon from the table and flags the short-wavelength gas lasers as included "purely for historical reasons" (George and Walsh, 2023) [SRC]. **Books differ on the Er,Cr:YSGG wavelength:** 2780 nm (George and Walsh, 2017) [SRC]; 2790 nm (Gopikrishna, 2021; Fouad and Levin, 2021) [SRC]. Both are recorded, not reconciled.
+The 2023 edition drops Ho:YAG, replaces the argon row with an unnamed 445-514.5 nm entry, and footnotes He-Ne (and that entry) as kept "purely for historical reasons" now that 635 nm diodes have replaced it (George and Walsh, 2023) [SRC]. **Books differ on the Er,Cr:YSGG wavelength:** 2780 nm (George and Walsh, 2017) [SRC]; 2790 nm (Gopikrishna, 2021; Fouad and Levin, 2021) [SRC]. Both are recorded, not reconciled.
 
 **The two families that matter inside the canal.** Pandey's scientific basis is the clearest summary: near-infrared lasers (810-1340 nm) have negligible affinity for water and hydroxyapatite, so they penetrate dentin and are absorbed by bacterial pigments (Pandey, 2018) [SRC]; mid-infrared erbium lasers (2780, 2940 nm) are absorbed by water, so their bactericidal effect is more superficial (Pandey, 2018) [SRC]. CO2 cannot be delivered through a fibre, which limits it inside the canal (Pandey, 2018) [SRC]. Emission modes: diode and KTP are continuous wave (gated) lasers (Coluzzi, 2017) [SRC]; Nd:YAG, Er:YAG and Er,Cr:YSGG are free-running pulsed lasers (Coluzzi, 2017) [SRC].
 
@@ -232,7 +232,7 @@ The evidence base is the main limitation. Stabholz et al note the lack of well-d
 - Lasers are adjuncts; clinical outcome evidence is still limited.
 
 ## Diagrams to draw
-[DIAGRAM: Absorption curves of chromophores against wavelength | x-axis wavelength 400-10,600 nm (log), y-axis absorption; curves for water (peak near 2940 nm), hydroxyapatite (peak near 10,600 nm), haemoglobin and melanin (high in visible, falling into near-IR); vertical lines at 810-980 diode, 1064 Nd:YAG, 2780/2940 erbium, 10,600 CO2 | label "deep penetration" for near-IR and "surface absorption" for erbium | explains why each laser does what it does in the canal]
+[DIAGRAM: Absorption curves of chromophores against wavelength | x-axis wavelength 400-10,600 nm (log), y-axis absorption; curves for water (peak near 2940 nm), hydroxyapatite (high in the 9300-10,600 nm CO2 range), haemoglobin and melanin (high in visible, falling into near-IR); vertical lines at 810-980 diode, 1064 Nd:YAG, 2780/2940 erbium, 10,600 CO2 | label "deep penetration" for near-IR and "surface absorption" for erbium | explains why each laser does what it does in the canal]
 [DIAGRAM: Fibre positions in the canal | three teeth side by side: conventional fibre 1 mm short of WL withdrawn helically; LAI fibre 5 mm short; PIPS tip stationary in pulp chamber | arrows for forward versus lateral emission and fluid streaming | shows the evolution from thermal to photoacoustic laser endodontics]
 
 ## Common exam mistakes

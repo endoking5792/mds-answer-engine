@@ -3,13 +3,13 @@
 **Marks:** 100m, Long Essay
 **Sitting:** Jul 2005 (Manipal PIV) 100m. Repeats absorbed (from _QUESTIONS.md, Q02): "Discuss role of lasers in CD" 75m (Nov 2020); "Applications of lasers in operative dentistry" 75m (2020); "Role of LASERs in CD" 50m; 25m x6 (restorative/CD wordings); 10m/7m/5m x9 ("What are lasers and describe its role in CD", "Influence of lasers in operative dentistry" and similar). For 75m write all sections but shorten 2, 9, 12 and 13; for 50m write sections 1, 2, 3, 5, 6, 7, 8, 10, 14 and 15; for 25m write the exam cores of sections 1, 3, 6, 7, 8 and 14 in short form; for 10m or less use the 10m answer Q08 (cavity preparation) and add one line each on caries detection, curing and soft tissue. The umbrella answer Q01 (CD and endodontics) covers laser physics in more depth; endodontic uses are in Q03-Q06.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3255 words, about 148 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Laser treatment of dentin hypersensitivity is answered in `dentin_hypersensitivity/canonical/Q06_Lasers_and_Their_Role_in_Dentin_Hypersensitivity_10m_CANONICAL.md` and laser-assisted bleaching in the Answer Bank (Conservative Dentistry / Tooth Bleaching); both are only summarised here (section 12). Laser fluorescence caries detection is also part of the caries topic; section 4 is the restorative summary.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3326 words, about 151 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). Laser treatment of dentin hypersensitivity is answered in `dentin_hypersensitivity/canonical/Q06_Lasers_and_Their_Role_in_Dentin_Hypersensitivity_10m_CANONICAL.md` and laser-assisted bleaching in the Answer Bank (Conservative Dentistry / Tooth Bleaching); both are only summarised here (section 12). Laser fluorescence caries detection is also part of the caries topic; section 4 is the restorative summary.
 
 **Retrieval report.** Primary (read this session): Coluzzi and Parker, Lasers in Dentistry—Current Concepts 1st ed (2017): Ch.8 Poli, restorative (read in full, PDF 170-193, offset 7 confirmed at PDF 170/163, 172/165, 181/174); Ch.3 Parker, laser–tissue interaction (sections 3.1-3.4, 3.9-3.11; offset 9 at PDF 38/29, 47/38, 58/49); Ch.5 Parker and Parker, safety (definitions, classes, plume; offset 8 at 95/87, 98/90); Ch.6 Muruppel, diagnostics section 6.9 (offset 8 at 115/107, 130/122); Ch.7 Romagnoli and Cafaro, PBM (core message, 7.1, 7.7; offset 8 at 139/131, 162/154); Ch.16 Luk and Anagnostaki, depigmentation (16.1.2, 16.1.9; offset 0 at 338, 339). Coluzzi and Parker 2nd ed (2023) Ch.8 Poli, Buoncristiani, Dua and Weintraub (8.1-8.3, 8.7, adhesion and pulpal temperature sections; offset 8 at PAGE 250/242, 252/244). Convissar, Principles and Practice of Laser Dentistry 2nd ed (2016): Ch.10 Parker, restorative (read in full, offset 7 at PDF 169/162, 170/163); Ch.6 Downs et al (introduction, troughing, depigmentation; offset 7 at 96/89, 97/90). Pandey, Lasers in Operative Dentistry and Endodontics (2018) Ch.6 (PDF 79-89 diagnostics, 119-145 hard tissue, prevention, cavity preparation, analgesia, ablation, curing; no printed page numbers visible, PDF pages cited) and Ch.9 headings only. Supporting: Mount, Walsh and Brostek 2016 Ch.8 (erbium lasers, offset 16); Gonçalves et al 2020 (Modern Operative Dentistry Ch.4.8, offset 13 at PAGE 175/162, 176/163); Caprioglio et al 2018 (Goldstein Ch.30, offset 32 at 1004/972, 1005/973); Bonsor and Pearson 2013 Ch.19 (no printed pages); Sikri, Textbook of Conservative and Restorative Dentistry 2020 (Ch.7, 18, 25; offset 19 at PAGE 145/126, 146/127, 341/322); Detection and Assessment of Dental Caries 2019 Ch.17 Neuhaus and Lussi (offset 0) and Ch.9 Maltz et al (offset 2 at PAGE 95/93, 96/94). DCNA (read in full, printed pages from the journal pagination): Banday et al 2026 (Dent Clin N Am 70:31-44), Flax 2011, Green, Weiss and Stern 2011, Braga, Mendes and Ekstrand 2010, Rochlen and Wolff 2011. Searches: laser, erbium, Er:YAG, YSGG, 9300, DIAGNOdent, fluorescence, QLF, etching, conditioning, analgesia, pulp temperature, amalgam, composite, argon, trough, depigment, plume, nominal hazard. Not used: Seltzer and Bender Ch.15, Grossman, Sikri endodontics (endodontic answers cover them); Goldstein beyond Ch.30. Live literature: none.
 
 
 
-<!--LOC: g2_ban_einstein, g2_ban_maiman, g2_ban_mono, g2_ban_class, g2_grn_three, g2_grn_comp, g2_grn_pulse, g2_cp3_four, g2_cp3_chromo, g2_cp3_56, g2_cp3_16, g2_cp3_co2imp, g2_cp3_glass, g2_cp3_comp, g2_cp3_melanin, g2_mnt_absorb, g2_cv10_chromo, g2_cv10_water, g2_cv10_enamel, g2_cv10_dentin, g2_cv10_spall, g2_cv10_fronts, g2_cv10_lt5, g2_cv10_20c, g2_cv10_1989, g2_cv10_ndyag, g2_cv10_co2char, g2_cv10_hibst90, g2_mnt_hibst, g2_pan_keller88, g2_pan_pagh, g2_pan_43, g2_pan_4p3, g2_pan_fda97, g2_pan_fda98, g2_pan_fdalist, g2_mnt_explosive, g2_mnt_2940, g2_mnt_13000, g2_mnt_nonerb, g2_md4_photomech, g2_md4_enamel, g2_md4_ndbond, g2_md4_ndfl, g2_cp8_three, g2_cp8_9300, g2_cp8_penet, g2_cp8_thresh, g2_cv10_thresh, g2_cp8_selective, g2_cp8_125, g2_cp8_225, g2_cv10_150, g2_cp8_minimum, g2_cp8_1mm, g2_cp8_fluence, g2_cp8_frp, g2_cp8_wjhz, g2_cp8_45, g2_cp8_learning, g2_cp8_burs, g2_cp8_t82, g2_cp8_lt5, g2_cp23_lt15, g2_cp8_30pc, g2_cv10_80, g2_cv10_20pc, g2_cv10_fluor, g2_cv10_classIII, g2_sik_quicker, g2_pan_time, g2_pan_twice, g2_cv10_endon, g2_cv10_tactile, g2_cv10_gross, g2_cv10_noblack, g2_cv10_retention, g2_cv10_lining, g2_cv10_pop, g2_mnt_popping, g2_cp8_popcorn, g2_cv10_fluorbeam, g2_cv10_veneer, g2_mnt_dye, g2_pan_carisolv, g2_pan_richman, g2_pan_2x, g2_pan_aoki, g2_pan_pulp, g2_mnt_nopulp, g2_cp8_pulp12, g2_cp23_minus2, g2_pan_glockner, g2_flx_glock, g2_cp8_water, g2_cv10_moving, g2_cp8_cracks, g2_cv10_cracks, g2_cp8_decon, g2_cv10_bact, g2_cp23_rough, g2_cp23_plaque, g2_cp8_noshot, g2_cp8_mech, g2_cp8_rabbit, g2_cp8_turtle, g2_cp8_80pc, g2_cp8_15min, g2_cp8_60min, g2_mnt_25, g2_mnt_1015, g2_mnt_preempt, g2_pan_68, g2_cv10_inconsistent, g2_cv10_controv, g2_cv10_400x, g2_cv10_tetracaine, g2_ban_aapd, g2_cp8_etchname, g2_cp8_conditioning, g2_cp8_lower, g2_cp8_collagen, g2_cp8_enamelacid, g2_cp8_30s15s, g2_cp8_noproof, g2_cp8_sameproc, g2_cp8_unsupported, g2_cp8_liner, g2_cp8_bevel, g2_cp23_moor, g2_cp23_novalue, g2_cp23_inconcl, g2_cp23_dilip, g2_cp23_cond, g2_cp23_longpulse, g2_mnt_bond, g2_mnt_margin, g2_cv10_margin, g2_cv10_acidimp, g2_gld_pref, g2_gld_er, g2_sik_co2nd, g2_sik_similar, g2_ban_improve, g2_flx_debate, g2_cv10_qlf, g2_cv10_405, g2_cv10_kavo, g2_pan_370, g2_pan_qlfdark, g2_pan_qlfnot, g2_pan_diode, g2_pan_porph, g2_pan_scale, g2_pan_gt30, g2_pan_clean, g2_cp6_porph, g2_cp6_scale, g2_cp6_invitro, g2_cp6_barberia, g2_cp6_lussi, g2_cp6_aadc, g2_cp6_qlfdentin, g2_sik_scale, g2_sik_092, g2_sik_488, g2_dad17_second, g2_dad17_secondary, g2_dad17_root, g2_dad17_cutoff, g2_dad17_calib, g2_dad17_prophy, g2_dad17_noimage, g2_dad17_nocav, g2_dad9_endpoint, g2_brg_variable, g2_brg_occl, g2_brg_spec, g2_brg_noactivity, g2_roc_over, g2_roc_hisens, g2_pan_carbonate, g2_pan_85, g2_pan_ph48, g2_pan_notmouth, g2_pan_watercool, g2_cp8_acidres, g2_cp8_sealant, g2_cp8_93phos, g2_cv10_2013, g2_cv10_carbonate, g2_cv10_ndseal, g2_ban_mixed, g2_cp8_co2temp, g2_cp8_stall, g2_cp8_co2pulse, g2_cv10_noamal, g2_cv10_ceramic, g2_cv10_compabl, g2_cp8_amalgam, g2_cp8_comptip, g2_cp8_compbur, g2_cp8_ceramfrac, g2_cp8_co2comp, g2_cp8_cellulose, g2_pan_nolase, g2_pan_usp, g2_pan_uspcost, g2_ban_nometal, g2_grn_small, g2_grn_nonmetal, g2_bon_eryag, g2_bon_tunnel, g2_bon_ndyag, g2_pan_argon, g2_pan_488, g2_pan_10s, g2_pan_conflict, g2_pan_cost, g2_sik_argon, g2_cp8_gingivo, g2_cp8_bleed, g2_cv6_trough, g2_cv6_nocord, g2_cv6_norec, g2_cv6_depig, g2_cv6_bw, g2_grn_diode810, g2_grn_cord, g2_flx_closed, g2_flx_3mm, g2_flx_paral, g2_flx_endcut, g2_flx_analg, g2_cp16_basal, g2_cp16_recur, g2_ban_dh, g2_cp8_weld, g2_grn_bleach, g2_cv6_bleach, g2_cp7_def, g2_cp7_effects, g2_cp7_dh, g2_cp7_param, g2_cp7_noconsensus, g2_ban_cco, g2_ban_horm, g2_cp8_biostim, g2_cp5_nhz, g2_cp5_class4, g2_cp5_plume, g2_cp8_metalmatrix, g2_cv10_dull, g2_ban_safety, g2_ban_7c, g2_ban_fire, g2_bon_reflect, g2_pan_femto, g2_pan_dala, g2_cp3_femto, g2_cv10_octres, g2_ban_usp, g2_ban_pdtadh, g2_cv10_gold, g2_bon_infancy, g2_ban_heat, g2_cp3_45, g2_cp3_100, g2_cp3_200, g2_cp6_diff, g2_cv10_t101-->
+<!--LOC: g2_ban_einstein, g2_ban_maiman, g2_ban_mono, g2_ban_class, g2_grn_three, g2_grn_comp, g2_grn_pulse, g2_cp3_four, g2_cp3_chromo, g2_cp3_56, g2_cp3_16, g2_cp3_co2imp, g2_cp3_glass, g2_cp3_comp, g2_cp3_melanin, g2_mnt_absorb, g2_cv10_chromo, g2_cv10_water, g2_cv10_enamel, g2_cv10_dentin, g2_cv10_spall, g2_cv10_fronts, g2_cv10_lt5, g2_cv10_20c, g2_cv10_1989, g2_cv10_ndyag, g2_cv10_co2char, g2_cv10_hibst90, g2_mnt_hibst, g2_pan_keller88, g2_pan_pagh, g2_pan_43, g2_pan_4p3, g2_pan_fda97, g2_pan_fda98, g2_pan_fdalist, g2_mnt_explosive, g2_mnt_2940, g2_mnt_13000, g2_mnt_nonerb, g2_md4_photomech, g2_md4_enamel, g2_md4_ndbond, g2_md4_ndfl, g2_cp8_three, g2_cp8_9300, g2_cp8_penet, g2_cp8_thresh, g2_cv10_thresh, g2_cp8_selective, g2_cp8_125, g2_cp8_225, g2_cv10_150, g2_cp8_minimum, g2_cp8_1mm, g2_cp8_fluence, g2_cp8_frp, g2_cp8_wjhz, g2_cp8_45, g2_cp8_learning, g2_cp8_burs, g2_cp8_t82, g2_cp8_lt5, g2_cp23_lt15, g2_cp8_30pc, g2_cv10_80, g2_cv10_20pc, g2_cv10_fluor, g2_cv10_classIII, g2_sik_quicker, g2_pan_time, g2_pan_twice, g2_cv10_endon, g2_cv10_tactile, g2_cv10_gross, g2_cv10_noblack, g2_cv10_retention, g2_cv10_lining, g2_cv10_pop, g2_mnt_popping, g2_cp8_popcorn, g2_cv10_fluorbeam, g2_cv10_veneer, g2_mnt_dye, g2_pan_carisolv, g2_pan_richman, g2_pan_2x, g2_pan_aoki, g2_pan_pulp, g2_mnt_nopulp, g2_cp8_pulp12, g2_cp23_minus2, g2_pan_glockner, g2_flx_glock, g2_cp8_water, g2_cv10_moving, g2_cp8_cracks, g2_cv10_cracks, g2_cp8_decon, g2_cv10_bact, g2_cp23_rough, g2_cp23_plaque, g2_cp8_noshot, g2_cp8_mech, g2_cp8_rabbit, g2_cp8_turtle, g2_cp8_80pc, g2_cp8_15min, g2_cp8_60min, g2_mnt_25, g2_mnt_1015, g2_mnt_preempt, g2_pan_68, g2_cv10_inconsistent, g2_cv10_controv, g2_cv10_400x, g2_cv10_tetracaine, g2_ban_aapd, g2_cp8_etchname, g2_cp8_conditioning, g2_cp8_lower, g2_cp8_collagen, g2_cp8_enamelacid, g2_cp8_30s15s, g2_cp8_noproof, g2_cp8_sameproc, g2_cp8_unsupported, g2_cp8_liner, g2_cp8_bevel, g2_cp23_moor, g2_cp23_novalue, g2_cp23_inconcl, g2_cp23_dilip, g2_cp23_cond, g2_cp23_longpulse, g2_mnt_bond, g2_mnt_margin, g2_cv10_margin, g2_cv10_acidimp, g2_gld_pref, g2_gld_er, g2_sik_co2nd, g2_sik_similar, g2_ban_improve, g2_flx_debate, g2_cv10_qlf, g2_cv10_405, g2_cv10_kavo, g2_pan_370, g2_pan_qlfdark, g2_pan_qlfnot, g2_pan_diode, g2_pan_porph, g2_pan_scale, g2_pan_gt30, g2_pan_clean, g2_cp6_porph, g2_cp6_scale, g2_cp6_invitro, g2_cp6_barberia, g2_cp6_lussi, g2_cp6_aadc, g2_cp6_qlfdentin, g2_sik_scale, g2_sik_092, g2_sik_488, g2_dad17_second, g2_dad17_secondary, g2_dad17_root, g2_dad17_cutoff, g2_dad17_calib, g2_dad17_prophy, g2_dad17_noimage, g2_dad17_nocav, g2_dad9_endpoint, g2_brg_variable, g2_brg_occl, g2_brg_spec, g2_brg_noactivity, g2_roc_over, g2_roc_hisens, g2_pan_carbonate, g2_pan_85, g2_pan_ph48, g2_pan_notmouth, g2_pan_watercool, g2_cp8_acidres, g2_cp8_sealant, g2_cp8_93phos, g2_cv10_2013, g2_cv10_carbonate, g2_cv10_ndseal, g2_ban_mixed, g2_cp8_co2temp, g2_cp8_stall, g2_cp8_co2pulse, g2_cv10_noamal, g2_cv10_ceramic, g2_cv10_compabl, g2_cp8_amalgam, g2_cp8_comptip, g2_cp8_compbur, g2_cp8_ceramfrac, g2_cp8_co2comp, g2_cp8_cellulose, g2_pan_nolase, g2_pan_usp, g2_pan_uspcost, g2_ban_nometal, g2_grn_small, g2_grn_nonmetal, g2_bon_eryag, g2_bon_tunnel, g2_bon_ndyag, g2_pan_argon, g2_pan_488, g2_pan_10s, g2_pan_conflict, g2_pan_cost, g2_sik_argon, g2_cp8_gingivo, g2_cp8_bleed, g2_cv6_trough, g2_cv6_nocord, g2_cv6_norec, g2_cv6_depig, g2_cv6_bw, g2_grn_diode810, g2_grn_cord, g2_flx_closed, g2_flx_3mm, g2_flx_paral, g2_flx_endcut, g2_flx_analg, g2_cp16_basal, g2_cp16_recur, g2_ban_dh, g2_cp8_weld, g2_grn_bleach, g2_cv6_bleach, g2_cp7_def, g2_cp7_effects, g2_cp7_dh, g2_cp7_param, g2_cp7_noconsensus, g2_ban_cco, g2_ban_horm, g2_cp8_biostim, g2_cp5_nhz, g2_cp5_class4, g2_cp5_plume, g2_cp8_metalmatrix, g2_cv10_dull, g2_ban_safety, g2_ban_7c, g2_ban_fire, g2_bon_reflect, g2_pan_femto, g2_pan_dala, g2_cp3_femto, g2_cv10_octres, g2_ban_usp, g2_ban_pdtadh, g2_cv10_gold, g2_bon_infancy, g2_ban_heat, g2_cp3_45, g2_cp3_100, g2_cp3_200, g2_cp6_diff, g2_cv10_t101, g2_pan_clswl, g2_pan_clsargon, g2_pan_clstissue, g2_pan_cls4, g2_pan_diode635, g2_cp3_60, g2_cp8_spray, g2_cp8_permsens, g2_cp8_clamp, g2_pan_qlfprin, g2_cv10_qlfsens, g2_cp6_plaque, g2_dad17_tipcal, g2_pan_cq, g2_pan_collim, g2_pan_shrink, g2_pan_bulky, g2_pan_lag, g2_pan_bluehaz, g2_cp5_lso, g2_cp5_sign, g2_cp5_od, g2_cp5_mask, g2_cp5_train-->
 
 <!--REF: g2_Poli2017, g2_Parker2017, g2_ParkerParker2017, g2_Muruppel2017, g2_Romagnoli2017, g2_Luk2017, g2_Poli2023, g2_Downs2016, g2_Parker2016, g2_Pandey2018, g2_Sikri2020, g2_Mount2016, g2_Goncalves2020, g2_Caprioglio2018, g2_Bonsor2013, g2_Neuhaus2019, g2_Maltz2019, g2_Banday2026, g2_Flax2011, g2_Green2011, g2_Braga2010, g2_Rochlen2011-->
 
@@ -57,12 +57,12 @@ Banday's classification is by wavelength (UV, visible, infrared), "By Lasing Med
 
 **Components:** energy (pumping) source; active (lasing) medium; optical resonator with a fully reflecting and a partially reflecting mirror; delivery system (fibre, waveguide or articulated arm) (Green, Weiss and Stern, 2011).
 
-**Classification (Banday et al, 2026)**
-- By wavelength: ultraviolet, visible (argon 488 nm), near-infrared (diode, Nd:YAG), mid-infrared (Er,Cr:YSGG 2780 nm, Er:YAG 2940 nm), far-infrared (CO2 9300 and 10,600 nm).
-- By medium: gas (CO2, argon), solid state (Nd:YAG, erbium), semiconductor (diode).
-- By mode: continuous wave, gated, pulsed; erbium lasers are free-running pulsed, power = energy per pulse × frequency (Poli, 2017).
-- By hazard: class I to IV; surgical dental lasers are class 4 (Parker and Parker, 2017).
-- By use: hard tissue (erbium, 9300 nm CO2), soft tissue (diode, Nd:YAG, 10,600 nm CO2), low-level/PBM and diagnostic (diode 655 nm).
+**Classification (Banday et al, 2026; Pandey, 2018)**
+- By wavelength: ultraviolet (excimer); visible (argon 488/515 nm, He-Ne 633 nm); infrared (diode 635-980 nm, Nd:YAG 1064 nm, Er,Cr:YSGG 2780 nm, Er:YAG 2940 nm, CO2 9300-10,600 nm).
+- By medium: gas (CO2, argon, He-Ne), solid state (Nd:YAG, erbium), semiconductor (diode).
+- By mode: continuous wave or pulsed; erbium lasers are free-running pulsed, power = energy per pulse × frequency (Poli, 2017).
+- By hazard: class I to IV; lasers for oral surgery, whitening and cavity preparation are class IV (Pandey, 2018; Parker and Parker, 2017).
+- By tissue: soft tissue and hard tissue lasers (Pandey, 2018); only Er:YAG, Er,Cr:YSGG and 9300 nm CO2 are used on hard tissue (Poli, 2017).
 
 **Operating parameters the clinician controls (Poli, 2017)**
 - Energy per pulse (mJ) and fluence or energy density (J/cm2): ablation occurs only above the tissue threshold; below it only structural change occurs.
@@ -70,7 +70,7 @@ Banday's classification is by wavelength (UV, visible, infrared), "By Lasing Med
 - Pulse duration (µs): shorter pulses give higher peak power and less heat.
 - Spot size and tip diameter: a smaller spot concentrates energy.
 - Tip-to-tissue distance: fluence falls steeply as the tip is withdrawn, so a defocused beam does not cut.
-- Air-water spray ratio: water cools, removes debris and couples energy; too little water causes heating, cracking and carbonisation.
+- Air-water spray: water cools the target and keeps the field clean; too little water overheats the tooth (risk to pulp, hypersensitivity, poorer adhesion).
 - Contact or non-contact delivery; hand speed (slower than with a bur).
 
 ## 3. Laser–tissue interaction and the hard-tissue mechanism
@@ -124,10 +124,10 @@ Neuhaus and Lussi warn that "the cut-off levels for the occlusal and approximal 
 #### ✎ Exam core
 
 **Caries detection**
-1. **QLF (quantitative light-induced fluorescence):** originally argon laser 488 nm, now arc-lamp violet-blue light (370 nm per Pandey 2018 and Muruppel 2017; about 405 nm per Parker 2016). Sound enamel fluoresces green; demineralised enamel scatters light and appears dark; fluorescence loss is quantified as mineral loss. Good for monitoring smooth-surface enamel lesions; cannot separate active from arrested lesions and does not assess dentine lesions (Pandey, 2018; Muruppel, 2017).
-2. **Laser fluorescence (DIAGNOdent, KaVo, 1998):** 655 nm diode; red light excites bacterial porphyrins in caries, emitted near-infrared fluorescence is read as 0-99 (Parker, 2016; Pandey, 2018). Two tips (occlusal, approximal); DIAGNOdent pen for proximal surfaces. Technique: clean the tooth, calibrate against the ceramic standard and a sound reference, tilt the tip around the fissure, record the peak (Neuhaus and Lussi, 2019).
+1. **QLF (quantitative light-induced fluorescence):** originally argon laser 488 nm, now arc-lamp violet-blue light (370 nm per Pandey 2018 and Muruppel 2017; about 405 nm per Parker 2016). Sound enamel fluoresces green; demineralised enamel appears dark; the decrease in fluorescence is measured as mineral loss (Pandey, 2018; Parker, 2016). Sensitive for short-term changes in enamel lesions (Parker, 2016); cannot separate active from arrested lesions and does not assess dentine lesions (Pandey, 2018; Muruppel, 2017).
+2. **Laser fluorescence (DIAGNOdent, KaVo, 1998):** 655 nm diode; red light excites bacterial porphyrins in caries, emitted near-infrared fluorescence is read as 0-99 (Parker, 2016; Pandey, 2018). Separate occlusal and approximal tips (DIAGNOdent pen). Technique: clean the tooth, calibrate each tip against the ceramic standard and the tooth against a sound site, tilt the tip around the fissure, record the peak (Neuhaus and Lussi, 2019).
    - Cut-offs differ between sources (for example dentine caries >30 in Pandey 2018, >35 in Muruppel 2017, >20 occlusal in vivo in Neuhaus and Lussi 2019); quote the source.
-   - Limitations: false positives from stain, calculus, prophylaxis paste and composite; useless for secondary and root caries; no image and no cavitation information (Neuhaus and Lussi, 2019); high sensitivity, moderate specificity (0.60-0.70), risk of overtreatment (Braga, Mendes and Ekstrand, 2010; Rochlen and Wolff, 2011).
+   - Limitations: false positives from plaque, stain, calculus and prophylaxis paste (Muruppel, 2017; Neuhaus and Lussi, 2019); not helpful for secondary caries and discouraging for root caries; no image and no cavitation information (Neuhaus and Lussi, 2019); high sensitivity, moderate specificity (0.60-0.70), risk of overtreatment (Braga, Mendes and Ekstrand, 2010; Rochlen and Wolff, 2011).
    - Role: a second-opinion adjunct to visual-tactile and radiographic examination, not a primary diagnostic tool (Muruppel, 2017).
 **QLF versus DIAGNOdent (Muruppel, 2017):** QLF uses short-wavelength violet-blue light, measures loss of the tooth's own green autofluorescence and gives an image; it suits early smooth-surface enamel lesions. DIAGNOdent uses 655 nm red light, measures red/near-infrared fluorescence of bacterial porphyrins as a single number, and relates to dentine caries depth.
 
@@ -217,7 +217,7 @@ Poli's rule: "It is always good practice to use minimum efficient value to obtai
 | Tissue contact | Required | Non-contact possible |
 | Pain | High | Less or none |
 
-**Indications:** small and minimal cavities, pit and fissure lesions, class III and V lesions, primary teeth, children, anxious or needle-phobic patients and those allergic to local anaesthetics, multiple small cavities in one visit, cases needing simultaneous gingival management (Poli, 2017; Banday et al, 2026). **Not suitable:** removal of amalgam, gold or ceramic; large cavities and preparations for indirect restorations; where defined margins and line angles are needed (Parker, 2016; Green, Weiss and Stern, 2011).
+**Indications:** small and minimal cavities, pit and fissure lesions, class III and V lesions, primary teeth, children, anxious or needle-phobic patients and those intolerant of local anaesthesia, cases needing simultaneous gingival management (Poli, 2017; Banday et al, 2026). **Not suitable:** removal of amalgam, gold or ceramic; large cavities and preparations for indirect restorations; where defined margins and line angles are needed (Parker, 2016; Green, Weiss and Stern, 2011).
 
 ## 7. Pulp safety and laser analgesia
 
@@ -241,14 +241,14 @@ Poli's rule: "It is always good practice to use minimum efficient value to obtai
 - Pulp threat: rise above 5.6 °C; necrosis above 16 °C (Parker, 2017).
 - Rotary cutting can raise temperature by more than 20 °C; erbium ablation with water spray raises it by less than 5 °C, typically 1-2 °C, because heat leaves with the ejected particles and spray (Parker, 2016; Poli, 2017); some studies even record cooling.
 - Histology of teeth cut with Er:YAG before orthodontic extraction showed no pulpal injury (Mount, Walsh and Brostek, 2016).
-- Safety depends on adequate water, minimum energy, short pulses and keeping the beam moving; without water the surface carbonises and cracks.
-- Edition difference: Poli's table gives laser thermal rise <5 °C (2017) but <15 °C (2023).
+- Safety depends on adequate water, minimum energy, short pulses and keeping the beam moving; excessive energy causes cracking and surface melting, and too little water overheats the tissue (Poli, 2017).
+- Edition difference: Poli's table gives laser thermal rise <5 °C (2017) but <15 °C (2023); the 2023 text still says below 5 °C, so the table is a probable misprint.
 
 **Laser analgesia**
 - Many patients need no injection: 2-5% request anaesthesia in large trials (Mount, Walsh and Brostek, 2016); 80% treated without anaesthesia in Poli's protocol (Poli, 2017); 68% pain-free (Pandey, 2018).
 - Proposed mechanisms (not proven): gate control from microsecond pulses, Na-K pump block in A-delta and C fibres, photobiomodulation; duration about 10-15 min (Mount, Walsh and Brostek, 2016; Poli, 2017).
 - Techniques: pre-emptive sub-ablative irradiation of the crown and cervical area (70-120 mJ, 10-30 Hz, 30 s); "rabbit" (defocused high energy brought closer) and "turtle" (1 mm, low energy increased gradually) techniques (Poli, 2017).
-- Limits: placebo and anxiety influence results; posterior teeth, long preparations, anxious adults and clamp/matrix placement may still need anaesthesia (Parker, 2016; Poli, 2017).
+- Limits: placebo and anxiety influence results; permanent teeth are more sensitive than primary teeth, and clamp, matrix or wedge placement may still cause discomfort (Parker, 2016; Poli, 2017).
 
 ## 8. Bonding to lased tooth: laser etching or laser conditioning?
 
@@ -280,9 +280,9 @@ Pandey: "use of Argon laser for photo-polymerization of composite resin restorat
 #### ✎ Exam core
 
 **Composite curing (argon laser, 488 nm)**
-- 488 nm lies in the camphorquinone absorption band (400-500 nm, peak about 480 nm); monochromatic, collimated beam keeps power density over distance (Pandey, 2018).
+- 488 nm lies in the camphorquinone activation range (400-500 nm, broad peak 480 nm); the monochromatic, collimated beam keeps power density more consistent over distance (Pandey, 2018).
 - Advantages: one quarter of the exposure time (10 s versus 40 s for 2 mm), greater depth and degree of cure, better compressive, tensile and flexural properties, possibly better shear bond (Pandey, 2018).
-- Disadvantages: conflicting reports on marginal seal; increased shrinkage and brittleness of some resins; bulky, heat and fan noise, warm-up lag, high cost; blue-light hazard (Pandey, 2018).
+- Disadvantages: conflicting reports on marginal seal; increased shrinkage and brittleness of some small-particle resins; bulky, heat and fan noise, 30 s warm-up lag, high cost; high-energy blue light is a potential biohazard (Pandey, 2018).
 - Also used for transillumination and bonding of cements (Sikri, 2020). Largely replaced by LED curing units in practice.
 
 ## 10. Removal of restorations: what lasers can and cannot remove
@@ -337,9 +337,9 @@ PBM: "Low-level laser therapy (LLLT), nowadays also known as photobiomodulation"
 
 #### ✎ Exam core
 
-**Dentin hypersensitivity** (see the dentin hypersensitivity answer): Nd:YAG and CO2 melt and occlude tubules; erbium at low water ("welding") seals the surface; low-level diode lasers (650-870 nm) reduce nerve transmission and stimulate sclerotic/secondary dentine (Banday et al, 2026; Poli, 2017; Romagnoli and Cafaro, 2017).
+**Dentin hypersensitivity** (see the dentin hypersensitivity answer): Nd:YAG appears most effective; erbium at low water ("welding") melts and seals the dentine surface; low-level diode lasers (650-870 nm) reduce nerve transmission and promote sclerotic dentine (Banday et al, 2026; Poli, 2017; Romagnoli and Cafaro, 2017).
 
-**Bleaching** (see the bleaching answer): laser (argon, diode, CO2, erbium) energy activates hydrogen peroxide gel and speeds in-office bleaching; heat and sensitivity are the risks (Green, Weiss and Stern, 2011).
+**Bleaching** (see the bleaching answer): laser energy heats and activates hydrogen peroxide gel to speed in-office bleaching (Green, Weiss and Stern, 2011).
 
 **Photobiomodulation (LLLT):** red or near-infrared light absorbed by mitochondrial cytochrome c oxidase raises ATP and modulates inflammation; effects are analgesic, anti-inflammatory and biostimulatory; biphasic dose response (Romagnoli and Cafaro, 2017; Banday et al, 2026). Restorative uses: post-operative sensitivity, pulpal inflammation after deep preparation, analgesia before cavity preparation, healing after crown lengthening. Parameters are not standardised.
 
@@ -352,12 +352,12 @@ Parker and Parker define the nominal hazard zone as the "Area within which the l
 #### ✎ Exam core
 
 **Safety**
-- Dental surgical lasers are class 4: eye, skin and fire hazard; define the nominal hazard zone, appoint a laser safety officer, warning signs, key switch (Parker and Parker, 2017).
-- Wavelength-specific eyewear (optical density marked) for patient, operator and assistant (Banday et al, 2026).
+- Dental surgical lasers are class 4: eye, skin and fire hazard; define the nominal hazard zone and controlled area, laser safety officer, warning signs at access points, trained staff (Parker and Parker, 2017).
+- Wavelength-specific eyewear, protection expressed as optical density, for patient, operator and assistant (Banday et al, 2026; Parker and Parker, 2017).
 - Avoid reflective instruments; use non-reflective or dulled matrices, cellulose strips for neighbours (Poli, 2017; Parker, 2016).
-- High-volume evacuation for plume; masks (Parker and Parker, 2017).
+- High-speed suction for plume; fine-mesh (0.1 µm) face masks (Parker and Parker, 2017).
 - No firing near oxygen or flammable materials (Banday et al, 2026).
-- Water spray and minimum effective energy protect the pulp; test-fire and check delivered power before use.
+- Water spray and minimum effective energy protect the pulp (Poli, 2017).
 
 ## 14. Advantages and limitations
 
@@ -383,7 +383,7 @@ Poli's Table 8.1 lists advantages: soft and hard tissue in one session, minimal 
 - High cost, safety measures, eyewear, plume.
 - Parameters not standardised and differ between books; much evidence is in vitro.
 
-**Cautions:** metal restorations, crowns and matrices near the beam (reflection and heat transfer to pulp and periodontium); oxygen or flammable materials in the field (fire); patients or staff without wavelength-specific eyewear; deep cavities close to the pulp without adequate water spray; an operator without training in the specific device and its parameters (Poli, 2017; Banday et al, 2026; Parker and Parker, 2017).
+**Cautions:** metal matrices, crowns and restorations near the beam (reflection) (Poli, 2017; Parker, 2016); oxygen or flammable materials in the field (fire) (Banday et al, 2026); anyone without wavelength-specific eyewear (Banday et al, 2026); deep cavities without adequate water spray (Poli, 2017); untrained operators (Parker and Parker, 2017).
 
 ## 15. Future directions and conclusion
 
@@ -396,7 +396,7 @@ Pandey describes ultrashort pulses: "Serbin et al in 2000 showed that crack free
 **Future**
 - 9300 nm short-pulsed, scanned CO2 lasers: hydroxyapatite-absorbed, fast enamel cutting, simultaneous acid-resistance of cavity walls, composite removal, soft tissue surgery (Poli, 2017; Parker, 2016).
 - Ultrashort-pulse (femtosecond) lasers: crack-free, heat-free ablation of any tissue or material; still large and costly (Pandey, 2018).
-- Feedback-controlled lasers (fluorescence or plasma spectroscopy) that stop at sound tissue; dye-assisted ablation of caries with an 800 nm diode (Pandey, 2018).
+- Fluorescence-guided ablation: a coaxial low-level beam reads the fluorescence of the target as an extra check for caries (Parker, 2016); dye-assisted ablation of caries with an 800 nm diode (Pandey, 2018).
 - Optical coherence tomography for caries under restorations; antimicrobial photodynamic adhesives (Parker, 2016; Banday et al, 2026).
 
 **Conclusion.** Lasers have a real but adjunctive role in conservative dentistry. Erbium lasers prepare small and medium cavities selectively, with less pain, vibration and pulpal heat, but they are slower than burs on enamel, cannot remove metal or ceramic, and need acid etching for reliable bonding. Laser fluorescence is a second-opinion diagnostic aid, laser caries prevention is still a laboratory concept, and soft-tissue and photobiomodulation uses add value around restorations. The bur remains the main instrument; the laser is a complementary one whose success depends on correct wavelength, parameters, water cooling and operator training.
@@ -728,6 +728,30 @@ For the postgraduate, the critical points are to quote parameters with their sou
 - Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.47 (printed p.38): "It is generally considered to be at temperatures around 200 °C"
 - Muruppel, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.131 (printed p.123): "DIAGNOdent can be related to dentinal decay but QLF results cannot correlate with dentinal decay"
 - Parker, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.171 (printed p.164): "Summary of Comparable Benefits of Laser Use Over Rotary"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.62: "Ultraviolet/excimer laser: The wavelength ranges approximately from 150 to 350 nm"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.63: "Argon Gas laser 488,515 nm"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.62: "Tissues on which it is used: Soft and hard tissues."
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.65: "All lasers used for oral surgery, whitening and cavity preparation"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.64: "Diode Semiconductor laser 635–980 nm"
+- Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.47 (printed p.38): "60 °C. Within this zone of thermal rise"
+- Poli, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.175 (printed p.168): "This allows to cool off targeted tissues, to keep the working area clean"
+- Poli, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.182 (printed p.175): "permanent teeth are more sensitive to pain than deciduous ones"
+- Poli, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.184 (printed p.177): "the discomfort provoked by the positioning of the dental dam clamp, the matrix, or the wedge"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.82: "can be detected and measured as a decrease in fluorescence intensity"
+- Parker, 2016, Principles_and_Practice_of_Laser_Dentistry.md, PDF p.183 (printed p.176): "QLF is a highly sensitive method for determining short-term changes in hard tissue lesions"
+- Muruppel, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.130 (printed p.122): "Dental plaque, stains, calculus and deposits could influence and interfere with the diagnostic results"
+- Neuhaus and Lussi, 2019, Detection_and_Assessment_of_Dental_Caries.md, PDF p.172 (printed p.172): "each tip needs to be calibrated separately against a ceramic standard before clinical use"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.143: "within the range of 400 to 500 nm with a broad peak activity of 480 nm"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.144: "resulting in a more consistent power density over distance"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.145: "Increased shrinkage and brittleness of some small particle resins has been reported"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.145: "Argon laser curing units are still fairly cumbersome"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.145: "there is a 30 second time lag between turning the units on and actual light emissions"
+- Pandey, 2018, Lasers_in_Operative_Dentistry_and_Endodontics.md, PDF p.145: "which has the highest energy photons of any wavelength of visible light"
+- Parker and Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.96 (printed p.88): "Additional devolved responsibility may be applied to the laser safety officer"
+- Parker and Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.106 (printed p.98): "Post appropriate warning signs at all points of access to the controlled area"
+- Parker and Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.108 (printed p.100): "The level of protection is specifically expressed in terms of optical density (OD)"
+- Parker and Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.103 (printed p.95): "specific fine-mesh face masks capable of filtering 0.1 micron particles"
+- Parker and Parker, 2017, Lasers_in_Dentistry_Current_Concepts_Coluzzi_Parker.md, PDF p.96 (printed p.88): "should undergo training sufficient to alert them to their responsibility"
 
 **[LIT]** none: no live literature search was used for this answer.
 

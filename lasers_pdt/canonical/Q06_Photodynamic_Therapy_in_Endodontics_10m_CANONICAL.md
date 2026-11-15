@@ -3,11 +3,11 @@
 **Marks:** 10m, Short Essay
 **Sitting:** "Photodynamic therapy in Endodontics." 10m, Nov 2021 and Apr 2015. Also covers "Light activated disinfection." 7m, Apr 2012 (Manipal); for 7 marks write sections 1, 2, 3, 4 and 6 only.
 
-**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 393 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics is in Q01; laser-activated irrigation (PIPS/SWEEPS) is Q05. The irrigants topic lists "Photo activated disinfection" (10m Jul 2021; 7m Nov 2016) inside its broad recent-advances answer (`irrigants/Q06_RecentAdvances_Detailed.md`, section 6C) with only a sentence on PDT; this is the full stand-alone answer, and it serves those wordings too.
+**How to read this answer:** the explanation comes first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 397 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). Laser physics is in Q01; laser-activated irrigation (PIPS/SWEEPS) is Q05. The irrigants topic lists "Photo activated disinfection" (10m Jul 2021; 7m Nov 2016) inside its broad recent-advances answer (`irrigants/Q06_RecentAdvances_Detailed.md`, section 6C) with only a sentence on PDT; this is the full stand-alone answer, and it serves those wordings too.
 
 **Retrieval report.** Primary chapter: Basrani (ed), Endodontic Irrigation, Ch.14 by Kishen and Shrestha, a dedicated PDT chapter (offset 12, confirmed at PDF 249, 250, 255). Laser books: Coluzzi and Parker 1st ed (2017) Ch.9 by George and Walsh, section 9.3.2 (offset 6, confirmed at PDF 199, 205, 206); 2nd ed (2023) Ch.9 section 9.5.2 checked and found unchanged on the ICG point (offset 8, confirmed at PAGE 301, 310); Pandey Ch.8, "Photo-activated disinfection" (PDF page only, no printed folios in the file). Endodontic texts: Kishen, Endodontic Microbiology 2nd ed Ch.13 (offset 5, confirmed at PDF 303, 304); Siqueira and Rôças, Treatment of Endodontic Infections 2nd ed Ch.14 (PDF page only); Sikri 2nd ed Ch.31 (offset 21, confirmed at PDF 569, 570). TEI Ch.16 and Convissar Ch.13 were grepped; Convissar has no PDT section and TEI Ch.16 repeats Ch.14. Grossman Ch.24 has a one-line clinical note only. DCNA: Mortman 2011 (light-activated disinfection section) read in full; Guruswamy Pandian et al 2026 read in full (one sentence on PDT). Searches: grep for photodynamic, photoactivated, photo-activated, PACT, LAD, tolonium, toluidine, methylene, indocyanine, singlet; PubMed for aPDT root canal systematic reviews from 2019, two abstracts used.
 
-<!--LOC: g4_kish_def, g4_kish_raab, g4_kish_wavel, g4_kish_type1, g4_kish_type2, g4_kish_resist, g4_kish_ps, g4_kish_adjunct, g4_kish_soukos53, g4_kish_50nm, g4_kish_30pc, g4_kish_efflux, g4_kish_constr, g4_kish_bonsor, g4_kish_bonsor867, g4_kish_garcez, g4_kish_977, g4_kish_mix, g4_kish_serum, g4_kish_light, g4_kish_fiber, g4_kish_siddiqui, g4_kish_icg805, g4_kish_standard, g4_emic_twostep, g4_emic_tissue, g4_gw17_pad, g4_gw17_specific, g4_gw17_icgcur, g4_gw17_led, g4_gw17_12st, g4_gw17_persist, g4_gw17_notps, g4_gw17_phototh, g4_gw17_red, g4_gw17_stain, g4_gw17_side, g4_gw17_fig, g4_gw23_pad, g4_pan_names, g4_pan_127, g4_pan_60s, g4_pan_120s, g4_pan_factors, g4_pan_633, g4_pan_mgml, g4_pan_mb670, g4_pan_rb550, g4_pan_aseptim, g4_pan_gram, g4_pan_invivo, g4_sik_singlet, g4_tei_red, g4_tei_after, g4_tei_lowconc, g4_tei_5min, g4_tei_souza, g4_tei_ng, g4_tei_sr, g4_tei_diode, g4_mort_fotosan, g4_guru_pdtpen-->
+<!--LOC: g4_kish_def, g4_kish_raab, g4_kish_wavel, g4_kish_type1, g4_kish_type2, g4_kish_resist, g4_kish_ps, g4_kish_adjunct, g4_kish_soukos53, g4_kish_50nm, g4_kish_30pc, g4_kish_efflux, g4_kish_constr, g4_kish_bonsor, g4_kish_bonsor867, g4_kish_garcez, g4_kish_977, g4_kish_mix, g4_kish_serum, g4_kish_light, g4_kish_fiber, g4_kish_siddiqui, g4_kish_icg805, g4_kish_standard, g4_emic_twostep, g4_emic_tissue, g4_gw17_pad, g4_gw17_specific, g4_gw17_icgcur, g4_gw17_led, g4_gw17_12st, g4_gw17_persist, g4_gw17_notps, g4_gw17_phototh, g4_gw17_red, g4_gw17_stain, g4_gw17_side, g4_gw17_fig, g4_gw23_pad, g4_pan_names, g4_pan_127, g4_pan_60s, g4_pan_120s, g4_pan_factors, g4_pan_633, g4_pan_mgml, g4_pan_mb670, g4_pan_rb550, g4_pan_aseptim, g4_pan_gram, g4_pan_invivo, g4_sik_singlet, g4_tei_red, g4_tei_after, g4_tei_lowconc, g4_tei_5min, g4_tei_souza, g4_tei_ng, g4_tei_sr, g4_tei_diode, g4_mort_fotosan, g4_guru_pdtpen, g4_tei_wl, g4_tei_irr, g4_kish_mainII-->
 <!--REF: Kishen2015, Kishen2017, GeorgeWalsh2017, GeorgeWalsh2023, Pandey2018, Siqueira2022, Sikri2019, Mortman2011, Guruswamy2026-->
 <!--LIT: Quintana2023, OliveiraAguiar2026-->
 
@@ -53,7 +53,7 @@ In the exam, name methylene blue and toluidine blue as the standard dyes and men
 
 Kishen (Endodontic Microbiology) describes two steps: photosensitisation, in which the dye binds to bacteria, and photoactivation by light (Kishen, 2017) [SRC]. On absorbing a photon the dye moves to an excited singlet state and then to a longer-lived triplet state. From the triplet state it reacts in one of two ways (Kishen and Shrestha, 2015) [SRC]:
 - **Type I:** electron transfer to a substrate produces radical ions (superoxide, hydroxyl, lipid-derived radicals) (Kishen and Shrestha, 2015) [SRC].
-- **Type II:** energy transfer to ground-state oxygen produces excited singlet oxygen (Kishen and Shrestha, 2015) [SRC]. Type II is considered the main pathway with phenothiazine dyes [Likely].
+- **Type II:** energy transfer to ground-state oxygen produces excited singlet oxygen (Kishen and Shrestha, 2015) [SRC]. Kishen and Shrestha state that the antimicrobial effect of PDT is mainly due to the Type II reaction (Kishen and Shrestha, 2015) [SRC].
 
 Singlet oxygen diffuses only about 50 nm (Kishen and Shrestha, 2015) [SRC], so the dye must be on or in the bacterial cell; this explains both the selectivity and the poor action in thick biofilm. Targets are the cell wall and membrane, DNA, proteins and enzymes (Kishen and Shrestha, 2015) [SRC]; Sikri describes rupture of the bacterial wall by singlet oxygen (Sikri, 2019) [SRC]. Because the attack is on many targets at once, bacterial resistance is considered almost impossible (Kishen and Shrestha, 2015) [SRC]. Pandey states that Gram-positive organisms are more sensitive than Gram-negative ones, a difference he says is marginal with cationic TBO (Pandey, 2018) [SRC].
 
@@ -73,10 +73,10 @@ PDT does not shape or debride, so it is used after chemomechanical preparation (
 | Step | Pandey, 2018 (PAD system) | Siqueira and Rôças, 2022 | George and Walsh, 2017 |
 |---|---|---|---|
 | Dye | Tolonium chloride, 12.7 mg/L | MB or TBO, low concentration | TBO or MB |
-| Pre-irradiation time | 60 s | 5 min, agitated with a #15 K-file | dye placed before laser |
-| Irradiation | 120 s | diode laser with optical fibre | typical 60-90 s (figure legend) |
+| Pre-irradiation time | 60 s | 2 min, agitated with a #15 K-file | dye placed before laser |
+| Irradiation | 120 s | usually 3-5 min, diode laser, optical fibre inserted to working length | typical 60-90 s (figure legend) |
 
-(Pandey, 2018; Siqueira and Rôças, 2022; George and Walsh, 2017) [SRC]. Supporting statements: Pandey's 60 s dwell (Pandey, 2018) [SRC] and 120 s irradiation (Pandey, 2018) [SRC]; Siqueira and Rôças's K-file agitation (Siqueira and Rôças, 2022) [SRC] and low dye concentration to avoid staining (Siqueira and Rôças, 2022) [SRC]; George and Walsh's figure legend (George and Walsh, 2017) [SRC]. Pandey also gives a concentration range of "12-100 mg/mL" for TBO (Pandey, 2018) [SRC], which conflicts by three orders of magnitude with his 12.7 mg/L and is probably a units error; verify against the printed book [Likely].
+(Pandey, 2018; Siqueira and Rôças, 2022; George and Walsh, 2017) [SRC]. Supporting statements: Pandey's 60 s dwell (Pandey, 2018) [SRC] and 120 s irradiation (Pandey, 2018) [SRC]; Siqueira and Rôças's K-file agitation and 2 min pre-irradiation time (Siqueira and Rôças, 2022) [SRC], fibre to working length (Siqueira and Rôças, 2022) [SRC], 3-5 min irradiation (Siqueira and Rôças, 2022) [SRC] and low dye concentration to avoid staining (Siqueira and Rôças, 2022) [SRC]; George and Walsh's figure legend (George and Walsh, 2017) [SRC]. Pandey also gives a concentration range of "12–100 mg/mL" [sic] for TBO (Pandey, 2018) [SRC], which conflicts by three orders of magnitude with his 12.7 mg/L and is probably a units error; verify against the printed book [Likely].
 
 **Delivery.** A diffusing fibre inside the canal reduced biofilm by 2 logs more than a tip at the orifice (Kishen and Shrestha, 2015) [SRC]; George and Walsh prefer lateral-emitting tips (George and Walsh, 2017) [SRC]. Mortman's sequence is to fill the canal with dye, illuminate it, then dry and obturate (Mortman, 2011) [SRC]; the dye must not stain the tooth permanently (George and Walsh, 2017) [SRC].
 
@@ -84,8 +84,8 @@ PDT does not shape or debride, so it is used after chemomechanical preparation (
 
 **Technique** (Pandey, 2018; Siqueira and Rôças, 2022)
 1. Complete cleaning, shaping and NaOCl/EDTA irrigation.
-2. Fill canal with photosensitiser (e.g. toluidine blue 12.7 mg/L); agitate; dwell 60 s to 5 min.
-3. Insert a diffusing fibre/emitter to near working length; irradiate (about 60-120 s) with a red diode laser.
+2. Fill canal with photosensitiser (e.g. toluidine blue 12.7 mg/L); agitate; dwell 60 s to 2 min.
+3. Insert the fibre/emitter to working length; irradiate 120 s (Pandey) to 3-5 min (Siqueira and Rôças) with a red diode laser.
 4. Dry and obturate.
 
 ## 5. Factors affecting efficacy
@@ -214,13 +214,16 @@ The books are therefore split: the Kishen chapters and George and Walsh lean pos
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.808: "Most photosensitizers are activated by red light at wavelengths of 630 to 700 nm"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "it is recommended for use after chemomechanical preparation to enhance bacterial elimination"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "A low concentration of the photosensitizer is used to avoid tooth pigmentation"
-- Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "which is agitated with a no. 15 K-file and left undisturbed in the canal for"
+- Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "left undisturbed in the canal for 2 minutes (pre-irradiation time)"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "does not achieve any significant supplemental effects with regard to intracanal disinfection"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.811: "86.5% negative cultures compared with 49% when PDT was not used"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.812: "there is insufficient information supporting the benefits of its clinical use"
 - Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.808: "Diode laser systems have been widely used in PDT because they are easy to handle, portable, and cost-effective"
 - Mortman, 2011, 1-s2.0-S0011853211000206.pdf, p.471: "The canal is then filled with a photosensitizer and then illuminated with a light source"
 - Guruswamy Pandian et al, 2026, 1-s2.0-S0011853225000485.pdf, p.47: "PIPS and PDT enhances the penetration of NaOCl into the dentinal tubules"
+- Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "The optical fiber is inserted to the working length"
+- Siqueira and Rôças, 2022, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal, PDF p.809: "The total irradiation time is usually 3 to 5 minutes"
+- Kishen and Shrestha, 2015, 14_14_Photodynamic_Therapy_for_Root_Canal_Disinfection.md, PDF p.251 (printed p.239): "The antimicrobial effect of PDT is mainly due to type II reaction"
 
 **[LIT]** opened this session through PubMed (abstracts only; full texts not read):
 - Quintana RM, Scarparo RK, Münchow EA, Pinheiro LS, Tavares CO, Kopper PMP. Does aPDT reduce bacterial load in endodontic infected teeth? A systematic review and meta-analysis. Lasers Med Sci. 2023;38(1):268. https://doi.org/10.1007/s10103-023-03938-4 (PMID 37981598; PubMed abstract read).
