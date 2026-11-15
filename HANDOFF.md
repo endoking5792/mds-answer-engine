@@ -1,5 +1,12 @@
 > **PUBLISHING MOVED (2026-11-04):** all answers from Niranjan, Medhinir and Roseline are now published to the private Answer Bank site https://mds-answer-bank.pages.dev (repo `endoking5792/mds-answer-bank`, `scripts/add_answers.py`, steps in WORKFLOW.md Rule 7 and the site repo's `PUBLISHING.md`). The claude.ai Answer Bank artifact is full and frozen at Version 65; do not publish to it.
 
+## 2026-11-15 — Lasers, Photodynamic Therapy & Emerging Tech: FIRST DRAFTS PUBLISHED (14 answers), review in progress
+- Folder `lasers_pdt/canonical/`: Q01 Lasers in CD & Endo 100m (3267), Q02 Lasers in CD 100m (3255), Q03 Lasers in Endodontics 25m (976), Q09 Ozone 25m (908), Q04 laser BMP/disinfection, Q05 PIPS, Q06 PDT, Q07 LDF, Q08 cavity prep, Q10 cryotherapy, Q11 3D printing, P1 physics, P2 safety, P3 laser comparison (10m, 337-396). Question set in `lasers_pdt/_QUESTIONS.md`.
+- Sources: Niranjan's three laser books converted to Markdown at `~/mds-textbooks/Laser_Textbooks/` (Coluzzi & Parker 1st ed 2017; Convissar 2nd ed 2016; Pandey 2018); NOT committed to mds-textbooks yet. Also Coluzzi & Parker 2nd ed 2023, Sikri Ch.31, Grossman Ch.24, Current Therapy Ch.10, Endodontic Irrigation Ch.12/14, 12 DCNA articles (list `lasers_pdt/work/DCNA_LIST.md`; Banday is 2026). Merged `lasers_pdt/locators.py`: 1274 locators, missing 0.
+- Published to the Answer Bank site 2026-11-15: Endodontics 9 (incl. Q01), Conservative Dentistry 3 (incl. Q09), Recent Advances 4; "manifest 679 -> 695 entries, 0 lost".
+- Pending: five second readers (brief `lasers_pdt/work/REVIEW_BRIEF.md`) are checking all 14; republish reviewed versions, then vault copies and topic handoff. PIPS / photo-activated disinfection wordings are also listed in irrigants Q06 (decide ownership).
+- Lesson: `python3 -I` hides user-site PyMuPDF, so a DCNA scan run with -I silently fails on every file; run from home dir without -I.
+
 ## 2026-11-09 — Non-Carious Tooth Defects: REVIEWED and PUBLISHED (14 answers)
 - Folder `non_carious_defects/canonical/`: Q1 umbrella 50m (1767), Q2 erosion 75m (2634), Q3 cervical lesions 75m (2620), Q4-Q11 and P1-P3 (all exam cores in range). Question set in `non_carious_defects/_QUESTIONS.md`; white spot lesions answered here (Q11) by agreement.
 - Six parallel agents; merged `non_carious_defects/locators.py` 1115 locators, missing 0. Details, disagreements and open points: `non_carious_defects/HANDOFF_non_carious_defects.md`.
