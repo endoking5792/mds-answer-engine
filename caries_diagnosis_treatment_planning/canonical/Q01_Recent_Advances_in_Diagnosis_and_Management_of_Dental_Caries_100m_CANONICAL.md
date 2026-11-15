@@ -22,7 +22,7 @@ Two consequences shape every recent advance:
 
 An **ideal detection method** should report both the presence of a lesion and its depth and surface status (Schwendicke and Göstemeyer, 2019): it should identify a healthy surface (specificity), detect demineralisation (sensitivity), and show whether the lesion is active and whether it is cavitated. Apart from frank cavitation, no current method does all of this accurately, so the clinician combines visual, tactile and radiographic findings with the patient's caries status (Boushell and Shugars, 2019).
 
-The editors stress that devices should **support visual examination and not replace it**, that teeth must be plaque-free before examination, and that greater sensitivity is for monitoring, **not a licence to increase surgical intervention** (Ferreira Zandona and Longbottom, 2019). The standard of care remains visual inspection of clean, dry, well-lit teeth with radiographs as indicated (Boushell and Shugars, 2019).
+The editors stress that devices should **support visual examination and not replace it**, that teeth must be plaque-free before examination, and that greater sensitivity is for monitoring, **not a licence to increase surgical intervention** (Ferreira Zandona and Longbottom, 2019). The standard of care remains visual inspection of clean, dry, well-lit teeth with radiographs as indicated (Boushell and Shugars, 2019). **Evidence for the devices is disputed:** Amaechi et al. (2013) note that their claims have not been evaluated in controlled clinical trials, whereas Neuhaus and Lussi (2019) cite clinical-trial evidence supporting DIAGNOdent in primary care.
 
 ## 3. Classification of recent diagnostic methods
 
@@ -47,7 +47,7 @@ The teeth are cleaned by toothbrushing; rotary prophylaxis is avoided because it
 
 ### ICDAS II
 
-ICDAS was devised at a conference in **Dundee in 2002**, expanding the five-score Ekstrand-Kidd-Ricketts (ERK) system to **seven scores** (Ekstrand and Braga, 2019). It is a **two-digit code**: the first digit records the restoration/sealant status of the surface, the second the caries severity.
+ICDAS was devised at a conference in **Dundee in 2002**, expanding the five-score Ekstrand-Kidd-Ricketts (ERK) system to **seven scores** (Ekstrand and Braga, 2019). It is a **two-digit code**: the first digit records the restoration/sealant status of the surface, the second the caries severity; Boushell and Shugars (2019) give the reverse order (severity first, then restoration).
 
 | Code | Coronal caries (second digit) | Merged |
 |---|---|---|
@@ -219,6 +219,8 @@ Kidd and Fejerskov (2016) state that complete removal risking exposure **should 
 
 **Non-restorative cavity control.** Primary-tooth cavities are opened so the parent can brush them; the lesions arrest, and several teeth can be opened in about **10 minutes** (Kidd and Fejerskov, 2016).
 
+**Chemo-mechanical and other excavation methods.** Carisolv gel reacts only with carious dentine whose collagen is already degraded, so removal with non-cutting hand instruments is partly self-limiting and often needs no local anaesthesia; Papacarie is papain-based (Banerjee and Watson, 2015). Sikri (2020) adds that Carisolv-excavated dentine bonds well, but notes high cost, special instruments and a chlorine taste that children dislike. The books differ on its hypochlorite content: a 0.1% gel (Banerjee and Watson, 2015) against 0.5% in the liquid component (Sikri, 2020). Lasers, ozone and photo-activated disinfection still lack clinical research for routine use (Banerjee and Watson, 2015).
+
 ### Recall and monitoring
 
 Recall follows risk: **3-monthly** with varnish and bitewings every **6–12 months** for high risk, **9–12 months** for low risk (Ferreira Zandoná and Ritter, 2019). Quantitative tools (QLF, Canary, subtraction radiography) document whether non-operative care is arresting lesions.
@@ -237,18 +239,20 @@ Recent advances have changed caries care from detecting holes to diagnosing a di
 6. Kim BI. Quantitative light-induced fluorescence. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.16.
 7. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
 8. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
-9. Machiulskiene V. Nyvad criteria for assessment of caries lesion activity and severity. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.5.
-10. Ekstrand KR, Braga MMMB. Visual detection criteria using the International Caries Detection and Assessment System (ICDAS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.6.
-11. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
-12. Price JB. Caries detection with dental cone beam computed tomography. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.13.
-13. Hogan R, Pretty IA, Ellwood RP. Fibre-optic transillumination: FOTI. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.14.
-14. Kühnisch J. Near-infrared light transillumination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.15.
-15. Fried D. Near-infrared reflectance imaging of caries lesions. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.19. (2019a)
-16. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
-17. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
-18. Lennon ÁM, Buchalla W. Fluorescence-aided caries excavation: FACE. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.10.
-19. Amaechi BT. Photothermal radiometry and modulated luminescence: the Canary System. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.18.
-20. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20. (2019b)
-21. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
-22. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
-23. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
+9. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.5.
+10. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
+11. Machiulskiene V. Nyvad criteria for assessment of caries lesion activity and severity. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.5.
+12. Ekstrand KR, Braga MMMB. Visual detection criteria using the International Caries Detection and Assessment System (ICDAS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.6.
+13. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
+14. Price JB. Caries detection with dental cone beam computed tomography. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.13.
+15. Hogan R, Pretty IA, Ellwood RP. Fibre-optic transillumination: FOTI. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.14.
+16. Kühnisch J. Near-infrared light transillumination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.15.
+17. Fried D. Near-infrared reflectance imaging of caries lesions. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.19. (2019a)
+18. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
+19. Lennon ÁM, Buchalla W. Fluorescence-aided caries excavation: FACE. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.10.
+20. Amaechi BT. Photothermal radiometry and modulated luminescence: the Canary System. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.18.
+21. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20. (2019b)
+22. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
+23. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
+24. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
+25. Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.28, Minimal intervention dentistry.

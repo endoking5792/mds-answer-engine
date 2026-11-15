@@ -17,7 +17,8 @@
 3. **Treats the cause:** lesions are the result of the disease, not its cause (Boushell and Shugars, 2019), so restoring without risk control invites recurrence.
 4. **Tooth preservation:** restorations last 5 to more than 15 years and each replacement enlarges the cavity (Boushell and Shugars, 2019).
 5. **Prognosis before treatment:** the operator must reach a proper diagnosis and prognosis before any plan (Sikri, 2020).
-6. **Efficiency and protection:** planning brings efficiency, satisfaction and lower legal risk (Sikri, 2020); the record is the basis in legal disputes (Torres et al, 2020).
+6. **Efficiency and protection:** planning brings efficiency, satisfaction and lower legal risk (Sikri, 2020).
+7. **A written record:** the plan makes the clinician review treatment against the evidence at the start and throughout, has dento-legal value, and avoids disordered piecemeal treatment (Banerjee and Watson, 2011).
 
 ## Steps from assessment to plan
 
@@ -42,22 +43,20 @@ Reasons for seeking care → medical and dental history → clinical examination
 | Definitive | Endodontic, periodontal, orthodontic, surgical and prosthodontic care, only once disease is controlled |
 | Maintenance | Risk-based recall: 3-4 months if high risk, 9-12 months if low risk |
 
-The first three phases often run together, and the principle of **greatest need** decides the order: pain first, elective esthetics last (Boushell and Shugars, 2019). Within disease control, severity, esthetics and use of time set the order, working by quadrant (Rose, Haveman and Davis, 2013).
+The first three phases often run together, and the principle of **greatest need** decides the order: pain first, elective esthetics last (Boushell and Shugars, 2019). Within disease control, restorations are completed by quadrant (Rose, Haveman and Davis, 2013).
 
 **The books differ:**
 
 | Point | Views |
 |---|---|
-| Number of phases | Five (Boushell and Shugars, 2019); six, with a separate **systemic phase** using the ASA classification (Torres et al, 2020); three (Banerjee and Watson, 2015) |
+| Number of phases | Five (Boushell and Shugars, 2019); six, with a separate **systemic phase** using the ASA classification (Torres et al, 2020); three (Banerjee and Watson, 2015); emergency, disease control and maintenance (Sikri, 2020) |
 | Esthetics | Last (Boushell and Shugars, 2019); may be urgent for anterior teeth (Torres et al, 2020) |
 | Low-risk recall | 9-12 months (Boushell and Shugars, 2019); about 1 year (Torres et al, 2020) |
-
-Patients in pain cannot decide well, so urgent care precedes the definitive plan (Torres et al, 2020).
 
 ## Interdisciplinary sequencing
 
 - **Endodontics** is completed before the restoration (Boushell and Shugars, 2019).
-- **Periodontics** generally precedes operative care. A tooth with a questionable periodontal prognosis should not receive an extensive restoration. After periodontal surgery, wait at least 6 weeks according to Boushell and Shugars (2019), but 3-6 months according to Torres et al (2020).
+- **Periodontics** generally precedes operative care. A tooth with a questionable periodontal prognosis should not receive an extensive restoration. After periodontal surgery, Boushell and Shugars (2019) wait at least 6 weeks before final restorations, whereas Torres et al (2020) wait 3-6 months before definitive prosthetic treatment.
 - **Orthodontics:** restore carious lesions with amalgam or composite before orthodontic treatment (Boushell and Shugars, 2019).
 - **Oral surgery:** remove impacted or hopeless teeth before operative treatment (Boushell and Shugars, 2019).
 - **Direct before indirect** restorations where possible (Boushell and Shugars, 2019), although Torres et al (2020) accept the reverse order.
@@ -75,5 +74,6 @@ Diagnosis decides whether to intervene, and the treatment plan decides how and i
 1. Banerjee A, Watson TF. Diagnosis, prognosis, and care planning: information processing. In: Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: Oxford University Press; 2015. Ch.3.
 2. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 3. Rose WF Jr, Haveman CW, Davis RD. Patient evaluation and problem-oriented treatment planning. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park (IL): Quintessence; 2013. Ch.2.
-4. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020. Ch.6.
-5. Torres CRG, Barbe AG, Noack MJ, Wicht MJ. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.
+4. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
+5. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.3.
+6. Torres CRG, Barbe AG, Noack MJ, Wicht MJ. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.

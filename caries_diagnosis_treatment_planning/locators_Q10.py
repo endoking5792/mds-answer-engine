@@ -14,6 +14,9 @@ F_EXTRA = {
  'q10_sik': (O+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
  # Pickard's Guide to Minimally Invasive Operative Dentistry 10th ed Ch.3. Offset 11 confirmed at PDF 52 (printed 41) and PDF 54 (printed 43).
  'q10_pick': (O+'Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
+
+ # u3 audit 2026-11-14: Pickard's Manual 9e (Banerjee and Watson, OUP 2011) Ch.3 section 3.7.1. Offset 11 confirmed at PDF 52 (printed 41) and, in Ch.2, PDF 38 (printed 27).
+ 'q10_pic': (O+'Pickards_Manual_of_Operative_Dentistry_9th.md', 11, 'Banerjee and Watson, 2011'),
 }
 L = {
  # definitions, importance
@@ -86,4 +89,16 @@ L = {
  # consent
  'q10_stu_consent': ('q10_stu3', 'Informing patients well about their conditions and treatment options and then obtaining their consent has become an integral part of contemporary dental practice'),
  'q10_stu_alt': ('q10_stu3', 'a reasonable alternative often is not to intervene directly with restorative care'),
+ # u3 audit 2026-11-14 additions
+ 'q10_pic_rev': ('q10_pic', 'It ensures that the lead clinician reviews the treatment in the light of all available evidence'),
+ 'q10_pic_legal': ('q10_pic', 'it may have dento-legal importance and may protect the dentist against unjustified complaints'),
+ 'q10_pic_piece': ('q10_pic', 'It avoids the risk of disordered and ill-advised treatment, which may arise if treatment is undertaken piecemeal'),
+ 'q10_sik_phase': ('q10_sik', 'Prioritize emergency phase, disease control phase and'),
+ 'q10_stu_ctrl2': ('q10_stu3', 'replacement or repair of defective restorations such as those with gingival overhangs, and use of caries control measures'),
+ 'q10_stu_reev': ('q10_stu3', 'Initial treatment and pulpal responses are'),
+ 'q10_stu_motiv': ('q10_stu3', 'This phase is used to reinforce home care habits and assess motivation for further treatment'),
+ 'q10_stu_defin': ('q10_stu3', 'This phase may include endodontic, periodontal, orthodontic, and surgical procedures'),
+ 'q10_stu_cons2': ('q10_stu3', 'the patient should be informed of the risks associated with each alternative therapy'),
+ 'q10_stu_cost': ('q10_stu3', 'the cost of treatment alternatives should be discussed with the patient'),
+ 'q10_stu_nontx': ('q10_stu3', 'the results of possible non-treatment'),
 }

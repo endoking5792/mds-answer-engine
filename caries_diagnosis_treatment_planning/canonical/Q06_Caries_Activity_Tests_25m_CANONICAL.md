@@ -99,10 +99,10 @@ No single test predicts caries in an individual. The tests best confirm low risk
 
 ## References
 
-1. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. eBook ed. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
+1. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
 2. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
 3. Ngo HC, Wolff MS, Hume WR. Dental caries: activity and risk assessment as a logical and effective path to both prevention and cure. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.3.
 4. Ricketts D, Chadwick G, Hall A. Management of dental caries. In: Ricketts D, Bartlett D, editors. Advanced Operative Dentistry: A Practical Approach. Edinburgh: Elsevier; 2011. Ch.1.
 5. Kidd E, Fejerskov O. Essentials of Dental Caries. 4th ed. Oxford: Oxford University Press; 2016.
 6. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
-7. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.5.
+7. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park (IL): Quintessence; 2013. Ch.5.

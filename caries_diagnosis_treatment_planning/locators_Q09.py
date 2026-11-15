@@ -100,4 +100,12 @@ L = {
  'q09_kid_scar': ('q09_kid', 'Most often a white spot lesion remains as a scar in the tooth'),
  'q09_kid_active': ('q09_kid', 'it will only be possible to reverse a lesion by starting the caries control measures while the lesion is in an active stage'),
  'q09_mnt_rest': ('q09_mnt', 'This outcome can be considered an excellent, natural, low‐solubility and permanent restoration'),
+ # audit u2 additions
+ 'q09_dark': ('q09_stu', 'Experimental remineralization has shown increases in the size of the dark zone'),
+ 'q09_sect': ('q09_stu', 'The four zones in a sectioned enamel caries'),
+ 'q09_chalk': ('q09_sum', 'Opaque, chalky, and matte'),
+ 'q09_stain': ('q09_sum', 'May be discolored by extrinsic stain'),
+ 'q09_ny1015': ('q09_d5', 'carefully dried with a blast of air for 10–15 s'),
+ 'q09_gm': ('q09_d5', 'close to gingival margin on the smooth surfaces'),
+ 'q09_wwact': ('q09_sum', 'The dentist is performing active preventive treatment'),
 }

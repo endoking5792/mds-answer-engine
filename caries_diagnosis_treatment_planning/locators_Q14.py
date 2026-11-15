@@ -15,6 +15,8 @@ F_EXTRA = {
  'q14_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
  'q14_stu3': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Detection and Assessment of Dental Caries (2019) Ch.10 FACE, Lennon and Buchalla. Offset 2 confirmed at PDF 101 (printed 99) and PDF 102 (printed 100).
+ # Audit u2 2026-11-14. Pickard's Manual 9th (OUP 2011), Banerjee and Watson, Ch.2. Offset 11: PDF 37 printed 26, PDF 38 printed 27.
+ 'q14_pkm': (B+'Pickards_Manual_of_Operative_Dentistry_9th.md', 11, 'Banerjee and Watson, 2011'),
  'q14_face': (B+'Detection_and_Assessment_of_Dental_Caries.md', 2, 'Lennon and Buchalla, 2019'),
 }
 L = {
@@ -73,4 +75,7 @@ L = {
  'q14_face': ('q14_face', 'This causes infected dentin to fluoresce red, while noninfected dentin fluoresces green'),
  'q14_face405': ('q14_face', 'the cavity is illuminated with a violet light (405 nm)'),
  'q14_tr_vista': ('q14_tor', 'emits violet light (405 nm) that stimulates bacterial metabolites, causing them to glow red'),
+ # audit u2 additions
+ 'q14_pkm_two': ('q14_pkm', 'this system has been placed into two categories, optical light scattering and fluorescent characteristics'),
+ 'q14_sk_dent': ('q14_sik', 'Readings do not relate exactly to the amount of dentinal decay'),
 }

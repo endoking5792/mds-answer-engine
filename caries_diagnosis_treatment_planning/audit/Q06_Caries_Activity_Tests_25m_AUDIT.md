@@ -170,7 +170,7 @@ Keep quotations short and only as long as needed to locate the source. Never cop
 | Date | Answer version / commit | Change | Audit action |
 |---|---|---|---|
 | 2026-11-10 | v1 (uncommitted) | First canonical draft | locators_Q06.py created; build_audit run |
-| 2026-11-14 | v2 (uncommitted) | u3 second-reader and textbook audit: Sikri adv/disadv lists assigned (Snyder, Alban, Ora, Fosdick, swab) and added; Alban 'like Snyder' sentence replaced; L-pop, Dentocult chewing time, Ngo table row and chairside sentence cut for length | 9 locators added (q06_sik_sn_easy ... q06_sik_sw_inc); build_audit re-run clean, 999 words |
+| 2026-11-14 | v2 (uncommitted) | u3 second-reader and textbook audit: Sikri adv/disadv lists assigned (Snyder, Alban, Ora, Fosdick, swab) and added; Alban 'like Snyder' sentence replaced; L-pop, Dentocult chewing time, Ngo table row and chairside sentence cut for length | 9 locators added (q06_sik_sn_easy ... q06_sik_sw_inc); build_audit re-run clean, 1000 words |
 
 ## Final audit checklist
 

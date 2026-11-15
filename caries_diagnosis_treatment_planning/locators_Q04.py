@@ -108,4 +108,8 @@ L = {
  'q04_d23_arr2': ('q04_d23', 'except to address issues associated with esthetics, function, or risk for pulp death'),
  'q04_d23_rest': ('q04_d23', 'thus in general will need to be restored'),
  'q04_tor_noguide': ('q04_tor', 'Esthetic problems can also be considered as urgency treatment'),
+ # u3 audit 2026-11-14 additions
+ 'q04_stu_urgmed': ('q04_stu3', 'The urgent phase of care begins with a thorough review of'),
+ 'q04_stu_ccsfig': ('q04_stu3', 'Caries Classification System (ADA CCS) and International Caries Detection and Assessment System'),
+ 'q04_sik_phase': ('q04_sik', 'Prioritize emergency phase, disease control phase and'),
 }

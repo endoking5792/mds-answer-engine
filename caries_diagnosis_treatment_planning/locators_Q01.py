@@ -248,3 +248,21 @@ L = {
  'q01_st3_ideal': ('q01_st3', 'An ideal diagnostic test accurately detects when a tooth surface is healthy (specificity)'),
  'q01_st3_none': ('q01_st3', 'none of the available approaches to detecting caries or determining lesion activity is completely accurate'),
 }
+# Audit u1 (2026-11-15). Summitt's 4th (Quintessence 2013) Ch.5 (Amaechi, van Amerongen, van Loveren, Kidd): no printed page numbers, offset None.
+# Sikri, Textbook of Conservative and Restorative Dentistry (CBS 2020) Ch.28 Minimal intervention dentistry: offset 19 (PDF 563 printed 544, PDF 564 printed 545).
+F_EXTRA['q01_sum'] = (B + 'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al., 2013')
+F_EXTRA['q01_sik'] = (B + 'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020')
+L.update({
+ 'q01_sum_trials': ('q01_sum', 'These claims have not been evaluated using controlled clinical trials'),
+ 'q01_dd_trials': ('q01_dac17', 'sufficient body of evidence gained from clinical trials that supports the device’s use in primary care dentistry'),
+ 'q01_st3_order': ('q01_st3', 'The first is a code for the severity of the caries lesion and the second is for the restorative status of the tooth'),
+ 'q01_pick_cari': ('q01_pick', 'reacts with carious dentine that has undergone proteolytic breakdown of collagen'),
+ 'q01_pick_self': ('q01_pick', 'This chemistry confers an element of self-limiting caries removal ability'),
+ 'q01_pick_01': ('q01_pick', 'Consists of a 0.1% hypochlorite-based alkaline gel (pH 11)'),
+ 'q01_pick_la': ('q01_pick', 'patients do not always require local anaesthesia'),
+ 'q01_pick_papa': ('q01_pick', 'Papacarie® gel (papain based)'),
+ 'q01_pick_lack': ('q01_pick', 'These technologies currently suffer from a lack of clinical research to validate them for routine'),
+ 'q01_sik_05': ('q01_sik', 'one is liquid containing 0.5% sodium hypochlorite'),
+ 'q01_sik_bond': ('q01_sik', 'Carisolv excavated dentin shows better bonding characteristics'),
+ 'q01_sik_dis': ('q01_sik', 'The disadvantages include its high cost and need of special instruments. Children usually dislike the chlorine taste and odor'),
+})

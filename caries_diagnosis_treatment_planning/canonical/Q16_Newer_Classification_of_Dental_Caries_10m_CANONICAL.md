@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Newer classifications describe the **lesion** (site, severity, activity) rather than the restoration, so that early lesions can be recorded, monitored and managed without cutting.
+Newer classifications describe the **lesion** (site, severity, activity), not the restoration, so early lesions can be recorded, monitored and managed without cutting.
 
 ## Criteria-based classification
 
@@ -38,7 +38,7 @@ Books differ: Singh (2020) calls size 3 "advanced"; Sikri (2020) dates the syste
 | Nyvad | Activity (active/inactive) and severity (non-cavitated/cavitated), from surface features (Machiulskiene, 2019) |
 | ADA CCS | Sound, initial, moderate, advanced (Zeller, Young and Novy, 2019) |
 
-ICDAS dates differ: a 2002 Dundee conference (Ekstrand and Braga, 2019; Mount et al., 2016), a 2004 Foundation (Banerjee and Watson, 2011) and 2009 (Singh, 2020); the 2002 origin is best documented.
+Books differ on ICDAS. **Date:** a 2002 Dundee conference (Ekstrand and Braga, 2019; Mount et al., 2016), a 2004 Foundation (Banerjee and Watson, 2011), 2009 (Singh, 2020). **Digit order:** Boushell and Shugars (2019) put severity first and restoration second, the reverse of Ekstrand and Braga.
 
 ## Radiographic classification
 
@@ -50,7 +50,7 @@ Newer systems link lesion stage and activity to non-operative or operative care.
 
 ## References
 
-1. Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (first eBook edition). Ch.2, Nomenclature and terminology; Ch.3, Dental caries.
+1. Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.2, Nomenclature and terminology; Ch.3, Dental caries.
 2. Singh H. Essentials of Preclinical Conservative Dentistry. 2nd ed. New Delhi: Wolters Kluwer (India); 2020. Ch.5, Dental caries; Ch.6, Classification of dental caries.
 3. Longbottom C, Ferreira Zandona A. Preparing teeth for a clinical examination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.2.
 4. Mount GJ, Hume WR, Ngo HC, Wolff MS. Systems for classifying defects of the exposed tooth surface. In: Mount GJ, Hume WR, Ngo HC, Wolff MS, editors. Preservation and Restoration of Tooth Structure. 3rd ed. Chichester: John Wiley & Sons; 2016. Ch.6.
@@ -58,4 +58,5 @@ Newer systems link lesion stage and activity to non-operative or operative care.
 6. Machiulskiene V. Nyvad criteria for assessment of caries lesion activity and severity. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.5.
 7. Zeller G, Young DA, Novy B. The American Dental Association Caries Classification System (ADA CCS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.7.
 8. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.2.
-9. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
+9. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
+10. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.

@@ -44,6 +44,8 @@ F_EXTRA = {
  'q07_mnt': (O + 'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount et al., 2016'),
  # Harpreet Singh, Essentials of Preclinical Conservative Dentistry 2nd (Wolters Kluwer India 2020) Ch.5. Offset 17: PDF 52 printed 35, PDF 57 printed 40.
  'q07_sgh': (O + 'Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh, 2020'),
+ # Audit u2 2026-11-14. Garg N, Garg A, Textbook of Preclinical Conservative Dentistry (Jaypee 2011, 1st ed) Ch.4 Dental caries. Offset 7: PDF 70 printed 63, PDF 71 printed 64, PDF 72 printed 65.
+ 'q07_grg': (O + 'Textbook_of_Preclinical_Conservative_Dentistry.md', 7, 'Garg and Garg, 2011'),
 }
 BOOK_EXTRA = {}
 L = {
@@ -116,4 +118,11 @@ L = {
  'q07_d23_arr': ('q07_d23', 'Arrested caries lesions do not require caries interventions'),
  'q07_d23_nc': ('q07_d23', 'Non-cavitated active lesions should be treated using evidence-based non-restorative methods'),
  'q07_d23_cav': ('q07_d23', 'Most cavitated lesions are non-cleansable, and thus active'),
+ # audit u2 additions
+ 'q07_grg_cls': ('q07_grg', 'Various methods for diagnosis of dental caries'),
+ 'q07_grg_tact': ('q07_grg', 'Tuned aperture computerized tomography'),
+ 'q07_grg_mrmi': ('q07_grg', 'Magnetic resonance microimaging (MRMI)'),
+ 'q07_grg_ecm': ('q07_grg', 'III. Electrical conductance measurement'),
+ 'q07_grg_vis': ('q07_grg', 'cavitation, surface roughness, opacification and discoloration of clean and dried teeth'),
+ 'q07_ny1015': ('q07_d5', 'carefully dried with a blast of air for 10–15 s'),
 }

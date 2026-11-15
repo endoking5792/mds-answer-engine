@@ -9,6 +9,13 @@ F_EXTRA = {
  'q15_sik': (B+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
  # Summitt's Fundamentals of Operative Dentistry 4th ed (2013) Ch.6 Pulpal considerations, Hilton and Summitt. No printed page numbers in the file.
  'q15_sum': (B+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Hilton and Summitt, 2013'),
+ # Audit u2 2026-11-14.
+ # Sturdevant's 2nd South Asia ed (2019) Ch.2, Ferreira Zandoná and Ritter (contributors list). Offset 19: PDF 61 printed 42, PDF 62 printed 43.
+ 'q15_stu': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Ferreira Zandoná and Ritter, 2019'),
+ # Harpreet Singh, Essentials of Preclinical Conservative Dentistry 2nd (Wolters Kluwer India 2020) Ch.5. Offset 17: PDF 52 printed 35, PDF 57 printed 40.
+ 'q15_sgh': (B+'Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh, 2020'),
+ # Pickard's Guide to Minimally Invasive Operative Dentistry 10th (OUP 2015), Banerjee and Watson, Ch.5. Offset 11: PDF 97 printed 86, PDF 99 printed 88.
+ 'q15_pkg': (B+'Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
 }
 L = {
  # definition, rationale, layers
@@ -60,4 +67,13 @@ L = {
  'q15_su_porous': ('q15_sum', 'the dyes stain not only demineralized dentin but also anything porous'),
  'q15_su_deep': ('q15_sum', 'noncarious deep dentin will absorb the dye'),
  'q15_su_bond': ('q15_sum', 'the preponderance of evidence indicates that neither of these should be a concern'),
+ # audit u2 additions
+ 'q15_fus': ('q15_stu', 'staining the carious dentin was proposed by Fusayama'),
+ 'q15_stu_bad': ('q15_stu', 'dye staining is not a good indicator of bacterial invasion of the dentin'),
+ 'q15_stu_avoid': ('q15_stu', 'it should therefore be avoided'),
+ 'q15_stu_matrix': ('q15_stu', 'these dyes bind and stain the demineralized dentin matrix and do not stain bacteria exclusively'),
+ 'q15_sgh_only': ('q15_sgh', 'causes the colouration of irreversibly denatured collagen of the infected dentin only'),
+ 'q15_sgh_rel': ('q15_sgh', 'the reliable method of distinguishing is to use'),
+ 'q15_pkg_deep': ('q15_pkg', 'these dyes stain deeper collagen and permeate into affected'),
+ 'q15_pkg_over': ('q15_pkg', 'often leading to cavity over-preparation'),
 }

@@ -87,13 +87,14 @@ Keep quotations short and only as long as needed to locate the source. Never cop
 - **Question wording / marks:** "Role of saliva in diagnosis of dental caries" 10m (Nov 2012, RG PII RS-2).
 - **Related questions:** Q06 (salivary tests in detail), Q11 (risk tools); the 50m "Role of saliva in dental caries" essay belongs to the Dental Caries topic.
 - **Content absorbed or deliberately omitted:** protective functions of saliva (clearance, remineralisation) kept to one line because the question asks about diagnosis.
-- **Essential omissions / open points:** none.
+- **Essential omissions / open points:** none. u3 audit (2026-11-14): every statement re-read against the ledger; all supported (Kidd and Fejerskov's 'nonsense' read in context, Essentials 4e line 868-870: it is aimed at the search for salivary microbial and biochemical risk biomarkers, as the answer says). Checked Pickard's Manual 9e and Guide 10e (saliva listed only as a risk-chart line), Marzouk, Harpreet Singh and Sikri Ch.3 (no further diagnostic content). Considered but not added for length: Ricketts et al normal stimulated flow 1.5 ml/min (a third normal value beside Kidd and Fejerskov 1-2 and Torres et al 1.5-3; locator row 37). Sikri reference format aligned with the other u3 answers.
 
 ## Revision history
 
 | Date | Answer version / commit | Change | Audit action |
 |---|---|---|---|
 | 2026-11-14 | v1 (uncommitted) | First canonical draft | locators_Q12.py created; build_audit run |
+| 2026-11-14 | v2 (uncommitted) | u3 second-reader and textbook audit: no content change; Sikri reference format aligned | build_audit clean, 400 words |
 
 ## Final audit checklist
 

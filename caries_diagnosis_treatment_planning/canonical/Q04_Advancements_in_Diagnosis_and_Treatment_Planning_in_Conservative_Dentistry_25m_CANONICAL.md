@@ -17,11 +17,11 @@
 
 ### Caries as a disease: risk assessment
 
-Caries is a **dysbiosis of the biofilm** driven by sugars (Fontana and Huysmans, 2019), so diagnosis now includes the patient's risk as well as the lesions. Caries Management by Risk Assessment (CAMBRA) is built on ICDAS (Boushell and Shugars, 2019). Risk assessment is not yet standardised; the Cariogram software predicts new lesions but was **inferior to clinical judgment** for high-risk patients (Torres et al, 2020), and the dentist's overall impression may predict risk well (Fontana and Huysmans, 2019).
+Caries is a **dysbiosis of the biofilm** driven by sugars (Fontana and Huysmans, 2019), so diagnosis now includes the patient's risk as well as the lesions. Caries Management by Risk Assessment (CAMBRA) embraces the principles of ICDAS (Boushell and Shugars, 2019). Risk assessment is not yet standardised; the Cariogram software predicts new lesions but was **inferior to clinical judgment** for high-risk patients (Torres et al, 2020), and the dentist's overall impression may predict risk well (Fontana and Huysmans, 2019).
 
 ### Visual scoring systems and lesion activity
 
-- **ICDAS** records a lesion in two stages: severity on a 0-6 scale, then the restoration or sealant status; the ADA Caries Classification System is the companion system (Boushell and Shugars, 2019).
+- **ICDAS** records a lesion in two stages: severity on a 0-6 scale, then the restoration or sealant status; it is charted alongside the ADA Caries Classification System (Boushell and Shugars, 2019).
 - **Activity assessment:** lesions are judged active or arrested by site, plaque, lustre, texture and gingival status, to find enamel lesions that remineralisation can reverse (Boushell and Shugars, 2019); no validated measure of activity yet exists (Fontana and Huysmans, 2019).
 - **Instrument:** a CPITN probe with a 0.5 mm ball tip replaces the sharp explorer, which can cavitate a remineralisable lesion (Boushell and Shugars, 2019).
 
@@ -69,7 +69,7 @@ Because replacement drives the **cycle of re-restoration**, repair or resurfacin
 
 ### Digital esthetic planning
 
-**Digital Smile Design** draws reference lines and the proposed design over 2D photographs, sharpening esthetic diagnosis and team communication (Coachman, Calamita and Ricci, 2018). **Computer imaging** previews the result and motivates the patient, with a printed no-guarantee disclaimer (Goldstein and Salama, 2018).
+**Digital Smile Design** draws reference lines and the proposed design over 2D photographs, sharpening esthetic diagnosis and team communication (Coachman, Calamita and Ricci, 2018). **Computer imaging** previews the result and motivates the patient (Goldstein and Salama, 2018).
 
 ### Phased, risk-based plans
 
@@ -78,6 +78,7 @@ Because replacement drives the **cycle of re-restoration**, repair or resurfacin
 | Torres et al (2020) | **Systemic** (ASA status), urgency, control, re-evaluation, definitive, maintenance |
 | Boushell and Shugars (2019) | Urgent, control, re-evaluation, definitive, maintenance (the medical review sits inside the urgent phase) |
 | Banerjee and Watson (2015) | Prevention or control, stabilisation or definitive, review or recall |
+| Sikri (2020) | Emergency, disease control, maintenance |
 
 Torres et al make **medical risk assessment** a separate first phase. Recall is set by risk: about 3-4 months for high-risk patients and 9-12 months for low-risk patients (Boushell and Shugars, 2019).
 
@@ -100,5 +101,5 @@ Diagnosis has advanced from finding cavities to assessing risk, activity and sev
 7. Goldstein RE, Salama MA. Esthetic treatment planning: patient and practice management skills in esthetic treatment planning. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: John Wiley & Sons; 2018. Ch.3.
 8. Chu SJ, Devigus A, Paravina RD, Mieleszko AJ. Technology-based shade matching. In: Fundamentals of Color: Shade Matching and Communication in Esthetic Dentistry. 2nd ed. Hanover Park (IL): Quintessence; 2010. Ch.5.
 9. Rose WF Jr, Haveman CW, Davis RD. Patient evaluation and problem-oriented treatment planning. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park (IL): Quintessence; 2013. Ch.2.
-10. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020. Ch.6.
+10. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
 11. Coachman C, Calamita M, Ricci A. Digital Smile Design: a digital tool for esthetic evaluation, team communication, and patient management. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: John Wiley & Sons; 2018. Ch.4.

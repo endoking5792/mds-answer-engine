@@ -42,3 +42,10 @@ L = {
  'q17_d15_780': ('q17_d15', 'emits near-infrared light with a wavelength of ~780 nm'),
  'q17_d17_pen': ('q17_d17', 'a pen-type DIAGNOdent device was developed for approximal sites as well'),
 }
+# Audit u1 (2026-11-15): Sturdevant 2e SA Ch.3 (Boushell and Shugars). Offset 19: PDF 114 printed 95, PDF 107 printed 88.
+F_EXTRA['q17_st3'] = (O + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019')
+L.update({
+ 'q17_st3_brown': ('q17_st3', 'Brown spots on intact, hard proximal surface enamel adjacent to and usu- ally gingival to the contact area'),
+ 'q17_st3_notx': ('q17_st3', 'Restorative treatment of these areas is not indicated'),
+ 'q17_kid_dry': ('q17_kid', 'teeth must be isolated, clean, and dry to see this'),
+})

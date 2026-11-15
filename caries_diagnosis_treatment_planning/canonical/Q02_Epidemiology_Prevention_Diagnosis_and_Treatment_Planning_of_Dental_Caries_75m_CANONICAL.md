@@ -36,9 +36,9 @@ The process is a **continuum of demineralisation and remineralisation**: biofilm
 2. **Age:** caries experience rises with age throughout life, crown and root (Kidd and Fejerskov, 2016).
 3. **Gender:** females tend to have more experience, mainly more filled and missing teeth; men have more untreated lesions (Kidd and Fejerskov, 2016).
 4. **Socio-economic status:** caries is more prevalent in lower socio-economic groups (Amaechi et al, 2013; Kidd and Fejerskov, 2016); in some low-income countries (Vietnam, Kenya) the reverse holds.
-5. **Heredity:** Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences; "familial" caries reflects shared diet and hygiene. Sikri (2020) instead describes a genetic theory with candidate enamel-formation genes.
+5. **Heredity:** Kidd and Fejerskov (2016) find no evidence that inheritance explains group differences; "familial" caries reflects shared diet and hygiene. Sikri (2020) instead describes a genetic theory, with genes acting through immune response, saliva and enamel structure.
 6. **Global picture (WHO, 12-year-olds, D3MFT):** Western Europe and most of Africa below 1; Eastern Europe 2-5; Latin America 1.5-5; India and the Philippines **3 to 4**; Saudi Arabia almost 6 (Kidd and Fejerskov, 2016).
-7. **Trends:** in many European countries childhood prevalence and incidence have fallen by **as much as 90%** (Kidd and Fejerskov, 2016), mainly through fluoride and oral hygiene (Borges, Torres and Schlueter, 2020). As means fall, distributions become **skewed**: a minority carries most disease. Lesions also progress more slowly; about **4 years** through proximal enamel (Amaechi et al, 2013). Yet the global burden of **untreated** caries has been almost unchanged for 20 years (Kidd and Fejerskov, 2016).
+7. **Trends:** in many European countries childhood prevalence and incidence have fallen by **as much as 90%** (Kidd and Fejerskov, 2016), most likely through regular fluoride use and oral hygiene (Borges, Torres and Schlueter, 2020). As means fall, distributions become **skewed**: a minority carries most disease. Lesions also progress more slowly; about **4 years** through proximal enamel (Amaechi et al, 2013). Yet the global burden of **untreated** caries has been almost unchanged for 20 years (Kidd and Fejerskov, 2016).
 8. **Prediction:** a cohort's caries level at one age predicts its later level (Kidd and Fejerskov, 2016). Low averages therefore hide high-risk individuals: prevention must be population-wide and targeted.
 
 ## 3. Prevention
@@ -61,7 +61,6 @@ Evidence is strongest for fluorides, then oral hygiene, and weakest for nutritio
 
 - Brush **twice daily**, last thing at night and once more, with toothpaste of **at least 1000 ppm F**; family paste of **1350-1500 ppm** from about 3 years (pea-sized amount); **spit, do not rinse** (Kidd and Fejerskov, 2016).
 - **Two minutes** twice daily; no brushing technique is superior, but systematic coverage of all areas matters (Borges, Torres and Schlueter, 2020).
-- Floss or interdental brushes for approximal surfaces.
 - Sturdevant recommends fluoride dentifrice **three times** a day (Ferreira Zandoná and Ritter, 2019), whereas Kidd and Fejerskov (2016) advise twice; both agree on fluoride toothpaste as the basis.
 - **Evidence:** in Krasse's school study, hygiene and diet counselling gave 3.3 new restorations against 8.2 in controls after 18 months (Ferreira Zandoná and Ritter, 2019).
 
@@ -85,8 +84,8 @@ The modern view is predominantly **topical**, so fluoride benefits all ages.
 | **Water fluoridation** | Dean's level: up to **1 ppm** of no public-health concern (Kidd and Fejerskov, 2016); now **0.7 ppm**, 50-60% reduction (Ferreira Zandoná and Ritter, 2019). Kidd and Fejerskov (2016) note the benefit fell from about **50%** to about **15%** in the USA as other fluoride spread, but it remains the most cost-effective **passive** measure |
 | **Toothpaste** | Daily fluoride toothpaste is the cost-effective first choice; **5000 ppm** (1.1% NaF) prescription paste for high-risk patients over 6 years (Ferreira Zandoná and Ritter, 2019) |
 | **Varnish, 5% NaF (22,500 ppm)** | Every **3 months** in high risk, **6 months** in moderate risk; not indicated in low risk (Ferreira Zandoná and Ritter, 2019); additive to toothpaste (Kidd and Fejerskov, 2016) |
-| **APF gel 1.23%** | 12,300 ppm; risk of swallowing in children |
-| **Rinses** | 0.2% NaF weekly (school programmes) or 0.05% daily (home) |
+| **APF gel 1.23%** | 12,300 ppm; risk of swallowing in children (Ferreira Zandoná and Ritter, 2019) |
+| **Rinses** | High-dose 0.2% low-frequency or low-dose 0.05% daily (Ferreira Zandoná and Ritter, 2019) |
 | **Silver diamine fluoride 38%** | Arrests cavitated lesions where restoration is impractical; stains black (Ferreira Zandoná and Ritter, 2019) |
 | **Tablets, salt** | Kidd and Fejerskov (2016): tablets have little role and mainly cause fluorosis; salt fluoridation should not be recommended |
 
@@ -96,7 +95,7 @@ The modern view is predominantly **topical**, so fluoride benefits all ages.
 
 - Sugar intake and caries are irrefutably linked (Kidd and Fejerskov, 2016); **frequency** matters more than quantity (Ferreira Zandoná and Ritter, 2019; Borges, Torres and Schlueter, 2020).
 - WHO: free sugars below 10% of energy, ideally **5%**, about six teaspoons (25 g) a day (Kidd and Fejerskov, 2016; Borges, Torres and Schlueter, 2020).
-- Limit snacks to 3 or 4 a day (Amaechi et al, 2013); avoid sweet drinks, sugared medicines, bedtime bottles.
+- Limit snacks to 3 or 4 a day (Amaechi et al, 2013); avoid acidic and sugared drinks and bedtime bottles (Ferreira Zandoná and Ritter, 2019).
 - **Diet diary** of 5 to 7 consecutive days including 2 weekend days for high-risk patients (Ferreira Zandoná and Ritter, 2019).
 - Food is "tooth-friendly" if plaque pH stays above 5.7 for 30 minutes after eating (Borges, Torres and Schlueter, 2020).
 - **Fluoride outweighs sugar restriction at population level:** in Basel, wartime sugar cuts raised caries-free children only from about 3% to 15%, while fluoride raised them from about 7% to more than 50% (Amaechi et al, 2013).
@@ -105,13 +104,13 @@ The modern view is predominantly **topical**, so fluoride benefits all ages.
 
 ### 3.5 Pit and fissure sealants
 
-Sealants fill pits and fissures with resin, removing the stagnation niche and making the surface cleansable (Ferreira Zandoná and Ritter, 2019). **Indications:** caries-free but susceptible pits and fissures, and incipient enamel lesions not reaching the DEJ, ideally soon after eruption in high-risk patients. **Technique:** isolation, pumice, **37% phosphoric acid 15-30 s**, wash and dry, apply, light-cure 15 s, check occlusion, review retention. **Resin infiltration** extends the idea to non-cavitated smooth and proximal lesions (Ferreira Zandoná and Ritter, 2019).
+Sealants fill pits and fissures with resin, removing the stagnation niche and making the surface cleansable (Ferreira Zandoná and Ritter, 2019). **Indications:** caries-free but susceptible pits and fissures, and incipient enamel lesions not reaching the DEJ, ideally just after eruption in susceptible patients. **Technique:** isolation, pumice slurry, **37% phosphoric acid 15-30 s**, wash and dry, apply, light-cure 15 s, check occlusion, review retention. **Resin infiltration** extends the idea to non-cavitated smooth and proximal lesions (Ferreira Zandoná and Ritter, 2019).
 
 ### 3.6 Other agents and saliva
 
 - **Chlorhexidine** lowers mutans streptococci but has very limited use for caries (Ferreira Zandoná and Ritter, 2019).
 - **CPP-ACP** remineralises, but most studies did not test it without fluoride; **probiotics** remain unproven (Ferreira Zandoná and Ritter, 2019).
-- **Hyposalivation:** salivary stimulation, medication review, high-fluoride products.
+- **Hyposalivation:** increase salivary function, e.g. xylitol gum, rinses, oral moisturisers (Ferreira Zandoná and Ritter, 2019).
 
 ### 3.7 Community prevention
 
@@ -123,7 +122,7 @@ Water fluoridation, school brushing and sealant programmes, sugar policy and edu
 
 **Detection** asks whether a lesion is present; **diagnosis** adds whether it is **active or arrested** and whether the surface is **cavitated** and cleansable (Kidd and Fejerskov, 2016). Detection records signs; diagnosis estimates the dynamics (Amaechi et al, 2013).
 
-**Prerequisites:** clean teeth (brush or disclose first), isolation with cotton rolls, drying, good light and magnification, systematic surface-by-surface examination (Kidd and Fejerskov, 2016). **Sharp probes should never be pushed** into lesions: they cavitate remineralisable enamel; Boushell and Shugars (2019) recommend the **CPITN ball-ended probe (0.5 mm)** for roughness and forbid the "stick".
+**Prerequisites:** clean teeth (brush or disclose first), isolation with cotton rolls, drying, good light, systematic surface-by-surface examination (Kidd and Fejerskov, 2016). **Sharp probes should never be pushed** into lesions: they cavitate remineralisable enamel; Boushell and Shugars (2019) recommend the **CPITN ball-ended probe (0.5 mm)** for roughness and forbid the "stick".
 
 ### 4.2 Conventional visual-tactile criteria
 
@@ -225,6 +224,8 @@ The treatment plan is a sequenced series of services that controls aetiology, re
 4. **Definitive phase:** definitive restorations, endodontics, prosthodontics.
 5. **Maintenance phase:** recall by risk, 9-12 months for low and 3-4 months for high risk (Boushell and Shugars, 2019).
 
+**Books differ on the phases:** Boushell and Shugars (2019) give the five above; Ferreira Zandoná and Ritter (2019), for a high-risk caries patient, give three (control phase of 2-4 weeks, definitive, maintenance).
+
 **Diagram:** Risk-based caries management flowchart. History and examination → caries risk (low/moderate/high) → each surface: sound / active non-cavitated / cavitated / arrested → prevention, non-operative care or restoration → recall interval by risk → reassess.
 
 ## 6. Conclusion
@@ -236,8 +237,8 @@ Caries is declining but skewed, lifelong and socially patterned, and DMF underco
 1. Kidd E, Fejerskov O. Essentials of Dental Caries. 4th ed. Oxford: Oxford University Press; 2016.
 2. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
 3. Leal S, Ribeiro APD, Hilgert ALS. The Caries Assessment Spectrum and Treatment (CAST) instrument. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.8.
-4. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Chicago: Quintessence; 2013. Ch.5.
-5. Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020. Ch.3 Dental caries; Ch.6 Case selection: treatment planning.
+4. Amaechi BT, van Amerongen JP, van Loveren C, Kidd EAM. Caries management: diagnosis and treatment strategies. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.5.
+5. Sikri VK. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.3, Dental caries; Ch.6, Case selection: treatment planning.
 6. Borges AB, Torres CRG, Schlueter N. Preventive measures and minimally invasive restorative procedures. In: Torres CRG, editor. Modern Operative Dentistry. Cham: Springer Nature Switzerland; 2020. Ch.16.
 7. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 8. Ekstrand KR, Braga MMMB. Visual detection criteria using the International Caries Detection and Assessment System (ICDAS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.6.
@@ -247,5 +248,5 @@ Caries is declining but skewed, lifelong and socially patterned, and DMF underco
 12. Kühnisch J. Near-infrared light transillumination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.15.
 13. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
 14. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20.
-15. Yanıkoğlu FÇ, Tağtekin D. Ultrasound. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
-16. Fontana M, Huysmans MCDNJM. Clinical decision-making in caries management: role of caries detection and assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.23.
+15. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
+16. Fontana M, Huysmans MCDNJM. Clinical decision-making in caries management: role of caries detection and diagnosis. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.23.

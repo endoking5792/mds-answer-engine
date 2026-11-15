@@ -75,3 +75,10 @@ L = {
  'q16_pic_iceberg': ('q16_pic', 'lesions are divided into four groups, D1-D4, depending on the depth of tissue invasion and the degree of cavitation'),
  'q16_d11_ed': ('q16_d11', 'discriminating the outer and inner enamel half (E1, E2) and the outer, middle and inner dentin third (D1-3)'),
 }
+# Audit u1 (2026-11-15): Sturdevant 2e SA Ch.3 (Boushell and Shugars). Offset 19: PDF 107 printed 88, PDF 108 printed 89.
+F_EXTRA['q16_st3'] = (O + 'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019')
+L.update({
+ 'q16_st3_order': ('q16_st3', 'The first is a code for the severity of the caries lesion and the second is for the restorative status of the tooth'),
+ 'q16_d6_first': ('q16_d6', 'The first digit is used to describe the status of the surface'),
+ 'q16_d6_07': ('q16_d6', 'The second digit is used to describe the caries severity (ICDAS score 0–7) at the surface'),
+})

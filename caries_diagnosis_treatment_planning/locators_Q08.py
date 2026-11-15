@@ -78,3 +78,19 @@ L.update({
  'q08_sk_lev77': ('q08_sk', 'Levine (1977) hypothesized'),
  'q08_sk_fe99': ('q08_sk', 'Featherstone (1999) proposed'),
 })
+# Audit u1 (2026-11-15): Harpreet Singh 2nd (2020) Ch.5. Offset 17: PDF 52 printed 35, PDF 57 printed 40 (as Q16/Q17).
+F_EXTRA['q08_sg'] = (O + 'Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh, 2020')
+L.update({
+ 'q08_sg_keyes': ('q08_sg', 'described by Keyes in 1960 as caries triad'),
+ 'q08_sg_newbrun': ('q08_sg', 'as proposed by Newbrun in 1982'),
+ 'q08_st_lowf': ('q08_st', 'Fluoride. Decreased fluoride exposure'),
+ 'q08_st_xero': ('q08_st', 'Use of medications that cause xerostomia'),
+ 'q08_st_age': ('q08_st', 'Children and older adults have increased risks'),
+ 'q08_st_ses': ('q08_st', 'Lower educational attainment'),
+ 'q08_sk_root67': ('q08_sk', 'the root surface is more vulnerable to the demineralization process than enamel'),
+ 'q08_sk_snyder': ('q08_sk', 'Snyder introduced a relatively simple colorimetric test'),
+ 'q08_sk_alban': ('q08_sk', 'The Alban test eliminates the need for melting'),
+ 'q08_sk_reduct': ('q08_sk', 'The test measures the activity of the enzyme reductase'),
+ 'q08_sk_lbcount': ('q08_sk', 'Lactobacillus Colony Count Test'),
+ 'q08_kd_elastic': ('q08_kd', 'A small round elastic is forced between the contact points'),
+})

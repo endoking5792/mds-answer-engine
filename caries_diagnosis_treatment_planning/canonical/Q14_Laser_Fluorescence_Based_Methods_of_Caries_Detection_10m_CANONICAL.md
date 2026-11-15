@@ -6,18 +6,20 @@
 
 ## Introduction
 
-Caries fluoresces under red light of about 650 nm. **DIAGNOdent** (KaVo) appeared in the late 1990s for occlusal sites, and the **DIAGNOdent pen** in the early 2000s for approximal sites as well (Neuhaus and Lussi, 2019), from the work of Hibst and Gall (Muruppel and Fried, 2023).
+Caries fluoresces under red light of about 650 nm. **DIAGNOdent** (KaVo) appeared in the late 1990s for occlusal sites, and the **DIAGNOdent pen** in the early 2000s for approximal sites as well (Neuhaus and Lussi, 2019).
 
 ## Principle
 
 A **655 nm diode laser** excites **bacterial porphyrins**; fluorescence is read through a 680 nm filter, and its intensity correlates with bacterial contamination and so with lesion depth (Neuhaus and Lussi, 2019; Muruppel and Fried, 2023).
 
+**Books differ:** Pickard's places the unit under both light scattering and fluorescence (Banerjee and Watson, 2011), and Sikri (2020) says readings "do not relate exactly to the amount of dentinal decay".
+
 ## Technique (Neuhaus and Lussi, 2019)
 
-1. Clean teeth (paste and calculus give false positives).
-2. Calibrate each tip on the ceramic standard, then on a sound tooth surface.
-3. Occlusal: place the tip without pressure and tilt it in a circle.
-4. Approximal: wedge tip below the contact from buccal and lingual; take the higher value.
+1. Clean teeth (paste, calculus: false positives).
+2. Calibrate each tip on the ceramic standard, then on sound tooth.
+3. Occlusal: tip without pressure, tilted in a circle.
+4. Approximal: tip below the contact, buccal and lingual; take the higher value.
 5. Record the peak reading (0-99).
 
 ## Readings: books differ
@@ -41,17 +43,18 @@ Sensitivity 0.68-0.96 (enamel) and 0.67-0.81 (dentine), specificity 0.6-0.85 and
 
 ## Related methods
 
-- **QLF** uses 488 nm light and, unlike DIAGNOdent, does not correlate with dentine decay (Muruppel and Fried, 2023).
+- **QLF** (light-induced, not laser) is covered separately.
 - **Dye-enhanced laser fluorescence:** demineralised tissue absorbs dye and fluoresces strongly (Sikri, 2020).
 
 ## Conclusion
 
-Laser fluorescence is a quantitative, radiation-free second opinion that needs clean teeth, calibration and clinical confirmation.
+Laser fluorescence is a radiation-free second opinion needing clean teeth, calibration and clinical confirmation.
 
 ## References
 
-1. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17, p. 171-5.
+1. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
 2. Muruppel AM, Fried D. Laser assisted diagnostics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry—Current Concepts. 2nd ed. Cham: Springer Nature Switzerland; 2023. Ch.6.
-3. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
-4. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
-5. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
+3. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.2, Clinical detection: information gathering.
+4. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
+5. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
+6. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.

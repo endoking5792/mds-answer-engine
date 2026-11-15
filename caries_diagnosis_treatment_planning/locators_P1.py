@@ -17,6 +17,10 @@ F_EXTRA = {
  'p1_mt': (B+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', 16, 'Mount et al., 2016'),
  # Kidd and Fejerskov, Essentials of Dental Caries 4th ed (2016) Ch.3. Offset 13 confirmed at PDF 70 (printed 57) and PDF 85 (printed 72).
  'p1_kd': (B+'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
+ # Audit u2 2026-11-14. Pickard's Guide 10th (OUP 2015), Banerjee and Watson, Ch.2. Offset 11: PDF 33 printed 22, PDF 34 printed 23.
+ 'p1_pkg': (T+'Operative_and_Dental_Materials_Textbooks/Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', 11, 'Banerjee and Watson, 2015'),
+ # Sturdevant's 2nd South Asia ed (2019) Ch.3, Boushell and Shugars (contributors list). Offset 19: PDF 106 printed 87, PDF 107 printed 88.
+ 'p1_stu3': (T+'Operative_and_Dental_Materials_Textbooks/Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
 }
 L = {
  # history
@@ -83,4 +87,8 @@ L = {
  'p1_time': ('p1_ek', 'the time spent for the examination ranges from 9 to 14 min'),
  'p1_robust': ('p1_ek', 'the ICDAS is a robust caries recording system'),
  'p1_kd_chart': ('p1_kd', 'seem difficult to chart in the clinic in an easily understandable and pragmatic manner'),
+ # audit u2 additions
+ 'p1_pkg_2004': ('p1_pkg', 'In 2004, the ICDAS (International Caries Detection and Assessment System) Foundation was convened'),
+ 'p1_pkg_micdas': ('p1_pkg', 'A modified ICDAS (mICDAS) carious lesion scoring system (0–4)'),
+ 'p1_stu_order': ('p1_stu3', 'The first is a code for the severity of the caries lesion and the second is for the restorative status of the tooth'),
 }
