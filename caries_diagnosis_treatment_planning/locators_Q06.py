@@ -152,4 +152,14 @@ L = {
  'q06_sik_bf_adj': ('q06_sik', 'The pH of saliva is adjusted at 7.0 by addition of lactic acid or base'),
  'q06_sik_rd_red': ('q06_sik', 'Moderate caries acitivity (high caries activity, if color changes to red prior to 15 miutes)'),
  'q06_sik_al_score': ('q06_sik', 'Color change beginning at the top of'),
+ # u3 audit 2026-11-14: advantage/disadvantage lists, ownership reconstructed from Sikri's two-column layout (see sidecar)
+ 'q06_sik_sn_easy': ('q06_sik', 'Color changes can be noted easily as compared to the counting of bacterial colonies'),
+ 'q06_sik_sn_unclear': ('q06_sik', 'Color change might not be clear'),
+ 'q06_sik_sn_pred': ('q06_sik', 'Cannot predict the extent of expectancy of caries with any reliability for one individual'),
+ 'q06_sik_al_adv': ('q06_sik', 'Ideal for motivation and education'),
+ 'q06_sik_al_subj': ('q06_sik', 'Color change evaluation might be subjective'),
+ 'q06_sik_al_arm': ('q06_sik', 'More armamentarium required'),
+ 'q06_sik_ora_adv': ('q06_sik', 'Not-toxic, simple and inexpensive'),
+ 'q06_sik_ora_inf': ('q06_sik', 'Positive signs can be obtained with other infections of oral cavity'),
+ 'q06_sik_sw_inc': ('q06_sik', 'Predict caries increment, particularly in children'),
 }

@@ -4,7 +4,7 @@
 
 ## Introduction and definitions
 
-**Caries activity** is the increment of active (new and recurrent) lesions over a period of time, a measure of the speed of lesion progression. **Caries activity tests** are investigations that evaluate an individual's susceptibility to caries. They assume that oral micro-organisms and fermentable carbohydrates cause caries, so they measure the microbial and salivary challenge, not the lesion (Sikri, 2020). Being mostly laboratory procedures on saliva or plaque, they are also the **laboratory investigations of dental caries**.
+**Caries activity** is the increment of active (new and recurrent) lesions over a period of time, a measure of the speed of lesion progression. **Caries activity tests** are investigations that evaluate an individual's susceptibility to caries. They assume that oral micro-organisms and fermentable carbohydrates cause caries, so they measure the microbial and salivary challenge, not the lesion (Sikri, 2020). They are also the **laboratory investigations of dental caries**.
 
 ## Uses
 
@@ -24,8 +24,6 @@ Sound theoretical basis; accurate and reproducible results; simple and inexpensi
 | Microbial metabolism | Salivary reductase; Ora (methylene blue–milk) test |
 | Enamel solubility | Fosdick calcium dissolution; Dewar |
 | Salivary host factors | Flow rate; buffer capacity; pH |
-
-They are either **laboratory** tests or **chairside kits** (dip-slides, buffer strips).
 
 ## Microbiological tests
 
@@ -52,34 +50,36 @@ A colorimetric estimate of salivary lactobacilli: 0.2 mL saliva in 10 mL melted 
 | 48 h | Definite caries activity |
 | No change at 72 h | Caries inactive |
 
+It is easier to read than colony counts and inexpensive, but slow, the colour change may be unclear, and salivary organisms may not represent plaque (Sikri, 2020).
+
 **Diagram:** three Snyder tubes at 24, 48 and 72 h, green to yellow, labelled with the interpretation.
 
 ### Alban test
 
-A simplified Snyder test: the medium is soft, so no melting; the patient spits directly onto 5.0 mL of medium, incubated at 37°C for 4 days. The depth of change from bluish green (pH 5.0) to yellow (pH 4 or less) is scored – to ++++; serial tests are read as improved, worse or no change. Meal timing does not significantly affect results (Sikri, 2020). Like Snyder, it reflects salivary, not plaque, acidogenicity.
+A simplified Snyder test: the medium is soft, so no melting; the patient spits directly onto 5.0 mL of medium, incubated at 37°C for 4 days. The depth of change from bluish green (pH 5.0) to yellow (pH 4 or less) is scored – to ++++; serial tests are read as improved, worse or no change. Meal timing does not significantly affect results. It is simple and good for motivation, but colour reading is subjective (Sikri, 2020).
 
 ### Streptococcus mutans tests
 
 - **Level test:** plaque from discrete sites, sampled with tongue blades, is cultured on mitis salivarius bacitracin agar at 37°C for 48 hours in CO2. *S. mutans* appears before lesions start, but is site-specific, plates keep a week, and carriage cannot be told from cariogenic infection (Sikri, 2020).
-- **Dentocult SM:** saliva after five minutes of paraffin chewing is poured over an agar slide; bacitracin discs and a CO2 tablet are added and incubated 48 hours. Blue colonies within the 10–20 mm inhibition zone are compared with a chart. **CariScreen SM** mixes saliva with bacitracin in a buffered diluent first and correlates with standard culture (Sikri, 2020).
+- **Dentocult SM:** paraffin-stimulated saliva is poured over an agar slide; bacitracin discs and a CO2 tablet are added and incubated 48 hours. Blue colonies within the 10–20 mm inhibition zone are compared with a chart. **CariScreen SM** mixes saliva with bacitracin in a buffered diluent first and correlates with standard culture (Sikri, 2020).
 - **CRT Bacteria** (Ivoclar Vivadent) cultures *S. mutans* and lactobacilli together for 48 hours; more than 10⁵ CFU of both scores red, high risk (Ngo, Wolff and Hume, 2016; Ricketts, Chadwick and Hall, 2011).
 - **Replicate technique:** a sucrose–gum-base matrix pressed on the tooth and incubated in broth localises colonies (Sikri, 2020).
 
 ### Swab test
 
-For young children: buccal surfaces are swabbed with a cotton applicator and incubated; the pH change after 48 hours is read on a pH meter (Sikri, 2020).
+For young children: buccal surfaces are swabbed with a cotton applicator and incubated; the pH change after 48 hours is read on a pH meter; no saliva sample is needed (Sikri, 2020).
 
 ## Metabolic and enamel-solubility tests
 
 - **Salivary reductase:** saliva with **diazoresorcinol**, read at 15 minutes: blue non-conducive, orchid slight, red moderate (high if red earlier), colourless highly conducive. Quick, no incubation, but varies with meals and brushing.
-- **Ora test:** 10 mL sterile milk rinsed for 30 seconds; 3.1 mL with 0.12 mL of 0.1% methylene blue is checked every 10 minutes; faster reduction to leucomethylene blue means more organisms. Non-specific.
-- **Fosdick test:** gum-stimulated saliva (paraffin avoided; glucose is needed) is incubated with 0.1 g powdered enamel for four hours at body temperature; activity is directly proportional to calcium dissolved. **Dewar** measures the mixture's pH instead. Complex (Sikri, 2020).
+- **Ora test:** 10 mL sterile milk rinsed for 30 seconds; 3.1 mL with 0.12 mL of 0.1% methylene blue is checked every 10 minutes; faster reduction to leucomethylene blue means more organisms. Simple and non-toxic, but non-specific and positive with other oral infections.
+- **Fosdick test:** gum-stimulated saliva (paraffin avoided; glucose is needed) is incubated with 0.1 g powdered enamel for four hours at body temperature; activity is directly proportional to calcium dissolved. **Dewar** measures the mixture's pH instead. Complex and costly (Sikri, 2020).
 
 ## Salivary investigations
 
 - **Flow rate:** nothing by mouth for 90 minutes; unstimulated spitting for 10 minutes, then paraffin-stimulated collection over 5 minutes. Normal: 0.3–0.5 and 1–2 ml/min (Kidd and Fejerskov, 2016). Stimulated flow below 0.7 ml/min raises risk (Ngo, Wolff and Hume, 2016).
 - **Buffer capacity (laboratory):** 5.0 mL stimulated saliva, collected at least one hour after eating, is adjusted to pH 7.0; the lactic acid needed to reach pH 6.0 is expressed in mEq/L. **Buffer capacity is inversely related to caries** (Sikri, 2020).
-- **Chairside buffer strips** (CRT Buffer, Saliva-Check Buffer, Dentobuff) are read at 5 minutes; resting pH below 5.8 scores red (Ngo, Wolff and Hume, 2016). Clinpro L-pop measures lactic acid from tongue flora (Sikri, 2020).
+- **Chairside buffer strips** (CRT Buffer, Saliva-Check Buffer, Dentobuff) are read at 5 minutes; separately, resting pH below 5.8 scores red (Ngo, Wolff and Hume, 2016).
 
 ## Value and limitations: books differ
 
@@ -88,7 +88,6 @@ For young children: buccal surfaces are swabbed with a cotton applicator and inc
 | Sikri (2020) | Guide risk, motivation and monitoring |
 | Ferreira Zandoná and Ritter (2019) | Bacterial and ATP tests add little to risk level; aid communication |
 | Amaechi et al (2013) | Low counts predict low risk; high counts do not predict high risk |
-| Ngo, Wolff and Hume (2016) | High *S. mutans* occurs with high or low activity |
 | Ricketts, Chadwick and Hall (2011) | Poor predictors; show dietary compliance |
 | Kidd and Fejerskov (2016) | Not needed; assessment is clinical |
 

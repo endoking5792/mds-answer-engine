@@ -18,6 +18,8 @@
 | Cracks | Transillumination, NILT, dyes, cusp-loading devices |
 | Shade | Spectrophotometer, colorimeter, digital camera |
 
+Banerjee and Watson (2011) instead group detection technologies by the physical principle each relies on (light scattering, radiography, fluorescence, electrical conductance) and separate clinical from research-laboratory methods.
+
 ## Digital radiography and three-dimensional imaging
 
 - **Receptors:** CCD or CMOS sensors give an instant image; phosphor plates are film-like and laser-scanned (Göstemeyer and Schwendicke, 2019; Sikri, 2020).
@@ -35,7 +37,7 @@ Demineralised enamel scatters more light and fluoresces less than sound enamel.
 | **NILT** (DIAGNOcam, 2012) | ~780 nm light passed through bone and tooth, imaged occlusally | X-ray free, unlimited repeatability, detects cracks (Kühnisch, 2019) | Cannot show lesion relation to pulp (Kühnisch, 2019) |
 | **QLF** | Blue light; fluorescence loss ΔF gives depth (r = 0.88 with microradiography); red fluorescence ΔR gives bacterial activity | Measures mineral and bacteria together, quantitatively (Kim, 2019) | Sensitive to ambient light (Kim, 2019) |
 | **DIAGNOdent** | 655 nm laser excites bacterial porphyrins; score 0-99 | Second-opinion and monitoring device (Neuhaus and Lussi, 2019) | Spot reading, no image, no cavitation (Neuhaus and Lussi, 2019) |
-| **LED fluorescence camera** (Spectra) | Violet-blue light: porphyrins red, sound enamel green; scale 0-5 | Image-based (Boushell and Shugars, 2019) | Unrestored pits and fissures only |
+| **LED fluorescence camera** (Spectra) | Violet-blue light: porphyrins red, sound enamel green; scale 0-5 | Colour-coded image (Boushell and Shugars, 2019) | Unrestored pits and fissures only |
 | **NIR reflectance, OCT** | Enamel most transparent near 1300 nm; OCT gives cross-sections 3-5 mm into enamel | No stain interference; OCT images caries around restorations (Fried, 2019a; Fried, 2019b) | Not yet commercially available |
 
 **Diagram:** tooth with three light paths: transmitted (lesion dark), reflected (lesion white), fluorescence (lesion less green, more red).
@@ -66,13 +68,13 @@ Dyes or transillumination show the line; **cusp-loading devices** identify propa
 
 ## Shade-matching devices
 
-Computer-assisted shade analysis is more accurate and consistent than the eye; 80% of patients notice a shade difference in their restorations. **Spectrophotometers** read reflectance about every 10 nm; **colorimeters** filter three or four bands; a digital camera alone is not effective. Spot devices show trends; complete-tooth devices map colour but suit only anterior teeth; translucency mapping remains inadequate (Chu et al, 2010).
+Computer-assisted shade analysis is more accurate and consistent than the eye; **Spectrophotometers** read reflectance about every 10 nm; **colorimeters** filter three or four bands; a digital camera alone is not effective. Complete-tooth devices map colour but suit only anterior teeth; translucency mapping remains inadequate (Chu et al, 2010).
 
 ## Clinical significance
 
 - **Adjuncts only:** the standard of care remains visual inspection of clean, dry, well-lit teeth with radiographs as indicated (Boushell and Shugars, 2019).
 - Operative treatment is irreversible, so a **highly specific** aid (few false positives) is preferred (Boushell and Shugars, 2019).
-- **Pulp status** before restoration: large restorations need pulpal and periapical evaluation (Boushell and Shugars, 2019); test teeth considered for restoration, not every tooth (Torres et al, 2020).
+- **Pulp status:** large restorations need pulpal and periapical evaluation (Boushell and Shugars, 2019).
 
 ## Conclusion
 
@@ -82,17 +84,18 @@ Diagnosis has moved from probe and film to non-ionising, quantitative, image-bas
 
 1. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 2. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers; 2020. Ch.7.
-3. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
-4. Price JB. Caries detection with dental cone beam computed tomography. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.13.
-5. Hogan R, Pretty IA, Ellwood RP. Fibre-optic transillumination: FOTI. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.14.
-6. Kühnisch J. Near-infrared light transillumination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.15.
-7. Kim BI. Quantitative light-induced fluorescence. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.16.
-8. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
-9. Fried D. Near-infrared reflectance imaging of caries lesions. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.19. (Fried, 2019a)
-10. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20. (Fried, 2019b)
-11. Amaechi BT. Photothermal radiometry and modulated luminescence: the Canary System. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.18.
-12. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
-13. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
-14. Goldstein RE, Salama MA. Esthetic treatment planning: patient and practice management skills in esthetic treatment planning. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: John Wiley & Sons; 2018. Ch.3.
-15. Torres CRG, Barbe AG, Noack MJ, Wicht MJ. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.
-16. Chu SJ, Devigus A, Paravina RD, Mieleszko AJ. Technology-based shade matching. In: Fundamentals of Color: Shade Matching and Communication in Esthetic Dentistry. 2nd ed. Hanover Park (IL): Quintessence; 2010. Ch.5.
+3. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.2.
+4. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
+5. Price JB. Caries detection with dental cone beam computed tomography. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.13.
+6. Hogan R, Pretty IA, Ellwood RP. Fibre-optic transillumination: FOTI. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.14.
+7. Kühnisch J. Near-infrared light transillumination. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.15.
+8. Kim BI. Quantitative light-induced fluorescence. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.16.
+9. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
+10. Fried D. Near-infrared reflectance imaging of caries lesions. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.19. (Fried, 2019a)
+11. Fried D. Optical coherence tomography for imaging dental caries. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.20. (Fried, 2019b)
+12. Amaechi BT. Photothermal radiometry and modulated luminescence: the Canary System. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.18.
+13. Yanıkoğlu FÇ, Tağtekin D. Use of ultrasound for caries detection. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.21.
+14. Longbottom C, Vernon B. Bioluminescence technology to aid lesion activity assessment. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.22.
+15. Goldstein RE, Salama MA. Esthetic treatment planning: patient and practice management skills in esthetic treatment planning. In: Goldstein RE, Chu SJ, Lee EA, Stappert CFJ, editors. Ronald E. Goldstein's Esthetics in Dentistry. 3rd ed. Hoboken: John Wiley & Sons; 2018. Ch.3.
+16. Torres CRG, Barbe AG, Noack MJ, Wicht MJ. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.
+17. Chu SJ, Devigus A, Paravina RD, Mieleszko AJ. Technology-based shade matching. In: Fundamentals of Color: Shade Matching and Communication in Esthetic Dentistry. 2nd ed. Hanover Park (IL): Quintessence; 2010. Ch.5.

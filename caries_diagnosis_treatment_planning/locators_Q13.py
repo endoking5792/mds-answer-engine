@@ -11,6 +11,10 @@ F_EXTRA = {
  'q13_sik': (B+'Textbook_of_Conservative_and_Restorative_Dentistry.md', 19, 'Sikri, 2020'),
  # Torres (ed), Modern Operative Dentistry (2020) Ch.3 Cariology, Caneppele, Borges, Torres, Rodrigues and Attin. Offset 14 confirmed at PDF 115 (printed 101) and PDF 120 (printed 106).
  'q13_tor': (B+'Modern_Operative_Dentistry.md', 14, 'Caneppele et al., 2020'),
+ # Audit u2 2026-11-14. Pickard's Manual 9th (OUP 2011), Banerjee and Watson, Ch.2. Offset 11: PDF 37 printed 26, PDF 38 printed 27.
+ 'q13_pkm': (B+'Pickards_Manual_of_Operative_Dentistry_9th.md', 11, 'Banerjee and Watson, 2011'),
+ # Kidd and Fejerskov, Essentials of Dental Caries 4th (OUP 2016) Ch.3. Offset 13: PDF 62 printed 49, PDF 84 printed 71.
+ 'q13_kid': (B+'Essentials_of_Dental_Caries_4th.md', 13, 'Kidd and Fejerskov, 2016'),
 }
 L = {
  # definition, history
@@ -63,4 +67,10 @@ L = {
  'q13_lz_hypo': ('q13_las', 'not able to specifically differentiate between caries, hypoplasia, and similar conditions'),
  'q13_lz_smooth': ('q13_las', 'better suited for detection of early lesions and more so on smooth surfaces rather than occlusal or in fissures'),
  'q13_sk_prox': ('q13_sik', 'Inability to detect/monitor interproximal lesions'),
+ # audit u2 additions
+ 'q13_lz_1981': ('q13_las', 'Based on the technique developed by Bjelkhagen and Sundström (1981)'),
+ 'q13_lz_argon': ('q13_las', 'traditionally used Argon laser light at 488 nm to induce fluorescence in a tooth'),
+ 'q13_pkm_qlf': ('q13_pkm', 'Quantitative laser fluorescence'),
+ 'q13_kid_res': ('q13_kid', 'So far they only have research interest as they do not enable the dentist to make a final treatment decision'),
+ 'q13_clin': ('q13_kim', 'is now available for application in clinical dentistry'),
 }

@@ -31,6 +31,8 @@ F_EXTRA = {
  'q03_sh': (O+'Fundamentals_of_Color_Shade_Matching.md', None, 'Chu et al, 2010'),
  # Goldstein's Esthetics in Dentistry 3e Ch.3 (Goldstein and Salama). Offset 17 confirmed at PDF 66 (printed 49) and PDF 72 (printed 55).
  'q03_gol': (O+'Esthetics_in_Dentistry_Goldstein.md', 17, 'Goldstein and Salama, 2018'),
+ # u3 audit 2026-11-14: Pickard's Manual 9e (Banerjee and Watson, OUP 2011) Ch.2 Table 2.5. Offset 11 confirmed at PDF 38 (printed 27) and PDF 39 (printed 28).
+ 'q03_pic': (O+'Pickards_Manual_of_Operative_Dentistry_9th.md', 11, 'Banerjee and Watson, 2011'),
 }
 L = {
  # why new aids
@@ -135,4 +137,17 @@ L = {
  'q03_d17_mon': ('q03_d17', 'it was intended to be used as a device for caries monitoring as well'),
  'q03_stu_deep': ('q03_stu3', 'Photographs of preparations of deep caries lesions provide documentation'),
  'q03_d14_light': ('q03_d14', 'high intensity white light directed tangentially'),
+ # u3 audit 2026-11-14 additions
+ 'q03_pic_cols': ('q03_pic', 'The four columns indicate the basic physical principle on which each technology relies'),
+ 'q03_pic_lab': ('q03_pic', 'The second row gives the technologies useful in the research laboratory'),
+ 'q03_pic_ecm': ('q03_pic', 'Electrical Conductance Measurement (ECM)'),
+ 'q03_sik_req3': ('q03_sik', 'Reproducible and reliable'),
+ 'q03_sik_req4': ('q03_sik', 'Sensitive and specific'),
+ 'q03_stu_csrec': ('q03_stu3', 'accompanied by management recommendations that range from therapeutic prevention to operative intervention'),
+ 'q03_stu_spcol': ('q03_stu3', 'highlights the lesions in different colour ranges'),
+ 'q03_d15_occ': ('q03_d15', 'the camera must be centered over an area of interest parallel to the occlusal plane'),
+ 'q03_d16_blue': ('q03_d16', 'blue visible light with a wavelength of 405 nm induces fluorescence within the tooth structure'),
+ 'q03_d18_pulse': ('q03_d18', 'The Canary System pulses low-energy laser light on the tooth surface'),
+ 'q03_d22_act': ('q03_d22', 'visualization of active enamel demineralization'),
+ 'q03_d12_proc': ('q03_d12', 'Advanced image processing and analysis available'),
 }
