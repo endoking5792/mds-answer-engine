@@ -38,6 +38,6 @@ Pandey 43 °C vs 4.3 °C (dropped decimal); Pandey toluidine blue "12–100 mg/m
 - Jaramillo PIPS protocol: "six 30 s cycles" then "3–30 s cycles"; check printed Fig. 13.6.
 - PIPS and "photo-activated disinfection" wordings are also listed in `irrigants/Q06_RecentAdvances_Detailed.md`; Q05/Q06 here are the full answers. Decide ownership.
 - Laser fluorescence caries detection is covered in Q02 §4 as well as the caries topic.
-- Convert/commit the three laser books to the private mds-textbooks repo if collaborators need them.
+- The three laser books are committed to the private mds-textbooks repo (Laser_Textbooks/, commit acc0f8d, 2026-11-15).
 - Vault copies (Answers + Consolidated, 00_INDEX, manifest.json) not written: vault absent on this Mac.
 - Current Therapy year (2016) taken from other answers; chapter-author order unverified.
