@@ -36,6 +36,10 @@ F_EXTRA = {
  'q05_stu3': (B+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', 19, 'Boushell and Shugars, 2019'),
  # Summitt's 4th ed (2013) Ch.5, Amaechi, van Amerongen, van Loveren and Kidd. No printed page numbers.
  'q05_sum': (B+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Amaechi et al., 2013'),
+ # Audit u2 2026-11-14. Garg N, Garg A, Textbook of Preclinical Conservative Dentistry (Jaypee 2011) Ch.4. Offset 7: PDF 70 (63), PDF 71 (64), PDF 72 (65).
+ 'q05_grg': (B+'Textbook_of_Preclinical_Conservative_Dentistry.md', 7, 'Garg and Garg, 2011'),
+ # Harpreet Singh, Essentials of Preclinical Conservative Dentistry 2nd (Wolters Kluwer India 2020) Ch.5. Offset 17: PDF 52 (35), PDF 57 (40).
+ 'q05_sgh': (B+'Essentials_of_Preclinical_Conservative_Dentistry_Harpreet_Singh.md', 17, 'Singh, 2020'),
 }
 L = {
  # need for advances
@@ -120,4 +124,20 @@ L = {
  'q05_kd_fp': ('q05_kd', 'the more diagnostic techniques are used on the same surfaces, the more likely it is that interpretation of one of the techniques will give a false positive diagnosis'),
  'q05_stu_std': ('q05_stu3', 'The standard of care for diagnosis of caries remains visual inspection of well-illuminated, clean and dry teeth, with use of radiographs as indicated'),
  'q05_las_adj': ('q05_las', 'laser fluorescence can be used as an adjunct to traditional caries detection methods'),
+ # audit u2 additions
+ 'q05_grg_40': ('q05_grg', '40% demineralization has occurred'),
+ 'q05_grg_3040': ('q05_grg', 'may not be evident radiographically until approximately 30'),
+ 'q05_grg_tact': ('q05_grg', 'Tuned aperture computerized tomography'),
+ 'q05_grg_mrmi': ('q05_grg', 'Magnetic resonance microimaging (MRMI)'),
+ 'q05_sgh_tact': ('q05_sgh', 'Tuned aperture computed tomography'),
+ 'q05_tor_violet': ('q05_tor', 'emits violet light (405 nm) that stimulates bacterial metabolites, causing them to glow red'),
+ 'q05_tor_red': ('q05_tor', 'the caries lesions are detected as red color'),
+ 'q05_tor_led': ('q05_tor', 'reflection and the refraction of the tooth using LED light source'),
+ 'q05_sik_selen': ('q05_sik', 'aluminium plate coated with a layer of selenium particles'),
+ 'q05_sik_edge': ('q05_sik', 'additional feature called ‘edge enhancement’ effect'),
+ 'q05_dig_more': ('q05_dig', 'the number of radiographs taken by dentists is increased when using digital devices'),
+ 'q05_dig_zoom': ('q05_dig', 'ability to zoom in and out'),
+ 'q05_dig_edge': ('q05_dig', 'edge-enhancement, which converts contrast gradients'),
+ 'q05_cbct_bw': ('q05_cbct', 'primary interproximal caries without adjacent dental restorations can be diagnosed'),
+ 'q05_cbct_inc': ('q05_cbct', 'The diagnosis of dental caries on dental CBCT images should only be performed during'),
 }
