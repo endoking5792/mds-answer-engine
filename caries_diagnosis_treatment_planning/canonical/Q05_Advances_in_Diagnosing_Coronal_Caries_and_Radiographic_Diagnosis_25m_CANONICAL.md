@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-**Caries diagnosis** includes both **detection** of a lesion and assessment of its **activity** (Amaechi et al., 2013). Conventional visual, tactile and radiographic methods detect only 20-30% of minute early changes (Kim, 2019), and a lesion must lose about 30% of its mineral before it shows on a radiograph (Muruppel and Fried, 2023). Because non-cavitated lesions can be arrested without drilling, newer methods aim to **detect early, quantify, monitor and avoid ionising radiation**. Most work on four physical principles: **light scattering, mineral density, fluorescence and tissue porosity** (Banerjee and Watson, 2011).
+**Caries diagnosis** includes both **detection** of a lesion and assessment of its **activity** (Amaechi et al., 2013). Conventional visual, tactile and radiographic methods have sensitivities of only 20-30% for minute early changes (Kim, 2019), and a lesion must lose about 30% (Muruppel and Fried, 2023) or 30-40% (Garg and Garg, 2011) of its mineral before it shows radiographically. Because non-cavitated lesions can be arrested without drilling, newer methods aim to **detect early, quantify, monitor and avoid ionising radiation**. Most work on four physical principles: **light scattering, mineral density, fluorescence and tissue porosity** (Banerjee and Watson, 2011).
 
 ## 2. Enumeration of advances in coronal caries diagnosis
 
@@ -69,11 +69,11 @@ Two standardised images are subtracted so that unchanged anatomy disappears and 
 
 Logicon Caries Detector reached sensitivity 90.5% and specificity 88.3% (Caneppele et al., 2020), whereas commercial programmes are at best as accurate as human observers (Göstemeyer and Schwendicke, 2019).
 
-### 3.6 CT, CBCT and MRI
+### 3.6 CT, TACT, CBCT and MRI
 
-- **CT** is limited by cost and radiation (Sikri, 2020).
+- **CT** is limited by cost and radiation (Sikri, 2020); **tuned aperture CT** and **magnetic resonance microimaging** are listed as newer techniques (Garg and Garg, 2011; Singh, 2020).
 - **CBCT**, first described in 1998, matches bitewings for unrestored proximal caries but suffers scatter and beam-hardening artefacts near restorations (Price, 2019).
-- **Books differ:** Sikri (2020) describes CBCT as widely used for caries diagnosis with the least radiation hazard; Price (2019) states caries is not a primary indication for CBCT, and Göstemeyer and Schwendicke (2019) put its dose 10-100 times that of bitewings. The safer reading is to assess caries on CBCT taken for other reasons only.
+- **Books differ:** Sikri (2020) describes CBCT as widely used for caries diagnosis with the least radiation hazard; Price (2019) states caries is not a primary indication and should be diagnosed on CBCT only as an incidental finding, and Göstemeyer and Schwendicke (2019) put its dose 10-100 times that of bitewings.
 - **MRI** is not suited for caries detection (Sikri, 2020).
 
 ## 4. Clinical significance
@@ -84,7 +84,7 @@ Logicon Caries Detector reached sensitivity 90.5% and specificity 88.3% (Caneppe
 
 ## 5. Conclusion
 
-Advances in coronal caries diagnosis move from subjective, tissue-destructive probing towards quantitative, radiation-free optical, electrical and biochemical methods, while radiography has moved to digital, subtraction and three-dimensional imaging. Each aids monitoring of early lesions, but none replaces careful visual examination with risk-based bitewings.
+Coronal caries diagnosis has moved from probing towards quantitative, radiation-free optical, electrical and biochemical methods, and radiography towards digital, subtraction and three-dimensional imaging. None replaces careful visual examination with risk-based bitewings.
 
 ## References
 

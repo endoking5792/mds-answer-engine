@@ -14,17 +14,17 @@ Garg and Garg (2011) group them as **visual-tactile** (conventional; advances su
 
 ## Detection, assessment and diagnosis
 
-Three questions are answered for every surface (Kidd and Fejerskov, 2016):
+Three questions per surface (Kidd and Fejerskov, 2016):
 
 1. **Detection:** is a lesion present?
 2. **Diagnosis:** is it active or arrested?
-3. **Cavitation:** is the surface intact or cavitated, and can the patient clean it?
+3. **Cavitation:** is the surface intact, and can the patient clean it?
 
 **Diagram:** clean, dry surface → detection → assessment → diagnosis → no treatment / non-restorative / restore.
 
 ## Prerequisites for examination
 
-Teeth must be **clean, dry and well illuminated** (Longbottom and Ferreira Zandona, 2019). Drying replaces pore water (refractive index 1.3) with air (1.0), increasing contrast with enamel (1.6); **5 s** per surface suffices. A white spot visible on the **wet** tooth is over halfway through enamel; one seen **only after drying** is less than halfway (Amaechi et al., 2013).
+Teeth must be **clean, dry and well illuminated** (Longbottom and Ferreira Zandona, 2019). Drying replaces pore water (refractive index 1.3) with air (1.0), increasing contrast with enamel (1.6). A white spot visible on the **wet** tooth is over halfway through enamel; one seen **only after drying** is less than halfway (Amaechi et al., 2013).
 
 ## Conventional methods
 
@@ -52,7 +52,6 @@ Teeth must be **clean, dry and well illuminated** (Longbottom and Ferreira Zando
 | Electrical conductance (ECM) | Conductance rises with porosity | Probe on the tooth surface (Mount et al., 2016) |
 | Canary System | Photothermal radiometry and luminescence | Examines up to 5 mm deep (Amaechi, 2019) |
 | Optical coherence tomography | Cross-sectional images of internal structure | Axial resolution better than 10 μm (Fried, 2019) |
-| Digital radiography | Electronic sensor, image processing | As accurate as film (Amaechi et al., 2013) |
 
 ## Where the books differ
 
@@ -67,11 +66,11 @@ Both sides agree that a probe must never be forced to "catch" a fissure.
 
 ## Clinical significance
 
-Devices **support, not replace**, visual examination; greater sensitivity is no licence for more surgery (Ferreira Zandona and Longbottom, 2019). The diagnosis drives treatment: arrested lesions need no intervention, active non-cavitated lesions need non-restorative care, and most cavitated lesions are non-cleansable and need restoration (Fontana and Huysmans, 2019).
+Devices **support, not replace**, visual examination; greater sensitivity is no licence for more surgery (Ferreira Zandona and Longbottom, 2019). Diagnosis drives treatment: arrested lesions need none, active non-cavitated lesions non-restorative care, and most cavitated lesions, being non-cleansable, restoration (Fontana and Huysmans, 2019).
 
 ## Conclusion
 
-No single method suffices: clean, dry visual-tactile examination with a scoring system, bitewings and selected adjuncts, repeated over time, is most reliable.
+No single method suffices: a clean, dry visual-tactile examination with a scoring system, bitewings and selected adjuncts, repeated over time, is most reliable.
 
 ## References
 
