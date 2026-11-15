@@ -9,8 +9,8 @@ Rule: one answer per distinct question, written at the highest marks it was aske
 | Q02 | "Discuss Lasers in Conservative Dentistry." 100m | Conservative Dentistry | Jul 2005 Manipal 100m; "Discuss role of lasers in CD" 75m (Nov 2020); "Applications of lasers in operative dentistry" 75m (2020); "Role of LASERs in CD" 50m; 25m x6 (restorative/CD); 10m/7m/5m x9 ("What are lasers and describe its role in CD", "Influence of lasers in operative dentistry" etc.) |
 | Q03 | "Write in detail about LASERS in Endodontics." 25m | Endodontics | "What are the uses of LASERS in endodontics?" 20m; "Lasers in endodontics" 10m/7m x5; "Role of LASER in Endodontics" 10m; "Laser assisted endodontics" 10m; "Enumerate applications" 7m; "Use of lasers in endodontics" / "Laser application in endodontic therapy" 5m |
 | Q04 | "Lasers in cleaning and shaping / biomechanical preparation and root canal disinfection." 10m | Endodontics | "Use of LASER in biomechanical preparation" 5m; "Biomechanical preparation of root canals with laser" 5m; "Lasers in cleaning and shaping" 7m; "Role of lasers in root canal space disinfection" 10m |
-| Q05 | "Laser activated irrigation using PIPS." 10m | Endodontics | — |
-| Q06 | "Photodynamic therapy in Endodontics." 10m | Endodontics | Nov 2021 + Apr 2015 10m; "Light activated disinfection" 7m |
+| Q05 | "Laser activated irrigation using PIPS." 10m | Endodontics | owns this wording (moved from irrigants Q06, 2026-11-15) |
+| Q06 | "Photodynamic therapy in Endodontics." 10m | Endodontics | Nov 2021 + Apr 2015 10m; "Light activated disinfection" 7m; "Photo activated disinfection" 10m Jul 2021, 7m Nov 2016 (moved from irrigants Q06, 2026-11-15) |
 | Q07 | "Laser Doppler flowmetry." 10m | Endodontics | 7m Jul 2016; 10m May 2011; 10m Apr 2001 |
 | Q08 | "Lasers in cavity preparation." 10m | Conservative Dentistry | — |
 | Q09 | "Ozone and its application in endodontics." 25m | Recent Advances (+ CD) | "Ozone treatment" 10m/5m; "Ozone therapy" 10m (CD) |

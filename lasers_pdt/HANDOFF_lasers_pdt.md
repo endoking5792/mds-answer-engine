@@ -36,7 +36,7 @@ Pandey 43 °C vs 4.3 °C (dropped decimal); Pandey toluidine blue "12–100 mg/m
 
 ## Open points
 - Jaramillo PIPS protocol: "six 30 s cycles" then "3–30 s cycles"; check printed Fig. 13.6.
-- PIPS and "photo-activated disinfection" wordings are also listed in `irrigants/Q06_RecentAdvances_Detailed.md`; Q05/Q06 here are the full answers. Decide ownership.
+- PIPS and "photo-activated disinfection" wordings: owned by Q05/Q06 since 2026-11-15 (removed from irrigants Q06 absorbed list; its 6C section points here). "Role of lasers in root canal space disinfection" is still listed in both irrigants Q06 and Q04 here.
 - Laser fluorescence caries detection is covered in Q02 §4 as well as the caries topic.
 - The three laser books are committed to the private mds-textbooks repo (Laser_Textbooks/, commit acc0f8d, 2026-11-15).
 - Vault copies (Answers + Consolidated, 00_INDEX, manifest.json) not written: vault absent on this Mac.

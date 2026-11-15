@@ -4,7 +4,9 @@
 
 **Anchor sitting**: "Recent advances in root canal irrigation and irrigation devices." (50m, Jun 2023, Manipal Paper III mixed) — near-identical to "Discuss in detail about recent trends in Root Canal irrigants and irrigation devices." (25m, Essay, Oct 2023, PII 21-25). Both treated as the same question, answered here in full detail, split into three sub-parts per user's explicit instruction.
 
-**Repeats absorbed across all three sub-parts:** "Recent developments in root canal irrigants" (10m, Oct 2011, PIII 07-15); "Recent developments in root canal irrigation" (10m, Apr 2014, PIII 07-15 — flagged duplicate of Oct 2011 in the repository); "Recent advances in root canal irrigants" (10m, 18-Dec-2023, RG PII RS-5); "Advancements in endodontic irrigation solutions" (10m, 10-Jul-2023, RG PII RS-5); "Recent advances in endodontic irrigants" (7m, Jul 2016, RG PIII RS-3); "Recent irrigants" (10m, undated, RG PIII RS-old); "Recent advances in intra canal irrigants and their usage protocols" (5m, Mar 2018, ABS PIII); "Advances in Intra-canal irrigation" (5m, Feb 2019, ABS PIII); "Modern strategies in root canal disinfection" (10m, Sep 2010, PIII 07-15; 10m, May 2014, RG PIII RS-2); "Endodontic disinfectants with natural indigenous agents" (10m, Dec 2025, PII 21-25); "Role of Herbs in Endodontics" (10m, Apr 2015, PIII 07-15); "Laser activated irrigation using PIPS" (10m, 16-Jun-2022, RG PII RS-5); "Photo activated disinfection" (10m, 14-Jul-2021, RG PII RS-5; 7m, Nov 2016, RG PIII RS-3); "Role of lasers in root canal space disinfection" (10m, Jul/Aug 2023, NU PII); "Newer endodontic irrigants" (7m, Apr 2014, Manipal); "Recent advancement in irrigating devices" (7m, Apr 2011, Manipal — primary device-content already in Q5, cross-referenced here for the newer GentleWave/SWEEPS-level advances specifically).
+**Repeats absorbed across all three sub-parts:** "Recent developments in root canal irrigants" (10m, Oct 2011, PIII 07-15); "Recent developments in root canal irrigation" (10m, Apr 2014, PIII 07-15 — flagged duplicate of Oct 2011 in the repository); "Recent advances in root canal irrigants" (10m, 18-Dec-2023, RG PII RS-5); "Advancements in endodontic irrigation solutions" (10m, 10-Jul-2023, RG PII RS-5); "Recent advances in endodontic irrigants" (7m, Jul 2016, RG PIII RS-3); "Recent irrigants" (10m, undated, RG PIII RS-old); "Recent advances in intra canal irrigants and their usage protocols" (5m, Mar 2018, ABS PIII); "Advances in Intra-canal irrigation" (5m, Feb 2019, ABS PIII); "Modern strategies in root canal disinfection" (10m, Sep 2010, PIII 07-15; 10m, May 2014, RG PIII RS-2); "Endodontic disinfectants with natural indigenous agents" (10m, Dec 2025, PII 21-25); "Role of Herbs in Endodontics" (10m, Apr 2015, PIII 07-15); "Role of lasers in root canal space disinfection" (10m, Jul/Aug 2023, NU PII); "Newer endodontic irrigants" (7m, Apr 2014, Manipal); "Recent advancement in irrigating devices" (7m, Apr 2011, Manipal — primary device-content already in Q5, cross-referenced here for the newer GentleWave/SWEEPS-level advances specifically).
+
+**Wordings moved (2026-11-15):** "Laser activated irrigation using PIPS" (10m, 16-Jun-2022) is now owned by Endodontics / Lasers, Photodynamic Therapy and Emerging Tech **Q05** (Laser-activated irrigation, PIPS), and "Photo activated disinfection" (10m, Jul 2021; 7m, Nov 2016) by **Q06** (Photodynamic therapy in endodontics). Section 6C below remains a short overview inside this recent-advances answer; write Q05 or Q06 for those questions.
 
 ---
 
@@ -61,6 +63,8 @@ Unlike open syringe/needle delivery, GentleWave's closed circuit (simultaneous d
 ---
 
 # 6C. Laser-Activated and Photo-Activated Irrigation
+
+> For the stand-alone 10-mark questions on PIPS and on photo-activated disinfection, see Lasers, Photodynamic Therapy and Emerging Tech Q05 and Q06.
 
 ## STUDY MODE
 
