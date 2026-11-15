@@ -73,7 +73,7 @@ Diagnosis decides whether to intervene, and the treatment plan decides how and i
 
 1. Banerjee A, Watson TF. Diagnosis, prognosis, and care planning: information processing. In: Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: Oxford University Press; 2015. Ch.3.
 2. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
-3. Rose WF Jr, Haveman CW, Davis RD. Patient evaluation and problem-oriented treatment planning. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park (IL): Quintessence; 2013. Ch.2.
+3. Rose WF Jr, Haveman CW, Davis RD. Patient evaluation and problem-oriented treatment planning. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.2.
 4. Sikri VK. Case selection: treatment planning. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.6.
 5. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.3.
 6. Torres CRG, Barbe AG, Noack MJ, Wicht MJ. Diagnosis and treatment planning. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.1.

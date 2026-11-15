@@ -52,7 +52,7 @@ Dyes stain demineralised matrix, not bacteria: at most an adjunct to minimally i
 
 1. Maltz M, Arthur RA, Fatturi-Parolo C. Caries detection dyes. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.9.
 2. Ferreira Zandoná AG, Ritter AV. Dental caries: etiology, clinical characteristics, risk assessment and management. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.2.
-3. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
+3. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.7.
 4. Singh H. Dental caries. In: Essentials of Preclinical Conservative Dentistry. 2nd ed. New Delhi: Wolters Kluwer (India); 2020. Ch.5.
 5. Hilton TJ, Summitt JB. Pulpal considerations. In: Hilton TJ, Ferracane JL, Broome JC, editors. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Hanover Park, IL: Quintessence; 2013. Ch.6.
 6. Banerjee A, Watson TF. Pickard's Guide to Minimally Invasive Operative Dentistry. 10th ed. Oxford: Oxford University Press; 2015. Ch.5, Essentials of minimally invasive operative dentistry.

@@ -55,6 +55,6 @@ Laser fluorescence is a radiation-free second opinion needing clean teeth, calib
 1. Neuhaus KW, Lussi A. DIAGNOdent. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.17.
 2. Muruppel AM, Fried D. Laser assisted diagnostics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry—Current Concepts. 2nd ed. Cham: Springer Nature Switzerland; 2023. Ch.6.
 3. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.2, Clinical detection: information gathering.
-4. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
+4. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.7.
 5. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
 6. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.

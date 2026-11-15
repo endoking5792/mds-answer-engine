@@ -108,7 +108,7 @@ Coronal caries diagnosis has moved from probing towards quantitative, radiation-
 18. Boushell LW, Shugars DA. Patient assessment, examination, diagnosis and treatment planning. In: Ritter AV, Boushell LW, Walter R, editors; Gopikrishna V, adaptation editor. Sturdevant's Art and Science of Operative Dentistry. 2nd South Asia ed. New Delhi: RELX India (Elsevier); 2019. Ch.3.
 19. Schwendicke F, Göstemeyer G. Conventional bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.11.
 20. Zeller G, Young DA, Novy B. The American Dental Association Caries Classification System (ADA CCS). In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.7.
-21. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
+21. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.7.
 22. Göstemeyer G, Schwendicke F. Digital bitewing radiographs. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.12.
 23. Singh H. Dental caries. In: Essentials of Preclinical Conservative Dentistry. 2nd ed. New Delhi: Wolters Kluwer (India); 2020. Ch.5.
 24. Price JB. Caries detection with dental cone beam computed tomography. In: Ferreira Zandona A, Longbottom C, editors. Detection and Assessment of Dental Caries: A Clinical Guide. Cham: Springer Nature Switzerland; 2019. Ch.13.

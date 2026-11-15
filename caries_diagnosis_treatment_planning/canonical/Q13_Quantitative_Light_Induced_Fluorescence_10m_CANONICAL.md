@@ -63,5 +63,5 @@ QLF quantifies and monitors early lesions without radiation but supplements visu
 2. Muruppel AM, Fried D. Laser assisted diagnostics. In: Coluzzi DJ, Parker SPA, editors. Lasers in Dentistry—Current Concepts. 2nd ed. Cham: Springer Nature Switzerland; 2023. Ch.6.
 3. Banerjee A, Watson TF. Pickard's Manual of Operative Dentistry. 9th ed. Oxford: Oxford University Press; 2011. Ch.2, Clinical detection: information gathering.
 4. Caneppele TMF, Borges AB, Torres CRG, Rodrigues JR, Attin T. Cariology. In: Torres CRG, editor. Modern Operative Dentistry: Principles for Clinical Practice. Cham: Springer Nature Switzerland; 2020. Ch.3.
-5. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020 (eBook). Ch.7.
+5. Sikri VK. Diagnosis and diagnostic aids. In: Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. Ch.7.
 6. Kidd E, Fejerskov O. Essentials of Dental Caries. 4th ed. Oxford: Oxford University Press; 2016. Ch.3.
