@@ -8,7 +8,7 @@ About 25-30% of dental patients report a medical condition of potential relevanc
 
 ## General principles
 
-- **History and interview.** History-taking is active: "a good history is taken, not given" (Mustard and Gulabivala, 2014); use a questionnaire supplemented by an interview, covering medications, allergies, previous dental problems and compliance (Johnson and Epstein, 2019). Allergy is the commonest positive finding; hypersensitivity to gutta percha, amide anaesthetics, hypochlorite and nickel has been reported (Aminoshariae and Fouad, 2021). Ginkgo, garlic, ginger, ginseng, feverfew and vitamin E inhibit platelet aggregation (Johnson and Epstein, 2019). Review cardiovascular, endocrine, respiratory, hepatic and renal systems (Aminoshariae and Fouad, 2021). Severe apprehension may need premedication or sedation (Aminoshariae and Fouad, 2021).
+- **History and interview.** History-taking is active: "a good history is taken, not given" (Mustard and Gulabivala, 2014); use a questionnaire supplemented by an interview, covering medications, allergies, previous dental problems and compliance (Johnson and Epstein, 2019). Allergy is the single most common positive finding (Johnson and Epstein, 2019); allergy to endodontic materials is rare, but hypersensitivity to gutta percha, amide anaesthetics, hypochlorite and nickel is reported (Aminoshariae and Fouad, 2021). Ginkgo, garlic, ginger, ginseng, feverfew and vitamin E inhibit platelet aggregation (Johnson and Epstein, 2019). Review cardiovascular, endocrine, respiratory, hepatic and renal systems (Aminoshariae and Fouad, 2021). Severe apprehension may need premedication or sedation (Aminoshariae and Fouad, 2021).
 - **Examination.** Record blood pressure, heart rate, respiratory rate and temperature (Johnson and Epstein, 2019); INR for warfarin, HbA1c for diabetes (Aminoshariae and Fouad, 2021).
 - **Risk assessment.** ASA II is well-controlled disease; ASA III or above almost always needs medical consultation (Johnson and Epstein, 2019). ASA is only a guide: gather more from patient and physician (Rosenberg and Malek, 2021). The Multi-Dimension Risk Assessment Model scores 1 to 4 for physical status, procedural stress and anxiety; uncomplicated nonsurgical root canal treatment scores 2, extractions or surgical root canal 3; a total of 10-12 means consultation strongly advised and possible hospital treatment (Johnson and Epstein, 2019).
 - **Consultation.** Be specific, document it; responsibility for safe treatment rests with the dentist (Johnson and Epstein, 2019). Some patients should be treated in hospital (Wynne, 2025).
@@ -46,11 +46,15 @@ About 25-30% of dental patients report a medical condition of potential relevanc
 
 | Issue | Books |
 |---|---|
-| Elective care after infarction | Under 1 month (Johnson and Epstein, 2019); 30 days (Rosenberg and Malek, 2021); at least 6 months, some 1 year (Mustard and Gulabivala, 2014). |
-| Pacemakers | Locator and pulp tester should be safe (Johnson and Epstein, 2019); devices sensitive to electromagnetic signals (Wynne, 2025). |
+| Recent infarction: vasoconstrictor | Avoid or extreme caution within 1 month (Johnson and Epstein, 2019); contraindicated within 6 months (Wynne, 2025); discuss with physician if within 7-30 days (Rosenberg and Malek, 2021). |
+| Recent infarction: elective care | Postponed within 30 days (Rosenberg and Malek, 2021); deterred within 6 months (Wynne, 2025); avoided for at least 6 months, some say 1 year (Mustard and Gulabivala, 2014). |
+| Pacemakers | Manufacturers warn against locators and pulp testers, but interference seems very low (Johnson and Epstein, 2019); devices are sensitive to such signals, though newer shielded models generally are not affected (Wynne, 2025). |
 | Gutta-percha allergy | Reports exist (Aminoshariae and Fouad, 2021); no proven cases (Mustard and Gulabivala, 2014). |
-| Neutrophils for cancer patients | Above 1,000 (Johnson and Epstein, 2019); above 2000 (Wynne, 2025). |
+| Neutrophils for cancer patients | Above 1,000 (Johnson and Epstein, 2019); granulocytes or neutrophils above 2000 (Rosenberg and Malek, 2021; Wynne, 2025). |
 | HIV antibiotics | Routine use contraindicated (Johnson and Epstein, 2019); cover when granulocytes exceed 500 (Wynne, 2025). |
+| HIV, all treatment | CD4 above 350 (Rosenberg and Malek, 2021); above 400 (Sikri, 2019). |
+| Diabetes, antibiotics | None for surgery if well controlled (Johnson and Epstein, 2019); routine prophylactic antibiotics (Sikri, 2019). |
+| Endocarditis regimen | Single dose 30-60 minutes before (Johnson and Epstein, 2019); 1 hour before (Gopikrishna, 2021); penicillin V 2.0 g 1 hour before then 1.0 g 6-hourly (Sikri, 2019). |
 
 ## Conclusion
 
@@ -62,3 +66,5 @@ History, risk grading, consultation and stress reduction come first; the conditi
 3. Mustard A, Gulabivala K. The medical-endo interface and patients with special needs. In: Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.15.
 4. Rosenberg PA, Malek M. Case assessment and treatment planning. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.5.
 5. Wynne C. Endodontics in systemically compromised patients. In: Jain P, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.13.
+6. Sikri VK. Endodontic case selection: treatment planning. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.10.
+7. Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.8 Selection of cases for treatment (no individual chapter author is named in the file, so the editor is cited).

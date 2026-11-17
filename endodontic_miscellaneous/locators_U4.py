@@ -1,0 +1,68 @@
+import os
+# Added locators from the second-reader audit of Q09, Q10, Q11 (AUDIT_u4.md). Every key starts with u4_.
+T = os.environ.get('MDS_TEXTBOOKS', '/home/user/mds-textbooks/')
+O = T+'Operative_and_Dental_Materials_Textbooks/'
+F_EXTRA = {
+ 'u4_coh7': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/07_7_Tooth_morphology_and_pulpal_access_cavities.md', None, 'Gutmann and Fan, 2021'),
+ 'u4_coh13': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/13_13_Structure_and_functions_of_the_dentin_pulp_complex.md', None, 'Fristad and Berggreen, 2021'),
+ 'u4_wal2': (T+'Principles_and_practice_of_endodontic_2002_compressed_Chapterwise/02_Part_2_Biology_of_the_Dental_Pulp_and_Periradicular_Tissues.md', None, 'Walton and Torabinejad, 2002'),
+ 'u4_stu': (O+'Sturdevants_Art_and_Science_of_Operative_Dentistry_2e_South_Asian.md', None, 'Sturdevant 2e South Asian ed.'),
+ 'u4_mar': (O+'Operative_Dentistry_Marzouk.md', None, 'Marzouk'),
+ 'u4_ing1': (T+'Ingles_Endodontics_7th_Chapterwise/01_Chapter_1_Anatomy_and_Morphology_of_Teeth_and_Their_Root_Can.md', None, 'Cleghorn and Christie, 2019'),
+ 'u4_and': (T+'Textbook_and_Color_Atlas_of_Traumatic_Chapterwise/20_20_Injuries_to_Developing_Teeth.md', 16, 'Andreasen, Andreasen and Andersson, 2007'),
+ 'u4_jain': (T+'Current_Therapy_in_Endodontics_Chapterwise/09_10_pdf_p_228_283.md', 26, 'Johnson et al, 2016'),
+ 'u4_coh11': (T+'Cohen_s_Pathways_of_the_Pulp_12th_edi_Louis_H_Berman_Chapterwise/11_11_Periradicular_surgery.md', None, 'Johnson, Fayad and Berman, 2021'),
+ 'u4_mah': (T+'The_Art_and_Science_of_Contemporary_Surgical_Endodontics_Mahmoud_2_Chapterwise/08_Chapter_8_Local_Anesthesia_and_Hemostasis.md', 13, 'Johnson and Abedi, 2017'),
+ 'u4_gut': (T+'Problem_Solving_in_Endodontics_James_L_Gutmann_Chapterwise/08_Chapter_8_Problem_Solving_in_Tooth_Isolation_Access_Openings.md', 11, 'Gutmann and Lovdahl, 2011'),
+ 'u4_ing24': (T+'Ingles_Endodontics_7th_Chapterwise/24_Chapter_24_Surgical_Endodontics.md', -89, 'Torabinejad, Sabeti and Glickman, 2019'),
+ 'u4_tor20': (T+'Endodontics_Principles_and_Practice_Chapterwise/20_20_Apical_Microsurgery.md', None, 'Torabinejad 6e Ch.20'),
+ 'u4_pg': (O+'Pickards_Guide_to_Minimally_Invasive_Operative_Dentistry.md', None, 'Banerjee and Watson, 2015'),
+ 'u4_mnt': (O+'Preservation_and_Restoration_of_Tooth_Structure_Mount.md', None, 'Mount et al (eds), 2016'),
+ 'u4_mod': (O+'Modern_Operative_Dentistry.md', None, 'Torres (ed), 2020'),
+ 'u4_sum': (O+'Summitts_Fundamentals_of_Operative_Dentistry.md', None, 'Hilton, Ferracane and Broome, 2013'),
+ 'u4_ing37': (T+'Ingles_Endodontics_7th_Chapterwise/37_Chapter_37_Endodontic_Therapy_in_the_Elderly_Patient.md', -151, 'Levy, Talim and Rotstein, 2019'),
+ 'u4_sik29': (T+'Vimal_K_Sikri_Essentials_of_Endodontics_2nd_Ed_Chapterwise/29_29_Geriatric_Endodontics.md', None, 'Sikri, 2e'),
+}
+BOOK_EXTRA = {}
+L = {
+ # ---- Q09 ----
+ 'u4_coh7_cshape': ('u4_coh7', 'The main cause for C-shaped roots and canals is the failure of Hertwig’s epithelial root sheath to fuse on either the buccal or lingual root surface'),
+ 'u4_coh7_acc': ('u4_coh7', 'They are formed by the entrapment of periodontal vessels in Hertwig’s epithelial root sheath during mineralization'),
+ 'u4_wal_lat1': ('u4_wal2', 'They form when a localized area of root sheath is fragmented before dentin formation'),
+ 'u4_wal_lat2': ('u4_wal2', 'become entrapped in the proliferating epithelial root sheath'),
+ 'u4_wal_pat': ('u4_wal2', 'its pattern regulates whether the root will be wide or narrow, straight or curved, long or short, or single or multiple'),
+ 'u4_wal_hyal': ('u4_wal2', 'hyaline layer ofHopewell-Smith'),
+ 'u4_coh13_stone': ('u4_coh13', 'Pulp stones may also form around epithelial cells (i.e., remnants of'),
+ 'u4_stu_groove': ('u4_stu', 'which an infolding of the inner enamel epithelium and Hertwig'),
+ 'u4_ing1_groove': ('u4_ing1', 'A deep radicular groove is formed by Hertwig’s root sheath that extends to the apical root end'),
+ 'u4_and_short': ('u4_and', 'Radiographic examination reveals typical foreshortening of the root'),
+ # ---- Q10 ----
+ 'u4_jain_fscol': ('u4_jain', 'it produces a dark reddish-brown color in the surgical field, which hampers visualization'),
+ 'u4_jain_fsconc': ('u4_jain', 'Ferric sulfate (15.5%–20%) causes coagulation of proteinaceous material'),
+ 'u4_jain_cut': ('u4_jain', 'its high acidity makes it caustic to bony tissues, and it should be avoided, despite its good hemostatic properties'),
+ 'u4_coh_heat': ('u4_coh11', 'The detrimental effect of applying heat to bone is proportional to both temperature and the duration of application'),
+ 'u4_coh_cautns': ('u4_coh11', 'The effect of cautery in the bony crypt during periradicular surgery has not been studied to date'),
+ 'u4_coh_gelt': ('u4_coh11', 'However, these effects were transitory and did not impair long-term bone healing'),
+ 'u4_coh_fscur': ('u4_coh11', 'provided the surgical wound was adequately curetted and irrigated with saline'),
+ 'u4_mah_cs': ('u4_mah', 'calcium sulfate was found to be superior to the other two products'),
+ 'u4_mah_150': ('u4_mah', 'twice as much blood loss occurred when the 1:100,000 epineph'),
+ 'u4_mah_r2': ('u4_mah', 'Racemic epinephrine cotton pellets (Racellet #2, Pascal) are often used'),
+ 'u4_gut_p': ('u4_gut', '#2 Pellets have 1.15 mg'),
+ 'u4_ing_surg': ('u4_ing24', 'caused the most intense'),
+ 'u4_ing_cv': ('u4_ing24', 'it appears that the systemic cardiovascular'),
+ 'u4_tor20_list': ('u4_tor20', 'Such a list could include ferric sulfate, aluminum chloride, collagen, hemostatic gauze, racemic epinephrine, or electro-cautery'),
+ # ---- Q11 ----
+ 'u4_pg_5000': ('u4_pg', 'Prescribe a high fluoride concentration toothpaste (5000 ppm F)'),
+ 'u4_pg_varn': ('u4_pg', 'Apply fluoride varnish to existing lesions every 3 months'),
+ 'u4_pg_stim': ('u4_pg', 'Saliva production may be stimulated by chewing a xylitol-containing'),
+ 'u4_ing37_25': ('u4_ing37', 'More than 25% of patients over 65 complain of xerostomia'),
+ 'u4_ing37_third': ('u4_ing37', 'In one-third of cases, xerostomia does not reflect a real reduction in salivary flow rate'),
+ 'u4_ing37_dem': ('u4_ing37', 'may lead to an increased demand for endodontic treatment in the elderly'),
+ 'u4_sik29_30': ('u4_sik29', 'Xerostomia affects more than 30% of population above the age of'),
+ 'u4_mnt_01': ('u4_mnt', 'Less than 0.1 mL/minute resting flow = xerostomia'),
+ 'u4_mnt_07': ('u4_mnt', 'Less than 0.7 mL/minute stimulated flow = pathology'),
+ 'u4_mnt_norm': ('u4_mnt', 'Normal resting flow rate for pooled saliva = 0.3–0.4 mL/'),
+ 'u4_mod_sev': ('u4_mod', 'A flow between 0.05 and 0.5 indicates a'),
+ 'u4_sum_02': ('u4_sum', 'with an unstimulated flow rate of less than 0.2 mL/min'),
+ 'u4_sum_01': ('u4_sum', 'an unstimulated flow rate of less than 0.1 mL/min is considered to be below normal'),
+}
