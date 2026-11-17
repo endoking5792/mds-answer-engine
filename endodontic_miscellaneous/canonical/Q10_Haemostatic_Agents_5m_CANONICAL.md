@@ -9,16 +9,16 @@ Unless otherwise cited, the table follows Johnson, Fayad and Berman (2021).
 | Agent | Action | Caution |
 |---|---|---|
 | Epinephrine pellet | Vasoconstriction; Racellet #3 holds 0.55 mg racemic epinephrine | Retained cotton fibres impair healing |
-| Ferric sulfate | Agglutinates tissue proteins, plugs capillary orifices (Johnson and Abedi, 2017) | Abscess if left in wound |
+| Ferric sulfate | Agglutinates tissue proteins, plugs capillary orifices (Johnson and Abedi, 2017) | Abscess if left in wound; dark stain hides field (Johnson et al, 2016) |
 | Aluminium chloride | Haemagglutination | Necrosis; remove completely (Johnson et al, 2016) |
 | Collagen | Platelet aggregation, fibrin clot in 2 to 6 minutes (Johnson and Abedi, 2017) | Adheres to wet surfaces |
-| Gelatin sponge, oxidised cellulose | Intrinsic clotting; physical barrier | Surgicel delays healing |
+| Gelatin sponge, oxidised cellulose | Gelatin: intrinsic clotting; cellulose: barrier | Delay healing |
 | Calcium sulfate | Physical barrier | Healing normal |
-| Cautery | Coagulates protein | Bone damage rises with heat |
+| Cautery | Coagulates protein | Bone damage rises with heat and duration |
 | Bone wax | Tamponade | No longer recommended |
 
 **Uses.**
-- **Root-end surgery:** a dry field for root-end filling.
+- **Root-end surgery:** dry field for root-end filling.
 - **Perforation:** first a dry cotton pellet, then small amounts of epinephrine 1:50,000 or ferric sulfate; avoid strong agents and formocresol (Gutmann and Lovdahl, 2011).
 - **Pulp exposure:** sodium hypochlorite 1.5% to 5.25% (Bogen, Dammaschke and Chandler, 2021).
 

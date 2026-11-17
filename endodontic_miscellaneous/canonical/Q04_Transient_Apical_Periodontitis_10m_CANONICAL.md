@@ -6,14 +6,14 @@
 
 ## Definition and terminology
 
-Transient apical periodontitis is a short-lived, self-limiting inflammation of the apical periodontal ligament. The textbooks consulted do not use it as a heading; it corresponds to primary symptomatic (formerly acute) apical periodontitis, a painful inflammation of the periodontium from trauma, irritation or infection (Gopikrishna, 2021). Postendodontic discomfort lasting a few days to a week is attributed to occlusal disturbance and "transient apical periodontal inflammation" (Gopikrishna, 2021). It is distinct from transient apical breakdown, the self-resolving radiographic resorption after luxation (American Association of Endodontists, 2012).
+No textbook consulted defines transient apical periodontitis. Read as a short-lived, self-limiting inflammation of the apical periodontal ligament (interpretation), it corresponds to primary symptomatic (formerly acute) apical periodontitis, a painful inflammation of the periodontium from trauma, irritation or infection (Gopikrishna, 2021). The nearest textbook wording is postendodontic discomfort lasting a few days to a week, attributed to occlusal disturbance and "transient apical periodontal inflammation" (Gopikrishna, 2021). It is distinct from transient apical breakdown, the self-resolving radiographic resorption after luxation (American Association of Endodontists, 2012).
 
 ## Aetiology
 
 | Tooth | Causes (Gopikrishna, 2021) |
 |---|---|
 | Vital | Abnormal occlusal contact; high restoration; wedged toothpick or food; blow. |
-| Treated or necrotic | Debris or bacteria, irrigant or medicament forced through the apex; extruded filling; overinstrumentation |
+| Treated or necrotic | Debris or bacteria, irrigant or medicament forced through the apex; extruded filling; root perforation; overinstrumentation |
 
 Walton and Ruparel (2021) found no definitive treatment risk factor for flare-ups.
 
@@ -23,11 +23,11 @@ Dilated vessels, neutrophils and serous exudate distend the ligament and extrude
 
 ## Clinical features
 
-Pain and tenderness on biting and percussion, with a feeling that the tooth is extruded (Gopikrishna, 2021); no swelling (Sikri, 2019). Vitality tests are normal when the cause is occlusal; the lamina dura is intact (Sikri, 2019).
+Pain and tenderness on biting and percussion, with a feeling that the tooth is extruded (Gopikrishna, 2021); no swelling (Sikri, 2019). Vitality tests are normal when the cause is occlusal, but a necrotic pulp does not respond (Sikri, 2019). Radiographs show no change in a vital tooth; a nonvital tooth may show slight widening of the ligament space and loss of apical lamina dura (Gopikrishna, 2021).
 
 ## Diagnosis
 
-Pain on percussion is the classical feature (Gopikrishna, 2021). A tooth left high after restoration is percussion tender while the pulp remains reversible (Sedgley, Silva and Fouad, 2021). No periradicular radiolucency separates it from secondary symptomatic apical periodontitis, and absence of swelling from acute apical abscess (Gopikrishna, 2021).
+Pain on percussion is the classical feature (Gopikrishna, 2021). No periradicular radiolucency separates it from secondary symptomatic apical periodontitis, and absence of swelling from acute apical abscess (Gopikrishna, 2021).
 
 ## Management
 
@@ -44,10 +44,8 @@ Favourable; symptoms during treatment do not affect the final outcome (Gopikrish
 
 1. Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer (India); 2021. Ch.5 Diseases of the periradicular tissues; Ch.21 Nonsurgical endodontic retreatment.
 2. American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.
-3. Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.6 Diseases of periradicular tissues.
-4. Walton R, Ruparel NB. Endodontic emergencies and therapeutics. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.9.
-5. Ricucci D, Rôças IN, Siqueira JF Jr. Periradicular disease. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.6.
-6. Sedgley C, Silva R, Fouad AF. Pathogenesis of pulp and periapical diseases. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.1.
-7. Teixeira FB, Cheung GSP. Management of endodontic emergencies. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.19.
-8. Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.10 Management of acute emergencies and traumatic dental injuries.
-9. Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.
+3. Walton R, Ruparel NB. Endodontic emergencies and therapeutics. In: Torabinejad M, Fouad AF, Shabahang S, editors. Endodontics: Principles and Practice. 6th ed. St Louis: Elsevier; 2021. Ch.9.
+4. Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.6 Diseases of periradicular tissues.
+5. Teixeira FB, Cheung GSP. Management of endodontic emergencies. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.19.
+6. Gulabivala K, Ng YL, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.10 Management of acute emergencies and traumatic dental injuries.
+7. Lin LM, Huang GT-J. Pathobiology of apical periodontitis. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.16.

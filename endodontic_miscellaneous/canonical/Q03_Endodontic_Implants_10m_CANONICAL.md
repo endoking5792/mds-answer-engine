@@ -5,39 +5,40 @@
 **Answer blueprint:** Definition → Rationale → Indications → Contraindications → Materials → Technique → Limitations → Prognosis
 
 ## Definition and synonyms
-An endodontic implant is **a rod placed in the root canal and extending into osseous tissue to stabilize the tooth** (American Association of Endodontists, 2012). Synonyms: endodontic stabilizer, diodontic implant, endosseous endodontic implant (Sikri, 2019).
+An endodontic implant is **a rod placed in the root canal and extending into osseous tissue to stabilize the tooth** (American Association of Endodontists, 2012). Synonyms: endodontic stabilizer, diodontic implant (Sikri, 2019).
 
 ## Rationale
-The purpose is to increase the root-crown ratio and so stabilize the tooth; unlike an osseointegrated implant it has no communication with the oral environment (Walton and Torabinejad, 2002; Sikri, 2019).
+It increases the root-crown ratio and so stabilizes the tooth; a potential advantage over osseointegrated implants is no communication with the oral cavity (Walton and Torabinejad, 2002).
 
 ## Indications (Sikri, 2019)
 - Periodontally involved teeth needing stabilization
-- Transverse root fracture needing removal of the apical fragment
+- Transverse root fracture needing apical fragment removal
 - Pulpless tooth with an unusually short root
 
 ## Contraindications (Sikri, 2019)
 - Periapical rarefaction or bone infection
 - Less than 6.0 mm of bone beyond the apex; sinus, mandibular canal or mental foramen nearby
+- Previous apical radiation, pockets communicating with the apex, excessive curvature, failed root canal treatment
 
 ## Materials and designs
 | Item | Statement |
 |---|---|
-| Vitallium (65% cobalt, 30% chromium, 5% molybdenum), chrome-cobalt pins | Widely used first (Sikri, 2019) and Weine's stabilizer material (Weine, 2004); Sikri reports discontinuation after surface corrosion |
-| Titanium, single-crystal sapphire | Current materials (Sikri, 2019); alumina or zirconia ceramics also listed (Anusavice et al, 2013) |
-| Designs | Smooth-taper, threaded-taper (higher retention, but dentin stress) and porous-surface implants that allow bony ingrowth (Sikri, 2019) |
+| Vitallium (65% cobalt, 30% chromium, 5% molybdenum) | Weine's pin, called inert and well tolerated (Weine, 2004); Sikri reports surface corrosion and discontinuation (Sikri, 2019) |
+| Titanium, single-crystal sapphire | Current materials (Sikri, 2019). Phillips: alloy or alumina/zirconia pins, difficult to seal at the tooth-bone transition (Anusavice et al, 2013) |
+| Designs | Smooth-taper, threaded-taper (higher retention, dentin stress), porous-surface (bony ingrowth) (Sikri, 2019) |
 
 ## Technique
-1. Splint a mobile tooth, prepare the canal to at least size 60 (Sikri, 2019); Weine: minimum size 80 (Weine, 2004).
-2. Access far labially; ream through the apex 6 to 10 mm into bone (Weine, 2004).
-3. Select a pin matching the last reamer, fit it 0.5 to 1 mm short of the working length (Weine, 2004).
-4. Section it so 5 to 7 mm remains in the canal (Weine, 2004).
-5. Cement with glass-ionomer or AH 26, avoiding extrusion (Sikri, 2019).
+1. Splint a mobile tooth; enlarge canal to at least size 60 (Sikri, 2019) or a minimum of size 80 (Weine, 2004).
+2. Access far labially; ream 6 to 10 mm into bone (Weine, 2004).
+3. Fit a pin matching the last reamer 0.5 to 1 mm short of working length (Weine, 2004).
+4. Section it leaving 5 to 7 mm in the canal (Weine, 2004).
+5. Cement with glass-ionomer or AH 26 without extrusion (Sikri, 2019).
 
-## Advantages and limitations
-Advantages: better crown-root ratio, no oral communication (Sikri, 2019). Limitations: poor apical seal, sealer extrusion, limited length near anatomic structures (Sikri, 2019); difficulty of anatomic adaptation (Walton and Torabinejad, 2002); cement breakdown from flexion (Barnes, 1984).
+## Limitations
+Poor apical seal, sealer extrusion, limited length near anatomic structures (Sikri, 2019); difficult anatomic adaptation (Walton and Torabinejad, 2002); cement breakdown from flexion (Barnes, 1984).
 
 ## Prognosis
-Early results are good, but periodontal lesions, increasing mobility or periradicular pathosis usually appear with time (Walton and Torabinejad, 2002). Weine reports only one stabilizer still functional, use now virtually nil, and lack of apical seal as the most frequent cause of failure (Weine, 2004). Sikri (2019) rates them better than prosthetic implants; the other books discourage use.
+Initial evaluation is usually very good, but periodontal lesions, increasing mobility or periradicular pathosis often appear with time (Walton and Torabinejad, 2002). Weine: of 50 or more placed, one still functional, use now virtually nil, lack of apical seal the commonest failure cause (Weine, 2004). Failure is often related to coronal or apical leakage or periodontal communication with the apex (Walton and Torabinejad, 2002). Sikri (2019) considers them better than prosthetic implants; Walton and Torabinejad report that poor prognosis has discouraged use.
 
 ## References
 1. American Association of Endodontists. Glossary of Endodontic Terms. 8th ed. Chicago: AAE; 2012.

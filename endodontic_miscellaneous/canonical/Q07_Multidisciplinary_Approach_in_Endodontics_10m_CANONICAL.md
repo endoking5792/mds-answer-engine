@@ -10,18 +10,19 @@ Successful dental management relies on integration and collaboration between spe
 ## Clinical situations by discipline
 | Discipline | Clinical situation | Team approach |
 |---|---|---|
-| **Periodontics** | Perio-endo lesions: primary endodontic, primary periodontal, true combined (Gulabivala, Darbar and Ng, 2014); infection spreads between pulp and periodontium (Sikri, 2019) | Each disease needs a different regimen (Gulabivala, Darbar and Ng, 2014); where origin is uncertain, start with periodontal debridement and review (Gulabivala, Darbar and Ng, 2014). Primary periodontal lesions: periodontal treatment first (Sikri, 2019). Root resection or hemisection needs root canal treatment, ideally before surgery; GTR is used with endodontic surgery (Sikri, 2019) |
-| **Orthodontics** | Crown loss needing forced eruption; resorption near the crest (Weine and Potashnick, 2004) | Endodontics first (Weine and Potashnick, 2004); the combined approach offers benefits periodontal surgery alone does not (Weine and Potashnick, 2004) |
-| **Restorative dentistry and prosthodontics** | Restorability, coronal seal, abutment teeth, implants | Judge restorability before endodontic treatment (Gulabivala and Ng, 2014); a cast restoration needs at least 2 mm sound dentine (Gulabivala and Ng, 2014); place an early permanent coronal seal (Gulabivala and Ng, 2014); root-treated abutments tend to fail mechanically more than vital ones (Gulabivala and Ng, 2014); implant-retained crowns avoid damaging adjacent teeth (Gulabivala and Ng, 2014) |
-| **Oral surgery and oral medicine** | Periapical surgery; lesions that mimic periapical pathosis | Dentists must know non-endodontic lesions that mimic periapical disease (Leeson and Gulabivala, 2014); refer to a specialist where suspicious (Leeson and Gulabivala, 2014) |
+| **Periodontics** | Perio-endo lesions: primary endodontic, primary periodontal, true combined (Gulabivala, Darbar and Ng, 2014); infection spreads between pulp and periodontium (Sikri, 2019) | Each disease needs a different regimen (Gulabivala, Darbar and Ng, 2014); where origin is uncertain, start with periodontal debridement and review after 6 to 8 weeks (Gulabivala, Darbar and Ng, 2014). Primary periodontal lesions: periodontal treatment first (Sikri, 2019). Root resection needs root canal treatment, ideally before surgery; GTR accompanies endodontic surgery (Sikri, 2019) |
+| **Orthodontics** | Crown loss needing forced eruption; crestal resorption (Weine and Potashnick, 2004) | Endodontics first when therapy is certain to be needed (Weine and Potashnick, 2004); benefits not available with periodontal surgery alone (Weine and Potashnick, 2004) |
+| **Restorative dentistry and prosthodontics** | Restorability, coronal seal, abutments | Judge restorability before endodontic treatment (Gulabivala and Ng, 2014); a cast restoration needs at least 2 mm sound dentine (Gulabivala and Ng, 2014); place an early permanent coronal seal (Gulabivala and Ng, 2014); root-treated abutments may fail mechanically more than vital ones, though the truth probably lies between views (Gulabivala and Ng, 2014) |
+| **Oral surgery and oral medicine** | Periapical surgery; lesions that mimic periapical pathosis | Dentists must know non-endodontic lesions mimicking periapical disease (Leeson and Gulabivala, 2014); refer if suspicious (Leeson and Gulabivala, 2014) |
 | **Paediatric dentistry** | Grossly carious primary teeth | Decide retain or extract (Sikri, 2019); root canal treatment is the treatment of choice to retain them, with aims as in adults (Sikri, 2019) |
-| **Medicine** | Medically compromised, anxious or disabled patients | Assess the patient and modify endodontic care; sedation or general anaesthesia when needed (Gulabivala, Darbar and Ng, 2014) |
+| **Medicine** | Medically compromised, anxious or disabled patients | Assess, modify endodontic care; sedation or general anaesthesia when needed (Gulabivala, Darbar and Ng, 2014) |
 
 ## Role of the multidisciplinary approach
-1. **Diagnosis:** separates lesions of endodontic, periodontal or other origin.
-2. **Treatment planning:** restorability and periodontal prognosis decide whether a tooth is retained.
-3. **Sequencing:** endodontic, periodontal, orthodontic and restorative stages are correctly ordered.
-4. **Outcome:** teeth single-discipline care might lose are saved.
+Reasoning from the table above rather than citing any one book, the team approach serves four purposes:
+1. **Diagnosis:** separating lesions of endodontic, periodontal or other origin.
+2. **Treatment planning:** restorability and periodontal prognosis help decide whether a tooth is retained.
+3. **Sequencing:** ordering endodontic, periodontal, orthodontic and restorative stages.
+4. **Outcome:** plausibly saving teeth that single-discipline care might lose.
 
 ## References
 1. Miglani S, Bhutiani N. Harmonizing endodontics and orthodontics: preventing and managing common complications. In: Jain PR, editor. Common Complications in Endodontics. Cham: Springer; 2025. Ch.11.
