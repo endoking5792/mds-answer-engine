@@ -10,23 +10,23 @@ Diabetes is hyperglycaemia resulting from an absolute or conditional deficiency 
 
 ## Effect on pulp and periapex
 
-Diabetics have more periapical lesions. Overall outcome is similar, but with a preoperative lesion they are significantly less likely to heal (Aminoshariae and Fouad, 2021). Mechanisms: more virulent microorganisms, excess bone-resorptive cytokines and advanced glycation end products (Aminoshariae and Fouad, 2021); impaired neutrophil chemotaxis, adherence and phagocytosis (Huber, 2012); limited pulpal collateral circulation (Escudier, 2017). Diabetes and/or hypertension reduced retention of root-filled teeth over 10 years (Aminoshariae and Fouad, 2021).
+Diabetics have more periapical lesions. Overall outcome is similar, but with a preoperative lesion they are significantly less likely to heal (Aminoshariae and Fouad, 2021). Possible mechanisms: more virulent microorganisms, excess bone-resorptive cytokines and advanced glycation end products (Aminoshariae and Fouad, 2021); impaired neutrophil chemotaxis, adherence and phagocytosis (Huber, 2012); limited pulpal collateral circulation (Escudier, 2017). Diabetes and/or hypertension reduced retention of root-filled teeth over 10 years (confounded by periodontal disease; Aminoshariae and Fouad, 2021).
 
 Books differ: one study found the disease does not influence response to treatment, others a lower success with pretreatment lesions (Rosenberg and Malek, 2021).
 
 ## Pre-treatment assessment
 
-Ask for a glucometer reading each visit; a fasting level below 80 to 120 mg/dL warrants carbohydrate (Rosenberg and Malek, 2021). A well-controlled patient is a candidate for endodontics (Rosenberg and Malek, 2021) and can be regarded as normal; suspected or poorly controlled diabetes needs medical evaluation first (Huber, 2012).
+Ask patients to bring a glucometer; a reading below the fasting range (80 to 120 mg/dL) may call for carbohydrate (Rosenberg and Malek, 2021). A well-controlled patient is a candidate for endodontics (Rosenberg and Malek, 2021) and can be regarded as normal; suspected or poorly controlled diabetes needs medical evaluation first (Huber, 2012).
 
 ## Treatment modifications
 
 - Morning appointment, normal meal and medication; avoid insulin peaks (Wynne, 2025).
-- Short visits; stress raises cortisol and epinephrine and so glucose, so sedate if apprehensive (Wynne, 2025).
-- With hypertension or recent infarction, limit epinephrine to two cartridges of 1:100,000 (Rosenberg and Malek, 2021).
+- Short visits; stress raises cortisol, epinephrine and glucose, so sedate if apprehensive (Wynne, 2025).
+- Epinephrine: at most two cartridges of 1:100,000 with hypertension or recent infarction (Rosenberg and Malek, 2021); none in brittle diabetes, where only acute infection is treated (Wynne, 2025).
 
 ## Infection and antibiotics
 
-Treat infection promptly and aggressively (Huber, 2012): drainage, pulpectomy, antibiotics, warm rinses (Wynne, 2025). Surgery in a well-controlled patient needs no prophylaxis; in poor control consider it, for altered neutrophil function (Johnson and Epstein, 2019). Rosenberg and Malek (2021) restrict it to brittle diabetes with poor oral health and fasting glucose above 200 mg/dL. Antibiotics raise candidiasis risk (Johnson and Epstein, 2019).
+Treat infection promptly and aggressively (Huber, 2012): drainage, pulpectomy, antibiotics, warm rinses (Wynne, 2025). Surgery in a well-controlled patient needs no prophylaxis; in poor control consider it, for altered neutrophil function (Johnson and Epstein, 2019). Rosenberg and Malek (2021) say it may be given in brittle diabetes with poor oral health and fasting glucose above 200 mg/dL; Sikri (2019) prescribes it as standard.
 
 ## Hypoglycaemia
 
@@ -44,3 +44,4 @@ Discuss the possible negative effect on outcome with the patient (Rosenberg and 
 4. Huber MA. Interrelationship of pulp and systemic disease. In: Hargreaves KM, Goodis HE, Tay FR, editors. Seltzer and Bender's Dental Pulp. 2nd ed. Chicago: Quintessence; 2012. Ch.20.
 5. Escudier MP. General and systemic aspects of endodontics. In: Harty's Endodontics in Clinical Practice. 7th ed. Edinburgh: Elsevier; 2017. Ch.2.
 6. Rosenberg PA, Malek M. Case assessment and treatment planning. In: Berman LH, Hargreaves KM, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.5.
+7. Sikri VK. Endodontic case selection: treatment planning. In: Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019. Ch.10.

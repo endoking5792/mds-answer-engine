@@ -4,7 +4,7 @@
 
 ## Introduction
 
-About 25-30% of dental patients report a medical condition of potential relevance (Johnson and Epstein, 2019). Systemic disease may accelerate pulpal pathosis or alter treatment outcome (Aminoshariae and Fouad, 2021). The aim is safe treatment: identify the risk, then modify the procedure.
+About 25-30% of dental patients report a medical condition of potential relevance (Johnson and Epstein, 2019). Systemic disease may accelerate pulpal pathosis or alter treatment outcome (Aminoshariae and Fouad, 2021).
 
 ## General principles
 
@@ -12,7 +12,7 @@ About 25-30% of dental patients report a medical condition of potential relevanc
 - **Examination.** Record blood pressure, heart rate, respiratory rate and temperature (Johnson and Epstein, 2019); INR for warfarin, HbA1c for diabetes (Aminoshariae and Fouad, 2021).
 - **Risk assessment.** ASA II is well-controlled disease; ASA III or above almost always needs medical consultation (Johnson and Epstein, 2019). ASA is only a guide: gather more from patient and physician (Rosenberg and Malek, 2021). The Multi-Dimension Risk Assessment Model scores 1 to 4 for physical status, procedural stress and anxiety; uncomplicated nonsurgical root canal treatment scores 2, extractions or surgical root canal 3; a total of 10-12 means consultation strongly advised and possible hospital treatment (Johnson and Epstein, 2019).
 - **Consultation.** Be specific, document it; responsibility for safe treatment rests with the dentist (Johnson and Epstein, 2019). Some patients should be treated in hospital (Wynne, 2025).
-- **Stress reduction.** Morning, short appointments; anxiolytic premedication or nitrous oxide (Johnson and Epstein, 2019); adequate pain control is essential (Johnson and Epstein, 2019).
+- **Stress reduction.** Morning, short appointments; anxiolytic premedication or nitrous oxide; adequate pain control is essential (Johnson and Epstein, 2019).
 - **Local anaesthesia.** Up to 0.036 mg epinephrine (about two cartridges of 1:100,000) is accepted in cardiovascular disease (Johnson and Epstein, 2019; Rosenberg and Malek, 2021). Avoid or use extreme caution after infarction within a month, stroke within 6 months, or bypass within 3 months (Johnson and Epstein, 2019). For intraosseous injection use 3% mepivacaine without vasoconstrictor (Johnson and Epstein, 2019).
 - **Antibiotics.** Prophylaxis only for the highest-risk endocarditis groups (Rosenberg and Malek, 2021); none for prosthetic joints (Johnson and Epstein, 2019).
 - **Infection control and emergencies.** Standard precautions, as for any patient, including those with HIV (Rosenberg and Malek, 2021). Angina, hypoglycaemia, anaesthetic reactions and seizures are the commonest office emergencies (Johnson and Epstein, 2019).
@@ -54,7 +54,7 @@ About 25-30% of dental patients report a medical condition of potential relevanc
 | HIV antibiotics | Routine use contraindicated (Johnson and Epstein, 2019); cover when granulocytes exceed 500 (Wynne, 2025). |
 | HIV, all treatment | CD4 above 350 (Rosenberg and Malek, 2021); above 400 (Sikri, 2019). |
 | Diabetes, antibiotics | None for surgery if well controlled (Johnson and Epstein, 2019); routine prophylactic antibiotics (Sikri, 2019). |
-| Endocarditis regimen | Single dose 30-60 minutes before (Johnson and Epstein, 2019); 1 hour before (Gopikrishna, 2021); penicillin V 2.0 g 1 hour before then 1.0 g 6-hourly (Sikri, 2019). |
+| Endocarditis regimen | 30-60 minutes before (Johnson and Epstein, 2019); 1 hour before (Gopikrishna, 2021); penicillin V 2.0 g 1 hour before then 1.0 g 6-hourly (Sikri, 2019). |
 
 ## Conclusion
 
