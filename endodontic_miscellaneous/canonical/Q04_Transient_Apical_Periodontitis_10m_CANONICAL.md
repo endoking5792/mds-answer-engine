@@ -23,7 +23,7 @@ Dilated vessels, neutrophils and serous exudate distend the ligament and extrude
 
 ## Clinical features
 
-Pain and tenderness on biting and percussion, with a feeling that the tooth is extruded (Gopikrishna, 2021); no swelling (Sikri, 2019). Vitality tests are normal when the cause is occlusal, but a necrotic pulp does not respond (Sikri, 2019). Radiographs show no change in a vital tooth; a nonvital tooth may show slight widening of the ligament space and loss of apical lamina dura (Gopikrishna, 2021).
+Pain and tenderness on biting and percussion, with a feeling that the tooth is extruded (Gopikrishna, 2021); no swelling (Sikri, 2019). Vitality tests are normal when the cause is occlusal, but a necrotic pulp may not respond (Sikri, 2019). Radiographs show no change in a vital tooth; a nonvital tooth may show slight widening of the ligament space and loss of apical lamina dura (Gopikrishna, 2021).
 
 ## Diagnosis
 
